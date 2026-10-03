@@ -17,3 +17,6 @@ User-agent: Google-Extended
 Allow: /
 
 Sitemap: https://zondags.be/sitemap.xml
+
+User-agent: *
+Disallow: /_tools/

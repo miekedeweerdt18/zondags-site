@@ -1,0 +1,34 @@
+{
+ "path": "sectoren/vergaderzalen.html",
+ "title": "Poetshulp voor vergaderzalen: tafels, glas en klaarzetten",
+ "desc": "Poetshulp voor vergaderzalen: tafels, stoelen, glazen wanden en de buitenkant van schermen en whiteboards, en de zaal klaarzetten voor de volgende vergadering.",
+ "eyebrow": "Vergaderzalen",
+ "h1": "Poetshulp voor vergaderzalen",
+ "lead": "Een vergaderzaal wordt door veel mensen gebruikt en door niemand opgeruimd. Een vaste Zondag neemt tafels, stoelen en glas af en zet de zaal klaar voor de volgende vergadering.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor vergaderzalen: één vaste persoon, je Zondag, voor vergadertafels, stoelen, de buitenkant van schermen en whiteboards, glazen wanden en het klaarzetten voor de volgende vergadering, overdag op weekdagen. Wat op een bord staat en de apparatuur zelf blijven van jou. De factuur is een gewone dienstenfactuur op naam van je vennootschap.",
+ "facts": ["Tafels, stoelen en glazen wanden", "Schermen en whiteboards langs buiten", "Zaal klaarzetten voor de volgende vergadering", "Wat op het bord staat blijft staan", "Factuur aan je vennootschap"],
+ "sections": [
+  {"h2": "Een zaal van iedereen, en dus van niemand", "p": [
+   "Een vergaderzaal heeft iedereen nodig en niemand onderhoudt ze. Na een lange sessie blijven bekers, notities, kruimels en een halfvolle karaf achter, en de volgende groep begint in de rommel van de vorige. Bij klanten maakt dat meteen indruk, en niet in positieve zin. Een vaste beurt maakt het verschil tussen een zaal die klaarstaat en een zaal die eerst opgeruimd moet worden."]},
+  {"h2": "Wat je Zondag in de zaal doet", "p": [
+   "<ul class=\"ticks\"><li>Vergadertafel afnemen en koffie- of theevlekken verwijderen</li><li>Stoelen afnemen: zitting, leuningen en poten</li><li>Glazen wanden en deuren, met aandacht voor vingerafdrukken</li><li>Schermen en whiteboards langs de buitenkant</li><li>Vloer en plinten, ook onder de tafel</li><li>Prullenbakken leegmaken en bekers weghalen</li></ul>"]},
+  {"h2": "Schermen en whiteboards: alleen langs de buitenkant", "p": [
+   "Je Zondag neemt de rand, het frame, de voet en de achterkant van schermen en whiteboards af. Wat op het bord geschreven staat, wist je Zondag niet: dat blijft het werk van wie het schreef. Apparatuur gaat alleen langs de buitenkant onder de doek. Er worden geen kabels losgekoppeld en geen instellingen aangeraakt."]},
+  {"h2": "Klaarzetten voor de volgende vergadering", "p": [
+   "Een zaal die voor de eerste vergadering klaarstaat, geeft rust. Je Zondag zet de stoelen terug rond de tafel zoals jij het wilt, legt de afstandsbediening op de vaste plek, zet een karaf met glazen klaar als je dat vraagt en laat het scherm uit. In de intake tekenen we het standaardbeeld af: hoeveel stoelen, welke opstelling en wat er op tafel hoort.",
+   "Plan die beurt vroeg in de ochtend vóór de eerste vergadering of over de middag. Staat er een vergadering 's avonds of in het weekend gepland, dan zetten we de zaal klaar op de werkdag ervoor."]},
+  {"h2": "Kleine gewoontes voor wie de zaal verlaat", "p": [
+   "Wie de zaal verlaat, neemt zijn eigen beker en papieren mee, zet de stoelen recht en wist het bord. Een briefje aan de deur is genoeg. Dat vraagt een halve minuut en bespaart je Zondag, en de volgende groep, een hoop werk."]},
+  {"h2": "Voorbeeld: twee zalen, waarvan één met glazen wanden", "p": [
+   "Stel: je kantoor heeft twee vergaderzalen, waarvan één met glazen wanden aan de gang. Op maandag en donderdag komt je Zondag vroeg in de ochtend, nog voor de eerste vergadering: tafels, stoelen, glas en vloer. Vergaderen er klanten op vrijdag, dan plan je een extra beurt op donderdag. De rest van het kantoor krijgt zijn gewone beurt in dezelfde ronde."]},
+  {"h2": "Factuur en aan de slag", "p": [
+   "Het onderhoud van de vergaderzalen valt onder dat van je kantoor: een beroepskost op een gewone dienstenfactuur op naam van je vennootschap. Je accountant bevestigt hoe je dit voor jouw situatie boekt. Je begint met een aanvraag via het formulier of de chat. Een telefoontje volgt binnen één werkdag en de eerste 2 uur zijn gratis."]}
+ ],
+ "faq": [
+  {"q": "Hoe vaak moet een vergaderzaal gepoetst worden?", "a": "Dat hangt af van hoe vaak de zaal gebruikt wordt en door wie. Een zaal die dagelijks vol zit, vraagt meerdere beurten per week. Een zaal voor een paar vergaderingen per week volstaat met een vaste beurt."},
+  {"q": "Wist de poetshulp het whiteboard?", "a": "Nee. De rand, het frame en de voet krijgen een beurt, maar wat erop geschreven staat, wist je Zondag niet. Dat blijft het werk van wie het schreef, tenzij je iets anders afspreekt."},
+  {"q": "Kan de poetshulp de zaal klaarzetten voor een klantenvergadering?", "a": "Ja. Je Zondag zet de stoelen, de afstandsbediening en eventueel een karaf met glazen klaar volgens het beeld dat je in de intake vastlegt. Dat gebeurt overdag op weekdagen, vóór de vergadering."},
+  {"q": "Mag de poetshulp apparatuur en kabels aanraken?", "a": "Alleen de buitenkant. Je Zondag koppelt niets los, raakt geen instellingen aan en verplaatst geen apparatuur. Het technische onderhoud van beamers, schermen en kabels blijft bij jou of je IT-leverancier."},
+  {"q": "Hoe houd je glazen wanden vrij van vingerafdrukken?", "a": "Met een zachte doek en een vaste volgorde, van boven naar beneden, elke beurt opnieuw. Zo stapelen sporen zich niet op. Wat er bij glas langs binnen komt kijken, staat op <a href=\"diensten/ramen-binnen-wassen.html\">ramen binnen wassen</a>."}
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "path": "sectoren/coworkings.html",
+ "title": "Poetshulp voor coworkings en gedeelde kantoren",
+ "desc": "Poetshulp voor coworkings en gedeelde kantoren: flexplekken, keuken en vergaderruimtes met veel wisselende gebruikers, door één vaste Zondag.",
+ "eyebrow": "Gedeelde kantoren",
+ "h1": "Poetshulp voor coworkings en gedeelde kantoren",
+ "lead": "Waar elke dag andere mensen komen werken, is één vaste persoon het enige dat niet wisselt. Een Zondag houdt flexplekken, keuken en vergaderruimtes op hetzelfde niveau.",
+ "answer": "Gedeelde kantoren en coworkings in West- en Oost-Vlaanderen laten bij Zondags (zondags.be) flexplekken, keuken, sanitair en vergaderruimtes onderhouden door één vaste persoon, op vaste momenten overdag. De beurten vallen vroeg in de ochtend of over de middag, nooit 's avonds of in het weekend. Een dienstenfactuur komt op naam van de vennootschap achter de coworking.",
+ "facts": ["Flexplekken, keuken en vergaderruimtes", "Vaste ronde, geen beurt per boeking", "Vroeg in de ochtend of over de middag", "Koffie en keukenvoorraad aanvullen mogelijk", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "Veel gebruikers, één standaard", "p": [
+   "Neem een coworking met flexplekken, enkele vergaderruimtes, een keuken en een lounge. Leden komen en gaan, de ene om negen uur, de andere pas na de lunch. Niemand voelt zich verantwoordelijk voor de koelkast of voor de tafel waar gisteren pizza op stond. Een gedeeld kantoor werkt enkel als iemand het niveau bewaakt, en dat hoort niet bij de job van je community manager."]},
+  {"h2": "Wat er per zone gebeurt", "p": [
+   "<ul class=\"ticks\"><li>Flexplekken: tafels afnemen, stoelen en vloer</li><li>Keuken: aanrecht, koelkast, vaatwasser en koffiehoek</li><li>Vergaderruimtes: tafels, stoelen en vloer</li><li>Sanitair: een vaste ronde bij elke beurt</li><li>Onthaal en lounge: zitplekken afnemen en afval buiten zetten</li></ul>",
+   "Whiteboards laten we ongemoeid, tenzij je anders afspreekt. Er staat vaak werk op dat niemand kwijt wil."]},
+  {"h2": "Wanneer poetsen in een gebouw dat hele dagen draait", "p": [
+   "Vroeg in de ochtend, voor de eerste leden binnenkomen, is het rustigste moment. Over de middag, wanneer veel leden gaan lunchen, kan ook. Wat niet kan: 's avonds na sluitingstijd of in het weekend. Dat is voor coworkings het klassieke poetsmoment, dus als dat voor jou een vereiste is, zijn wij niet de juiste partij. Heeft jouw coworking overdag stille uren, dan past het wel."]},
+  {"h2": "Afspraken met de leden", "p": [
+   "Een Zondag houdt de ruimte bij, de leden zorgen voor de basis. Een kort huisreglement doet veel: de eigen beker afwassen, een bord in de vaatwasser zetten, geen etensresten aan een flexplek laten, de vergaderruimte netjes achterlaten. Spreek ook een vaste ronde af voor de koelkast, bijvoorbeeld op vrijdag, zodat je Zondag die op de laatste werkdag van de week kan uitwassen."]},
+  {"h2": "Meer gebruik, meer momenten", "p": [
+   "De drukte in een coworking schommelt. Na een evenement, bij een nieuwe lichting leden of wanneer iedereen na de vakantie terug is, zijn er meer uren nodig. Je boekt gewoon uren bij of past het plan aan. Voor een grote beurt na een evenement bestaat ook een eigen uitleg: <a href=\"sectoren/na-een-receptie.html\">poetshulp na een receptie of personeelsfeest</a>. Tussen twee boekingen van een vergaderruimte door poetsen doen we niet: de beurten volgen vaste momenten."]},
+  {"h2": "Gedeelde kantoren, facturen en een eerste gesprek", "p": [
+   "Zit je met enkele bedrijven in één gebouw, dan kan de beheerder of één van de vennootschappen de opdracht geven. Zondags factureert aan die vennootschap, en hoe je de kosten onderling verdeelt, regel je met je collega's en je accountant. Voor de exploitant zijn het beroepskosten: de gemeenschappelijke ruimtes horen bij de activiteit. Dienstencheques zijn voor particulieren en dus geen route. Heeft de exploitant recht op btw-aftrek, dan is de btw in principe terug te vragen.",
+   "De eerste stap is een aanvraag via het formulier of de chat. Binnen één werkdag volgt een telefoontje, en daarna een rondgang door het gebouw: wie gebruikt welke zone, wanneer is het er rustig en waar liggen de sleutels? Uit die rondgang komt het zondagsplan."]}
+ ],
+ "faq": [
+  {"q": "Kan mijn coworking gepoetst worden terwijl er leden aan het werk zijn?", "a": "Het kan, maar stille uren zijn beter. Voor de eerste leden aankomen of tijdens de lunch werkt je Zondag zonder dat iemand gestoord wordt. Wat je kiest, leg je vast in het zondagsplan."},
+  {"q": "Kan er 's avonds na sluitingstijd gepoetst worden?", "a": "Nee. Na sluitingstijd werken we niet, en in het weekend ook niet. Moet het poetsen absoluut 's avonds gebeuren, dan past een andere partij beter."},
+  {"q": "Wie vult de koffie en de keukenvoorraad aan?", "a": "Dat kan je Zondag als boodschappenronde doen: koffie, thee, melk, water en keukenrol. Jullie leggen een basislijst vast, en je Zondag vult die elke week aan op de afgesproken dag."},
+  {"q": "Op wiens naam komt de factuur bij een gedeeld kantoor?", "a": "Op naam van de vennootschap die de opdracht geeft, bijvoorbeeld de beheerder van het gebouw of de exploitant van de coworking. De onderlinge kostenverdeling regelen jullie zelf met de accountant."},
+  {"q": "Kan ik een extra beurt inplannen na een evenement?", "a": "Ja. Een extra beurt of een grote poetsbeurt kan als losse opdracht naast je vaste plan, of je boekt tijdelijk meer uren bij. Zeker na een evenement of bij een nieuwe lichting leden is dat handig."}
+ ]
+}

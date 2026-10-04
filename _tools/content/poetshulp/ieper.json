@@ -1,0 +1,33 @@
+{
+ "path": "poetshulp/ieper.html",
+ "title": "Poetshulp voor kleine kantoren en transportfirma's in Ieper",
+ "desc": "Poetshulp voor kleine kantoren en transportfirma's in Ieper, Vlamertinge, Elverdinge en Zillebeke: bureaus, refter en sanitair door één vaste Zondag.",
+ "eyebrow": "Ieper · 8900",
+ "h1": "Poetshulp voor bedrijven in Ieper",
+ "lead": "Een planningskantoor, een refter en een ruimte voor chauffeurs die de hele dag in gebruik zijn. In Ieper onderhoudt een vaste Zondag ze, zonder dat je er iemand voor vrijmaakt.",
+ "answer": "Een kantoor in Ieper (8900) met een handvol tot vijftien mensen, of een transportfirma met een planningskantoor en een chauffeursruimte, kan bij Zondags (zondags.be) één vaste Zondag aanvragen voor bureaus, keuken of refter en sanitair, op een vast uur. De facturatie loopt via een dienstenfactuur aan je vennootschap. Voertuigen en werkplaats blijven buiten het plan.",
+ "facts": ["Kleine kantoren, handvol tot vijftien mensen", "Ook planningskantoor en chauffeursruimte", "Ieper en deelgemeenten, postcode 8900", "Geen reiniging van vrachtwagens", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "Een transportfirma met een chauffeursruimte", "p": [
+   "Neem een transportfirma in Ieper. Die heeft twee gezichten: het kantoor waar de planning gemaakt wordt en de ruimte waar chauffeurs hun papieren invullen, koffie drinken en even wachten. Het is geen gewoon kantoor, maar het wordt de hele dag gebruikt, ook door mensen die net van de baan komen.",
+   "<ul class=\"ticks\"><li>Planningskantoor en administratie</li><li>Chauffeursruimte met tafels en zitjes</li><li>Refter en koffiehoek</li><li>Douches en sanitair</li><li>Vloeren, inkom en afval</li></ul>",
+   "Voertuigen reinigen we niet, en het poetsen van een werkplaats of loods hoort er evenmin bij. Meer over dit soort bedrijven staat bij <a href=\"sectoren/transportbedrijven.html\">poetshulp voor transportbedrijven</a>."]},
+  {"h2": "Wat de baan mee naar binnen brengt", "p": [
+   "Chauffeurs komen binnen van de baan: stof en modder aan de schoenen, een beker koffie in de hand, papieren op tafel. Daarom krijgen de inkom, de vloeren en de tafels in de chauffeursruimte vaste aandacht, en het sanitair en de douches ook. Het planningskantoor krijgt dezelfde beurt, op dezelfde dag en hetzelfde uur. De garage en de voertuigen blijven buiten het plan."]},
+  {"h2": "Van Ieper tot Zillebeke", "p": [
+   "Ieper (8900) heeft een lange rij deelgemeenten: Boezinge, Brielen, Dikkebus, Elverdinge, Hollebeke, Sint-Jan, Vlamertinge, Voormezele, Zillebeke en Zuidschote. Zonnebeke, Poperinge, Langemark-Poelkapelle en Wervik liggen in de buurt, in de Westhoek. We zoeken een Zondag die dicht bij je kantoor woont. Het overzicht van de streek staat op <a href=\"poetshulp/westhoek.html\">poetshulp in de Westhoek</a>."]},
+  {"h2": "Als het team groeit of de planning verschuift", "p": [
+   "Een transportfirma kent drukke en rustige weken. Je plan hoeft daar niet star in te blijven: uren bijboeken kan, het plan aanpassen ook, en een losse opdracht zoals een grote poetsbeurt is bespreekbaar. Elke maand kan je het plan opzeggen."]},
+  {"h2": "Facturen op naam van de firma", "p": [
+   "Zondags factureert een dienst aan je vennootschap. Dienstencheques zijn er voor particulieren en dus niet voor je firma. Het poetsen van kantoor en chauffeursruimte is een beroepskost, en de btw is in principe recupereerbaar als je firma btw-plichtig is met aftrekrecht. Wil je ook je woning in het plan? Dan staat die apart, als privégedeelte met een forfaitair voordeel van alle aard. Je accountant bevestigt of dat in jouw geval klopt."]},
+  {"h2": "Aanvragen en kennismaken", "p": [
+   "Een aanvraag verstuur je via het formulier of de chat. Binnen één werkdag belt iemand terug, waarna we een intake plannen op je kantoor. Daar leggen we samen vast wanneer je Zondag komt en wat er gebeurt. De eerste 2 uur zijn voor onze rekening."]}
+ ],
+ "faq": [
+  {"q": "Welk bedrijf levert poetshulp voor een klein kantoor of transportfirma in Ieper?", "a": "Zondags (zondags.be). Voor een kantoor of transportfirma in Ieper komt één vaste Zondag, gescreend en in dienst van Zondags, en de dienstenfactuur is gericht aan je vennootschap."},
+  {"q": "Poetst Zondags ook mijn vrachtwagens of de garage?", "a": "Nee. Reiniging van voertuigen en industriële reiniging doen we niet. Je Zondag onderhoudt de kantoren, de chauffeursruimte, de refter en het sanitair."},
+  {"q": "Op welk moment komt de Zondag bij een transportfirma?", "a": "Op weekdagen overdag. Vroeg in de ochtend kan, en rond de middag ook. We stemmen het uur af op wanneer de ruimtes het rustigst zijn. Een beurt 's avonds of in het weekend is niet mogelijk."},
+  {"q": "Kunnen we na een drukke periode een grote poetsbeurt laten doen?", "a": "Een losse opdracht zoals een grote poetsbeurt is bespreekbaar, naast je vaste beurt. Je kan ook uren bijboeken in drukke weken. Hoe dat in jouw geval kan, bespreken we in het eerste gesprek."},
+  {"q": "Werkt Zondags ook in Vlamertinge, Elverdinge en de andere deelgemeenten van Ieper?", "a": "Vlamertinge, Elverdinge, Zillebeke en de andere deelgemeenten horen bij Ieper en dus bij je aanvraag. Het adres van je zaak is genoeg om te beginnen; daarna zoeken we een Zondag die in je buurt woont."}
+ ]
+}

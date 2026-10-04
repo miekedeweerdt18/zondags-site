@@ -1,0 +1,33 @@
+{
+ "path": "vragen/wat-doet-poetshulp-op-kantoor.html",
+ "title": "Wat doet een poetshulp op kantoor, en wat niet?",
+ "desc": "Wat doet een poetshulp op kantoor, en wat niet? Een duidelijke lijst met taken en grenzen, en wat je team zelf blijft doen. Zo weet je waar je aan toe bent.",
+ "eyebrow": "Vraag",
+ "h1": "Wat doet een poetshulp op kantoor, en wat niet?",
+ "lead": "Een duidelijke taakafbakening voorkomt teleurstelling aan beide kanten. Hier staat wat je Zondag op kantoor doet, wat buiten bereik valt en wat bij je team blijft.",
+ "answer": "Een poetshulp op kantoor onderhoudt bureaus, vergaderruimte, onthaal, keuken, sanitair en vloeren, zet afval en recyclage buiten en doet de ramen langs binnen. Zondags (zondags.be) doet geen technische klussen, geen werken op hoogte, geen gevelreiniging, geen industriële reiniging en geen bouwopkuis. Vertrouwelijke dossiers, persoonlijke spullen en de dagelijkse kleine opruim blijven bij je team.",
+ "facts": ["Bureaus, onthaal, keuken, sanitair, vloeren", "Ramen langs binnen, afval en recyclage", "Geen technische klussen of werken op hoogte", "Geen gevelreiniging of bouwopkuis", "Taken vast in je zondagsplan"],
+ "sections": [
+  {"h2": "Wat je Zondag wel doet", "p": [
+   "<ul class=\"ticks\"><li>Bureaus, vergadertafels en onthaal afnemen</li><li>Keuken en refter: werkblad, koffiehoek, microgolf en frigo</li><li>Sanitair: toiletten, wastafels en spiegels</li><li>Vloeren stofzuigen en dweilen</li><li>Ramen en glazen deuren langs binnen</li><li>Afval en recyclage buiten zetten</li></ul>"]},
+  {"h2": "Wat je Zondag niet doet", "p": [
+   "Technische klussen zoals elektriciteit of sanitair herstellen, werken op hoogte, gevelreiniging en ramen langs buiten op hoogte, industriële reiniging en productiehallen, een bouwopkuis na werken, reiniging van voertuigen en sterilisatie of medisch materiaal vallen buiten ons werk. Heb je daar vraag naar, dan zoek je een gespecialiseerd bedrijf. Merkt je Zondag onderweg iets op, zoals een kapotte lamp, dan geeft die dat door, zodat jij de juiste vakman kan bellen."]},
+  {"h2": "Wat bij je team blijft", "p": [
+   "Een poetshulp werkt het snelst en het best rond een kantoor dat al een beetje is voorbereid. Je team houdt bureaus vrij van losse papieren, bergt vertrouwelijke dossiers op in een afgesloten kast en zet de eigen koffiebeker en lunchdoos in de vaatwasser. Zo kan je Zondag tijd steken in poetsen in plaats van in opruimen."]},
+  {"h2": "Een grijze zone: kleine vragen die vaak terugkomen", "p": [
+   "Moet de vaatwasser in- en uitgeruimd worden? Mag de koffiehoek aangevuld worden? Wat met de frigo? Zulke kleine taken kunnen binnen je zondagsplan vallen, zolang het gaat om poetsen en huishoudelijke hulp. Wat technisch is of op hoogte gebeurt, niet. Spreek het af, dan weet je Zondag precies waar de grens ligt."]},
+  {"h2": "Een beurt van begin tot einde", "p": [
+   "Neem een kantoor met zes mensen. Je Zondag begint bij de toiletten en de keuken, de ruimtes waar het meest op staat. Daarna volgen onthaal en vergaderzaal, dan de bureaus en als laatste de vloeren, van achteraan naar de uitgang. Tot slot gaan afval en recyclage buiten. Het kantoor ligt er dan verzorgd bij voor het team of de eerste klant binnenkomt."]},
+  {"h2": "Voor een praktijk of een winkel", "p": [
+   "In een praktijk poetst je Zondag wachtzaal, consultatieruimtes, keuken en sanitair. Sterilisatie en medisch materiaal blijven bij je praktijkteam. In een winkel gaat het om vloeren, toonbank, sanitair en etalageramen langs binnen. Gelden er in sommige ruimtes bijzondere regels, vertel dat dan tijdens de intake, zodat het in je zondagsplan komt."]},
+  {"h2": "Hoe je de afspraken vastlegt", "p": [
+   "Tijdens de intake ter plaatse bespreken we wat er moet gebeuren, hoe vaak en hoe je het graag hebt. Dat komt in je zondagsplan, dat je later kan bijsturen. Een uitgebreide lijst vind je in de <a href=\"gids/checklist-kantoorschoonmaak.html\">checklist voor kantoorschoonmaak</a>, en het verschil met een klassiek schoonmaakbedrijf staat bij <a href=\"vragen/verschil-poetshulp-en-kantoorschoonmaak.html\">poetshulp en kantoorschoonmaak</a>."]}
+ ],
+ "faq": [
+  {"q": "Mag mijn poetshulp aan mijn bureau komen?", "a": "Ja, om af te nemen, maar niet om papieren te verplaatsen of te sorteren. Zet je bureau liever vrij van losse stukken, dan gaat het sneller. Vertrouwelijke dossiers horen in een afgesloten kast."},
+  {"q": "Doet de poetshulp ook de afwas in de keuken?", "a": "Wat je team in de keuken gebruikt en achterlaat, zoals vaat voor de vaatwasser, kan binnen het plan vallen. Spreek in je zondagsplan af wat je verwacht, zodat je Zondag weet waar de grens ligt."},
+  {"q": "Kan mijn Zondag een lamp of een kraan herstellen?", "a": "Nee. Technische klussen, zoals elektriciteit of sanitair herstellen, en werken op hoogte doet Zondags niet. Je Zondag meldt het wel wanneer iets opvalt, zodat jij iemand kan bellen."},
+  {"q": "Wat als ik meer wil dan alleen kantoorpoetsen?", "a": "Dat kan: dezelfde Zondag kan ook je woning doen, met was en strijk, boodschappen of koken. Wat je kiest, leg je vast in je zondagsplan. Op de factuur staan het beroepsmatige en het privégedeelte apart."},
+  {"q": "Hoe weet mijn Zondag wat ik belangrijk vind?", "a": "Tijdens de intake ter plaatse bespreken we wat er moet gebeuren, wanneer en hoe je het graag hebt. Dat komt in je zondagsplan, en je kan het later bijsturen."}
+ ]
+}

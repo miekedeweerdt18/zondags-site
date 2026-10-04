@@ -1,0 +1,36 @@
+{
+ "path": "sectoren/fitness-en-yogastudios.html",
+ "title": "Poetshulp voor fitness- en yogastudio's in de daluren",
+ "desc": "Poetshulp voor je fitness- of yogastudio: zalen, matten, toestellen, kleedkamers, douches en onthaal, overdag tussen de lessen of in de daluren.",
+ "eyebrow": "Fitness en yoga",
+ "h1": "Poetshulp voor fitness- en yogastudio's",
+ "lead": "Als je studio 's avonds en in het weekend het drukst is, ligt de poetsbeurt overdag. Een vaste Zondag benut de daluren voor zalen, matten, toestellen, kleedkamers en onthaal.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor fitness- en yogastudio's: één vaste persoon, je Zondag, voor de zalen, matten en toestellen, de kleedkamers en douches en het onthaal. Je Zondag komt overdag op weekdagen, tussen de lessen of in de daluren, nooit 's avonds en nooit in het weekend. Betalen doe je met een gewone dienstenfactuur op naam van je vennootschap.",
+ "facts": ["Zalen, matten en toestellen afnemen", "Kleedkamers, douches en onthaal", "Overdag, tussen de lessen of in de daluren", "Nooit 's avonds of in het weekend", "Factuur aan je vennootschap"],
+ "sections": [
+  {"h2": "Poetsen op de momenten dat je studio rustig is", "p": [
+   "Ligt de piek van je studio 's avonds en in het weekend, dan is dat precies wanneer wij niet werken. Gelukkig staat een zaal overdag het vaakst leeg. Tussen twee ochtendlessen, over de middag of in de uren zonder les komt je Zondag op een vast uur, zodat de studio schoon is wanneer de eerste leden binnenkomen.",
+   "Wat 's avonds en in het weekend gebeurt, kunnen we niet opvangen. Dat deel blijft bij je instructeurs, met een paar vaste gewoontes die hieronder staan."]},
+  {"h2": "Zalen, matten en toestellen", "p": [
+   "In de zaal gaat het om oppervlakken die veel aanraking krijgen. Je Zondag neemt ze elke beurt af en poetst de vloer, de spiegels en de plinten:",
+   "<ul class=\"ticks\"><li>Yogamatten, blokken en bankjes afnemen</li><li>Toestellen: handvatten, zitjes en rugsteunen</li><li>Zaalvloer, spiegels en plinten</li><li>Onthaal, balie en wachthoek</li><li>Kleedkamers, lockers langs buiten en douches</li><li>Sanitair en afval naar buiten</li></ul>",
+   "Het technische onderhoud van toestellen, zoals afstellen, smeren of herstellen, blijft bij jou of de leverancier. Technische klussen doet Zondags niet."]},
+  {"h2": "Wat je instructeurs tussen de lessen doen", "p": [
+   "Een goede studio rust op twee lagen. De ene is je Zondag met de grondige beurt, de andere zijn de kleine gewoontes tussendoor: instructeurs die matten na de les afnemen, leden die hun toestel afdoen met een doekje, een bak voor gebruikte handdoeken en een open raam na een warme les. Samen houden ze de studio er goed bij tussen twee poetsbeurten."]},
+  {"h2": "Kleedkamers en douches in de daluren", "p": [
+   "In de kleedkamers en douches merken leden het snelst iets op, en ruiken ze het ook. Je Zondag poetst ze op een moment dat ze leeg zijn, met aandacht voor vloeren, banken, douchewanden en afvoeren. Meer over die ruimtes lees je op <a href=\"sectoren/kleedkamers-en-douches.html\">poetshulp voor kleedkamers en douches</a>."]},
+  {"h2": "Voorbeeld: een yogastudio met twee zalen", "p": [
+   "Stel: je yogastudio heeft twee zalen, een onthaal en een kleedruimte. Op dinsdag en vrijdag komt je Zondag in de late ochtend, tussen de lessen: zalen, matten, kleedruimte en onthaal. Wie zelf dagelijks les geeft, heeft thuis een berg sportkledij. Dezelfde Zondag kan op donderdag naar je woning komen voor was, strijk en poetsen."]},
+  {"h2": "Factuur voor je studio", "p": [
+   "Draait je studio als vennootschap, dan krijg je van Zondags een gewone dienstenfactuur op naam van die vennootschap. Het onderhoud van de studio is een beroepskost. Komt je woning in het plan, dan krijgt dat deel een eigen post op de factuur. Of je de btw kan recupereren, hangt af van je situatie. Laat het bevestigen door je accountant."]},
+  {"h2": "Eerst je lessenrooster, dan het plan", "p": [
+   "Een Zondag zoeken doe je via het formulier of de chat, waarna iemand je binnen één werkdag terugbelt. Tijdens de intake bekijken we je lessenrooster, want daaruit blijkt welke daluren er zijn. De eerste 2 uur zijn gratis, zodat je de aanpak eerst kan zien in je eigen studio."]}
+ ],
+ "faq": [
+  {"q": "Kan een poetshulp een fitnesszaal poetsen terwijl er les is?", "a": "Dat vermijden we. Je Zondag komt in de daluren of tussen de lessen, wanneer de zaal leeg is, zodat leden niet over natte vloeren lopen. Welk uur past, leggen we vast in het zondagsplan."},
+  {"q": "Werkt Zondags 's avonds of in het weekend voor mijn studio?", "a": "Nee. Je Zondag komt enkel overdag op weekdagen. Ligt je drukste moment 's avonds of in het weekend, dan blijft er een grondige poetsbeurt overdag, en houdt je team de gewoontes tussendoor aan."},
+  {"q": "Doet de poetshulp ook de toestellen en yogamatten?", "a": "Ja, het afnemen van matten, blokken, handvatten en zitjes hoort bij het plan. Het technische onderhoud van toestellen niet. Dat blijft bij jou of de leverancier."},
+  {"q": "Opent mijn Zondag de lockers van mijn leden?", "a": "Nee. De buitenkant van de lockers krijgt een beurt. Wat erin ligt, blijft van je leden. Vergeten spullen laat je Zondag liggen en meldt je Zondag aan jou."},
+  {"q": "Kan de Zondag van mijn studio ook mijn woning doen?", "a": "Ja. Op een andere dag komt dezelfde Zondag naar je woning, voor was, strijk en poetsen. Op de factuur staan studio en woning apart, zodat je accountant weet wat beroepsmatig is en wat privé."}
+ ]
+}

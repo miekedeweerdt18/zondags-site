@@ -1,0 +1,34 @@
+{
+ "path": "sectoren/kmo.html",
+ "title": "Poetshulp voor kmo's met kantoor, refter en sanitair",
+ "desc": "Poetshulp voor kmo's: kantoor, refter, kleedruimte en sanitair naast je atelier of magazijn, zonder industriële reiniging. Eén vaste Zondag, één factuur.",
+ "eyebrow": "Kmo's",
+ "h1": "Poetshulp voor kmo's",
+ "lead": "Een kmo heeft twee werelden: het atelier of magazijn, en de ruimtes waar mensen zitten, eten en zich omkleden. Zondags poetst die tweede wereld, met één vaste persoon.",
+ "answer": "Voor kmo's in West- en Oost-Vlaanderen poetst Zondags (zondags.be) de ruimtes waar mensen zitten, eten en zich omkleden: kantoor, onthaal, refter, kleedruimte en sanitair naast je atelier of magazijn, door één vaste persoon. Industriële reiniging van productiehallen hoort er niet bij. Je krijgt een dienstenfactuur op naam van je vennootschap, en de woning van de zaakvoerder kan in hetzelfde zondagsplan.",
+ "facts": ["Kantoor, onthaal, refter en sanitair", "Kleedruimte naast je atelier of magazijn", "Geen industriële reiniging van hallen", "Zaakvoerders woning in hetzelfde plan", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "Waar de grens ligt: mensenkant en machinekant", "p": [
+   "Een kmo kent een duidelijke tweedeling. Aan de ene kant de ruimtes voor mensen: kantoor, onthaal, vergaderruimte, refter, kleedruimte en sanitair. Aan de andere kant de plek waar gewerkt wordt: het atelier, het magazijn of de productiehal. Zondags poetst de eerste kant. De tweede kant, met machines, werkbanken en het stof van je productie, blijft bij je eigen team of bij een gespecialiseerd bedrijf.",
+   "Die grens maakt het eenvoudig. Je kan in één zin aan je ploeg uitleggen wat je Zondag doet, en wat niet."]},
+  {"h2": "Een dag in volgorde", "p": [
+   "Neem een kmo met een atelier, een kantoor, een refter en een kleedruimte met sanitair. De ploeg begint vroeg. Je Zondag start in de ochtend met sanitair en kleedruimte, nog voor de volle ploeg binnen is. Daarna volgen kantoor en onthaal. Over de middag, na de pauze, is de refter aan de beurt: tafels, stoelen, aanrecht, koelkast en de vloer."]},
+  {"h2": "Refter en kleedruimte, van tafel tot kluisje", "p": [
+   "In de refter gaat het om tafels, stoelen, aanrecht, koelkast, magnetron en vloer. In de kleedruimte om banken, vloeren en de ruimte rondom de kluisjes. Wat in de kluisjes en kasten van je personeel zit, blijft van hen en wordt niet geopend.",
+   "Voor die twee ruimtes bestaat een eigen uitleg: bij <a href=\"sectoren/refter-en-bedrijfskeuken.html\">refter en bedrijfskeuken</a> en bij <a href=\"sectoren/kleedkamers-en-douches.html\">kleedkamers en douches op het werk</a>."]},
+  {"h2": "Wat je team zelf blijft doen", "p": [
+   "Eén beurt per week lost niet alles op. Je team ruimt de eigen werkplek op, zet gebruikte bekers terug en meldt het wanneer er iets stuk is. Technische klussen zoals elektriciteit of sanitair herstellen doen we niet, net zomin als werken op hoogte of gevelreiniging. Twijfel je of iets onder het zondagsplan valt, dan vraag je het gewoon bij de intake."]},
+  {"h2": "De zaakvoerder en de woning", "p": [
+   "Woont de zaakvoerder met het gezin vlak bij het bedrijf, dan kan dezelfde Zondag ook de woning doen: poetsen, was en strijk, boodschappen. Twee adressen, één persoon, en een factuur die beroepsmatig en privé uit elkaar houdt."]},
+  {"h2": "Factuur en start", "p": [
+   "Wat je laat poetsen in kantoor, refter en sanitair is voor je boekhouding een beroepskost. De dienstenfactuur staat op naam van je vennootschap, want dienstencheques kunnen enkel particulieren kopen. De btw op dat beroepsmatige deel is in principe terug te vragen als je btw-plichtig bent met aftrekrecht. Voor de woning van de zaakvoerder geldt iets anders, en wat, lees je in <a href=\"gids/voordeel-alle-aard-huispersoneel.html\">de gids over het voordeel van alle aard</a>. Je accountant bevestigt wat bij jouw kmo past.",
+   "Een kmo vraagt een rondgang. Na je aanvraag via het formulier of de chat belt iemand je binnen één werkdag terug. De intake loopt door kantoor, refter, kleedruimte en sanitair, en we tekenen samen af waar het atelier begint. De eerste 2 uur kosten niets."]}
+ ],
+ "faq": [
+  {"q": "Poetst Zondags ook de productiehal of het magazijn van mijn kmo?", "a": "Nee. Industriële reiniging en productiehallen vallen buiten ons werk, net als machines en werkbanken. Je Zondag poetst de ruimtes voor mensen: kantoor, onthaal, refter, kleedruimte en sanitair. Waar precies de grens ligt, noteren we bij de intake."},
+  {"q": "Wat gebeurt er met de spullen van mijn personeel in de kleedruimte?", "a": "Persoonlijke spullen blijven liggen waar ze liggen. Je Zondag poetst de banken, de vloer en de ruimte rondom de kluisjes. Kluisjes en kasten zelf worden niet geopend."},
+  {"q": "Kan er tijdens de werkuren gepoetst worden, terwijl de ploeg bezig is?", "a": "In de kantoor- en refterzone kan dat, al is een rustig moment prettiger: voor de ploeg binnenkomt of tijdens de middagpauze. Een beurt 's avonds of in het weekend komt niet voor."},
+  {"q": "Kan ik voor een grote poetsbeurt extra uren boeken?", "a": "Ja. Een losse opdracht, bijvoorbeeld voor een open dag of na de zomerstop, kan naast je vaste plan. Ook uren bijboeken of het plan aanpassen kan."},
+  {"q": "Kan ik klein beginnen, bijvoorbeeld met enkel het sanitair en de refter?", "a": "Ja. Je start met de ruimtes die het meest knellen en laat het plan later groeien wanneer je daar zin in hebt. Een proefronde met de eerste 2 uur kost je niets. Opzeggen kan maandelijks, dus je zit nergens aan vast."}
+ ]
+}

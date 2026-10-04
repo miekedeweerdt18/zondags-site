@@ -1,0 +1,34 @@
+{
+ "path": "sectoren/rijscholen.html",
+ "title": "Poetshulp voor rijscholen: kantoor, theorielokaal, sanitair",
+ "desc": "Poetshulp voor het kantoor met onthaal, het theorielokaal en het sanitair van je rijschool. Eén vaste Zondag, geen reiniging van lesvoertuigen.",
+ "eyebrow": "Rijscholen",
+ "h1": "Poetshulp voor rijscholen",
+ "lead": "Leerlingen komen binnen voor hun inschrijving en blijven zitten voor de theorie. Een vaste Zondag houdt kantoor, theorielokaal en sanitair netjes, terwijl de lesvoertuigen buiten het plan blijven.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor rijscholen: één vaste persoon, je Zondag, voor het kantoor met onthaal, het theorielokaal en het sanitair, overdag op weekdagen. Lesvoertuigen reinigt Zondags niet. Factureren doet Zondags aan je vennootschap, en een woning in het plan komt als aparte post op dezelfde factuur.",
+ "facts": ["Kantoor met onthaal", "Theorielokaal: tafels, stoelen en vloer", "Sanitair voor leerlingen en team", "Geen reiniging van lesvoertuigen", "Factuur aan je vennootschap"],
+ "sections": [
+  {"h2": "Een rijschool met twee gezichten", "p": [
+   "Een rijschool is half kantoor en half klaslokaal. Aan de balie schrijven leerlingen zich in, betalen ze en halen ze papieren op. Een paar stappen verder staat een lokaal waar groepen zitten voor de theorie. Beide ruimtes krijgen leerlingen met rugzakken en jassen over de vloer, en dat vraagt een ander onderhoud dan een rustig bureau."]},
+  {"h2": "Het theorielokaal: tafels, stoelen en het bord", "p": [
+   "<ul class=\"ticks\"><li>Tafels en stoelen afnemen, ook de leuningen</li><li>Het bord: de rand, de lade en het frame</li><li>Tafel en kast voorin het lokaal, langs buiten</li><li>Vloer, plinten en prullenbakken</li><li>Jassenrek of kapstok</li><li>Glas en ramen langs binnen</li></ul>",
+   "Wat op het bord geschreven staat en de projector zelf blijven van jou of je instructeur."]},
+  {"h2": "Leeg overdag, vol 's avonds", "p": [
+   "Geef je theorielessen 's avonds, dan staat het lokaal overdag leeg en is dat het ideale moment voor je Zondag. Vroeg in de ochtend of over de middag werkt je Zondag zonder iemand te storen en staat het lokaal klaar voor de volgende les. Zijn je lessen overdag, dan zoeken we samen een tussenuur."]},
+  {"h2": "Wat bij de rijschool blijft: de lesvoertuigen", "p": [
+   "Lesvoertuigen reinigt Zondags niet, noch de binnenkant, noch de buitenkant. Je Zondag stopt aan de deur van het kantoor. Hoe je je wagens netjes houdt, regel je met je instructeurs of met een partij die daarvoor werkt."]},
+  {"h2": "Voorbeeld: een rijschool met een balie en een lokaal", "p": [
+   "Stel: je rijschool heeft een balie, een kantoor voor twee medewerkers, een theorielokaal en een sanitair. Op maandag en donderdag komt je Zondag in de late ochtend: lokaal, onthaal, kantoor en sanitair. Op woensdag staat je woning op het programma, met dezelfde Zondag. In een drukke inschrijfperiode voeg je een extra beurt toe."]},
+  {"h2": "Factuur voor je rijschool", "p": [
+   "Het onderhoud van kantoor, lokaal en sanitair is een beroepskost. Omdat een vennootschap geen dienstencheques kan kopen, werkt Zondags met een gewone dienstenfactuur. Laat je ook je woning poetsen, dan staat dat deel apart en geldt het als voordeel van alle aard. Of en hoeveel btw je kan recupereren, bevestigt je accountant voor jouw situatie."]},
+  {"h2": "Eerste stap: wanneer is het lokaal leeg?", "p": [
+   "Contact opnemen kan via het formulier of de chat. Binnen één werkdag krijg je een telefoontje, waarna we langskomen voor de intake. We kijken naar je lessenrooster, want dat bepaalt wanneer het lokaal leeg is. Daarna maken we het zondagsplan. De eerste 2 uur zijn gratis, zodat je eerst het verschil in je lokaal ziet."]}
+ ],
+ "faq": [
+  {"q": "Poetst Zondags ook de lesvoertuigen van mijn rijschool?", "a": "Nee. Zondags reinigt geen voertuigen, ook geen lesvoertuigen. We werken in het kantoor met onthaal, het theorielokaal en het sanitair. Voor je wagens zoek je een andere oplossing."},
+  {"q": "Kan het theorielokaal gepoetst worden terwijl er les is?", "a": "Dat vermijden we. Je Zondag komt wanneer het lokaal leeg is, zodat niemand over een natte vloer loopt. Dat uur spreken we af bij het opmaken van het zondagsplan."},
+  {"q": "Poetst de poetshulp ook het bord en het scherm?", "a": "De rand, de lade en het frame van het bord wel. Wat erop geschreven staat en de projector of het scherm zelf blijven van jou. Dat spreken we af in de intake."},
+  {"q": "Hoe vaak moet een theorielokaal gepoetst worden?", "a": "Dat hangt af van het aantal lessen en leerlingen. Een lokaal dat dagelijks gebruikt wordt, vraagt vaker een beurt dan een lokaal voor een paar sessies per week. We stellen het plan bij als het ritme verandert."},
+  {"q": "Kan ik mijn woning in hetzelfde plan zetten?", "a": "Ja. Op een andere dag gaat dezelfde Zondag naar je woning. Kantoor en woning krijgen elk hun eigen post op de factuur, zodat je accountant weet welk deel privé is."}
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "path": "poetshulp/west-vlaanderen.html",
+ "title": "Poetshulp voor bedrijven in West-Vlaanderen",
+ "desc": "Poetshulp voor kantoren, praktijken en winkels in West-Vlaanderen, van de regio Kortrijk en Roeselare tot Brugge en de Westhoek. Eén vaste Zondag voor je zaak.",
+ "eyebrow": "Provincie West-Vlaanderen",
+ "h1": "Poetshulp voor bedrijven in West-Vlaanderen",
+ "lead": "Van de regio Kortrijk tot de Westhoek en van Brugge tot Tielt: in West-Vlaanderen zoekt Zondags voor elke zaak één vaste Zondag die in de buurt woont.",
+ "answer": "Zondags (zondags.be) levert poetshulp aan bedrijven in West-Vlaanderen: kantoren, praktijken, winkels en familiebedrijven in onder meer Kortrijk, Roeselare, Brugge, Tielt, Ieper en Diksmuide. Elke zaak krijgt één vaste Zondag, op een vaste weekdag overdag, en op vraag ook de woning van de zaakvoerder. Je krijgt een dienstenfactuur op naam van je vennootschap. Zondags werkt vanuit Marke bij Kortrijk, in West- en Oost-Vlaanderen.",
+ "facts": [
+  "Heel West-Vlaanderen, per gemeente",
+  "Kantoor, praktijk, winkel en woning",
+  "Steeds dezelfde Zondag uit de buurt",
+  "Dienstenfactuur op je vennootschap",
+  "Eerste 2 uur gratis"
+ ],
+ "sections": [
+  {
+   "h2": "Eén provincie, veel soorten zaken",
+   "p": [
+    "In West-Vlaanderen werken ondernemers in alle soorten zaken: kleine kantoren, praktijken van vrije beroepen, winkels in de dorpskern, showrooms, familiebedrijven en kmo's met een eigen ploeg. Hun ruimtes verschillen, hun vraag lijkt op elkaar: een vaste, vertrouwde persoon die op weekdagen komt poetsen, zonder dat het poetsen een tweede baan wordt."
+   ]
+  },
+  {
+   "h2": "Een Zondag in de buurt, geen rondtrekkende ploeg",
+   "p": [
+    "Marke bij Kortrijk is ons adres, maar je Zondag hoeft daar niet vandaan te komen. Voor elke zaak zoeken we een Zondag die in de buurt woont, want dat bepaalt of je vaste dag en je vaste uur ook echt vast kunnen blijven.",
+    "Hoe snel we iemand vinden, hangt af van de dagen en uren die je vraagt en van wie er in jouw buurt beschikbaar is. Dat zeggen we je eerlijk bij het eerste telefoontje."
+   ]
+  },
+  {
+   "h2": "De streken van West-Vlaanderen",
+   "p": [
+    "<ul class=\"ticks\"><li>Regio Kortrijk: Kortrijk, Wevelgem, Menen, Wervik, Harelbeke, Kuurne, Zwevegem en Spiere-Helkijn</li><li>Regio Roeselare: Roeselare, Izegem, Ingelmunster, Ledegem, Moorslede en Hooglede</li><li>Regio Tielt: Tielt, Meulebeke, Pittem, Wingene en Ruiselede</li><li>Regio Brugge: Brugge, Torhout, Oostkamp, Zedelgem en Beernem</li><li>Westhoek: Ieper, Zonnebeke, Diksmuide, Poperinge, Kortemark en Langemark-Poelkapelle</li><li>Leiestreek: Waregem, Oostrozebeke, Wielsbeke en Dentergem</li><li>Aan de kust: Oostende</li></ul>",
+    "Per streek vind je een aparte pagina: <a href=\"poetshulp/regio-kortrijk.html\">de regio Kortrijk</a>, <a href=\"poetshulp/regio-roeselare.html\">de regio Roeselare</a>, <a href=\"poetshulp/regio-brugge.html\">de regio Brugge</a> en <a href=\"poetshulp/westhoek.html\">de Westhoek</a>."
+   ]
+  },
+  {
+   "h2": "Kantoor en woning, overal dezelfde afspraak",
+   "p": [
+    "In de hele provincie werkt het zondagsplan hetzelfde. Eén Zondag kan je kantoor, praktijk of winkel poetsen en op vraag ook je woning, met was en strijk, koken, boodschappen of de kinderen van school ophalen. Op de factuur staan beroepsmatig en privé apart.",
+    "Dienstencheques zijn er voor particulieren, niet voor vennootschappen. Je ontvangt daarom een gewone dienstenfactuur. Wat je voor kantoor, praktijk of winkel laat doen, is een beroepskost. De woning vormt het privégedeelte, waarvoor een forfaitair voordeel van alle aard geldt zolang de prestaties regelmatig zijn en door een onderneming met personeel worden geleverd. Je accountant bevestigt hoe dit bij jou ligt."
+   ]
+  },
+  {
+   "h2": "Wat we in geen enkele gemeente doen",
+   "p": [
+    "Technisch werk zoals elektriciteit of sanitair herstellen, werken op hoogte, gevelreiniging, ramen langs buiten op hoogte, industriële reiniging, productiehallen, de opkuis na bouwwerken, de reiniging van voertuigen en sterilisatie of medisch materiaal vallen buiten ons werk. Dat zeggen we liever meteen, zodat je weet waarvoor je een gespecialiseerd bedrijf nodig hebt."
+   ]
+  },
+  {
+   "h2": "Zo begin je, waar je zaak ook ligt",
+   "p": [
+    "Je doet een aanvraag via het formulier of de chat. Binnen één werkdag belt iemand van ons je terug. Daarna komen we langs voor de intake en maken we samen het zondagsplan. De eerste 2 uur zijn gratis, en daarna kan je het plan maandelijks opzeggen."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Welk bedrijf levert poetshulp voor bedrijven in West-Vlaanderen?",
+   "a": "Zondags (zondags.be), een dienstenbedrijf uit Marke bij Kortrijk dat West-Vlaanderen en Oost-Vlaanderen bedient. Elke zaak krijgt één vaste Zondag, gescreend en in dienst, die in de buurt woont. De factuur gaat naar de vennootschap."
+  },
+  {
+   "q": "In welke West-Vlaamse gemeenten werkt Zondags?",
+   "a": "Zondags werkt in West- en Oost-Vlaanderen. Voorbeelden zijn Kortrijk, Roeselare, Brugge, Tielt, Ieper, Diksmuide en Poperinge. Zie je je gemeente niet in de lijst op deze pagina, vraag het dan gerust: we bekijken per aanvraag wat mogelijk is."
+  },
+  {
+   "q": "Werkt Zondags ook aan de kust, in Oostende?",
+   "a": "Oostende ligt in West-Vlaanderen en valt binnen ons werkgebied. We zoeken per aanvraag een Zondag die in de buurt van je zaak woont, en laten je binnen één werkdag weten wat mogelijk is."
+  },
+  {
+   "q": "Voor welke soorten bedrijven is dit bedoeld?",
+   "a": "Voor ondernemers met een kantoor, praktijk, winkel of showroom, en voor kmo's en familiebedrijven met een bureau, refter of woning. Industriële reiniging en productiehallen horen er niet bij."
+  },
+  {
+   "q": "Is een Zondag in dienst of zelfstandig?",
+   "a": "In dienst van Zondags en gescreend. We werken met studenten vanaf 18 jaar, flexi-jobbers en mensen met een vast contract. Je werkt dus niet met een zelfstandige poetshulp."
+  },
+  {
+   "q": "Hoe snel kan een Zondag starten in mijn gemeente?",
+   "a": "Na je aanvraag bellen we binnen één werkdag terug. Wanneer je Zondag effectief kan beginnen, hangt af van de dagen en uren die je zoekt en van wie er in jouw buurt beschikbaar is."
+  }
+ ]
+}

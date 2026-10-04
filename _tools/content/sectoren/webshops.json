@@ -1,0 +1,34 @@
+{
+ "path": "sectoren/webshops.html",
+ "title": "Poetshulp voor webshops met kantoor en inpakruimte",
+ "desc": "Poetshulp voor het kantoor, de inpakruimte, refter en sanitair van je webshop, met licht onderhoud van het magazijn. Eén vaste Zondag, één factuur.",
+ "eyebrow": "Webshops",
+ "h1": "Poetshulp voor webshops met kantoor en magazijn",
+ "lead": "Achter elke webshop zit een kantoor, een inpaktafel en een magazijn vol karton. Een vaste Zondag houdt kantoor, inpakruimte en refter op orde en doet het lichte onderhoud van het magazijn.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor webshops met kantoor en magazijn: één vaste persoon, je Zondag, voor het kantoor, de inpakruimte, de refter en het sanitair, plus licht onderhoud van het magazijn, overdag op weekdagen. Industriële vloermachines horen er niet bij. Het onderhoud van de zaak staat op een gewone dienstenfactuur aan je vennootschap, en je woning komt als aparte post bij als ze in het plan zit.",
+ "facts": ["Kantoor, inpakruimte, refter en sanitair", "Licht onderhoud van het magazijn", "Geen industriële vloermachines", "Steeds dezelfde Zondag", "Factuur aan je vennootschap"],
+ "sections": [
+  {"h2": "Karton, tape en stof: een webshop heeft zijn eigen vuil", "p": [
+   "Een webshop maakt geen rook en geen vet, maar wel karton, tape en vulmateriaal. Dat laat snippers en fijn stof achter op inpaktafels, vloeren en bureaus. In veel webshops lopen kantoor en magazijn bovendien in elkaar over, waardoor het kartonstof tot op de toetsenborden komt. Dat is geen probleem zolang iemand het elke week opruimt."]},
+  {"h2": "Kantoor, inpakruimte en refter: de vaste ronde", "p": [
+   "<ul class=\"ticks\"><li>Bureaus, vergaderhoek en vloeren in het kantoor</li><li>Inpaktafels afnemen en de vloer eronder vegen</li><li>Kartonresten, tape en vulmateriaal in de afvalzak</li><li>Refter, keuken, microgolf en vaatwasser</li><li>Sanitair voor het hele team</li><li>Afval, karton, PMD en papier naar buiten</li></ul>"]},
+  {"h2": "Het magazijn: licht onderhoud, geen machines", "p": [
+   "Voor het magazijn blijft het bij licht onderhoud: de looppaden en de inpakzone vegen, de ingangszone proper houden, afvalbakken leegmaken en kartonresten verzamelen. Industriële vloermachines vallen erbuiten, net als werken op hoogte en het stof op de bovenste stellingen. De stellingen en de goederen blijven onaangeroerd, want die inventaris is van jou.",
+   "Wanneer een koerier pakketten komt ophalen, is het druk aan de laadzone. Daarom komt je Zondag vroeg in de ochtend of over de middag, op een uur dat de inpaktafels even rustig zijn."]},
+  {"h2": "Voorbeeld: vijf mensen en een klein magazijn", "p": [
+   "Stel: je webshop heeft vijf mensen, een kantoor, een inpakruimte en een klein magazijn. Op dinsdag en vrijdag komt je Zondag vroeg in de ochtend, nog voor de eerste bestellingen worden ingepakt. In de weken voor de feestdagen ligt er meer karton en vraagt de inpakruimte een tweede beurt. Je boekt uren bij en schroeft ze na de drukte terug."]},
+  {"h2": "Begonnen aan de keukentafel? Dan is er ook een woning", "p": [
+   "Een webshop start soms aan de keukentafel en groeit uit tot een magazijn. Als zaakvoerder werk je misschien nog altijd lange dagen. Op een andere dag kan dezelfde Zondag je woning doen, van poetsen tot boodschappen. Werk je deels nog thuis, dan lees je op <a href=\"beroepen/kantoor-aan-huis.html\">poetshulp voor een kantoor aan huis</a> hoe dat samengaat."]},
+  {"h2": "Factuur voor je webshop", "p": [
+   "Het onderhoud van kantoor, inpakruimte en refter is een beroepskost. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap, omdat een vennootschap geen dienstencheques kan kopen. Het privégedeelte geldt als voordeel van alle aard. Is je webshop btw-plichtig met aftrekrecht, dan kan je de btw op het zakelijke deel in principe recupereren, op het privégedeelte in principe niet. Vraag je accountant dit voor jouw webshop te bevestigen."]},
+  {"h2": "Eerste stap: de grens van het lichte onderhoud", "p": [
+   "Stuur een bericht via het formulier of de chat, en binnen één werkdag belt iemand je terug. Tijdens de intake lopen we door het kantoor, de inpakruimte en het magazijn en tekenen we af waar het lichte onderhoud eindigt. De eerste 2 uur zijn gratis, dus je kan eerst zien of de afbakening voor jou werkt."]}
+ ],
+ "faq": [
+  {"q": "Doet Zondags ook het magazijn van een webshop?", "a": "Licht onderhoud wel: looppaden en inpakzone vegen, afvalbakken leegmaken en kartonresten verzamelen. Industriële vloermachines, werken op hoogte en de stellingen en goederen zelf vallen erbuiten."},
+  {"q": "Kan een poetshulp de inpakruimte poetsen zonder pakjes te verplaatsen?", "a": "Ja. Je Zondag werkt rond de pakketten en goederen en verplaatst niets zonder jouw akkoord. Een afgebakende zone voor klaarstaande pakketten maakt het werk een stuk gemakkelijker."},
+  {"q": "Wanneer komt de poetshulp in een webshop met verzendmomenten?", "a": "Overdag op weekdagen, vroeg in de ochtend of over de middag, op een uur dat het rustig is aan de inpaktafels. Ook in de drukke weken voor de feestdagen werken we enkel overdag op weekdagen."},
+  {"q": "Hoe vaak moet het kantoor van een webshop gepoetst worden?", "a": "Dat hangt af van het aantal mensen en hoeveel karton er verwerkt wordt. Een kantoor met enkele mensen vraagt minder dan een inpakruimte met veel beweging. Je start met een vaste beurt en stuurt bij."},
+  {"q": "Kan mijn Zondag ook mijn woning doen als ik deels thuis werk?", "a": "Ja. Ook als je deels thuis werkt, kan dezelfde Zondag op een andere dag je woning doen. De factuur houdt het beroepsmatige en het privégedeelte uit elkaar."}
+ ]
+}

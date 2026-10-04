@@ -1,0 +1,34 @@
+{
+ "path": "sectoren/showrooms.html",
+ "title": "Poetshulp voor showrooms en toonzalen",
+ "desc": "Poetshulp voor showrooms en toonzalen met keukens, badkamers, meubels of wagens: stof, glas langs binnen, vloeren en onthaal door één vaste Zondag.",
+ "eyebrow": "Showrooms",
+ "h1": "Poetshulp voor showrooms",
+ "lead": "Een showroom verkoopt met zijn uitstraling: glas zonder vingerafdrukken, vloeren die glanzen, geen stof op de stukken. Eén vaste Zondag houdt dat op peil.",
+ "answer": "Een showroom of toonzaal met keukens, badkamers, meubels of wagens laat bij Zondags (zondags.be) stof, glas langs binnen, vloeren en onthaal verzorgen door één vaste persoon, in West- en Oost-Vlaanderen, tegen een dienstenfactuur op naam van de vennootschap. De voertuigen zelf reinigen we niet.",
+ "facts": ["Stof, glas langs binnen, vloeren", "Keukens, badkamers, meubels of wagens", "Jij bepaalt welke stukken wie aanraakt", "Voertuigen reinigen hoort er niet bij", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "Wat een toonzaal te verduren krijgt", "p": [
+   "Elk type toonzaal heeft zijn eigen vijand. In een keukenshowroom zijn dat vingerafdrukken op fronten en werkbladen, in een badkamerzaak kalkvlekken op spiegels en kranen. Een meubelzaak kampt met stof op stoffering en hout. En in een autotoonzaal gaat het om de vloer rond de wagens en het glas van de zaal zelf. Wat overal geldt: bezoekers kijken heel dicht naar je stukken."]},
+  {"h2": "Eerst afspreken, dan poetsen", "p": [
+   "Hoogglans, natuursteen, hout, lak, stof: elk materiaal vraagt zijn eigen aanpak. In het zondagsplan noteer je per zone wat aangeraakt mag worden en wat je liever zelf doet. Opstellingen, prijskaartjes en decor blijven staan waar ze staan. Je Zondag werkt eromheen en zet niets terug op een andere plaats."]},
+  {"h2": "Vloeren, glas en onthaal", "p": [
+   "De vloer is in een showroom vaak het grootste oppervlak en het eerste dat opvalt, dus die krijgt bij elke beurt aandacht. Het glas van vitrines en deuren gaat langs binnen mee. Het onthaal, met balie, zitplekken en de koffiehoek voor bezoekers, wordt afgenomen en netjes gezet voor de eerste afspraak.",
+   "Bij de intake wijs je de kwetsbaarste oppervlakken aan, zoals hoogglansfronten, natuursteen of lak, zodat je Zondag weet waar extra voorzichtigheid hoort."]},
+  {"h2": "Wat bij het zondagsplan hoort, en wat niet", "p": [
+   "Wagen wassen of poetsen: nee. Technische ingrepen aan displays, zoals water of elektriciteit aansluiten: nee. Werken op hoogte of gevelreiniging: nee. Alles wat met de inrichting van de toonzaal zelf te maken heeft, zoals stukken verplaatsen of een opstelling vernieuwen, blijft bij je team."]},
+  {"h2": "Een moment kiezen als je op afspraak werkt", "p": [
+   "Ontvang je klanten vooral op afspraak, dan kies je een weekdag of een uur zonder afspraken: vroeg in de ochtend voor de eerste bezoeker, of over de middag. 's Avonds en in het weekend werken we niet. Voor een opendeurdag of een nieuwe collectie kan je een extra beurt boeken als losse opdracht."]},
+  {"h2": "Toonzaal en woning, en de factuur", "p": [
+   "Heeft de zaakvoerder een eigen woning waar je niet zelf aan toekomt, dan kan dezelfde Zondag die ook doen. Een voorbeeld uit de interieurwereld vind je bij <a href=\"regio/hulp-in-huis-oudenaarde.html\">hulp in huis in Oudenaarde</a>, en meer over de branche bij <a href=\"sectoren/interieurzaken.html\">poetshulp voor interieurzaken</a>.",
+   "Poetskosten voor de toonzaal horen bij je beroepskosten en gaan via een dienstenfactuur op naam van je vennootschap. Voor dienstencheques is er geen plaats, want die zijn voor particulieren. Voor de btw kijk je naar je aftrekrecht: op de toonzaal in principe terug te vragen, op de woning in principe niet. De woning heeft bovendien een forfaitair voordeel van alle aard, op twee voorwaarden: regelmatig werk en een uitvoerende onderneming met personeel. Je accountant bevestigt de details voor jouw zaak.",
+   "Na je aanvraag belt iemand je binnen één werkdag terug, en dan volgt de intake in de toonzaal. Eerst kennismaken kost niets, want de eerste 2 uur zijn gratis."]}
+ ],
+ "faq": [
+  {"q": "Poetst Zondags ook de wagens in mijn showroom?", "a": "Nee. Wagens wassen of poetsen valt buiten ons werk. Je Zondag poetst de vloer rond de wagens, het glas langs binnen, het onthaal en de rest van de zaal."},
+  {"q": "Kan ik aanduiden welke zones mijn Zondag niet aanraakt?", "a": "Ja. Per zone zet je in het zondagsplan wat aangeraakt mag worden en wat je zelf doet, bijvoorbeeld een kwetsbare vitrine of een duur stuk. Je Zondag werkt eromheen en verplaatst niets."},
+  {"q": "Hoe vaak laat ik een showroom poetsen?", "a": "Een vaste weekbeurt is een gewoon startpunt. Veel bezoekers of veel glas en hoogglans vragen soms een tweede moment. Meer uren of een ander ritme kan je in het plan opnemen."},
+  {"q": "Wat als sommige opstellingen niet verplaatst mogen worden?", "a": "Dan werkt je Zondag eromheen. Wat je niet verplaatst wil zien, zet je in het zondagsplan, samen met de ruimtes die je liever zelf afneemt."},
+  {"q": "Kan mijn Zondag het onthaal en de koffiehoek voor bezoekers bijhouden?", "a": "Ja. Het onthaal met balie, zitplekken en koffiehoek hoort bij de beurt. Koffie, thee en water aanvullen kan als boodschap in hetzelfde plan, zodat de zaal klaar is voor je eerste bezoeker."}
+ ]
+}

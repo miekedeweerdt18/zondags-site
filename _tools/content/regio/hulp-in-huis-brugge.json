@@ -1,0 +1,36 @@
+{
+ "path": "regio/hulp-in-huis-brugge.html",
+ "title": "Hulp in huis voor ondernemers in Brugge (8000)",
+ "desc": "Hulp in huis in Brugge voor kappers en andere ondernemers met een zaak aan huis: salonhanddoeken, gezinswas, poetsen en boodschappen door één vaste Zondag.",
+ "eyebrow": "Hulp in huis · Brugge",
+ "h1": "Hulp in huis voor ondernemers in Brugge",
+ "lead": "Een kapsalon met het gezin erboven draait op handdoeken, wasmanden en een agenda die vroeg begint. In Brugge neemt één vaste Zondag het werk eromheen over.",
+ "answer": "Een kapsalon in Brugge laat bij Zondags (zondags.be) de handdoeken en de gezinswas door dezelfde vaste persoon verzorgen: je Zondag wast en droogt de salonhanddoeken, doet het huishouden, kookt, haalt boodschappen en kinderen op en neemt de woning boven de zaak mee. Beroepsmatig en privé staan apart op één dienstenfactuur aan je vennootschap.",
+ "facts": ["Salonhanddoeken en gezinswas in één beurt", "Klaar voor de eerste klant", "Salon en woning onder één dak, één sleutel", "Scharen en kleurproducten blijven van jou", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "Een salon in de dorpskern met de woning erboven", "p": [
+   "Neem een kapsalon in de dorpskern van Sint-Kruis, met de woning boven de zaak. Beneden staan twee stoelen, boven woont een gezin. Elke dag gaan er stapels handdoeken door de was, en daarbovenop de kleren, het beddengoed en de keukendoeken van het huishouden. De wasmand is nooit leeg.",
+   "Omdat zaak en woning onder één dak liggen, volstaat één sleutel en één persoon die beide kent."]},
+  {"h2": "Handdoeken en gezinswas in één wasdag", "p": [
+   "Je Zondag wast en droogt de salonhanddoeken en doet in dezelfde beurt de was van het gezin. Wat gestreken moet worden, wordt gestreken, de rest wordt opgevouwen en weggelegd. Hoe je alles sorteert en welke programma's je wilt, noteer je in het zondagsplan. Op de factuur staan de handdoeken bij het beroepsmatige deel en de gezinswas bij het privégedeelte."]},
+  {"h2": "Voor de eerste klant binnenkomt", "p": [
+   "Een salon draait van 's morgens tot 's avonds, en daarna volgt het huishouden. Vroeg in de ochtend kan je Zondag al aan de slag zijn, voor de eerste klant binnenstapt: eerst de woning, dan de salon, of net omgekeerd. Zo ligt alles er bij de opening netjes bij zonder dat jij vroeger moet opstaan. Zaterdag en avond vallen buiten ons werk. Hoe de salon zelf wordt aangepakt, lees je bij <a href=\"sectoren/kapsalons.html\">poetshulp voor kapsalons</a>."]},
+  {"h2": "Wat je Zondag verder doet, en wat bij je salon blijft", "p": [
+   "Naast de was kan je Zondag de woning poetsen, koken of schotels voor de week bereiden, boodschappen doen, de kinderen ophalen en het huis bijhouden tijdens je vakantie. Je kiest wat nu het meest knelt, de rest schuift later aan.",
+   "Je scharen, tondeuses, borstels en kleurproducten blijven van jou, en de hygiëne ervan ook. Je Zondag poetst de ruimte en wast het linnen, meer niet."]},
+  {"h2": "Kinderen die na school boven binnenkomen", "p": [
+   "Ligt jouw zaak op het gelijkvloers en woont het gezin erboven, dan komen de kinderen na school gewoon naar boven terwijl jij beneden een klant in de stoel hebt. Je Zondag kan de kinderen aan school ophalen en opvangen, tot je laatste klant vertrekt of tot het uur waarop we stoppen: overdag op weekdagen. Je meldt aan de school wie komt ophalen, en wij leggen de afspraken vast in je zondagsplan."]},
+  {"h2": "Eén factuur voor salon en gezin", "p": [
+   "Handdoeken en het poetsen van de salon zijn beroepsmatig, de gezinswas en de rest van het huishouden privé. Beide staan apart op één dienstenfactuur die naar je vennootschap gaat. Wie via een vennootschap werkt, kan niet met dienstencheques betalen.",
+   "Voor het gezinsdeel bestaat een forfaitair voordeel van alle aard, zolang een onderneming met personeel in dienst het werk regelmatig uitvoert. De btw op het salondeel kan je in principe terugvragen als je salon recht op aftrek heeft, die op het gezinsdeel in principe niet. Je accountant weet hoe dat voor jouw salon werkt."]},
+  {"h2": "Assebroek, Dudzele, Koolkerke en de rest van Brugge", "p": [
+   "Assebroek, Dudzele, Koolkerke en Lissewege zijn deelgemeenten van Brugge, en ook vanuit Oostkamp of Zedelgem kan je een aanvraag doen. Dat kan met het formulier of de chat. Binnen één werkdag belt iemand je terug, en daarna plannen we de intake in salon en woning. Twee uur om kennis te maken zijn gratis."]}
+ ],
+ "faq": [
+  {"q": "Kan mijn Zondag de handdoeken van mijn kapsalon wassen en ook de gezinswas doen?", "a": "Ja. Wassen, drogen en strijken horen bij het zondagsplan, voor zaak en gezin in dezelfde beurt. De salonhanddoeken staan op de factuur bij het beroepsmatige deel, de gezinswas bij het privégedeelte."},
+  {"q": "Kan mijn Zondag al aan de slag zijn voor mijn eerste klant komt?", "a": "Ja. Je Zondag kan al in de vroege ochtend binnen zijn. Het precieze uur leggen we bij de intake vast, afgestemd op je openingsuren, zodat de salon klaar is wanneer de eerste klant binnenstapt."},
+  {"q": "Blijft mijn kappersmateriaal van mij?", "a": "Ja. Scharen, tondeuses, borstels en kleurproducten houd je zelf bij, ook wat hun hygiëne betreft. Je Zondag poetst de ruimte, wast het linnen en doet het huishouden."},
+  {"q": "Kan mijn Zondag boodschappen doen terwijl mijn salon open is?", "a": "Ja. Je Zondag werkt zonder dat jij erbij hoeft te zijn. De boodschappen worden gedaan op de vaste dag van je plan, ook wanneer jij op dat moment een klant in de stoel hebt."},
+  {"q": "Wat als mijn kinderen na school boven staan terwijl ik beneden werk?", "a": "Dan kan je Zondag ze ophalen en opvangen, binnen de uren waarop we werken. Wie de kinderen komt ophalen, meld je aan de school. De rest, zoals het vieruurtje, noteren we in je zondagsplan."}
+ ]
+}

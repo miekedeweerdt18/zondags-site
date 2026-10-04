@@ -1,0 +1,79 @@
+{
+ "path": "vragen/boodschappen-laten-doen-ondernemer.html",
+ "title": "Als ondernemer je boodschappen laten doen",
+ "desc": "Een vaste Zondag doet je boodschappen en het regelwerk, op een vaste weekdag. Zo werkt de lijst, wat erbij hoort en hoe het via je vennootschap loopt.",
+ "eyebrow": "Vraag · Boodschappen",
+ "h1": "Kan je als ondernemer je boodschappen laten doen?",
+ "lead": "Een zaak runnen en nog in de winkel staan: dat past zelden samen. Een vaste Zondag neemt de wekelijkse boodschappen over, samen met het regelwerk dat anders blijft liggen.",
+ "answer": "Ja. Bij Zondags (zondags.be) doet je vaste Zondag je boodschappen op een afgesproken weekdag, samen met regelwerk zoals de apotheek, de droogkuis en het ophalen van pakjes. Jij geeft een lijst door, je Zondag vult je voorraad aan en bergt alles op. Het kan via je vennootschap lopen, met een dienstenfactuur waarop het privégedeelte apart staat.",
+ "facts": [
+  "Boodschappen op een vaste weekdag",
+  "Ook apotheek, droogkuis en pakjes",
+  "Combineerbaar met koken en poetsen",
+  "Steeds dezelfde Zondag",
+  "Factuur aan je vennootschap"
+ ],
+ "sections": [
+  {
+   "h2": "Zo werkt een boodschappenronde",
+   "p": [
+    "Je geeft je lijst door op een vast moment, bijvoorbeeld de dag voordien. Dat kan op papier zijn, als bericht of als foto van je lege frigo. Je Zondag haalt de boodschappen, bergt ze op de juiste plaats op en laat de keuken netjes achter. Jij komt thuis in een gevulde frigo en hoeft niets meer uit te pakken."
+   ]
+  },
+  {
+   "h2": "Wat er naast voeding kan meegaan",
+   "p": [
+    "<ul class=\"ticks\"><li>Medicatie ophalen bij de apotheek</li><li>Kleding naar de droogkuis brengen en terugbrengen</li><li>Pakjes en bestellingen ophalen</li><li>Voorraad aanvullen: koffie, wc-papier, schoonmaakproducten</li></ul>",
+    "Dat soort regelwerk eet je tijd op, juist omdat het telkens klein lijkt. Een vaste ronde per week haalt het allemaal uit je hoofd."
+   ]
+  },
+  {
+   "h2": "Een voorbeeld van een week",
+   "p": [
+    "Neem een zaakvoerder die de hele week op afspraken zit. Woensdagavond staat de lijst klaar. Donderdagvoormiddag doet haar Zondag de boodschappen voor het weekend, haalt de pakjes op en brengt de kostuums naar de droogkuis. Wanneer ze thuiskomt, is de frigo vol en het regelwerk gedaan.",
+    "Staat er volgend weekend een etentje met vrienden gepland? Dan zet je voor die week extra boodschappen op de lijst en boek je zo nodig een uur bij. Extra uren bijboeken of het plan aanpassen is mogelijk, zonder dat je alles opnieuw moet opzetten."
+   ]
+  },
+  {
+   "h2": "Waar je op let",
+   "p": [
+    "Een lijst die zegt 'fruit' of 'iets voor de lunch' leidt tot gokken. Schrijf liever concreet op wat je wil, en wat je Zondag mag vervangen als iets uitverkocht is.",
+    "Spreek ook af in welke winkels je de boodschappen gehaald wil hebben, hoe je de bonnetjes terugkrijgt en hoeveel plaats er in je frigo is. Haal je verse of gekoelde producten, spreek dan af dat die als laatste in de mand gaan en meteen in de frigo komen. Wat je hierover afspreekt, kan je opnemen in je zondagsplan."
+   ]
+  },
+  {
+   "h2": "Boodschappen combineren met koken en poetsen",
+   "p": [
+    "Eén persoon voor meerdere taken scheelt je veel plannen. Dezelfde Zondag kan eerst de boodschappen doen en daarna koken of poetsen, of de week afsluiten met strijk. Meer over de dienst zelf lees je op <a href=\"diensten/boodschappenhulp.html\">boodschappenhulp</a>."
+   ]
+  },
+  {
+   "h2": "Boeken via je vennootschap",
+   "p": [
+    "De boodschappendienst komt op een dienstenfactuur die op naam van je vennootschap staat. Boodschappen voor je woning vallen onder het privégedeelte. Daarvoor geldt een forfaitair voordeel van alle aard, mits de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Met dienstencheques kan je dit niet regelen, want een vennootschap kan ze niet kopen. Hoe je het voor jouw situatie verwerkt, bevestigt je accountant."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Welke winkels doet mijn Zondag?",
+   "a": "Dat bepaal jij. Je geeft in je lijst door waar je de boodschappen graag gehaald hebt, zoals de supermarkt, de bakker of de markt, en dat leggen we vast in je zondagsplan."
+  },
+  {
+   "q": "Kan mijn Zondag ook pakjes ophalen of naar de droogkuis gaan?",
+   "a": "Ja. Regelwerk zoals de apotheek, de droogkuis en het ophalen van pakjes hoort bij de taken van je Zondag. Je kan het combineren met de wekelijkse boodschappen in één ronde."
+  },
+  {
+   "q": "Hoe betaal ik de boodschappen?",
+   "a": "Dat spreek je af bij de intake, samen met de rest van je zondagsplan. Zo weet je vooraf hoe je betaalt en hoe je de bonnetjes terugkrijgt."
+  },
+  {
+   "q": "Wat is het verschil met boodschappen online bestellen?",
+   "a": "Een bestelling wordt aan je deur geleverd. Je Zondag kiest zelf de verse producten, bergt alles op en doet er ander regelwerk bij. Beide manieren kunnen elkaar aanvullen."
+  },
+  {
+   "q": "Hoe wordt dit gefactureerd aan mijn vennootschap?",
+   "a": "Je vennootschap ontvangt daarvoor een dienstenfactuur. De boodschappen voor je woning staan daarop apart als privégedeelte, en daarvoor geldt een forfaitair voordeel van alle aard. Hoe je dat voor je eigen situatie verwerkt, bevestigt je accountant."
+  }
+ ]
+}

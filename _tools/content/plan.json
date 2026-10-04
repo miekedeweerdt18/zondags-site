@@ -1,0 +1,3698 @@
+[
+ {
+  "id": "poetshulp/kortrijk",
+  "path": "poetshulp/kortrijk.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Kortrijk",
+  "place": "Kortrijk",
+  "postcode": "8500",
+  "provincie": "West-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Aalbeke",
+   "Bellegem",
+   "Bissegem",
+   "Heule",
+   "Kooigem",
+   "Marke",
+   "Rollegem"
+  ],
+  "in_de_buurt": [
+   "Kuurne",
+   "Harelbeke",
+   "Wevelgem",
+   "Menen",
+   "Zwevegem",
+   "Lendelede"
+  ],
+  "streek": "regio Kortrijk",
+  "angle": "vrije beroepen met een praktijk (wachtzaal, consultatieruimte, sanitair) en daarnaast hun woning",
+  "scenario": "een kinesitherapeut met een praktijk aan huis"
+ },
+ {
+  "id": "poetshulp/marke",
+  "path": "poetshulp/marke.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Marke",
+  "place": "Marke",
+  "postcode": "8510",
+  "provincie": "West-Vlaanderen",
+  "soort": "deelgemeente",
+  "deel_van": "Kortrijk",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Kortrijk",
+   "Bissegem",
+   "Aalbeke",
+   "Rollegem",
+   "Lauwe",
+   "Bellegem"
+  ],
+  "streek": "regio Kortrijk",
+  "angle": "starters en jonge vennootschappen die hun eerste kantoor of praktijk inrichten",
+  "scenario": "een notariskantoor met een wachtzaal"
+ },
+ {
+  "id": "poetshulp/heule",
+  "path": "poetshulp/heule.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Heule",
+  "place": "Heule",
+  "postcode": "8501",
+  "provincie": "West-Vlaanderen",
+  "soort": "deelgemeente",
+  "deel_van": "Kortrijk",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Kortrijk",
+   "Kuurne",
+   "Gullegem",
+   "Lendelede",
+   "Bissegem"
+  ],
+  "streek": "regio Kortrijk",
+  "angle": "bedrijven die naast het poetsen ook de was en strijk, het koken of de boodschappen willen uitbesteden",
+  "scenario": "een verzekeringskantoor met een onthaal"
+ },
+ {
+  "id": "poetshulp/bissegem",
+  "path": "poetshulp/bissegem.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Bissegem",
+  "place": "Bissegem",
+  "postcode": "8501",
+  "provincie": "West-Vlaanderen",
+  "soort": "deelgemeente",
+  "deel_van": "Kortrijk",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Kortrijk",
+   "Marke",
+   "Wevelgem",
+   "Gullegem",
+   "Heule"
+  ],
+  "streek": "regio Kortrijk",
+  "angle": "winkels en zaken in de dorpskern of het centrum: poetsen voor de deur opengaat",
+  "scenario": "een architect die thuis werkt"
+ },
+ {
+  "id": "poetshulp/aalbeke",
+  "path": "poetshulp/aalbeke.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Aalbeke",
+  "place": "Aalbeke",
+  "postcode": "8511",
+  "provincie": "West-Vlaanderen",
+  "soort": "deelgemeente",
+  "deel_van": "Kortrijk",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Rollegem",
+   "Marke",
+   "Rekkem",
+   "Lauwe",
+   "Kortrijk"
+  ],
+  "streek": "regio Kortrijk",
+  "angle": "bedrijven met een showroom of ontvangstruimte waar klanten binnenstappen",
+  "scenario": "een landbouwbedrijf met een bureau aan de hoeve"
+ },
+ {
+  "id": "poetshulp/bellegem",
+  "path": "poetshulp/bellegem.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Bellegem",
+  "place": "Bellegem",
+  "postcode": "8510",
+  "provincie": "West-Vlaanderen",
+  "soort": "deelgemeente",
+  "deel_van": "Kortrijk",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Kortrijk",
+   "Rollegem",
+   "Kooigem",
+   "Zwevegem",
+   "Marke"
+  ],
+  "streek": "regio Kortrijk",
+  "angle": "kleine kantoren met een team van een handvol tot vijftien mensen: bureaus, keuken of refter, sanitair",
+  "scenario": "een transportfirma met een chauffeursruimte"
+ },
+ {
+  "id": "poetshulp/rollegem",
+  "path": "poetshulp/rollegem.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Rollegem",
+  "place": "Rollegem",
+  "postcode": "8510",
+  "provincie": "West-Vlaanderen",
+  "soort": "deelgemeente",
+  "deel_van": "Kortrijk",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Aalbeke",
+   "Bellegem",
+   "Kooigem",
+   "Marke",
+   "Kortrijk"
+  ],
+  "streek": "regio Kortrijk",
+  "angle": "zaakvoerders die veel onderweg zijn: kantoor en huis lopen door terwijl zij weg zijn",
+  "scenario": "een IT-consultant met een thuiskantoor"
+ },
+ {
+  "id": "poetshulp/kooigem",
+  "path": "poetshulp/kooigem.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Kooigem",
+  "place": "Kooigem",
+  "postcode": "8510",
+  "provincie": "West-Vlaanderen",
+  "soort": "deelgemeente",
+  "deel_van": "Kortrijk",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Bellegem",
+   "Rollegem",
+   "Zwevegem",
+   "Spiere-Helkijn",
+   "Kortrijk"
+  ],
+  "streek": "regio Kortrijk",
+  "angle": "kmo's met een refter, kleedruimte en sanitair voor de ploeg",
+  "scenario": "een opticien in een winkelstraat"
+ },
+ {
+  "id": "poetshulp/wevelgem",
+  "path": "poetshulp/wevelgem.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Wevelgem",
+  "place": "Wevelgem",
+  "postcode": "8560",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Gullegem",
+   "Moorsele"
+  ],
+  "in_de_buurt": [
+   "Kortrijk",
+   "Menen",
+   "Ledegem",
+   "Lauwe",
+   "Bissegem"
+  ],
+  "streek": "regio Kortrijk",
+  "angle": "familiebedrijven waar zaak en woning dicht bij elkaar liggen",
+  "scenario": "een kapsalon in de dorpskern"
+ },
+ {
+  "id": "poetshulp/gullegem",
+  "path": "poetshulp/gullegem.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Gullegem",
+  "place": "Gullegem",
+  "postcode": "8560",
+  "provincie": "West-Vlaanderen",
+  "soort": "deelgemeente",
+  "deel_van": "Wevelgem",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Heule",
+   "Moorsele",
+   "Wevelgem",
+   "Bissegem",
+   "Ledegem"
+  ],
+  "streek": "regio Kortrijk",
+  "angle": "land- en tuinbouwbedrijven met een vennootschap: bureau, refter en woning",
+  "scenario": "een showroom met keukens of badkamers"
+ },
+ {
+  "id": "poetshulp/moorsele",
+  "path": "poetshulp/moorsele.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Moorsele",
+  "place": "Moorsele",
+  "postcode": "8560",
+  "provincie": "West-Vlaanderen",
+  "soort": "deelgemeente",
+  "deel_van": "Wevelgem",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Gullegem",
+   "Ledegem",
+   "Lendelede",
+   "Wevelgem",
+   "Dadizele"
+  ],
+  "streek": "regio Kortrijk",
+  "angle": "ondernemers met een kantoor aan huis: kantoor en woning in één plan, met splitsing op de factuur",
+  "scenario": "een logopediste met een praktijk aan huis"
+ },
+ {
+  "id": "poetshulp/menen",
+  "path": "poetshulp/menen.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Menen",
+  "place": "Menen",
+  "postcode": "8930",
+  "provincie": "West-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Lauwe",
+   "Rekkem"
+  ],
+  "in_de_buurt": [
+   "Wevelgem",
+   "Wervik",
+   "Lauwe",
+   "Rekkem",
+   "Geluwe"
+  ],
+  "streek": "regio Kortrijk",
+  "angle": "praktijken en kantoren die liefst vroeg in de ochtend of over de middag laten poetsen, buiten de drukte",
+  "scenario": "een tandartspraktijk met twee behandelkamers"
+ },
+ {
+  "id": "poetshulp/lauwe",
+  "path": "poetshulp/lauwe.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Lauwe",
+  "place": "Lauwe",
+  "postcode": "8930",
+  "provincie": "West-Vlaanderen",
+  "soort": "deelgemeente",
+  "deel_van": "Menen",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Menen",
+   "Rekkem",
+   "Marke",
+   "Wevelgem",
+   "Aalbeke"
+  ],
+  "streek": "regio Kortrijk",
+  "angle": "vrije beroepen met een praktijk (wachtzaal, consultatieruimte, sanitair) en daarnaast hun woning",
+  "scenario": "een advocatenkantoor met twee vennoten"
+ },
+ {
+  "id": "poetshulp/rekkem",
+  "path": "poetshulp/rekkem.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Rekkem",
+  "place": "Rekkem",
+  "postcode": "8930",
+  "provincie": "West-Vlaanderen",
+  "soort": "deelgemeente",
+  "deel_van": "Menen",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Lauwe",
+   "Menen",
+   "Aalbeke",
+   "Marke"
+  ],
+  "streek": "regio Kortrijk",
+  "angle": "starters en jonge vennootschappen die hun eerste kantoor of praktijk inrichten",
+  "scenario": "een accountantskantoor met zes medewerkers"
+ },
+ {
+  "id": "poetshulp/wervik",
+  "path": "poetshulp/wervik.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Wervik",
+  "place": "Wervik",
+  "postcode": "8940",
+  "provincie": "West-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Geluwe"
+  ],
+  "in_de_buurt": [
+   "Menen",
+   "Geluwe",
+   "Zonnebeke",
+   "Ieper"
+  ],
+  "streek": "regio Kortrijk",
+  "angle": "bedrijven die naast het poetsen ook de was en strijk, het koken of de boodschappen willen uitbesteden",
+  "scenario": "een groepspraktijk van huisartsen"
+ },
+ {
+  "id": "poetshulp/geluwe",
+  "path": "poetshulp/geluwe.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Geluwe",
+  "place": "Geluwe",
+  "postcode": "8940",
+  "provincie": "West-Vlaanderen",
+  "soort": "deelgemeente",
+  "deel_van": "Wervik",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Wervik",
+   "Menen",
+   "Dadizele",
+   "Beselare",
+   "Ledegem"
+  ],
+  "streek": "regio Kortrijk",
+  "angle": "winkels en zaken in de dorpskern of het centrum: poetsen voor de deur opengaat",
+  "scenario": "een interieurzaak met een toonzaal"
+ },
+ {
+  "id": "poetshulp/harelbeke",
+  "path": "poetshulp/harelbeke.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Harelbeke",
+  "place": "Harelbeke",
+  "postcode": "8530",
+  "provincie": "West-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Bavikhove",
+   "Hulste"
+  ],
+  "in_de_buurt": [
+   "Kortrijk",
+   "Kuurne",
+   "Deerlijk",
+   "Zwevegem",
+   "Wielsbeke"
+  ],
+  "streek": "regio Kortrijk",
+  "angle": "bedrijven met een showroom of ontvangstruimte waar klanten binnenstappen",
+  "scenario": "een bouwbedrijf met een kantoor en een refter voor de ploeg"
+ },
+ {
+  "id": "poetshulp/kuurne",
+  "path": "poetshulp/kuurne.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Kuurne",
+  "place": "Kuurne",
+  "postcode": "8520",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Kortrijk",
+   "Harelbeke",
+   "Lendelede",
+   "Heule"
+  ],
+  "streek": "regio Kortrijk",
+  "angle": "kleine kantoren met een team van een handvol tot vijftien mensen: bureaus, keuken of refter, sanitair",
+  "scenario": "een webshop met een klein magazijn"
+ },
+ {
+  "id": "poetshulp/zwevegem",
+  "path": "poetshulp/zwevegem.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Zwevegem",
+  "place": "Zwevegem",
+  "postcode": "8550",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Heestert",
+   "Moen",
+   "Otegem",
+   "Sint-Denijs"
+  ],
+  "in_de_buurt": [
+   "Kortrijk",
+   "Harelbeke",
+   "Deerlijk",
+   "Avelgem",
+   "Spiere-Helkijn",
+   "Anzegem"
+  ],
+  "streek": "regio Kortrijk",
+  "angle": "zaakvoerders die veel onderweg zijn: kantoor en huis lopen door terwijl zij weg zijn",
+  "scenario": "een kinesitherapeut met een praktijk aan huis"
+ },
+ {
+  "id": "poetshulp/deerlijk",
+  "path": "poetshulp/deerlijk.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Deerlijk",
+  "place": "Deerlijk",
+  "postcode": "8540",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Harelbeke",
+   "Zwevegem",
+   "Waregem",
+   "Anzegem"
+  ],
+  "streek": "regio Kortrijk",
+  "angle": "kmo's met een refter, kleedruimte en sanitair voor de ploeg",
+  "scenario": "een notariskantoor met een wachtzaal"
+ },
+ {
+  "id": "poetshulp/waregem",
+  "path": "poetshulp/waregem.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Waregem",
+  "place": "Waregem",
+  "postcode": "8790",
+  "provincie": "West-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Beveren-Leie",
+   "Desselgem",
+   "Sint-Eloois-Vijve"
+  ],
+  "in_de_buurt": [
+   "Harelbeke",
+   "Deerlijk",
+   "Anzegem",
+   "Zulte",
+   "Wielsbeke",
+   "Kruisem"
+  ],
+  "streek": "Leiestreek",
+  "angle": "familiebedrijven waar zaak en woning dicht bij elkaar liggen",
+  "scenario": "een verzekeringskantoor met een onthaal"
+ },
+ {
+  "id": "poetshulp/anzegem",
+  "path": "poetshulp/anzegem.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Anzegem",
+  "place": "Anzegem",
+  "postcode": "8570",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Gijzelbrechtegem",
+   "Ingooigem",
+   "Kaster",
+   "Tiegem",
+   "Vichte"
+  ],
+  "in_de_buurt": [
+   "Waregem",
+   "Deerlijk",
+   "Zwevegem",
+   "Avelgem"
+  ],
+  "streek": "regio Kortrijk",
+  "angle": "land- en tuinbouwbedrijven met een vennootschap: bureau, refter en woning",
+  "scenario": "een architect die thuis werkt"
+ },
+ {
+  "id": "poetshulp/avelgem",
+  "path": "poetshulp/avelgem.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Avelgem",
+  "place": "Avelgem",
+  "postcode": "8580",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Bossuit",
+   "Kerkhove",
+   "Outrijve",
+   "Waarmaarde"
+  ],
+  "in_de_buurt": [
+   "Zwevegem",
+   "Anzegem",
+   "Spiere-Helkijn",
+   "Kluisbergen"
+  ],
+  "streek": "regio Kortrijk",
+  "angle": "ondernemers met een kantoor aan huis: kantoor en woning in één plan, met splitsing op de factuur",
+  "scenario": "een landbouwbedrijf met een bureau aan de hoeve"
+ },
+ {
+  "id": "poetshulp/lendelede",
+  "path": "poetshulp/lendelede.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Lendelede",
+  "place": "Lendelede",
+  "postcode": "8860",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Kuurne",
+   "Heule",
+   "Izegem",
+   "Ingelmunster",
+   "Moorsele"
+  ],
+  "streek": "regio Kortrijk",
+  "angle": "praktijken en kantoren die liefst vroeg in de ochtend of over de middag laten poetsen, buiten de drukte",
+  "scenario": "een transportfirma met een chauffeursruimte"
+ },
+ {
+  "id": "poetshulp/ledegem",
+  "path": "poetshulp/ledegem.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Ledegem",
+  "place": "Ledegem",
+  "postcode": "8880",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Rollegem-Kapelle",
+   "Sint-Eloois-Winkel"
+  ],
+  "in_de_buurt": [
+   "Moorslede",
+   "Wevelgem",
+   "Izegem",
+   "Menen"
+  ],
+  "streek": "regio Roeselare",
+  "angle": "vrije beroepen met een praktijk (wachtzaal, consultatieruimte, sanitair) en daarnaast hun woning",
+  "scenario": "een IT-consultant met een thuiskantoor"
+ },
+ {
+  "id": "poetshulp/moorslede",
+  "path": "poetshulp/moorslede.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Moorslede",
+  "place": "Moorslede",
+  "postcode": "8890",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Dadizele"
+  ],
+  "in_de_buurt": [
+   "Ledegem",
+   "Roeselare",
+   "Zonnebeke",
+   "Staden"
+  ],
+  "streek": "regio Roeselare",
+  "angle": "starters en jonge vennootschappen die hun eerste kantoor of praktijk inrichten",
+  "scenario": "een opticien in een winkelstraat"
+ },
+ {
+  "id": "poetshulp/izegem",
+  "path": "poetshulp/izegem.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Izegem",
+  "place": "Izegem",
+  "postcode": "8870",
+  "provincie": "West-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Emelgem",
+   "Kachtem"
+  ],
+  "in_de_buurt": [
+   "Roeselare",
+   "Ingelmunster",
+   "Lendelede",
+   "Ledegem",
+   "Ardooie"
+  ],
+  "streek": "regio Roeselare",
+  "angle": "bedrijven die naast het poetsen ook de was en strijk, het koken of de boodschappen willen uitbesteden",
+  "scenario": "een kapsalon in de dorpskern"
+ },
+ {
+  "id": "poetshulp/ingelmunster",
+  "path": "poetshulp/ingelmunster.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Ingelmunster",
+  "place": "Ingelmunster",
+  "postcode": "8770",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Izegem",
+   "Meulebeke",
+   "Oostrozebeke",
+   "Lendelede"
+  ],
+  "streek": "regio Roeselare",
+  "angle": "winkels en zaken in de dorpskern of het centrum: poetsen voor de deur opengaat",
+  "scenario": "een showroom met keukens of badkamers"
+ },
+ {
+  "id": "poetshulp/roeselare",
+  "path": "poetshulp/roeselare.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Roeselare",
+  "place": "Roeselare",
+  "postcode": "8800",
+  "provincie": "West-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Beveren",
+   "Oekene",
+   "Rumbeke"
+  ],
+  "in_de_buurt": [
+   "Izegem",
+   "Hooglede",
+   "Moorslede",
+   "Ardooie",
+   "Lichtervelde",
+   "Staden"
+  ],
+  "streek": "regio Roeselare",
+  "angle": "bedrijven met een showroom of ontvangstruimte waar klanten binnenstappen",
+  "scenario": "een logopediste met een praktijk aan huis"
+ },
+ {
+  "id": "poetshulp/rumbeke",
+  "path": "poetshulp/rumbeke.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Rumbeke",
+  "place": "Rumbeke",
+  "postcode": "8800",
+  "provincie": "West-Vlaanderen",
+  "soort": "deelgemeente",
+  "deel_van": "Roeselare",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Roeselare",
+   "Oekene",
+   "Ardooie",
+   "Izegem",
+   "Beveren"
+  ],
+  "streek": "regio Roeselare",
+  "angle": "kleine kantoren met een team van een handvol tot vijftien mensen: bureaus, keuken of refter, sanitair",
+  "scenario": "een tandartspraktijk met twee behandelkamers"
+ },
+ {
+  "id": "poetshulp/hooglede",
+  "path": "poetshulp/hooglede.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Hooglede",
+  "place": "Hooglede",
+  "postcode": "8830",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Gits"
+  ],
+  "in_de_buurt": [
+   "Roeselare",
+   "Staden",
+   "Lichtervelde",
+   "Kortemark"
+  ],
+  "streek": "regio Roeselare",
+  "angle": "zaakvoerders die veel onderweg zijn: kantoor en huis lopen door terwijl zij weg zijn",
+  "scenario": "een advocatenkantoor met twee vennoten"
+ },
+ {
+  "id": "poetshulp/staden",
+  "path": "poetshulp/staden.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Staden",
+  "place": "Staden",
+  "postcode": "8840",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Oostnieuwkerke",
+   "Westrozebeke"
+  ],
+  "in_de_buurt": [
+   "Hooglede",
+   "Roeselare",
+   "Moorslede",
+   "Langemark-Poelkapelle",
+   "Zonnebeke"
+  ],
+  "streek": "regio Roeselare",
+  "angle": "kmo's met een refter, kleedruimte en sanitair voor de ploeg",
+  "scenario": "een accountantskantoor met zes medewerkers"
+ },
+ {
+  "id": "poetshulp/lichtervelde",
+  "path": "poetshulp/lichtervelde.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Lichtervelde",
+  "place": "Lichtervelde",
+  "postcode": "8810",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Torhout",
+   "Ardooie",
+   "Hooglede",
+   "Roeselare"
+  ],
+  "streek": "regio Roeselare",
+  "angle": "familiebedrijven waar zaak en woning dicht bij elkaar liggen",
+  "scenario": "een groepspraktijk van huisartsen"
+ },
+ {
+  "id": "poetshulp/ardooie",
+  "path": "poetshulp/ardooie.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Ardooie",
+  "place": "Ardooie",
+  "postcode": "8850",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Koolskamp"
+  ],
+  "in_de_buurt": [
+   "Roeselare",
+   "Izegem",
+   "Lichtervelde",
+   "Pittem",
+   "Meulebeke"
+  ],
+  "streek": "regio Roeselare",
+  "angle": "land- en tuinbouwbedrijven met een vennootschap: bureau, refter en woning",
+  "scenario": "een interieurzaak met een toonzaal"
+ },
+ {
+  "id": "poetshulp/meulebeke",
+  "path": "poetshulp/meulebeke.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Meulebeke",
+  "place": "Meulebeke",
+  "postcode": "8760",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Tielt",
+   "Ingelmunster",
+   "Oostrozebeke",
+   "Pittem",
+   "Dentergem"
+  ],
+  "streek": "regio Tielt",
+  "angle": "ondernemers met een kantoor aan huis: kantoor en woning in één plan, met splitsing op de factuur",
+  "scenario": "een bouwbedrijf met een kantoor en een refter voor de ploeg"
+ },
+ {
+  "id": "poetshulp/tielt",
+  "path": "poetshulp/tielt.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Tielt",
+  "place": "Tielt",
+  "postcode": "8700",
+  "provincie": "West-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Aarsele",
+   "Kanegem",
+   "Schuiferskapelle"
+  ],
+  "in_de_buurt": [
+   "Pittem",
+   "Meulebeke",
+   "Dentergem",
+   "Wingene",
+   "Ruiselede"
+  ],
+  "streek": "regio Tielt",
+  "angle": "praktijken en kantoren die liefst vroeg in de ochtend of over de middag laten poetsen, buiten de drukte",
+  "scenario": "een webshop met een klein magazijn"
+ },
+ {
+  "id": "poetshulp/oostrozebeke",
+  "path": "poetshulp/oostrozebeke.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Oostrozebeke",
+  "place": "Oostrozebeke",
+  "postcode": "8780",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Wielsbeke",
+   "Ingelmunster",
+   "Meulebeke"
+  ],
+  "streek": "Leiestreek",
+  "angle": "vrije beroepen met een praktijk (wachtzaal, consultatieruimte, sanitair) en daarnaast hun woning",
+  "scenario": "een kinesitherapeut met een praktijk aan huis"
+ },
+ {
+  "id": "poetshulp/wielsbeke",
+  "path": "poetshulp/wielsbeke.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Wielsbeke",
+  "place": "Wielsbeke",
+  "postcode": "8710",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Ooigem",
+   "Sint-Baafs-Vijve"
+  ],
+  "in_de_buurt": [
+   "Oostrozebeke",
+   "Waregem",
+   "Dentergem",
+   "Meulebeke"
+  ],
+  "streek": "Leiestreek",
+  "angle": "starters en jonge vennootschappen die hun eerste kantoor of praktijk inrichten",
+  "scenario": "een notariskantoor met een wachtzaal"
+ },
+ {
+  "id": "poetshulp/dentergem",
+  "path": "poetshulp/dentergem.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Dentergem",
+  "place": "Dentergem",
+  "postcode": "8720",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Markegem",
+   "Oeselgem",
+   "Wakken"
+  ],
+  "in_de_buurt": [
+   "Wielsbeke",
+   "Tielt",
+   "Zulte",
+   "Deinze",
+   "Meulebeke"
+  ],
+  "streek": "Leiestreek",
+  "angle": "bedrijven die naast het poetsen ook de was en strijk, het koken of de boodschappen willen uitbesteden",
+  "scenario": "een verzekeringskantoor met een onthaal"
+ },
+ {
+  "id": "poetshulp/zulte",
+  "path": "poetshulp/zulte.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Zulte",
+  "place": "Zulte",
+  "postcode": "9870",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Machelen",
+   "Olsene"
+  ],
+  "in_de_buurt": [
+   "Waregem",
+   "Deinze",
+   "Kruisem",
+   "Dentergem",
+   "Wielsbeke"
+  ],
+  "streek": "Leiestreek",
+  "angle": "winkels en zaken in de dorpskern of het centrum: poetsen voor de deur opengaat",
+  "scenario": "een architect die thuis werkt"
+ },
+ {
+  "id": "poetshulp/pittem",
+  "path": "poetshulp/pittem.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Pittem",
+  "place": "Pittem",
+  "postcode": "8740",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Egem"
+  ],
+  "in_de_buurt": [
+   "Tielt",
+   "Ardooie",
+   "Wingene",
+   "Meulebeke"
+  ],
+  "streek": "regio Tielt",
+  "angle": "bedrijven met een showroom of ontvangstruimte waar klanten binnenstappen",
+  "scenario": "een landbouwbedrijf met een bureau aan de hoeve"
+ },
+ {
+  "id": "poetshulp/ieper",
+  "path": "poetshulp/ieper.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Ieper",
+  "place": "Ieper",
+  "postcode": "8900",
+  "provincie": "West-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Boezinge",
+   "Brielen",
+   "Dikkebus",
+   "Elverdinge",
+   "Hollebeke",
+   "Sint-Jan",
+   "Vlamertinge",
+   "Voormezele",
+   "Zillebeke",
+   "Zuidschote"
+  ],
+  "in_de_buurt": [
+   "Zonnebeke",
+   "Poperinge",
+   "Langemark-Poelkapelle",
+   "Wervik"
+  ],
+  "streek": "Westhoek",
+  "angle": "kleine kantoren met een team van een handvol tot vijftien mensen: bureaus, keuken of refter, sanitair",
+  "scenario": "een transportfirma met een chauffeursruimte"
+ },
+ {
+  "id": "poetshulp/zonnebeke",
+  "path": "poetshulp/zonnebeke.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Zonnebeke",
+  "place": "Zonnebeke",
+  "postcode": "8980",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Beselare",
+   "Geluveld",
+   "Passendale",
+   "Zandvoorde"
+  ],
+  "in_de_buurt": [
+   "Ieper",
+   "Moorslede",
+   "Langemark-Poelkapelle",
+   "Staden",
+   "Wervik"
+  ],
+  "streek": "Westhoek",
+  "angle": "zaakvoerders die veel onderweg zijn: kantoor en huis lopen door terwijl zij weg zijn",
+  "scenario": "een IT-consultant met een thuiskantoor"
+ },
+ {
+  "id": "poetshulp/oudenaarde",
+  "path": "poetshulp/oudenaarde.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Oudenaarde",
+  "place": "Oudenaarde",
+  "postcode": "9700",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Bevere",
+   "Edelare",
+   "Eine",
+   "Ename",
+   "Heurne",
+   "Leupegem",
+   "Mater",
+   "Melden",
+   "Mullem",
+   "Nederename",
+   "Volkegem",
+   "Welden"
+  ],
+  "in_de_buurt": [
+   "Kruisem",
+   "Wortegem-Petegem",
+   "Kluisbergen",
+   "Ronse"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "angle": "kmo's met een refter, kleedruimte en sanitair voor de ploeg",
+  "scenario": "een opticien in een winkelstraat"
+ },
+ {
+  "id": "poetshulp/kruisem",
+  "path": "poetshulp/kruisem.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Kruisem",
+  "place": "Kruisem",
+  "postcode": "9770",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Kruishoutem",
+   "Zingem",
+   "Lozer",
+   "Nokere",
+   "Wannegem-Lede",
+   "Huise",
+   "Ouwegem"
+  ],
+  "in_de_buurt": [
+   "Oudenaarde",
+   "Waregem",
+   "Zulte",
+   "Wortegem-Petegem",
+   "Gavere"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "angle": "familiebedrijven waar zaak en woning dicht bij elkaar liggen",
+  "scenario": "een kapsalon in de dorpskern"
+ },
+ {
+  "id": "poetshulp/brugge",
+  "path": "poetshulp/brugge.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Brugge",
+  "place": "Brugge",
+  "postcode": "8000",
+  "provincie": "West-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Assebroek",
+   "Dudzele",
+   "Koolkerke",
+   "Lissewege",
+   "Sint-Andries",
+   "Sint-Kruis",
+   "Sint-Michiels",
+   "Zeebrugge"
+  ],
+  "in_de_buurt": [
+   "Oostkamp",
+   "Zedelgem",
+   "Beernem",
+   "Damme",
+   "Jabbeke"
+  ],
+  "streek": "regio Brugge",
+  "angle": "land- en tuinbouwbedrijven met een vennootschap: bureau, refter en woning",
+  "scenario": "een showroom met keukens of badkamers"
+ },
+ {
+  "id": "poetshulp/oostende",
+  "path": "poetshulp/oostende.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Oostende",
+  "place": "Oostende",
+  "postcode": "8400",
+  "provincie": "West-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Stene",
+   "Zandvoorde"
+  ],
+  "in_de_buurt": [
+   "Bredene",
+   "Middelkerke",
+   "Oudenburg",
+   "Gistel"
+  ],
+  "streek": "kust",
+  "angle": "ondernemers met een kantoor aan huis: kantoor en woning in één plan, met splitsing op de factuur",
+  "scenario": "een logopediste met een praktijk aan huis"
+ },
+ {
+  "id": "poetshulp/torhout",
+  "path": "poetshulp/torhout.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Torhout",
+  "place": "Torhout",
+  "postcode": "8820",
+  "provincie": "West-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Lichtervelde",
+   "Kortemark",
+   "Zedelgem",
+   "Ichtegem",
+   "Oostkamp"
+  ],
+  "streek": "regio Brugge",
+  "angle": "praktijken en kantoren die liefst vroeg in de ochtend of over de middag laten poetsen, buiten de drukte",
+  "scenario": "een tandartspraktijk met twee behandelkamers"
+ },
+ {
+  "id": "poetshulp/oostkamp",
+  "path": "poetshulp/oostkamp.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Oostkamp",
+  "place": "Oostkamp",
+  "postcode": "8020",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Hertsberge",
+   "Ruddervoorde",
+   "Waardamme"
+  ],
+  "in_de_buurt": [
+   "Brugge",
+   "Beernem",
+   "Zedelgem",
+   "Torhout"
+  ],
+  "streek": "regio Brugge",
+  "angle": "vrije beroepen met een praktijk (wachtzaal, consultatieruimte, sanitair) en daarnaast hun woning",
+  "scenario": "een advocatenkantoor met twee vennoten"
+ },
+ {
+  "id": "poetshulp/zedelgem",
+  "path": "poetshulp/zedelgem.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Zedelgem",
+  "place": "Zedelgem",
+  "postcode": "8210",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Aartrijke",
+   "Loppem",
+   "Veldegem"
+  ],
+  "in_de_buurt": [
+   "Brugge",
+   "Oostkamp",
+   "Torhout",
+   "Jabbeke",
+   "Ichtegem"
+  ],
+  "streek": "regio Brugge",
+  "angle": "starters en jonge vennootschappen die hun eerste kantoor of praktijk inrichten",
+  "scenario": "een accountantskantoor met zes medewerkers"
+ },
+ {
+  "id": "poetshulp/beernem",
+  "path": "poetshulp/beernem.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Beernem",
+  "place": "Beernem",
+  "postcode": "8730",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Oedelem",
+   "Sint-Joris"
+  ],
+  "in_de_buurt": [
+   "Oostkamp",
+   "Brugge",
+   "Wingene",
+   "Aalter"
+  ],
+  "streek": "regio Brugge",
+  "angle": "bedrijven die naast het poetsen ook de was en strijk, het koken of de boodschappen willen uitbesteden",
+  "scenario": "een groepspraktijk van huisartsen"
+ },
+ {
+  "id": "poetshulp/wingene",
+  "path": "poetshulp/wingene.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Wingene",
+  "place": "Wingene",
+  "postcode": "8750",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Zwevezele"
+  ],
+  "in_de_buurt": [
+   "Tielt",
+   "Ruiselede",
+   "Beernem",
+   "Pittem",
+   "Ardooie"
+  ],
+  "streek": "regio Tielt",
+  "angle": "winkels en zaken in de dorpskern of het centrum: poetsen voor de deur opengaat",
+  "scenario": "een interieurzaak met een toonzaal"
+ },
+ {
+  "id": "poetshulp/ruiselede",
+  "path": "poetshulp/ruiselede.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Ruiselede",
+  "place": "Ruiselede",
+  "postcode": "8755",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Doomkerke"
+  ],
+  "in_de_buurt": [
+   "Wingene",
+   "Tielt",
+   "Aalter",
+   "Beernem"
+  ],
+  "streek": "regio Tielt",
+  "angle": "bedrijven met een showroom of ontvangstruimte waar klanten binnenstappen",
+  "scenario": "een bouwbedrijf met een kantoor en een refter voor de ploeg"
+ },
+ {
+  "id": "poetshulp/kortemark",
+  "path": "poetshulp/kortemark.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Kortemark",
+  "place": "Kortemark",
+  "postcode": "8610",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Handzame",
+   "Werken",
+   "Zarren"
+  ],
+  "in_de_buurt": [
+   "Torhout",
+   "Hooglede",
+   "Diksmuide",
+   "Houthulst",
+   "Ichtegem"
+  ],
+  "streek": "Westhoek",
+  "angle": "kleine kantoren met een team van een handvol tot vijftien mensen: bureaus, keuken of refter, sanitair",
+  "scenario": "een webshop met een klein magazijn"
+ },
+ {
+  "id": "poetshulp/diksmuide",
+  "path": "poetshulp/diksmuide.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Diksmuide",
+  "place": "Diksmuide",
+  "postcode": "8600",
+  "provincie": "West-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Beerst",
+   "Esen",
+   "Kaaskerke",
+   "Keiem",
+   "Lampernisse",
+   "Leke",
+   "Nieuwkapelle",
+   "Oostkerke",
+   "Oudekapelle",
+   "Pervijze",
+   "Sint-Jacobskapelle",
+   "Stuivekenskerke",
+   "Vladslo",
+   "Woumen"
+  ],
+  "in_de_buurt": [
+   "Kortemark",
+   "Houthulst",
+   "Lo-Reninge",
+   "Koekelare"
+  ],
+  "streek": "Westhoek",
+  "angle": "zaakvoerders die veel onderweg zijn: kantoor en huis lopen door terwijl zij weg zijn",
+  "scenario": "een kinesitherapeut met een praktijk aan huis"
+ },
+ {
+  "id": "poetshulp/poperinge",
+  "path": "poetshulp/poperinge.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Poperinge",
+  "place": "Poperinge",
+  "postcode": "8970",
+  "provincie": "West-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Krombeke",
+   "Proven",
+   "Roesbrugge-Haringe",
+   "Watou"
+  ],
+  "in_de_buurt": [
+   "Ieper",
+   "Vleteren",
+   "Heuvelland"
+  ],
+  "streek": "Westhoek",
+  "angle": "kmo's met een refter, kleedruimte en sanitair voor de ploeg",
+  "scenario": "een notariskantoor met een wachtzaal"
+ },
+ {
+  "id": "poetshulp/langemark-poelkapelle",
+  "path": "poetshulp/langemark-poelkapelle.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Langemark-Poelkapelle",
+  "place": "Langemark-Poelkapelle",
+  "postcode": "8920",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Langemark",
+   "Poelkapelle",
+   "Bikschote"
+  ],
+  "in_de_buurt": [
+   "Ieper",
+   "Staden",
+   "Houthulst",
+   "Zonnebeke"
+  ],
+  "streek": "Westhoek",
+  "angle": "familiebedrijven waar zaak en woning dicht bij elkaar liggen",
+  "scenario": "een verzekeringskantoor met een onthaal"
+ },
+ {
+  "id": "poetshulp/spiere-helkijn",
+  "path": "poetshulp/spiere-helkijn.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Spiere-Helkijn",
+  "place": "Spiere-Helkijn",
+  "postcode": "8587",
+  "provincie": "West-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Spiere",
+   "Helkijn"
+  ],
+  "in_de_buurt": [
+   "Avelgem",
+   "Zwevegem",
+   "Kooigem"
+  ],
+  "streek": "regio Kortrijk",
+  "angle": "land- en tuinbouwbedrijven met een vennootschap: bureau, refter en woning",
+  "scenario": "een architect die thuis werkt"
+ },
+ {
+  "id": "poetshulp/gent",
+  "path": "poetshulp/gent.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Gent",
+  "place": "Gent",
+  "postcode": "9000",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Afsnee",
+   "Drongen",
+   "Gentbrugge",
+   "Ledeberg",
+   "Mariakerke",
+   "Oostakker",
+   "Sint-Amandsberg",
+   "Sint-Denijs-Westrem",
+   "Wondelgem",
+   "Zwijnaarde"
+  ],
+  "in_de_buurt": [
+   "Merelbeke",
+   "De Pinte",
+   "Sint-Martens-Latem",
+   "Destelbergen",
+   "Lochristi",
+   "Evergem"
+  ],
+  "streek": "regio Gent",
+  "angle": "ondernemers met een kantoor aan huis: kantoor en woning in één plan, met splitsing op de factuur",
+  "scenario": "een landbouwbedrijf met een bureau aan de hoeve"
+ },
+ {
+  "id": "poetshulp/deinze",
+  "path": "poetshulp/deinze.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Deinze",
+  "place": "Deinze",
+  "postcode": "9800",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Astene",
+   "Bachte-Maria-Leerne",
+   "Gottem",
+   "Grammene",
+   "Meigem",
+   "Petegem-aan-de-Leie",
+   "Vinkt",
+   "Zeveren",
+   "Nevele",
+   "Landegem",
+   "Merendree"
+  ],
+  "in_de_buurt": [
+   "Zulte",
+   "Nazareth",
+   "Sint-Martens-Latem",
+   "Aalter",
+   "Dentergem",
+   "Kruisem"
+  ],
+  "streek": "Leiestreek",
+  "angle": "praktijken en kantoren die liefst vroeg in de ochtend of over de middag laten poetsen, buiten de drukte",
+  "scenario": "een transportfirma met een chauffeursruimte"
+ },
+ {
+  "id": "poetshulp/nazareth",
+  "path": "poetshulp/nazareth.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Nazareth",
+  "place": "Nazareth",
+  "postcode": "9810",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Eke"
+  ],
+  "in_de_buurt": [
+   "Deinze",
+   "De Pinte",
+   "Gavere",
+   "Kruisem"
+  ],
+  "streek": "regio Gent",
+  "angle": "vrije beroepen met een praktijk (wachtzaal, consultatieruimte, sanitair) en daarnaast hun woning",
+  "scenario": "een IT-consultant met een thuiskantoor"
+ },
+ {
+  "id": "poetshulp/de-pinte",
+  "path": "poetshulp/de-pinte.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in De Pinte",
+  "place": "De Pinte",
+  "postcode": "9840",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Zevergem"
+  ],
+  "in_de_buurt": [
+   "Gent",
+   "Nazareth",
+   "Sint-Martens-Latem",
+   "Merelbeke",
+   "Gavere"
+  ],
+  "streek": "regio Gent",
+  "angle": "starters en jonge vennootschappen die hun eerste kantoor of praktijk inrichten",
+  "scenario": "een opticien in een winkelstraat"
+ },
+ {
+  "id": "poetshulp/sint-martens-latem",
+  "path": "poetshulp/sint-martens-latem.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Sint-Martens-Latem",
+  "place": "Sint-Martens-Latem",
+  "postcode": "9830",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Deurle"
+  ],
+  "in_de_buurt": [
+   "Gent",
+   "De Pinte",
+   "Deinze",
+   "Nazareth"
+  ],
+  "streek": "regio Gent",
+  "angle": "bedrijven die naast het poetsen ook de was en strijk, het koken of de boodschappen willen uitbesteden",
+  "scenario": "een kapsalon in de dorpskern"
+ },
+ {
+  "id": "poetshulp/merelbeke",
+  "path": "poetshulp/merelbeke.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Merelbeke",
+  "place": "Merelbeke",
+  "postcode": "9820",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Bottelare",
+   "Lemberge",
+   "Melsen",
+   "Munte",
+   "Schelderode"
+  ],
+  "in_de_buurt": [
+   "Gent",
+   "Melle",
+   "De Pinte",
+   "Oosterzele",
+   "Gavere"
+  ],
+  "streek": "regio Gent",
+  "angle": "winkels en zaken in de dorpskern of het centrum: poetsen voor de deur opengaat",
+  "scenario": "een showroom met keukens of badkamers"
+ },
+ {
+  "id": "poetshulp/gavere",
+  "path": "poetshulp/gavere.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Gavere",
+  "place": "Gavere",
+  "postcode": "9890",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Asper",
+   "Baaigem",
+   "Dikkelvenne",
+   "Semmerzake",
+   "Vurste"
+  ],
+  "in_de_buurt": [
+   "Nazareth",
+   "Kruisem",
+   "Zwalm",
+   "Merelbeke"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "angle": "bedrijven met een showroom of ontvangstruimte waar klanten binnenstappen",
+  "scenario": "een logopediste met een praktijk aan huis"
+ },
+ {
+  "id": "poetshulp/wortegem-petegem",
+  "path": "poetshulp/wortegem-petegem.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Wortegem-Petegem",
+  "place": "Wortegem-Petegem",
+  "postcode": "9790",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Elsegem",
+   "Moregem",
+   "Ooike",
+   "Petegem-aan-de-Schelde"
+  ],
+  "in_de_buurt": [
+   "Oudenaarde",
+   "Waregem",
+   "Kruisem",
+   "Anzegem"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "angle": "kleine kantoren met een team van een handvol tot vijftien mensen: bureaus, keuken of refter, sanitair",
+  "scenario": "een tandartspraktijk met twee behandelkamers"
+ },
+ {
+  "id": "poetshulp/kluisbergen",
+  "path": "poetshulp/kluisbergen.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Kluisbergen",
+  "place": "Kluisbergen",
+  "postcode": "9690",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Berchem",
+   "Kwaremont",
+   "Ruien",
+   "Zulzeke"
+  ],
+  "in_de_buurt": [
+   "Avelgem",
+   "Oudenaarde",
+   "Ronse",
+   "Anzegem"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "angle": "zaakvoerders die veel onderweg zijn: kantoor en huis lopen door terwijl zij weg zijn",
+  "scenario": "een advocatenkantoor met twee vennoten"
+ },
+ {
+  "id": "poetshulp/ronse",
+  "path": "poetshulp/ronse.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Ronse",
+  "place": "Ronse",
+  "postcode": "9600",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Kluisbergen",
+   "Maarkedal",
+   "Oudenaarde"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "angle": "kmo's met een refter, kleedruimte en sanitair voor de ploeg",
+  "scenario": "een accountantskantoor met zes medewerkers"
+ },
+ {
+  "id": "poetshulp/zottegem",
+  "path": "poetshulp/zottegem.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Zottegem",
+  "place": "Zottegem",
+  "postcode": "9620",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Elene",
+   "Erwetegem",
+   "Godveerdegem",
+   "Grotenberge",
+   "Leeuwergem",
+   "Oombergen",
+   "Strijpen",
+   "Velzeke-Ruddershove"
+  ],
+  "in_de_buurt": [
+   "Zwalm",
+   "Oosterzele",
+   "Herzele",
+   "Brakel"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "angle": "familiebedrijven waar zaak en woning dicht bij elkaar liggen",
+  "scenario": "een groepspraktijk van huisartsen"
+ },
+ {
+  "id": "poetshulp/aalter",
+  "path": "poetshulp/aalter.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Aalter",
+  "place": "Aalter",
+  "postcode": "9880",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Bellem",
+   "Lotenhulle",
+   "Poeke",
+   "Knesselare",
+   "Ursel"
+  ],
+  "in_de_buurt": [
+   "Deinze",
+   "Beernem",
+   "Ruiselede",
+   "Maldegem"
+  ],
+  "streek": "regio Gent",
+  "angle": "land- en tuinbouwbedrijven met een vennootschap: bureau, refter en woning",
+  "scenario": "een interieurzaak met een toonzaal"
+ },
+ {
+  "id": "poetshulp/west-vlaanderen",
+  "path": "poetshulp/west-vlaanderen.html",
+  "kind": "regio",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in West-Vlaanderen",
+  "regio": "provincie West-Vlaanderen",
+  "members": [
+   "Kortrijk",
+   "Wevelgem",
+   "Menen",
+   "Wervik",
+   "Harelbeke",
+   "Kuurne",
+   "Zwevegem",
+   "Deerlijk",
+   "Waregem",
+   "Anzegem",
+   "Avelgem",
+   "Lendelede",
+   "Ledegem",
+   "Moorslede",
+   "Izegem",
+   "Ingelmunster",
+   "Roeselare",
+   "Hooglede",
+   "Staden",
+   "Lichtervelde",
+   "Ardooie",
+   "Meulebeke",
+   "Tielt",
+   "Oostrozebeke",
+   "Wielsbeke",
+   "Dentergem",
+   "Pittem",
+   "Ieper",
+   "Zonnebeke",
+   "Brugge",
+   "Oostende",
+   "Torhout",
+   "Oostkamp",
+   "Zedelgem",
+   "Beernem",
+   "Wingene",
+   "Ruiselede",
+   "Kortemark",
+   "Diksmuide",
+   "Poperinge",
+   "Langemark-Poelkapelle",
+   "Spiere-Helkijn"
+  ]
+ },
+ {
+  "id": "poetshulp/oost-vlaanderen",
+  "path": "poetshulp/oost-vlaanderen.html",
+  "kind": "regio",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Oost-Vlaanderen",
+  "regio": "provincie Oost-Vlaanderen",
+  "members": [
+   "Zulte",
+   "Oudenaarde",
+   "Kruisem",
+   "Gent",
+   "Deinze",
+   "Nazareth",
+   "De Pinte",
+   "Sint-Martens-Latem",
+   "Merelbeke",
+   "Gavere",
+   "Wortegem-Petegem",
+   "Kluisbergen",
+   "Ronse",
+   "Zottegem",
+   "Aalter"
+  ]
+ },
+ {
+  "id": "poetshulp/regio-kortrijk",
+  "path": "poetshulp/regio-kortrijk.html",
+  "kind": "regio",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in de regio Kortrijk",
+  "regio": "regio Kortrijk",
+  "members": [
+   "Kortrijk",
+   "Marke",
+   "Heule",
+   "Bissegem",
+   "Aalbeke",
+   "Bellegem",
+   "Rollegem",
+   "Kooigem",
+   "Wevelgem",
+   "Gullegem",
+   "Moorsele",
+   "Menen",
+   "Lauwe",
+   "Rekkem",
+   "Wervik",
+   "Geluwe",
+   "Harelbeke",
+   "Kuurne",
+   "Zwevegem",
+   "Deerlijk",
+   "Anzegem",
+   "Avelgem",
+   "Lendelede",
+   "Spiere-Helkijn"
+  ]
+ },
+ {
+  "id": "poetshulp/regio-roeselare",
+  "path": "poetshulp/regio-roeselare.html",
+  "kind": "regio",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in de regio Roeselare",
+  "regio": "regio Roeselare",
+  "members": [
+   "Ledegem",
+   "Moorslede",
+   "Izegem",
+   "Ingelmunster",
+   "Roeselare",
+   "Rumbeke",
+   "Hooglede",
+   "Staden",
+   "Lichtervelde",
+   "Ardooie"
+  ]
+ },
+ {
+  "id": "poetshulp/regio-brugge",
+  "path": "poetshulp/regio-brugge.html",
+  "kind": "regio",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in de regio Brugge",
+  "regio": "regio Brugge",
+  "members": [
+   "Brugge",
+   "Torhout",
+   "Oostkamp",
+   "Zedelgem",
+   "Beernem"
+  ]
+ },
+ {
+  "id": "poetshulp/regio-gent",
+  "path": "poetshulp/regio-gent.html",
+  "kind": "regio",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in de regio Gent",
+  "regio": "regio Gent",
+  "members": [
+   "Gent",
+   "Nazareth",
+   "De Pinte",
+   "Sint-Martens-Latem",
+   "Merelbeke",
+   "Aalter"
+  ]
+ },
+ {
+  "id": "poetshulp/leiestreek",
+  "path": "poetshulp/leiestreek.html",
+  "kind": "regio",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in de Leiestreek",
+  "regio": "Leiestreek",
+  "members": [
+   "Waregem",
+   "Oostrozebeke",
+   "Wielsbeke",
+   "Dentergem",
+   "Zulte",
+   "Deinze"
+  ]
+ },
+ {
+  "id": "poetshulp/westhoek",
+  "path": "poetshulp/westhoek.html",
+  "kind": "regio",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in de Westhoek",
+  "regio": "Westhoek",
+  "members": [
+   "Ieper",
+   "Zonnebeke",
+   "Kortemark",
+   "Diksmuide",
+   "Poperinge",
+   "Langemark-Poelkapelle"
+  ]
+ },
+ {
+  "id": "poetshulp/vlaamse-ardennen",
+  "path": "poetshulp/vlaamse-ardennen.html",
+  "kind": "regio",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in de Vlaamse Ardennen",
+  "regio": "Vlaamse Ardennen",
+  "members": [
+   "Oudenaarde",
+   "Kruisem",
+   "Gavere",
+   "Wortegem-Petegem",
+   "Kluisbergen",
+   "Ronse",
+   "Zottegem"
+  ]
+ },
+ {
+  "id": "poetshulp/regio-tielt",
+  "path": "poetshulp/regio-tielt.html",
+  "kind": "regio",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in de regio Tielt",
+  "regio": "regio Tielt",
+  "members": [
+   "Meulebeke",
+   "Tielt",
+   "Pittem",
+   "Wingene",
+   "Ruiselede"
+  ]
+ },
+ {
+  "id": "regio/kookhulp-kortrijk",
+  "path": "regio/kookhulp-kortrijk.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Kortrijk",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Kortrijk",
+  "postcode": "8500",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Aalbeke",
+   "Bellegem",
+   "Bissegem",
+   "Heule",
+   "Kooigem",
+   "Marke",
+   "Rollegem"
+  ],
+  "in_de_buurt": [
+   "Kuurne",
+   "Harelbeke",
+   "Wevelgem",
+   "Menen",
+   "Zwevegem",
+   "Lendelede"
+  ],
+  "streek": "regio Kortrijk",
+  "scenario": "een kinesitherapeut met een praktijk aan huis"
+ },
+ {
+  "id": "regio/kookhulp-roeselare",
+  "path": "regio/kookhulp-roeselare.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Roeselare",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Roeselare",
+  "postcode": "8800",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Beveren",
+   "Oekene",
+   "Rumbeke"
+  ],
+  "in_de_buurt": [
+   "Izegem",
+   "Hooglede",
+   "Moorslede",
+   "Ardooie",
+   "Lichtervelde",
+   "Staden"
+  ],
+  "streek": "regio Roeselare",
+  "scenario": "een tandartspraktijk met twee behandelkamers"
+ },
+ {
+  "id": "regio/kookhulp-waregem",
+  "path": "regio/kookhulp-waregem.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Waregem",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Waregem",
+  "postcode": "8790",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Beveren-Leie",
+   "Desselgem",
+   "Sint-Eloois-Vijve"
+  ],
+  "in_de_buurt": [
+   "Harelbeke",
+   "Deerlijk",
+   "Anzegem",
+   "Zulte",
+   "Wielsbeke",
+   "Kruisem"
+  ],
+  "streek": "Leiestreek",
+  "scenario": "een landbouwbedrijf met een bureau aan de hoeve"
+ },
+ {
+  "id": "regio/kookhulp-ieper",
+  "path": "regio/kookhulp-ieper.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Ieper",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Ieper",
+  "postcode": "8900",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Boezinge",
+   "Brielen",
+   "Dikkebus",
+   "Elverdinge",
+   "Hollebeke",
+   "Sint-Jan",
+   "Vlamertinge",
+   "Voormezele",
+   "Zillebeke",
+   "Zuidschote"
+  ],
+  "in_de_buurt": [
+   "Zonnebeke",
+   "Poperinge",
+   "Langemark-Poelkapelle",
+   "Wervik"
+  ],
+  "streek": "Westhoek",
+  "scenario": "een interieurzaak met een toonzaal"
+ },
+ {
+  "id": "regio/kookhulp-izegem",
+  "path": "regio/kookhulp-izegem.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Izegem",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Izegem",
+  "postcode": "8870",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Emelgem",
+   "Kachtem"
+  ],
+  "in_de_buurt": [
+   "Roeselare",
+   "Ingelmunster",
+   "Lendelede",
+   "Ledegem",
+   "Ardooie"
+  ],
+  "streek": "regio Roeselare",
+  "scenario": "een kapsalon in de dorpskern"
+ },
+ {
+  "id": "regio/kookhulp-menen",
+  "path": "regio/kookhulp-menen.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Menen",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Menen",
+  "postcode": "8930",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Lauwe",
+   "Rekkem"
+  ],
+  "in_de_buurt": [
+   "Wevelgem",
+   "Wervik",
+   "Lauwe",
+   "Rekkem",
+   "Geluwe"
+  ],
+  "streek": "regio Kortrijk",
+  "scenario": "een notariskantoor met een wachtzaal"
+ },
+ {
+  "id": "regio/kookhulp-harelbeke",
+  "path": "regio/kookhulp-harelbeke.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Harelbeke",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Harelbeke",
+  "postcode": "8530",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Bavikhove",
+   "Hulste"
+  ],
+  "in_de_buurt": [
+   "Kortrijk",
+   "Kuurne",
+   "Deerlijk",
+   "Zwevegem",
+   "Wielsbeke"
+  ],
+  "streek": "regio Kortrijk",
+  "scenario": "een advocatenkantoor met twee vennoten"
+ },
+ {
+  "id": "regio/kookhulp-wevelgem",
+  "path": "regio/kookhulp-wevelgem.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Wevelgem",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Wevelgem",
+  "postcode": "8560",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Gullegem",
+   "Moorsele"
+  ],
+  "in_de_buurt": [
+   "Kortrijk",
+   "Menen",
+   "Ledegem",
+   "Lauwe",
+   "Bissegem"
+  ],
+  "streek": "regio Kortrijk",
+  "scenario": "een transportfirma met een chauffeursruimte"
+ },
+ {
+  "id": "regio/kookhulp-tielt",
+  "path": "regio/kookhulp-tielt.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Tielt",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Tielt",
+  "postcode": "8700",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Aarsele",
+   "Kanegem",
+   "Schuiferskapelle"
+  ],
+  "in_de_buurt": [
+   "Pittem",
+   "Meulebeke",
+   "Dentergem",
+   "Wingene",
+   "Ruiselede"
+  ],
+  "streek": "regio Tielt",
+  "scenario": "een bouwbedrijf met een kantoor en een refter voor de ploeg"
+ },
+ {
+  "id": "regio/kookhulp-oudenaarde",
+  "path": "regio/kookhulp-oudenaarde.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Oudenaarde",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Oudenaarde",
+  "postcode": "9700",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Bevere",
+   "Edelare",
+   "Eine",
+   "Ename",
+   "Heurne",
+   "Leupegem",
+   "Mater",
+   "Melden",
+   "Mullem",
+   "Nederename",
+   "Volkegem",
+   "Welden"
+  ],
+  "in_de_buurt": [
+   "Kruisem",
+   "Wortegem-Petegem",
+   "Kluisbergen",
+   "Ronse"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "scenario": "een showroom met keukens of badkamers"
+ },
+ {
+  "id": "regio/kookhulp-brugge",
+  "path": "regio/kookhulp-brugge.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Brugge",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Brugge",
+  "postcode": "8000",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Assebroek",
+   "Dudzele",
+   "Koolkerke",
+   "Lissewege",
+   "Sint-Andries",
+   "Sint-Kruis",
+   "Sint-Michiels",
+   "Zeebrugge"
+  ],
+  "in_de_buurt": [
+   "Oostkamp",
+   "Zedelgem",
+   "Beernem",
+   "Damme",
+   "Jabbeke"
+  ],
+  "streek": "regio Brugge",
+  "scenario": "een verzekeringskantoor met een onthaal"
+ },
+ {
+  "id": "regio/kookhulp-gent",
+  "path": "regio/kookhulp-gent.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Gent",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Gent",
+  "postcode": "9000",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Afsnee",
+   "Drongen",
+   "Gentbrugge",
+   "Ledeberg",
+   "Mariakerke",
+   "Oostakker",
+   "Sint-Amandsberg",
+   "Sint-Denijs-Westrem",
+   "Wondelgem",
+   "Zwijnaarde"
+  ],
+  "in_de_buurt": [
+   "Merelbeke",
+   "De Pinte",
+   "Sint-Martens-Latem",
+   "Destelbergen",
+   "Lochristi",
+   "Evergem"
+  ],
+  "streek": "regio Gent",
+  "scenario": "een accountantskantoor met zes medewerkers"
+ },
+ {
+  "id": "regio/boodschappendienst-kortrijk",
+  "path": "regio/boodschappendienst-kortrijk.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Kortrijk",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Kortrijk",
+  "postcode": "8500",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Aalbeke",
+   "Bellegem",
+   "Bissegem",
+   "Heule",
+   "Kooigem",
+   "Marke",
+   "Rollegem"
+  ],
+  "in_de_buurt": [
+   "Kuurne",
+   "Harelbeke",
+   "Wevelgem",
+   "Menen",
+   "Zwevegem",
+   "Lendelede"
+  ],
+  "streek": "regio Kortrijk",
+  "scenario": "een architect die thuis werkt"
+ },
+ {
+  "id": "regio/boodschappendienst-roeselare",
+  "path": "regio/boodschappendienst-roeselare.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Roeselare",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Roeselare",
+  "postcode": "8800",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Beveren",
+   "Oekene",
+   "Rumbeke"
+  ],
+  "in_de_buurt": [
+   "Izegem",
+   "Hooglede",
+   "Moorslede",
+   "Ardooie",
+   "Lichtervelde",
+   "Staden"
+  ],
+  "streek": "regio Roeselare",
+  "scenario": "een groepspraktijk van huisartsen"
+ },
+ {
+  "id": "regio/boodschappendienst-waregem",
+  "path": "regio/boodschappendienst-waregem.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Waregem",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Waregem",
+  "postcode": "8790",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Beveren-Leie",
+   "Desselgem",
+   "Sint-Eloois-Vijve"
+  ],
+  "in_de_buurt": [
+   "Harelbeke",
+   "Deerlijk",
+   "Anzegem",
+   "Zulte",
+   "Wielsbeke",
+   "Kruisem"
+  ],
+  "streek": "Leiestreek",
+  "scenario": "een opticien in een winkelstraat"
+ },
+ {
+  "id": "regio/boodschappendienst-ieper",
+  "path": "regio/boodschappendienst-ieper.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Ieper",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Ieper",
+  "postcode": "8900",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Boezinge",
+   "Brielen",
+   "Dikkebus",
+   "Elverdinge",
+   "Hollebeke",
+   "Sint-Jan",
+   "Vlamertinge",
+   "Voormezele",
+   "Zillebeke",
+   "Zuidschote"
+  ],
+  "in_de_buurt": [
+   "Zonnebeke",
+   "Poperinge",
+   "Langemark-Poelkapelle",
+   "Wervik"
+  ],
+  "streek": "Westhoek",
+  "scenario": "een kinesitherapeut met een praktijk aan huis"
+ },
+ {
+  "id": "regio/boodschappendienst-izegem",
+  "path": "regio/boodschappendienst-izegem.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Izegem",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Izegem",
+  "postcode": "8870",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Emelgem",
+   "Kachtem"
+  ],
+  "in_de_buurt": [
+   "Roeselare",
+   "Ingelmunster",
+   "Lendelede",
+   "Ledegem",
+   "Ardooie"
+  ],
+  "streek": "regio Roeselare",
+  "scenario": "een tandartspraktijk met twee behandelkamers"
+ },
+ {
+  "id": "regio/boodschappendienst-menen",
+  "path": "regio/boodschappendienst-menen.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Menen",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Menen",
+  "postcode": "8930",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Lauwe",
+   "Rekkem"
+  ],
+  "in_de_buurt": [
+   "Wevelgem",
+   "Wervik",
+   "Lauwe",
+   "Rekkem",
+   "Geluwe"
+  ],
+  "streek": "regio Kortrijk",
+  "scenario": "een landbouwbedrijf met een bureau aan de hoeve"
+ },
+ {
+  "id": "regio/boodschappendienst-harelbeke",
+  "path": "regio/boodschappendienst-harelbeke.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Harelbeke",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Harelbeke",
+  "postcode": "8530",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Bavikhove",
+   "Hulste"
+  ],
+  "in_de_buurt": [
+   "Kortrijk",
+   "Kuurne",
+   "Deerlijk",
+   "Zwevegem",
+   "Wielsbeke"
+  ],
+  "streek": "regio Kortrijk",
+  "scenario": "een interieurzaak met een toonzaal"
+ },
+ {
+  "id": "regio/boodschappendienst-wevelgem",
+  "path": "regio/boodschappendienst-wevelgem.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Wevelgem",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Wevelgem",
+  "postcode": "8560",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Gullegem",
+   "Moorsele"
+  ],
+  "in_de_buurt": [
+   "Kortrijk",
+   "Menen",
+   "Ledegem",
+   "Lauwe",
+   "Bissegem"
+  ],
+  "streek": "regio Kortrijk",
+  "scenario": "een kapsalon in de dorpskern"
+ },
+ {
+  "id": "regio/boodschappendienst-tielt",
+  "path": "regio/boodschappendienst-tielt.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Tielt",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Tielt",
+  "postcode": "8700",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Aarsele",
+   "Kanegem",
+   "Schuiferskapelle"
+  ],
+  "in_de_buurt": [
+   "Pittem",
+   "Meulebeke",
+   "Dentergem",
+   "Wingene",
+   "Ruiselede"
+  ],
+  "streek": "regio Tielt",
+  "scenario": "een notariskantoor met een wachtzaal"
+ },
+ {
+  "id": "regio/boodschappendienst-oudenaarde",
+  "path": "regio/boodschappendienst-oudenaarde.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Oudenaarde",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Oudenaarde",
+  "postcode": "9700",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Bevere",
+   "Edelare",
+   "Eine",
+   "Ename",
+   "Heurne",
+   "Leupegem",
+   "Mater",
+   "Melden",
+   "Mullem",
+   "Nederename",
+   "Volkegem",
+   "Welden"
+  ],
+  "in_de_buurt": [
+   "Kruisem",
+   "Wortegem-Petegem",
+   "Kluisbergen",
+   "Ronse"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "scenario": "een advocatenkantoor met twee vennoten"
+ },
+ {
+  "id": "regio/boodschappendienst-brugge",
+  "path": "regio/boodschappendienst-brugge.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Brugge",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Brugge",
+  "postcode": "8000",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Assebroek",
+   "Dudzele",
+   "Koolkerke",
+   "Lissewege",
+   "Sint-Andries",
+   "Sint-Kruis",
+   "Sint-Michiels",
+   "Zeebrugge"
+  ],
+  "in_de_buurt": [
+   "Oostkamp",
+   "Zedelgem",
+   "Beernem",
+   "Damme",
+   "Jabbeke"
+  ],
+  "streek": "regio Brugge",
+  "scenario": "een transportfirma met een chauffeursruimte"
+ },
+ {
+  "id": "regio/boodschappendienst-gent",
+  "path": "regio/boodschappendienst-gent.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Gent",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Gent",
+  "postcode": "9000",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Afsnee",
+   "Drongen",
+   "Gentbrugge",
+   "Ledeberg",
+   "Mariakerke",
+   "Oostakker",
+   "Sint-Amandsberg",
+   "Sint-Denijs-Westrem",
+   "Wondelgem",
+   "Zwijnaarde"
+  ],
+  "in_de_buurt": [
+   "Merelbeke",
+   "De Pinte",
+   "Sint-Martens-Latem",
+   "Destelbergen",
+   "Lochristi",
+   "Evergem"
+  ],
+  "streek": "regio Gent",
+  "scenario": "een bouwbedrijf met een kantoor en een refter voor de ploeg"
+ },
+ {
+  "id": "regio/hulp-in-huis-kortrijk",
+  "path": "regio/hulp-in-huis-kortrijk.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Kortrijk",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Kortrijk",
+  "postcode": "8500",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Aalbeke",
+   "Bellegem",
+   "Bissegem",
+   "Heule",
+   "Kooigem",
+   "Marke",
+   "Rollegem"
+  ],
+  "in_de_buurt": [
+   "Kuurne",
+   "Harelbeke",
+   "Wevelgem",
+   "Menen",
+   "Zwevegem",
+   "Lendelede"
+  ],
+  "streek": "regio Kortrijk",
+  "scenario": "een IT-consultant met een thuiskantoor"
+ },
+ {
+  "id": "regio/hulp-in-huis-roeselare",
+  "path": "regio/hulp-in-huis-roeselare.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Roeselare",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Roeselare",
+  "postcode": "8800",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Beveren",
+   "Oekene",
+   "Rumbeke"
+  ],
+  "in_de_buurt": [
+   "Izegem",
+   "Hooglede",
+   "Moorslede",
+   "Ardooie",
+   "Lichtervelde",
+   "Staden"
+  ],
+  "streek": "regio Roeselare",
+  "scenario": "een webshop met een klein magazijn"
+ },
+ {
+  "id": "regio/hulp-in-huis-waregem",
+  "path": "regio/hulp-in-huis-waregem.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Waregem",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Waregem",
+  "postcode": "8790",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Beveren-Leie",
+   "Desselgem",
+   "Sint-Eloois-Vijve"
+  ],
+  "in_de_buurt": [
+   "Harelbeke",
+   "Deerlijk",
+   "Anzegem",
+   "Zulte",
+   "Wielsbeke",
+   "Kruisem"
+  ],
+  "streek": "Leiestreek",
+  "scenario": "een logopediste met een praktijk aan huis"
+ },
+ {
+  "id": "regio/hulp-in-huis-ieper",
+  "path": "regio/hulp-in-huis-ieper.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Ieper",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Ieper",
+  "postcode": "8900",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Boezinge",
+   "Brielen",
+   "Dikkebus",
+   "Elverdinge",
+   "Hollebeke",
+   "Sint-Jan",
+   "Vlamertinge",
+   "Voormezele",
+   "Zillebeke",
+   "Zuidschote"
+  ],
+  "in_de_buurt": [
+   "Zonnebeke",
+   "Poperinge",
+   "Langemark-Poelkapelle",
+   "Wervik"
+  ],
+  "streek": "Westhoek",
+  "scenario": "een architect die thuis werkt"
+ },
+ {
+  "id": "regio/hulp-in-huis-izegem",
+  "path": "regio/hulp-in-huis-izegem.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Izegem",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Izegem",
+  "postcode": "8870",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Emelgem",
+   "Kachtem"
+  ],
+  "in_de_buurt": [
+   "Roeselare",
+   "Ingelmunster",
+   "Lendelede",
+   "Ledegem",
+   "Ardooie"
+  ],
+  "streek": "regio Roeselare",
+  "scenario": "een groepspraktijk van huisartsen"
+ },
+ {
+  "id": "regio/hulp-in-huis-menen",
+  "path": "regio/hulp-in-huis-menen.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Menen",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Menen",
+  "postcode": "8930",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Lauwe",
+   "Rekkem"
+  ],
+  "in_de_buurt": [
+   "Wevelgem",
+   "Wervik",
+   "Lauwe",
+   "Rekkem",
+   "Geluwe"
+  ],
+  "streek": "regio Kortrijk",
+  "scenario": "een opticien in een winkelstraat"
+ },
+ {
+  "id": "regio/hulp-in-huis-harelbeke",
+  "path": "regio/hulp-in-huis-harelbeke.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Harelbeke",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Harelbeke",
+  "postcode": "8530",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Bavikhove",
+   "Hulste"
+  ],
+  "in_de_buurt": [
+   "Kortrijk",
+   "Kuurne",
+   "Deerlijk",
+   "Zwevegem",
+   "Wielsbeke"
+  ],
+  "streek": "regio Kortrijk",
+  "scenario": "een kinesitherapeut met een praktijk aan huis"
+ },
+ {
+  "id": "regio/hulp-in-huis-wevelgem",
+  "path": "regio/hulp-in-huis-wevelgem.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Wevelgem",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Wevelgem",
+  "postcode": "8560",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Gullegem",
+   "Moorsele"
+  ],
+  "in_de_buurt": [
+   "Kortrijk",
+   "Menen",
+   "Ledegem",
+   "Lauwe",
+   "Bissegem"
+  ],
+  "streek": "regio Kortrijk",
+  "scenario": "een tandartspraktijk met twee behandelkamers"
+ },
+ {
+  "id": "regio/hulp-in-huis-tielt",
+  "path": "regio/hulp-in-huis-tielt.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Tielt",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Tielt",
+  "postcode": "8700",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Aarsele",
+   "Kanegem",
+   "Schuiferskapelle"
+  ],
+  "in_de_buurt": [
+   "Pittem",
+   "Meulebeke",
+   "Dentergem",
+   "Wingene",
+   "Ruiselede"
+  ],
+  "streek": "regio Tielt",
+  "scenario": "een landbouwbedrijf met een bureau aan de hoeve"
+ },
+ {
+  "id": "regio/hulp-in-huis-oudenaarde",
+  "path": "regio/hulp-in-huis-oudenaarde.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Oudenaarde",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Oudenaarde",
+  "postcode": "9700",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Bevere",
+   "Edelare",
+   "Eine",
+   "Ename",
+   "Heurne",
+   "Leupegem",
+   "Mater",
+   "Melden",
+   "Mullem",
+   "Nederename",
+   "Volkegem",
+   "Welden"
+  ],
+  "in_de_buurt": [
+   "Kruisem",
+   "Wortegem-Petegem",
+   "Kluisbergen",
+   "Ronse"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "scenario": "een interieurzaak met een toonzaal"
+ },
+ {
+  "id": "regio/hulp-in-huis-brugge",
+  "path": "regio/hulp-in-huis-brugge.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Brugge",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Brugge",
+  "postcode": "8000",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Assebroek",
+   "Dudzele",
+   "Koolkerke",
+   "Lissewege",
+   "Sint-Andries",
+   "Sint-Kruis",
+   "Sint-Michiels",
+   "Zeebrugge"
+  ],
+  "in_de_buurt": [
+   "Oostkamp",
+   "Zedelgem",
+   "Beernem",
+   "Damme",
+   "Jabbeke"
+  ],
+  "streek": "regio Brugge",
+  "scenario": "een kapsalon in de dorpskern"
+ },
+ {
+  "id": "regio/hulp-in-huis-gent",
+  "path": "regio/hulp-in-huis-gent.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Gent",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Gent",
+  "postcode": "9000",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Afsnee",
+   "Drongen",
+   "Gentbrugge",
+   "Ledeberg",
+   "Mariakerke",
+   "Oostakker",
+   "Sint-Amandsberg",
+   "Sint-Denijs-Westrem",
+   "Wondelgem",
+   "Zwijnaarde"
+  ],
+  "in_de_buurt": [
+   "Merelbeke",
+   "De Pinte",
+   "Sint-Martens-Latem",
+   "Destelbergen",
+   "Lochristi",
+   "Evergem"
+  ],
+  "streek": "regio Gent",
+  "scenario": "een notariskantoor met een wachtzaal"
+ },
+ {
+  "id": "sectoren/kleine-kantoren",
+  "path": "sectoren/kleine-kantoren.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor kleine kantoren",
+  "scope": "kantoren met een klein team: bureaus, vergadertafel, keuken, sanitair, vloeren, afval"
+ },
+ {
+  "id": "sectoren/kmo",
+  "path": "sectoren/kmo.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor kmo's",
+  "scope": "kmo's met kantoor, refter, kleedruimte en sanitair naast een atelier of magazijn (geen industriële reiniging van productiehallen)"
+ },
+ {
+  "id": "sectoren/coworkings",
+  "path": "sectoren/coworkings.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor coworkings en gedeelde kantoren",
+  "scope": "gedeelde werkplekken, flexplekken, keuken, vergaderruimtes, veel wisselende gebruikers"
+ },
+ {
+  "id": "sectoren/winkels",
+  "path": "sectoren/winkels.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor winkels en boetieks",
+  "scope": "winkelvloer, paskamers, toonbank, etalage langs binnen, stockruimte, poetsen voor de opening"
+ },
+ {
+  "id": "sectoren/showrooms",
+  "path": "sectoren/showrooms.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor showrooms",
+  "scope": "toonzalen met keukens, badkamers, meubels of wagens: stof, glas langs binnen, vloeren, onthaal"
+ },
+ {
+  "id": "sectoren/kapsalons",
+  "path": "sectoren/kapsalons.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor kapsalons",
+  "scope": "salon, wasbakken, haar op de vloer, spiegels, handdoeken wassen en drogen, personeelsruimte"
+ },
+ {
+  "id": "sectoren/schoonheidsinstituten",
+  "path": "sectoren/schoonheidsinstituten.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor schoonheidsinstituten",
+  "scope": "behandelkamers, onthaal, linnen en handdoeken, sanitair, rustige uitstraling (de hygiëne van instrumenten blijft bij de zaak)"
+ },
+ {
+  "id": "sectoren/groepspraktijken",
+  "path": "sectoren/groepspraktijken.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor groepspraktijken",
+  "scope": "praktijken met meerdere zorgverleners: gedeelde wachtzaal, onthaal, consultatieruimtes, sanitair, teamkeuken (geen sterilisatie of medisch materiaal)"
+ },
+ {
+  "id": "sectoren/paramedische-praktijken",
+  "path": "sectoren/paramedische-praktijken.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor paramedische praktijken",
+  "scope": "kinesitherapeuten, logopedisten, diëtisten, podologen, ergotherapeuten: behandelruimtes, oefenzaal, wachtzaal"
+ },
+ {
+  "id": "sectoren/it-bedrijven",
+  "path": "sectoren/it-bedrijven.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor IT-bedrijven",
+  "scope": "kantoren met veel schermen en toetsenborden, kabels, vergaderruimtes, keuken en koffiehoek, voorzichtig rond apparatuur"
+ },
+ {
+  "id": "sectoren/start-ups",
+  "path": "sectoren/start-ups.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor start-ups en scale-ups",
+  "scope": "snel groeiende teams, wisselende kantoorindeling, keuken en ontspanningshoek, flexibel bijsturen"
+ },
+ {
+  "id": "sectoren/bouwbedrijven",
+  "path": "sectoren/bouwbedrijven.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor bouwbedrijven",
+  "scope": "kantoor, refter en kleedruimte voor de ploeg, modder en stof van de werf aan de ingang (geen werf- of bouwopkuis)"
+ },
+ {
+  "id": "sectoren/transportbedrijven",
+  "path": "sectoren/transportbedrijven.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor transportbedrijven",
+  "scope": "planningskantoor, chauffeursruimte, refter, douches en sanitair (geen reiniging van vrachtwagens)"
+ },
+ {
+  "id": "sectoren/productiebedrijven",
+  "path": "sectoren/productiebedrijven.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor de kantoren van productiebedrijven",
+  "scope": "administratieve kantoren, onthaal, refter en sanitair van een productiebedrijf (geen industriële reiniging van de productiehal)"
+ },
+ {
+  "id": "sectoren/autobedrijven",
+  "path": "sectoren/autobedrijven.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor garages en autobedrijven",
+  "scope": "showroom, verkoopkantoor, klantenonthaal en wachtruimte, sanitair (geen reiniging van de werkplaats of wagens)"
+ },
+ {
+  "id": "sectoren/interieurzaken",
+  "path": "sectoren/interieurzaken.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor interieurzaken",
+  "scope": "toonzaal met meubels en decoratie, stof afnemen, glas langs binnen, vloeren, onthaal"
+ },
+ {
+  "id": "sectoren/opticiens",
+  "path": "sectoren/opticiens.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor opticiens",
+  "scope": "winkel met glazen vitrines en spiegels, onthaal, meetruimte, sanitair (de monturen en meetapparatuur blijven bij de opticien)"
+ },
+ {
+  "id": "sectoren/reisbureaus",
+  "path": "sectoren/reisbureaus.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor reisbureaus",
+  "scope": "winkelkantoor met onthaal en klantentafels, folders, vitrines, keuken en sanitair"
+ },
+ {
+  "id": "sectoren/fitness-en-yogastudios",
+  "path": "sectoren/fitness-en-yogastudios.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor fitness- en yogastudio's",
+  "scope": "zalen, matten en toestellen afnemen, kleedkamers en douches, onthaal (overdag, tussen de lessen of in de daluren)"
+ },
+ {
+  "id": "sectoren/vzw",
+  "path": "sectoren/vzw.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor vzw's en verenigingen",
+  "scope": "secretariaat, ontmoetingsruimte, keuken, sanitair, factuur op naam van de vzw"
+ },
+ {
+  "id": "sectoren/webshops",
+  "path": "sectoren/webshops.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor webshops met kantoor en magazijn",
+  "scope": "kantoor, inpakruimte, refter en sanitair van een webshop (licht onderhoud van het magazijn, geen industriële vloermachines)"
+ },
+ {
+  "id": "sectoren/familiebedrijven",
+  "path": "sectoren/familiebedrijven.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor familiebedrijven",
+  "scope": "familiebedrijven waar zaak en woning dicht bij elkaar liggen: kantoor, refter en de woning van de zaakvoerders in één plan"
+ },
+ {
+  "id": "sectoren/landbouwbedrijven",
+  "path": "sectoren/landbouwbedrijven.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Huishoudhulp en poetshulp voor landbouwbedrijven",
+  "scope": "land- en tuinbouwbedrijven met een vennootschap: bureau aan de hoeve, refter, woning, was en koken in drukke seizoenen (geen stallen of serres)"
+ },
+ {
+  "id": "sectoren/installateurs",
+  "path": "sectoren/installateurs.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor installateurs en technische bedrijven",
+  "scope": "elektriciens, loodgieters, HVAC-installateurs: kantoor, onthaal, refter en kleedruimte, en de woning van de zaakvoerder (geen technische werken)"
+ },
+ {
+  "id": "sectoren/interimkantoren",
+  "path": "sectoren/interimkantoren.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor interimkantoren",
+  "scope": "kantoor met veel bezoekers: onthaal, gesprekshoeken, sanitair, keuken"
+ },
+ {
+  "id": "sectoren/drukkerijen",
+  "path": "sectoren/drukkerijen.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor drukkerijen",
+  "scope": "kantoor, onthaal en toonruimte, refter en sanitair van een drukkerij (niet de drukmachines of productieruimte)"
+ },
+ {
+  "id": "sectoren/eventbureaus",
+  "path": "sectoren/eventbureaus.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor eventbureaus",
+  "scope": "kantoor en ontvangstruimte, opslag van materiaal netjes houden, keuken en sanitair (geen opkuis van events in het weekend)"
+ },
+ {
+  "id": "sectoren/rijscholen",
+  "path": "sectoren/rijscholen.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor rijscholen",
+  "scope": "kantoor met onthaal, theorielokaal, sanitair (geen reiniging van lesvoertuigen)"
+ },
+ {
+  "id": "sectoren/refter-en-bedrijfskeuken",
+  "path": "sectoren/refter-en-bedrijfskeuken.html",
+  "kind": "ruimte",
+  "group": "sectoren",
+  "h1": "Poetshulp voor de refter en de bedrijfskeuken",
+  "scope": "refter, koelkast, microgolf, koffiemachine, tafels, vaatwasser, afval"
+ },
+ {
+  "id": "sectoren/sanitair-op-kantoor",
+  "path": "sectoren/sanitair-op-kantoor.html",
+  "kind": "ruimte",
+  "group": "sectoren",
+  "h1": "Sanitair op kantoor laten poetsen",
+  "scope": "toiletten, lavabo's, spiegels, aanvullen van papier en zeep, vloeren, regelmaat"
+ },
+ {
+  "id": "sectoren/vergaderzalen",
+  "path": "sectoren/vergaderzalen.html",
+  "kind": "ruimte",
+  "group": "sectoren",
+  "h1": "Poetshulp voor vergaderzalen",
+  "scope": "vergadertafels, stoelen, schermen en whiteboards langs de buitenkant, glazen wanden, klaarzetten voor de volgende vergadering"
+ },
+ {
+  "id": "sectoren/onthaal-en-wachtruimte",
+  "path": "sectoren/onthaal-en-wachtruimte.html",
+  "kind": "ruimte",
+  "group": "sectoren",
+  "h1": "Poetshulp voor onthaal en wachtruimte",
+  "scope": "eerste indruk, balie, zitjes, tijdschriften, deurklinken, ramen langs binnen, ingangsmat"
+ },
+ {
+  "id": "sectoren/kleedkamers-en-douches",
+  "path": "sectoren/kleedkamers-en-douches.html",
+  "kind": "ruimte",
+  "group": "sectoren",
+  "h1": "Poetshulp voor kleedkamers en douches op het werk",
+  "scope": "kleedkamers, lockers langs de buitenkant, douches, vloeren, ventilatie en geurtjes"
+ },
+ {
+  "id": "sectoren/kantoorverhuis",
+  "path": "sectoren/kantoorverhuis.html",
+  "kind": "situatie",
+  "group": "sectoren",
+  "h1": "Poetshulp bij een kantoorverhuis",
+  "scope": "poetsen van het nieuwe kantoor voor de verhuis en van het oude kantoor erna, als losse opdracht, daarna eventueel een vast plan"
+ },
+ {
+  "id": "sectoren/voorjaarspoets-kantoor",
+  "path": "sectoren/voorjaarspoets-kantoor.html",
+  "kind": "situatie",
+  "group": "sectoren",
+  "h1": "Een grote voorjaarspoets op kantoor",
+  "scope": "jaarlijkse grote poetsbeurt: kasten, plinten, ramen langs binnen, archief stofvrij, als losse opdracht of in het vaste plan"
+ },
+ {
+  "id": "sectoren/poetshulp-tijdens-bouwverlof",
+  "path": "sectoren/poetshulp-tijdens-bouwverlof.html",
+  "kind": "situatie",
+  "group": "sectoren",
+  "h1": "Poetshulp tijdens het bouwverlof",
+  "scope": "de stille weken in de zomer gebruiken voor een grondige poetsbeurt, het kantoor klaar voor de herstart"
+ },
+ {
+  "id": "sectoren/eindejaarspoets",
+  "path": "sectoren/eindejaarspoets.html",
+  "kind": "situatie",
+  "group": "sectoren",
+  "h1": "Eindejaarspoets voor bedrijven",
+  "scope": "kantoor opgeruimd en proper het nieuwe jaar in, archief, keuken, frigo"
+ },
+ {
+  "id": "sectoren/nieuw-kantoor-of-praktijk",
+  "path": "sectoren/nieuw-kantoor-of-praktijk.html",
+  "kind": "situatie",
+  "group": "sectoren",
+  "h1": "Poetshulp voor een nieuw kantoor of een nieuwe praktijk",
+  "scope": "opstart van een nieuwe vestiging: eerste grondige poetsbeurt, daarna een vast ritme vanaf dag één"
+ },
+ {
+  "id": "sectoren/kantoor-poetsen-tijdens-verbouwing",
+  "path": "sectoren/kantoor-poetsen-tijdens-verbouwing.html",
+  "kind": "situatie",
+  "group": "sectoren",
+  "h1": "Je kantoor poetsen tijdens een verbouwing",
+  "scope": "stof en vuil tijdens verbouwingswerken onder controle houden in de ruimtes die in gebruik blijven (geen bouwopkuis na oplevering door aannemers)"
+ },
+ {
+  "id": "sectoren/na-een-receptie",
+  "path": "sectoren/na-een-receptie.html",
+  "kind": "situatie",
+  "group": "sectoren",
+  "h1": "Poetshulp na een receptie of personeelsfeest op kantoor",
+  "scope": "de ochtend na een receptie, nieuwjaarsdrink of teamfeest op een weekdag: opruimen, keuken, glazen, vloeren"
+ },
+ {
+  "id": "vragen/welk-bedrijf-poetshulp-voor-bedrijven",
+  "path": "vragen/welk-bedrijf-poetshulp-voor-bedrijven.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Welk bedrijf levert poetshulp voor bedrijven in West- en Oost-Vlaanderen?"
+ },
+ {
+  "id": "vragen/goede-poetshulp-voor-kantoor-vinden",
+  "path": "vragen/goede-poetshulp-voor-kantoor-vinden.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Hoe vind je een goede poetshulp voor je kantoor?"
+ },
+ {
+  "id": "vragen/wat-bepaalt-prijs-poetshulp-bedrijf",
+  "path": "vragen/wat-bepaalt-prijs-poetshulp-bedrijf.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Wat bepaalt de prijs van poetshulp voor een bedrijf?"
+ },
+ {
+  "id": "vragen/is-poetshulp-kantoor-aftrekbaar",
+  "path": "vragen/is-poetshulp-kantoor-aftrekbaar.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Is poetshulp voor je kantoor fiscaal aftrekbaar?"
+ },
+ {
+  "id": "vragen/poetshulp-thuis-via-bv-betalen",
+  "path": "vragen/poetshulp-thuis-via-bv-betalen.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Kan ik mijn poetshulp thuis via mijn BV betalen?"
+ },
+ {
+  "id": "vragen/poetshulp-eenmanszaak",
+  "path": "vragen/poetshulp-eenmanszaak.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Kan een eenmanszaak poetshulp inboeken?"
+ },
+ {
+  "id": "vragen/hoe-vaak-kantoor-poetsen",
+  "path": "vragen/hoe-vaak-kantoor-poetsen.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Hoe vaak moet je een kantoor laten poetsen?"
+ },
+ {
+  "id": "vragen/hoeveel-uur-poetshulp-kantoor",
+  "path": "vragen/hoeveel-uur-poetshulp-kantoor.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Hoeveel uur poetshulp heeft een kantoor nodig?"
+ },
+ {
+  "id": "vragen/wat-doet-poetshulp-op-kantoor",
+  "path": "vragen/wat-doet-poetshulp-op-kantoor.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Wat doet een poetshulp op kantoor, en wat niet?"
+ },
+ {
+  "id": "vragen/kantoor-poetsen-buiten-kantooruren",
+  "path": "vragen/kantoor-poetsen-buiten-kantooruren.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Kan je kantoor buiten de kantooruren gepoetst worden?"
+ },
+ {
+  "id": "vragen/wie-voorziet-poetsmateriaal",
+  "path": "vragen/wie-voorziet-poetsmateriaal.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Wie voorziet het poetsmateriaal: jij of de poetsfirma?"
+ },
+ {
+  "id": "vragen/vertrouwelijke-documenten-poetshulp",
+  "path": "vragen/vertrouwelijke-documenten-poetshulp.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Hoe ga je om met vertrouwelijke documenten als er een poetshulp komt?"
+ },
+ {
+  "id": "vragen/duurzaam-kantoor-poetsen",
+  "path": "vragen/duurzaam-kantoor-poetsen.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Hoe laat je je kantoor duurzaam poetsen?"
+ },
+ {
+  "id": "vragen/poetshulp-in-dienst-of-uitbesteden",
+  "path": "vragen/poetshulp-in-dienst-of-uitbesteden.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Neem je een poetshulp zelf in dienst of besteed je het uit?"
+ },
+ {
+  "id": "vragen/poetshulp-ziek-of-met-verlof",
+  "path": "vragen/poetshulp-ziek-of-met-verlof.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Wat als je poetshulp ziek is of met verlof gaat?"
+ },
+ {
+  "id": "vragen/schoonmaakplan-kantoor-maken",
+  "path": "vragen/schoonmaakplan-kantoor-maken.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Hoe maak je een schoonmaakplan voor je kantoor?"
+ },
+ {
+  "id": "vragen/schoonmaakplan-winkel-maken",
+  "path": "vragen/schoonmaakplan-winkel-maken.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Hoe maak je een schoonmaakplan voor je winkel?"
+ },
+ {
+  "id": "vragen/vragen-aan-poetsfirma",
+  "path": "vragen/vragen-aan-poetsfirma.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Welke vragen stel je aan een poetsfirma voor je bedrijf?"
+ },
+ {
+  "id": "vragen/kantoor-en-woning-een-poetshulp",
+  "path": "vragen/kantoor-en-woning-een-poetshulp.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Kan één poetshulp je kantoor en je woning doen, op één factuur?"
+ },
+ {
+  "id": "vragen/poetsabonnement-opzeggen",
+  "path": "vragen/poetsabonnement-opzeggen.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Kan je een poetsabonnement voor je bedrijf maandelijks opzeggen?"
+ },
+ {
+  "id": "vragen/eerste-maand-poetshulp-kantoor",
+  "path": "vragen/eerste-maand-poetshulp-kantoor.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Hoe verloopt de eerste maand met een poetshulp op kantoor?"
+ },
+ {
+  "id": "vragen/hygiene-afspraken-praktijk",
+  "path": "vragen/hygiene-afspraken-praktijk.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Welke afspraken maak je over hygiëne met de poetshulp van je praktijk?"
+ },
+ {
+  "id": "vragen/thuis-laten-koken-terwijl-je-werkt",
+  "path": "vragen/thuis-laten-koken-terwijl-je-werkt.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Kan iemand bij je thuis komen koken terwijl je werkt?"
+ },
+ {
+  "id": "vragen/boodschappen-laten-doen-ondernemer",
+  "path": "vragen/boodschappen-laten-doen-ondernemer.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Kan je als ondernemer je boodschappen laten doen?"
+ },
+ {
+  "id": "vragen/strijk-laten-doen-via-zaak",
+  "path": "vragen/strijk-laten-doen-via-zaak.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Kan je je strijk thuis laten doen via je zaak?"
+ },
+ {
+  "id": "vragen/hulp-in-huis-voor-zelfstandigen",
+  "path": "vragen/hulp-in-huis-voor-zelfstandigen.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Welke hulp in huis bestaat er voor zelfstandigen en zaakvoerders?"
+ },
+ {
+  "id": "vragen/huishoudhulp-als-extralegaal-voordeel",
+  "path": "vragen/huishoudhulp-als-extralegaal-voordeel.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Kan je huishoudhulp aanbieden als extralegaal voordeel?"
+ },
+ {
+  "id": "vragen/hoe-snel-start-poetshulp",
+  "path": "vragen/hoe-snel-start-poetshulp.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Hoe snel kan een poetshulp voor je bedrijf starten?"
+ },
+ {
+  "id": "vragen/verschil-poetshulp-en-kantoorschoonmaak",
+  "path": "vragen/verschil-poetshulp-en-kantoorschoonmaak.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Wat is het verschil tussen poetshulp en kantoorschoonmaak?"
+ },
+ {
+  "id": "vragen/wie-komt-er-poetsen-bij-zondags",
+  "path": "vragen/wie-komt-er-poetsen-bij-zondags.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Wie komt er poetsen bij Zondags?"
+ },
+ {
+  "id": "vragen/poetshulp-met-contract-en-factuur",
+  "path": "vragen/poetshulp-met-contract-en-factuur.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Waarom kies je voor een poetshulp met contract en factuur?"
+ },
+ {
+  "id": "vragen/vaste-poetshulp-of-losse-opdracht",
+  "path": "vragen/vaste-poetshulp-of-losse-opdracht.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Vaste poetshulp of een losse opdracht: wat past bij je bedrijf?"
+ },
+ {
+  "id": "vragen/wachtzaal-proper-houden",
+  "path": "vragen/wachtzaal-proper-houden.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Hoe hou je een wachtzaal proper tussen twee poetsbeurten?"
+ },
+ {
+  "id": "vragen/poetshulp-die-ook-kookt",
+  "path": "vragen/poetshulp-die-ook-kookt.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Kan je poetshulp ook koken en boodschappen doen?"
+ },
+ {
+  "id": "vragen/werkt-zondags-voor-particulieren",
+  "path": "vragen/werkt-zondags-voor-particulieren.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Werkt Zondags ook voor particulieren?"
+ },
+ {
+  "id": "vragen/op-welke-uren-komt-poetshulp",
+  "path": "vragen/op-welke-uren-komt-poetshulp.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Op welke uren komt een poetshulp van Zondags?"
+ },
+ {
+  "id": "vragen/van-poetshulp-wisselen",
+  "path": "vragen/van-poetshulp-wisselen.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Kan je van poetshulp wisselen als het niet klikt?"
+ },
+ {
+  "id": "vragen/poetshulp-aanvragen-bedrijf",
+  "path": "vragen/poetshulp-aanvragen-bedrijf.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Hoe vraag je poetshulp voor je bedrijf aan?"
+ },
+ {
+  "id": "vragen/btw-vrijgestelde-praktijk-poetshulp",
+  "path": "vragen/btw-vrijgestelde-praktijk-poetshulp.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Kan een btw-vrijgestelde praktijk de btw op poetshulp recupereren?"
+ },
+ {
+  "id": "vragen/doet-poetshulp-de-ramen",
+  "path": "vragen/doet-poetshulp-de-ramen.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Doet een poetshulp ook de ramen?"
+ },
+ {
+  "id": "vragen/was-en-strijk-van-je-zaak",
+  "path": "vragen/was-en-strijk-van-je-zaak.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Kan je poetshulp ook de was en strijk van je zaak doen?"
+ },
+ {
+  "id": "vragen/poetsfirma-of-dienstenchequebedrijf",
+  "path": "vragen/poetsfirma-of-dienstenchequebedrijf.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Wat is het verschil tussen een poetsfirma en een dienstenchequebedrijf?"
+ },
+ {
+  "id": "vragen/afspraken-met-poetsfirma",
+  "path": "vragen/afspraken-met-poetsfirma.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Welke afspraken leg je vast met een poetsfirma?"
+ },
+ {
+  "id": "vragen/kwaliteit-schoonmaak-controleren",
+  "path": "vragen/kwaliteit-schoonmaak-controleren.html",
+  "kind": "vraag",
+  "group": "vragen",
+  "h1": "Hoe controleer je de kwaliteit van de schoonmaak op kantoor?"
+ }
+]

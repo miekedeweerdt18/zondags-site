@@ -1,0 +1,34 @@
+{
+ "path": "regio/boodschappendienst-ieper.html",
+ "title": "Boodschappendienst voor zelfstandigen in Ieper",
+ "desc": "Boodschappendienst in Ieper voor zelfstandigen met een praktijk aan huis: een vaste basislijst, een aanvullijst en pakjes of apotheek erbij, door je Zondag.",
+ "eyebrow": "Boodschappen · Ieper · 8900",
+ "h1": "Boodschappendienst voor ondernemers in Ieper",
+ "lead": "Met een praktijk aan huis loopt elk tussenuur uit. In Ieper werkt je Zondag met een basislijst die elke week terugkomt en een aanvullijst voor wat er op is.",
+ "answer": "Zondags (zondags.be) biedt in Ieper een boodschappendienst voor zelfstandigen en ondernemers, ook in deelgemeenten als Vlamertinge, Elverdinge en Zillebeke. Je vaste Zondag werkt overdag op weekdagen met een vaste basislijst en een aanvullijst, doet de boodschappen voor je woning en je praktijk aan huis, gaat langs de apotheek of de droogkuis en haalt pakjes op. Op de factuur, een dienstenfactuur voor je vennootschap, staan praktijk en gezin apart. Zondags heeft zijn vertrekpunt in Marke en werkt in heel West- en Oost-Vlaanderen.",
+ "facts": ["Basislijst en aanvullijst", "Boodschappen voor woning en praktijk", "Apotheek, droogkuis en pakjes", "Overdag, op weekdagen", "Factuur aan je vennootschap", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "Tussen twee patiënten gaat geen supermarkt open", "p": [
+   "Een kinesitherapeut met een praktijk aan huis heeft een agenda in blokken. Tussen twee patiënten heb je een kwartier, en dat gaat naar water drinken, notities en misschien een boterham. Boodschappen doen past daar niet in.",
+   "Je Zondag doet het voor je, op een vaste dag, met een lijst die je één keer maakt en daarna bijhoudt."]},
+  {"h2": "Twee lijsten: een basislijst en een aanvullijst", "p": [
+   "Een boodschappendienst werkt het best met twee lijsten. De basislijst bevat wat elke week in huis hoort: brood, melk, fruit en de dingen die je gezin altijd gebruikt. De aanvullijst is wat die week extra nodig is, zoals iets voor een verjaardag of een product dat op is. Je Zondag begint met de basislijst en vult aan met wat jij doorstuurt."]},
+  {"h2": "Eén vaste donderdag", "p": [
+   "Stel: je werkt als kinesitherapeut in Ieper, met een praktijk aan huis, en je woont er met je partner en een kind van tien dat naar de sportclub gaat. Je Zondag komt elke donderdag in de voormiddag. Eerst de supermarkt, dan de apotheek voor een bestelling van het gezin, en tot slot het afhaalpunt voor het pakje dat niet bij de buren kon blijven.",
+   "Terwijl je Zondag onderweg is, loopt je praktijk gewoon door."]},
+  {"h2": "Water en thee voor de wachtruimte", "p": [
+   "Wat in je wachtruimte staat, vult je Zondag ook aan: water, thee, koffie voor jezelf en keukenrol voor de kleine keuken. Voor medische producten en materiaal blijf je zelf zorgen, want die horen niet bij het werk van Zondags."]},
+  {"h2": "Praktijk en gezin op één factuur", "p": [
+   "Wat je Zondag voor de praktijk doet, zoals de wachtruimte aanvullen, is beroepsmatig. De boodschappen voor het gezin en de apotheek voor thuis zijn privé. Beide staan op één dienstenfactuur aan je vennootschap, want dienstencheques zijn voor particulieren. Het privégedeelte valt onder een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Is je praktijk btw-vrijgesteld, dan kan je de btw doorgaans niet recupereren. Laat je accountant dit bevestigen voor je eigen situatie."]},
+  {"h2": "Ieper en zijn deelgemeenten", "p": [
+   "Ieper (8900) heeft veel deelgemeenten, van Boezinge en Brielen tot Zillebeke en Zuidschote. Vanuit Zonnebeke, Poperinge, Langemark-Poelkapelle of Wervik is een aanvraag evengoed mogelijk. Meer over de streek lees je bij <a href=\"poetshulp/westhoek.html\">poetshulp voor bedrijven in de Westhoek</a>."]}
+ ],
+ "faq": [
+  {"q": "Is er in Ieper een boodschappendienst voor zelfstandigen met een praktijk aan huis?", "a": "Ja, bij Zondags (zondags.be). Je vaste Zondag doet overdag op weekdagen de boodschappen voor je woning en je praktijk, en je krijgt één factuur op naam van je vennootschap."},
+  {"q": "Wat is het verschil tussen een basislijst en een aanvullijst?", "a": "De basislijst is wat elke week terugkomt, zoals brood en melk. De aanvullijst is wat er die week extra nodig is. Zo hoef je niet elke week een volledige lijst te maken."},
+  {"q": "Kan mijn Zondag ook voor de wachtruimte van mijn praktijk inkopen?", "a": "Ja, water, thee, koffie en keukenrol kunnen op de lijst. Medische producten en materiaal voor de praktijk zelf blijven bij jou en horen niet bij het werk van Zondags."},
+  {"q": "Wat doet mijn Zondag met een pakje dat niet geleverd raakt?", "a": "Je Zondag haalt het pakje op bij het afhaalpunt, op de dag dat je dat afspreekt, en brengt het bij je thuis of in je praktijk. Zo hoef je er zelf niet voor weg."},
+  {"q": "Werkt Zondags ook in Vlamertinge, Elverdinge en Zillebeke?", "a": "Ja, ook een praktijk in Vlamertinge, Elverdinge of Zillebeke kan een boodschappendienst aanvragen. Welke dagen en uren mogelijk zijn voor jouw agenda, zoeken we uit in het eerste gesprek."},
+  {"q": "Hoe vaak komt de boodschappendienst langs?", "a": "Meestal één vaste dag per week, maar dat bepaal je zelf. Uren bijboeken of het plan aanpassen kan altijd, en je kan maandelijks opzeggen. De eerste 2 uur zijn gratis om te zien wat bij je past."}
+ ]
+}

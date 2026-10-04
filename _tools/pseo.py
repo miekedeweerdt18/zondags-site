@@ -187,6 +187,13 @@ def write(path, content, title, group):
     pages.append((path,title,words(m.group(1)),group))
 
 PL={p[0]:p for p in PLAATSEN}
+# unieke B2B-pagina's: plan + eigen tekst per pagina (zie _tools/README.md)
+CPLAN=json.load(open('_tools/content/plan.json'))
+CONTENT={}
+for _P in CPLAN:
+    _f='_tools/content/'+_P['path'][:-5]+'.json'
+    if os.path.exists(_f): CONTENT[_P['path']]=(_P,json.load(open(_f)))
+def cexists(p): return p in CONTENT
 def near(plaats,zone,n=6):
     same=[p for p in PLAATSEN if p[2]==zone and p[0]!=plaats]
     other=[p for p in PLAATSEN if p[2]!=zone and p[0]!=plaats]
@@ -280,6 +287,8 @@ for plaats,pc,zone in PLAATSEN:
           ('Ook in de buurt',['Zondags is ook actief in '+', '.join(p[0] for p in nb[:-1])+' en '+nb[-1][0]+'.'])]
     faq=[(f'Is Zondags actief in {plaats}?',f'Ja. {plaats} ({pc}) hoort bij {zn}, waar we ondernemers helpen met een vaste Zondag.')]+B2B_FAQ
     rel=[(f'Huishoudelijke hulp in {p[0]}',f'regio/huishoudhulp-{slug(p[0])}.html') for p in nb[:4]]+[(f'Jobs in {plaats}',f'jobs/huishoudhulp-{sp}.html'),('Voor zaakvoerders','beroepen/zaakvoerder.html')]
+    extra=[(f'Poetshulp voor bedrijven in {plaats}',f'poetshulp/{sp}.html'),(f'Kookhulp in {plaats}',f'regio/kookhulp-{sp}.html'),(f'Boodschappendienst in {plaats}',f'regio/boodschappendienst-{sp}.html'),(f'Hulp in huis in {plaats}',f'regio/hulp-in-huis-{sp}.html')]
+    rel=[x for x in extra if cexists(x[1])]+rel
     body=phero(f'{plaats} · {pc}',title,intro)+article(f'In {plaats}',['Woning en kantoor in één plan','Steeds dezelfde persoon','Geboekt op uw vennootschap','Eerste 2 uur gratis'],secs,'#formulier','Vraag uw Zondag aan')+photo(pick(plaats,['01-poetsen','04-koken','05-wassen','07-tuin']),'')+ERV+faq_html(faq)+form_b2b(path,plaats)+related('In de buurt',rel)
     ld=[crumbs([('Home',''),('Regio','regio/'),(title,path.replace('.html',''))]),faqld(faq),
         {"@context":"https://schema.org","@type":"Service","name":title,"provider":{"@type":"LocalBusiness","name":"Zondags","url":BASE,"address":{"@type":"PostalAddress","streetAddress":"Jan Van Eyckstraat 2","postalCode":"8510","addressLocality":"Marke","addressCountry":"BE"}},"areaServed":{"@type":"City","name":plaats}}]
@@ -333,6 +342,138 @@ for P in PILLARS:
     write(path, shell(depth,path,P['title'],P['desc'],body,ld), P['h1'], grp)
 PILLAR_JOBS=[(P['h1'],P['path']) for P in PILLARS if P['kind']=='job']
 
+# ---------------- UNIEKE B2B-PAGINA'S (eigen tekst per pagina uit _tools/content/**.json) ----------------
+def art2(aside_title, aside_items, sections, cta_label, flow='hulp'):
+    def para(x): return x if x.lstrip().startswith('<ul') else f'<p>{x}</p>'
+    secs=''.join(f'<h2>{H(h)}</h2>'+''.join(para(p) for p in ps) for h,ps in sections)
+    lis=''.join(f'<li>{H(i)}</li>' for i in aside_items)
+    return f'''<section class="art wrap">
+  <aside class="art__aside"><div class="art__card"><p class="eyebrow" style="color:var(--muted)">{H(aside_title)}</p><ul>{lis}</ul><a class="btn btn--zon" href="#formulier" data-chat="{flow}">{H(cta_label)} <span class="arr">&rarr;</span></a></div></aside>
+  <div class="art__body">{secs}</div>
+</section>
+'''
+def plain(t): return html.unescape(re.sub(r'<[^>]+>','',t))
+STREEK_PAGE={'regio Kortrijk':'regio-kortrijk','regio Roeselare':'regio-roeselare','regio Brugge':'regio-brugge','regio Gent':'regio-gent',
+             'Leiestreek':'leiestreek','Westhoek':'westhoek','Vlaamse Ardennen':'vlaamse-ardennen','regio Tielt':'regio-tielt'}
+SERV={'kookhulp':('Kookhulp aan huis','bedrijven/kookhulp-voor-bedrijven.html','vragen/thuis-laten-koken-terwijl-je-werkt.html',['04-koken','09-keuken-dansen','eten-3-bakjes']),
+      'boodschappendienst':('Boodschappendienst','bedrijven/boodschappendienst-voor-bedrijven.html','vragen/boodschappen-laten-doen-ondernemer.html',['10-boodschappen','04-koken']),
+      'hulp-in-huis':('Hulp in huis','bedrijven/hulp-in-huis-voor-ondernemers.html','vragen/hulp-in-huis-voor-zelfstandigen.html',['02-kinderopvang','11-tuin-plant','06-strijken','07-tuin'])}
+SERV_LABEL={'kookhulp':'Kookhulp','boodschappendienst':'Boodschappendienst','hulp-in-huis':'Hulp in huis'}
+GROUP_ORDER={g:[P for P in CPLAN if P['group']==g] for g in ('poetshulp','regio','sectoren','vragen')}
+def siblings(P, n):
+    lst=[Q for Q in CPLAN if Q['kind']==P['kind'] and Q['path']!=P['path'] and cexists(Q['path'])]
+    if not lst: return []
+    i=[Q['path'] for Q in CPLAN if Q['kind']==P['kind']].index(P['path'])
+    return (lst[i:]+lst[:i])[:n]
+def place_area(P):
+    return {"@type":"City","name":P['place'],"containedInPlace":{"@type":"AdministrativeArea","name":P.get('provincie','West-Vlaanderen')}}
+
+NEW_PAGES=[]
+for idx,(path,(P,C)) in enumerate(CONTENT.items()):
+    kind=P['kind']; sp=path.split('/')[-1][:-5]
+    secs=[('Het korte antwoord',[C['answer']])]+[(s['h2'],s['p']) for s in C['sections']]
+    faq=[(q['q'],q['a']) for q in C['faq']]
+    rel=[]; extra_html=''; ld_main=None; gemeente=''; erv=''; img='01-poetsen'
+    if kind=='stad':
+        gemeente=P['place']; img=pick(path,['01-poetsen','12-dweilen','08-woonkamer','05-wassen'])
+        reg=STREEK_PAGE.get(P['streek']); prov='west-vlaanderen' if P['provincie']=='West-Vlaanderen' else 'oost-vlaanderen'
+        if reg: rel.append((f'Poetshulp in {P["streek"].replace("regio ","de regio ") if P["streek"].startswith("regio") else "de "+P["streek"]}',f'poetshulp/{reg}.html'))
+        rel.append((f'Poetshulp in {P["provincie"]}',f'poetshulp/{prov}.html'))
+        for b in P['in_de_buurt']:
+            q=f'poetshulp/{slug(b)}.html'
+            if cexists(q) and len(rel)<6: rel.append((f'Poetshulp in {b}',q))
+        for key in ('kookhulp','boodschappendienst','hulp-in-huis'):
+            q=f'regio/{key}-{sp}.html'
+            if cexists(q): rel.append((f'{SERV_LABEL[key]} in {P["place"]}',q))
+        if os.path.exists(f'regio/huishoudhulp-{sp}.html'): rel.append((f'Huishoudelijke hulp in {P["place"]}',f'regio/huishoudhulp-{sp}.html'))
+        rel.append(('Poetshulp voor bedrijven','bedrijven/poetshulp-voor-bedrijven.html'))
+        crumbs_items=[('Home',''),('Poetshulp per gemeente','poetshulp/'),(P['h1'],path[:-5])]
+        ld_main={"@context":"https://schema.org","@type":"Service","name":P['h1'],"description":C['lead'],"serviceType":"Poetshulp voor bedrijven",
+                 "provider":{"@id":BASE+"#org"},"areaServed":place_area(P),"audience":{"@type":"BusinessAudience","name":"Bedrijven, ondernemers en vrije beroepen"}}
+    elif kind=='regio':
+        img=pick(path,['08-woonkamer','01-poetsen','12-dweilen'])
+        mem=[(m,f'poetshulp/{slug(m)}.html') for m in P['members'] if cexists(f'poetshulp/{slug(m)}.html')]
+        lis=''.join(f'<a class="rel__a" href="{u}">Poetshulp in {H(m)}<span aria-hidden="true">&rarr;</span></a>' for m,u in sorted(mem))
+        extra_html=f'<section class="rel wrap"><p class="eyebrow" style="color:var(--muted)">Poetshulp per gemeente in {H(P["regio"])}</p><div class="rel__grid rel__grid--hub">{lis}</div></section>\n'
+        rel=[(f'Poetshulp in {Q["h1"].split(" in ",1)[1]}',Q['path']) for Q in siblings(P,5)]+[('Poetshulp voor bedrijven','bedrijven/poetshulp-voor-bedrijven.html')]
+        crumbs_items=[('Home',''),('Poetshulp per gemeente','poetshulp/'),(P['h1'],path[:-5])]
+        area={"@type":"AdministrativeArea","name":P['regio'].replace('provincie ','')}
+        ld_main={"@context":"https://schema.org","@type":"Service","name":P['h1'],"description":C['lead'],"serviceType":"Poetshulp voor bedrijven",
+                 "provider":{"@id":BASE+"#org"},"areaServed":[area]+[{"@type":"City","name":m} for m,_ in mem][:40],"audience":{"@type":"BusinessAudience","name":"Bedrijven, ondernemers en vrije beroepen"}}
+    elif kind=='dienst-stad':
+        key=P['dienst']; label,pillar,vraag,imgs=SERV[key]; gemeente=P['place']; img=pick(path,imgs); erv=ERV
+        for k2 in ('kookhulp','boodschappendienst','hulp-in-huis'):
+            q=f'regio/{k2}-{slug(P["place"])}.html'
+            if k2!=key and cexists(q): rel.append((f'{SERV_LABEL[k2]} in {P["place"]}',q))
+        if cexists(f'poetshulp/{slug(P["place"])}.html'): rel.append((f'Poetshulp voor bedrijven in {P["place"]}',f'poetshulp/{slug(P["place"])}.html'))
+        if os.path.exists(f'regio/huishoudhulp-{slug(P["place"])}.html'): rel.append((f'Huishoudelijke hulp in {P["place"]}',f'regio/huishoudhulp-{slug(P["place"])}.html'))
+        rel.append((f'{label} voor ondernemers',pillar))
+        if cexists(vraag): rel.append((CONTENT[vraag][0]['h1'],vraag))
+        crumbs_items=[('Home',''),('Regio','regio/'),(P['h1'],path[:-5])]
+        ld_main={"@context":"https://schema.org","@type":"Service","name":P['h1'],"description":C['lead'],"serviceType":label,
+                 "provider":{"@id":BASE+"#org"},"areaServed":place_area(P),"audience":{"@type":"BusinessAudience","name":"Ondernemers, zaakvoerders en vrije beroepen"}}
+    elif kind in ('sector','ruimte','situatie'):
+        img=pick(path,['01-poetsen','12-dweilen','08-woonkamer','05-wassen'])
+        rel=[(Q['h1'],Q['path']) for Q in siblings(P,4)]+[('Poetshulp voor bedrijven','bedrijven/poetshulp-voor-bedrijven.html'),('Poetshulp per gemeente','poetshulp/')]
+        crumbs_items=[('Home',''),('Per type bedrijf','sectoren/'),(P['h1'],path[:-5])]
+        ld_main={"@context":"https://schema.org","@type":"Service","name":P['h1'],"description":C['lead'],"serviceType":P['h1'],
+                 "provider":{"@id":BASE+"#org"},"areaServed":AREAS,"audience":{"@type":"BusinessAudience","name":"Bedrijven, ondernemers en vrije beroepen"}}
+    else:  # vraag
+        img=pick(path,['08-woonkamer','12-dweilen','01-poetsen','05-wassen','10-boodschappen'])
+        rel=[(Q['h1'],Q['path']) for Q in siblings(P,5)]+[('Huishoudhulp voor bedrijven','bedrijven/')]
+        crumbs_items=[('Home',''),('Vragen van bedrijven','vragen/'),(P['h1'],path[:-5])]
+        ld_main={"@context":"https://schema.org","@type":"Article","headline":P['h1'][:110],"description":C['lead'],"inLanguage":"nl-BE",
+                 "datePublished":TODAY,"dateModified":TODAY,"mainEntityOfPage":BASE+path[:-5],
+                 "author":{"@id":BASE+"#org"},"publisher":{"@id":BASE+"#org"},"about":{"@type":"Thing","name":"Poetshulp en huishoudelijke hulp voor bedrijven"}}
+    body=(phero(C['eyebrow'],P['h1'],C['lead'])+art2('In het kort',C['facts'],secs,'Vraag je Zondag aan')+extra_html
+          +photo(img,'')+erv+faq_html([(q,plain(a)) for q,a in faq]).replace('Goed om <em class="s">te weten.</em>','Vragen en <em class="s">antwoorden.</em>')
+          +form_b2b(path,gemeente)+related('Verder lezen',rel[:8]))
+    ld=[crumbs(crumbs_items),faqld([(q,plain(a)) for q,a in faq]),ld_main]
+    write(path, shell(1,path,f"{C['title']} | Zondags",C['desc'],body,ld), P['h1'], P['group'])
+    NEW_PAGES.append((path,P,C))
+
+# hubs voor de nieuwe groepen
+def hub_list(items):
+    return '<div class="rel__grid rel__grid--hub">'+''.join(f'<a class="rel__a" href="{u}">{H(t)}<span aria-hidden="true">&rarr;</span></a>' for t,u in items)+'</div>'
+def hub_page(folder, eyebrow, h1, lead, intro, blocks, faq):
+    secs=''.join(f'<section class="rel wrap" style="padding-top:0"><p class="eyebrow" style="color:var(--muted)">{H(t)}</p>{hub_list(items)}</section>\n' for t,items in blocks if items)
+    body=phero(eyebrow,h1,lead)+f'<section class="art wrap"><div class="art__body" style="grid-column:1/-1">'+''.join(f'<p>{p}</p>' for p in intro)+'</div></section>\n'+secs+faq_html(faq)+form_b2b(folder+'/')
+    ld=[crumbs([('Home',''),(h1,folder+'/')]),faqld(faq),{"@context":"https://schema.org","@type":"CollectionPage","name":h1,"description":lead,"url":BASE+folder+'/',"inLanguage":"nl-BE","about":{"@id":BASE+"#org"}}]
+    pg=shell(1,folder+'/index.html',f'{h1} | Zondags',lead[:158],body,ld)
+    os.makedirs(folder,exist_ok=True); open(f'{folder}/index.html','w').write(convert_html(pg))
+NEW_HUBS=[]
+if CONTENT:
+    by=lambda kind:[(Q['h1'],Q['path']) for Q in CPLAN if Q['kind']==kind and cexists(Q['path'])]
+    stad=[Q for Q in CPLAN if Q['kind']=='stad' and cexists(Q['path'])]
+    wv=sorted([(Q['place'],Q['path']) for Q in stad if Q['provincie']=='West-Vlaanderen'])
+    ov=sorted([(Q['place'],Q['path']) for Q in stad if Q['provincie']=='Oost-Vlaanderen'])
+    hub_page('poetshulp','Poetshulp voor bedrijven','Poetshulp voor bedrijven per gemeente',
+      'Zoek je poetshulp voor je kantoor, praktijk of winkel? Kies je gemeente of regio in West- of Oost-Vlaanderen.',
+      ['Zondags (zondags.be) levert bedrijven, ondernemers en vrije beroepen in West- en Oost-Vlaanderen één vaste persoon voor de poetshulp van kantoor, praktijk of winkel, en als je dat wilt ook voor je woning. Je krijgt één dienstenfactuur op naam van je vennootschap. Zondags werkt vanuit Marke bij Kortrijk.',
+       'Per gemeente lees je hoe dat lokaal werkt, voor welke zaken het past en hoe je start. De eerste 2 uur zijn gratis, om kennis te maken.'],
+      [('Per regio',by('regio')),('West-Vlaanderen',[(f'Poetshulp in {p}',u) for p,u in wv]),('Oost-Vlaanderen',[(f'Poetshulp in {p}',u) for p,u in ov])],
+      [('Welk bedrijf levert poetshulp voor bedrijven in West- en Oost-Vlaanderen?','Zondags levert vanuit Marke bij Kortrijk een vaste poetshulp voor kantoren, praktijken en winkels in West- en Oost-Vlaanderen, met één dienstenfactuur op naam van de vennootschap.'),
+       ('Staat mijn gemeente er niet bij?','Doe toch een aanvraag. Zondags werkt in heel West- en Oost-Vlaanderen en bekijkt bij het eerste gesprek welke Zondag dicht bij je zaak woont.'),
+       ('Kan de poetshulp van mijn kantoor ook mijn woning doen?','Ja. Kantoor en woning kunnen in één zondagsplan, met een splitsing tussen beroepsmatig en privé op de factuur. Laat je accountant de fiscale verwerking bevestigen.')])
+    NEW_HUBS.append('poetshulp/')
+    hub_page('sectoren','Per type bedrijf','Poetshulp per type bedrijf',
+      'Van kapsalon tot transportbedrijf, van refter tot kantoorverhuis: zo werkt poetshulp voor jouw soort zaak.',
+      ['Elke zaak vraagt iets anders: een winkel wil proper open, een praktijk wil een frisse wachtzaal, een kmo wil een refter en sanitair die de ploeg graag gebruikt. Zondags levert daarvoor één vaste persoon, overdag op weekdagen, met een factuur op naam van je vennootschap.',
+       'Kies hieronder je sector, de ruimte die je wil laten onderhouden of de gelegenheid waarvoor je hulp zoekt.'],
+      [('Per sector',by('sector')),('Per ruimte',by('ruimte')),('Bij een bijzondere gelegenheid',by('situatie'))],
+      [('Welke bedrijven kunnen bij Zondags terecht?',"Kantoren, praktijken, winkels, showrooms, kmo's, vzw's en zelfstandigen met een vennootschap in West- en Oost-Vlaanderen. Industriële reiniging, werken op hoogte en technische klussen doen we niet."),
+       ('Kan ik ook een losse opdracht vragen?','Ja. Een grote poetsbeurt, een kantoorverhuis of een opkuis na een receptie kan als losse opdracht, naast of zonder een vast plan.'),
+       ('Wanneer komt de poetshulp?',"Overdag op weekdagen, ook vroeg in de ochtend of over de middag. Niet 's avonds en niet in het weekend.")])
+    NEW_HUBS.append('sectoren/')
+    hub_page('vragen','Vragen van bedrijven','Vragen van bedrijven over poetshulp',
+      'Heldere antwoorden op wat zaakvoerders en vrije beroepen vragen over poetshulp, huishoudhulp en hulp in huis via hun zaak.',
+      ["Hoe vaak laat je een kantoor poetsen, wat bepaalt de prijs, kan het via je vennootschap en wat als je poetshulp ziek is? Op deze pagina's vind je per vraag een kort antwoord en daarna de nuance.",
+       'Gaat het over fiscaliteit, dan leggen we de algemene lijnen uit. Je accountant bevestigt altijd wat voor jouw situatie geldt.'],
+      [('Alle vragen',by('vraag'))],
+      [('Geeft Zondags fiscaal advies?','Nee. Zondags legt de algemene werking uit en levert een duidelijke dienstenfactuur. Je accountant bevestigt de fiscale verwerking voor je eigen situatie.'),
+       ('Hoe stel ik een vraag die hier niet staat?','Via de chat op de site, telefonisch of via WhatsApp op 0470 56 53 58, elke dag van 6 tot 22 uur, of via hello@zondags.be.')])
+    NEW_HUBS.append('vragen/')
+
 # ---------------- HUBS ----------------
 HUBS={'beroepen':('Voor wie','Huishoudelijke hulp per beroep','Voor artsen, vrije beroepen en zaakvoerders: één vaste Zondag voor praktijk en woning.'),
       'diensten':('Diensten','Alle diensten van uw Zondag','Van poetsen en strijken tot koken, de kinderen en de tuin.'),
@@ -348,7 +489,7 @@ for folder,(eb,t,lead) in HUBS.items():
     os.makedirs(folder,exist_ok=True); open(f'{folder}/index.html','w').write(convert_html(pg))
 
 # ---------------- SITEMAP ----------------
-core=['','wat-we-doen','menu','hoe-het-werkt','zondag-worden','aanvraag']+[h+'/' for h in HUBS]
+core=['','wat-we-doen','menu','hoe-het-werkt','zondag-worden','aanvraag']+[h+'/' for h in HUBS]+NEW_HUBS
 allu=core+[re.sub(r'(^|/)index$',r'\1',p[0].replace('.html','')) for p in pages]
 open('sitemap.xml','w').write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join(f'  <url><loc>{BASE}{u}</loc><lastmod>{TODAY}</lastmod></url>\n' for u in allu)+'</urlset>\n')
 json.dump([{'path':p[0],'title':p[1],'words':p[2],'group':p[3]} for p in pages],open('_tools/pages.json','w'),ensure_ascii=False,indent=0)

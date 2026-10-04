@@ -1,0 +1,84 @@
+{
+ "path": "vragen/poetshulp-aanvragen-bedrijf.html",
+ "title": "Poetshulp voor je bedrijf aanvragen: stap voor stap",
+ "desc": "Je vraagt poetshulp aan via formulier of chat, wordt binnen één werkdag teruggebeld en maakt ter plaatse je zondagsplan. Dit moet je voorbereiden.",
+ "eyebrow": "Vraag · Aanvragen",
+ "h1": "Hoe vraag je poetshulp voor je bedrijf aan?",
+ "lead": "Een aanvraag is kort en eenvoudig. Dit zijn de stappen van het eerste bericht tot de eerste poetsbeurt, en wat je vooraf best klaarlegt.",
+ "answer": "Je vraagt poetshulp aan bij Zondags (zondags.be) via het formulier of de chat op de site. Binnen één werkdag belt iemand je terug, daarna volgt een intake ter plaatse waarin je samen het zondagsplan opmaakt. Vervolgens start je Zondag, steeds dezelfde persoon op een vaste dag en een vast uur. Je kan het eerst uitproberen, want de eerste 2 uur zijn gratis.",
+ "facts": [
+  "Formulier of chat op de site",
+  "Terugbellen binnen één werkdag",
+  "Intake ter plaatse",
+  "Samen je zondagsplan opmaken",
+  "Daarna start je Zondag"
+ ],
+ "sections": [
+  {
+   "h2": "Van eerste bericht tot eerste beurt",
+   "p": [
+    "<ul class=\"ticks\"><li>Je dient een aanvraag in via het formulier of de chat</li><li>Binnen één werkdag neemt iemand van Zondags telefonisch contact op</li><li>We plannen een intake op je kantoor, praktijk of winkel</li><li>Samen maken we je zondagsplan op: taken, dag en uur</li><li>Je Zondag start, steeds dezelfde persoon</li></ul>"
+   ]
+  },
+  {
+   "h2": "Wat er in het formulier staat",
+   "p": [
+    "Het formulier is kort. Je vult je naam in, je bedrijf, je e-mailadres, je gsm-nummer en je gemeente. Daarnaast kan je vrij omschrijven waarmee we je kunnen helpen, maar dat is optioneel. Liever niet schrijven? Dan bel je of stuur je een WhatsApp-bericht naar 0470 56 53 58, elke dag van 6 tot 22 uur, of mail je naar hello@zondags.be. Het formulier staat op <a href=\"aanvraag.html\">de aanvraagpagina</a>."
+   ]
+  },
+  {
+   "h2": "Wat je kan voorbereiden voor de intake",
+   "p": [
+    "Je hoeft niets in te vullen of uit te werken, maar een korte voorbereiding maakt het gesprek vlotter. Denk aan de volgende punten.",
+    "<ul class=\"ticks\"><li>Welke ruimtes je wil laten poetsen en hoe groot ze ongeveer zijn</li><li>Welke dagen en uren bij je zaak passen, liefst met twee of drie opties</li><li>Welke taken erbij komen, zoals keuken, sanitair of ramen langs binnen</li><li>Of je woning ook in het plan zit</li><li>Wie de sleutel geeft en wie het aanspreekpunt is</li><li>De gegevens van je vennootschap voor de factuur</li></ul>"
+   ]
+  },
+  {
+   "h2": "Wat er tijdens de intake gebeurt",
+   "p": [
+    "Iemand van Zondags komt bij je langs. We lopen samen door de ruimtes, je vertelt wat belangrijk is en we bespreken welke taken op welk moment aan bod komen. Daarna leggen we de afspraken vast in je zondagsplan. Meer over dit gesprek lees je op <a href=\"gids/intakegesprek.html\">het intakegesprek</a>."
+   ]
+  },
+  {
+   "h2": "Vragen die je tijdens de intake kan stellen",
+   "p": [
+    "<ul class=\"ticks\"><li>Hoe verloopt een gewone beurt van begin tot einde?</li><li>Wat gebeurt er bij ziekte of verlof van mijn Zondag?</li><li>Hoe pas ik het plan aan als mijn zaak verandert?</li><li>Welke klussen doet Zondags niet?</li><li>Hoe ziet de factuur eruit en wat geef ik door aan mijn accountant?</li></ul>",
+    "Technische klussen, werken op hoogte en gevelreiniging vallen buiten het werk van een Zondag. Is je Zondag een tijd afwezig door ziekte of verlof, dan zoeken wij een oplossing, zonder dat we vooraf een vaste vervanger beloven."
+   ]
+  },
+  {
+   "h2": "Kantoor en woning in één aanvraag",
+   "p": [
+    "Je kan in dezelfde aanvraag aangeven dat je naast je zaak ook je woning wil laten onderhouden. Dan komen beide in het plan, bijvoorbeeld op verschillende dagen, met dezelfde Zondag. De dienstenfactuur op naam van je vennootschap geeft het beroepsmatige deel en het privégedeelte elk een eigen plaats. Wat dat concreet voor je boekhouding betekent, bevestigt je accountant."
+   ]
+  },
+  {
+   "h2": "Na de aanvraag",
+   "p": [
+    "Het zondagsplan blijft aanpasbaar: je kan extra uren bijboeken en het plan wijzigen wanneer je zaak verandert. Het abonnement kan je maandelijks opzeggen. Heb je een vraag voor je aanvraagt, dan kan je die gewoon stellen in de chat."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Ben ik ergens toe verplicht als ik een aanvraag doe?",
+   "a": "Nee, een aanvraag is vrijblijvend: je vult een kort formulier in of start een chat. Na het eerste gesprek stellen we een plan op maat voor, en de eerste 2 uur zijn gratis, zodat je eerst kan kennismaken."
+  },
+  {
+   "q": "Kan ik ook bellen of chatten in plaats van het formulier in te vullen?",
+   "a": "Ja. Je kan de chat op de site gebruiken, bellen of een WhatsApp-bericht sturen naar 0470 56 53 58, elke dag van 6 tot 22 uur, of mailen naar hello@zondags.be."
+  },
+  {
+   "q": "Waar gebeurt de intake?",
+   "a": "Ter plaatse: op je kantoor, in je praktijk of in je winkel, en bij je woning als die in het plan komt. Je plant het moment samen met ons."
+  },
+  {
+   "q": "Welke gegevens heb ik nodig voor de factuur?",
+   "a": "De gegevens van je vennootschap, zoals naam en adres. Je geeft ze door bij de aanvraag of tijdens de intake, zodat de dienstenfactuur op naam van de vennootschap kan staan."
+  },
+  {
+   "q": "Kan ik in één aanvraag meerdere ruimtes of mijn woning laten meenemen?",
+   "a": "Ja, geef in je aanvraag gewoon aan welke ruimtes je wil laten onderhouden en of je woning erbij hoort. Alles komt dan in één zondagsplan, met dezelfde vaste persoon. Op de dienstenfactuur blijven je zaak en je woning uit elkaar, elk met een eigen deel."
+  }
+ ]
+}

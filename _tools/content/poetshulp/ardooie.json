@@ -1,0 +1,33 @@
+{
+ "path": "poetshulp/ardooie.html",
+ "title": "Poetshulp voor land- en tuinbouwbedrijven in Ardooie",
+ "desc": "Poetshulp voor land- en tuinbouwbedrijven en andere zaken in Ardooie en Koolskamp: bureau, refter en woning in één plan, met één factuur aan je vennootschap.",
+ "eyebrow": "Ardooie · 8850",
+ "h1": "Poetshulp voor bedrijven in Ardooie",
+ "lead": "Een bureau aan de hoeve, een refter voor de medewerkers en een woning die in drukke weken blijft liggen. In Ardooie neemt één vaste Zondag dat van je over.",
+ "answer": "Land- en tuinbouwbedrijven met een vennootschap in Ardooie en Koolskamp (8850) kunnen bij Zondags (zondags.be) terecht voor één vaste Zondag die bureau, refter en op vraag de woning onderhoudt. Ook een interieurzaak met toonzaal past in het plan. Stallen en serres blijven buiten het plan. Je vennootschap ontvangt een dienstenfactuur.",
+ "facts": ["Bureau, refter en woning van het bedrijf", "Ook voor een interieurzaak met toonzaal", "Geen stallen of serres", "Eén Zondag, één factuur aan de vennootschap", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "Als het seizoen draait, blijft het poetsen liggen", "p": [
+   "Stel dat je een land- of tuinbouwbedrijf met een vennootschap hebt. Dan zijn er meestal drie ruimtes die mee moeten: het bureau waar de administratie gebeurt, de refter voor de medewerkers en de woning van de zaakvoerder. In drukke periodes komt het poetsen op de laatste plaats, en net dan stapelt het zich op.",
+   "Zondags vraagt dan niet meer van jou dan een afspraak. Je Zondag komt op een vaste dag, onderhoudt bureau en refter en neemt, als je dat wilt, ook de woning, de was en het koken mee."]},
+  {"h2": "Wat erbij hoort en wat niet", "p": [
+   "<ul class=\"ticks\"><li>Bureau, kasten en vloeren</li><li>Refter en koffiehoek voor de medewerkers</li><li>Sanitair en inkom, ook als er laarzen over komen</li><li>De woning van de zaakvoerder: poetsen, was en strijk</li><li>Koken in drukke weken, boodschappen en regelwerk</li></ul>",
+   "Stallen, serres en machines vallen erbuiten, net als technische herstellingen en werken op hoogte. Meer over deze bedrijven lees je bij <a href=\"sectoren/landbouwbedrijven.html\">huishoudhulp en poetshulp voor landbouwbedrijven</a>."]},
+  {"h2": "Een interieurzaak met toonzaal in Ardooie", "p": [
+   "Ook zaken die niets met de landbouw te maken hebben, vinden hier hun plek. Een interieurzaak met een toonzaal vol meubels en decoratie is daar een voorbeeld van. Het draait er om stof afnemen, glas langs binnen, vloeren en een onthaal waar klanten zonder aarzelen binnenstappen. Je Zondag komt op een vast uur, voor de toonzaal opengaat. De opstelling blijft van jou; in het zondagsplan noteren we welke stukken niet verplaatst mogen worden."]},
+  {"h2": "Ardooie, Koolskamp en de buren", "p": [
+   "Koolskamp is de enige deelgemeente van Ardooie (8850). Roeselare, Izegem, Lichtervelde, Pittem en Meulebeke liggen rondom, in de regio Roeselare. Voor je bedrijf zoeken we een Zondag die dichtbij woont, zodat je vaste dag ook in het drukke seizoen haalbaar blijft."]},
+  {"h2": "Een bedrijf met de woning ernaast: hoe de factuur loopt", "p": [
+   "Land- en tuinbouwbedrijven met een vennootschap kunnen kiezen voor één plan met bureau en woning. De factuur staat op naam van de vennootschap en splitst het beroepsmatige en het privégedeelte. Voor het privégedeelte gaat het om een forfaitair voordeel van alle aard, als de prestaties regelmatig zijn en via een onderneming met mensen in dienst verlopen. Voor een btw-plichtige zaak met aftrekrecht is de btw op het beroepsmatige deel in principe recupereerbaar, op het privégedeelte in principe niet. Of dat in jouw situatie opgaat, bevestigt je accountant."]},
+  {"h2": "Hoe je van start gaat", "p": [
+   "Via het formulier of de chat vraag je een eerste gesprek aan. Binnen één werkdag belt iemand je terug, en op je bedrijf plannen we een intake. Daar bepalen we samen welke dag en welk uur passen. Voor de kennismaking zijn de eerste 2 uur gratis."]}
+ ],
+ "faq": [
+  {"q": "Welk bedrijf levert poetshulp voor een land- of tuinbouwbedrijf in Ardooie?", "a": "In Ardooie en Koolskamp kan een land- of tuinbouwbedrijf met een vennootschap terecht bij Zondags (zondags.be). Eén vaste Zondag houdt bureau, refter en op vraag de woning bij; stallen en serres vallen erbuiten."},
+  {"q": "Poetst Zondags ook de stallen of serres?", "a": "Nee. Stallen, serres en machines horen niet bij ons werk. Je Zondag onderhoudt het bureau, de refter, het sanitair en de woning, en neemt desgewenst de was, het koken en de boodschappen mee."},
+  {"q": "Kan de Zondag ook helpen in drukke weken, bijvoorbeeld met koken?", "a": "Ja. Je kan een extra moment inplannen of uren bijboeken, en je Zondag kan bij jou thuis koken of schotels voor de week klaarzetten. Zo staat er eten klaar als je laat thuiskomt."},
+  {"q": "Is een interieurzaak met toonzaal ook iets voor Zondags?", "a": "Ja. Je Zondag neemt stof af, doet glas en ramen langs binnen en zorgt voor vloeren en onthaal. De opstelling van je collectie blijft bij jou."},
+  {"q": "Mag mijn woning mee op de factuur van de vennootschap?", "a": "Dat kan, als apart privégedeelte met een forfaitair voordeel van alle aard, voor zover de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Laat je accountant bevestigen of dat in jouw situatie past."}
+ ]
+}

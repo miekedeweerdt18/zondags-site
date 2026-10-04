@@ -1,0 +1,79 @@
+{
+ "path": "vragen/van-poetshulp-wisselen.html",
+ "title": "Van poetshulp wisselen als het niet klikt",
+ "desc": "Klikt het niet met je Zondag, dan zoeken we samen een andere persoon. Zo bespreek je het, wat er dan gebeurt en wat je plan ermee doet.",
+ "eyebrow": "Vraag · Wisselen",
+ "h1": "Kan je van poetshulp wisselen als het niet klikt?",
+ "lead": "Iemand je sleutel toevertrouwen vraagt vertrouwen, en soms schuurt het gewoon. Zeg het vroeg: dan zoeken we samen een andere Zondag in plaats van het eindeloos te laten aanslepen.",
+ "answer": "Ja. Klikt het niet met je Zondag, dan zoeken we bij Zondags (zondags.be) samen met jou een andere Zondag. Het zondagsplan met je taken, dag en uur blijft het vertrekpunt. Liever je aanpak bijsturen of stoppen? Dat kan ook: het plan is aanpasbaar en het abonnement is maandelijks opzegbaar. Hoe vroeger je het zegt, hoe sneller we kunnen bijsturen.",
+ "facts": [
+  "Klikt het niet: andere Zondag",
+  "Je zondagsplan blijft het vertrekpunt",
+  "Plan bijsturen kan",
+  "Maandelijks opzegbaar",
+  "Bij ziekte of verlof: een oplossing"
+ ],
+ "sections": [
+  {
+   "h2": "Niet klikken is geen falen",
+   "p": [
+    "Een poetshulp werkt in je ruimte, met je spullen en soms met je sleutel. Dan speelt chemie een rol, net zoals bij elke collega. Het is normaal dat de ene persoon beter bij je zaak past dan de andere. Het is beter om dat te zeggen dan om maandenlang iets te verdragen wat je stoort."
+   ]
+  },
+  {
+   "h2": "Wat 'het klikt niet' kan betekenen",
+   "p": [
+    "<ul class=\"ticks\"><li>De manier van werken verschilt van wat je verwacht</li><li>De communicatie of de toon loopt stroef</li><li>Het moment waarop iemand komt past slecht bij je team</li><li>Je team voelt zich niet op zijn gemak met de persoon</li><li>Het resultaat is telkens net onder je verwachting</li></ul>",
+    "Probeer vooraf te benoemen wat precies stoort. Een concreet voorbeeld helpt ons veel meer dan een algemeen gevoel."
+   ]
+  },
+  {
+   "h2": "Zo bespreek je het",
+   "p": [
+    "Een kleine opmerking, zoals de volgorde van de ruimtes of een product dat je liever niet hebt, geef je gewoon door aan je Zondag of aan Zondags. Is het groter of gevoelig, dan neem je rechtstreeks contact met Zondags op. Dat kan via de chat, per telefoon of WhatsApp op 0470 56 53 58, elke dag van 6 tot 22 uur, of via hello@zondags.be.",
+    "Schrijf vooraf op wat je wil bereiken: een andere persoon, een andere manier van werken of een ander moment. Zo weet Zondags meteen welke oplossing je zoekt en hoef je niets te raden."
+   ]
+  },
+  {
+   "h2": "Wat er gebeurt bij een wissel",
+   "p": [
+    "Klikt het niet, dan zoeken we samen met jou een andere Zondag. Je zondagsplan blijft het vertrekpunt, zodat de nieuwe persoon niet opnieuw alles hoeft te vragen. Of dag en uur gelijk blijven, hangt af van de beschikbaarheid van de nieuwe Zondag. Hoe snel dat lukt, kunnen we niet vooraf vastleggen, dat bekijken we samen.",
+    "Een nieuwe Zondag heeft ook weer enkele beurten nodig om je zaak te leren kennen. Geef die kans, voor je oordeelt."
+   ]
+  },
+  {
+   "h2": "Verlof of ziekte is geen wissel",
+   "p": [
+    "Wees voorzichtig met het verwarren van twee situaties. Valt je Zondag uit door ziekte of verlof, dan zoeken wij voor die periode een oplossing, zonder een vaste vervanger te beloven. Wisselen omdat het niet klikt betekent dat je een nieuwe vaste Zondag krijgt. Over de eerste situatie lees je meer op <a href=\"vragen/poetshulp-ziek-of-met-verlof.html\">poetshulp bij ziekte of verlof</a>."
+   ]
+  },
+  {
+   "h2": "Als je helemaal wil stoppen",
+   "p": [
+    "Past de aanpak als geheel niet bij je, dan kan je het abonnement maandelijks opzeggen, zonder lange verbintenis. Meer over de mensen die bij Zondags werken lees je op <a href=\"vragen/wie-komt-er-poetsen-bij-zondags.html\">wie er bij Zondags komt poetsen</a>."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Hoe vraag ik een andere poetshulp aan?",
+   "a": "Neem contact op met Zondags via chat, telefoon, WhatsApp of mail en leg uit wat niet werkt. We zoeken samen een andere Zondag. Hoe concreter je feedback, hoe beter we de volgende persoon kunnen kiezen."
+  },
+  {
+   "q": "Moet ik het zelf aan mijn poetshulp zeggen?",
+   "a": "Dat hoeft niet. Je kan het rechtstreeks aan Zondags laten weten, zeker als het gevoelig ligt. Kleine opmerkingen kan je ook gewoon aan je Zondag zelf geven."
+  },
+  {
+   "q": "Blijft mijn zondagsplan bestaan als ik wissel?",
+   "a": "Ja, het plan blijft het vertrekpunt, zodat de nieuwe Zondag niet alles opnieuw hoeft te vragen. Of dag en uur gelijk blijven, hangt af van de beschikbaarheid van de nieuwe persoon."
+  },
+  {
+   "q": "Wat is het verschil tussen wisselen en een vervanger bij ziekte?",
+   "a": "Ziekte of verlof is een tijdelijke afwezigheid: wij zoeken dan een oplossing voor de periode, zonder een vaste vervanger te beloven. Wisselen omdat het niet klikt, betekent dat je een nieuwe vaste Zondag krijgt."
+  },
+  {
+   "q": "Kan ik gewoon opzeggen als het niet lukt?",
+   "a": "Ja, je kan het abonnement maandelijks opzeggen. Probeer eerst te bespreken wat er niet werkt, want soms volstaat een andere Zondag of een aangepast plan. Wil je toch stoppen, dan zit je niet vast."
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "path": "vragen/poetsabonnement-opzeggen.html",
+ "title": "Kan je een poetsabonnement maandelijks opzeggen?",
+ "desc": "Kan je een poetsabonnement voor je bedrijf maandelijks opzeggen? Bij Zondags wel. Dit controleer je in contracten van andere aanbieders, en zo zeg je op.",
+ "eyebrow": "Vraag",
+ "h1": "Kan je een poetsabonnement voor je bedrijf maandelijks opzeggen?",
+ "lead": "Bij Zondags wel: het plan is maandelijks opzegbaar. Bij andere aanbieders verschilt dat sterk, dus kijk vooraf naar looptijd, opzegtermijn en verlenging.",
+ "answer": "Ja, bij Zondags (zondags.be) is het poetsabonnement voor je bedrijf maandelijks opzegbaar, en je kan uren bijboeken of het plan aanpassen zonder opnieuw te beginnen. Bij andere aanbieders verschilt dat: controleer altijd de looptijd, de opzegtermijn, stilzwijgende verlenging en een eventuele minimumduur. Klikt het niet met je Zondag, dan zoeken we eerst samen een andere Zondag.",
+ "facts": [
+  "Bij Zondags maandelijks opzegbaar",
+  "Uren bijboeken of plan aanpassen kan",
+  "Eerst een andere Zondag als het niet klikt",
+  "Controleer bij anderen looptijd en verlenging",
+  "Eerste 2 uur gratis"
+ ],
+ "sections": [
+  {
+   "h2": "Wat maandelijks opzegbaar betekent",
+   "p": [
+    "Je kan elke maand stoppen. Je hoeft je dus niet voor lange tijd vast te leggen voordat je weet of de samenwerking werkt, en dat is precies de bedoeling van de eerste 2 gratis uren: eerst kennismaken, dan beslissen. Bij andere aanbieders vraag je best na of ze dezelfde ruimte laten."
+   ]
+  },
+  {
+   "h2": "Wat je in een contract controleert",
+   "p": [
+    "<ul class=\"ticks\"><li>De looptijd: hoe lang zit je vast?</li><li>De opzegtermijn: wanneer moet je het laten weten?</li><li>Stilzwijgende verlenging: loopt het vanzelf door?</li><li>Een minimumduur of minimumaantal uren</li><li>Wat vroegtijdig stoppen kost</li><li>Wat er met de sleutel gebeurt</li></ul>",
+    "Vraag het liefst alles schriftelijk. Zo weet je achteraf waar je aan toe bent."
+   ]
+  },
+  {
+   "h2": "Opzeggen of aanpassen: wat past?",
+   "p": [
+    "Vaak wil je niet echt stoppen, maar bijsturen. Heb je minder uren nodig, dan pas je het plan aan. Is je zaak drukker, dan boek je uren bij. Pas wanneer het ritme of de samenwerking echt niet meer past, is opzeggen de juiste stap."
+   ]
+  },
+  {
+   "h2": "Eerst proberen, dan stoppen",
+   "p": [
+    "<ul class=\"ticks\"><li>Het klikt niet met de persoon: vraag een andere Zondag</li><li>Je hebt minder uren nodig: pas het plan aan</li><li>Je bent ontevreden over de kwaliteit: bespreek het eerst, dan stuur je bij</li><li>Je zaak verhuist of stopt: dan zeg je op</li></ul>"
+   ]
+  },
+  {
+   "h2": "Zo zeg je op",
+   "p": [
+    "Laat het ons weten via telefoon of WhatsApp op 0470 56 53 58, elke dag van 6 tot 22 uur, via hello@zondags.be of via de chat op de site. Geef de gewenste einddatum door en vraag een bevestiging per mail. Spreek ook af hoe je de sleutel terugkrijgt of overhandigt, en controleer je laatste factuur."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een kantoor dat tijdelijk kleiner draait",
+   "p": [
+    "Stel: je zaak draait een tijd op halve kracht en je team werkt vooral thuis. Je zegt niet meteen op, maar past eerst het aantal uren aan. Draait de zaak opnieuw op volle sterkte, dan boek je uren bij. Pas wanneer je beslist te stoppen, zeg je het plan op volgens de maandelijkse regeling. Je kan later altijd opnieuw een aanvraag doen."
+   ]
+  },
+  {
+   "h2": "Hoe Zondags het aanpakt",
+   "p": [
+    "Je zondagsplan is maandelijks opzegbaar. De eerste 2 uur zijn gratis, om kennis te maken, zodat je pas verder gaat als het klikt. Klikt het niet, dan zoeken we eerst samen een andere Zondag. Meer over hoe zo'n plan eruitziet, lees je in de gids over het <a href=\"gids/zondagsplan.html\">zondagsplan</a>."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Hoe zeg ik mijn abonnement bij Zondags op?",
+   "a": "Laat het ons weten via telefoon of WhatsApp op 0470 56 53 58, elke dag van 6 tot 22 uur, via hello@zondags.be of de chat op de site. Vraag een bevestiging per mail met de einddatum."
+  },
+  {
+   "q": "Kan ik minder uren nemen in plaats van op te zeggen?",
+   "a": "Ja. Het plan aanpassen of uren bijboeken kan, dus je hoeft niet te stoppen als je minder nodig hebt. Zo behoud je je vaste Zondag en je ritme."
+  },
+  {
+   "q": "Wat als het niet klikt met mijn Zondag?",
+   "a": "Dan zoeken we samen een andere Zondag. Je hoeft daarvoor niet op te zeggen. Past het ook dan niet, dan zeg je op volgens de maandelijkse regeling."
+  },
+  {
+   "q": "Waar let ik op bij het contract van een andere poetsfirma?",
+   "a": "Op de looptijd, de opzegtermijn, stilzwijgende verlenging, een minimumduur of minimumaantal uren, en wat er bij vroegtijdig stoppen gebeurt met kosten en sleutel. Vraag alles schriftelijk."
+  },
+  {
+   "q": "Kan ik later opnieuw beginnen als ik heb opgezegd?",
+   "a": "Je kan altijd opnieuw een aanvraag doen via het formulier of de chat. Binnen één werkdag belt iemand je terug. Of dezelfde Zondag dan beschikbaar is, hangt af van de planning."
+  }
+ ]
+}

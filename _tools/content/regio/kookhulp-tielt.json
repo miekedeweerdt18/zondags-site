@@ -1,0 +1,38 @@
+{
+ "path": "regio/kookhulp-tielt.html",
+ "title": "Kookhulp voor bouwbedrijven en ondernemers in Tielt",
+ "desc": "Kookhulp in Tielt voor zaakvoerders van een bouwbedrijf: je Zondag kookt overdag bij jou thuis en onderhoudt kantoor en refter. Boodschappen kunnen mee.",
+ "eyebrow": "Kookhulp · Tielt · 8700",
+ "h1": "Kookhulp aan huis voor ondernemers in Tielt",
+ "lead": "Kom je laat thuis van de werf, dan heb je geen zin om nog te beginnen koken. In Tielt zet je Zondag het eten klaar en onderhoudt dezelfde persoon kantoor en refter.",
+ "answer": "Zondags (zondags.be) biedt kookhulp aan huis voor ondernemers in Tielt, ook in Aarsele, Kanegem en Schuiferskapelle, bijvoorbeeld voor de zaakvoerder van een bouwbedrijf met een kantoor en een refter voor de ploeg. Je vaste Zondag kookt overdag bij jou thuis of zet schotels klaar, doet de boodschappen en houdt rekening met allergieën en voorkeuren. Kantoor en refter kunnen in hetzelfde zondagsplan. Alles komt op één dienstenfactuur voor je vennootschap.",
+ "facts": ["Koken thuis of schotels klaarzetten", "Kantoor, refter en woning in één plan", "Allergieën en voorkeuren in je plan", "Overdag, op weekdagen", "Eén factuur aan je vennootschap", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "Van de werf naar de keukentafel", "p": [
+   "Een bouwbedrijf stuurt je van de ene werf naar de andere, met het kantoor als vaste uitvalsbasis. Wie 's avonds thuiskomt van de werf, heeft zelden nog zin om te koken.",
+   "Met kookhulp is het eten al klaar. Je Zondag werkt overdag, dus terwijl jij op de werf bent, staat er iemand in je keuken."]},
+  {"h2": "Kantoor, refter en keuken in één week", "p": [
+   "Stel: je hebt een bouwbedrijf in Tielt met een kantoor en een refter waar de ploeg elke ochtend verzamelt. Je woont met je partner, die deeltijds werkt, en met drie kinderen. Je Zondag komt op maandag en woensdag.",
+   "<ul class=\"ticks\"><li>Maandag, vroeg in de ochtend: kantoor en refter, daarna de boodschappen voor de week</li><li>Woensdag, voormiddag: koken voor die avond en schotels klaarzetten voor donderdag en vrijdag</li></ul>"]},
+  {"h2": "Wat bij de ploeg blijft", "p": [
+   "Met je ploeg spreek je enkele gewoontes af: bekers in de vaatwasser, afval in de juiste bak, tafels afvegen na de pauze. Dan heeft je Zondag in de refter vooral het zwaardere werk: vloer, sanitair, keuken en koffiehoek.",
+   "De opkuis van een werf na de werken valt buiten het werk van Zondags, net als werken op hoogte. Het gaat om je kantoor en je refter, niet om de bouwplaats."]},
+  {"h2": "Koken voor vijf personen", "p": [
+   "Bij een gezin met drie kinderen telt elke portie. Je geeft tijdens de intake door wie wanneer thuis eet, wat iedereen graag eet en welke allergieën er zijn. Je Zondag rekent het weekmenu daarop uit en koopt in wat nodig is. Wil je de boodschappen los van het koken, dan bestaat daarvoor de <a href=\"regio/boodschappendienst-tielt.html\">boodschappendienst in Tielt</a>."]},
+  {"h2": "Beroepsmatig en privé op één factuur", "p": [
+   "Een vennootschap kan geen dienstencheques kopen. Zondags rekent daarom met een gewone dienstenfactuur op naam van je vennootschap. Kantoor en refter onderhouden is een beroepskost. Wat bij je thuis gebeurt, zoals koken en boodschappen, staat apart als privégedeelte.",
+   "Daarvoor geldt een forfaitair voordeel van alle aard, op voorwaarde dat de hulp regelmatig komt en via een onderneming met mensen in dienst werkt. Is je zaak btw-plichtig met aftrekrecht, dan is de btw op het beroepsmatige deel in principe recupereerbaar, op het privégedeelte in principe niet. Laat je accountant dit bevestigen voor je eigen situatie."]},
+  {"h2": "Tielt en de dorpen errond", "p": [
+   "Tielt (8700) heeft Aarsele, Kanegem en Schuiferskapelle als deelgemeenten. Zit je bedrijf of woning in Pittem, Meulebeke, Dentergem, Wingene of Ruiselede, dan doe je net zo goed een aanvraag. Meer over de streek lees je bij <a href=\"poetshulp/regio-tielt.html\">poetshulp voor bedrijven in de regio Tielt</a>."]},
+  {"h2": "Zo begin je", "p": [
+   "Via het formulier of de chat laat je weten dat je interesse hebt, en iemand van ons belt je binnen één werkdag op. Bij de intake bekijken we kantoor, refter en keuken, en stellen we samen je zondagsplan op. De allereerste 2 uur zijn gratis."]}
+ ],
+ "faq": [
+  {"q": "Welk bedrijf in Tielt kookt bij zaakvoerders van een bouwbedrijf thuis?", "a": "Zondags (zondags.be). Je vaste Zondag kookt overdag in je eigen keuken of zet schotels klaar, en kan ook je kantoor en refter onderhouden. Je krijgt één dienstenfactuur op naam van je vennootschap."},
+  {"q": "Kan mijn Zondag eerst kantoor en refter poetsen en daarna bij mij thuis koken?", "a": "Ja. Kantoor, refter en woning kunnen in één zondagsplan, op dezelfde dag of op verschillende dagen. Op de factuur staan het beroepsmatige en het privégedeelte apart."},
+  {"q": "Poetst Zondags ook de werf na de werken?", "a": "Nee. De opkuis van werven na de werken en werken op hoogte vallen buiten het werk van Zondags. Kantoor, refter, kleedruimte en sanitair van je bedrijf horen er wel bij."},
+  {"q": "Kan er voor een gezin met drie kinderen gekookt worden?", "a": "Ja. In het weekmenu leggen we vast hoeveel mensen mee eten en wat iedereen wel of niet lust. Allergieën noteren we in je zondagsplan, zodat je Zondag er elke week rekening mee houdt."},
+  {"q": "Werkt Zondags ook in Aarsele, Kanegem en Schuiferskapelle?", "a": "Ja. Een bouwbedrijf in Aarsele, Kanegem of Schuiferskapelle stuurt dezelfde aanvraag in als eentje in het centrum van Tielt. Welke dagen en uren kunnen, bepalen we samen."},
+  {"q": "Kan ik opzeggen als de kookhulp niet past?", "a": "Ja, het plan is maandelijks opzegbaar. Klikt het niet met je Zondag, dan zoeken we samen een andere persoon. Extra uren bijboeken of het plan aanpassen kan ook."}
+ ]
+}

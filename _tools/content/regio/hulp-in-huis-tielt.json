@@ -1,0 +1,34 @@
+{
+ "path": "regio/hulp-in-huis-tielt.html",
+ "title": "Hulp in huis voor ondernemers in Tielt (8700)",
+ "desc": "Hulp in huis in Tielt voor landbouwers en andere ondernemers op de hoeve: was, koken, poetsen en het bureau aan huis door één vaste Zondag.",
+ "eyebrow": "Hulp in huis · Tielt",
+ "h1": "Hulp in huis voor ondernemers in Tielt",
+ "lead": "Op een hoeve begint de dag vroeg en loopt het werk door tot het donker. In Tielt neemt één vaste Zondag het huishouden over, zodat de woning en het bureau niet achterblijven.",
+ "answer": "Op een hoeve in Tielt neemt Zondags (zondags.be) het huishouden over: één vaste persoon, je Zondag, poetst het woonhuis, doet de grote was en strijk, kookt, haalt boodschappen, houdt tuin en terras bij en poetst het bureau aan de hoeve. De stallen, machines en het landbouwwerk zelf blijven bij jou. Hoeve en gezin krijgen samen één dienstenfactuur op naam van je vennootschap.",
+ "facts": ["Woonhuis, bureau en tuin in één plan", "Grote was en strijk van een werkend gezin", "Stallen en machines blijven bij jou", "Overdag op weekdagen", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "Een hoeve met een gezin en een bureau", "p": [
+   "Neem een landbouwbedrijf in Tielt waar twee generaties onder één dak werken. De dag start vroeg buiten, de administratie gebeurt in een bureau aan de hoeve en in de keuken zit altijd wel iemand te eten. Woon- en werkruimte lopen in elkaar over, en dus ook de hoeveelheid werk die blijft liggen.",
+   "Een vaste Zondag neemt het woonhuis, het bureau en de tuin errond over, op een dag en uur waarop je kan rekenen."]},
+  {"h2": "De was van een werkend huishouden", "p": [
+   "Waar buiten gewerkt wordt, is er veel was: overalls, werkkledij, handdoeken, bedlinnen. Je Zondag zet op de vaste dag de wasmachine aan, hangt op, strijkt wat nodig is en legt alles weg. Wat naar de droogkuis moet, wordt meegenomen als regelwerk. Zo staat de was niet meer elke week op je lijst."]},
+  {"h2": "Koken voor een groter gezin", "p": [
+   "Wordt er bij jullie warm gegeten rond het middaguur, dan kan je Zondag dat klaarzetten en zorgt de boodschappenronde ervoor dat de voorraad klopt. Liever schotels voor de week, zodat het eten klaarstaat op de dagen dat het veld alles vraagt? Dat kan ook. Je geeft aan wat er gegeten wordt en waar je rekening mee moet houden."]},
+  {"h2": "Wat buiten het zondagsplan valt", "p": [
+   "Het plan gaat over het woonhuis, het bureau en de tuin errond, in licht onderhoud. Stallen, machineloods, werkplaats, het erf en alles wat bij de landbouwactiviteit zelf hoort, doen we niet, net zomin als werken op hoogte of industriële reiniging. Het verzorgen van dieren op het bedrijf valt er ook buiten.",
+   "Draait je bedrijf ook 's avonds en in het weekend, dan blijft dat voor jou. Een Zondag komt overdag op weekdagen en zet het huis klaar voor de dagen dat jij er zelf geen tijd voor hebt."]},
+  {"h2": "Een factuur voor je bedrijf en je gezin", "p": [
+   "Het bureau aan de hoeve is beroepsmatig, het woonhuis privé. Beide staan op dezelfde gewone dienstenfactuur, gericht aan je vennootschap. Dienstencheques zijn alleen voor particulieren, dus je vennootschap komt daar niet voor in aanmerking.",
+   "Is het werk regelmatig en komt het van een onderneming met mensen in dienst, dan geldt voor het woonhuis een forfaitair voordeel van alle aard. Werk je als eenmanszaak of in een andere vorm, bespreek dan met je accountant wat voor jou van toepassing is. Meer lees je bij <a href=\"vragen/poetshulp-eenmanszaak.html\">poetshulp voor een eenmanszaak</a>."]},
+  {"h2": "Tielt, Aarsele, Kanegem en Schuiferskapelle", "p": [
+   "Aarsele, Kanegem en Schuiferskapelle zijn deelgemeenten van Tielt. Woon je daar, of in Pittem, Meulebeke, Dentergem, Wingene of Ruiselede, dan val je binnen het werkgebied rond Tielt. Je vult het formulier in of start de chat, en binnen één werkdag belt iemand je terug. Bij de intake lopen we door het woonhuis en het bureau. Wie wil weten of het past, begint met 2 uur zonder kosten."]}
+ ],
+ "faq": [
+  {"q": "Kan mijn Zondag de was van het hele gezin doen, ook de werkkledij?", "a": "Ja. Was en strijk horen bij het zondagsplan. Je geeft aan wat apart moet, wat naar de droogkuis gaat en op welke dag de machine moet draaien."},
+  {"q": "Doet mijn Zondag ook iets in de stal of op het erf?", "a": "Nee. Stallen, machines, het erf en het verzorgen van dieren op het bedrijf horen niet bij het plan. Je Zondag werkt in het woonhuis, het bureau en de tuin errond, als licht onderhoud."},
+  {"q": "Kan mijn Zondag het bureau aan de hoeve poetsen?", "a": "Ja. Een bureau aan huis kan samen met de woning in één plan. Papieren en dossiers blijven liggen waar jij ze hebt gelegd. Beroepsmatig en privé komen op aparte regels van de factuur."},
+  {"q": "Kan mijn Zondag ook in het weekend komen tijdens drukke periodes?", "a": "Nee, ook niet in de drukste weken. Wel kan je het plan in zo'n periode bijsturen met extra uren op weekdagen, zodat het huis niet achterblijft terwijl je buiten alle handen nodig hebt."},
+  {"q": "Hoe vaak komt mijn Zondag naar de hoeve?", "a": "Dat hangt af van je gezin en je werk. In de intake bepalen we samen de dagen en de uren, en je Zondag komt dan steeds op dezelfde dag en hetzelfde uur. Wordt het ergens drukker, dan sturen we het plan bij."}
+ ]
+}

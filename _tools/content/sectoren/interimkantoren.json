@@ -1,0 +1,34 @@
+{
+ "path": "sectoren/interimkantoren.html",
+ "title": "Poetshulp voor interimkantoren met veel bezoekers",
+ "desc": "Poetshulp voor het onthaal, de gesprekshoeken, het sanitair en de keuken van je interimkantoor. Eén vaste Zondag, ook als er de hele dag bezoekers binnenlopen.",
+ "eyebrow": "Interimkantoren",
+ "h1": "Poetshulp voor interimkantoren",
+ "lead": "Bij een interimkantoor lopen kandidaten en bedrijven de hele dag binnen. Een vaste Zondag houdt onthaal, gesprekshoeken, sanitair en keuken verzorgd, zodat elke bezoeker meteen een goede indruk krijgt.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor interimkantoren: één vaste persoon, je Zondag, voor het onthaal, de gesprekshoeken, het sanitair en de keuken van een kantoor met veel bezoekers, overdag op weekdagen. Je vennootschap krijgt de dienstenfactuur, met je woning als aparte post voor wie die erbij wil.",
+ "facts": ["Onthaal en gesprekshoeken", "Sanitair en keuken voor veel bezoekers", "Vóór het eerste gesprek of over de middag", "Eén vaste Zondag", "Factuur aan je vennootschap"],
+ "sections": [
+  {"h2": "Voor kandidaten is jouw kantoor de eerste ontmoeting", "p": [
+   "Een kandidaat die binnenkomt voor een gesprek, kijkt niet alleen naar jou maar ook naar de ruimte. Een vuile wachtbank, een kleverige tafel of een sjofel sanitair vertelt dat het kantoor weinig zorg heeft. Bij een interimkantoor komt elke dag iemand binnen met een belangrijke vraag: werk. Het kantoor mag daar niets aan afdoen."]},
+  {"h2": "Het onthaal en de gesprekshoeken", "p": [
+   "<ul class=\"ticks\"><li>Balie en wachtruimte met zitjes</li><li>Gesprekshoeken: tafels, stoelen en vloer</li><li>Deurklinken en leuningen die veel handen zien</li><li>Ingangsmat en glas langs binnen</li><li>Sanitair voor bezoekers en team</li><li>Keuken, koffiehoek en vaatwasser</li><li>Afval, papier en PMD naar buiten</li></ul>"]},
+  {"h2": "Dossiers blijven dicht", "p": [
+   "In een interimkantoor liggen cv's, contracten en dossiers van kandidaten. Je Zondag blijft van dossiers en kasten af en poetst rond wat er ligt. Een duidelijke afspraak helpt: je team ruimt de dossiers op het einde van de werkdag weg, zodat de bureaus vrij zijn wanneer je Zondag komt.",
+   "Hoe dat in de praktijk gaat, lees je op <a href=\"vragen/vertrouwelijke-documenten-poetshulp.html\">vertrouwelijke documenten en poetshulp</a>. De sleutel en de toegang bespreken we in de intake."]},
+  {"h2": "Plannen rond de gesprekken", "p": [
+   "Een interimkantoor heeft pieken: de ochtend waarop kandidaten zich aanmelden en de dagen met sessies. Je Zondag komt vroeg in de ochtend, vóór het eerste gesprek, of over de middag als het wat stiller is. In weken met veel afspraken boek je een tweede beurt voor sanitair en onthaal."]},
+  {"h2": "Voorbeeld: een kantoor met drie gesprekshoeken", "p": [
+   "Neem een interimkantoor met een balie, een wachtruimte, drie gesprekshoeken en een keukentje voor het team. Op maandag, woensdag en vrijdag komt je Zondag vóór opening: eerst onthaal en wachtruimte, dan gesprekshoeken, sanitair en keuken. Op dinsdag kan dezelfde Zondag voor je woning komen: was, strijk en poetsen."]},
+  {"h2": "Factuur voor je interimkantoor", "p": [
+   "Het onderhoud van je interimkantoor is een beroepskost. Dienstencheques zijn er enkel voor particulieren, dus factureert Zondags aan je vennootschap met een gewone dienstenfactuur. Wil je ook je woning in het plan, dan staat dat apart op de factuur en wordt het als voordeel van alle aard verwerkt. Je accountant bevestigt hoe dit voor jouw situatie werkt, ook voor de btw."]},
+  {"h2": "Eerste stap: kijken waar bezoekers komen", "p": [
+   "Via het formulier of de chat vraag je een Zondag aan. Binnen één werkdag belt iemand terug en we komen langs om je kantoor te bekijken, vooral de plekken waar bezoekers komen. Daarna leggen we je zondagsplan vast. De eerste 2 uur zijn gratis, zodat je het verschil in de wachtruimte eerst zelf ziet."]}
+ ],
+ "faq": [
+  {"q": "Hoe vaak moet een kantoor met veel bezoekers gepoetst worden?", "a": "Hoe meer bezoekers, hoe vaker onthaal, sanitair en keuken een beurt vragen. Je start met een vaste beurt en voegt er een toe wanneer het drukker wordt. Zo blijft het plan in verhouding tot de passage."},
+  {"q": "Wat doet de poetshulp met de dossiers van kandidaten?", "a": "Niets. Je Zondag blijft van dossiers en kasten af en poetst rond wat er ligt. Je team ruimt de dossiers op het einde van de dag weg, zodat de bureaus vrij zijn."},
+  {"q": "Kan de poetshulp vóór de eerste kandidaten komen?", "a": "Ja. Vroeg in de ochtend kan, net als over de middag. Een beurt 's avonds plannen we niet, en in het weekend ook niet. We stemmen het uur af op je agenda met afspraken."},
+  {"q": "Poetst de poetshulp ook het sanitair voor bezoekers?", "a": "Ja. Toiletten, lavabo's, spiegels en vloeren horen bij het plan, net als het aanvullen van papier en zeep uit je voorraad. Bij veel bezoekers plan je het sanitair vaker in."},
+  {"q": "Kan mijn woning ook in het plan van mijn interimkantoor?", "a": "Ja. Je Zondag kan op een dag zonder gesprekken ook je woning doen. Kantoor en woning staan op dezelfde factuur, elk als aparte post, zodat je accountant weet wat privé is."}
+ ]
+}

@@ -34,7 +34,7 @@ dict(path='bedrijven/index.html', kind='b2b', img='01-poetsen',
     'Dienstencheques zijn voorbehouden aan particulieren. Een vennootschap kan ze niet kopen. Zondags werkt daarom met een gewone dienstenfactuur op naam van je vennootschap, met een duidelijke splitsing tussen het beroepsmatige en het privégedeelte.',
     'Voor het privégedeelte wordt een voordeel van alle aard aangerekend. Daarvoor moeten de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst. Een vast plan bij Zondags voldoet aan beide. Laat je accountant dit altijd bevestigen voor je eigen situatie.']),
   ('In welke regio?',[
-    'Zondags werkt vanuit Marke bij Kortrijk in West- en Oost-Vlaanderen: onder meer in Kortrijk, Harelbeke, Kuurne, Wevelgem, Menen, Waregem, Zwevegem, Roeselare, Izegem, Tielt, Ieper en Oudenaarde. Bekijk alle gemeenten op de <a href="regio/">regiopagina</a>.']),
+    'Zondags werkt vanuit Marke bij Kortrijk in West- en Oost-Vlaanderen: onder meer in Kortrijk, Harelbeke, Kuurne, Wevelgem, Menen, Waregem, Zwevegem, Roeselare, Izegem, Tielt, Ieper en Oudenaarde. Bekijk per gemeente hoe het werkt op <a href="poetshulp/">poetshulp voor bedrijven per gemeente</a>, per sector op <a href="sectoren/">poetshulp per type bedrijf</a>, en lees de antwoorden op veelgestelde <a href="vragen/">vragen van bedrijven</a>.']),
   ('Hoe start je?',[
     'Meld je aan via de chat of het formulier onderaan. Binnen één werkdag belt een van ons je persoonlijk terug. Daarna komen we langs voor de intake en leggen we samen je zondagsplan vast: welke taken, welke dagen, welke uren. De eerste 2 uur zijn gratis, om kennis te maken.']),
  ],
@@ -46,7 +46,7 @@ dict(path='bedrijven/index.html', kind='b2b', img='01-poetsen',
   ('Wat kost huishoudhulp voor een bedrijf?','Dat hangt af van het aantal uren en de taken. Je krijgt een voorstel op maat na een kort gesprek. De eerste 2 uur zijn gratis.'),
   ('Werkt Zondags ook voor particulieren?','Zondags werkt voor ondernemers, vrije beroepen en bedrijven. Je woning kan wel mee in het plan, geboekt op je vennootschap.'),
  ],
- related=[('Poetshulp voor bedrijven','bedrijven/poetshulp-voor-bedrijven.html'),('Kookhulp voor bedrijven','bedrijven/kookhulp-voor-bedrijven.html'),('Boodschappendienst voor ondernemers','bedrijven/boodschappendienst-voor-bedrijven.html'),('Hulp in huis voor ondernemers','bedrijven/hulp-in-huis-voor-ondernemers.html'),('Per beroep','beroepen/'),('Alle diensten','diensten/')]),
+ related=[('Poetshulp voor bedrijven','bedrijven/poetshulp-voor-bedrijven.html'),('Poetshulp per gemeente','poetshulp/'),('Poetshulp per type bedrijf','sectoren/'),('Vragen van bedrijven','vragen/'),('Kookhulp voor bedrijven','bedrijven/kookhulp-voor-bedrijven.html'),('Boodschappendienst voor ondernemers','bedrijven/boodschappendienst-voor-bedrijven.html'),('Hulp in huis voor ondernemers','bedrijven/hulp-in-huis-voor-ondernemers.html'),('Per beroep','beroepen/')]),
 
 dict(path='bedrijven/poetshulp-voor-bedrijven.html', kind='b2b', img='01-poetsen',
  eyebrow='Poetshulp voor bedrijven', h1='Poetshulp voor bedrijven en ondernemers',
@@ -63,7 +63,7 @@ dict(path='bedrijven/poetshulp-voor-bedrijven.html', kind='b2b', img='01-poetsen
     'Omdat dezelfde Zondag ook je woning kan doen, heb je één aanspreekpunt voor alles. Dat scheelt afspraken, facturen en zoekwerk.']),
   ('Poetshulp op de factuur van je vennootschap',[
     'Het onderhoud van je beroepsruimtes is een gewone beroepskost. Laat je Zondag ook je woning onderhouden, dan splitsen we beroepsmatig en privé duidelijk op de factuur. Voor het privégedeelte geldt een voordeel van alle aard. Laat je accountant bevestigen wat dat voor jou betekent. Lees ook <a href="gids/huishoudhulp-of-schoonmaakbedrijf.html">huishoudhulp of schoonmaakbedrijf</a>.']),
-  ('Waar?',['In West- en Oost-Vlaanderen, vanuit Marke. Onder meer in <a href="regio/huishoudhulp-kortrijk.html">Kortrijk</a>, <a href="regio/huishoudhulp-roeselare.html">Roeselare</a>, <a href="regio/huishoudhulp-waregem.html">Waregem</a>, <a href="regio/huishoudhulp-harelbeke.html">Harelbeke</a>, <a href="regio/huishoudhulp-menen.html">Menen</a> en <a href="regio/huishoudhulp-ieper.html">Ieper</a>.']),
+  ('Waar?',['In West- en Oost-Vlaanderen, vanuit Marke. Onder meer in <a href="regio/huishoudhulp-kortrijk.html">Kortrijk</a>, <a href="regio/huishoudhulp-roeselare.html">Roeselare</a>, <a href="regio/huishoudhulp-waregem.html">Waregem</a>, <a href="regio/huishoudhulp-harelbeke.html">Harelbeke</a>, <a href="regio/huishoudhulp-menen.html">Menen</a> en <a href="regio/huishoudhulp-ieper.html">Ieper</a>. Alle gemeenten en regio\'s vind je op <a href="poetshulp/">poetshulp voor bedrijven per gemeente</a>.']),
  ],
  faq=[
   ('Waar vind ik poetshulp voor mijn bedrijf in Kortrijk?','Zondags levert vanuit Marke een vaste poetshulp voor kantoren, praktijken en ondernemers in Kortrijk en heel West- en Oost-Vlaanderen.'),
@@ -72,7 +72,7 @@ dict(path='bedrijven/poetshulp-voor-bedrijven.html', kind='b2b', img='01-poetsen
   ('Gebeurt het poetsen buiten de openingsuren?','Dat stemmen we af op je agenda. Vroeg in de ochtend of over de middag kan.'),
   ('Is de poetshulp in dienst of zelfstandig?','In dienst van Zondags en door ons gescreend. Je werkt dus niet met een zelfstandige.'),
  ],
- related=[('Huishoudhulp voor bedrijven','bedrijven/'),('Kantoorschoonmaak','diensten/kantoorschoonmaak.html'),('Praktijkschoonmaak','diensten/praktijkschoonmaak.html'),('Checklist kantoorschoonmaak','gids/checklist-kantoorschoonmaak.html')]),
+ related=[('Huishoudhulp voor bedrijven','bedrijven/'),('Poetshulp per gemeente','poetshulp/'),('Poetshulp per type bedrijf','sectoren/'),('Kantoorschoonmaak','diensten/kantoorschoonmaak.html'),('Praktijkschoonmaak','diensten/praktijkschoonmaak.html'),('Hoe vaak moet je een kantoor laten poetsen?','vragen/hoe-vaak-kantoor-poetsen.html')]),
 
 dict(path='bedrijven/huishoudhulp-voor-bedrijven.html', kind='b2b', img='05-wassen',
  eyebrow='Huishoudhulp', h1='Huishoudhulp voor bedrijven en zaakvoerders',

@@ -1,0 +1,78 @@
+{
+ "path": "poetshulp/regio-brugge.html",
+ "title": "Poetshulp voor bedrijven in de regio Brugge",
+ "desc": "Poetshulp voor kantoren, praktijken en winkels in Brugge, Torhout, Oostkamp, Zedelgem en Beernem. Eén vaste Zondag, vroeg of over de middag, één factuur.",
+ "eyebrow": "Regio Brugge",
+ "h1": "Poetshulp voor bedrijven in de regio Brugge",
+ "lead": "Een winkel in het centrum opent vroeg, een praktijk in een randgemeente heeft een middagpauze. In de regio Brugge richt je Zondag zich naar de uren van jouw zaak.",
+ "answer": "Zondags (zondags.be) levert poetshulp aan kantoren, praktijken en winkels in de regio Brugge: Brugge, Torhout, Oostkamp, Zedelgem en Beernem. Je krijgt één vaste Zondag, op een vaste weekdag, vroeg in de ochtend of over de middag, en op vraag ook voor je woning. De factuur gaat op naam van je vennootschap. We werken in West- en Oost-Vlaanderen, vanuit Marke bij Kortrijk, en zoeken voor jouw zaak een Zondag die in de buurt woont.",
+ "facts": [
+  "Brugge, Torhout, Oostkamp, Zedelgem, Beernem",
+  "Vroeg in de ochtend of over de middag",
+  "Kantoor, praktijk, winkel en woning",
+  "Dienstenfactuur op je vennootschap",
+  "Eerste 2 uur gratis"
+ ],
+ "sections": [
+  {
+   "h2": "Vijf gemeenten, één aanpak",
+   "p": [
+    "De regio Brugge omvat voor Zondags Brugge, Torhout, Oostkamp, Zedelgem en Beernem. Voor <a href=\"poetshulp/brugge.html\">Brugge</a> en <a href=\"poetshulp/torhout.html\">Torhout</a> vind je een eigen pagina. In elke gemeente van deze regio zoeken we voor je zaak een Zondag die in de buurt woont."
+   ]
+  },
+  {
+   "h2": "Het uur dat bij je zaak past",
+   "p": [
+    "<ul class=\"ticks\"><li>Winkel: vroeg in de ochtend, voor je opent</li><li>Praktijk: vroeg in de ochtend of over de middag, wanneer de wachtzaal leeg is</li><li>Kantoor: vroeg in de ochtend, voordat het team binnenkomt</li></ul>",
+    "Vaste kantooruren, een middagpauze of een winkel die laat opent: elke zaak heeft een uur waarop er niemand in de weg staat. Dat uur zoeken we samen en leggen we vast in het zondagsplan. 's Avonds en in het weekend werken we niet.",
+    "Stel: je hebt een praktijk in Zedelgem met een middagpauze. Je Zondag komt over de middag en loopt door wachtzaal, consultatieruimte en sanitair, zodat de eerste afspraak van de namiddag in een verzorgde ruimte begint. Heb je liever een winkel in Brugge, dan komt je Zondag in de vroege ochtend, nog voor je de deur opent."
+   ]
+  },
+  {
+   "h2": "Wat er in elk type zaak gebeurt",
+   "p": [
+    "In een winkel gaat het om vloeren, toonbank, ruiten langs binnen en het toilet. In een praktijk om wachtzaal, consultatieruimte en sanitair. In een kantoor om bureaus, vergaderhoek, keuken en sanitair. Specialistisch werk zoals gevelreiniging, werken op hoogte of industriële reiniging valt buiten ons werk."
+   ]
+  },
+  {
+   "h2": "Zaak en woning combineren",
+   "p": [
+    "Woon je boven of vlak bij je zaak, dan kan dezelfde Zondag ook je woning doen. Op dinsdag het kantoor, op donderdag de woning met was en strijk, of een middag boodschappen en koken voor de week. Je hebt één persoon voor twee soorten ruimte, en je zaak en je thuis liggen er allebei goed bij."
+   ]
+  },
+  {
+   "h2": "Wat de factuur zegt",
+   "p": [
+    "Dienstencheques zijn alleen voor particulieren, dus een vennootschap krijgt een gewone dienstenfactuur. Het onderhoud van beroepsruimtes is een beroepskost, het privégedeelte van de woning staat apart op de factuur. Btw-vrijgestelde praktijken kunnen de btw meestal niet recupereren. Je accountant kijkt na of dit voor jouw praktijk of zaak zo geldt."
+   ]
+  },
+  {
+   "h2": "Zo begin je",
+   "p": [
+    "Dien een aanvraag in via het formulier of de chat. Binnen één werkdag volgt een telefoontje, en dan plannen we de intake in je zaak. Daarna volgt het zondagsplan met dag, uur en taken. De eerste 2 uur zijn gratis, en daarna kan je rustig beslissen of je doorgaat."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Welk bedrijf levert poetshulp voor bedrijven in de regio Brugge?",
+   "a": "Zondags (zondags.be), met adres in Marke bij Kortrijk. Je krijgt één vaste Zondag, gescreend en in dienst van Zondags. Voor jouw zaak in de regio Brugge zoeken we iemand die in de buurt woont. Je vennootschap krijgt één dienstenfactuur."
+  },
+  {
+   "q": "Werkt Zondags ook in Oostkamp, Zedelgem of Beernem?",
+   "a": "Ja. Oostkamp, Zedelgem en Beernem rekenen we tot de regio Brugge, net als Brugge en Torhout, en daar werken we ook. Ligt je zaak in een van die gemeenten, dan zoeken we een Zondag die er dichtbij woont."
+  },
+  {
+   "q": "Kan mijn winkel in Brugge gepoetst worden voor hij opent?",
+   "a": "Ja. Vroeg in de ochtend op een weekdag kan, zodat alles klaar is voor de eerste klant. Het exacte uur leggen we vast tijdens de intake, in functie van je openingsuren."
+  },
+  {
+   "q": "Wat als mijn uren per week wisselen?",
+   "a": "Dan kiezen we een dag en een uur waarop je zaak zeker rustig is. Wijzigt je agenda later, dan passen we het plan aan. Uren bijboeken kan ook, en het plan is maandelijks opzegbaar."
+  },
+  {
+   "q": "Hoe zit het met de btw voor een btw-vrijgestelde praktijk?",
+   "a": "Een btw-vrijgestelde praktijk kan de btw op de factuur doorgaans niet recupereren. Of dat voor jouw praktijk geldt, hangt af van je activiteit. Je accountant bevestigt wat in jouw situatie klopt."
+  }
+ ]
+}

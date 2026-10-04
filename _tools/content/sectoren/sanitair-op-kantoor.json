@@ -1,0 +1,34 @@
+{
+ "path": "sectoren/sanitair-op-kantoor.html",
+ "title": "Sanitair op kantoor laten poetsen: wat en hoe vaak",
+ "desc": "Hoe vaak laat je het sanitair op kantoor poetsen en wat hoort erbij? Toiletten, lavabo's, spiegels, zeep en papier: zo houd je het in orde met een vaste Zondag.",
+ "eyebrow": "Sanitair",
+ "h1": "Sanitair op kantoor laten poetsen",
+ "lead": "Het sanitair is de ruimte waar bezoekers en collega's je kantoor het meest op beoordelen. Een vaste ronde, een vaste dag en een paar afspraken houden het in orde.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor het sanitair op kantoor: één vaste persoon, je Zondag, voor toiletten, lavabo's, spiegels, vloeren en het aanvullen van papier en zeep, volgens een vaste regelmaat, overdag op weekdagen. Herstellingen, zoals een lek of een verstopte afvoer, doet Zondags niet. Je ontvangt één gewone dienstenfactuur voor het hele kantoor, op naam van je vennootschap.",
+ "facts": ["Toiletten, lavabo's, spiegels en vloeren", "Papier en zeep aanvullen", "Vaste regelmaat, vaste dag", "Herstellingen blijven voor een vakman", "Factuur aan je vennootschap"],
+ "sections": [
+  {"h2": "Waarom je kantoor op het sanitair beoordeeld wordt", "p": [
+   "Een klant praat zelden over je bureau, maar onthoudt wel het sanitair. Een toilet dat er verzorgd uitziet, laat zien dat een bedrijf aandacht heeft voor details. Een geurtje, een lege zeepdispenser of een natte vloer vertelt het omgekeerde. Ook je eigen team gebruikt die ruimte elke dag meermaals en merkt elk verschil."]},
+  {"h2": "Wat bij een volledige sanitairbeurt hoort", "p": [
+   "<ul class=\"ticks\"><li>Toiletten: pot, bril, de ruimte erachter en de buitenkant van de stortbak</li><li>Lavabo's en kranen, ontdaan van kalk en zeepresten</li><li>Spiegels en tegels rond de lavabo</li><li>Papier, handdoekjes en zeep aanvullen uit je voorraad</li><li>Vloeren, plinten en deurklinken</li><li>Prullenbakken leegmaken en een nieuw zakje plaatsen</li></ul>"]},
+  {"h2": "Hoe vaak? Een richtlijn per soort kantoor", "p": [
+   "Heb je een klein team zonder bezoekers, dan volstaat een vaste beurt per week, met een korte controle door je team tussendoor. Komen er elke dag klanten of kandidaten langs, dan laat je het sanitair vaker poetsen, in een ritme dat past bij de passage.",
+   "Je kan het plan bijsturen. Merk je na een paar weken dat het sanitair er tegen het einde van de week niet meer netjes uitziet, dan boek je een extra beurt."]},
+  {"h2": "Papier en zeep: wie houdt de voorraad bij?", "p": [
+   "Je Zondag vult de dispensers aan uit je voorraad en meldt wanneer iets bijna op is. Het bijkopen regel je zelf. Een kleine reserve in een kast bij het sanitair zorgt ervoor dat er nooit een lege rol hangt, ook niet op de dag dat je Zondag er niet is."]},
+  {"h2": "Kleine gewoontes tussen twee beurten", "p": [
+   "Je team kan veel doen met weinig moeite: doortrekken en de bril neerlaten, een gemorste plas water opvegen, een volle prullenbak meteen leegmaken en bij een lege rol direct een nieuwe hangen. Een raampje of ventilatie die openstaat, helpt tegen geurtjes. Zo ziet het sanitair er ook netjes uit op de dagen dat niemand poetst."]},
+  {"h2": "Wat je Zondag meldt en niet herstelt", "p": [
+   "Een lek onder de lavabo, een verstopte afvoer, een stortbak die blijft lopen of een kraan die druppelt: je Zondag ziet het als eerste en meldt het aan jou. Herstellen is technisch werk en dat doet Zondags niet. Zo kan een loodgieter op tijd langskomen, voor het een groter probleem wordt."]},
+  {"h2": "Eén Zondag, één factuur", "p": [
+   "Het sanitair krijgt dezelfde vaste persoon als de rest van je kantoor. Het onderhoud is een beroepskost op een gewone dienstenfactuur op naam van je vennootschap. Een btw-plichtige zaak met aftrekrecht kan de btw op het zakelijke deel in principe recupereren. Voor een btw-vrijgestelde praktijk geldt dat doorgaans niet. Laat je accountant bevestigen hoe het voor jou zit. De eerste 2 uur zijn gratis, zodat je het verschil in je sanitair zelf ziet."]}
+ ],
+ "faq": [
+  {"q": "Hoe vaak moet het sanitair op kantoor gepoetst worden?", "a": "Dat hangt af van het aantal mensen en bezoekers. Een klein team zonder klanten volstaat met een vaste beurt per week. Bij veel passage is vaker nodig. Je stuurt het plan bij als je merkt dat het sanitair er tussen twee beurten te slecht uitziet."},
+  {"q": "Wie vult papier en zeep aan op kantoor?", "a": "Je Zondag vult de dispensers aan uit je voorraad en meldt wanneer iets bijna op is. Het bijkopen regel je zelf. Een kleine reserve in een kast bij het sanitair helpt."},
+  {"q": "Wat doet een poetshulp precies in het sanitair?", "a": "Toiletten, lavabo's, kranen, spiegels, tegels en vloeren, plus papier en zeep aanvullen en de prullenbakken leegmaken. Je Zondag volgt een vaste volgorde, zodat er niets vergeten wordt."},
+  {"q": "Kan een poetshulp een verstopte wc of een lekkende kraan herstellen?", "a": "Nee. Dat is technisch werk en dat doet Zondags niet. Je Zondag meldt het aan jou, zodat een loodgieter of je technische dienst het kan oplossen voor het erger wordt."},
+  {"q": "Moet het sanitair voor bezoekers vaker gepoetst worden?", "a": "Meestal wel. Een toilet dat door klanten of kandidaten gebruikt wordt, valt sneller op dan een toilet voor een klein team. Plan een vaste beurt en een extra beurt in drukke weken."}
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "path": "sectoren/kleine-kantoren.html",
+ "title": "Poetshulp voor kleine kantoren in West- en Oost-Vlaanderen",
+ "desc": "Poetshulp voor kleine kantoren: bureaus, vergadertafel, keuken, sanitair, vloeren en afval door één vaste Zondag op een vaste weekdag, met één factuur.",
+ "eyebrow": "Kleine kantoren",
+ "h1": "Poetshulp voor kleine kantoren",
+ "lead": "Een kantoor met een klein team heeft geen schoonmaakploeg nodig, wel iemand die elke week hetzelfde doet en weet waar alles ligt. Dat is een vaste Zondag.",
+ "answer": "Een kantoor met een klein team in West- of Oost-Vlaanderen krijgt van Zondags (zondags.be) één vaste persoon, je Zondag, die op een vaste weekdag bureaus, vergadertafel, keuken, sanitair en vloeren onderhoudt en het afval buiten zet. De rekening loopt via een dienstenfactuur op naam van je vennootschap. Wil je dat, dan neemt dezelfde Zondag ook de woning van de zaakvoerder mee in het plan. De eerste 2 uur zijn gratis.",
+ "facts": ["Bureaus, vergadertafel en keuken", "Sanitair, vloeren en afval", "Vaste weekdag, vroeg of over de middag", "Eventueel ook de woning van de zaakvoerder", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "Wat er elke week op de lijst staat", "p": [
+   "Het lijstje van een klein kantoor is kort, en net daarom blijft het liggen. Een vaste Zondag werkt het elke week af:",
+   "<ul class=\"ticks\"><li>Bureaus en vergadertafel afnemen</li><li>Keuken en koffiehoek: aanrecht, koelkast en vaatwasser</li><li>Sanitair en vloeren</li><li>Afval en recyclage buiten zetten</li><li>Ramen en glazen deuren langs binnen, op afspraak</li></ul>",
+   "Een grote beurt, zoals <a href=\"sectoren/voorjaarspoets-kantoor.html\">een voorjaarspoets op kantoor</a>, komt als losse opdracht naast het vaste plan."]},
+  {"h2": "Hoe vaak, en op welk moment", "p": [
+   "Als vertrekpunt werkt één beurt per week goed. Zie je meer bezoekers, wordt er meer gegeten of groeit het team, dan komt er een tweede moment bij. Meer uren boeken of het plan bijstellen kan zonder gedoe. Een breder antwoord vind je bij <a href=\"vragen/hoe-vaak-kantoor-poetsen.html\">hoe vaak je een kantoor laat poetsen</a>.",
+   "Het moment bepaal je zelf. Vroeg in de ochtend is alles klaar voor het team binnenkomt, over de middag kan ook wanneer iedereen even weg is. Een beurt na sluitingstijd bieden we niet aan, en een weekendbeurt evenmin."]},
+  {"h2": "Wat je team zelf doet in tussentijd", "p": [
+   "Met een paar gewoontes blijft een kantoor veel langer netjes. Een leeg bureau is sneller afgenomen dan een bureau vol stapels, dus wat op de bureaus ligt, ruimt je team op. Bekers en borden gaan in de vaatwasser, de koelkast wordt op vrijdag leeggemaakt en gevoelige papieren blijven in de kast. Je Zondag werkt rond alles wat blijft liggen en verschuift het niet."]},
+  {"h2": "Kantoor en woning in één plan", "p": [
+   "Ligt je kantoor dicht bij je woning, of werk je zelf deels thuis, dan hoef je geen twee aanspreekpunten. Dezelfde Zondag kan na de bureaus ook de woning van de zaakvoerder doen: poetsen, was en strijk of boodschappen. Kantoor en woning staan afzonderlijk op de factuur. Voor wie vooral thuis werkt, helpt <a href=\"gids/kantoor-aan-huis-schoonmaak.html\">schoonmaak van een kantoor aan huis</a> verder."]},
+  {"h2": "Factuur, btw en je accountant", "p": [
+   "Voor je boekhouding zijn er drie lijnen. De poetskosten van het kantoor horen bij je beroepskosten. De woning valt onder een forfaitair voordeel van alle aard, wanneer de beurten regelmatig zijn en een onderneming met mensen in dienst ze uitvoert. En bij de btw is terugvragen in principe mogelijk op het kantoor, als je zaak btw-plichtig is met aftrekrecht, en in principe niet op het privégedeelte.",
+   "Met dienstencheques kom je als vennootschap nergens, want enkel particulieren kunnen ze kopen. De facturatie loopt dus via een gewone dienstenfactuur op naam van je vennootschap. Je accountant bevestigt wat dit voor jouw kantoor betekent."]},
+  {"h2": "Zo start je met je kantoor", "p": [
+   "Via het formulier of de chat vraag je een kennismaking aan, en binnen één werkdag krijg je een telefoontje. Op kantoor lopen we samen door de ruimtes: waar staat de vaatwasser, waar moet het afval naartoe, welke deur blijft dicht. Daarna ligt het zondagsplan klaar, met dag en uur. Het abonnement loopt per maand, dus stoppen kan na elke maand."]}
+ ],
+ "faq": [
+  {"q": "Kan het kantoor gepoetst worden terwijl mijn team werkt?", "a": "Het kan, maar een rustig moment is prettiger. Vroeg in de ochtend of over de middag hoeft niemand zijn bureau te verlaten, en is de vloer droog wanneer het team binnenkomt."},
+  {"q": "Wat als er niemand op kantoor is wanneer mijn Zondag komt?", "a": "Dat is geen probleem. De toegang spreken we bij de intake af, alarm inbegrepen. Jij beslist of je Zondag met een sleutel binnenkomt of op een andere manier."},
+  {"q": "Mag mijn Zondag in lades, kasten en documenten kijken?", "a": "Nee. Je Zondag poetst oppervlakken en vloeren. In je zondagsplan noteer je welke kasten en ruimtes dicht blijven, en dat papieren blijven liggen waar ze liggen."},
+  {"q": "Wat gebeurt er als mijn Zondag ziek is of verlof heeft?", "a": "Dan zoeken wij een oplossing. Een vaste vervanger kunnen we vooraf niet beloven, maar je hoort tijdig wat er mogelijk is. Past je Zondag niet bij je kantoor, dan zoeken we samen een andere persoon."},
+  {"q": "Hoe weet ik hoeveel uren mijn kantoor nodig heeft?", "a": "Dat bepalen we samen bij de intake: het aantal werkplekken, de keuken, het sanitair en hoeveel bezoekers je ontvangt. De prijs is op maat na een kort gesprek, en later uren bijboeken kan."}
+ ]
+}

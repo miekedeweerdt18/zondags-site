@@ -1,0 +1,35 @@
+{
+ "path": "regio/kookhulp-izegem.html",
+ "title": "Kookhulp voor kapsalons en ondernemers in Izegem",
+ "desc": "Kookhulp in Izegem voor wie een kapsalon of zaak runt: schotels voor de week, boodschappen erbij en één factuur voor je vennootschap.",
+ "eyebrow": "Kookhulp · Izegem · 8870",
+ "h1": "Kookhulp aan huis voor ondernemers in Izegem",
+ "lead": "Sta je de hele dag in je salon, dan wacht thuis nog het avondeten. In Izegem staat je Zondag in je keuken terwijl jij aan het werk bent.",
+ "answer": "Zondags (zondags.be) levert kookhulp aan huis voor ondernemers in Izegem, ook in Emelgem en Kachtem, bijvoorbeeld voor eigenaars van een kapsalon in de dorpskern. Je vaste Zondag kookt overdag bij jou thuis of zet schotels voor de week klaar, houdt rekening met je voorkeuren en allergieën en doet de nodige boodschappen. Het poetsen van je salon kan in hetzelfde zondagsplan. Facturatie gebeurt met één dienstenfactuur op naam van je vennootschap. Zondags komt uit Marke.",
+ "facts": ["Koken thuis of schotels voor de week", "Salon en woning in één plan", "Kinderen ophalen kan in hetzelfde plan", "Boodschappen kunnen mee in het plan", "Overdag, op weekdagen", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "Als je salon open is, ben jij er ook", "p": [
+   "Een kapsalon heeft zijn eigen ritme. De zaak is open wanneer klanten vrij zijn, en je staat urenlang bij je stoel. Thuiskomen met een lege koelkast en een gezin dat wacht, komt dan hard aan.",
+   "Kookhulp haalt die druk weg. Je Zondag komt overdag, op een dag dat je salon draait of net gesloten is, en zorgt dat het eten klaarstaat."]},
+  {"h2": "Een ouder alleen met twee kinderen op de lagere school", "p": [
+   "Stel: je runt een kapsalon in de dorpskern van Izegem, je zorgt alleen voor twee kinderen op de lagere school en je salon is op maandag gesloten. Op maandagvoormiddag komt je Zondag. Eerst komen de boodschappen binnen, daarna wordt er gekookt en worden schotels klaargezet voor dinsdag tot en met donderdag.",
+   "Op woensdag haalt dezelfde persoon de kinderen van school en zet het vieruurtje klaar, tot jij thuis bent. Kinderen ophalen is een apart onderdeel van het plan, naast het koken."]},
+  {"h2": "Wat je Zondag in de salon doet", "p": [
+   "<ul class=\"ticks\"><li>Vloer, wasbakken en spiegels verzorgd</li><li>Wachtruimte, onthaal en personeelskeuken op orde</li><li>Sanitair voor klanten en team</li><li>Handdoeken en schorten: de was kan mee in het plan</li></ul>",
+   "Producten, kleurmiddelen en gereedschap blijven bij jou. Meer over zaken zoals de jouwe lees je bij <a href=\"sectoren/kapsalons.html\">poetshulp voor kapsalons</a>."]},
+  {"h2": "Een menu waar de kinderen mee eten", "p": [
+   "Kinderen hebben meningen over wat op hun bord ligt. Je legt samen met je Zondag een menu vast dat ze opeten, en dat je zelf ook graag eet. Allergieën en voorkeuren noteren we in je zondagsplan. Bij de intake bespreek je ook wat niet in huis mag komen. De boodschappen die erbij horen, neemt je Zondag mee."]},
+  {"h2": "Wie betaalt wat?", "p": [
+   "Je vennootschap betaalt de factuur van Zondags. Dienstencheques komen niet in aanmerking, want die zijn voor particulieren. Het poetsen van de salon is een beroepskost. Voor het koken, de boodschappen en het ophalen van de kinderen geldt het privégedeelte: een forfaitair voordeel van alle aard, mits de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Je accountant bevestigt hoe dat voor jou werkt."]},
+  {"h2": "Izegem, Emelgem en Kachtem", "p": [
+   "Izegem (8870) heeft Emelgem en Kachtem als deelgemeenten. Zit je salon of woning in Roeselare, Ingelmunster, Lendelede, Ledegem of Ardooie, dan doe je evengoed een aanvraag. Je vraagt het aan via het formulier of de chat, en binnen één werkdag belt iemand van ons terug om de intake te plannen."]}
+ ],
+ "faq": [
+  {"q": "Waar kan ik in Izegem kookhulp aanvragen als zelfstandige?", "a": "Bij Zondags (zondags.be). Je krijgt één vaste Zondag die overdag bij jou thuis kookt of schotels voor de week klaarzet. De factuur loopt via je vennootschap en de eerste 2 uur kosten je niets."},
+  {"q": "Kan mijn Zondag op maandag komen als mijn salon dicht is?", "a": "Ja. Zondags werkt van maandag tot en met vrijdag, overdag. Jij kiest de dag en het uur, en die blijven daarna gelijk tot je zelf iets wijzigt."},
+  {"q": "Kan dezelfde persoon ook de kinderen van school halen?", "a": "Ja. Kinderen ophalen van school en opvang na school kan je in hetzelfde zondagsplan zetten, naast het koken. Je spreekt dag en uur af, en het is steeds dezelfde vertrouwde Zondag."},
+  {"q": "Poetst mijn Zondag ook de kapsalon zelf?", "a": "Ja, als je dat wilt. Vloer, wasbakken, spiegels, wachtruimte en sanitair kunnen in het plan. Producten, kleurmiddelen en gereedschap blijven bij jou. Op welke dag dat gebeurt, spreek je vooraf af, en het is steeds dezelfde persoon."},
+  {"q": "Wat als een van mijn kinderen een allergie heeft?", "a": "Dan noteren we dat in je zondagsplan, zodat je Zondag er elke week rekening mee houdt. Bespreek het tijdens de intake, ook welke producten niet in huis mogen komen."},
+  {"q": "Werkt Zondags ook in Emelgem en Kachtem?", "a": "Ja, ook voor een salon in Emelgem of Kachtem kan je een aanvraag doen. Welke dag en welk uur bij je openingsuren passen, bespreken we in het eerste gesprek."}
+ ]
+}

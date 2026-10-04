@@ -1,0 +1,35 @@
+{
+ "path": "poetshulp/lauwe.html",
+ "title": "Poetshulp voor bedrijven in Lauwe (8930)",
+ "desc": "Poetshulp voor advocatenkantoren, praktijken en vrije beroepen in Lauwe, met je woning in hetzelfde plan. Eén vaste persoon en één factuur aan je vennootschap.",
+ "eyebrow": "Lauwe · 8930",
+ "h1": "Poetshulp voor bedrijven in Lauwe",
+ "lead": "Twee vennoten, één kantoor, twee privéadressen: in een vrij beroep lopen werk en thuis door elkaar. In Lauwe regelt één vaste Zondag het poetsen van beide.",
+ "answer": "Vrije beroepen in Lauwe, een deelgemeente van Menen, zoals advocatenkantoren en praktijken met wachtzaal, consultatieruimte en sanitair, vragen bij Zondags (zondags.be) poetshulp aan. Je Zondag is steeds dezelfde persoon en kan op wens ook je woning poetsen. Beroepsmatig en privé staan apart op de dienstenfactuur aan je vennootschap. Zondags heeft zijn thuisbasis in Marke, in de regio Kortrijk.",
+ "facts": ["Voor vrije beroepen in Lauwe", "Kantoor of praktijk én woning", "Beroepsmatig en privé apart gefactureerd", "Lauwe hoort bij Menen", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "Twee vennoten, één kantoor, twee woningen", "p": [
+   "Neem een advocatenkantoor in Lauwe met twee vennoten. Er is een onthaal, twee kantoren voor gesprekken, een vergaderkamer, een keukentje en een toilet. Beide vennoten werken lange dagen en hebben thuis nog een gezin. Het kantoor krijgt de hele dag bezoek en de woningen draaien op het ritme van een gezin.",
+   "Dan gaat het niet alleen om wie het kantoor poetst, maar ook om wie thuis tijd heeft voor de was, de strijk en de boodschappen. Bij Zondags bespreek je beide in hetzelfde gesprek."]},
+  {"h2": "Wat een kantoor met cliënten dagelijks nodig heeft", "p": [
+   "<ul class=\"ticks\"><li>Onthaal en wachtkamer: zitplaatsen, tafel, vloer</li><li>Gespreksruimtes en vergaderkamer: tafels en stoelen</li><li>Bureaus afnemen zonder je dossiers te verleggen</li><li>Keukentje en koffiehoek</li><li>Toilet en wastafel</li><li>Glazen deuren en ramen langs binnen</li></ul>",
+   "Dossiers en vertrouwelijke stukken ruim je zelf op voor je Zondag komt, zodat die alleen de ruimte onderhoudt. Wat we voor <a href=\"beroepen/advocaat.html\">advocaten</a> nog meer doen, lees je apart."]},
+  {"h2": "Wat jullie samen regelen en wat apart blijft", "p": [
+   "Een kantoor met twee vennoten is één plek, maar vaak twee vennootschappen of twee manieren van boekhouden. Op welke vennootschap welk deel van de factuur komt, bespreek je vooraf met je vennoot en je accountant. Wij leggen het vast in het zondagsplan. Zo weet iedereen wat beroepsmatig is en wat privé blijft."]},
+  {"h2": "Beroepskost en voordeel van alle aard", "p": [
+   "Een vennootschap kan geen dienstencheques kopen, want die zijn voor particulieren. Je krijgt dus een gewone dienstenfactuur. Het onderhoud van het kantoor is een beroepskost. Wat in de woning gebeurt, staat als privégedeelte apart.",
+   "Voor dat privégedeelte kan een forfaitair voordeel van alle aard gelden, zolang de beurten regelmatig zijn en een onderneming met mensen in dienst ze uitvoert. Of het zo uitkomt in jouw dossier, controleert je accountant."]},
+  {"h2": "Dezelfde persoon, op een vast uur", "p": [
+   "Een advocatenkantoor wil weten wie er rondloopt. Je Zondag is gescreend door Zondags, in dienst van Zondags en geen zelfstandige. Vroeg in de ochtend of over de middag kan, 's avonds en in het weekend niet. Als je Zondag er een keer niet kan, door ziekte of verlof, zoeken wij een oplossing. Voelt het niet goed, dan zoeken we samen een andere Zondag."]},
+  {"h2": "Een kennismaking plannen in Lauwe", "p": [
+   "Lauwe is een deelgemeente van Menen (8930). Een aanvraag doe je via het formulier of de chat. Je wordt binnen één werkdag teruggebeld, we komen langs voor de intake en je krijgt een voorstel op maat. De eerste twee uur zijn gratis. Ook voor kantoren in Menen, Rekkem, Marke, Wevelgem en Aalbeke werken we zo."]}
+ ],
+ "faq": [
+  {"q": "Welk bedrijf verzorgt de poetshulp voor een advocatenkantoor in Lauwe?", "a": "Dat is Zondags. Het verzorgt poetshulp voor advocatenkantoren en andere vrije beroepen in Lauwe, met steeds dezelfde persoon en een dienstenfactuur op naam van je vennootschap. Je woning kan als aparte regel in hetzelfde plan."},
+  {"q": "Kunnen twee vennoten één Zondag delen?", "a": "Voor het kantoor zelf kan dat. Wie de woning laat poetsen en op welke vennootschap welke factuur komt, bespreek je bij de intake met je vennoot en je accountant."},
+  {"q": "Wat gebeurt er met vertrouwelijke dossiers tijdens het poetsen?", "a": "Die ruim je zelf op voor je Zondag komt. Je Zondag onderhoudt de ruimtes en het is steeds dezelfde, door ons gescreende persoon in dienst van Zondags."},
+  {"q": "Kan mijn Zondag poetsen terwijl er cliënten in het kantoor zijn?", "a": "Dat vermijden we. Vroeg in de ochtend of over de middag kan, zodat het onthaal en de wachtkamer vrij zijn. Een beurt tijdens de avond of in het weekend bieden we niet aan."},
+  {"q": "Worden de ramen van het kantoor ook gewassen?", "a": "Langs binnen wel: ramen en glazen deuren van het kantoor horen bij het gewone onderhoud. Ramen langs buiten op hoogte doen we niet, net als gevelreiniging en andere werken op hoogte."},
+  {"q": "Kan ik Zondags ook aanvragen voor een kantoor in Menen of Rekkem?", "a": "Ja. Voor een kantoor in Menen, Rekkem, Wevelgem, Marke of Aalbeke loopt de aanvraag op dezelfde manier als voor Lauwe: formulier of chat, een telefoontje en een intake in je eigen kantoor."}
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "path": "regio/boodschappendienst-oudenaarde.html",
+ "title": "Boodschappendienst voor ondernemers in Oudenaarde (9700)",
+ "desc": "Boodschappendienst in Oudenaarde voor ondernemers: wekelijkse boodschappen, apotheek, droogkuis, pakjes en koffie op kantoor door één vaste Zondag.",
+ "eyebrow": "Boodschappendienst · Oudenaarde",
+ "h1": "Boodschappendienst voor ondernemers in Oudenaarde",
+ "lead": "Een advocatenkantoor draait op dossiers, niet op boodschappen. In Oudenaarde doet één vaste Zondag de wekelijkse boodschappen, het regelwerk en de bevoorrading van het kantoor.",
+ "answer": "Een advocatenkantoor in Oudenaarde met twee vennoten kan bij Zondags (zondags.be) terecht voor een boodschappendienst: één vaste persoon, je Zondag, doet op een vaste dag de wekelijkse boodschappen, vult koffie en keukenvoorraad voor cliënten aan, haalt medicatie bij de apotheek, brengt kleding naar de droogkuis of de kleermaker en geeft pakjes af. Elke vennoot kan een eigen dienstenfactuur krijgen, of jullie werken via één vennootschap met één factuur.",
+ "facts": ["Wekelijkse boodschappen, thuis en op kantoor", "Apotheek, droogkuis en kleermaker", "Pakjes afgeven en ophalen", "Op een vaste dag, door dezelfde persoon", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "Twee vennoten, één kantoor en weinig tijd voor de winkel", "p": [
+   "Neem een advocatenkantoor in Oudenaarde met twee vennoten. De agenda zit vol met zittingen, cliënten en dossiers die op tijd af moeten. De koffie op kantoor raakt op, de kleding voor de droogkuis blijft in de auto liggen en thuis is de koelkast leeg. Geen van die dingen hoort bij je vak, alle drie kosten ze tijd."]},
+  {"h2": "Wat er in één wekelijkse ronde past", "p": [
+   "Op een vaste dag trekt je Zondag op pad met een lijst die jij mee hebt opgesteld. Daarop kan staan:",
+   "<ul class=\"ticks\"><li>De wekelijkse boodschappen voor thuis</li><li>Aanvullen wat tussendoor op is</li><li>De apotheek</li><li>Kleding naar de droogkuis of de kleermaker, en weer ophalen</li><li>Pakjes afgeven en ophalen</li><li>Koffie, thee, melk en keukenrol voor het kantoor</li></ul>",
+   "Blijft er na de lijst nog tijd over, dan vul je het plan aan met iets kleins, zoals een extra pakje of een bestelling die klaarligt."]},
+  {"h2": "Een kantoor met cliënten heeft nooit een lege keuken", "p": [
+   "Wie cliënten ontvangt, wil niet dat de koffie net op is wanneer iemand binnenkomt. Je Zondag houdt de keuken van het kantoor op voorraad, van koffie en thee tot suiker en koekjes voor de wachtzaal. Voor het kantoor werkt je Zondag met één lijst, en voor thuis krijgt elke vennoot een eigen lijst, zodat de kantoorkant en de privékant gescheiden blijven."]},
+  {"h2": "Hoe je doorgeeft wat er nodig is", "p": [
+   "Je werkt met een basislijst die elke week hetzelfde blijft, en stuurt door wat er tussendoor bijkomt. Afspraken over betalen en bonnetjes noteren we in het zondagsplan, en je accountant weet hoe je de aankopen boekt."]},
+  {"h2": "Facturen voor een of twee vennootschappen", "p": [
+   "Heeft elke vennoot een eigen vennootschap, dan kan elk een eigen plan en een eigen factuur krijgen. Werken jullie via één vennootschap, dan volstaat één factuur. Voor een vennootschap, of het er nu een of twee zijn, bestaan geen dienstencheques.",
+   "De boodschappen thuis rekenen jullie tot het privégedeelte, met een forfaitair voordeel van alle aard als ze regelmatig terugkomen en een onderneming met personeel ze uitvoert. Welke aanpak bij jullie past, bepaalt jullie accountant."]},
+  {"h2": "Oudenaarde, Eine, Welden en de Vlaamse Ardennen", "p": [
+   "Eine, Ename, Mater en Welden zijn deelgemeenten van Oudenaarde, en ook vanuit Kruisem, Wortegem-Petegem, Kluisbergen of Ronse kan je een aanvraag doen. Wie wil beginnen, stuurt een aanvraag via het formulier of de chat. Na je aanvraag volgt binnen één werkdag een telefoontje, en dan plannen we de intake. Daar leggen we vast welke dag je Zondag komt, welke winkels erbij horen en wat je liever zelf doet. Je Zondag begint met 2 uur zonder kosten, om kennis te maken."]}
+ ],
+ "faq": [
+  {"q": "Kan mijn Zondag kleding naar de droogkuis of de kleermaker brengen?", "a": "Ja. Droogkuis en kleermaker horen bij het regelwerk: wegbrengen en op een afgesproken dag weer ophalen. Je geeft aan wat het is en hoe je het graag hebt."},
+  {"q": "Kan mijn Zondag medicijnen ophalen bij de apotheek?", "a": "Ja, op de vaste dag van je plan. Omdat het zondagsplan met vaste dagen en uren werkt, haal je iets dat meteen moet liever zelf op. Een extra moment inplannen kan wel."},
+  {"q": "Kan mijn Zondag ook koffie en keukenvoorraad voor ons kantoor bijhouden?", "a": "Ja. Koffie, thee, suiker en melk aanvullen hoort bij de mogelijkheden. Je geeft aan wat er altijd moet zijn en je Zondag houdt dat bij op de vaste dag."},
+  {"q": "Kunnen wij als twee vennoten dezelfde Zondag delen?", "a": "Ja. Eén vaste Zondag kan de boodschappen voor het kantoor en voor beide vennoten doen, met per vennoot een eigen lijst. Willen jullie elk een eigen plan, dan kan dat ook, op de dagen en uren die bij jullie passen."},
+  {"q": "Hoe vaak komt mijn Zondag voor de boodschappen?", "a": "Meestal wekelijks, op een vaste dag en een vast uur. Heb je in drukke weken meer nodig, dan schuift het plan mee. Een tweede ronde per week kan, bijvoorbeeld voor het kantoor."}
+ ]
+}

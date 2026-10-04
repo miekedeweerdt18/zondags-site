@@ -1,0 +1,78 @@
+{
+ "path": "vragen/kwaliteit-schoonmaak-controleren.html",
+ "title": "De kwaliteit van de schoonmaak op kantoor controleren",
+ "desc": "Controleer de schoonmaak van je kantoor met een vaste ronde en een korte lijst, en geef feedback die werkt. Zo houd je overzicht, ook zonder zelf te poetsen.",
+ "eyebrow": "Vraag · Kwaliteit",
+ "h1": "Hoe controleer je de kwaliteit van de schoonmaak op kantoor?",
+ "lead": "Een kantoor dat netjes aanvoelt, is het resultaat van afspraken en een korte controle. Zo houd je overzicht zonder dat je zelf met een doek rondloopt.",
+ "answer": "Je controleert de kwaliteit van de schoonmaak met een vaste ronde en een korte lijst: dezelfde punten, op hetzelfde moment, zodat je vergelijkt wat je ziet met wat is afgesproken. Bij Zondags (zondags.be) komt steeds dezelfde Zondag volgens een zondagsplan met taken, dag en uur. Dat geeft je een duidelijke maatstaf, en klikt het niet, dan zoeken we samen een andere Zondag.",
+ "facts": [
+  "Vaste ronde en korte lijst",
+  "Maatstaf: je zondagsplan",
+  "Steeds dezelfde Zondag",
+  "Concrete feedback geven",
+  "Klikt het niet: andere Zondag"
+ ],
+ "sections": [
+  {
+   "h2": "Zonder afspraak geen controle",
+   "p": [
+    "Je kan enkel controleren wat is afgesproken. Zet daarom eerst per ruimte op papier wat er elke beurt moet gebeuren: bureaus afnemen, sanitair poetsen, keuken, vloeren, afval. In het zondagsplan van Zondags staat dat als taken, dag en uur. Dat is je maatstaf. Zonder die lijst blijft kwaliteit een gevoel."
+   ]
+  },
+  {
+   "h2": "Een vaste ronde na elke beurt",
+   "p": [
+    "Loop kort na de poetsbeurt dezelfde route, telkens in dezelfde volgorde. Een paar minuten volstaat.",
+    "<ul class=\"ticks\"><li>Sanitair: toiletten, lavabo's, spiegels, kranen</li><li>Keuken en refter: werkbladen, koffiehoek, frigo-deur</li><li>Bureaus en vergadertafel: vrij en afgenomen</li><li>Vloeren: ook in hoeken en langs plinten</li><li>Afvalbakken: geleegd en met een nieuwe zak</li></ul>"
+   ]
+  },
+  {
+   "h2": "Kijk naar wat zelden gebeurt",
+   "p": [
+    "Een vloer in het midden van de kamer ziet er snel goed uit. De hoeken, de plinten, de bovenkant van kasten, de onderkant van de vuilbak en de achterkant van deuren verraden meer. Controleer niet alleen wat zichtbaar is, maar ook wat een beetje moeite kost om te zien. Een uitgewerkte lijst met alle punten staat in de <a href=\"gids/checklist-kantoorschoonmaak.html\">checklist voor kantoorschoonmaak</a>."
+   ]
+  },
+  {
+   "h2": "Kwaliteit is meer dan een schone vloer",
+   "p": [
+    "Kijk ook naar wat je niet op een foto ziet: komt je Zondag op het afgesproken moment, laat die alles achter zoals afgesproken en meldt die het wanneer er iets ontbreekt of kapot is? Dat zijn tekenen van een vaste, betrouwbare samenwerking. Daar speelt de vaste persoon een rol: wie je zaak kent, merkt sneller wat er anders is."
+   ]
+  },
+  {
+   "h2": "Feedback die werkt",
+   "p": [
+    "Begin met wat goed is. Benoem daarna één of twee concrete punten, met de plaats en het moment: de plinten in de vergaderzaal waren dinsdag nog stoffig. Stuur dat kort door aan Zondags of aan je Zondag, en controleer de week erna hetzelfde punt. Een algemene opmerking als 'het was niet proper' geeft niemand houvast.",
+    "Stel: je kantoor heeft een open werkruimte, een vergaderzaal en een keuken. Na enkele beurten merk je dat de koffiehoek telkens wordt overgeslagen. Je laat dat opnemen in het plan en controleert de week erna datzelfde punt."
+   ]
+  },
+  {
+   "h2": "Wat Zondags doet als het schuurt",
+   "p": [
+    "Je zondagsplan is aanpasbaar: taken toevoegen, uren bijboeken of de volgorde wijzigen kan. Klikt het niet met je Zondag, dan zoeken we samen een andere persoon, zoals beschreven op <a href=\"vragen/van-poetshulp-wisselen.html\">van poetshulp wisselen</a>. Je kan dit rustig uitproberen: de eerste 2 uur zijn gratis, en het abonnement kan je elke maand opzeggen. Meer over het opstellen van zo'n plan lees je bij <a href=\"vragen/schoonmaakplan-kantoor-maken.html\">schoonmaakplan voor je kantoor maken</a>."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Hoe vaak controleer ik de schoonmaak?",
+   "a": "In het begin na elke beurt, met een korte ronde. Wanneer het loopt, volstaat een controle om de paar weken. Noteer wat je opvalt, zodat je patronen herkent in plaats van losse indrukken."
+  },
+  {
+   "q": "Wat doe ik als de schoonmaak niet voldoet?",
+   "a": "Benoem concreet wat je mist, waar en wanneer je het zag. Geef dat door aan Zondags of aan je Zondag. Verandert er niets, dan kunnen we samen een andere Zondag zoeken."
+  },
+  {
+   "q": "Moet ik aanwezig zijn bij de poetsbeurt om te controleren?",
+   "a": "Nee, je kan achteraf controleren. Een Zondag komt overdag op weekdagen, dus je kan kort na de beurt zelf rondlopen. Een korte lijst helpt je om niets over het hoofd te zien."
+  },
+  {
+   "q": "Kan ik de lijst aanpassen aan mijn kantoor?",
+   "a": "Ja. Je zondagsplan is aanpasbaar, dus nieuwe punten of andere prioriteiten laat je gewoon opnemen. Dat geldt ook voor extra uren in een drukke periode, bijvoorbeeld voor een grote poetsbeurt of na een verhuis."
+  },
+  {
+   "q": "Wie komt er als mijn Zondag ziek is?",
+   "a": "Dan zoeken wij een oplossing voor die periode, maar een vaste vervanger beloven we niet. Houd intussen je eigen korte ronde aan, zodat je kantoor presentabel blijft en je weet wat er blijft liggen."
+  }
+ ]
+}

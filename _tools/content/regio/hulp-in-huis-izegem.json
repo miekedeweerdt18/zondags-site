@@ -1,0 +1,33 @@
+{
+ "path": "regio/hulp-in-huis-izegem.html",
+ "title": "Hulp in huis voor ondernemers in Izegem (8870)",
+ "desc": "Hulp in huis in Izegem voor artsen en zorgverleners in een groepspraktijk: elk huishouden een eigen vaste Zondag, elke vennootschap een eigen factuur.",
+ "eyebrow": "Hulp in huis · Izegem",
+ "h1": "Hulp in huis voor ondernemers in Izegem",
+ "lead": "In een groepspraktijk deel je de wachtzaal, maar niet het huishouden. In Izegem kan elke arts een eigen vaste Zondag hebben, met een eigen plan en een eigen factuur.",
+ "answer": "In Izegem kan elke arts uit een groepspraktijk bij Zondags (zondags.be) een eigen vaste Zondag nemen: per huishouden één persoon voor poetsen, was en strijk, koken, boodschappen en kinderen ophalen, met een eigen plan en een factuur aan de eigen vennootschap. Ook de praktijk zelf kan een Zondag krijgen, zonder sterilisatie of medisch materiaal.",
+ "facts": ["Per huishouden een eigen plan en Zondag", "Factuur per vennootschap", "Gezonde schotels voor de week", "Praktijk en woning apart of samen", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "Eén wachtzaal, vier huishoudens", "p": [
+   "Neem een groepspraktijk in Izegem met vier huisartsen. Ze delen een wachtzaal en een secretariaat, maar elk heeft een eigen gezin, een eigen vennootschap en een eigen week. Bij de ene zit de agenda tot laat vol, bij de andere vallen de vroege ochtenden vast.",
+   "Daarom is hulp in huis hier geen groepsbestelling. Elke arts bouwt een eigen plan, op eigen dagen en uren, en krijgt een eigen vaste Zondag."]},
+  {"h2": "Elk huishouden een eigen zondagsplan", "p": [
+   "De ene arts wil vooral dat er op donderdag gekookt wordt en op vrijdag gestreken. De andere zoekt iemand voor de schoolpoort en het vieruurtje. Een derde laat enkel de woning poetsen en neemt de boodschappen zelf. Elk plan staat los van de andere.",
+   "Wie wil, begint met de praktijk of met één huishouden en schuift de rest later aan. Een plan bijstellen kan op elk moment."]},
+  {"h2": "Wachtdienst en de grenzen van onze uren", "p": [
+   "Wachtdiensten vallen vaak 's avonds, 's nachts of in het weekend. Daar komen we niet: Zondags werkt overdag op weekdagen. Wel kunnen de dagen voor en na een wachtdienst anders ingevuld worden, bijvoorbeeld met gezonde schotels in de koelkast en een huis dat al klaarstaat wanneer je thuiskomt."]},
+  {"h2": "Koken voor een gezin met een onregelmatige agenda", "p": [
+   "Je kiest wat bij je agenda past: je Zondag kookt bij jou thuis, of bereidt schotels voor de week. Je geeft aan wat jullie graag eten, wat niet en waar je rekening mee moet houden. De boodschappen die daarbij horen, doet je Zondag mee, zodat er niet nog een keer iemand naar de winkel moet."]},
+  {"h2": "Een factuur per vennootschap", "p": [
+   "Zondags schrijft per huishouden een eigen dienstenfactuur uit, gericht aan de vennootschap die het plan afsluit. Zo hoeven collega's hun boekhouding niet te delen. Dienstencheques zijn geen route voor een vennootschap, dus de gewone dienstenfactuur is de enige weg. De praktijk telt als beroepsmatig deel en staat apart van het privégedeelte. Voor dat laatste geldt een forfaitair voordeel van alle aard, op voorwaarde van regelmatige prestaties door een bedrijf met mensen in dienst. Wat voor jouw vennootschap geldt, bevestigt je accountant."]},
+  {"h2": "Izegem, Emelgem, Kachtem en de buurgemeenten", "p": [
+   "Emelgem en Kachtem zijn deelgemeenten van Izegem. Wie in Roeselare, Ingelmunster, Lendelede, Ledegem of Ardooie woont of werkt, kan ook een aanvraag doen, via het formulier of de chat. Binnen één werkdag volgt een telefoontje. De intake gebeurt ter plaatse, en op het einde ligt er een uitgeschreven plan klaar. Het begin is gratis, want de eerste 2 uur zijn kosteloos."]}
+ ],
+ "faq": [
+  {"q": "Kunnen meerdere artsen uit dezelfde praktijk elk een Zondag nemen?", "a": "Ja. Elk huishouden krijgt een eigen zondagsplan en een eigen vaste Zondag, op de dagen en uren die bij die arts passen. De factuur gaat naar de vennootschap die het plan afsluit."},
+  {"q": "Kan één Zondag zowel de praktijk als mijn woning doen?", "a": "Ja, voor één vennootschap kan dat in één plan, met beroepsmatig en privé apart op de factuur. Sterilisatie en medisch materiaal blijven bij je praktijk. Je Zondag poetst de ruimtes."},
+  {"q": "Kan ik eerst de praktijk proberen en later mijn woning toevoegen?", "a": "Ja. Je kan klein starten, bijvoorbeeld met de wachtzaal en het sanitair, en later de woning, het koken of de schoolpoort toevoegen. Stoppen kan na elke maand."},
+  {"q": "Hoe zit het met de btw voor een btw-vrijgestelde huisartsenpraktijk?", "a": "Een btw-vrijgestelde praktijk heeft doorgaans geen aftrekrecht, dus de btw op de factuur blijft dan een kost. Voor het privégedeelte geldt in principe hetzelfde. Wat voor jouw praktijk precies telt, bevestigt je accountant."},
+  {"q": "Wat als twee collega's dezelfde dag willen, maar niet dezelfde Zondag?", "a": "Dat kan. Elk plan staat los van het andere, met een eigen vaste persoon op een eigen vast uur. Elke arts bespreekt de eigen dagen en uren apart met ons, zodat jullie niet op elkaar hoeven af te stemmen."}
+ ]
+}

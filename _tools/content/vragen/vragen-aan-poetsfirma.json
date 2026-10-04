@@ -1,0 +1,86 @@
+{
+ "path": "vragen/vragen-aan-poetsfirma.html",
+ "title": "Welke vragen stel je aan een poetsfirma?",
+ "desc": "Welke vragen stel je aan een poetsfirma voor je bedrijf? Een lijst over continuïteit, afwezigheid, factuur, planning en grenzen, met de antwoorden van Zondags.",
+ "eyebrow": "Vraag",
+ "h1": "Welke vragen stel je aan een poetsfirma voor je bedrijf?",
+ "lead": "Met de juiste vragen in het eerste gesprek weet je meteen of een poetsfirma bij je zaak past. Dit is de lijst, per onderwerp, met telkens waarom de vraag telt.",
+ "answer": "Stel een poetsfirma vragen over continuïteit, afwezigheid, administratie, planning en grenzen: komt er steeds dezelfde persoon, wat gebeurt er bij ziekte of verlof, krijg ik een factuur op naam van mijn vennootschap, kan ik maandelijks opzeggen en wat valt buiten het aanbod? Zondags (zondags.be) beantwoordt die vragen tijdens de intake en legt de antwoorden vast in je zondagsplan.",
+ "facts": [
+  "Vragen per onderwerp, met reden",
+  "Continuïteit, afwezigheid, factuur, grenzen",
+  "Laat antwoorden schriftelijk vastleggen",
+  "Zondags beantwoordt ze bij de intake",
+  "Ook voor je woning in hetzelfde plan"
+ ],
+ "sections": [
+  {
+   "h2": "Over de persoon die komt",
+   "p": [
+    "<ul class=\"ticks\"><li>Komt er steeds dezelfde persoon, op welke dag en welk uur?</li><li>Is die persoon in dienst van de firma of zelfstandig?</li><li>Hoe wordt iemand gescreend voordat die in je kantoor komt?</li></ul>",
+    "Dit zijn de vragen over vertrouwen. Je geeft je sleutel aan iemand, dus je wil weten wie dat is en voor wie die persoon werkt."
+   ]
+  },
+  {
+   "h2": "Over afwezigheid en vervanging",
+   "p": [
+    "<ul class=\"ticks\"><li>Wat gebeurt er bij ziekte of verlof?</li><li>Hoe word ik op de hoogte gebracht?</li><li>Kan ik wisselen van persoon als het niet klikt?</li></ul>",
+    "Een eerlijk antwoord is belangrijker dan een mooi antwoord. Vraag hoe het in de praktijk verloopt, niet enkel wat er in de folder staat."
+   ]
+  },
+  {
+   "h2": "Over administratie en factuur",
+   "p": [
+    "<ul class=\"ticks\"><li>Krijg ik een factuur op naam van mijn vennootschap?</li><li>Kan het beroepsmatige en het privégedeelte apart op de factuur, als mijn woning mee moet?</li><li>Hoe zit het met de btw, in grote lijnen?</li></ul>",
+    "Een vennootschap kan geen dienstencheques kopen, dus een firma die enkel daarmee werkt, past niet bij een zaak. De btw-vraag leg je ook aan je accountant voor."
+   ]
+  },
+  {
+   "h2": "Over planning en flexibiliteit",
+   "p": [
+    "<ul class=\"ticks\"><li>Kan ik uren bijboeken of het plan aanpassen?</li><li>Wat is de opzegtermijn, en is er een minimumduur of proefperiode?</li><li>Wat gebeurt er met de sleutel als ik stop?</li></ul>"
+   ]
+  },
+  {
+   "h2": "Over taken en grenzen",
+   "p": [
+    "<ul class=\"ticks\"><li>Welke taken horen bij het aanbod en welke niet?</li><li>Wie voorziet het poetsmateriaal?</li><li>Wie is mijn aanspreekpunt als er iets misloopt?</li></ul>",
+    "Over het materiaal staat meer bij <a href=\"vragen/wie-voorziet-poetsmateriaal.html\">wie het poetsmateriaal voorziet</a>. En wat bij het vaste werk van een poetshulp hoort, lees je bij <a href=\"vragen/wat-doet-poetshulp-op-kantoor.html\">wat een poetshulp op kantoor doet</a>."
+   ]
+  },
+  {
+   "h2": "Zo lees je de antwoorden",
+   "p": [
+    "Een goed teken: concrete antwoorden, eerlijkheid over wat niet kan en bereidheid om te komen kijken voor er iets wordt vastgelegd. Een slecht teken: vage uitleg, haast, een offerte zonder bezoek ter plaatse of een weigering om afspraken op papier te zetten. Vraag altijd dat de belangrijkste punten, zoals taken, dag, uur en opzegregels, schriftelijk bevestigd worden."
+   ]
+  },
+  {
+   "h2": "Hoe Zondags de vragen beantwoordt",
+   "p": [
+    "Bij Zondags komt steeds dezelfde persoon, gescreend en in dienst van Zondags, op een vaste dag en uur. Bij ziekte of verlof zoeken wij een oplossing, zonder dat we een vervanger op elke dag toezeggen. De factuur is een gewone dienstenfactuur op naam van je vennootschap, met een opsplitsing van beroepsmatig en privé als je woning mee zit in het plan. Het plan is maandelijks opzegbaar en de eerste 2 uur zijn gratis, om kennis te maken."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Welke vraag sla je best niet over?",
+   "a": "Wat gebeurt er bij ziekte of verlof? Het antwoord toont of een firma continuïteit serieus neemt. Bij Zondags zoeken wij een oplossing; een vervanger op dezelfde dag kunnen we niet altijd toezeggen."
+  },
+  {
+   "q": "Moet ik de antwoorden schriftelijk laten vastleggen?",
+   "a": "Ja, zeker voor taken, dag, uur, opzegregels en materiaal. Wat op papier staat, kan je later terugvinden als er een misverstand ontstaat. Bij Zondags komen de afspraken in je zondagsplan, dat je samen opmaakt tijdens de intake."
+  },
+  {
+   "q": "Wanneer vraag ik best meerdere offertes?",
+   "a": "Wanneer je twijfelt tussen types aanbieders, zoals een zelfstandige, een firma met ploegen en een dienstverlener met een vaste persoon. Vraag voor elk dezelfde taken, uren en frequentie, zodat je eerlijk vergelijkt."
+  },
+  {
+   "q": "Welke vragen moet ik zelf kunnen beantwoorden?",
+   "a": "Welke ruimtes het zijn, welke taken je wil, op welk moment het past en wat vertrouwelijk is. Heb je dat op papier, dan loopt het eerste gesprek veel vlotter."
+  },
+  {
+   "q": "Kan ik deze vragen ook aan Zondags stellen?",
+   "a": "Ja, graag. Stel ze bij je aanvraag, aan de telefoon of tijdens de intake ter plaatse. Bel of app naar 0470 56 53 58, elke dag van 6 tot 22 uur, of mail naar hello@zondags.be."
+  }
+ ]
+}

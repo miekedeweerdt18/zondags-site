@@ -1,0 +1,35 @@
+{
+ "path": "regio/boodschappendienst-roeselare.html",
+ "title": "Boodschappendienst voor praktijken in Roeselare",
+ "desc": "Boodschappendienst in Roeselare voor groepspraktijken: je vaste Zondag houdt koffie en keukenvoorraad bij, doet persoonlijke boodschappen en haalt pakjes op.",
+ "eyebrow": "Boodschappen · Roeselare · 8800",
+ "h1": "Boodschappendienst voor ondernemers in Roeselare",
+ "lead": "Een groepspraktijk van huisartsen heeft een team, een wachtzaal en een keuken die elke dag gebruikt worden. In Roeselare houdt je Zondag de voorraad bij, zodat niemand dat tussen twee consultaties moet regelen.",
+ "answer": "Zondags (zondags.be) biedt in Roeselare een boodschappendienst voor ondernemers en praktijken, ook in Beveren, Oekene en Rumbeke. Je vaste Zondag houdt de koffie, thee en keukenvoorraad van je groepspraktijk bij, doet persoonlijke boodschappen en regelwerk zoals apotheek en droogkuis, en brengt pakjes weg of haalt ze op. Dat gebeurt overdag op weekdagen. Voor de factuur krijgt je vennootschap één dienstenfactuur. Vanuit Marke werkt Zondags in West- en Oost-Vlaanderen.",
+ "facts": ["Voorraad voor personeelskeuken en wachtzaal", "Persoonlijke boodschappen in hetzelfde plan", "Apotheek, droogkuis en pakjes", "Overdag, op weekdagen", "Factuur aan je vennootschap", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "Een praktijkkeuken die niet leeg mag raken", "p": [
+   "Een groepspraktijk heeft een team dat de hele dag koffie drinkt, een wachtzaal met wachtende patiënten en een personeelskeuken die door veel mensen gebruikt wordt. Raakt de voorraad op, dan merkt iedereen het, maar niemand heeft tijd om bij te kopen.",
+   "Een boodschappendienst neemt die taak over. Je Zondag houdt de voorraad bij en vult aan, zodat het team niet meer tussen twee consultaties naar de winkel moet."]},
+  {"h2": "Een voorraadronde per week", "p": [
+   "Een vaste ronde bevat bijvoorbeeld deze punten, en je Zondag past ze aan met wat het team doorgeeft.",
+   "<ul class=\"ticks\"><li>Koffie, thee, melk en suiker voor het team</li><li>Water en bekers voor de wachtzaal</li><li>Keukenrol, afwasmiddel en vuilniszakken</li><li>Een controle van wat bijna op is, met een lijst voor volgende week</li></ul>"]},
+  {"h2": "Maandag en donderdag in een groepspraktijk", "p": [
+   "Neem een groepspraktijk in Roeselare met meerdere huisartsen. Op maandag komt je Zondag vroeg in de ochtend, voor de eerste consultatie. De personeelskeuken wordt nagekeken en de voorraad aangevuld, met de lijst van vorige week als vertrekpunt. Op donderdag volgt een tweede ronde voor wat er tijdens de week is opgegaan.",
+   "Wil een van de huisartsen ook de persoonlijke boodschappen laten doen, dan gaat dat in hetzelfde plan, op een apart deel van de factuur."]},
+  {"h2": "Wat bij de praktijk blijft", "p": [
+   "Een boodschappendienst is geen medische bevoorrading. Wat voor jezelf of je gezin uit de apotheek moet komen, haalt je Zondag op. Medische producten en materiaal voor de praktijk zelf, en alles wat met sterilisatie te maken heeft, blijven bij je eigen team. Dat noteren we in je zondagsplan, zodat de grens voor iedereen helder is."]},
+  {"h2": "Wie koopt wat: praktijk en privé", "p": [
+   "De voorraad voor de praktijk is beroepsmatig, de persoonlijke boodschappen thuis zijn privé. Zondags maakt één dienstenfactuur op naam van je vennootschap, want dienstencheques zijn voor particulieren. Voor het privégedeelte geldt een forfaitair voordeel van alle aard, mits de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Laat je accountant dit bevestigen voor je eigen situatie."]},
+  {"h2": "Roeselare en de omliggende gemeenten", "p": [
+   "Roeselare (8800) heeft Beveren, Oekene en Rumbeke als deelgemeenten. Ligt de praktijk in Izegem, Hooglede, Moorslede, Ardooie, Lichtervelde of Staden, dan doe je evengoed een aanvraag. Wil je de praktijk ook laten poetsen, lees dan <a href=\"sectoren/groepspraktijken.html\">poetshulp voor groepspraktijken</a>."]}
+ ],
+ "faq": [
+  {"q": "Bij wie kan een groepspraktijk in Roeselare een boodschappendienst aanvragen?", "a": "Bij Zondags (zondags.be). Je krijgt één vaste Zondag die de voorraad van je praktijkkeuken en wachtzaal bijhoudt, op een vaste dag en uur. De dienstenfactuur wordt aan je vennootschap gericht."},
+  {"q": "Kan mijn Zondag de apotheek doen voor de praktijk?", "a": "Voor persoonlijke bestellingen wel. Medische producten en materiaal voor de praktijk zelf en alles rond sterilisatie blijven bij je eigen team. Dat leggen we vast in je zondagsplan."},
+  {"q": "Wie bepaalt wat er op de voorraadlijst staat?", "a": "Jij en je team. Je geeft een basislijst door en je Zondag vult die aan met wat er in de week opraakt. Merken en hoeveelheden bespreken we bij de intake, en je kan de lijst altijd aanpassen."},
+  {"q": "Kan dezelfde Zondag ook de praktijk poetsen?", "a": "Ja. Wachtzaal, onthaal, personeelskeuken en sanitair kunnen in hetzelfde zondagsplan als de boodschappen, met dezelfde vaste Zondag en één factuur. Voor sterilisatie en medisch materiaal kan je niet bij Zondags terecht."},
+  {"q": "Werkt Zondags ook in Beveren, Oekene en Rumbeke?", "a": "Ja. Beveren, Oekene en Rumbeke horen bij Roeselare, dus een praktijk daar doet dezelfde aanvraag. Welke dagen en uren het best bij je team passen, bespreken we bij de intake."},
+  {"q": "Kan een btw-vrijgestelde praktijk de btw recupereren?", "a": "Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Of dat voor je praktijk geldt en hoe je het verwerkt, bevestigt je accountant voor je eigen situatie."}
+ ]
+}

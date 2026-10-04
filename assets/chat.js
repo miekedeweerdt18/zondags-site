@@ -304,7 +304,8 @@
     ['utm_source', 'utm_medium', 'utm_campaign'].forEach(function (k) { if (q.get(k)) out.push(q.get(k)); });
     var ref = document.referrer && document.referrer.indexOf(location.host) < 0 ? document.referrer.replace(/^https?:\/\//, '').split('/')[0] : '';
     var first = store('zc_first') || ''; if (!first) { first = location.pathname; store('zc_first', first); }
-    return { bron: out.join(' / ') || ref || 'direct', eerste: first };
+    var saved = null; try { saved = JSON.parse(localStorage.getItem('zd_src') || 'null'); } catch (e) {}
+    return { bron: out.join(' / ') || ref || (saved && saved.bron) || 'direct', eerste: (saved && saved.landing) || first };
   }
 
   function send() {

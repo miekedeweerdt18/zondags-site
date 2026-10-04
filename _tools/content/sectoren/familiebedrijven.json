@@ -1,0 +1,34 @@
+{
+ "path": "sectoren/familiebedrijven.html",
+ "title": "Poetshulp voor familiebedrijven: zaak en woning in één plan",
+ "desc": "Poetshulp voor familiebedrijven waar zaak en woning dicht bij elkaar liggen: kantoor, refter en de woning van de zaakvoerders in één plan, met één vaste Zondag.",
+ "eyebrow": "Familiebedrijven",
+ "h1": "Poetshulp voor familiebedrijven",
+ "lead": "In een familiebedrijf lopen werk en thuis in elkaar over. Eén vaste Zondag houdt kantoor, refter en woning bij, op afgesproken dagen, zodat de familie tijd overhoudt voor het bedrijf en voor elkaar.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor familiebedrijven waar zaak en woning dicht bij elkaar liggen: één vaste persoon, je Zondag, voor het kantoor, de refter en de woning van de zaakvoerders, in één zondagsplan, overdag op weekdagen. Op de factuur aan de vennootschap staan het beroepsmatige en het privégedeelte apart.",
+ "facts": ["Kantoor, refter en woning in één plan", "Eén vaste Zondag voor beide kanten", "Beroepsmatig en privé apart gefactureerd", "Ook voor meerdere zaakvoerders", "Factuur aan de vennootschap"],
+ "sections": [
+  {"h2": "Waar werk ophoudt en thuis begint, is vaag", "p": [
+   "Neem een familiebedrijf waar de woning naast of boven de zaak ligt. De zaakvoerder neemt een telefoon op terwijl het eten klaarstaat, een kind loopt binnen in het onthaal en de refter is ook de plek waar de familie samen een boterham eet. Dat is de charme van zo'n bedrijf, maar ook de reden dat het onderhoud nergens echt een plek heeft: te privé voor een schoonmaakploeg, te zakelijk voor het huishouden."]},
+  {"h2": "Eén Zondag, twee kanten van de deur", "p": [
+   "Het grote voordeel van één plan: je beheert één sleutel, één persoon en één afspraak. Je Zondag poetst op maandag het kantoor en de refter en op woensdag de woning. Tussendoor kan er regelwerk bijkomen, zoals een pakje afhalen of de droogkuis. Omdat het steeds dezelfde persoon is, weet je Zondag wat bij de zaak hoort en wat bij thuis."]},
+  {"h2": "Aan de zaakkant en aan de woonkant", "p": [
+   "<ul class=\"ticks\"><li>Zaak: kantoor, onthaal, vergaderruimte en vloeren</li><li>Zaak: refter, keuken, sanitair en afval</li><li>Woning: poetsen van keuken, living, slaapkamers en badkamer</li><li>Woning: was en strijk</li><li>Woning: boodschappen en koken voor de week</li><li>Regelwerk: pakjes, apotheek, droogkuis</li></ul>"]},
+  {"h2": "Meerdere zaakvoerders, meerdere woningen", "p": [
+   "Zijn er twee zaakvoerders, bijvoorbeeld een ouder en een kind, elk met een eigen woning? Dan bespreken we tijdens de intake wat er per woning gebeurt en wanneer. Met je accountant spreek je vooraf af hoe de privégedeelten verwerkt worden. Zo vermijd je dat het huishouden van de ene familietak in de boekhouding van de andere belandt."]},
+  {"h2": "Voorbeeld: vader en dochter, één erf", "p": [
+   "Stel: een vader en een dochter zijn samen zaakvoerder van een familiebedrijf. Kantoor en refter liggen op het bedrijfsterrein, de woningen vlakbij. Op maandag en donderdag komt de Zondag voor kantoor en refter. De woningen staan op dinsdag en vrijdag op het programma, volgens wat jullie in de intake afspreken."]},
+  {"h2": "Factuur en accountant", "p": [
+   "Kantoor en refter zijn beroepskosten van de vennootschap. Zondags factureert de vennootschap met een gewone dienstenfactuur. Voor elke woning geldt het privégedeelte: een voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst.",
+   "Werk je niet met een vennootschap, bijvoorbeeld als eenmanszaak? Op <a href=\"vragen/poetshulp-eenmanszaak.html\">kan een eenmanszaak poetshulp inboeken</a> lees je daar meer over. In alle gevallen laat je je accountant bevestigen hoe het voor jouw situatie werkt."]},
+  {"h2": "Eerste stap: horen hoe jullie dagen verlopen", "p": [
+   "Een van jullie vraagt een Zondag aan via het formulier of de chat. Binnen één werkdag belt iemand terug. Bij de intake lopen we door het kantoor, de refter en de woning en horen we hoe de dagen in jullie familie verlopen. Daarna maken we samen het zondagsplan, met de eerste 2 uur gratis zodat de hele familie kan voelen of het past."]}
+ ],
+ "faq": [
+  {"q": "Kan één poetshulp het kantoor en de woning van een familiebedrijf doen?", "a": "Ja. Zondags werkt met één vaste persoon voor kantoor, refter en woning, op de dagen die jullie afspreken. Je krijgt één factuur waarop zaak en privé apart staan."},
+  {"q": "Hoe wordt de factuur opgesplitst tussen zaak en woning?", "a": "Op de dienstenfactuur staan het beroepsmatige en het privégedeelte apart. Zo ziet je accountant meteen wat bij de zaak hoort. Hoe dat boekhoudkundig verwerkt wordt, bepaalt je accountant voor jouw situatie."},
+  {"q": "Wat als twee zaakvoerders elk een eigen woning hebben?", "a": "Dat komt aan bod in de intake. Per woning leg je vast wat er gebeurt en wanneer. Met je accountant spreek je vooraf af hoe de privégedeelten verwerkt worden."},
+  {"q": "Moet de familie thuis zijn wanneer de Zondag komt?", "a": "Nee. Je geeft je Zondag toegang en spreekt af wat er moet gebeuren. Omdat het steeds dezelfde persoon is, weet je Zondag waar alles staat en wat je liever niet verplaatst."},
+  {"q": "Wie in de familie spreekt met de Zondag?", "a": "Kies één aanspreekpunt, bijvoorbeeld de zaakvoerder die het vaakst aanwezig is. Zo krijgt je Zondag één lijn in plaats van meerdere wensen door elkaar. Wijzigingen aan het plan loop je via die persoon."}
+ ]
+}

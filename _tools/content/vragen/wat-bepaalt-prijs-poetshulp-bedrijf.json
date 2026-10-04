@@ -1,0 +1,32 @@
+{
+ "path": "vragen/wat-bepaalt-prijs-poetshulp-bedrijf.html",
+ "title": "Wat bepaalt de prijs van poetshulp voor een bedrijf?",
+ "desc": "Wat bepaalt de prijs van poetshulp voor je bedrijf? Uren, frequentie, taken, oppervlakte en vaste afspraak of losse opdracht. Eerste 2 uur bij Zondags gratis.",
+ "eyebrow": "Vraag",
+ "h1": "Wat bepaalt de prijs van poetshulp voor een bedrijf?",
+ "lead": "De prijs van poetshulp hangt af van zes dingen die je zelf kan inschatten. Wie ze kent, vergelijkt offertes eerlijk en vraagt niet meer dan nodig.",
+ "answer": "De prijs van poetshulp voor een bedrijf wordt bepaald door het aantal uren, de frequentie, de taken, de oppervlakte, een eventuele combinatie van kantoor en woning en door de keuze tussen een vaste afspraak of een losse opdracht. Zondags (zondags.be) werkt daarom op maat, na een kort gesprek, zonder vaste prijslijst. De eerste 2 uur zijn gratis, om kennis te maken.",
+ "facts": ["Zes factoren bepalen de prijs", "Uren en frequentie wegen het zwaarst", "Op maat, na een kort gesprek", "Vaste afspraak of losse opdracht", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "De zes factoren kort uitgelegd", "p": [
+   "<ul class=\"ticks\"><li><b>Uren:</b> hoeveel tijd een beurt vraagt om je taken af te werken</li><li><b>Frequentie:</b> hoe vaak je Zondag komt</li><li><b>Taken:</b> alleen poetsen, of ook keuken, ramen langs binnen, was en strijk</li><li><b>Oppervlakte:</b> meer ruimtes en meer vloer vragen meer tijd</li><li><b>Kantoor en woning samen:</b> twee adressen in één plan</li><li><b>Vaste afspraak of losse opdracht:</b> een ritme dat blijft, of een eenmalige grote beurt</li></ul>"]},
+  {"h2": "Uren en frequentie: de grootste hefboom", "p": [
+   "Een prijs per uur zegt weinig zonder het aantal uren dat je werkelijk nodig hebt. Een korte beurt die vaker terugkomt, kan een kantoor beter proper houden dan een lange beurt die zelden komt. Wat bij jouw zaak past, lees je bij <a href=\"vragen/hoe-vaak-kantoor-poetsen.html\">hoe vaak je een kantoor laat poetsen</a> en bij <a href=\"vragen/hoeveel-uur-poetshulp-kantoor.html\">hoeveel uur een kantoor nodig heeft</a>."]},
+  {"h2": "Taken en oppervlakte: wat meetelt", "p": [
+   "Vierkante meters zijn maar de helft van het verhaal. Het gaat ook om hoeveel mensen de ruimtes gebruiken, hoeveel sanitair en keukens er zijn, welke vloeren je hebt en hoeveel bezoekers er binnenlopen. Een kleine wachtzaal met veel doorloop vraagt soms meer tijd dan een groter kantoor waar weinig gebeurt."]},
+  {"h2": "Eén plan voor kantoor en woning", "p": [
+   "Laat je dezelfde Zondag ook je woning doen, dan heb je één afspraak voor twee adressen. Op de factuur staan het beroepsmatige en het privégedeelte apart. Wat dat voor je boekhouding betekent, bevestigt je accountant."]},
+  {"h2": "Zo vergelijk je offertes eerlijk", "p": [
+   "<ul class=\"ticks\"><li>Vraag voor elke aanbieder dezelfde taken, uren en frequentie</li><li>Controleer wat inbegrepen is en wat extra gerekend wordt</li><li>Check of de factuur op naam van je vennootschap komt</li><li>Kijk naar opzegtermijn en minimumduur</li><li>Laat de offerte pas maken nadat iemand je ruimte heeft gezien</li></ul>"]},
+  {"h2": "Hoe Zondags tot een prijs op maat komt", "p": [
+   "Na je aanvraag belt iemand binnen één werkdag terug voor een kort gesprek. Daarna komen we langs voor de intake, bekijken we je ruimtes en maken we samen het zondagsplan op. De prijs volgt uit dat plan. Op deze site staan geen bedragen, omdat een bedrag zonder je ruimtes te kennen gokwerk zou zijn.",
+   "Je kan uren bijboeken of het plan aanpassen, en het plan is maandelijks opzegbaar. Wat het je netto kost, hangt ook af van hoe je het fiscaal verwerkt: een gewone dienstenfactuur op naam van je vennootschap, het onderhoud van beroepsruimtes als beroepskost. Laat je accountant bevestigen hoe dat voor jouw situatie werkt."]}
+ ],
+ "faq": [
+  {"q": "Waarom geeft Zondags geen vaste prijs op de website?", "a": "Omdat de prijs afhangt van je uren, taken en ruimtes, en die ken je pas na een kort gesprek en een bezoek. Daarom werkt Zondags op maat. Na de intake krijg je een voorstel, vrijblijvend."},
+  {"q": "Wat zit er in de eerste 2 gratis uren?", "a": "Je maakt kennis met je Zondag en ziet hoe het werkt, zonder dat je daarvoor betaalt. Wat er precies gebeurt, bepalen we samen in je zondagsplan. Daarna beslis je of je verdergaat."},
+  {"q": "Wat is het verschil tussen een vaste afspraak en een losse opdracht?", "a": "Bij een vaste afspraak plan je een terugkerend ritme met dezelfde Zondag op een vaste dag en uur. Bij een losse opdracht, zoals een grote poetsbeurt of een verhuis, gaat het om eenmalig werk. Beide krijg je op maat voorgesteld na een kort gesprek."},
+  {"q": "Kan ik de prijs beperken door minder taken te kiezen?", "a": "Ja. Minder taken of minder uren betekent minder tijd per beurt. Je kan het plan aanpassen, bijvoorbeeld door ramen of keuken minder vaak te laten doen. Zondags past het plan aan op jouw vraag."},
+  {"q": "Kan ik uren bijboeken als het drukker wordt?", "a": "Ja. Uren bijboeken of het plan aanpassen kan, bijvoorbeeld in de drukke weken van je zaak. Het plan blijft maandelijks opzegbaar, dus je zit niet vast aan een ritme dat niet meer past."}
+ ]
+}

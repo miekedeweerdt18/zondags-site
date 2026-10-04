@@ -1,0 +1,34 @@
+{
+ "path": "sectoren/it-bedrijven.html",
+ "title": "Poetshulp voor IT-bedrijven: voorzichtig rond apparatuur",
+ "desc": "Poetshulp voor IT-bedrijven en softwareteams: veel schermen, toetsenborden en kabels, vergaderruimtes en koffiehoek, met zorg rond jullie apparatuur.",
+ "eyebrow": "IT-bedrijven",
+ "h1": "Poetshulp voor IT-bedrijven",
+ "lead": "Een kantoor vol schermen, toetsenborden en kabels vraagt een andere aanpak dan een gewoon bureau. Een vaste Zondag werkt eromheen, verplaatst niets en haalt niets uit het stopcontact.",
+ "answer": "Een IT-bedrijf in West- of Oost-Vlaanderen krijgt van Zondags (zondags.be) één vaste persoon die voorzichtig werkt rond schermen, toetsenborden en kabels, en vloeren, vergaderruimtes, keuken en koffiehoek onderhoudt. Er wordt niets verplaatst of losgekoppeld, en de serverruimte blijft dicht tenzij je anders afspreekt. Je vennootschap krijgt hiervoor een gewone dienstenfactuur.",
+ "facts": ["Voorzichtig rond schermen en kabels", "Niets verplaatst, niets losgekoppeld", "Serverruimte dicht tenzij anders afgesproken", "Vergaderruimtes, keuken en koffiehoek", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "Een bureau vol techniek, een Zondag die erlangs werkt", "p": [
+   "In een IT-bedrijf zijn bureaus geen platte oppervlakken maar landschappen: twee of drie schermen, een docking station, een kluwen kabels, een bord met sticky notes. Dat vraagt vooral één houding: aanraken wat hoort aangeraakt te worden, en de rest laten staan. Dat leg je vast in het zondagsplan.",
+   "<ul class=\"ticks\"><li>Niets verplaatsen en niets loskoppelen</li><li>Schermen en toetsenborden enkel aan de buitenkant afnemen</li><li>Kabels blijven liggen waar ze liggen, de vloer errond wordt gedaan</li><li>Serverruimte of rack blijft dicht, tenzij jij anders beslist</li><li>Whiteboards blijven staan zoals ze staan</li></ul>"]},
+  {"h2": "Schermen vergrendeld, bureaus bijna leeg", "p": [
+   "Een Zondag leest niet mee en gebruikt geen computer, toetsenbord of muis. Toch is het een gewone afspraak voor een IT-team om schermen en laptops te vergrendelen bij het weggaan, en om gevoelige papieren in een lade te leggen. Dat is een goede gewoonte voor elke zaak, en ze maakt de beurt voor iedereen rustiger."]},
+  {"h2": "Koffiehoek en keuken: het hart van het team", "p": [
+   "In een kantoor vol bureauwerk is de koffiehoek de drukste plek. De koffiemachine, de koelkast, de aanrechten en de vaatwasser vragen dus elke week aandacht. Je Zondag neemt de buitenkant van de machine af, maakt het aanrecht en de tafels schoon, en zet het afval buiten. Koffie, melk en keukenrol kunnen als boodschap mee in het plan, zodat de voorraad op orde blijft."]},
+  {"h2": "De dag met de minste mensen", "p": [
+   "Werkt je team deels thuis, dan kies je voor de beurt de dag waarop de minste collega's op kantoor zijn: dan zijn de bureaus leeg en is er rust om rond de apparatuur te werken. Vroeg in de ochtend of over de middag past ook, en 's avonds of in het weekend werkt een Zondag niet, ook niet bij teams die vaak laat doorwerken."]},
+  {"h2": "Wat bij je team blijft", "p": [
+   "Een technische klus is geen poetswerk. Schermen vervangen, kabels beheren, apparatuur installeren of losmaken en alles aan en in de serverruimte blijft bij je team of bij je beheerder. Ook werk op hoogte, zoals plafondventilatoren of hoge vensters, doen we niet. Kom je er niet uit, dan bespreek je het bij de intake en kijken we samen wat wel kan."]},
+  {"h2": "Kantoor en woning, factuur en start", "p": [
+   "Wil de zaakvoerder ook thuis hulp, dan loopt hetzelfde zondagsplan door naar de woning. Wie als IT-consultant of freelancer thuis werkt, vindt het huishoudelijke deel bij <a href=\"beroepen/it-consultant.html\">huishoudelijke hulp voor IT-consultants</a>, en een voorbeeld uit Kortrijk bij <a href=\"regio/hulp-in-huis-kortrijk.html\">hulp in huis in Kortrijk</a>.",
+   "Kantoor en woning staan apart op één dienstenfactuur aan je vennootschap, want dienstencheques bestaan daarvoor niet. De poetskosten van het kantoor tellen als beroepskost, en de btw daarop is in principe recupereerbaar met aftrekrecht. De woning krijgt een eigen regeling: een forfaitair voordeel van alle aard. De voorwaarde is dat het werk regelmatig gebeurt, via een onderneming met mensen in dienst, en op de btw van de woning is er in principe geen aftrek. Je accountant bevestigt wat voor jouw bedrijf klopt.",
+   "Een gesprek plan je via het formulier of de chat. Binnen één werkdag word je teruggebeld, en bij de intake lopen we samen langs bureaus, vergaderruimtes, keuken en de deur van de serverruimte. Het eerste kennismakingsblok van 2 uur is gratis."]}
+ ],
+ "faq": [
+  {"q": "Mag mijn Zondag schermen, laptops en kabels verplaatsen om te poetsen?", "a": "Nee. Je Zondag werkt rond je apparatuur, verplaatst niets en haalt niets uit het stopcontact. Wat in de weg ligt, ruimt je team vooraf op."},
+  {"q": "Kan mijn Zondag de serverruimte of de rack poetsen?", "a": "Standaard blijft die dicht. Wil je dat de vloer buiten de kasten toch gedaan wordt, dan spreek je dat bij de intake uitdrukkelijk af, met wanneer en onder welke voorwaarden."},
+  {"q": "Wat als een collega zijn laptop ontgrendeld laat staan?", "a": "Je Zondag gebruikt geen computer, toetsenbord of muis en leest niet mee. Toch vergrendel je schermen best bij het weggaan. Dat is een gewone afspraak die vooral voor je eigen gemoedsrust zorgt."},
+  {"q": "Op welke dag komt een Zondag best bij een hybride team?", "a": "Op de dag met de minste collega's op kantoor, want dan zijn de bureaus leeg. Werkt je team vooral thuis, dan kan één beurt per week volstaan."},
+  {"q": "Kan mijn Zondag ook de woning van de zaakvoerder doen?", "a": "Ja. Wil je ook thuis hulp, dan neemt hetzelfde zondagsplan de woning mee, bijvoorbeeld voor poetsen, was en strijk of boodschappen. Kantoor en woning staan afzonderlijk op de factuur, zodat je boekhouder ze makkelijk uit elkaar houdt."}
+ ]
+}

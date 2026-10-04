@@ -1,0 +1,32 @@
+{
+ "path": "sectoren/schoonheidsinstituten.html",
+ "title": "Poetshulp voor schoonheidsinstituten: rustig en verzorgd",
+ "desc": "Poetshulp voor schoonheidsinstituten: behandelkamers, onthaal, linnen en handdoeken en sanitair, met respect voor je rustige sfeer. Eén vaste Zondag.",
+ "eyebrow": "Schoonheidsinstituten",
+ "h1": "Poetshulp voor schoonheidsinstituten",
+ "lead": "Wie bij jou binnenstapt, verwacht rust, een goede geur en een kamer waar niets rondslingert. Een vaste Zondag houdt de zaak zo, zonder dat jij er nog tijd voor moet vinden.",
+ "answer": "Voor een schoonheidsinstituut in West- of Oost-Vlaanderen verzorgt Zondags (zondags.be) behandelkamers, onthaal, sanitair en het wassen van linnen en handdoeken, met één vaste persoon op een weekdag naar keuze en een dienstenfactuur aan je vennootschap. De hygiëne van je instrumenten en van de behandeltafel tussen twee klanten blijft bij jou.",
+ "facts": ["Behandelkamers, onthaal en sanitair", "Linnen en handdoeken wassen en plooien", "Product- en geurvoorkeuren in het plan", "Hygiëne van instrumenten blijft bij de zaak", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "De sfeer van je zaak is je visitekaartje", "p": [
+   "Een instituut verkoopt meer dan een behandeling. Klanten betalen ook voor een uur waarin alles klopt: warme handdoeken, een stille kamer, een geur die niet te veel is. Stof op een rek of een vlek op een spiegel breekt dat in één blik. Het onderhoud van je zaak is daarom geen bijzaak, maar een deel van wat je levert."]},
+  {"h2": "Kamer per kamer", "p": [
+   "<ul class=\"ticks\"><li>Behandelkamer: vloer, wastafel, rekken en meubilair afnemen</li><li>Onthaal: balie, zitplekken en de thee- of koffiehoek</li><li>Sanitair voor klanten en team</li><li>Wachtplek: tijdschriften, tafeltjes en vloer</li><li>Linnen en handdoeken: wassen, drogen, plooien en klaarleggen</li></ul>"]},
+  {"h2": "Wat bij de zaak blijft: instrumenten en behandeltafels", "p": [
+   "De hygiëne van instrumenten en van alles wat een klant tijdens de behandeling aanraakt, blijft de verantwoordelijkheid van jouw zaak. Dat geldt voor pincetten en tangetjes net zo goed als voor de behandeltafel tussen twee klanten. Je Zondag werkt aan de kamer rondom, niet aan het materiaal. Hoe zulke afspraken er in de praktijk uitzien, lees je bij <a href=\"vragen/hygiene-afspraken-praktijk.html\">hygiëneafspraken met de poetshulp van je praktijk</a>."]},
+  {"h2": "Producten, geuren en andere voorkeuren", "p": [
+   "Elke zaak heeft zijn eigen smaak. De ene wil enkel geurloze producten, de andere heeft een vast merk dat bij de behandelingen past of laat bepaalde middelen weg voor klanten met een gevoelige huid. Dat zet je allemaal in het zondagsplan, zodat je Zondag niet moet raden en de sfeer in je kamers gelijk blijft. Ook de volgorde kan je bepalen: eerst de kamers, dan het onthaal, dan het sanitair, of net omgekeerd."]},
+  {"h2": "Een moment dat bij een afsprakenzaak past", "p": [
+   "Een instituut draait op afspraken, vaak ook 's avonds en op zaterdag. Die momenten kan een Zondag niet invullen. Wat wel kan: een weekdag met een vrije ochtend, de uren voor de eerste afspraak of de pauze rond de middag. Werk je vanuit een kamer in je woning, dan doet dezelfde Zondag het instituut en het huis in één beurt. Het huishoudelijke deel staat uitgelegd bij <a href=\"beroepen/schoonheidsspecialist.html\">huishoudelijke hulp voor schoonheidsspecialisten</a>."]},
+  {"h2": "Facturatie, btw en de eerste stap", "p": [
+   "Draait je instituut via een vennootschap, dan loopt alles via een dienstenfactuur op haar naam, want dienstencheques vallen voor een vennootschap af. Poetsen in de zaak is een beroepskost. Laat je ook je woning doen, dan wordt dat deel apart gefactureerd en valt het onder een forfaitair voordeel van alle aard, bij regelmatige prestaties door een onderneming met mensen in dienst. Voor de btw loopt dezelfde lijn: in principe terug te vragen op het zakelijke deel voor een btw-plichtige zaak met aftrekrecht, in principe niet op het privédeel. Je accountant bevestigt de details.",
+   "Starten kan met één bericht via het formulier of de chat. Binnen één werkdag krijg je een telefoontje, daarna volgt een intake in je instituut, waar je Zondag kennismaakt met de kamers, het linnen en jouw voorkeuren. Je eerste 2 uur zijn gratis, en wil je daarna niet verder, dan kan je maandelijks opzeggen."]}
+ ],
+ "faq": [
+  {"q": "Kan mijn Zondag werken terwijl er een klant in de zaak is?", "a": "In het onthaal of het sanitair kan dat, maar in een instituut verstoor je beter geen rust. Kies liever een uur zonder afspraken, zodat je Zondag de kamers leeg aantreft."},
+  {"q": "Wie maakt mijn instrumenten en behandeltafels schoon?", "a": "Dat blijft bij jou en je team. Je Zondag poetst de kamer, maar raakt je instrumenten, steriele materialen en wat een klant aanraakt tijdens de behandeling niet aan."},
+  {"q": "Wast mijn Zondag ook de lakens en handdoeken?", "a": "Ja. Handdoeken, lakens en badjassen wassen, drogen en plooien horen erbij, in de machines van je zaak. Heb je er geen, dan zoeken we bij de intake samen een praktische oplossing."},
+  {"q": "Kan ik laten opschrijven welke producten mijn Zondag gebruikt?", "a": "Ja. Voorkeuren zoals geurloos of een vast merk komen in het zondagsplan. Zo blijft de sfeer in je kamers dezelfde, ook wanneer er ooit een andere Zondag komt."},
+  {"q": "Kan dezelfde Zondag mijn instituut en mijn woning doen?", "a": "Ja, als je instituut aan huis is of vlak ernaast. Op de factuur staan het instituut en de woning apart: het eerste als beroepskost, het tweede als privé."}
+ ]
+}

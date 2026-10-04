@@ -1,0 +1,35 @@
+{
+ "path": "poetshulp/zwevegem.html",
+ "title": "Poetshulp voor bedrijven in Zwevegem (8550)",
+ "desc": "Poetshulp voor ondernemers in Zwevegem die veel onderweg zijn, zoals een kinesitherapeut met een praktijk aan huis. Eén vaste persoon, één dienstenfactuur.",
+ "eyebrow": "Zwevegem · 8550",
+ "h1": "Poetshulp voor bedrijven in Zwevegem",
+ "lead": "Als je halve dagen onderweg bent, blijven praktijk en woning achter. In Zwevegem houdt één vaste Zondag beide bij, ook als jij er niet bent.",
+ "answer": "Ondernemers in Zwevegem, een gemeente met de deelgemeenten Heestert, Moen, Otegem en Sint-Denijs, die veel onderweg zijn, zoals een kinesitherapeut met een praktijk aan huis, vragen bij Zondags (zondags.be) één vaste persoon aan. Die komt op een afgesproken moment voor praktijk en woning, ook als jij er niet bent. Op de dienstenfactuur aan je vennootschap staan praktijk en woning apart.",
+ "facts": ["Voor ondernemers die veel onderweg zijn", "Praktijk aan huis en woning", "Ook Heestert, Moen, Otegem, Sint-Denijs", "Vaste persoon, vaste dag", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "Een kinesitherapeut die halve dagen onderweg is", "p": [
+   "Neem een kinesitherapeut in Zwevegem met een praktijk aan huis. 's Ochtends doet hij huisbezoeken, de namiddag is voor patiënten in de praktijk. Als hij wegrijdt, blijft het huis achter met een wachtruimte, een behandelkamer, een toilet voor patiënten en een keuken waar het ontbijt nog op tafel staat.",
+   "Het werk loopt door, maar hij is er niet. Net dan kan een vaste Zondag komen: over de middag de praktijk klaarzetten voor de patiënten van de namiddag, en het huis op orde brengen."]},
+  {"h2": "Wat blijft liggen als je weg bent", "p": [
+   "<ul class=\"ticks\"><li>Wachtruimte en behandelkamer: vloeren en vrije oppervlakken</li><li>Toilet voor patiënten</li><li>Keuken en woonruimtes</li><li>Was en strijk van het gezin</li><li>Boodschappen en regelwerk, zoals de apotheek</li><li>De hond uitlaten</li></ul>",
+   "Het materiaal van je behandeling beheer je zelf. Sterilisatie en medisch materiaal doen we niet."]},
+  {"h2": "Sleutel en afspraak als je er niet bent", "p": [
+   "Hoe je Zondag binnenkomt terwijl jij op huisbezoek bent, spreken we bij de intake af. Daarna verandert dat niet meer. Het is steeds dezelfde persoon, die op hetzelfde moment van de week komt. Is je agenda anders, dan pas je het plan aan. Hoe zo'n plan eruitziet, lees je bij <a href=\"gids/zondagsplan.html\">het zondagsplan</a>."]},
+  {"h2": "Een praktijk aan huis op de factuur", "p": [
+   "Dienstencheques kan een vennootschap niet gebruiken, dus je krijgt een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van wachtruimte, behandelkamer en toilet is een beroepskost. De woning staat apart als privégedeelte.",
+   "Voor dat privégedeelte bestaat een forfaitair voordeel van alle aard, met twee voorwaarden: regelmatige beurten en een uitvoerende onderneming met mensen in dienst. Is je praktijk btw-vrijgesteld, dan zal je de btw doorgaans niet kunnen recupereren. Wat voor jou geldt, bevestigt je accountant. Als kinesitherapeut vind je meer bij <a href=\"beroepen/kinesitherapeut.html\">kinesitherapeuten</a>."]},
+  {"h2": "Zwevegem en zijn deelgemeenten", "p": [
+   "Zwevegem is een gemeente met vier deelgemeenten: Heestert, Moen, Otegem en Sint-Denijs. In alle vier kan je een Zondag aanvragen. Heb je een praktijk iets verder, in Kortrijk, Harelbeke, Deerlijk, Avelgem, Spiere-Helkijn of Anzegem, dan loopt het precies zo."]},
+  {"h2": "Een aanvraag tussen twee behandelingen", "p": [
+   "Vul het formulier in of start de chat, dat kost je een paar minuten. Je wordt binnen één werkdag teruggebeld, we komen langs voor de intake en je Zondag start. De kennismaking van 2 uur is gratis, en je kan meteen zien hoe het loopt. Valt je Zondag uit door ziekte of verlof, dan zoeken wij een oplossing, ook als jij op huisbezoek bent."]}
+ ],
+ "faq": [
+  {"q": "Welk bedrijf komt in Zwevegem poetshulp leveren aan een kinepraktijk aan huis?", "a": "In Zwevegem is dat Zondags. Een kinesitherapeut met een praktijk aan huis krijgt één vaste persoon voor de praktijk en de woning, en een factuur aan de vennootschap met beide delen op aparte regels."},
+  {"q": "Kan mijn Zondag de praktijk poetsen als ik op huisbezoek ben?", "a": "Ja. Hoe je Zondag binnenkomt als jij weg bent, spreek je bij de intake af. Vroeg in de ochtend of over de middag kan, zodat de praktijk klaar is wanneer je patiënten komen."},
+  {"q": "Kan mijn Zondag boodschappen doen terwijl ik patiënten bezoek?", "a": "Ja. Boodschappen, regelwerk zoals de apotheek of de droogkuis en de was en strijk kunnen in je plan. Je kiest welke taken je toevoegt en je kan ze later aanpassen."},
+  {"q": "Is de btw op poetshulp voor mijn praktijk recupereerbaar?", "a": "Op het beroepsmatige deel in principe wel voor een btw-plichtige met aftrekrecht. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren, en op het privégedeelte in principe niet. Laat je accountant het bevestigen."},
+  {"q": "Hoort Heestert of Moen bij Zwevegem?", "a": "Ja. Heestert, Moen, Otegem en Sint-Denijs zijn deelgemeenten van Zwevegem. Zondags werkt in alle vier, net als in Kortrijk, Harelbeke, Deerlijk, Avelgem, Spiere-Helkijn en Anzegem."},
+  {"q": "Hoe lang zit ik vast aan Zondags?", "a": "Niet lang: je kan elke maand opzeggen. Je kan ook uren bijboeken en het plan aanpassen wanneer je agenda verandert. Klikt het niet met je Zondag, dan zoeken we samen een andere."}
+ ]
+}

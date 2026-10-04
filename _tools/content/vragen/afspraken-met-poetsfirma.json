@@ -1,0 +1,78 @@
+{
+ "path": "vragen/afspraken-met-poetsfirma.html",
+ "title": "Welke afspraken leg je vast met een poetsfirma?",
+ "desc": "Taken, dag en uur, sleutel, ziekte en verlof, opzeg en facturatie: de afspraken die je best op papier zet met een poetsfirma, met de aanpak van Zondags.",
+ "eyebrow": "Vraag · Afspraken",
+ "h1": "Welke afspraken leg je vast met een poetsfirma?",
+ "lead": "Goede afspraken voorkomen discussies achteraf. Dit zijn de punten die je best op papier zet voor je start, ook als alles op dat moment nog vanzelf lijkt te lopen.",
+ "answer": "Met een poetsfirma leg je vast welke taken en ruimtes, op welke dag en uur, wie de sleutel heeft, wat er bij ziekte of verlof gebeurt, hoe je wijzigt of opzegt en hoe de facturatie verloopt. Bij Zondags (zondags.be) staat dat in het zondagsplan: steeds dezelfde persoon, een vaste dag en uur, een dienstenfactuur op naam van je vennootschap en een maandelijks opzegbaar abonnement.",
+ "facts": [
+  "Taken, ruimtes, dag en uur",
+  "Sleutel en toegang",
+  "Ziekte, verlof en vervanging",
+  "Opzeg en wijzigingen",
+  "Factuur op naam van je vennootschap"
+ ],
+ "sections": [
+  {
+   "h2": "Taken en ruimtes: wat precies",
+   "p": [
+    "Begin met een lijst per ruimte: wat gebeurt er elke beurt, wat om de zoveel weken en wat helemaal niet. Noteer ook wat uitdrukkelijk buiten de afspraak valt, zoals werken op hoogte, gevelreiniging of ramen die enkel met een ladder bereikbaar zijn. Hoe preciezer de lijst, hoe minder ruimte voor interpretatie. Bij Zondags is dat de kern van je zondagsplan."
+   ]
+  },
+  {
+   "h2": "Dag, uur en duur",
+   "p": [
+    "Spreek een vast moment af en bepaal wat er gebeurt als dat niet lukt: een feestdag, een verbouwing, een vergadering die uitloopt. Spreek ook af hoe lang een beurt duurt en wie aanwezig is. Bij Zondags is je Zondag steeds dezelfde persoon, op een vaste dag en een vast uur, overdag op weekdagen. 's Avonds en in het weekend werkt Zondags nooit."
+   ]
+  },
+  {
+   "h2": "Sleutel, toegang en vertrouwelijkheid",
+   "p": [
+    "<ul class=\"ticks\"><li>Wie de sleutel of toegang krijgt en hoe die bewaard wordt</li><li>Welke ruimtes dicht blijven</li><li>Wat er met documenten op bureaus gebeurt</li><li>Wie je Zondag kan aanspreken als er iets onduidelijk is</li></ul>",
+    "Een vaste persoon maakt dit eenvoudiger, omdat je sleutel bij iemand ligt die je kent."
+   ]
+  },
+  {
+   "h2": "Ziekte, verlof en vervanging",
+   "p": [
+    "Vraag elke firma wat er gebeurt wanneer je poetshulp afwezig is, en wie dat oplost. Bij Zondags zoeken wij een oplossing bij ziekte of verlof, zonder dat je zelf een vervanger moet zoeken. Een vaste vervanger op elk moment beloven we niet, dus spreek af wat je team in de tussentijd zelf doet."
+   ]
+  },
+  {
+   "h2": "Wijzigen, opzeggen en proberen",
+   "p": [
+    "Vraag naar de looptijd, de opzegtermijn en hoe je uren bijboekt of taken wijzigt. Bij Zondags pas je het plan aan of boek je extra uren bij wanneer je zaak verandert, en het abonnement kan je elke maand opzeggen. Proberen kan ook, want je eerste 2 uur zijn gratis. Past de persoon niet bij je team, dan zoeken we samen een andere Zondag."
+   ]
+  },
+  {
+   "h2": "Factuur, contactpersoon en klachten",
+   "p": [
+    "Weet op welke naam de factuur komt en hoe je het beroepsmatige van het privégedeelte scheidt. Bij Zondags krijgt je vennootschap een dienstenfactuur, met die twee delen apart als je woning meekomt. Wat je aan beroepsruimtes laat poetsen, is een beroepskost. Hoe je dat voor je eigen situatie boekt, bevestig je best bij je accountant.",
+    "Spreek ook af waar je terechtkan met een klacht. Bij Zondags kan dat via de chat, per telefoon of WhatsApp op 0470 56 53 58, elke dag van 6 tot 22 uur, of via hello@zondags.be. Wil je een lijst met vragen voor je tekent, lees dan <a href=\"vragen/vragen-aan-poetsfirma.html\">vragen om aan een poetsfirma te stellen</a>. Hoe het plan bij Zondags eruitziet, vind je op <a href=\"gids/zondagsplan.html\">het zondagsplan</a>."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Moet een afspraak met een poetsfirma schriftelijk zijn?",
+   "a": "Het is verstandig. Zet minstens taken, dag en uur, sleutelafspraken, opzeg en facturatie op papier. Bij Zondags staat het meeste daarvan in het zondagsplan dat we samen opmaken."
+  },
+  {
+   "q": "Wat leg ik vast voor ziekte of verlof?",
+   "a": "Vraag de firma hoe ze dat oplost en wie de vervanging regelt. Bij Zondags zoeken we een oplossing, zonder een vaste vervanger te beloven. Spreek met je team af wat er in de tussentijd gebeurt."
+  },
+  {
+   "q": "Welke opzegtermijn moet ik vragen?",
+   "a": "Dat verschilt per firma. Vraag vooraf naar de looptijd en de opzegtermijn, en of je het plan tussentijds kan aanpassen. Bij Zondags kan je het abonnement elke maand opzeggen."
+  },
+  {
+   "q": "Hoe wijzig ik de afspraken later?",
+   "a": "Vraag hoe je uren bijboekt of taken wijzigt, en wat daarvoor nodig is. Bij Zondags boek je uren bij of pas je het plan aan, en dat komt telkens in je zondagsplan te staan."
+  },
+  {
+   "q": "Op wiens naam staat de factuur?",
+   "a": "Dat spreek je vooraf af met de firma. Voor een zaak is de vennootschap de logische naam. Bij Zondags is dat een dienstenfactuur op naam van je vennootschap, met het beroepsmatige en het privégedeelte apart als je woning meekomt. Je accountant bevestigt hoe dat verwerkt wordt."
+  }
+ ]
+}

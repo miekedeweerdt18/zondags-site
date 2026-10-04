@@ -482,3 +482,5 @@ section+section.svc,section+section.fisc,section+section.band,.marquee+section{m
 @media (max-width:900px){.job__img{border-radius:clamp(22px,3vw,40px) clamp(22px,3vw,40px) 0 0}}
 .bt--a img{object-position:22% 50%}.bt--c img{object-position:50% 40%}
 .bt--sun{top:-18px;right:-18px}
+
+.art__body .ticks{margin:6px 0 18px}

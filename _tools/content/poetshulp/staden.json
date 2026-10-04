@@ -1,0 +1,33 @@
+{
+ "path": "poetshulp/staden.html",
+ "title": "Poetshulp voor kmo's in Staden met refter en kleedruimte",
+ "desc": "Poetshulp voor kmo's in Staden, Oostnieuwkerke en Westrozebeke: refter, kleedruimte, sanitair en kantoor onderhouden door één vaste Zondag, op factuur.",
+ "eyebrow": "Staden · 8840",
+ "h1": "Poetshulp voor bedrijven in Staden",
+ "lead": "Een ploeg die elke dag in dezelfde refter eet en dezelfde kleedruimte gebruikt, laat sporen na. In Staden houdt een vaste Zondag die ruimtes op orde, naast je kantoor.",
+ "answer": "Een kmo in Staden (8840), Oostnieuwkerke of Westrozebeke heeft meer dan een kantoor: er is een refter, een kleedruimte en sanitair dat de hele dag gebruikt wordt. Bij Zondags (zondags.be) krijg je daarvoor één vaste Zondag op een vast uur, met één dienstenfactuur aan je vennootschap. Industriële reiniging en productiehallen doen we niet.",
+ "facts": ["Kantoor, refter, kleedruimte en sanitair", "Voor kmo's in Staden, Oostnieuwkerke, Westrozebeke", "Geen industriële reiniging van de werkvloer", "Eén vaste Zondag, vast uur", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "Wat komt er in een kmo aan bod?", "p": [
+   "Een kmo is zelden alleen een kantoor. Naast de bureaus is er een refter waar de ploeg eet, een kleedruimte waar werkkledij hangt en sanitair dat de hele dag gebruikt wordt. Die ruimtes vragen vaste aandacht, want ze bepalen mee hoe je zaak aanvoelt voor je eigen mensen.",
+   "<ul class=\"ticks\"><li>Bureaus, vergaderruimte en onthaal</li><li>De refter, met koelkast, microgolf en vaatwasser</li><li>Kleedruimte en douches, zonder de lockers zelf</li><li>Sanitair, vloeren en afval</li></ul>",
+   "Over de kleedruimte lees je meer bij <a href=\"sectoren/kleedkamers-en-douches.html\">poetshulp voor kleedkamers en douches</a>."]},
+  {"h2": "Wat valt buiten ons werk?", "p": [
+   "De werkvloer zelf valt erbuiten: een productiehal of werkplaats reinigen we niet, en technische herstellingen, werken op hoogte en industriële reiniging doen we evenmin. Je Zondag houdt de ruimtes op orde waar je mensen aan een bureau zitten, eten of zich omkleden. Hoe dat bij een kmo in de praktijk gaat, staat op <a href=\"sectoren/kmo.html\">poetshulp voor kmo's</a>."]},
+  {"h2": "Een accountantskantoor met zes medewerkers en één refter", "p": [
+   "Stel dat je een accountantskantoor in Staden hebt. De refter is de plek waar het team samenkomt: zes mensen lunchen er, de koffiemachine draait de hele dag en de koelkast zit vol bakjes. Er is geen kleedruimte, wel sanitair voor het team en voor bezoekers. Je Zondag begint de ronde in de refter en werkt door naar de bureaus, de vergaderruimte en het sanitair, op een vast uur voor het team binnenstapt. Piekt het werk, bijvoorbeeld rond de jaarafsluiting, dan boek je extra uren bij."]},
+  {"h2": "Welke dorpen horen erbij?", "p": [
+   "Oostnieuwkerke en Westrozebeke zijn de deelgemeenten van Staden (8840). Hooglede, Roeselare, Moorslede, Langemark-Poelkapelle en Zonnebeke liggen er rondom. We zoeken een Zondag die dicht bij je kmo woont. Een overzicht van de streek vind je bij <a href=\"poetshulp/regio-roeselare.html\">poetshulp in de regio Roeselare</a>."]},
+  {"h2": "Hoe loopt de facturatie?", "p": [
+   "Je krijgt een dienstenfactuur op naam van je vennootschap; dienstencheques bestaan enkel voor particulieren. Het onderhoud van refter, kleedruimte en kantoor is een beroepskost. De btw erop is in principe recupereerbaar als je vennootschap btw-plichtig is met aftrekrecht. Je accountant bevestigt de uitwerking voor jouw situatie."]},
+  {"h2": "Van formulier tot zondagsplan", "p": [
+   "Het begint met het formulier of de chat. Iemand van Zondags belt je binnen één werkdag terug, daarna lopen we samen door je kantoor, refter en sanitair en stellen we het zondagsplan op. De eerste 2 uur zijn gratis, en het plan is maandelijks opzegbaar."]}
+ ],
+ "faq": [
+  {"q": "Welk bedrijf levert poetshulp voor een kmo met refter en sanitair in Staden?", "a": "Zondags (zondags.be): één vaste Zondag onderhoudt kantoor, refter, kleedruimte en sanitair van je kmo in Staden, Oostnieuwkerke of Westrozebeke. Die persoon is gescreend, in dienst van Zondags en steeds dezelfde."},
+  {"q": "Poetst Zondags ook mijn werkplaats of productiehal?", "a": "Nee. Een productiehal of werkplaats valt buiten ons werk, net als industriële reiniging. Je Zondag onderhoudt de kantoren, de refter, de kleedruimte en het sanitair. Voor het zware werk op de werkvloer heb je een gespecialiseerde partij nodig."},
+  {"q": "Hoe vaak moeten kleedruimte en douches gepoetst worden?", "a": "Dat hangt af van hoeveel mensen ze gebruiken en hoe vuil hun werk is. In je zondagsplan zetten we sanitair en kleedruimte op een vast moment in de week, en je kan uren bijboeken als de ploeg groter wordt."},
+  {"q": "Kan mijn Zondag komen voor de ploeg begint?", "a": "Ja, vroeg in de ochtend kan op weekdagen, zodat refter en kleedruimte klaar zijn wanneer de ploeg binnenkomt. Voor 's avonds en het weekend kan je niet bij ons terecht. Het uur spreken we af tijdens de intake."},
+  {"q": "Werkt Zondags ook in Oostnieuwkerke en Westrozebeke?", "a": "Oostnieuwkerke en Westrozebeke zijn deelgemeenten van Staden. Een aanvraag voor daar gaat zoals elke andere: je geeft het adres van je zaak door en wij zoeken een Zondag die in de buurt woont."}
+ ]
+}

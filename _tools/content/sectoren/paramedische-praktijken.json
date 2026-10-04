@@ -1,0 +1,33 @@
+{
+ "path": "sectoren/paramedische-praktijken.html",
+ "title": "Poetshulp voor paramedische praktijken: kine, logo, diëtist",
+ "desc": "Poetshulp voor kinesitherapeuten, logopedisten, diëtisten, podologen en ergotherapeuten: behandelruimtes, oefenzaal en wachtzaal, door één vaste Zondag.",
+ "eyebrow": "Paramedische praktijken",
+ "h1": "Poetshulp voor paramedische praktijken",
+ "lead": "Een oefenzaal, een paar behandelruimtes en een wachtzaal: een paramedische praktijk is overzichtelijk, maar het poetswerk vreet toch aan je agenda.",
+ "answer": "Voor paramedische praktijken in West- en Oost-Vlaanderen, zoals kinesitherapeuten, logopedisten, diëtisten, podologen en ergotherapeuten, zorgt Zondags (zondags.be) met één vaste persoon voor behandelruimtes, oefenzaal, wachtzaal en sanitair. Instrumenten en materiaal blijven bij jou. De dienstenfactuur staat op naam van je vennootschap, met een btw-nuance voor vrijgestelde zorgberoepen.",
+ "facts": ["Behandelruimtes, oefenzaal en wachtzaal", "Kine, logo, diëtist, podoloog, ergotherapeut", "Materiaal en instrumenten blijven bij jou", "Btw-nuance voor vrijgestelde zorgberoepen", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "Veel patiënten, weinig tijd tussen de afspraken", "p": [
+   "In een paramedische praktijk volgen de afspraken elkaar vlot op. Tussendoor is er geen tijd om een vloer te dweilen of een wachtzaal af te nemen, terwijl elke patiënt meteen merkt of het er verzorgd uitziet. Een vaste Zondag doet dat werk buiten je spreekuren om, zodat je agenda voor patiënten blijft."]},
+  {"h2": "Wat per beroep verschilt", "p": [
+   "<ul class=\"ticks\"><li>Kinesitherapeut: oefenzaal, behandelruimtes, vloeren en wachtzaal</li><li>Logopedist: kleine kamers, tafels, speelhoek en wachtzaal</li><li>Diëtist: consultatiekamer, onthaal en sanitair</li><li>Podoloog: behandelruimte, vloer en wachtzaal</li><li>Ergotherapeut: oefenruimte, wachtzaal en sanitair</li></ul>",
+   "Heb je een praktijk met meerdere beroepen onder één dak, dan bekijk je ook <a href=\"sectoren/groepspraktijken.html\">poetshulp voor groepspraktijken</a>."]},
+  {"h2": "Wat je zelf blijft doen", "p": [
+   "Alles wat een patiënt tijdens de behandeling aanraakt, blijft jouw verantwoordelijkheid: behandeltafels, toestellen, matten en ballen, instrumenten en het materiaal waarmee je werkt. Je Zondag poetst vloeren, wastafels, oppervlakken rond de toestellen en de gedeelde ruimtes. Voor die afspraken kan je <a href=\"vragen/hygiene-afspraken-praktijk.html\">hygiëneafspraken met de poetshulp van je praktijk</a> als leidraad gebruiken."]},
+  {"h2": "Een vast uur in een vol rooster", "p": [
+   "Zit je rooster vol, met weinig pauzes, dan past een Zondag in de stille uren: vroeg in de ochtend vóór de eerste patiënt, of over de middag wanneer de wachtzaal leeg is. Op een avond of in het weekend werken we niet, ook als je praktijk dan open is. Je kiest een weekdag, en elke week komt dezelfde persoon op hetzelfde uur."]},
+  {"h2": "Praktijk aan huis: praktijk en woning in één beurt", "p": [
+   "Heb je je praktijk in of naast je woning, dan kan dezelfde Zondag de praktijkruimte én het huis doen, op dezelfde dag. Een kinesitherapeut met praktijk aan huis leest wat dat inhoudt bij <a href=\"beroepen/kinesitherapeut.html\">huishoudelijke hulp voor kinesitherapeuten</a>, en een logopedist bij <a href=\"beroepen/logopedist.html\">huishoudelijke hulp voor logopedisten</a>."]},
+  {"h2": "Btw, vennootschap en je accountant", "p": [
+   "Of je praktijk btw-vrijgesteld is, hangt af van je beroep en je activiteiten. Voor een vrijgestelde praktijk geldt dat de btw op poetshulp doorgaans niet recupereerbaar is, ook als het onderhoud een beroepskost is. Voor de woning speelt daarnaast het forfaitair voordeel van alle aard, dat regelmatig werk door een onderneming met mensen in dienst vraagt. Dienstencheques bestaan enkel voor particulieren, dus voor je vennootschap loopt het via een gewone dienstenfactuur, met praktijk en woning apart. Je accountant bevestigt wat voor jou geldt.",
+   "Begin met een aanvraag via het formulier of de chat. Binnen één werkdag word je teruggebeld, en bij de intake in je praktijk lopen we samen door oefenzaal, behandelruimtes en wachtzaal. Een kennismaking van 2 uur kost niets."]}
+ ],
+ "faq": [
+  {"q": "Poetst mijn Zondag de oefenzaal met toestellen en matten?", "a": "De vloer, de ruimte en de oppervlakken rond de toestellen wel. Het ontsmetten van toestellen, matten en alles wat patiënten aanraken tijdens een oefening blijft bij jou en je team."},
+  {"q": "Kan ik als zorgverlener de btw op poetshulp recupereren?", "a": "Een btw-vrijgestelde praktijk kan dat doorgaans niet: de btw op poetshulp blijft dan een kost. Of je praktijk vrijgesteld is, hangt af van je beroep en je activiteiten. Je accountant bevestigt wat voor jou geldt."},
+  {"q": "Kan mijn Zondag poetsen terwijl er patiënten zijn?", "a": "In de wachtzaal en het sanitair kan dat, maar liever niet in een ruimte waar een behandeling loopt. Plan de beurt in een uur zonder afspraken, zoals voor het eerste spreekuur of tijdens een pauze."},
+  {"q": "Werkt Zondags ook voor een praktijk aan huis?", "a": "Ja. Dezelfde Zondag kan de praktijkruimte en de woning in één beurt doen. Op de factuur staan die twee apart, het eerste beroepsmatig en het tweede privé."},
+  {"q": "Wat als ik na een drukke periode een extra beurt nodig heb?", "a": "Een extra beurt boek je als losse opdracht of via extra uren. Je vaste plan loopt ongewijzigd verder, en na een drukke periode keer je gewoon terug naar je gewone ritme."}
+ ]
+}

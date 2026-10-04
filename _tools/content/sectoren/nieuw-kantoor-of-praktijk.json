@@ -1,0 +1,35 @@
+{
+ "path": "sectoren/nieuw-kantoor-of-praktijk.html",
+ "title": "Poetshulp voor een nieuw kantoor of nieuwe praktijk",
+ "desc": "Open je een nieuw kantoor of een nieuwe praktijk? Start met een grondige eerste poetsbeurt en een vast ritme vanaf dag één, met steeds dezelfde Zondag.",
+ "eyebrow": "Nieuwe vestiging",
+ "h1": "Poetshulp voor een nieuw kantoor of een nieuwe praktijk",
+ "lead": "Een nieuwe vestiging opent het best met een ruimte die er verzorgd uitziet en met een poetsritme dat vanaf de eerste week loopt, zonder dat je er zelf aan moet denken.",
+ "answer": "Zondags (zondags.be) verzorgt de eerste grondige poetsbeurt van een nieuw kantoor of een nieuwe praktijk en zet daarna een vast ritme op, met steeds dezelfde Zondag op een vaste dag en een vast uur. Een bouwopkuis na de werken blijft bij de aannemer. Zondags werkt overdag op weekdagen, in West- en Oost-Vlaanderen, en factureert aan je vennootschap.",
+ "facts": ["Eerste grondige beurt, daarna vast ritme", "Steeds dezelfde Zondag", "Geen bouwopkuis na werken", "Meegroeien: uren bijboeken kan", "Factuur aan je vennootschap", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "Eerst de grens: bouwopkuis of eerste poetsbeurt", "p": [
+   "Na een nieuwbouw of een ingrijpende verbouwing zit er bouwstof in de hoeken, liggen er verfspatten op het glas en kleeft er folie op de vloer. Die bouwopkuis is werk voor de aannemer of een gespecialiseerd bedrijf, en dat doen we niet. Onze eerste beurt begint wanneer de werken klaar zijn en de ruimte is opgeleverd.",
+   "Neem je een bestaand pand over van een vorige gebruiker, dan is de eerste grondige beurt precies wat je nodig hebt: vloeren, sanitair, keuken en ramen langs binnen krijgen een volledige schoonmaak voor jij of je team erin trekt."]},
+  {"h2": "Een planning voor de weken voor de opening", "p": [
+   "<ul class=\"ticks\"><li>Intake ter plaatse zodra je de sleutels hebt, met een rondgang door alle ruimtes</li><li>Eerste grondige beurt zolang het pand leeg of bijna leeg is, want vloeren zijn dan het makkelijkst te doen</li><li>Afwerking in de laatste dagen voor de opening, nadat de laatste leveringen binnen zijn</li><li>Eerste gewone beurt in de openingsweek, op de vaste dag en het vaste uur van je Zondag</li></ul>",
+   "Wat wanneer past, hangt af van je opleverdatum en je verhuis. Dat bespreken we tijdens de intake. De beurten vinden altijd plaats op weekdagen, overdag."]},
+  {"h2": "Een vast ritme vanaf dag één", "p": [
+   "Gewoontes zijn in een nieuwe zaak snel gevormd. Begin je meteen met een vaste dag en een vast uur, dan went je team eraan en weet je Zondag vanaf week één waar alles staat. Een nieuwe praktijk met patiënten vanaf de eerste dag heeft daar meteen baat bij: wachtzaal en behandelruimtes zijn dan elke week op orde.",
+   "Begin je klein, dan hoeft het plan dat ook te zijn. Start met weinig uren en boek er bij als er meer mensen, meer ruimtes of meer bezoekers bijkomen. Het plan aanpassen kan, en het abonnement is maandelijks opzegbaar."]},
+  {"h2": "Voorbeeld: een tandartspraktijk in een nieuw pand", "p": [
+   "Stel: je opent een tandartspraktijk met een wachtzaal, twee behandelkamers en een personeelsruimte. De aannemer ruimt zijn bouwstof en bouwafval op. Daarna komt je Zondag voor de eerste grondige beurt: vloeren, sanitair, keuken, wachtzaal en behandelkamers. In de week voor de opening volgt een afwerkingsbeurt, en vanaf de openingsweek komt dezelfde Zondag elke week op dezelfde dag.",
+   "Sterilisatie en medisch materiaal blijven bij je team. Dat doet Zondags niet."]},
+  {"h2": "Factuur en accountant", "p": [
+   "Het onderhoud van je nieuwe kantoor of praktijk staat als beroepskost op een gewone dienstenfactuur op naam van je vennootschap. Een vennootschap kan geen dienstencheques kopen. Is je zaak btw-plichtig met aftrekrecht, dan is de btw op het beroepsmatige deel in principe recupereerbaar; een btw-vrijgestelde praktijk kan dat doorgaans niet. Laat je accountant bevestigen wat voor jouw situatie geldt."]},
+  {"h2": "Zo start je", "p": [
+   "Vraag aan via het formulier of de chat zodra je weet wanneer je de sleutels krijgt. Binnen één werkdag belt iemand je terug, daarna volgen de intake en je zondagsplan. Wat je van dat gesprek mag verwachten, lees je in de gids over de <a href=\"gids/intakegesprek.html\">intake</a>."]}
+ ],
+ "faq": [
+  {"q": "Doet Zondags de bouwopkuis voor mijn nieuwe kantoor?", "a": "Nee. De bouwopkuis na nieuwbouw of verbouwing hoort bij de aannemer of een gespecialiseerd bedrijf. Zondags begint met de eerste grondige poetsbeurt wanneer de ruimte is opgeleverd en klaar is om in gebruik te nemen."},
+  {"q": "Wanneer neem ik best contact op voor een nieuwe praktijk?", "a": "Zodra je weet wanneer je de sleutels krijgt. Dan bellen we binnen één werkdag terug en plannen we de intake voor de opening, zodat de eerste grondige beurt en je vaste ritme tijdig klaarstaan."},
+  {"q": "Kan ik klein beginnen en later uren bijboeken?", "a": "Ja. Je start met de uren die nu nodig zijn en breidt uit als je zaak groeit. Uren bijboeken of het plan aanpassen kan, en het abonnement is maandelijks opzegbaar."},
+  {"q": "Kan mijn woning in hetzelfde plan als mijn nieuwe zaak?", "a": "Ja. Kantoor of praktijk en woning kunnen in één plan, met dezelfde Zondag. De factuur splitst het beroepsmatige en het privégedeelte. Laat je accountant bevestigen hoe dat voor jouw situatie werkt."},
+  {"q": "Is de eerste beurt in mijn nieuwe pand gratis?", "a": "De eerste 2 uur zijn gratis, om kennis te maken. Voor een grondige eerste beurt in een nieuwe ruimte bepalen we samen na de intake hoeveel uren nodig zijn, op maat van je pand."}
+ ]
+}

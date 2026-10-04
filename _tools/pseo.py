@@ -75,7 +75,7 @@ def photo(img, alt):
 
 def form_b2b(source, gemeente=''):
     return f'''<section class="qform wrap" id="formulier">
-  <div><p class="eyebrow" style="color:var(--muted)">Vrijblijvend</p><h2>Vraag uw <em class="s">Zondag aan.</em></h2><p>Binnen één werkdag belt een echte mens u terug met een voorstel op maat. De eerste 2 uur zijn gratis, om kennis te maken.</p></div>
+  <div><p class="eyebrow" style="color:var(--muted)">Vrijblijvend</p><h2>Vraag uw <em class="s">Zondag aan.</em></h2><p>Binnen één werkdag belt een van ons u persoonlijk terug met een voorstel op maat. De eerste 2 uur zijn gratis, om kennis te maken.</p></div>
   <form class="form qf" data-quick novalidate action="https://formsubmit.co/mieke@hummingbirds.be" method="POST">
     <input type="hidden" name="_subject" value="Aanvraag bedrijf via zondags.be/{H(source)}">
     <input type="hidden" name="_template" value="table"><input type="hidden" name="_captcha" value="false">
@@ -123,7 +123,7 @@ def related(title, links):
     return f'<section class="rel wrap"><p class="eyebrow" style="color:var(--muted)">{H(title)}</p><div class="rel__grid">{lis}</div></section>\n'
 
 # --------- gedeelde inhoudsblokken (variatie per pagina) ---------
-STAPPEN=[("Hoe het werkt",["<b>1. U doet uw aanvraag.</b> In twee minuten laat u weten wat u nodig hebt. Binnen één werkdag belt een echte mens u terug.","<b>2. Wij komen langs voor de intake.</b> We bekijken uw woning of kantoor en leggen samen uw zondagsplan vast: wat er gebeurt, wanneer, en hoe u het graag heeft.","<b>3. Uw Zondag begint.</b> Vanaf de eerste week komt dezelfde persoon op hetzelfde moment. U hoeft niets meer te regelen."])]
+STAPPEN=[("Hoe het werkt",["<b>1. U doet uw aanvraag.</b> In twee minuten laat u weten wat u nodig hebt. Binnen één werkdag belt een van ons u persoonlijk terug.","<b>2. Wij komen langs voor de intake.</b> We bekijken uw woning of kantoor en leggen samen uw zondagsplan vast: wat er gebeurt, wanneer, en hoe u het graag heeft.","<b>3. Uw Zondag begint.</b> Vanaf de eerste week komt dezelfde persoon op hetzelfde moment. U hoeft niets meer te regelen."])]
 FISC=("Geboekt op uw vennootschap",["Een vennootschap kan geen dienstencheques kopen; die zijn voorbehouden aan particulieren. Zondags werkt daarom met een gewone dienstenfactuur op naam van uw vennootschap, voor zowel uw kantoor of praktijk als uw privéruimtes.","Voor het privégedeelte wordt een forfaitair voordeel van alle aard aangerekend. De prestaties moeten regelmatig zijn en gebeuren via een onderneming met mensen in dienst. Een abonnement bij Zondags voldoet aan beide. Laat uw accountant dit steeds bevestigen voor uw eigen situatie."])
 WAT_IS=[("Wat is een Zondag?","Een Zondag is een vaste medewerker van Zondags die u inboekt voor een vast aantal uren per maand op uw zaak of vennootschap. Steeds dezelfde persoon, op dezelfde dag, op hetzelfde uur. Door ons gescreend en in dienst van Zondags."),
         ("Wat doet een Zondag?","Poetsen, de was en strijk, koken en boodschappen, de kinderen ophalen en begeleiden, de tuin, uw kantoor of praktijk en uw huis terwijl u weg bent. Eigenlijk elk klusje in of rond het huis dat niet te technisch is.")]
@@ -136,7 +136,7 @@ JOB_FAQ=[("Heb ik een diploma nodig?","Nee. Wat telt, is dat u betrouwbaar bent 
          ("Werk ik telkens op een ander adres?","Nee. U werkt bij vaste klanten volgens een plan dat op voorhand is afgesproken."),
          ("Worden mijn verplaatsingen vergoed?","Ja, verplaatsingen worden vergoed en alles is in orde op papier."),
          ("Kan ik als student werken?","Ja, studenten vanaf 18 jaar zijn welkom. U kiest zelf hoeveel dagen.")]
-JOB_BLOK=[("Wat u bij Zondags krijgt",["<b>Vast rooster.</b> Vaste dagen, vaste uren, vaste adressen. Geen avonden, geen weekends.","<b>Afwisselend werk.</b> Huishouden, tuin, boodschappen of de kinderen ophalen. Nooit acht uur hetzelfde.","<b>Correct betaald.</b> Correcte verloning, verplaatsingen vergoed, alles in orde op papier.","<b>Bij ons bent u geen schoonmaakhulp.</b> U bent iemands Zondag: de vaste persoon op wie een gezin of bedrijf rekent."]),
+JOB_BLOK=[("Wat u bij Zondags krijgt",["<b>Vast rooster.</b> Vaste dagen, vaste uren, vaste adressen. Geen avonden, geen weekends.","<b>Afwisselend werk.</b> Huishouden, tuin, boodschappen of de kinderen ophalen. Nooit acht uur hetzelfde.","<b>Beter dan het barema.</b> Verloning boven het barema, verplaatsingen vergoed, alles in orde op papier.","<b>Bij ons bent u geen schoonmaakhulp.</b> U bent iemands Zondag: de vaste persoon op wie een gezin of bedrijf rekent."]),
           ("Hoe solliciteren werkt",["Laat onderaan uw gegevens achter. Wij bellen u binnen de twee werkdagen voor een kort gesprek. Klikt het, dan zoeken we klanten die passen bij uw woonplaats, uw uren en wat u graag doet."])]
 
 def week(key):
@@ -165,6 +165,15 @@ ZONE={
  'westhoek':("de Westhoek","Ook in de Westhoek rond Ieper zoeken we ondernemers en Zondags."),
  'ardennen':("de Vlaamse Ardennen","Rond Oudenaarde en Kruisem breiden we onze regio uit."),
 }
+
+ERV='''<section class="erv wrap" aria-label="Ervaringen">
+  <p class="eyebrow" style="color:var(--muted)">Ervaringen</p>
+  <div class="erv__grid">
+    <figure class="erv__item"><p>Rika C. heeft een Zondag voor het volledige huishouden en is er zeer tevreden over.</p><figcaption>Rika C. <span>Allround hulp in huis</span></figcaption></figure>
+    <figure class="erv__item"><p>Koen D. laat zijn Zondag elke week de boodschappen doen en koken. Het eten staat klaar wanneer hij thuiskomt.</p><figcaption>Koen D. <span>Boodschappen en koken</span></figcaption></figure>
+  </div>
+</section>
+'''
 
 def slug(s): return re.sub(r'[^a-z0-9]+','-',s.lower().replace('é','e').replace('ë','e')).strip('-')
 
@@ -204,9 +213,9 @@ for s,mv,ev,plek,ritme,detail in BEROEPEN:
     rel=[(f'Voor {b[1]}',f'beroepen/{b[0]}.html') for b in BEROEPEN if b[0]!=s][:0]
     others=[b for b in BEROEPEN if b[0]!=s]; i=BEROEPEN.index([b for b in BEROEPEN if b[0]==s][0])
     rel=[(f'Voor {b[1]}',f'beroepen/{b[0]}.html') for b in (others[i:]+others[:i])[:4]]+[('Praktijkschoonmaak','diensten/praktijkschoonmaak.html'),('Kan een vennootschap dienstencheques kopen?','gids/dienstencheques-vennootschap.html')]
-    body=phero('Voor '+mv,title,intro)+article('In het kort',aside,secs,'#formulier','Vraag uw Zondag aan')+photo(pick(s,['01-poetsen','04-koken','05-wassen','06-strijken']), '')+faq_html(faq)+form_b2b(path)+related('Verder lezen',rel)
+    body=phero('Voor '+mv,title,intro)+article('In het kort',aside,secs,'#formulier','Vraag uw Zondag aan')+photo(pick(s,['01-poetsen','04-koken','05-wassen','06-strijken']), '')+ERV+faq_html(faq)+form_b2b(path)+related('Verder lezen',rel)
     ld=[crumbs([('Home',''),('Beroepen','beroepen/'),(title,path.replace('.html',''))]),faqld(faq),
-        {"@context":"https://schema.org","@type":"Service","name":title,"serviceType":"Huishoudelijke hulp voor ondernemers","provider":{"@type":"LocalBusiness","name":"Zondags","url":BASE},"audience":{"@type":"BusinessAudience","name":mv},"areaServed":"West-Vlaanderen"}]
+        {"@context":"https://schema.org","@type":"Service","name":title,"serviceType":"Huishoudelijke hulp voor ondernemers","provider":{"@type":"LocalBusiness","name":"Zondags","url":BASE},"audience":{"@type":"BusinessAudience","name":mv},"areaServed":["West-Vlaanderen","Oost-Vlaanderen"]}]
     write(path, shell(1,path,f'{title} | Zondags',f'{intro[:150]}',body,ld), title,'beroepen')
 
 # ---------------- DIENSTEN ----------------
@@ -222,9 +231,9 @@ for s,titel,h1,kort,taken,img in DIENSTEN:
     faq=[(f'Kan {titel.lower()} gecombineerd worden met andere taken?','Ja. Uw Zondag combineert taken in en rond het huis in één zondagsplan.')]+B2B_FAQ
     others=[d for d in DIENSTEN if d[0]!=s]
     rel=[(d[1],f'diensten/{d[0]}.html') for d in others[:4]]+[('Hoe het werkt','hoe-het-werkt.html'),('Voor zaakvoerders','beroepen/zaakvoerder.html')]
-    body=phero('Dienst',titel,kort)+article('In het kort',taken[:4]+['Geboekt op uw vennootschap'],secs,'#formulier','Vraag uw Zondag aan')+photo(img,'')+faq_html(faq)+form_b2b(path)+related('Andere diensten',rel)
+    body=phero('Dienst',titel,kort)+article('In het kort',taken[:4]+['Geboekt op uw vennootschap'],secs,'#formulier','Vraag uw Zondag aan')+photo(img,'')+ERV+faq_html(faq)+form_b2b(path)+related('Andere diensten',rel)
     ld=[crumbs([('Home',''),('Diensten','diensten/'),(titel,path.replace('.html',''))]),faqld(faq),
-        {"@context":"https://schema.org","@type":"Service","name":titel,"description":kort,"provider":{"@type":"LocalBusiness","name":"Zondags","url":BASE},"areaServed":"West-Vlaanderen"}]
+        {"@context":"https://schema.org","@type":"Service","name":titel,"description":kort,"provider":{"@type":"LocalBusiness","name":"Zondags","url":BASE},"areaServed":["West-Vlaanderen","Oost-Vlaanderen"]}]
     write(path, shell(1,path,f'{titel} | Zondags',kort+' Voor ondernemers, geboekt op uw vennootschap.',body,ld), titel,'diensten')
 
 # ---------------- GIDSEN ----------------
@@ -235,7 +244,7 @@ for s,titel,lead,secs,faq in GIDSEN:
     fq=faq+B2B_FAQ[:2]
     others=[g for g in GIDSEN if g[0]!=s]; i=[g[0] for g in GIDSEN].index(s)
     rel=[(g[1],f'gids/{g[0]}.html') for g in (others[i:]+others[:i])[:6]]
-    body=phero('Gids',titel,lead)+article('Kort antwoord',[lead.split('. ')[0].rstrip('.')+'.','Laat uw accountant meekijken','Zondags levert een duidelijke factuur'],allsecs,'#formulier','Vraag uw Zondag aan')+faq_html(fq)+form_b2b(path)+related('Meer gidsen',rel)
+    body=phero('Gids',titel,lead)+article('Kort antwoord',[lead.split('. ')[0].rstrip('.')+'.','Laat uw accountant meekijken','Zondags levert een duidelijke factuur'],allsecs,'#formulier','Vraag uw Zondag aan')+ERV+faq_html(fq)+form_b2b(path)+related('Meer gidsen',rel)
     ld=[crumbs([('Home',''),('Gids','gids/'),(titel,path.replace('.html',''))]),faqld(fq),
         {"@context":"https://schema.org","@type":"Article","headline":titel,"description":lead,"inLanguage":"nl-BE","dateModified":TODAY,"author":{"@type":"Organization","name":"Zondags"},"publisher":{"@type":"Organization","name":"Zondags","url":BASE}}]
     write(path, shell(1,path,f'{titel} | Zondags',lead[:155],body,ld), titel,'gids')
@@ -269,7 +278,7 @@ for plaats,pc,zone in PLAATSEN:
           ('Ook in de buurt',['Zondags is ook actief in '+', '.join(p[0] for p in nb[:-1])+' en '+nb[-1][0]+'.'])]
     faq=[(f'Is Zondags actief in {plaats}?',f'Ja. {plaats} ({pc}) hoort bij {zn}, waar we ondernemers helpen met een vaste Zondag.')]+B2B_FAQ
     rel=[(f'Huishoudelijke hulp in {p[0]}',f'regio/huishoudhulp-{slug(p[0])}.html') for p in nb[:4]]+[(f'Jobs in {plaats}',f'jobs/huishoudhulp-{sp}.html'),('Voor zaakvoerders','beroepen/zaakvoerder.html')]
-    body=phero(f'{plaats} · {pc}',title,intro)+article(f'In {plaats}',['Woning en kantoor in één plan','Steeds dezelfde persoon','Geboekt op uw vennootschap','Eerste 2 uur gratis'],secs,'#formulier','Vraag uw Zondag aan')+photo(pick(plaats,['01-poetsen','04-koken','05-wassen','07-tuin']),'')+faq_html(faq)+form_b2b(path,plaats)+related('In de buurt',rel)
+    body=phero(f'{plaats} · {pc}',title,intro)+article(f'In {plaats}',['Woning en kantoor in één plan','Steeds dezelfde persoon','Geboekt op uw vennootschap','Eerste 2 uur gratis'],secs,'#formulier','Vraag uw Zondag aan')+photo(pick(plaats,['01-poetsen','04-koken','05-wassen','07-tuin']),'')+ERV+faq_html(faq)+form_b2b(path,plaats)+related('In de buurt',rel)
     ld=[crumbs([('Home',''),('Regio','regio/'),(title,path.replace('.html',''))]),faqld(faq),
         {"@context":"https://schema.org","@type":"Service","name":title,"provider":{"@type":"LocalBusiness","name":"Zondags","url":BASE,"address":{"@type":"PostalAddress","streetAddress":"Jan Van Eyckstraat 2","postalCode":"8510","addressLocality":"Marke","addressCountry":"BE"}},"areaServed":{"@type":"City","name":plaats}}]
     write(path, shell(1,path,f'Huishoudhulp voor ondernemers in {plaats} | Zondags',intro[:155],body,ld), title,'regio')

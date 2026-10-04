@@ -106,6 +106,7 @@
     if($('.hero .rot')) gsap.from('.hero .rot',{yPercent:115,duration:1.1,ease:'expo.out',delay:.8});
     gsap.from('.hero__lead,.hero__ctas,.hero__note,.phero p',{y:24,opacity:0,duration:1,ease:'expo.out',stagger:.08,delay:.9});
   }
+  if($('.bento')) gsap.from('.bento .bt',{y:50,scale:.94,opacity:0,duration:1.2,ease:'expo.out',stagger:.08,delay:.3});
   if($('.sun')) gsap.from('.sun',{scale:.9,opacity:.2,duration:1.6,ease:'expo.out',delay:.4});
 
   /* Opening: cirkel wordt volledig beeld */

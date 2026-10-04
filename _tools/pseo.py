@@ -32,7 +32,7 @@ def shell(depth, path, title, desc, body, ld_list, noindex=False):
     h=re.sub(r'<meta name="description" content="[^"]*">',f'<meta name="description" content="{H(desc)}">',h)
     h=re.sub(r'<meta property="og:title" content="[^"]*">',f'<meta property="og:title" content="{H(title)}">',h)
     h=re.sub(r'<meta property="og:description" content="[^"]*">',f'<meta property="og:description" content="{H(desc)}">',h)
-    url=BASE+path.replace('.html','')
+    url=BASE+re.sub(r'(^|/)index$',r'\1',path.replace('.html',''))
     h=re.sub(r'<link rel="canonical" href="[^"]*">',f'<link rel="canonical" href="{url}">',h)
     h=re.sub(r'<meta property="og:url" content="[^"]*">',f'<meta property="og:url" content="{url}">',h)
     h=h.replace(' aria-current="page"','')
@@ -299,6 +299,40 @@ for plaats,pc,zone in PLAATSEN:
     ld=[crumbs([('Home',''),('Jobs','jobs/'),(title,path.replace('.html',''))]),faqld(JOB_FAQ),jp]
     write(path, shell(1,path,f'Job als huishoudhulp in {plaats} | Zondags',intro[:155],body,ld), title,'jobs')
 
+
+# ---------------- PIJLERPAGINA'S (GEO: antwoorden voor ChatGPT, Perplexity, Gemini) ----------------
+from geo_pillars import PILLARS
+ORG_REF={"@id":BASE+"#org"}
+AREAS=[{"@type":"AdministrativeArea","name":"West-Vlaanderen"},{"@type":"AdministrativeArea","name":"Oost-Vlaanderen"}]
+for P in PILLARS:
+    path=P['path']; kind=P['kind']; depth=path.count('/')
+    flow='werk' if kind=='job' else 'hulp'
+    secs=list(P['sections'])
+    has_fisc=any('fisca' in h.lower() or 'vennootschap' in h.lower() for h,_ in secs)
+    if kind=='job': secs+=[dag(path), VERWACHT, BEGELEID]
+    elif kind=='about': secs+=[VAST, STAPPEN[0]]
+    else: secs+=[VAST]+([] if has_fisc else [FISC])+[STAPPEN[0]]
+    art=article('In het kort',P['facts'],secs,'#formulier','Meld je aan via de chat')
+    art=art.replace('class="btn btn--zon" href="#formulier"','class="btn btn--zon" href="#formulier" data-chat="%s"'%flow,1)
+    body=phero(P['eyebrow'],P['h1'],P['lead'])+art+photo(P['img'],'')+(ERV if kind!='job' else '')+faq_html(P['faq'])+(form_job(path) if kind=='job' else form_b2b(path))+related('Verder lezen',P['related'])
+    clean=re.sub(r'(^|/)index$',r'\1',path.replace('.html',''))
+    if kind=='job':
+        cr=crumbs([('Home',''),('Jobs','jobs/'),(P['h1'],clean)])
+        jp={"@context":"https://schema.org","@type":"JobPosting","title":P['h1']+' bij Zondags',"description":'<p>'+H(P['lead'])+'</p><p>'+H(' '.join(P['facts']))+'.</p>',
+            "datePosted":TODAY,"validThrough":(datetime.date.today()+datetime.timedelta(days=90)).isoformat(),"employmentType":P.get('emp',['PART_TIME']),
+            "hiringOrganization":{"@type":"Organization","name":"Zondags","sameAs":BASE,"url":BASE},"directApply":True,"workHours":"Overdag, geen avonden en geen weekends",
+            "jobLocation":[{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Kortrijk","postalCode":"8500","addressRegion":"West-Vlaanderen","addressCountry":"BE"}},
+                           {"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Oudenaarde","postalCode":"9700","addressRegion":"Oost-Vlaanderen","addressCountry":"BE"}}]}
+        ld=[cr,faqld(P['faq']),jp]; grp='jobs'
+    elif kind=='about':
+        ld=[crumbs([('Home',''),('Over Zondags',clean)]),faqld(P['faq']),{"@context":"https://schema.org","@type":"AboutPage","name":P['h1'],"url":BASE+clean,"about":ORG_REF,"inLanguage":"nl-BE"}]; grp='over'
+    else:
+        items=[('Home',''),('Voor bedrijven','bedrijven/')]+([] if clean=='bedrijven/' else [(P['h1'],clean)])
+        ld=[crumbs(items),faqld(P['faq']),{"@context":"https://schema.org","@type":"Service","name":P['h1'],"description":P['lead'],"serviceType":P['eyebrow'],
+            "provider":{"@type":"LocalBusiness","@id":BASE+"#org","name":"Zondags","url":BASE},"areaServed":AREAS,"audience":{"@type":"BusinessAudience","name":"Bedrijven, ondernemers en vrije beroepen"}}]; grp='bedrijven'
+    write(path, shell(depth,path,P['title'],P['desc'],body,ld), P['h1'], grp)
+PILLAR_JOBS=[(P['h1'],P['path']) for P in PILLARS if P['kind']=='job']
+
 # ---------------- HUBS ----------------
 HUBS={'beroepen':('Voor wie','Huishoudelijke hulp per beroep','Voor artsen, vrije beroepen en zaakvoerders: één vaste Zondag voor praktijk en woning.'),
       'diensten':('Diensten','Alle diensten van uw Zondag','Van poetsen en strijken tot koken, de kinderen en de tuin.'),
@@ -308,15 +342,16 @@ HUBS={'beroepen':('Voor wie','Huishoudelijke hulp per beroep','Voor artsen, vrij
 for folder,(eb,t,lead) in HUBS.items():
     items=sorted([p for p in pages if p[3]==folder or (folder=='jobs' and p[0].startswith('jobs/'))],key=lambda x:x[1])
     lis=''.join(f'<a class="rel__a" href="{p[0]}">{H(p[1])}<span aria-hidden="true">&rarr;</span></a>' for p in items if p[0].startswith(folder+'/'))
-    body=phero(eb,t,lead)+f'<section class="rel wrap" style="padding-top:0"><div class="rel__grid rel__grid--hub">{lis}</div></section>\n'+(form_job(folder+'/') if folder=='jobs' else form_b2b(folder+'/'))
+    feat=related('Start hier',PILLAR_JOBS) if folder=='jobs' else ''
+    body=phero(eb,t,lead)+feat+f'<section class="rel wrap" style="padding-top:0"><div class="rel__grid rel__grid--hub">{lis}</div></section>\n'+(form_job(folder+'/') if folder=='jobs' else form_b2b(folder+'/'))
     pg=shell(1,folder+'/index.html',f'{t} | Zondags',lead,body,[crumbs([('Home',''),(t,folder+'/')])])
     os.makedirs(folder,exist_ok=True); open(f'{folder}/index.html','w').write(convert_html(pg))
 
 # ---------------- SITEMAP ----------------
 core=['','wat-we-doen','menu','hoe-het-werkt','zondag-worden','aanvraag']+[h+'/' for h in HUBS]
-allu=core+[p[0].replace('.html','') for p in pages]
+allu=core+[re.sub(r'(^|/)index$',r'\1',p[0].replace('.html','')) for p in pages]
 open('sitemap.xml','w').write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join(f'  <url><loc>{BASE}{u}</loc><lastmod>{TODAY}</lastmod></url>\n' for u in allu)+'</urlset>\n')
-json.dump([{'path':p[0],'title':p[1],'words':p[2],'group':p[3]} for p in pages],open('pages.json','w'),ensure_ascii=False,indent=0)
+json.dump([{'path':p[0],'title':p[1],'words':p[2],'group':p[3]} for p in pages],open('_tools/pages.json','w'),ensure_ascii=False,indent=0)
 wc=[p[2] for p in pages]
 print('pagina\'s:',len(pages),'min woorden:',min(wc),'gem:',sum(wc)//len(wc))
 from collections import Counter; print(Counter(p[3] for p in pages))

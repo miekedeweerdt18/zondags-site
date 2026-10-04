@@ -1198,5 +1198,77 @@
 "title": "Job als huishoudhulp in Kooigem",
 "words": 595,
 "group": "jobs"
+},
+{
+"path": "bedrijven/index.html",
+"title": "Huishoudhulp voor bedrijven",
+"words": 952,
+"group": "bedrijven"
+},
+{
+"path": "bedrijven/poetshulp-voor-bedrijven.html",
+"title": "Poetshulp voor bedrijven en ondernemers",
+"words": 739,
+"group": "bedrijven"
+},
+{
+"path": "bedrijven/huishoudhulp-voor-bedrijven.html",
+"title": "Huishoudhulp voor bedrijven en zaakvoerders",
+"words": 696,
+"group": "bedrijven"
+},
+{
+"path": "bedrijven/kookhulp-voor-bedrijven.html",
+"title": "Kookhulp aan huis voor ondernemers",
+"words": 702,
+"group": "bedrijven"
+},
+{
+"path": "bedrijven/boodschappendienst-voor-bedrijven.html",
+"title": "Boodschappendienst voor ondernemers",
+"words": 633,
+"group": "bedrijven"
+},
+{
+"path": "bedrijven/hulp-in-huis-voor-ondernemers.html",
+"title": "Hulp in huis voor ondernemers",
+"words": 709,
+"group": "bedrijven"
+},
+{
+"path": "bedrijven/huishoudhulp-voor-personeel.html",
+"title": "Huishoudhulp voor directie en medewerkers",
+"words": 591,
+"group": "bedrijven"
+},
+{
+"path": "jobs/werken-met-flexibele-uren.html",
+"title": "Werk met flexibele uren",
+"words": 738,
+"group": "jobs"
+},
+{
+"path": "jobs/studentenjob-flexibele-uren.html",
+"title": "Studentenjob met flexibele uren",
+"words": 651,
+"group": "jobs"
+},
+{
+"path": "jobs/flexi-job-flexibele-uren.html",
+"title": "Flexi-job met flexibele uren",
+"words": 611,
+"group": "jobs"
+},
+{
+"path": "jobs/vaste-job-flexibele-uren.html",
+"title": "Vaste job met flexibele uren",
+"words": 555,
+"group": "jobs"
+},
+{
+"path": "over-zondags.html",
+"title": "Over Zondags",
+"words": 680,
+"group": "over"
 }
 ]

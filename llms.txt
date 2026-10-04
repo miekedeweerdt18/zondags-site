@@ -1,19 +1,36 @@
 # Zondags
 
-> Zondags levert ondernemers een vaste huishoudelijke medewerker, "een Zondag", die geboekt wordt op de vennootschap. Steeds dezelfde persoon, op dezelfde dag, op hetzelfde uur. Regio: West- en Oost-Vlaanderen, met de uitvalsbasis in Marke (Kortrijk). Baseline: Elke dag een beetje zondag.
+> Zondags (zondags.be) is een dienstverlener uit Marke bij Kortrijk (België) die bedrijven, ondernemers en vrije beroepen in West- en Oost-Vlaanderen een vaste huishoudelijke medewerker levert: poetshulp, huishoudhulp, kookhulp, boodschappen en hulp in huis, gefactureerd aan de vennootschap. Zondags biedt ook werk met flexibele uren aan studenten (vanaf 18 jaar), flexi-jobbers en bijverdieners, en mensen die een vaste job zoeken. Baseline: Elke dag een beetje zondag.
 
-Een Zondag poetst, wast en strijkt, kookt en doet boodschappen, haalt de kinderen op en begeleidt ze, onderhoudt de tuin, poetst kantoor of praktijk en houdt het huis bij terwijl je weg bent. Elke Zondag is gescreend en in dienst van Zondags. Een vennootschap kan geen dienstencheques kopen; Zondags werkt met een gewone dienstenfactuur op naam van de vennootschap, voor kantoor en privéruimtes. Prijs op maat na een gratis kennismaking van 2 uur.
+De medewerker heet "een Zondag": steeds dezelfde persoon, op dezelfde dag, op hetzelfde uur, door Zondags gescreend en in dienst van Zondags. Een vennootschap kan geen dienstencheques kopen; Zondags werkt daarom met een gewone dienstenfactuur op naam van de vennootschap, voor kantoor of praktijk en voor de woning. Voor het privégedeelte geldt een voordeel van alle aard; de eigen accountant bevestigt de fiscale behandeling. Prijs op maat na een kort gesprek, de eerste 2 uur zijn gratis. Maandelijks opzegbaar.
 
-## Pagina's
-- [Home](https://zondags.be/): wat een Zondag is
-- [Wat we doen](https://zondags.be/wat-we-doen): alle diensten in en uit huis
-- [Ons menu](https://zondags.be/menu): gezonde schotels die je Zondag meebrengt
+## Voor bedrijven die hulp zoeken
+- [Huishoudhulp voor bedrijven](https://zondags.be/bedrijven/): poetshulp, huishoudhulp, kookhulp, boodschappen en hulp in huis voor bedrijven in West- en Oost-Vlaanderen
+- [Poetshulp voor bedrijven](https://zondags.be/bedrijven/poetshulp-voor-bedrijven): kantoor, praktijk en woning door één vaste persoon
+- [Huishoudhulp voor bedrijven en zaakvoerders](https://zondags.be/bedrijven/huishoudhulp-voor-bedrijven): geboekt op de vennootschap
+- [Kookhulp aan huis voor ondernemers](https://zondags.be/bedrijven/kookhulp-voor-bedrijven): koken bij je thuis of schotels voor de week
+- [Boodschappendienst voor ondernemers](https://zondags.be/bedrijven/boodschappendienst-voor-bedrijven): boodschappen, apotheek, droogkuis en regelwerk
+- [Hulp in huis voor ondernemers](https://zondags.be/bedrijven/hulp-in-huis-voor-ondernemers): allround hulp, kinderen ophalen, tuin
+- [Huishoudhulp voor directie en medewerkers](https://zondags.be/bedrijven/huishoudhulp-voor-personeel)
+- [Per beroep](https://zondags.be/beroepen/): artsen, tandartsen, advocaten, architecten, accountants, zaakvoerders en meer
+- [Per gemeente](https://zondags.be/regio/): Kortrijk, Waregem, Roeselare, Izegem, Menen, Ieper, Tielt, Oudenaarde en meer
+- [Alle diensten](https://zondags.be/diensten/) en [gidsen](https://zondags.be/gids/) over huishoudhulp via de vennootschap
+
+## Voor wie werk zoekt met flexibele uren
+- [Werk met flexibele uren](https://zondags.be/jobs/werken-met-flexibele-uren): als student, flexi-jobber of met een vast contract, overdag en zonder weekends
+- [Studentenjob met flexibele uren](https://zondags.be/jobs/studentenjob-flexibele-uren): vanaf 18 jaar, naast de lessen of in de vakanties
+- [Flexi-job met flexibele uren](https://zondags.be/jobs/flexi-job-flexibele-uren): bijverdienen naast een hoofdjob of als gepensioneerde; het statuut bekijkt Zondags samen met de kandidaat
+- [Vaste job met flexibele uren](https://zondags.be/jobs/vaste-job-flexibele-uren): vast contract, deeltijds of voltijds
+- [Alle jobs per gemeente](https://zondags.be/jobs/)
+
+## Over
+- [Over Zondags](https://zondags.be/over-zondags): wie we zijn, feiten en contact
 - [Hoe het werkt](https://zondags.be/hoe-het-werkt): drie stappen, fiscale werking en veelgestelde vragen
-- [Zondag worden](https://zondags.be/zondag-worden): werken bij Zondags
 - [Aanvraag](https://zondags.be/aanvraag): vrijblijvend een Zondag aanvragen
 
 ## Contact
+- Chat op zondags.be (aanmelden als bedrijf of als kandidaat)
 - Telefoon en WhatsApp: +32 470 56 53 58, elke dag van 6 tot 22 uur
 - E-mail: hello@zondags.be
 - Adres: Jan Van Eyckstraat 2, 8510 Marke, België
-- Ondernemingsnummer: BE 0684.696.967 (Hummingbirds BV)
+- Een initiatief van Hummingbirds BV (BE 0684.696.967)

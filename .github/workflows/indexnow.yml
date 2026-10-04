@@ -1,0 +1,44 @@
+name: IndexNow ping
+# Meldt nieuwe en gewijzigde pagina's meteen aan Bing (en zo ChatGPT Search), Yandex, Seznam en Naver.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Wacht tot GitHub Pages bijgewerkt is
+        run: sleep 90
+      - name: Gewijzigde pagina's aanmelden
+        run: |
+          KEY=$(ls | grep -E '^[0-9a-f]{32}\.txt$' | head -1 | sed 's/\.txt$//')
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            FILES=$(git ls-files '*.html')
+          else
+            FILES=$(git diff --name-only HEAD~1 HEAD -- '*.html' 2>/dev/null || git ls-files '*.html')
+          fi
+          python3 - "$KEY" $FILES <<'PY'
+          import sys, json, urllib.request
+          key, files = sys.argv[1], sys.argv[2:]
+          skip = {'404.html', 'bedankt.html'}
+          urls = []
+          for f in files:
+              if f in skip or f.startswith(('_tools/', '.github/')) or f.startswith('google'):
+                  continue
+              u = f[:-5]
+              u = u[:-5] if u.endswith('index') else u
+              urls.append('https://zondags.be/' + u)
+          urls = sorted(set(urls))[:10000]
+          if not urls:
+              print('Niets aan te melden'); sys.exit(0)
+          body = json.dumps({'host': 'zondags.be', 'key': key, 'keyLocation': f'https://zondags.be/{key}.txt', 'urlList': urls}).encode()
+          req = urllib.request.Request('https://api.indexnow.org/indexnow', data=body, headers={'Content-Type': 'application/json; charset=utf-8'})
+          try:
+              r = urllib.request.urlopen(req, timeout=30); print('IndexNow', r.status, len(urls), 'urls')
+          except urllib.error.HTTPError as e:
+              print('IndexNow', e.code, e.read()[:300]); sys.exit(0 if e.code in (200, 202) else 1)
+          PY

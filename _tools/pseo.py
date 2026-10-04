@@ -2,6 +2,7 @@
 """Genereert de SEO/GEO-contentpagina's van zondags.be.
 Gebruik: python3 pseo.py   (leest pseo_data.py, schrijft mappen + hubpagina's + sitemap)"""
 import re, json, html, hashlib, os, datetime
+from jevorm import convert_html
 from pseo_data import BEROEPEN, DIENSTEN, GIDSEN, JOBS, PLAATSEN
 
 GIDSEN = GIDSEN + [
@@ -180,6 +181,7 @@ def slug(s): return re.sub(r'[^a-z0-9]+','-',s.lower().replace('é','e').replace
 pages=[]   # (path, title, wordcount, group)
 def write(path, content, title, group):
     os.makedirs(os.path.dirname(path) or '.', exist_ok=True)
+    content=convert_html(content)
     open(path,'w').write(content)
     m=re.search(r'<main>(.*)</main>',content,re.S)
     pages.append((path,title,words(m.group(1)),group))
@@ -308,7 +310,7 @@ for folder,(eb,t,lead) in HUBS.items():
     lis=''.join(f'<a class="rel__a" href="{p[0]}">{H(p[1])}<span aria-hidden="true">&rarr;</span></a>' for p in items if p[0].startswith(folder+'/'))
     body=phero(eb,t,lead)+f'<section class="rel wrap" style="padding-top:0"><div class="rel__grid rel__grid--hub">{lis}</div></section>\n'+(form_job(folder+'/') if folder=='jobs' else form_b2b(folder+'/'))
     pg=shell(1,folder+'/index.html',f'{t} | Zondags',lead,body,[crumbs([('Home',''),(t,folder+'/')])])
-    os.makedirs(folder,exist_ok=True); open(f'{folder}/index.html','w').write(pg)
+    os.makedirs(folder,exist_ok=True); open(f'{folder}/index.html','w').write(convert_html(pg))
 
 # ---------------- SITEMAP ----------------
 core=['','wat-we-doen','menu','hoe-het-werkt','zondag-worden','aanvraag']+[h+'/' for h in HUBS]

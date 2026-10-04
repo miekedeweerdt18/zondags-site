@@ -73,7 +73,7 @@
     });
     f.querySelector('[data-err]').hidden=!bad;
     if(bad){e.preventDefault();return;}
-    if(!LIVE){e.preventDefault();f.innerHTML='<p class="thanks">Dank u. We nemen snel contact op.</p>';}
+    if(!LIVE){e.preventDefault();f.innerHTML='<p class="thanks">Dank je. We nemen snel contact op.</p>';}
   }));
 
   /* Aangevinkte keuzes samenvoegen tot één veld (leesbaar in de mail) */

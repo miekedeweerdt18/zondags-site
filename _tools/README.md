@@ -14,7 +14,9 @@ Bouwen vanuit de root van de repo:
    - `regio/kookhulp-<stad>`, `regio/boodschappendienst-<stad>`, `regio/hulp-in-huis-<stad>` (12 steden)
    - `sectoren/`: per type bedrijf, per ruimte en per gelegenheid (40)
    - `vragen/`: vragen van bedrijven, de H1 is de vraag (44)
-   Hubs: `poetshulp/`, `sectoren/`, `vragen/` (gemaakt door `pseo.py`).
+   - `regio/<dienst>-<gemeente>` uitgebreid naar alle 57 gemeenten (5 oktober 2026)
+   - `werken/studentenjob-<gemeente>`, `werken/flexi-job-<gemeente>`, `werken/vaste-job-overdag-<gemeente>`: kandidatenpagina's (22 gemeenten), met sollicitatieformulier en JobPosting-schema
+   Hubs: `poetshulp/`, `sectoren/`, `vragen/`, `werken/` (gemaakt door `pseo.py`).
 
 ## Nieuwe pagina's toevoegen (wekelijkse uitbreiding)
 

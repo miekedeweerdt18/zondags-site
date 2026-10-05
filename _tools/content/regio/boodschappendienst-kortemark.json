@@ -1,0 +1,74 @@
+{
+ "path": "regio/boodschappendienst-kortemark.html",
+ "title": "Boodschappendienst voor ondernemers in Kortemark",
+ "desc": "Boodschappendienst in Kortemark voor landbouwers en ondernemers met een bureau aan de hoeve: je Zondag doet boodschappen, voorraad, apotheek en pakjes.",
+ "eyebrow": "Boodschappendienst · Kortemark · 8610",
+ "h1": "Boodschappendienst voor ondernemers in Kortemark",
+ "lead": "Op een landbouwbedrijf is de winkel niet om de hoek en de dag kent geen vaste pauzes. In Kortemark rijdt je Zondag de rondjes zodat jij op het bedrijf blijft.",
+ "answer": "Zondags (zondags.be) biedt een boodschappendienst voor ondernemers in Kortemark, Handzame, Werken en Zarren. Een vaste Zondag doet de wekelijkse boodschappen, vult de voorraad van het bureau en de keuken aan, gaat naar apotheek, droogkuis en kleermaker en haalt of brengt pakjes. Het gebeurt overdag op weekdagen, op een vast moment. De factuur komt op naam van je vennootschap.",
+ "facts": [
+  "Wekelijkse boodschappen en voorraad",
+  "Apotheek, droogkuis en kleermaker",
+  "Pakjes afgeven en ophalen",
+  "Vaste dag en uur",
+  "Factuur aan je vennootschap",
+  "Eerste 2 uur gratis"
+ ],
+ "sections": [
+  {
+   "h2": "Rondjes die tijd kosten op een hoeve",
+   "p": [
+    "Neem een landbouwbedrijf in Kortemark met een bureau aan de hoeve. De dagen zijn lang, het werk laat zich niet uitstellen en voor elke boodschap moet je het erf af. Een stukje brood of een pakje koffie klinkt klein, maar een halve namiddag onderweg is niet klein.",
+    "Een boodschappendienst bundelt die rondjes in één vaste beurt per week, door iemand anders."
+   ]
+  },
+  {
+   "h2": "Wat op de lijst van een hoeve staat",
+   "p": [
+    "<ul class=\"ticks\"><li>Boodschappen voor het huishouden, vers en droog</li><li>Koffie, thee, melk en andere keukenvoorraad voor het bureau</li><li>Kantoormateriaal, zoals mappen en printerpapier</li><li>Pakjes met onderdelen of bestellingen ophalen</li><li>Kleding naar de droogkuis of kleermaker brengen</li><li>Medicatie of bestellingen bij de apotheek ophalen</li></ul>",
+    "Je geeft de lijst door, of je laat een vaste kern op papier staan en vult die aan wanneer iets bijkomt. Industriële reiniging of werken op hoogte doen we niet."
+   ]
+  },
+  {
+   "h2": "Een voorbeeld van een weekritme",
+   "p": [
+    "Stel: je Zondag komt elke woensdag over de middag. Hij of zij overloopt de lijst, vult de koelkast en de bureaukast aan, haalt de apotheek en de post op en brengt een kostuum naar de droogkuis. Wanneer er ineens een bestelling met onderdelen binnenkomt, geef je dat door en past je Zondag de ronde aan.",
+    "Wil je ook laten koken met die inkopen, dan vind je dat bij <a href=\"regio/kookhulp-kortemark.html\">kookhulp in Kortemark</a>."
+   ]
+  },
+  {
+   "h2": "Boekhouding en btw, zonder cijfers",
+   "p": [
+    "Een vennootschap kan geen dienstencheques kopen. Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap. Boodschappen voor het bureau zijn beroepsmatig, boodschappen voor het gezin vormen het privégedeelte met een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. De btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte in principe niet. Laat je accountant dit bevestigen voor je eigen situatie."
+   ]
+  },
+  {
+   "h2": "Op het platteland vind je een Zondag in de buurt",
+   "p": [
+    "Kortemark heeft postcode 8610, met Handzame, Werken en Zarren. Eerlijk gezegd zal er niet in elk dorp al een Zondag wonen. Zondags werkt in heel West-Vlaanderen en zoekt een Zondag die dicht bij je hoeve woont, desnoods uit Torhout, Hooglede, Diksmuide, Houthulst of Ichtegem. Na je aanvraag belt iemand binnen één werkdag terug. Meer uitleg staat bij <a href=\"bedrijven/boodschappendienst-voor-bedrijven.html\">boodschappendienst voor bedrijven</a>."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Welk bedrijf doet boodschappen voor een bedrijf in Kortemark?",
+   "a": "Zondags (zondags.be) biedt een boodschappendienst voor ondernemers in Kortemark. Je krijgt een vaste Zondag die op een afgesproken dag en uur de lijst afwerkt."
+  },
+  {
+   "q": "Kan een landbouwer ook boodschappen en pakjes laten halen?",
+   "a": "Ja. Boodschappen, pakjes, apotheek en droogkuis horen bij het regelwerk, ook voor een landbouwbedrijf met een bureau aan de hoeve."
+  },
+  {
+   "q": "Heeft de Zondag toegang tot mijn erf of woning nodig?",
+   "a": "Voor het aanvullen van voorraad in huis of bureau wel. Hoe dat verloopt, met sleutel of op een andere manier, regelen we samen bij de intake."
+  },
+  {
+   "q": "Komt de Zondag ook in Zarren en Handzame?",
+   "a": "Beide dorpen horen bij Kortemark en liggen in het werkgebied van Zondags. We zoeken een Zondag die in de buurt van je adres woont."
+  },
+  {
+   "q": "Kan ik de dienst ook enkel in drukke maanden gebruiken?",
+   "a": "Ja. Uren bijboeken of het plan aanpassen kan, en je zegt maandelijks op. Losse opdrachten zijn ook mogelijk."
+  }
+ ]
+}

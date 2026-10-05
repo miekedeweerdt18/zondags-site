@@ -301,6 +301,7 @@ for plaats,pc,zone in PLAATSEN:
     secs=[(f'Werken in {plaats}',[intro,f'{zt} We zoeken Zondags die in of rond {plaats} wonen, zodat u weinig tijd verliest onderweg.'])]+JOB_BLOK+[dag(plaats), VERWACHT, BEGELEID]+[('Voor wie',['Studenten vanaf 18 jaar, werkzoekenden, wie deeltijds of voltijds wil werken, en wie naast een job wil bijverdienen. Uw statuut bekijken we samen.']),
           ('Ook in de buurt',['We zoeken ook Zondags in '+', '.join(p[0] for p in nb[:-1])+' en '+nb[-1][0]+'.'])]
     rel=[(f'Job in {p[0]}',f'jobs/huishoudhulp-{slug(p[0])}.html') for p in nb[:4]]+[('Studentenjob in het huishouden','jobs/studentenjob-huishouden.html'),('Flexi-job of bijverdienste','jobs/flexi-job-huishouden.html')]
+    rel=[(t,u) for t,u in [(f'Studentenjob in {plaats}',f'werken/studentenjob-{sp}.html'),(f'Flexi-job of bijverdienen in {plaats}',f'werken/flexi-job-{sp}.html'),(f'Vaste job overdag in {plaats}',f'werken/vaste-job-overdag-{sp}.html')] if cexists(u)]+rel
     body=phero(f'Vacature · {plaats}',title,intro)+article('Wat u krijgt',['Vast rooster','Geen avonden of weekends','Vaste klanten in '+plaats,'Verplaatsingen vergoed'],secs,'#formulier','Solliciteer als Zondag')+photo(pick(plaats+'p',['03-au-pair','02-kinderopvang','07-tuin','06-strijken']),'')+faq_html(JOB_FAQ)+form_job(path,plaats)+related('Jobs in de buurt',rel)
     jp={"@context":"https://schema.org","@type":"JobPosting","title":f"Huishoudhulp (Zondag) in {plaats}","description":f"<p>{H(intro)}</p><p>Vast rooster, vaste klanten, geen avonden of weekends. Huishouden, koken, tuin, boodschappen of kinderen ophalen. Verplaatsingen vergoed. Studenten vanaf 18 jaar welkom.</p>",
         "datePosted":TODAY,"validThrough":(datetime.date.today()+datetime.timedelta(days=90)).isoformat(),"employmentType":["PART_TIME","FULL_TIME"],
@@ -418,6 +419,27 @@ for idx,(path,(P,C)) in enumerate(CONTENT.items()):
         crumbs_items=[('Home',''),('Per type bedrijf','sectoren/'),(P['h1'],path[:-5])]
         ld_main={"@context":"https://schema.org","@type":"Service","name":P['h1'],"description":C['lead'],"serviceType":P['h1'],
                  "provider":{"@id":BASE+"#org"},"areaServed":AREAS,"audience":{"@type":"BusinessAudience","name":"Bedrijven, ondernemers en vrije beroepen"}}
+    elif kind=='kandidaat':
+        gemeente=P['place']; img=pick(path,['03-au-pair','02-kinderopvang','07-tuin','06-strijken','04-koken'])
+        K_LABEL={'studentenjob':'Studentenjob','flexi-job':'Flexi-job of bijverdienen','vaste-job-overdag':'Vaste job overdag'}
+        K_PILLAR={'studentenjob':('Studentenjob met flexibele uren','jobs/studentenjob-flexibele-uren.html'),
+                  'flexi-job':('Flexi-job met flexibele uren','jobs/flexi-job-flexibele-uren.html'),
+                  'vaste-job-overdag':('Vaste job met flexibele uren','jobs/vaste-job-flexibele-uren.html')}
+        for k2 in ('studentenjob','flexi-job','vaste-job-overdag'):
+            q=f'werken/{k2}-{slug(P["place"])}.html'
+            if k2!=P['soort_job'] and cexists(q): rel.append((f'{K_LABEL[k2]} in {P["place"]}',q))
+        for b in P['in_de_buurt']:
+            q=f'werken/{P["soort_job"]}-{slug(b)}.html'
+            if cexists(q) and len(rel)<5: rel.append((f'{K_LABEL[P["soort_job"]]} in {b}',q))
+        if os.path.exists(f'jobs/huishoudhulp-{slug(P["place"])}.html'): rel.append((f'Job als huishoudhulp in {P["place"]}',f'jobs/huishoudhulp-{slug(P["place"])}.html'))
+        rel.append(K_PILLAR[P['soort_job']]); rel.append(('Zondag worden','zondag-worden.html'))
+        crumbs_items=[('Home',''),('Werken bij Zondags','werken/'),(P['h1'],path[:-5])]
+        ld_main={"@context":"https://schema.org","@type":"JobPosting","title":P['h1'],
+                 "description":f"<p>{H(C['lead'])}</p><p>{H(C['answer'])}</p>","datePosted":TODAY,
+                 "validThrough":(datetime.date.today()+datetime.timedelta(days=90)).isoformat(),"employmentType":P['employment'],
+                 "hiringOrganization":{"@type":"Organization","@id":BASE+"#org","name":"Zondags","sameAs":BASE},
+                 "jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":P['place'],"postalCode":P['postcode'],"addressRegion":P['provincie'],"addressCountry":"BE"}},
+                 "industry":"Huishoudelijke diensten","directApply":True}
     else:  # vraag
         img=pick(path,['08-woonkamer','12-dweilen','01-poetsen','05-wassen','10-boodschappen'])
         rel=[(Q['h1'],Q['path']) for Q in siblings(P,5)]+[('Huishoudhulp voor bedrijven','bedrijven/')]
@@ -425,9 +447,10 @@ for idx,(path,(P,C)) in enumerate(CONTENT.items()):
         ld_main={"@context":"https://schema.org","@type":"Article","headline":P['h1'][:110],"description":C['lead'],"inLanguage":"nl-BE",
                  "datePublished":TODAY,"dateModified":TODAY,"mainEntityOfPage":BASE+path[:-5],
                  "author":{"@id":BASE+"#org"},"publisher":{"@id":BASE+"#org"},"about":{"@type":"Thing","name":"Poetshulp en huishoudelijke hulp voor bedrijven"}}
-    body=(phero(C['eyebrow'],P['h1'],C['lead'])+art2('In het kort',C['facts'],secs,'Vraag je Zondag aan')+extra_html
+    isk=kind=='kandidaat'
+    body=(phero(C['eyebrow'],P['h1'],C['lead'])+art2('In het kort',C['facts'],secs,'Solliciteer als Zondag' if isk else 'Vraag je Zondag aan','werk' if isk else 'hulp')+extra_html
           +photo(img,'')+erv+faq_html([(q,plain(a)) for q,a in faq]).replace('Goed om <em class="s">te weten.</em>','Vragen en <em class="s">antwoorden.</em>')
-          +form_b2b(path,gemeente)+related('Verder lezen',rel[:8]))
+          +(form_job(path,gemeente) if isk else form_b2b(path,gemeente))+related('Verder lezen',rel[:8]))
     ld=[crumbs(crumbs_items),faqld([(q,plain(a)) for q,a in faq]),ld_main]
     write(path, shell(1,path,f"{C['title']} | Zondags",C['desc'],body,ld), P['h1'], P['group'])
     NEW_PAGES.append((path,P,C))
@@ -435,9 +458,9 @@ for idx,(path,(P,C)) in enumerate(CONTENT.items()):
 # hubs voor de nieuwe groepen
 def hub_list(items):
     return '<div class="rel__grid rel__grid--hub">'+''.join(f'<a class="rel__a" href="{u}">{H(t)}<span aria-hidden="true">&rarr;</span></a>' for t,u in items)+'</div>'
-def hub_page(folder, eyebrow, h1, lead, intro, blocks, faq):
+def hub_page(folder, eyebrow, h1, lead, intro, blocks, faq, job=False):
     secs=''.join(f'<section class="rel wrap" style="padding-top:0"><p class="eyebrow" style="color:var(--muted)">{H(t)}</p>{hub_list(items)}</section>\n' for t,items in blocks if items)
-    body=phero(eyebrow,h1,lead)+f'<section class="art wrap"><div class="art__body" style="grid-column:1/-1">'+''.join(f'<p>{p}</p>' for p in intro)+'</div></section>\n'+secs+faq_html(faq)+form_b2b(folder+'/')
+    body=phero(eyebrow,h1,lead)+f'<section class="art wrap"><div class="art__body" style="grid-column:1/-1">'+''.join(f'<p>{p}</p>' for p in intro)+'</div></section>\n'+secs+faq_html(faq)+(form_job(folder+'/') if job else form_b2b(folder+'/'))
     ld=[crumbs([('Home',''),(h1,folder+'/')]),faqld(faq),{"@context":"https://schema.org","@type":"CollectionPage","name":h1,"description":lead,"url":BASE+folder+'/',"inLanguage":"nl-BE","about":{"@id":BASE+"#org"}}]
     pg=shell(1,folder+'/index.html',f'{h1} | Zondags',lead[:158],body,ld)
     os.makedirs(folder,exist_ok=True); open(f'{folder}/index.html','w').write(convert_html(pg))
@@ -473,6 +496,21 @@ if CONTENT:
       [('Geeft Zondags fiscaal advies?','Nee. Zondags legt de algemene werking uit en levert een duidelijke dienstenfactuur. Je accountant bevestigt de fiscale verwerking voor je eigen situatie.'),
        ('Hoe stel ik een vraag die hier niet staat?','Via de chat op de site, telefonisch of via WhatsApp op 0470 56 53 58, elke dag van 6 tot 22 uur, of via hello@zondags.be.')])
     NEW_HUBS.append('vragen/')
+    kand=lambda k:[(f"{Q['place']}",Q['path']) for Q in CPLAN if Q['kind']=='kandidaat' and Q['soort_job']==k and cexists(Q['path'])]
+    if kand('studentenjob') or kand('flexi-job') or kand('vaste-job-overdag'):
+        hub_page('werken','Werken bij Zondags','Werken bij Zondags per gemeente',
+          'Studentenjob, flexi-job of bijverdienen, of een vaste job overdag zonder weekends: kies je gemeente in West- of Oost-Vlaanderen.',
+          ['Zondags (zondags.be) zoekt studenten vanaf 18 jaar, mensen die willen bijverdienen en mensen die een vaste job zoeken. Je werkt overdag op weekdagen bij vaste klanten in de buurt: ondernemers, praktijken en gezinnen. Je bent in dienst van Zondags en je kiest mee je dagen en uren.',
+           'Per gemeente lees je hoe dat lokaal werkt. Welk statuut voor jou past, bekijken we samen in een eerste gesprek.'],
+          [('Studentenjob met flexibele uren',[(f'Studentenjob in {p}',u) for p,u in sorted(kand('studentenjob'))]),
+           ('Flexi-job of bijverdienen',[(f'Bijverdienen in {p}',u) for p,u in sorted(kand('flexi-job'))]),
+           ('Vaste job overdag zonder weekends',[(f'Vaste job in {p}',u) for p,u in sorted(kand('vaste-job-overdag'))])],
+          [('Moet ik in het weekend of \'s avonds werken?','Nee. Bij Zondags werk je overdag op weekdagen. Vroeg in de ochtend of over de middag kan, avonden en weekends niet.'),
+           ('Kan ik bij Zondags werken als flexi-jobber?','Dat hangt af van je eigen situatie. In het eerste gesprek bekijken we samen welk statuut voor jou mogelijk is. Past een flexi-job niet, dan zoeken we een ander statuut dat wel past.'),
+           ('Vanaf welke leeftijd kan ik bij Zondags werken?','Vanaf 18 jaar. Ervaring of een diploma is niet nodig.'),
+           ('Hoe solliciteer ik?','Via het formulier of de chat op de site, of via WhatsApp op 0470 56 53 58. We bellen je binnen de twee werkdagen terug voor een kort gesprek.')],
+          job=True)
+        NEW_HUBS.append('werken/')
 
 # ---------------- HUBS ----------------
 HUBS={'beroepen':('Voor wie','Huishoudelijke hulp per beroep','Voor artsen, vrije beroepen en zaakvoerders: één vaste Zondag voor praktijk en woning.'),

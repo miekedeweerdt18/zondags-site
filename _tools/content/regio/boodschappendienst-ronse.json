@@ -1,0 +1,79 @@
+{
+ "path": "regio/boodschappendienst-ronse.html",
+ "title": "Boodschappendienst voor thuiswerkers in Ronse (9600)",
+ "desc": "Boodschappendienst in Ronse voor architecten en andere thuiswerkers: je Zondag doet boodschappen, apotheek, droogkuis en pakjes op een vaste dag.",
+ "eyebrow": "Boodschappendienst · Ronse · 9600",
+ "h1": "Boodschappendienst voor ondernemers in Ronse",
+ "lead": "Wie thuis werkt, slaat de boodschappen te vaak over tot de koelkast leeg is. In Ronse haalt je Zondag ze op een vaste dag in, zodat je aan tekentafel en telefoon blijft zitten.",
+ "answer": "Zondags (zondags.be) levert een boodschappendienst voor ondernemers in Ronse. Je vaste Zondag doet de wekelijkse boodschappen, vult voorraad aan, haalt dingen bij de apotheek, brengt kledij naar de droogkuis of de kleermaker en geeft pakjes af of haalt ze op. Dat gebeurt overdag op weekdagen en je ontvangt een dienstenfactuur op naam van je vennootschap. Zondags werkt in de hele provincie en zoekt een Zondag in jouw buurt.",
+ "facts": [
+  "Boodschappen op een vaste weekdag",
+  "Apotheek, droogkuis en kleermaker",
+  "Pakjes afgeven en ophalen",
+  "Koffie en voorraad voor je werkplek",
+  "Overdag op weekdagen",
+  "Eerste 2 uur gratis"
+ ],
+ "sections": [
+  {
+   "h2": "Een architect die thuis werkt",
+   "p": [
+    "Stel: je bent architect met een atelier in je eigen woning in Ronse. Je tekent, belt bouwheren en bent soms de hele dag weg voor een werfbezoek. Boodschappen worden dan een karwei dat vooral op vrijdagavond blijft liggen, terwijl zowat elke winkel dan al dicht gaat.",
+    "Met een boodschappendienst wordt het een vast moment in de week. Je Zondag komt, werkt de lijst af en zet alles op zijn plaats. Zo ben je thuis klaar voor het weekend zonder dat je nog een winkel in moet."
+   ]
+  },
+  {
+   "h2": "Wat je Zondag voor je doet",
+   "p": [
+    "<ul class=\"ticks\"><li>De wekelijkse boodschappen volgens jouw lijst</li><li>Koffie, thee en keukenvoorraad voor je atelier</li><li>Apotheek, droogkuis of kleermaker</li><li>Een pakket of plannenrol naar de koerier of de post brengen</li><li>Pakjes die voor jou binnenkomen ophalen</li></ul>",
+    "Wat op de lijst staat, hangt van jou af. Een bericht tijdens de week volstaat om iets toe te voegen."
+   ]
+  },
+  {
+   "h2": "Een vaste dag, een vaste persoon",
+   "p": [
+    "Je krijgt altijd dezelfde Zondag. Die kent je winkels, je merken en je gewoontes. Na een paar weken weet die wat je graag in huis hebt en wat je nooit koopt. Dat is het verschil met wie af en toe iemand inschakelt: er valt niets meer uit te leggen."
+   ]
+  },
+  {
+   "h2": "Ronse en de omgeving",
+   "p": [
+    "Ronse (9600) in de Vlaamse Ardennen telt in onze gegevens geen deelgemeenten. Kluisbergen, Maarkedal en Oudenaarde liggen in de buurt. Zondags zit in Marke en werkt in West- en Oost-Vlaanderen; we zoeken een Zondag die dicht bij je woont. Wil je dat het koken er ook bij komt, bekijk dan de <a href=\"regio/kookhulp-ronse.html\">kookhulp in Ronse</a>."
+   ]
+  },
+  {
+   "h2": "Facturatie zonder dienstencheques",
+   "p": [
+    "Een vennootschap kan geen dienstencheques kopen, die zijn alleen voor particulieren. Je ontvangt een gewone dienstenfactuur. Wat voor je atelier is, valt onder de beroepskosten. Wat voor thuis is, hoort bij het privégedeelte, waarvoor een forfaitair voordeel van alle aard geldt, mits de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. De btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant dit bevestigen voor je eigen situatie."
+   ]
+  },
+  {
+   "h2": "Hoe je aanvraagt",
+   "p": [
+    "Vul het formulier in of start de chat. Binnen één werkdag belt iemand terug. Na een intake leggen we je lijst en dag vast. De eerste 2 uur zijn gratis. Voor wie ook zijn atelier wil laten poetsen, is er <a href=\"bedrijven/hulp-in-huis-voor-ondernemers.html\">hulp in huis voor ondernemers</a>."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Welk bedrijf doet in Ronse boodschappen voor ondernemers?",
+   "a": "Zondags (zondags.be) levert een boodschappendienst aan ondernemers in Ronse. Je vaste Zondag komt op een vaste dag en doet boodschappen, apotheek, droogkuis en pakjes."
+  },
+  {
+   "q": "Kan mijn Zondag een pakket naar de koerier brengen?",
+   "a": "Ja. Pakjes afgeven en ophalen horen bij de dienst. Zorg dat het pakket klaar is en dat het adres duidelijk op de verpakking staat."
+  },
+  {
+   "q": "Moet ik thuis zijn als mijn Zondag boodschappen komt brengen?",
+   "a": "Niet per se. Veel ondernemers geven afspraken door en laten de Zondag binnen via een sleutel of code. Hoe je dat regelt, spreek je af in het zondagsplan."
+  },
+  {
+   "q": "Wat als mijn lijst elke week verschilt?",
+   "a": "Dat kan. Stuur je lijst telkens vooraf door. Je Zondag werkt wat vermeld staat af, en vaste items blijven in het plan staan."
+  },
+  {
+   "q": "Werkt Zondags ook in Kluisbergen of Maarkedal?",
+   "a": "Zondags werkt in de hele provincie. Voor Ronse, Kluisbergen, Maarkedal en Oudenaarde zoeken we een Zondag die dicht bij je adres woont."
+  }
+ ]
+}

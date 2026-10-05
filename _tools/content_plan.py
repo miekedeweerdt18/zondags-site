@@ -147,11 +147,13 @@ B_SERV = [
  ("boodschappendienst", "Boodschappendienst voor ondernemers in {p}", "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor"),
  ("hulp-in-huis", "Hulp in huis voor ondernemers in {p}", "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie"),
 ]
+# week 2 (5 oktober 2026): dezelfde drie diensten voor alle overige gemeenten (geen deelgemeenten) uit het plan
+B_CITIES2 = [p[0] for p in PLAATSEN if p[3] != 'deelgemeente' and p[0] not in B_CITIES]
 def service_city_pages():
     PL = {p[0]: p for p in PLAATSEN}
     out = []
     for si, (key, h1, scope) in enumerate(B_SERV):
-        for ci, c in enumerate(B_CITIES):
+        for ci, c in enumerate(B_CITIES + B_CITIES2):
             p = PL[c]
             out.append(dict(id=f'regio/{key}-{slug(c)}', path=f'regio/{key}-{slug(c)}.html', kind='dienst-stad', group='regio',
                 h1=h1.format(p=c), dienst=key, scope=scope, place=c, postcode=p[1], provincie=p[2], deelgemeenten=p[5], in_de_buurt=p[6],
@@ -260,8 +262,36 @@ VRAGEN = [
 def question_pages():
     return [dict(id=f'vragen/{s}', path=f'vragen/{s}.html', kind='vraag', group='vragen', h1=q) for s, q in VRAGEN]
 
+# ---------------- KANDIDATEN (werken/<soort>-<plaats>): voor wie werk zoekt bij Zondags ----------------
+K_CITIES = ["Kortrijk", "Roeselare", "Waregem", "Ieper", "Izegem", "Menen", "Harelbeke", "Wevelgem", "Tielt", "Oudenaarde", "Brugge", "Gent",
+            "Deinze", "Oostende", "Torhout", "Zwevegem", "Aalter", "Zottegem", "Ronse", "Poperinge", "Kuurne", "Merelbeke"]
+K_SOORT = [
+ ("studentenjob", "Studentenjob met flexibele uren in {p}", "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work", ['PART_TIME', 'TEMPORARY']),
+ ("flexi-job", "Flexi-job of bijverdienen in {p}", "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past", ['PART_TIME']),
+ ("vaste-job-overdag", "Vaste job overdag zonder weekends in {p}", "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt", ['FULL_TIME', 'PART_TIME']),
+]
+K_PERSONA = [
+ "een student verpleegkunde met lessen vooral in de voormiddag", "een student die op kot zit en in de vakanties extra wil werken",
+ "een masterstudent met twee vrije namiddagen per week", "een student lerarenopleiding die graag met kinderen werkt",
+ "een bediende met een vierdagenweek die de vrije dag wil invullen", "een gepensioneerde die graag kookt en een paar voormiddagen wil werken",
+ "een zelfstandige in bijberoep die vaste uren zoekt", "een ploegarbeider met vrije voormiddagen in bepaalde weken",
+ "een mama of papa die wil werken binnen de schooluren", "een herintreder na enkele jaren thuis bij de kinderen",
+ "een zij-instromer uit de horeca die geen avonden en weekends meer wil", "iemand uit de winkelsector die een rooster zonder zaterdagen zoekt",
+ "iemand die graag buiten werkt en de tuin en het terras wil doen", "iemand die van strijken en orde houdt",
+]
+def candidate_pages():
+    PL = {p[0]: p for p in PLAATSEN}
+    out = []
+    for si, (key, h1, scope, emp) in enumerate(K_SOORT):
+        for ci, c in enumerate(K_CITIES):
+            p = PL[c]
+            out.append(dict(id=f'werken/{key}-{slug(c)}', path=f'werken/{key}-{slug(c)}.html', kind='kandidaat', group='werken',
+                h1=h1.format(p=c), soort_job=key, scope=scope, employment=emp, place=c, postcode=p[1], provincie=p[2],
+                deelgemeenten=p[5], in_de_buurt=p[6], streek=p[7], persona=K_PERSONA[(ci * 3 + si * 5) % len(K_PERSONA)]))
+    return out
+
 def plan():
-    pages = city_pages() + region_pages() + service_city_pages() + sector_pages() + question_pages()
+    pages = city_pages() + region_pages() + service_city_pages() + sector_pages() + question_pages() + candidate_pages()
     return pages
 
 if __name__ == '__main__':

@@ -1,0 +1,35 @@
+{
+ "path": "regio/boodschappendienst-wortegem-petegem.html",
+ "title": "Boodschappendienst voor ondernemers in Wortegem-Petegem",
+ "desc": "Boodschappendienst in Wortegem-Petegem voor webshops en kleine bedrijven: wekelijkse boodschappen, pakjes, apotheek en keukenvoorraad door je vaste Zondag.",
+ "eyebrow": "Boodschappendienst · Wortegem-Petegem · 9790",
+ "h1": "Boodschappendienst voor ondernemers in Wortegem-Petegem",
+ "lead": "Een webshop met een klein magazijn leeft van tijd die niet naar boodschappen mag gaan. In Wortegem-Petegem doet je Zondag de rondjes die jij liever niet maakt.",
+ "answer": "Zondags (zondags.be) levert een boodschappendienst voor ondernemers in Wortegem-Petegem. Je vaste Zondag doet de wekelijkse boodschappen, vult voorraad en koffie aan, haalt je medicatie bij de apotheek, brengt kleding naar de droogkuis of de kleermaker en geeft pakjes af of haalt ze op. Dat gebeurt overdag op weekdagen, met een dienstenfactuur op naam van je vennootschap. Zondags werkt in de hele provincie en zoekt een Zondag in jouw buurt.",
+ "facts": ["Wekelijkse boodschappen en voorraad", "Apotheek, droogkuis en kleermaker", "Pakjes afgeven en ophalen", "Koffie en keukenvoorraad op kantoor", "Overdag op weekdagen", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "Een webshop met een klein magazijn", "p": [
+   "Stel: je baat een webshop uit en hebt een klein magazijn in een bijgebouw bij je woning in Wortegem-Petegem. De bestellingen komen binnen wanneer ze komen, en de pakjes moeten naar het afhaalpunt of de koerier. Elke vrije minuut gaat naar verpakken, mailen en inkopen.",
+   "Dan helpt een vaste Zondag die op een afgesproken dag langskomt, de pakjes meeneemt en meteen de boodschappen voor thuis en voor het magazijnkoffiehoekje doet."]},
+  {"h2": "Wat er in een ronde zit", "p": [
+   "<ul class=\"ticks\"><li>Wekelijkse boodschappen volgens een vaste lijst</li><li>Voorraad aanvullen: koffie, thee, melk, schoonmaakproducten</li><li>Medicatie afhalen bij de apotheek</li><li>Kleding naar de droogkuis of de kleermaker brengen en weer ophalen</li><li>Pakjes afgeven en ophalen</li></ul>",
+   "De lijst maken we samen op tijdens de intake. Je kan ze elke week aanvullen via een bericht, en je Zondag werkt wat op de lijst staat af."]},
+  {"h2": "Hoe je de aankopen afrekent", "p": [
+   "De aankopen zelf schiet je Zondag niet voor. Hoe je dat regelt, spreken we vooraf af in het zondagsplan. Zondags factureert enkel de uren van je Zondag, met een gewone dienstenfactuur. Een vennootschap kan geen dienstencheques kopen, dus die route valt weg."]},
+  {"h2": "Combineren met koken en poetsen", "p": [
+   "Wie al een vaste Zondag heeft voor het poetsen of koken, vraagt vaak om de boodschappen erbij. Dat past in hetzelfde plan, zodat je één persoon en één factuur hebt. Voor wie meer wil dan inkopen, is er <a href=\"regio/kookhulp-wortegem-petegem.html\">kookhulp in Wortegem-Petegem</a>."]},
+  {"h2": "Wortegem-Petegem en de omgeving", "p": [
+   "Wortegem-Petegem (9790) bestaat uit Elsegem, Moregem, Ooike en Petegem-aan-de-Schelde. Oudenaarde, Waregem, Kruisem en Anzegem liggen in de buurt. Het is een gemeente in de Vlaamse Ardennen, en Zondags werkt in de hele provincie vanuit Marke. We zoeken een Zondag die dichtbij woont; dat lukt niet altijd meteen, en dat zeggen we je dan ook."]},
+  {"h2": "Een woord over de fiscale kant", "p": [
+   "Het beroepsmatige deel, zoals de koffie en keukenvoorraad voor je magazijn, is een beroepskost. De boodschappen voor je gezin vallen onder het privégedeelte, dat als forfaitair voordeel van alle aard wordt verwerkt, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant dit bevestigen voor je eigen situatie."]},
+  {"h2": "Aanvragen", "p": [
+   "Via het formulier of de chat. Binnen één werkdag bellen we terug, gevolgd door een intake waarin we je lijst en je dag vastleggen. De eerste 2 uur zijn gratis. Wil je ook je werkruimte laten onderhouden, bekijk dan <a href=\"bedrijven/boodschappendienst-voor-bedrijven.html\">boodschappendienst voor bedrijven</a>."]}
+ ],
+ "faq": [
+  {"q": "Welk bedrijf doet boodschappen voor ondernemers in Wortegem-Petegem?", "a": "Zondags (zondags.be) levert een boodschappendienst aan ondernemers in Wortegem-Petegem. Je vaste Zondag doet boodschappen, apotheek, droogkuis en pakjes, overdag op weekdagen."},
+  {"q": "Kan mijn Zondag pakjes van mijn webshop wegbrengen?", "a": "Ja, pakjes afgeven en ophalen horen bij de dienst. Spreek wel vooraf af welke pakjes waar naartoe moeten, zodat je Zondag niet moet raden."},
+  {"q": "Kan ik wekelijks dezelfde lijst laten doen?", "a": "Ja. We leggen je vaste lijst vast in het zondagsplan en je vult ze per week aan. Je Zondag werkt de lijst af op de afgesproken dag."},
+  {"q": "Doet Zondags ook boodschappen 's avonds of op zaterdag?", "a": "Nee. Zondags werkt overdag op weekdagen, nooit 's avonds of in het weekend. Vroeg in de ochtend of over de middag kan wel."},
+  {"q": "Is er een Zondag in mijn dorp?", "a": "Zondags zoekt een Zondag die dicht bij je woont, in Elsegem, Moregem, Ooike of Petegem-aan-de-Schelde of daarbuiten. Of dat meteen lukt, bespreken we eerlijk bij het eerste gesprek."}
+ ]
+}

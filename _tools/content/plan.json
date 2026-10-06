@@ -1816,6 +1816,691 @@
   "scenario": "een interieurzaak met een toonzaal"
  },
  {
+  "id": "poetshulp/lochristi",
+  "path": "poetshulp/lochristi.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Lochristi",
+  "place": "Lochristi",
+  "postcode": "9080",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Beervelde",
+   "Zaffelare",
+   "Zeveneken"
+  ],
+  "in_de_buurt": [
+   "Gent",
+   "Destelbergen",
+   "Lokeren",
+   "Wachtebeke",
+   "Laarne"
+  ],
+  "streek": "regio Gent",
+  "angle": "ondernemers met een kantoor aan huis: kantoor en woning in één plan, met splitsing op de factuur",
+  "scenario": "een bouwbedrijf met een kantoor en een refter voor de ploeg"
+ },
+ {
+  "id": "poetshulp/destelbergen",
+  "path": "poetshulp/destelbergen.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Destelbergen",
+  "place": "Destelbergen",
+  "postcode": "9070",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Heusden"
+  ],
+  "in_de_buurt": [
+   "Gent",
+   "Lochristi",
+   "Laarne",
+   "Wetteren",
+   "Melle"
+  ],
+  "streek": "regio Gent",
+  "angle": "praktijken en kantoren die liefst vroeg in de ochtend of over de middag laten poetsen, buiten de drukte",
+  "scenario": "een webshop met een klein magazijn"
+ },
+ {
+  "id": "poetshulp/evergem",
+  "path": "poetshulp/evergem.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Evergem",
+  "place": "Evergem",
+  "postcode": "9940",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Ertvelde",
+   "Kluizen",
+   "Sleidinge"
+  ],
+  "in_de_buurt": [
+   "Gent",
+   "Lievegem",
+   "Zelzate",
+   "Assenede",
+   "Kaprijke"
+  ],
+  "streek": "regio Gent",
+  "angle": "vrije beroepen met een praktijk (wachtzaal, consultatieruimte, sanitair) en daarnaast hun woning",
+  "scenario": "een kinesitherapeut met een praktijk aan huis"
+ },
+ {
+  "id": "poetshulp/lievegem",
+  "path": "poetshulp/lievegem.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Lievegem",
+  "place": "Lievegem",
+  "postcode": "9920",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Lovendegem",
+   "Vinderhoute",
+   "Waarschoot",
+   "Zomergem",
+   "Oostwinkel",
+   "Ronsele"
+  ],
+  "in_de_buurt": [
+   "Gent",
+   "Evergem",
+   "Eeklo",
+   "Aalter",
+   "Deinze"
+  ],
+  "streek": "Meetjesland",
+  "angle": "starters en jonge vennootschappen die hun eerste kantoor of praktijk inrichten",
+  "scenario": "een notariskantoor met een wachtzaal"
+ },
+ {
+  "id": "poetshulp/wetteren",
+  "path": "poetshulp/wetteren.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Wetteren",
+  "place": "Wetteren",
+  "postcode": "9230",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Massemen",
+   "Westrem"
+  ],
+  "in_de_buurt": [
+   "Destelbergen",
+   "Laarne",
+   "Wichelen",
+   "Lede",
+   "Oosterzele",
+   "Melle"
+  ],
+  "streek": "regio Gent",
+  "angle": "bedrijven die naast het poetsen ook de was en strijk, het koken of de boodschappen willen uitbesteden",
+  "scenario": "een verzekeringskantoor met een onthaal"
+ },
+ {
+  "id": "poetshulp/oosterzele",
+  "path": "poetshulp/oosterzele.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Oosterzele",
+  "place": "Oosterzele",
+  "postcode": "9860",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Balegem",
+   "Gijzenzele",
+   "Landskouter",
+   "Moortsele",
+   "Scheldewindeke"
+  ],
+  "in_de_buurt": [
+   "Merelbeke",
+   "Zottegem",
+   "Herzele",
+   "Sint-Lievens-Houtem",
+   "Wetteren"
+  ],
+  "streek": "regio Gent",
+  "angle": "winkels en zaken in de dorpskern of het centrum: poetsen voor de deur opengaat",
+  "scenario": "een architect die thuis werkt"
+ },
+ {
+  "id": "poetshulp/herzele",
+  "path": "poetshulp/herzele.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Herzele",
+  "place": "Herzele",
+  "postcode": "9550",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Borsbeke",
+   "Hillegem",
+   "Ressegem",
+   "Sint-Antelinks",
+   "Sint-Lievens-Esse",
+   "Steenhuize-Wijnhuize",
+   "Woubrechtegem"
+  ],
+  "in_de_buurt": [
+   "Zottegem",
+   "Oosterzele",
+   "Sint-Lievens-Houtem",
+   "Haaltert",
+   "Lierde"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "angle": "bedrijven met een showroom of ontvangstruimte waar klanten binnenstappen",
+  "scenario": "een landbouwbedrijf met een bureau aan de hoeve"
+ },
+ {
+  "id": "poetshulp/brakel",
+  "path": "poetshulp/brakel.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Brakel",
+  "place": "Brakel",
+  "postcode": "9660",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Elst",
+   "Everbeek",
+   "Michelbeke",
+   "Nederbrakel",
+   "Opbrakel",
+   "Parike",
+   "Zegelsem"
+  ],
+  "in_de_buurt": [
+   "Zottegem",
+   "Zwalm",
+   "Horebeke",
+   "Lierde",
+   "Geraardsbergen",
+   "Maarkedal"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "angle": "kleine kantoren met een team van een handvol tot vijftien mensen: bureaus, keuken of refter, sanitair",
+  "scenario": "een transportfirma met een chauffeursruimte"
+ },
+ {
+  "id": "poetshulp/zwalm",
+  "path": "poetshulp/zwalm.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Zwalm",
+  "place": "Zwalm",
+  "postcode": "9630",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Beerlegem",
+   "Dikkele",
+   "Hundelgem",
+   "Meilegem",
+   "Munkzwalm",
+   "Paulatem",
+   "Roborst",
+   "Rozebeke",
+   "Sint-Blasius-Boekel",
+   "Sint-Denijs-Boekel",
+   "Sint-Maria-Latem"
+  ],
+  "in_de_buurt": [
+   "Oudenaarde",
+   "Zottegem",
+   "Brakel",
+   "Gavere",
+   "Horebeke"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "angle": "zaakvoerders die veel onderweg zijn: kantoor en huis lopen door terwijl zij weg zijn",
+  "scenario": "een IT-consultant met een thuiskantoor"
+ },
+ {
+  "id": "poetshulp/maarkedal",
+  "path": "poetshulp/maarkedal.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Maarkedal",
+  "place": "Maarkedal",
+  "postcode": "9680",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Etikhove",
+   "Maarke-Kerkem",
+   "Nukerke",
+   "Schorisse"
+  ],
+  "in_de_buurt": [
+   "Ronse",
+   "Oudenaarde",
+   "Horebeke",
+   "Brakel",
+   "Kluisbergen"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "angle": "kmo's met een refter, kleedruimte en sanitair voor de ploeg",
+  "scenario": "een opticien in een winkelstraat"
+ },
+ {
+  "id": "poetshulp/lierde",
+  "path": "poetshulp/lierde.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Lierde",
+  "place": "Lierde",
+  "postcode": "9570",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Deftinge",
+   "Hemelveerdegem",
+   "Sint-Maria-Lierde",
+   "Sint-Martens-Lierde"
+  ],
+  "in_de_buurt": [
+   "Geraardsbergen",
+   "Brakel",
+   "Zottegem",
+   "Herzele",
+   "Ninove"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "angle": "familiebedrijven waar zaak en woning dicht bij elkaar liggen",
+  "scenario": "een kapsalon in de dorpskern"
+ },
+ {
+  "id": "poetshulp/geraardsbergen",
+  "path": "poetshulp/geraardsbergen.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Geraardsbergen",
+  "place": "Geraardsbergen",
+  "postcode": "9500",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Goeferdinge",
+   "Grimminge",
+   "Idegem",
+   "Moerbeke",
+   "Nederboelare",
+   "Nieuwenhove",
+   "Onkerzele",
+   "Ophasselt",
+   "Overboelare",
+   "Schendelbeke",
+   "Smeerebbe-Vloerzegem",
+   "Viane",
+   "Zandbergen",
+   "Zarlardinge"
+  ],
+  "in_de_buurt": [
+   "Ninove",
+   "Lierde",
+   "Brakel"
+  ],
+  "streek": "Denderstreek",
+  "angle": "land- en tuinbouwbedrijven met een vennootschap: bureau, refter en woning",
+  "scenario": "een showroom met keukens of badkamers"
+ },
+ {
+  "id": "poetshulp/ninove",
+  "path": "poetshulp/ninove.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Ninove",
+  "place": "Ninove",
+  "postcode": "9400",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Appelterre-Eichem",
+   "Aspelare",
+   "Denderwindeke",
+   "Lieferinge",
+   "Meerbeke",
+   "Nederhasselt",
+   "Neigem",
+   "Okegem",
+   "Outer",
+   "Pollare",
+   "Voorde"
+  ],
+  "in_de_buurt": [
+   "Denderleeuw",
+   "Haaltert",
+   "Geraardsbergen",
+   "Lierde"
+  ],
+  "streek": "Denderstreek",
+  "angle": "ondernemers met een kantoor aan huis: kantoor en woning in één plan, met splitsing op de factuur",
+  "scenario": "een logopediste met een praktijk aan huis"
+ },
+ {
+  "id": "poetshulp/aalst",
+  "path": "poetshulp/aalst.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Aalst",
+  "place": "Aalst",
+  "postcode": "9300",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Baardegem",
+   "Erembodegem",
+   "Gijzegem",
+   "Herdersem",
+   "Hofstade",
+   "Meldert",
+   "Moorsel",
+   "Nieuwerkerken"
+  ],
+  "in_de_buurt": [
+   "Lede",
+   "Erpe-Mere",
+   "Haaltert",
+   "Denderleeuw",
+   "Lebbeke"
+  ],
+  "streek": "Denderstreek",
+  "angle": "praktijken en kantoren die liefst vroeg in de ochtend of over de middag laten poetsen, buiten de drukte",
+  "scenario": "een tandartspraktijk met twee behandelkamers"
+ },
+ {
+  "id": "poetshulp/lede",
+  "path": "poetshulp/lede.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Lede",
+  "place": "Lede",
+  "postcode": "9340",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Impe",
+   "Oordegem",
+   "Smetlede",
+   "Wanzele"
+  ],
+  "in_de_buurt": [
+   "Aalst",
+   "Erpe-Mere",
+   "Wichelen",
+   "Wetteren",
+   "Oosterzele"
+  ],
+  "streek": "Denderstreek",
+  "angle": "vrije beroepen met een praktijk (wachtzaal, consultatieruimte, sanitair) en daarnaast hun woning",
+  "scenario": "een advocatenkantoor met twee vennoten"
+ },
+ {
+  "id": "poetshulp/erpe-mere",
+  "path": "poetshulp/erpe-mere.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Erpe-Mere",
+  "place": "Erpe-Mere",
+  "postcode": "9420",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Aaigem",
+   "Bambrugge",
+   "Burst",
+   "Erondegem",
+   "Ottergem",
+   "Vlekkem",
+   "Mere"
+  ],
+  "in_de_buurt": [
+   "Aalst",
+   "Lede",
+   "Haaltert",
+   "Herzele",
+   "Sint-Lievens-Houtem"
+  ],
+  "streek": "Denderstreek",
+  "angle": "starters en jonge vennootschappen die hun eerste kantoor of praktijk inrichten",
+  "scenario": "een accountantskantoor met zes medewerkers"
+ },
+ {
+  "id": "poetshulp/dendermonde",
+  "path": "poetshulp/dendermonde.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Dendermonde",
+  "place": "Dendermonde",
+  "postcode": "9200",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Appels",
+   "Baasrode",
+   "Grembergen",
+   "Mespelare",
+   "Oudegem",
+   "Schoonaarde",
+   "Sint-Gillis-bij-Dendermonde"
+  ],
+  "in_de_buurt": [
+   "Hamme",
+   "Zele",
+   "Berlare",
+   "Lebbeke",
+   "Buggenhout",
+   "Wichelen"
+  ],
+  "streek": "Denderstreek",
+  "angle": "bedrijven die naast het poetsen ook de was en strijk, het koken of de boodschappen willen uitbesteden",
+  "scenario": "een groepspraktijk van huisartsen"
+ },
+ {
+  "id": "poetshulp/zele",
+  "path": "poetshulp/zele.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Zele",
+  "place": "Zele",
+  "postcode": "9240",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Dendermonde",
+   "Berlare",
+   "Lokeren",
+   "Hamme",
+   "Waasmunster",
+   "Laarne"
+  ],
+  "streek": "Scheldeland",
+  "angle": "winkels en zaken in de dorpskern of het centrum: poetsen voor de deur opengaat",
+  "scenario": "een interieurzaak met een toonzaal"
+ },
+ {
+  "id": "poetshulp/berlare",
+  "path": "poetshulp/berlare.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Berlare",
+  "place": "Berlare",
+  "postcode": "9290",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Overmere",
+   "Uitbergen"
+  ],
+  "in_de_buurt": [
+   "Zele",
+   "Dendermonde",
+   "Wichelen",
+   "Laarne"
+  ],
+  "streek": "Scheldeland",
+  "angle": "bedrijven met een showroom of ontvangstruimte waar klanten binnenstappen",
+  "scenario": "een bouwbedrijf met een kantoor en een refter voor de ploeg"
+ },
+ {
+  "id": "poetshulp/hamme",
+  "path": "poetshulp/hamme.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Hamme",
+  "place": "Hamme",
+  "postcode": "9220",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Moerzeke"
+  ],
+  "in_de_buurt": [
+   "Dendermonde",
+   "Zele",
+   "Waasmunster",
+   "Temse"
+  ],
+  "streek": "Scheldeland",
+  "angle": "kleine kantoren met een team van een handvol tot vijftien mensen: bureaus, keuken of refter, sanitair",
+  "scenario": "een webshop met een klein magazijn"
+ },
+ {
+  "id": "poetshulp/lokeren",
+  "path": "poetshulp/lokeren.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Lokeren",
+  "place": "Lokeren",
+  "postcode": "9160",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Daknam",
+   "Eksaarde"
+  ],
+  "in_de_buurt": [
+   "Zele",
+   "Waasmunster",
+   "Lochristi",
+   "Sint-Niklaas"
+  ],
+  "streek": "Waasland",
+  "angle": "zaakvoerders die veel onderweg zijn: kantoor en huis lopen door terwijl zij weg zijn",
+  "scenario": "een kinesitherapeut met een praktijk aan huis"
+ },
+ {
+  "id": "poetshulp/sint-niklaas",
+  "path": "poetshulp/sint-niklaas.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Sint-Niklaas",
+  "place": "Sint-Niklaas",
+  "postcode": "9100",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Belsele",
+   "Nieuwkerken-Waas",
+   "Sinaai"
+  ],
+  "in_de_buurt": [
+   "Beveren",
+   "Temse",
+   "Waasmunster",
+   "Stekene",
+   "Sint-Gillis-Waas",
+   "Lokeren"
+  ],
+  "streek": "Waasland",
+  "angle": "kmo's met een refter, kleedruimte en sanitair voor de ploeg",
+  "scenario": "een notariskantoor met een wachtzaal"
+ },
+ {
+  "id": "poetshulp/eeklo",
+  "path": "poetshulp/eeklo.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Eeklo",
+  "place": "Eeklo",
+  "postcode": "9900",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "stad",
+  "deel_van": "",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Kaprijke",
+   "Maldegem",
+   "Lievegem",
+   "Sint-Laureins"
+  ],
+  "streek": "Meetjesland",
+  "angle": "familiebedrijven waar zaak en woning dicht bij elkaar liggen",
+  "scenario": "een verzekeringskantoor met een onthaal"
+ },
+ {
+  "id": "poetshulp/maldegem",
+  "path": "poetshulp/maldegem.html",
+  "kind": "stad",
+  "group": "poetshulp",
+  "h1": "Poetshulp voor bedrijven in Maldegem",
+  "place": "Maldegem",
+  "postcode": "9990",
+  "provincie": "Oost-Vlaanderen",
+  "soort": "gemeente",
+  "deel_van": "",
+  "deelgemeenten": [
+   "Adegem",
+   "Middelburg"
+  ],
+  "in_de_buurt": [
+   "Eeklo",
+   "Aalter",
+   "Sint-Laureins",
+   "Beernem"
+  ],
+  "streek": "Meetjesland",
+  "angle": "land- en tuinbouwbedrijven met een vennootschap: bureau, refter en woning",
+  "scenario": "een architect die thuis werkt"
+ },
+ {
   "id": "poetshulp/west-vlaanderen",
   "path": "poetshulp/west-vlaanderen.html",
   "kind": "regio",
@@ -1889,7 +2574,31 @@
    "Kluisbergen",
    "Ronse",
    "Zottegem",
-   "Aalter"
+   "Aalter",
+   "Lochristi",
+   "Destelbergen",
+   "Evergem",
+   "Lievegem",
+   "Wetteren",
+   "Oosterzele",
+   "Herzele",
+   "Brakel",
+   "Zwalm",
+   "Maarkedal",
+   "Lierde",
+   "Geraardsbergen",
+   "Ninove",
+   "Aalst",
+   "Lede",
+   "Erpe-Mere",
+   "Dendermonde",
+   "Zele",
+   "Berlare",
+   "Hamme",
+   "Lokeren",
+   "Sint-Niklaas",
+   "Eeklo",
+   "Maldegem"
   ]
  },
  {
@@ -1974,7 +2683,12 @@
    "De Pinte",
    "Sint-Martens-Latem",
    "Merelbeke",
-   "Aalter"
+   "Aalter",
+   "Lochristi",
+   "Destelbergen",
+   "Evergem",
+   "Wetteren",
+   "Oosterzele"
   ]
  },
  {
@@ -2023,7 +2737,12 @@
    "Wortegem-Petegem",
    "Kluisbergen",
    "Ronse",
-   "Zottegem"
+   "Zottegem",
+   "Herzele",
+   "Brakel",
+   "Zwalm",
+   "Maarkedal",
+   "Lierde"
   ]
  },
  {
@@ -3502,6 +4221,667 @@
   "scenario": "een landbouwbedrijf met een bureau aan de hoeve"
  },
  {
+  "id": "regio/kookhulp-lochristi",
+  "path": "regio/kookhulp-lochristi.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Lochristi",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Lochristi",
+  "postcode": "9080",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Beervelde",
+   "Zaffelare",
+   "Zeveneken"
+  ],
+  "in_de_buurt": [
+   "Gent",
+   "Destelbergen",
+   "Lokeren",
+   "Wachtebeke",
+   "Laarne"
+  ],
+  "streek": "regio Gent",
+  "scenario": "een interieurzaak met een toonzaal"
+ },
+ {
+  "id": "regio/kookhulp-destelbergen",
+  "path": "regio/kookhulp-destelbergen.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Destelbergen",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Destelbergen",
+  "postcode": "9070",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Heusden"
+  ],
+  "in_de_buurt": [
+   "Gent",
+   "Lochristi",
+   "Laarne",
+   "Wetteren",
+   "Melle"
+  ],
+  "streek": "regio Gent",
+  "scenario": "een kapsalon in de dorpskern"
+ },
+ {
+  "id": "regio/kookhulp-evergem",
+  "path": "regio/kookhulp-evergem.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Evergem",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Evergem",
+  "postcode": "9940",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Ertvelde",
+   "Kluizen",
+   "Sleidinge"
+  ],
+  "in_de_buurt": [
+   "Gent",
+   "Lievegem",
+   "Zelzate",
+   "Assenede",
+   "Kaprijke"
+  ],
+  "streek": "regio Gent",
+  "scenario": "een notariskantoor met een wachtzaal"
+ },
+ {
+  "id": "regio/kookhulp-lievegem",
+  "path": "regio/kookhulp-lievegem.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Lievegem",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Lievegem",
+  "postcode": "9920",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Lovendegem",
+   "Vinderhoute",
+   "Waarschoot",
+   "Zomergem",
+   "Oostwinkel",
+   "Ronsele"
+  ],
+  "in_de_buurt": [
+   "Gent",
+   "Evergem",
+   "Eeklo",
+   "Aalter",
+   "Deinze"
+  ],
+  "streek": "Meetjesland",
+  "scenario": "een advocatenkantoor met twee vennoten"
+ },
+ {
+  "id": "regio/kookhulp-wetteren",
+  "path": "regio/kookhulp-wetteren.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Wetteren",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Wetteren",
+  "postcode": "9230",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Massemen",
+   "Westrem"
+  ],
+  "in_de_buurt": [
+   "Destelbergen",
+   "Laarne",
+   "Wichelen",
+   "Lede",
+   "Oosterzele",
+   "Melle"
+  ],
+  "streek": "regio Gent",
+  "scenario": "een transportfirma met een chauffeursruimte"
+ },
+ {
+  "id": "regio/kookhulp-oosterzele",
+  "path": "regio/kookhulp-oosterzele.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Oosterzele",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Oosterzele",
+  "postcode": "9860",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Balegem",
+   "Gijzenzele",
+   "Landskouter",
+   "Moortsele",
+   "Scheldewindeke"
+  ],
+  "in_de_buurt": [
+   "Merelbeke",
+   "Zottegem",
+   "Herzele",
+   "Sint-Lievens-Houtem",
+   "Wetteren"
+  ],
+  "streek": "regio Gent",
+  "scenario": "een bouwbedrijf met een kantoor en een refter voor de ploeg"
+ },
+ {
+  "id": "regio/kookhulp-herzele",
+  "path": "regio/kookhulp-herzele.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Herzele",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Herzele",
+  "postcode": "9550",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Borsbeke",
+   "Hillegem",
+   "Ressegem",
+   "Sint-Antelinks",
+   "Sint-Lievens-Esse",
+   "Steenhuize-Wijnhuize",
+   "Woubrechtegem"
+  ],
+  "in_de_buurt": [
+   "Zottegem",
+   "Oosterzele",
+   "Sint-Lievens-Houtem",
+   "Haaltert",
+   "Lierde"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "scenario": "een showroom met keukens of badkamers"
+ },
+ {
+  "id": "regio/kookhulp-brakel",
+  "path": "regio/kookhulp-brakel.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Brakel",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Brakel",
+  "postcode": "9660",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Elst",
+   "Everbeek",
+   "Michelbeke",
+   "Nederbrakel",
+   "Opbrakel",
+   "Parike",
+   "Zegelsem"
+  ],
+  "in_de_buurt": [
+   "Zottegem",
+   "Zwalm",
+   "Horebeke",
+   "Lierde",
+   "Geraardsbergen",
+   "Maarkedal"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "scenario": "een verzekeringskantoor met een onthaal"
+ },
+ {
+  "id": "regio/kookhulp-zwalm",
+  "path": "regio/kookhulp-zwalm.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Zwalm",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Zwalm",
+  "postcode": "9630",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Beerlegem",
+   "Dikkele",
+   "Hundelgem",
+   "Meilegem",
+   "Munkzwalm",
+   "Paulatem",
+   "Roborst",
+   "Rozebeke",
+   "Sint-Blasius-Boekel",
+   "Sint-Denijs-Boekel",
+   "Sint-Maria-Latem"
+  ],
+  "in_de_buurt": [
+   "Oudenaarde",
+   "Zottegem",
+   "Brakel",
+   "Gavere",
+   "Horebeke"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "scenario": "een accountantskantoor met zes medewerkers"
+ },
+ {
+  "id": "regio/kookhulp-maarkedal",
+  "path": "regio/kookhulp-maarkedal.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Maarkedal",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Maarkedal",
+  "postcode": "9680",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Etikhove",
+   "Maarke-Kerkem",
+   "Nukerke",
+   "Schorisse"
+  ],
+  "in_de_buurt": [
+   "Ronse",
+   "Oudenaarde",
+   "Horebeke",
+   "Brakel",
+   "Kluisbergen"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "scenario": "een IT-consultant met een thuiskantoor"
+ },
+ {
+  "id": "regio/kookhulp-lierde",
+  "path": "regio/kookhulp-lierde.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Lierde",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Lierde",
+  "postcode": "9570",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Deftinge",
+   "Hemelveerdegem",
+   "Sint-Maria-Lierde",
+   "Sint-Martens-Lierde"
+  ],
+  "in_de_buurt": [
+   "Geraardsbergen",
+   "Brakel",
+   "Zottegem",
+   "Herzele",
+   "Ninove"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "scenario": "een webshop met een klein magazijn"
+ },
+ {
+  "id": "regio/kookhulp-geraardsbergen",
+  "path": "regio/kookhulp-geraardsbergen.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Geraardsbergen",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Geraardsbergen",
+  "postcode": "9500",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Goeferdinge",
+   "Grimminge",
+   "Idegem",
+   "Moerbeke",
+   "Nederboelare",
+   "Nieuwenhove",
+   "Onkerzele",
+   "Ophasselt",
+   "Overboelare",
+   "Schendelbeke",
+   "Smeerebbe-Vloerzegem",
+   "Viane",
+   "Zandbergen",
+   "Zarlardinge"
+  ],
+  "in_de_buurt": [
+   "Ninove",
+   "Lierde",
+   "Brakel"
+  ],
+  "streek": "Denderstreek",
+  "scenario": "een logopediste met een praktijk aan huis"
+ },
+ {
+  "id": "regio/kookhulp-ninove",
+  "path": "regio/kookhulp-ninove.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Ninove",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Ninove",
+  "postcode": "9400",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Appelterre-Eichem",
+   "Aspelare",
+   "Denderwindeke",
+   "Lieferinge",
+   "Meerbeke",
+   "Nederhasselt",
+   "Neigem",
+   "Okegem",
+   "Outer",
+   "Pollare",
+   "Voorde"
+  ],
+  "in_de_buurt": [
+   "Denderleeuw",
+   "Haaltert",
+   "Geraardsbergen",
+   "Lierde"
+  ],
+  "streek": "Denderstreek",
+  "scenario": "een architect die thuis werkt"
+ },
+ {
+  "id": "regio/kookhulp-aalst",
+  "path": "regio/kookhulp-aalst.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Aalst",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Aalst",
+  "postcode": "9300",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Baardegem",
+   "Erembodegem",
+   "Gijzegem",
+   "Herdersem",
+   "Hofstade",
+   "Meldert",
+   "Moorsel",
+   "Nieuwerkerken"
+  ],
+  "in_de_buurt": [
+   "Lede",
+   "Erpe-Mere",
+   "Haaltert",
+   "Denderleeuw",
+   "Lebbeke"
+  ],
+  "streek": "Denderstreek",
+  "scenario": "een groepspraktijk van huisartsen"
+ },
+ {
+  "id": "regio/kookhulp-lede",
+  "path": "regio/kookhulp-lede.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Lede",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Lede",
+  "postcode": "9340",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Impe",
+   "Oordegem",
+   "Smetlede",
+   "Wanzele"
+  ],
+  "in_de_buurt": [
+   "Aalst",
+   "Erpe-Mere",
+   "Wichelen",
+   "Wetteren",
+   "Oosterzele"
+  ],
+  "streek": "Denderstreek",
+  "scenario": "een opticien in een winkelstraat"
+ },
+ {
+  "id": "regio/kookhulp-erpe-mere",
+  "path": "regio/kookhulp-erpe-mere.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Erpe-Mere",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Erpe-Mere",
+  "postcode": "9420",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Aaigem",
+   "Bambrugge",
+   "Burst",
+   "Erondegem",
+   "Ottergem",
+   "Vlekkem",
+   "Mere"
+  ],
+  "in_de_buurt": [
+   "Aalst",
+   "Lede",
+   "Haaltert",
+   "Herzele",
+   "Sint-Lievens-Houtem"
+  ],
+  "streek": "Denderstreek",
+  "scenario": "een kinesitherapeut met een praktijk aan huis"
+ },
+ {
+  "id": "regio/kookhulp-dendermonde",
+  "path": "regio/kookhulp-dendermonde.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Dendermonde",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Dendermonde",
+  "postcode": "9200",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Appels",
+   "Baasrode",
+   "Grembergen",
+   "Mespelare",
+   "Oudegem",
+   "Schoonaarde",
+   "Sint-Gillis-bij-Dendermonde"
+  ],
+  "in_de_buurt": [
+   "Hamme",
+   "Zele",
+   "Berlare",
+   "Lebbeke",
+   "Buggenhout",
+   "Wichelen"
+  ],
+  "streek": "Denderstreek",
+  "scenario": "een tandartspraktijk met twee behandelkamers"
+ },
+ {
+  "id": "regio/kookhulp-zele",
+  "path": "regio/kookhulp-zele.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Zele",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Zele",
+  "postcode": "9240",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Dendermonde",
+   "Berlare",
+   "Lokeren",
+   "Hamme",
+   "Waasmunster",
+   "Laarne"
+  ],
+  "streek": "Scheldeland",
+  "scenario": "een landbouwbedrijf met een bureau aan de hoeve"
+ },
+ {
+  "id": "regio/kookhulp-berlare",
+  "path": "regio/kookhulp-berlare.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Berlare",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Berlare",
+  "postcode": "9290",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Overmere",
+   "Uitbergen"
+  ],
+  "in_de_buurt": [
+   "Zele",
+   "Dendermonde",
+   "Wichelen",
+   "Laarne"
+  ],
+  "streek": "Scheldeland",
+  "scenario": "een interieurzaak met een toonzaal"
+ },
+ {
+  "id": "regio/kookhulp-hamme",
+  "path": "regio/kookhulp-hamme.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Hamme",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Hamme",
+  "postcode": "9220",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Moerzeke"
+  ],
+  "in_de_buurt": [
+   "Dendermonde",
+   "Zele",
+   "Waasmunster",
+   "Temse"
+  ],
+  "streek": "Scheldeland",
+  "scenario": "een kapsalon in de dorpskern"
+ },
+ {
+  "id": "regio/kookhulp-lokeren",
+  "path": "regio/kookhulp-lokeren.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Lokeren",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Lokeren",
+  "postcode": "9160",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Daknam",
+   "Eksaarde"
+  ],
+  "in_de_buurt": [
+   "Zele",
+   "Waasmunster",
+   "Lochristi",
+   "Sint-Niklaas"
+  ],
+  "streek": "Waasland",
+  "scenario": "een notariskantoor met een wachtzaal"
+ },
+ {
+  "id": "regio/kookhulp-sint-niklaas",
+  "path": "regio/kookhulp-sint-niklaas.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Sint-Niklaas",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Sint-Niklaas",
+  "postcode": "9100",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Belsele",
+   "Nieuwkerken-Waas",
+   "Sinaai"
+  ],
+  "in_de_buurt": [
+   "Beveren",
+   "Temse",
+   "Waasmunster",
+   "Stekene",
+   "Sint-Gillis-Waas",
+   "Lokeren"
+  ],
+  "streek": "Waasland",
+  "scenario": "een advocatenkantoor met twee vennoten"
+ },
+ {
+  "id": "regio/kookhulp-eeklo",
+  "path": "regio/kookhulp-eeklo.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Eeklo",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Eeklo",
+  "postcode": "9900",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Kaprijke",
+   "Maldegem",
+   "Lievegem",
+   "Sint-Laureins"
+  ],
+  "streek": "Meetjesland",
+  "scenario": "een transportfirma met een chauffeursruimte"
+ },
+ {
+  "id": "regio/kookhulp-maldegem",
+  "path": "regio/kookhulp-maldegem.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Kookhulp aan huis voor ondernemers in Maldegem",
+  "dienst": "kookhulp",
+  "scope": "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, rekening houden met allergieën en voorkeuren, boodschappen erbij",
+  "place": "Maldegem",
+  "postcode": "9990",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Adegem",
+   "Middelburg"
+  ],
+  "in_de_buurt": [
+   "Eeklo",
+   "Aalter",
+   "Sint-Laureins",
+   "Beernem"
+  ],
+  "streek": "Meetjesland",
+  "scenario": "een bouwbedrijf met een kantoor en een refter voor de ploeg"
+ },
+ {
   "id": "regio/boodschappendienst-kortrijk",
   "path": "regio/boodschappendienst-kortrijk.html",
   "kind": "dienst-stad",
@@ -4960,6 +6340,667 @@
   ],
   "streek": "regio Gent",
   "scenario": "een opticien in een winkelstraat"
+ },
+ {
+  "id": "regio/boodschappendienst-lochristi",
+  "path": "regio/boodschappendienst-lochristi.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Lochristi",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Lochristi",
+  "postcode": "9080",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Beervelde",
+   "Zaffelare",
+   "Zeveneken"
+  ],
+  "in_de_buurt": [
+   "Gent",
+   "Destelbergen",
+   "Lokeren",
+   "Wachtebeke",
+   "Laarne"
+  ],
+  "streek": "regio Gent",
+  "scenario": "een kinesitherapeut met een praktijk aan huis"
+ },
+ {
+  "id": "regio/boodschappendienst-destelbergen",
+  "path": "regio/boodschappendienst-destelbergen.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Destelbergen",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Destelbergen",
+  "postcode": "9070",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Heusden"
+  ],
+  "in_de_buurt": [
+   "Gent",
+   "Lochristi",
+   "Laarne",
+   "Wetteren",
+   "Melle"
+  ],
+  "streek": "regio Gent",
+  "scenario": "een tandartspraktijk met twee behandelkamers"
+ },
+ {
+  "id": "regio/boodschappendienst-evergem",
+  "path": "regio/boodschappendienst-evergem.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Evergem",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Evergem",
+  "postcode": "9940",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Ertvelde",
+   "Kluizen",
+   "Sleidinge"
+  ],
+  "in_de_buurt": [
+   "Gent",
+   "Lievegem",
+   "Zelzate",
+   "Assenede",
+   "Kaprijke"
+  ],
+  "streek": "regio Gent",
+  "scenario": "een landbouwbedrijf met een bureau aan de hoeve"
+ },
+ {
+  "id": "regio/boodschappendienst-lievegem",
+  "path": "regio/boodschappendienst-lievegem.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Lievegem",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Lievegem",
+  "postcode": "9920",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Lovendegem",
+   "Vinderhoute",
+   "Waarschoot",
+   "Zomergem",
+   "Oostwinkel",
+   "Ronsele"
+  ],
+  "in_de_buurt": [
+   "Gent",
+   "Evergem",
+   "Eeklo",
+   "Aalter",
+   "Deinze"
+  ],
+  "streek": "Meetjesland",
+  "scenario": "een interieurzaak met een toonzaal"
+ },
+ {
+  "id": "regio/boodschappendienst-wetteren",
+  "path": "regio/boodschappendienst-wetteren.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Wetteren",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Wetteren",
+  "postcode": "9230",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Massemen",
+   "Westrem"
+  ],
+  "in_de_buurt": [
+   "Destelbergen",
+   "Laarne",
+   "Wichelen",
+   "Lede",
+   "Oosterzele",
+   "Melle"
+  ],
+  "streek": "regio Gent",
+  "scenario": "een kapsalon in de dorpskern"
+ },
+ {
+  "id": "regio/boodschappendienst-oosterzele",
+  "path": "regio/boodschappendienst-oosterzele.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Oosterzele",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Oosterzele",
+  "postcode": "9860",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Balegem",
+   "Gijzenzele",
+   "Landskouter",
+   "Moortsele",
+   "Scheldewindeke"
+  ],
+  "in_de_buurt": [
+   "Merelbeke",
+   "Zottegem",
+   "Herzele",
+   "Sint-Lievens-Houtem",
+   "Wetteren"
+  ],
+  "streek": "regio Gent",
+  "scenario": "een notariskantoor met een wachtzaal"
+ },
+ {
+  "id": "regio/boodschappendienst-herzele",
+  "path": "regio/boodschappendienst-herzele.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Herzele",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Herzele",
+  "postcode": "9550",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Borsbeke",
+   "Hillegem",
+   "Ressegem",
+   "Sint-Antelinks",
+   "Sint-Lievens-Esse",
+   "Steenhuize-Wijnhuize",
+   "Woubrechtegem"
+  ],
+  "in_de_buurt": [
+   "Zottegem",
+   "Oosterzele",
+   "Sint-Lievens-Houtem",
+   "Haaltert",
+   "Lierde"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "scenario": "een advocatenkantoor met twee vennoten"
+ },
+ {
+  "id": "regio/boodschappendienst-brakel",
+  "path": "regio/boodschappendienst-brakel.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Brakel",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Brakel",
+  "postcode": "9660",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Elst",
+   "Everbeek",
+   "Michelbeke",
+   "Nederbrakel",
+   "Opbrakel",
+   "Parike",
+   "Zegelsem"
+  ],
+  "in_de_buurt": [
+   "Zottegem",
+   "Zwalm",
+   "Horebeke",
+   "Lierde",
+   "Geraardsbergen",
+   "Maarkedal"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "scenario": "een transportfirma met een chauffeursruimte"
+ },
+ {
+  "id": "regio/boodschappendienst-zwalm",
+  "path": "regio/boodschappendienst-zwalm.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Zwalm",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Zwalm",
+  "postcode": "9630",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Beerlegem",
+   "Dikkele",
+   "Hundelgem",
+   "Meilegem",
+   "Munkzwalm",
+   "Paulatem",
+   "Roborst",
+   "Rozebeke",
+   "Sint-Blasius-Boekel",
+   "Sint-Denijs-Boekel",
+   "Sint-Maria-Latem"
+  ],
+  "in_de_buurt": [
+   "Oudenaarde",
+   "Zottegem",
+   "Brakel",
+   "Gavere",
+   "Horebeke"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "scenario": "een bouwbedrijf met een kantoor en een refter voor de ploeg"
+ },
+ {
+  "id": "regio/boodschappendienst-maarkedal",
+  "path": "regio/boodschappendienst-maarkedal.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Maarkedal",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Maarkedal",
+  "postcode": "9680",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Etikhove",
+   "Maarke-Kerkem",
+   "Nukerke",
+   "Schorisse"
+  ],
+  "in_de_buurt": [
+   "Ronse",
+   "Oudenaarde",
+   "Horebeke",
+   "Brakel",
+   "Kluisbergen"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "scenario": "een showroom met keukens of badkamers"
+ },
+ {
+  "id": "regio/boodschappendienst-lierde",
+  "path": "regio/boodschappendienst-lierde.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Lierde",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Lierde",
+  "postcode": "9570",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Deftinge",
+   "Hemelveerdegem",
+   "Sint-Maria-Lierde",
+   "Sint-Martens-Lierde"
+  ],
+  "in_de_buurt": [
+   "Geraardsbergen",
+   "Brakel",
+   "Zottegem",
+   "Herzele",
+   "Ninove"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "scenario": "een verzekeringskantoor met een onthaal"
+ },
+ {
+  "id": "regio/boodschappendienst-geraardsbergen",
+  "path": "regio/boodschappendienst-geraardsbergen.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Geraardsbergen",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Geraardsbergen",
+  "postcode": "9500",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Goeferdinge",
+   "Grimminge",
+   "Idegem",
+   "Moerbeke",
+   "Nederboelare",
+   "Nieuwenhove",
+   "Onkerzele",
+   "Ophasselt",
+   "Overboelare",
+   "Schendelbeke",
+   "Smeerebbe-Vloerzegem",
+   "Viane",
+   "Zandbergen",
+   "Zarlardinge"
+  ],
+  "in_de_buurt": [
+   "Ninove",
+   "Lierde",
+   "Brakel"
+  ],
+  "streek": "Denderstreek",
+  "scenario": "een accountantskantoor met zes medewerkers"
+ },
+ {
+  "id": "regio/boodschappendienst-ninove",
+  "path": "regio/boodschappendienst-ninove.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Ninove",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Ninove",
+  "postcode": "9400",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Appelterre-Eichem",
+   "Aspelare",
+   "Denderwindeke",
+   "Lieferinge",
+   "Meerbeke",
+   "Nederhasselt",
+   "Neigem",
+   "Okegem",
+   "Outer",
+   "Pollare",
+   "Voorde"
+  ],
+  "in_de_buurt": [
+   "Denderleeuw",
+   "Haaltert",
+   "Geraardsbergen",
+   "Lierde"
+  ],
+  "streek": "Denderstreek",
+  "scenario": "een IT-consultant met een thuiskantoor"
+ },
+ {
+  "id": "regio/boodschappendienst-aalst",
+  "path": "regio/boodschappendienst-aalst.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Aalst",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Aalst",
+  "postcode": "9300",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Baardegem",
+   "Erembodegem",
+   "Gijzegem",
+   "Herdersem",
+   "Hofstade",
+   "Meldert",
+   "Moorsel",
+   "Nieuwerkerken"
+  ],
+  "in_de_buurt": [
+   "Lede",
+   "Erpe-Mere",
+   "Haaltert",
+   "Denderleeuw",
+   "Lebbeke"
+  ],
+  "streek": "Denderstreek",
+  "scenario": "een webshop met een klein magazijn"
+ },
+ {
+  "id": "regio/boodschappendienst-lede",
+  "path": "regio/boodschappendienst-lede.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Lede",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Lede",
+  "postcode": "9340",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Impe",
+   "Oordegem",
+   "Smetlede",
+   "Wanzele"
+  ],
+  "in_de_buurt": [
+   "Aalst",
+   "Erpe-Mere",
+   "Wichelen",
+   "Wetteren",
+   "Oosterzele"
+  ],
+  "streek": "Denderstreek",
+  "scenario": "een logopediste met een praktijk aan huis"
+ },
+ {
+  "id": "regio/boodschappendienst-erpe-mere",
+  "path": "regio/boodschappendienst-erpe-mere.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Erpe-Mere",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Erpe-Mere",
+  "postcode": "9420",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Aaigem",
+   "Bambrugge",
+   "Burst",
+   "Erondegem",
+   "Ottergem",
+   "Vlekkem",
+   "Mere"
+  ],
+  "in_de_buurt": [
+   "Aalst",
+   "Lede",
+   "Haaltert",
+   "Herzele",
+   "Sint-Lievens-Houtem"
+  ],
+  "streek": "Denderstreek",
+  "scenario": "een architect die thuis werkt"
+ },
+ {
+  "id": "regio/boodschappendienst-dendermonde",
+  "path": "regio/boodschappendienst-dendermonde.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Dendermonde",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Dendermonde",
+  "postcode": "9200",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Appels",
+   "Baasrode",
+   "Grembergen",
+   "Mespelare",
+   "Oudegem",
+   "Schoonaarde",
+   "Sint-Gillis-bij-Dendermonde"
+  ],
+  "in_de_buurt": [
+   "Hamme",
+   "Zele",
+   "Berlare",
+   "Lebbeke",
+   "Buggenhout",
+   "Wichelen"
+  ],
+  "streek": "Denderstreek",
+  "scenario": "een groepspraktijk van huisartsen"
+ },
+ {
+  "id": "regio/boodschappendienst-zele",
+  "path": "regio/boodschappendienst-zele.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Zele",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Zele",
+  "postcode": "9240",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Dendermonde",
+   "Berlare",
+   "Lokeren",
+   "Hamme",
+   "Waasmunster",
+   "Laarne"
+  ],
+  "streek": "Scheldeland",
+  "scenario": "een opticien in een winkelstraat"
+ },
+ {
+  "id": "regio/boodschappendienst-berlare",
+  "path": "regio/boodschappendienst-berlare.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Berlare",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Berlare",
+  "postcode": "9290",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Overmere",
+   "Uitbergen"
+  ],
+  "in_de_buurt": [
+   "Zele",
+   "Dendermonde",
+   "Wichelen",
+   "Laarne"
+  ],
+  "streek": "Scheldeland",
+  "scenario": "een kinesitherapeut met een praktijk aan huis"
+ },
+ {
+  "id": "regio/boodschappendienst-hamme",
+  "path": "regio/boodschappendienst-hamme.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Hamme",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Hamme",
+  "postcode": "9220",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Moerzeke"
+  ],
+  "in_de_buurt": [
+   "Dendermonde",
+   "Zele",
+   "Waasmunster",
+   "Temse"
+  ],
+  "streek": "Scheldeland",
+  "scenario": "een tandartspraktijk met twee behandelkamers"
+ },
+ {
+  "id": "regio/boodschappendienst-lokeren",
+  "path": "regio/boodschappendienst-lokeren.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Lokeren",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Lokeren",
+  "postcode": "9160",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Daknam",
+   "Eksaarde"
+  ],
+  "in_de_buurt": [
+   "Zele",
+   "Waasmunster",
+   "Lochristi",
+   "Sint-Niklaas"
+  ],
+  "streek": "Waasland",
+  "scenario": "een landbouwbedrijf met een bureau aan de hoeve"
+ },
+ {
+  "id": "regio/boodschappendienst-sint-niklaas",
+  "path": "regio/boodschappendienst-sint-niklaas.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Sint-Niklaas",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Sint-Niklaas",
+  "postcode": "9100",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Belsele",
+   "Nieuwkerken-Waas",
+   "Sinaai"
+  ],
+  "in_de_buurt": [
+   "Beveren",
+   "Temse",
+   "Waasmunster",
+   "Stekene",
+   "Sint-Gillis-Waas",
+   "Lokeren"
+  ],
+  "streek": "Waasland",
+  "scenario": "een interieurzaak met een toonzaal"
+ },
+ {
+  "id": "regio/boodschappendienst-eeklo",
+  "path": "regio/boodschappendienst-eeklo.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Eeklo",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Eeklo",
+  "postcode": "9900",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Kaprijke",
+   "Maldegem",
+   "Lievegem",
+   "Sint-Laureins"
+  ],
+  "streek": "Meetjesland",
+  "scenario": "een kapsalon in de dorpskern"
+ },
+ {
+  "id": "regio/boodschappendienst-maldegem",
+  "path": "regio/boodschappendienst-maldegem.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Boodschappendienst voor ondernemers in Maldegem",
+  "dienst": "boodschappendienst",
+  "scope": "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis en kleermaker, pakjes afgeven en ophalen, koffie en keukenvoorraad op kantoor",
+  "place": "Maldegem",
+  "postcode": "9990",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Adegem",
+   "Middelburg"
+  ],
+  "in_de_buurt": [
+   "Eeklo",
+   "Aalter",
+   "Sint-Laureins",
+   "Beernem"
+  ],
+  "streek": "Meetjesland",
+  "scenario": "een notariskantoor met een wachtzaal"
  },
  {
   "id": "regio/hulp-in-huis-kortrijk",
@@ -6422,6 +8463,667 @@
   "scenario": "een logopediste met een praktijk aan huis"
  },
  {
+  "id": "regio/hulp-in-huis-lochristi",
+  "path": "regio/hulp-in-huis-lochristi.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Lochristi",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Lochristi",
+  "postcode": "9080",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Beervelde",
+   "Zaffelare",
+   "Zeveneken"
+  ],
+  "in_de_buurt": [
+   "Gent",
+   "Destelbergen",
+   "Lokeren",
+   "Wachtebeke",
+   "Laarne"
+  ],
+  "streek": "regio Gent",
+  "scenario": "een architect die thuis werkt"
+ },
+ {
+  "id": "regio/hulp-in-huis-destelbergen",
+  "path": "regio/hulp-in-huis-destelbergen.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Destelbergen",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Destelbergen",
+  "postcode": "9070",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Heusden"
+  ],
+  "in_de_buurt": [
+   "Gent",
+   "Lochristi",
+   "Laarne",
+   "Wetteren",
+   "Melle"
+  ],
+  "streek": "regio Gent",
+  "scenario": "een groepspraktijk van huisartsen"
+ },
+ {
+  "id": "regio/hulp-in-huis-evergem",
+  "path": "regio/hulp-in-huis-evergem.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Evergem",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Evergem",
+  "postcode": "9940",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Ertvelde",
+   "Kluizen",
+   "Sleidinge"
+  ],
+  "in_de_buurt": [
+   "Gent",
+   "Lievegem",
+   "Zelzate",
+   "Assenede",
+   "Kaprijke"
+  ],
+  "streek": "regio Gent",
+  "scenario": "een opticien in een winkelstraat"
+ },
+ {
+  "id": "regio/hulp-in-huis-lievegem",
+  "path": "regio/hulp-in-huis-lievegem.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Lievegem",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Lievegem",
+  "postcode": "9920",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Lovendegem",
+   "Vinderhoute",
+   "Waarschoot",
+   "Zomergem",
+   "Oostwinkel",
+   "Ronsele"
+  ],
+  "in_de_buurt": [
+   "Gent",
+   "Evergem",
+   "Eeklo",
+   "Aalter",
+   "Deinze"
+  ],
+  "streek": "Meetjesland",
+  "scenario": "een kinesitherapeut met een praktijk aan huis"
+ },
+ {
+  "id": "regio/hulp-in-huis-wetteren",
+  "path": "regio/hulp-in-huis-wetteren.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Wetteren",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Wetteren",
+  "postcode": "9230",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Massemen",
+   "Westrem"
+  ],
+  "in_de_buurt": [
+   "Destelbergen",
+   "Laarne",
+   "Wichelen",
+   "Lede",
+   "Oosterzele",
+   "Melle"
+  ],
+  "streek": "regio Gent",
+  "scenario": "een tandartspraktijk met twee behandelkamers"
+ },
+ {
+  "id": "regio/hulp-in-huis-oosterzele",
+  "path": "regio/hulp-in-huis-oosterzele.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Oosterzele",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Oosterzele",
+  "postcode": "9860",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Balegem",
+   "Gijzenzele",
+   "Landskouter",
+   "Moortsele",
+   "Scheldewindeke"
+  ],
+  "in_de_buurt": [
+   "Merelbeke",
+   "Zottegem",
+   "Herzele",
+   "Sint-Lievens-Houtem",
+   "Wetteren"
+  ],
+  "streek": "regio Gent",
+  "scenario": "een landbouwbedrijf met een bureau aan de hoeve"
+ },
+ {
+  "id": "regio/hulp-in-huis-herzele",
+  "path": "regio/hulp-in-huis-herzele.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Herzele",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Herzele",
+  "postcode": "9550",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Borsbeke",
+   "Hillegem",
+   "Ressegem",
+   "Sint-Antelinks",
+   "Sint-Lievens-Esse",
+   "Steenhuize-Wijnhuize",
+   "Woubrechtegem"
+  ],
+  "in_de_buurt": [
+   "Zottegem",
+   "Oosterzele",
+   "Sint-Lievens-Houtem",
+   "Haaltert",
+   "Lierde"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "scenario": "een interieurzaak met een toonzaal"
+ },
+ {
+  "id": "regio/hulp-in-huis-brakel",
+  "path": "regio/hulp-in-huis-brakel.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Brakel",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Brakel",
+  "postcode": "9660",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Elst",
+   "Everbeek",
+   "Michelbeke",
+   "Nederbrakel",
+   "Opbrakel",
+   "Parike",
+   "Zegelsem"
+  ],
+  "in_de_buurt": [
+   "Zottegem",
+   "Zwalm",
+   "Horebeke",
+   "Lierde",
+   "Geraardsbergen",
+   "Maarkedal"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "scenario": "een kapsalon in de dorpskern"
+ },
+ {
+  "id": "regio/hulp-in-huis-zwalm",
+  "path": "regio/hulp-in-huis-zwalm.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Zwalm",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Zwalm",
+  "postcode": "9630",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Beerlegem",
+   "Dikkele",
+   "Hundelgem",
+   "Meilegem",
+   "Munkzwalm",
+   "Paulatem",
+   "Roborst",
+   "Rozebeke",
+   "Sint-Blasius-Boekel",
+   "Sint-Denijs-Boekel",
+   "Sint-Maria-Latem"
+  ],
+  "in_de_buurt": [
+   "Oudenaarde",
+   "Zottegem",
+   "Brakel",
+   "Gavere",
+   "Horebeke"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "scenario": "een notariskantoor met een wachtzaal"
+ },
+ {
+  "id": "regio/hulp-in-huis-maarkedal",
+  "path": "regio/hulp-in-huis-maarkedal.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Maarkedal",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Maarkedal",
+  "postcode": "9680",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Etikhove",
+   "Maarke-Kerkem",
+   "Nukerke",
+   "Schorisse"
+  ],
+  "in_de_buurt": [
+   "Ronse",
+   "Oudenaarde",
+   "Horebeke",
+   "Brakel",
+   "Kluisbergen"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "scenario": "een advocatenkantoor met twee vennoten"
+ },
+ {
+  "id": "regio/hulp-in-huis-lierde",
+  "path": "regio/hulp-in-huis-lierde.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Lierde",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Lierde",
+  "postcode": "9570",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Deftinge",
+   "Hemelveerdegem",
+   "Sint-Maria-Lierde",
+   "Sint-Martens-Lierde"
+  ],
+  "in_de_buurt": [
+   "Geraardsbergen",
+   "Brakel",
+   "Zottegem",
+   "Herzele",
+   "Ninove"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "scenario": "een transportfirma met een chauffeursruimte"
+ },
+ {
+  "id": "regio/hulp-in-huis-geraardsbergen",
+  "path": "regio/hulp-in-huis-geraardsbergen.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Geraardsbergen",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Geraardsbergen",
+  "postcode": "9500",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Goeferdinge",
+   "Grimminge",
+   "Idegem",
+   "Moerbeke",
+   "Nederboelare",
+   "Nieuwenhove",
+   "Onkerzele",
+   "Ophasselt",
+   "Overboelare",
+   "Schendelbeke",
+   "Smeerebbe-Vloerzegem",
+   "Viane",
+   "Zandbergen",
+   "Zarlardinge"
+  ],
+  "in_de_buurt": [
+   "Ninove",
+   "Lierde",
+   "Brakel"
+  ],
+  "streek": "Denderstreek",
+  "scenario": "een bouwbedrijf met een kantoor en een refter voor de ploeg"
+ },
+ {
+  "id": "regio/hulp-in-huis-ninove",
+  "path": "regio/hulp-in-huis-ninove.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Ninove",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Ninove",
+  "postcode": "9400",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Appelterre-Eichem",
+   "Aspelare",
+   "Denderwindeke",
+   "Lieferinge",
+   "Meerbeke",
+   "Nederhasselt",
+   "Neigem",
+   "Okegem",
+   "Outer",
+   "Pollare",
+   "Voorde"
+  ],
+  "in_de_buurt": [
+   "Denderleeuw",
+   "Haaltert",
+   "Geraardsbergen",
+   "Lierde"
+  ],
+  "streek": "Denderstreek",
+  "scenario": "een showroom met keukens of badkamers"
+ },
+ {
+  "id": "regio/hulp-in-huis-aalst",
+  "path": "regio/hulp-in-huis-aalst.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Aalst",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Aalst",
+  "postcode": "9300",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Baardegem",
+   "Erembodegem",
+   "Gijzegem",
+   "Herdersem",
+   "Hofstade",
+   "Meldert",
+   "Moorsel",
+   "Nieuwerkerken"
+  ],
+  "in_de_buurt": [
+   "Lede",
+   "Erpe-Mere",
+   "Haaltert",
+   "Denderleeuw",
+   "Lebbeke"
+  ],
+  "streek": "Denderstreek",
+  "scenario": "een verzekeringskantoor met een onthaal"
+ },
+ {
+  "id": "regio/hulp-in-huis-lede",
+  "path": "regio/hulp-in-huis-lede.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Lede",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Lede",
+  "postcode": "9340",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Impe",
+   "Oordegem",
+   "Smetlede",
+   "Wanzele"
+  ],
+  "in_de_buurt": [
+   "Aalst",
+   "Erpe-Mere",
+   "Wichelen",
+   "Wetteren",
+   "Oosterzele"
+  ],
+  "streek": "Denderstreek",
+  "scenario": "een accountantskantoor met zes medewerkers"
+ },
+ {
+  "id": "regio/hulp-in-huis-erpe-mere",
+  "path": "regio/hulp-in-huis-erpe-mere.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Erpe-Mere",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Erpe-Mere",
+  "postcode": "9420",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Aaigem",
+   "Bambrugge",
+   "Burst",
+   "Erondegem",
+   "Ottergem",
+   "Vlekkem",
+   "Mere"
+  ],
+  "in_de_buurt": [
+   "Aalst",
+   "Lede",
+   "Haaltert",
+   "Herzele",
+   "Sint-Lievens-Houtem"
+  ],
+  "streek": "Denderstreek",
+  "scenario": "een IT-consultant met een thuiskantoor"
+ },
+ {
+  "id": "regio/hulp-in-huis-dendermonde",
+  "path": "regio/hulp-in-huis-dendermonde.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Dendermonde",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Dendermonde",
+  "postcode": "9200",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Appels",
+   "Baasrode",
+   "Grembergen",
+   "Mespelare",
+   "Oudegem",
+   "Schoonaarde",
+   "Sint-Gillis-bij-Dendermonde"
+  ],
+  "in_de_buurt": [
+   "Hamme",
+   "Zele",
+   "Berlare",
+   "Lebbeke",
+   "Buggenhout",
+   "Wichelen"
+  ],
+  "streek": "Denderstreek",
+  "scenario": "een webshop met een klein magazijn"
+ },
+ {
+  "id": "regio/hulp-in-huis-zele",
+  "path": "regio/hulp-in-huis-zele.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Zele",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Zele",
+  "postcode": "9240",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Dendermonde",
+   "Berlare",
+   "Lokeren",
+   "Hamme",
+   "Waasmunster",
+   "Laarne"
+  ],
+  "streek": "Scheldeland",
+  "scenario": "een logopediste met een praktijk aan huis"
+ },
+ {
+  "id": "regio/hulp-in-huis-berlare",
+  "path": "regio/hulp-in-huis-berlare.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Berlare",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Berlare",
+  "postcode": "9290",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Overmere",
+   "Uitbergen"
+  ],
+  "in_de_buurt": [
+   "Zele",
+   "Dendermonde",
+   "Wichelen",
+   "Laarne"
+  ],
+  "streek": "Scheldeland",
+  "scenario": "een architect die thuis werkt"
+ },
+ {
+  "id": "regio/hulp-in-huis-hamme",
+  "path": "regio/hulp-in-huis-hamme.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Hamme",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Hamme",
+  "postcode": "9220",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Moerzeke"
+  ],
+  "in_de_buurt": [
+   "Dendermonde",
+   "Zele",
+   "Waasmunster",
+   "Temse"
+  ],
+  "streek": "Scheldeland",
+  "scenario": "een groepspraktijk van huisartsen"
+ },
+ {
+  "id": "regio/hulp-in-huis-lokeren",
+  "path": "regio/hulp-in-huis-lokeren.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Lokeren",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Lokeren",
+  "postcode": "9160",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Daknam",
+   "Eksaarde"
+  ],
+  "in_de_buurt": [
+   "Zele",
+   "Waasmunster",
+   "Lochristi",
+   "Sint-Niklaas"
+  ],
+  "streek": "Waasland",
+  "scenario": "een opticien in een winkelstraat"
+ },
+ {
+  "id": "regio/hulp-in-huis-sint-niklaas",
+  "path": "regio/hulp-in-huis-sint-niklaas.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Sint-Niklaas",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Sint-Niklaas",
+  "postcode": "9100",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Belsele",
+   "Nieuwkerken-Waas",
+   "Sinaai"
+  ],
+  "in_de_buurt": [
+   "Beveren",
+   "Temse",
+   "Waasmunster",
+   "Stekene",
+   "Sint-Gillis-Waas",
+   "Lokeren"
+  ],
+  "streek": "Waasland",
+  "scenario": "een kinesitherapeut met een praktijk aan huis"
+ },
+ {
+  "id": "regio/hulp-in-huis-eeklo",
+  "path": "regio/hulp-in-huis-eeklo.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Eeklo",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Eeklo",
+  "postcode": "9900",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Kaprijke",
+   "Maldegem",
+   "Lievegem",
+   "Sint-Laureins"
+  ],
+  "streek": "Meetjesland",
+  "scenario": "een tandartspraktijk met twee behandelkamers"
+ },
+ {
+  "id": "regio/hulp-in-huis-maldegem",
+  "path": "regio/hulp-in-huis-maldegem.html",
+  "kind": "dienst-stad",
+  "group": "regio",
+  "h1": "Hulp in huis voor ondernemers in Maldegem",
+  "dienst": "hulp-in-huis",
+  "scope": "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen en opvangen na school, tuin en terras, hond uitlaten, huis bijhouden tijdens de vakantie",
+  "place": "Maldegem",
+  "postcode": "9990",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Adegem",
+   "Middelburg"
+  ],
+  "in_de_buurt": [
+   "Eeklo",
+   "Aalter",
+   "Sint-Laureins",
+   "Beernem"
+  ],
+  "streek": "Meetjesland",
+  "scenario": "een landbouwbedrijf met een bureau aan de hoeve"
+ },
+ {
   "id": "sectoren/kleine-kantoren",
   "path": "sectoren/kleine-kantoren.html",
   "kind": "sector",
@@ -7740,6 +10442,1004 @@
   "persona": "een ploegarbeider met vrije voormiddagen in bepaalde weken"
  },
  {
+  "id": "werken/studentenjob-wervik",
+  "path": "werken/studentenjob-wervik.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Wervik",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Wervik",
+  "postcode": "8940",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Geluwe"
+  ],
+  "in_de_buurt": [
+   "Menen",
+   "Geluwe",
+   "Zonnebeke",
+   "Ieper"
+  ],
+  "streek": "regio Kortrijk",
+  "persona": "een zij-instromer uit de horeca die geen avonden en weekends meer wil"
+ },
+ {
+  "id": "werken/studentenjob-deerlijk",
+  "path": "werken/studentenjob-deerlijk.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Deerlijk",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Deerlijk",
+  "postcode": "8540",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Harelbeke",
+   "Zwevegem",
+   "Waregem",
+   "Anzegem"
+  ],
+  "streek": "regio Kortrijk",
+  "persona": "iemand die van strijken en orde houdt"
+ },
+ {
+  "id": "werken/studentenjob-anzegem",
+  "path": "werken/studentenjob-anzegem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Anzegem",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Anzegem",
+  "postcode": "8570",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Gijzelbrechtegem",
+   "Ingooigem",
+   "Kaster",
+   "Tiegem",
+   "Vichte"
+  ],
+  "in_de_buurt": [
+   "Waregem",
+   "Deerlijk",
+   "Zwevegem",
+   "Avelgem"
+  ],
+  "streek": "regio Kortrijk",
+  "persona": "een masterstudent met twee vrije namiddagen per week"
+ },
+ {
+  "id": "werken/studentenjob-avelgem",
+  "path": "werken/studentenjob-avelgem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Avelgem",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Avelgem",
+  "postcode": "8580",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Bossuit",
+   "Kerkhove",
+   "Outrijve",
+   "Waarmaarde"
+  ],
+  "in_de_buurt": [
+   "Zwevegem",
+   "Anzegem",
+   "Spiere-Helkijn",
+   "Kluisbergen"
+  ],
+  "streek": "regio Kortrijk",
+  "persona": "een gepensioneerde die graag kookt en een paar voormiddagen wil werken"
+ },
+ {
+  "id": "werken/studentenjob-lendelede",
+  "path": "werken/studentenjob-lendelede.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Lendelede",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Lendelede",
+  "postcode": "8860",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Kuurne",
+   "Heule",
+   "Izegem",
+   "Ingelmunster",
+   "Moorsele"
+  ],
+  "streek": "regio Kortrijk",
+  "persona": "een mama of papa die wil werken binnen de schooluren"
+ },
+ {
+  "id": "werken/studentenjob-ledegem",
+  "path": "werken/studentenjob-ledegem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Ledegem",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Ledegem",
+  "postcode": "8880",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Rollegem-Kapelle",
+   "Sint-Eloois-Winkel"
+  ],
+  "in_de_buurt": [
+   "Moorslede",
+   "Wevelgem",
+   "Izegem",
+   "Menen"
+  ],
+  "streek": "regio Roeselare",
+  "persona": "iemand uit de winkelsector die een rooster zonder zaterdagen zoekt"
+ },
+ {
+  "id": "werken/studentenjob-moorslede",
+  "path": "werken/studentenjob-moorslede.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Moorslede",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Moorslede",
+  "postcode": "8890",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Dadizele"
+  ],
+  "in_de_buurt": [
+   "Ledegem",
+   "Roeselare",
+   "Zonnebeke",
+   "Staden"
+  ],
+  "streek": "regio Roeselare",
+  "persona": "een student verpleegkunde met lessen vooral in de voormiddag"
+ },
+ {
+  "id": "werken/studentenjob-ingelmunster",
+  "path": "werken/studentenjob-ingelmunster.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Ingelmunster",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Ingelmunster",
+  "postcode": "8770",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Izegem",
+   "Meulebeke",
+   "Oostrozebeke",
+   "Lendelede"
+  ],
+  "streek": "regio Roeselare",
+  "persona": "een student lerarenopleiding die graag met kinderen werkt"
+ },
+ {
+  "id": "werken/studentenjob-hooglede",
+  "path": "werken/studentenjob-hooglede.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Hooglede",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Hooglede",
+  "postcode": "8830",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Gits"
+  ],
+  "in_de_buurt": [
+   "Roeselare",
+   "Staden",
+   "Lichtervelde",
+   "Kortemark"
+  ],
+  "streek": "regio Roeselare",
+  "persona": "een zelfstandige in bijberoep die vaste uren zoekt"
+ },
+ {
+  "id": "werken/studentenjob-staden",
+  "path": "werken/studentenjob-staden.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Staden",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Staden",
+  "postcode": "8840",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Oostnieuwkerke",
+   "Westrozebeke"
+  ],
+  "in_de_buurt": [
+   "Hooglede",
+   "Roeselare",
+   "Moorslede",
+   "Langemark-Poelkapelle",
+   "Zonnebeke"
+  ],
+  "streek": "regio Roeselare",
+  "persona": "een herintreder na enkele jaren thuis bij de kinderen"
+ },
+ {
+  "id": "werken/studentenjob-lichtervelde",
+  "path": "werken/studentenjob-lichtervelde.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Lichtervelde",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Lichtervelde",
+  "postcode": "8810",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Torhout",
+   "Ardooie",
+   "Hooglede",
+   "Roeselare"
+  ],
+  "streek": "regio Roeselare",
+  "persona": "iemand die graag buiten werkt en de tuin en het terras wil doen"
+ },
+ {
+  "id": "werken/studentenjob-ardooie",
+  "path": "werken/studentenjob-ardooie.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Ardooie",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Ardooie",
+  "postcode": "8850",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Koolskamp"
+  ],
+  "in_de_buurt": [
+   "Roeselare",
+   "Izegem",
+   "Lichtervelde",
+   "Pittem",
+   "Meulebeke"
+  ],
+  "streek": "regio Roeselare",
+  "persona": "een student die op kot zit en in de vakanties extra wil werken"
+ },
+ {
+  "id": "werken/studentenjob-meulebeke",
+  "path": "werken/studentenjob-meulebeke.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Meulebeke",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Meulebeke",
+  "postcode": "8760",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Tielt",
+   "Ingelmunster",
+   "Oostrozebeke",
+   "Pittem",
+   "Dentergem"
+  ],
+  "streek": "regio Tielt",
+  "persona": "een bediende met een vierdagenweek die de vrije dag wil invullen"
+ },
+ {
+  "id": "werken/studentenjob-oostrozebeke",
+  "path": "werken/studentenjob-oostrozebeke.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Oostrozebeke",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Oostrozebeke",
+  "postcode": "8780",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Wielsbeke",
+   "Ingelmunster",
+   "Meulebeke"
+  ],
+  "streek": "Leiestreek",
+  "persona": "een ploegarbeider met vrije voormiddagen in bepaalde weken"
+ },
+ {
+  "id": "werken/studentenjob-wielsbeke",
+  "path": "werken/studentenjob-wielsbeke.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Wielsbeke",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Wielsbeke",
+  "postcode": "8710",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Ooigem",
+   "Sint-Baafs-Vijve"
+  ],
+  "in_de_buurt": [
+   "Oostrozebeke",
+   "Waregem",
+   "Dentergem",
+   "Meulebeke"
+  ],
+  "streek": "Leiestreek",
+  "persona": "een zij-instromer uit de horeca die geen avonden en weekends meer wil"
+ },
+ {
+  "id": "werken/studentenjob-dentergem",
+  "path": "werken/studentenjob-dentergem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Dentergem",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Dentergem",
+  "postcode": "8720",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Markegem",
+   "Oeselgem",
+   "Wakken"
+  ],
+  "in_de_buurt": [
+   "Wielsbeke",
+   "Tielt",
+   "Zulte",
+   "Deinze",
+   "Meulebeke"
+  ],
+  "streek": "Leiestreek",
+  "persona": "iemand die van strijken en orde houdt"
+ },
+ {
+  "id": "werken/studentenjob-zulte",
+  "path": "werken/studentenjob-zulte.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Zulte",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Zulte",
+  "postcode": "9870",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Machelen",
+   "Olsene"
+  ],
+  "in_de_buurt": [
+   "Waregem",
+   "Deinze",
+   "Kruisem",
+   "Dentergem",
+   "Wielsbeke"
+  ],
+  "streek": "Leiestreek",
+  "persona": "een masterstudent met twee vrije namiddagen per week"
+ },
+ {
+  "id": "werken/studentenjob-pittem",
+  "path": "werken/studentenjob-pittem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Pittem",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Pittem",
+  "postcode": "8740",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Egem"
+  ],
+  "in_de_buurt": [
+   "Tielt",
+   "Ardooie",
+   "Wingene",
+   "Meulebeke"
+  ],
+  "streek": "regio Tielt",
+  "persona": "een gepensioneerde die graag kookt en een paar voormiddagen wil werken"
+ },
+ {
+  "id": "werken/studentenjob-zonnebeke",
+  "path": "werken/studentenjob-zonnebeke.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Zonnebeke",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Zonnebeke",
+  "postcode": "8980",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Beselare",
+   "Geluveld",
+   "Passendale",
+   "Zandvoorde"
+  ],
+  "in_de_buurt": [
+   "Ieper",
+   "Moorslede",
+   "Langemark-Poelkapelle",
+   "Staden",
+   "Wervik"
+  ],
+  "streek": "Westhoek",
+  "persona": "een mama of papa die wil werken binnen de schooluren"
+ },
+ {
+  "id": "werken/studentenjob-kruisem",
+  "path": "werken/studentenjob-kruisem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Kruisem",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Kruisem",
+  "postcode": "9770",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Kruishoutem",
+   "Zingem",
+   "Lozer",
+   "Nokere",
+   "Wannegem-Lede",
+   "Huise",
+   "Ouwegem"
+  ],
+  "in_de_buurt": [
+   "Oudenaarde",
+   "Waregem",
+   "Zulte",
+   "Wortegem-Petegem",
+   "Gavere"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "persona": "iemand uit de winkelsector die een rooster zonder zaterdagen zoekt"
+ },
+ {
+  "id": "werken/studentenjob-oostkamp",
+  "path": "werken/studentenjob-oostkamp.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Oostkamp",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Oostkamp",
+  "postcode": "8020",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Hertsberge",
+   "Ruddervoorde",
+   "Waardamme"
+  ],
+  "in_de_buurt": [
+   "Brugge",
+   "Beernem",
+   "Zedelgem",
+   "Torhout"
+  ],
+  "streek": "regio Brugge",
+  "persona": "een student verpleegkunde met lessen vooral in de voormiddag"
+ },
+ {
+  "id": "werken/studentenjob-zedelgem",
+  "path": "werken/studentenjob-zedelgem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Zedelgem",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Zedelgem",
+  "postcode": "8210",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Aartrijke",
+   "Loppem",
+   "Veldegem"
+  ],
+  "in_de_buurt": [
+   "Brugge",
+   "Oostkamp",
+   "Torhout",
+   "Jabbeke",
+   "Ichtegem"
+  ],
+  "streek": "regio Brugge",
+  "persona": "een student lerarenopleiding die graag met kinderen werkt"
+ },
+ {
+  "id": "werken/studentenjob-beernem",
+  "path": "werken/studentenjob-beernem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Beernem",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Beernem",
+  "postcode": "8730",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Oedelem",
+   "Sint-Joris"
+  ],
+  "in_de_buurt": [
+   "Oostkamp",
+   "Brugge",
+   "Wingene",
+   "Aalter"
+  ],
+  "streek": "regio Brugge",
+  "persona": "een zelfstandige in bijberoep die vaste uren zoekt"
+ },
+ {
+  "id": "werken/studentenjob-wingene",
+  "path": "werken/studentenjob-wingene.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Wingene",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Wingene",
+  "postcode": "8750",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Zwevezele"
+  ],
+  "in_de_buurt": [
+   "Tielt",
+   "Ruiselede",
+   "Beernem",
+   "Pittem",
+   "Ardooie"
+  ],
+  "streek": "regio Tielt",
+  "persona": "een herintreder na enkele jaren thuis bij de kinderen"
+ },
+ {
+  "id": "werken/studentenjob-ruiselede",
+  "path": "werken/studentenjob-ruiselede.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Ruiselede",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Ruiselede",
+  "postcode": "8755",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Doomkerke"
+  ],
+  "in_de_buurt": [
+   "Wingene",
+   "Tielt",
+   "Aalter",
+   "Beernem"
+  ],
+  "streek": "regio Tielt",
+  "persona": "iemand die graag buiten werkt en de tuin en het terras wil doen"
+ },
+ {
+  "id": "werken/studentenjob-kortemark",
+  "path": "werken/studentenjob-kortemark.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Kortemark",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Kortemark",
+  "postcode": "8610",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Handzame",
+   "Werken",
+   "Zarren"
+  ],
+  "in_de_buurt": [
+   "Torhout",
+   "Hooglede",
+   "Diksmuide",
+   "Houthulst",
+   "Ichtegem"
+  ],
+  "streek": "Westhoek",
+  "persona": "een student die op kot zit en in de vakanties extra wil werken"
+ },
+ {
+  "id": "werken/studentenjob-diksmuide",
+  "path": "werken/studentenjob-diksmuide.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Diksmuide",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Diksmuide",
+  "postcode": "8600",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Beerst",
+   "Esen",
+   "Kaaskerke",
+   "Keiem",
+   "Lampernisse",
+   "Leke",
+   "Nieuwkapelle",
+   "Oostkerke",
+   "Oudekapelle",
+   "Pervijze",
+   "Sint-Jacobskapelle",
+   "Stuivekenskerke",
+   "Vladslo",
+   "Woumen"
+  ],
+  "in_de_buurt": [
+   "Kortemark",
+   "Houthulst",
+   "Lo-Reninge",
+   "Koekelare"
+  ],
+  "streek": "Westhoek",
+  "persona": "een bediende met een vierdagenweek die de vrije dag wil invullen"
+ },
+ {
+  "id": "werken/studentenjob-langemark-poelkapelle",
+  "path": "werken/studentenjob-langemark-poelkapelle.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Langemark-Poelkapelle",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Langemark-Poelkapelle",
+  "postcode": "8920",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Langemark",
+   "Poelkapelle",
+   "Bikschote"
+  ],
+  "in_de_buurt": [
+   "Ieper",
+   "Staden",
+   "Houthulst",
+   "Zonnebeke"
+  ],
+  "streek": "Westhoek",
+  "persona": "een ploegarbeider met vrije voormiddagen in bepaalde weken"
+ },
+ {
+  "id": "werken/studentenjob-spiere-helkijn",
+  "path": "werken/studentenjob-spiere-helkijn.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Spiere-Helkijn",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Spiere-Helkijn",
+  "postcode": "8587",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Spiere",
+   "Helkijn"
+  ],
+  "in_de_buurt": [
+   "Avelgem",
+   "Zwevegem",
+   "Kooigem"
+  ],
+  "streek": "regio Kortrijk",
+  "persona": "een zij-instromer uit de horeca die geen avonden en weekends meer wil"
+ },
+ {
+  "id": "werken/studentenjob-nazareth",
+  "path": "werken/studentenjob-nazareth.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Nazareth",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Nazareth",
+  "postcode": "9810",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Eke"
+  ],
+  "in_de_buurt": [
+   "Deinze",
+   "De Pinte",
+   "Gavere",
+   "Kruisem"
+  ],
+  "streek": "regio Gent",
+  "persona": "iemand die van strijken en orde houdt"
+ },
+ {
+  "id": "werken/studentenjob-de-pinte",
+  "path": "werken/studentenjob-de-pinte.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in De Pinte",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "De Pinte",
+  "postcode": "9840",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Zevergem"
+  ],
+  "in_de_buurt": [
+   "Gent",
+   "Nazareth",
+   "Sint-Martens-Latem",
+   "Merelbeke",
+   "Gavere"
+  ],
+  "streek": "regio Gent",
+  "persona": "een masterstudent met twee vrije namiddagen per week"
+ },
+ {
+  "id": "werken/studentenjob-sint-martens-latem",
+  "path": "werken/studentenjob-sint-martens-latem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Sint-Martens-Latem",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Sint-Martens-Latem",
+  "postcode": "9830",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Deurle"
+  ],
+  "in_de_buurt": [
+   "Gent",
+   "De Pinte",
+   "Deinze",
+   "Nazareth"
+  ],
+  "streek": "regio Gent",
+  "persona": "een gepensioneerde die graag kookt en een paar voormiddagen wil werken"
+ },
+ {
+  "id": "werken/studentenjob-gavere",
+  "path": "werken/studentenjob-gavere.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Gavere",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Gavere",
+  "postcode": "9890",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Asper",
+   "Baaigem",
+   "Dikkelvenne",
+   "Semmerzake",
+   "Vurste"
+  ],
+  "in_de_buurt": [
+   "Nazareth",
+   "Kruisem",
+   "Zwalm",
+   "Merelbeke"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "persona": "een mama of papa die wil werken binnen de schooluren"
+ },
+ {
+  "id": "werken/studentenjob-wortegem-petegem",
+  "path": "werken/studentenjob-wortegem-petegem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Wortegem-Petegem",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Wortegem-Petegem",
+  "postcode": "9790",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Elsegem",
+   "Moregem",
+   "Ooike",
+   "Petegem-aan-de-Schelde"
+  ],
+  "in_de_buurt": [
+   "Oudenaarde",
+   "Waregem",
+   "Kruisem",
+   "Anzegem"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "persona": "iemand uit de winkelsector die een rooster zonder zaterdagen zoekt"
+ },
+ {
+  "id": "werken/studentenjob-kluisbergen",
+  "path": "werken/studentenjob-kluisbergen.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Studentenjob met flexibele uren in Kluisbergen",
+  "soort_job": "studentenjob",
+  "scope": "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work",
+  "employment": [
+   "PART_TIME",
+   "TEMPORARY"
+  ],
+  "place": "Kluisbergen",
+  "postcode": "9690",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Berchem",
+   "Kwaremont",
+   "Ruien",
+   "Zulzeke"
+  ],
+  "in_de_buurt": [
+   "Avelgem",
+   "Oudenaarde",
+   "Ronse",
+   "Anzegem"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "persona": "een student verpleegkunde met lessen vooral in de voormiddag"
+ },
+ {
   "id": "werken/flexi-job-kortrijk",
   "path": "werken/flexi-job-kortrijk.html",
   "kind": "kandidaat",
@@ -8406,6 +12106,969 @@
   ],
   "streek": "regio Gent",
   "persona": "iemand die graag buiten werkt en de tuin en het terras wil doen"
+ },
+ {
+  "id": "werken/flexi-job-wervik",
+  "path": "werken/flexi-job-wervik.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Wervik",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Wervik",
+  "postcode": "8940",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Geluwe"
+  ],
+  "in_de_buurt": [
+   "Menen",
+   "Geluwe",
+   "Zonnebeke",
+   "Ieper"
+  ],
+  "streek": "regio Kortrijk",
+  "persona": "een student die op kot zit en in de vakanties extra wil werken"
+ },
+ {
+  "id": "werken/flexi-job-deerlijk",
+  "path": "werken/flexi-job-deerlijk.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Deerlijk",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Deerlijk",
+  "postcode": "8540",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Harelbeke",
+   "Zwevegem",
+   "Waregem",
+   "Anzegem"
+  ],
+  "streek": "regio Kortrijk",
+  "persona": "een bediende met een vierdagenweek die de vrije dag wil invullen"
+ },
+ {
+  "id": "werken/flexi-job-anzegem",
+  "path": "werken/flexi-job-anzegem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Anzegem",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Anzegem",
+  "postcode": "8570",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Gijzelbrechtegem",
+   "Ingooigem",
+   "Kaster",
+   "Tiegem",
+   "Vichte"
+  ],
+  "in_de_buurt": [
+   "Waregem",
+   "Deerlijk",
+   "Zwevegem",
+   "Avelgem"
+  ],
+  "streek": "regio Kortrijk",
+  "persona": "een ploegarbeider met vrije voormiddagen in bepaalde weken"
+ },
+ {
+  "id": "werken/flexi-job-avelgem",
+  "path": "werken/flexi-job-avelgem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Avelgem",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Avelgem",
+  "postcode": "8580",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Bossuit",
+   "Kerkhove",
+   "Outrijve",
+   "Waarmaarde"
+  ],
+  "in_de_buurt": [
+   "Zwevegem",
+   "Anzegem",
+   "Spiere-Helkijn",
+   "Kluisbergen"
+  ],
+  "streek": "regio Kortrijk",
+  "persona": "een zij-instromer uit de horeca die geen avonden en weekends meer wil"
+ },
+ {
+  "id": "werken/flexi-job-lendelede",
+  "path": "werken/flexi-job-lendelede.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Lendelede",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Lendelede",
+  "postcode": "8860",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Kuurne",
+   "Heule",
+   "Izegem",
+   "Ingelmunster",
+   "Moorsele"
+  ],
+  "streek": "regio Kortrijk",
+  "persona": "iemand die van strijken en orde houdt"
+ },
+ {
+  "id": "werken/flexi-job-ledegem",
+  "path": "werken/flexi-job-ledegem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Ledegem",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Ledegem",
+  "postcode": "8880",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Rollegem-Kapelle",
+   "Sint-Eloois-Winkel"
+  ],
+  "in_de_buurt": [
+   "Moorslede",
+   "Wevelgem",
+   "Izegem",
+   "Menen"
+  ],
+  "streek": "regio Roeselare",
+  "persona": "een masterstudent met twee vrije namiddagen per week"
+ },
+ {
+  "id": "werken/flexi-job-moorslede",
+  "path": "werken/flexi-job-moorslede.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Moorslede",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Moorslede",
+  "postcode": "8890",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Dadizele"
+  ],
+  "in_de_buurt": [
+   "Ledegem",
+   "Roeselare",
+   "Zonnebeke",
+   "Staden"
+  ],
+  "streek": "regio Roeselare",
+  "persona": "een gepensioneerde die graag kookt en een paar voormiddagen wil werken"
+ },
+ {
+  "id": "werken/flexi-job-ingelmunster",
+  "path": "werken/flexi-job-ingelmunster.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Ingelmunster",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Ingelmunster",
+  "postcode": "8770",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Izegem",
+   "Meulebeke",
+   "Oostrozebeke",
+   "Lendelede"
+  ],
+  "streek": "regio Roeselare",
+  "persona": "een mama of papa die wil werken binnen de schooluren"
+ },
+ {
+  "id": "werken/flexi-job-hooglede",
+  "path": "werken/flexi-job-hooglede.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Hooglede",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Hooglede",
+  "postcode": "8830",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Gits"
+  ],
+  "in_de_buurt": [
+   "Roeselare",
+   "Staden",
+   "Lichtervelde",
+   "Kortemark"
+  ],
+  "streek": "regio Roeselare",
+  "persona": "iemand uit de winkelsector die een rooster zonder zaterdagen zoekt"
+ },
+ {
+  "id": "werken/flexi-job-staden",
+  "path": "werken/flexi-job-staden.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Staden",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Staden",
+  "postcode": "8840",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Oostnieuwkerke",
+   "Westrozebeke"
+  ],
+  "in_de_buurt": [
+   "Hooglede",
+   "Roeselare",
+   "Moorslede",
+   "Langemark-Poelkapelle",
+   "Zonnebeke"
+  ],
+  "streek": "regio Roeselare",
+  "persona": "een student verpleegkunde met lessen vooral in de voormiddag"
+ },
+ {
+  "id": "werken/flexi-job-lichtervelde",
+  "path": "werken/flexi-job-lichtervelde.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Lichtervelde",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Lichtervelde",
+  "postcode": "8810",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Torhout",
+   "Ardooie",
+   "Hooglede",
+   "Roeselare"
+  ],
+  "streek": "regio Roeselare",
+  "persona": "een student lerarenopleiding die graag met kinderen werkt"
+ },
+ {
+  "id": "werken/flexi-job-ardooie",
+  "path": "werken/flexi-job-ardooie.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Ardooie",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Ardooie",
+  "postcode": "8850",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Koolskamp"
+  ],
+  "in_de_buurt": [
+   "Roeselare",
+   "Izegem",
+   "Lichtervelde",
+   "Pittem",
+   "Meulebeke"
+  ],
+  "streek": "regio Roeselare",
+  "persona": "een zelfstandige in bijberoep die vaste uren zoekt"
+ },
+ {
+  "id": "werken/flexi-job-meulebeke",
+  "path": "werken/flexi-job-meulebeke.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Meulebeke",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Meulebeke",
+  "postcode": "8760",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Tielt",
+   "Ingelmunster",
+   "Oostrozebeke",
+   "Pittem",
+   "Dentergem"
+  ],
+  "streek": "regio Tielt",
+  "persona": "een herintreder na enkele jaren thuis bij de kinderen"
+ },
+ {
+  "id": "werken/flexi-job-oostrozebeke",
+  "path": "werken/flexi-job-oostrozebeke.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Oostrozebeke",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Oostrozebeke",
+  "postcode": "8780",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Wielsbeke",
+   "Ingelmunster",
+   "Meulebeke"
+  ],
+  "streek": "Leiestreek",
+  "persona": "iemand die graag buiten werkt en de tuin en het terras wil doen"
+ },
+ {
+  "id": "werken/flexi-job-wielsbeke",
+  "path": "werken/flexi-job-wielsbeke.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Wielsbeke",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Wielsbeke",
+  "postcode": "8710",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Ooigem",
+   "Sint-Baafs-Vijve"
+  ],
+  "in_de_buurt": [
+   "Oostrozebeke",
+   "Waregem",
+   "Dentergem",
+   "Meulebeke"
+  ],
+  "streek": "Leiestreek",
+  "persona": "een student die op kot zit en in de vakanties extra wil werken"
+ },
+ {
+  "id": "werken/flexi-job-dentergem",
+  "path": "werken/flexi-job-dentergem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Dentergem",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Dentergem",
+  "postcode": "8720",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Markegem",
+   "Oeselgem",
+   "Wakken"
+  ],
+  "in_de_buurt": [
+   "Wielsbeke",
+   "Tielt",
+   "Zulte",
+   "Deinze",
+   "Meulebeke"
+  ],
+  "streek": "Leiestreek",
+  "persona": "een bediende met een vierdagenweek die de vrije dag wil invullen"
+ },
+ {
+  "id": "werken/flexi-job-zulte",
+  "path": "werken/flexi-job-zulte.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Zulte",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Zulte",
+  "postcode": "9870",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Machelen",
+   "Olsene"
+  ],
+  "in_de_buurt": [
+   "Waregem",
+   "Deinze",
+   "Kruisem",
+   "Dentergem",
+   "Wielsbeke"
+  ],
+  "streek": "Leiestreek",
+  "persona": "een ploegarbeider met vrije voormiddagen in bepaalde weken"
+ },
+ {
+  "id": "werken/flexi-job-pittem",
+  "path": "werken/flexi-job-pittem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Pittem",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Pittem",
+  "postcode": "8740",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Egem"
+  ],
+  "in_de_buurt": [
+   "Tielt",
+   "Ardooie",
+   "Wingene",
+   "Meulebeke"
+  ],
+  "streek": "regio Tielt",
+  "persona": "een zij-instromer uit de horeca die geen avonden en weekends meer wil"
+ },
+ {
+  "id": "werken/flexi-job-zonnebeke",
+  "path": "werken/flexi-job-zonnebeke.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Zonnebeke",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Zonnebeke",
+  "postcode": "8980",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Beselare",
+   "Geluveld",
+   "Passendale",
+   "Zandvoorde"
+  ],
+  "in_de_buurt": [
+   "Ieper",
+   "Moorslede",
+   "Langemark-Poelkapelle",
+   "Staden",
+   "Wervik"
+  ],
+  "streek": "Westhoek",
+  "persona": "iemand die van strijken en orde houdt"
+ },
+ {
+  "id": "werken/flexi-job-kruisem",
+  "path": "werken/flexi-job-kruisem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Kruisem",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Kruisem",
+  "postcode": "9770",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Kruishoutem",
+   "Zingem",
+   "Lozer",
+   "Nokere",
+   "Wannegem-Lede",
+   "Huise",
+   "Ouwegem"
+  ],
+  "in_de_buurt": [
+   "Oudenaarde",
+   "Waregem",
+   "Zulte",
+   "Wortegem-Petegem",
+   "Gavere"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "persona": "een masterstudent met twee vrije namiddagen per week"
+ },
+ {
+  "id": "werken/flexi-job-oostkamp",
+  "path": "werken/flexi-job-oostkamp.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Oostkamp",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Oostkamp",
+  "postcode": "8020",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Hertsberge",
+   "Ruddervoorde",
+   "Waardamme"
+  ],
+  "in_de_buurt": [
+   "Brugge",
+   "Beernem",
+   "Zedelgem",
+   "Torhout"
+  ],
+  "streek": "regio Brugge",
+  "persona": "een gepensioneerde die graag kookt en een paar voormiddagen wil werken"
+ },
+ {
+  "id": "werken/flexi-job-zedelgem",
+  "path": "werken/flexi-job-zedelgem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Zedelgem",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Zedelgem",
+  "postcode": "8210",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Aartrijke",
+   "Loppem",
+   "Veldegem"
+  ],
+  "in_de_buurt": [
+   "Brugge",
+   "Oostkamp",
+   "Torhout",
+   "Jabbeke",
+   "Ichtegem"
+  ],
+  "streek": "regio Brugge",
+  "persona": "een mama of papa die wil werken binnen de schooluren"
+ },
+ {
+  "id": "werken/flexi-job-beernem",
+  "path": "werken/flexi-job-beernem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Beernem",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Beernem",
+  "postcode": "8730",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Oedelem",
+   "Sint-Joris"
+  ],
+  "in_de_buurt": [
+   "Oostkamp",
+   "Brugge",
+   "Wingene",
+   "Aalter"
+  ],
+  "streek": "regio Brugge",
+  "persona": "iemand uit de winkelsector die een rooster zonder zaterdagen zoekt"
+ },
+ {
+  "id": "werken/flexi-job-wingene",
+  "path": "werken/flexi-job-wingene.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Wingene",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Wingene",
+  "postcode": "8750",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Zwevezele"
+  ],
+  "in_de_buurt": [
+   "Tielt",
+   "Ruiselede",
+   "Beernem",
+   "Pittem",
+   "Ardooie"
+  ],
+  "streek": "regio Tielt",
+  "persona": "een student verpleegkunde met lessen vooral in de voormiddag"
+ },
+ {
+  "id": "werken/flexi-job-ruiselede",
+  "path": "werken/flexi-job-ruiselede.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Ruiselede",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Ruiselede",
+  "postcode": "8755",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Doomkerke"
+  ],
+  "in_de_buurt": [
+   "Wingene",
+   "Tielt",
+   "Aalter",
+   "Beernem"
+  ],
+  "streek": "regio Tielt",
+  "persona": "een student lerarenopleiding die graag met kinderen werkt"
+ },
+ {
+  "id": "werken/flexi-job-kortemark",
+  "path": "werken/flexi-job-kortemark.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Kortemark",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Kortemark",
+  "postcode": "8610",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Handzame",
+   "Werken",
+   "Zarren"
+  ],
+  "in_de_buurt": [
+   "Torhout",
+   "Hooglede",
+   "Diksmuide",
+   "Houthulst",
+   "Ichtegem"
+  ],
+  "streek": "Westhoek",
+  "persona": "een zelfstandige in bijberoep die vaste uren zoekt"
+ },
+ {
+  "id": "werken/flexi-job-diksmuide",
+  "path": "werken/flexi-job-diksmuide.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Diksmuide",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Diksmuide",
+  "postcode": "8600",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Beerst",
+   "Esen",
+   "Kaaskerke",
+   "Keiem",
+   "Lampernisse",
+   "Leke",
+   "Nieuwkapelle",
+   "Oostkerke",
+   "Oudekapelle",
+   "Pervijze",
+   "Sint-Jacobskapelle",
+   "Stuivekenskerke",
+   "Vladslo",
+   "Woumen"
+  ],
+  "in_de_buurt": [
+   "Kortemark",
+   "Houthulst",
+   "Lo-Reninge",
+   "Koekelare"
+  ],
+  "streek": "Westhoek",
+  "persona": "een herintreder na enkele jaren thuis bij de kinderen"
+ },
+ {
+  "id": "werken/flexi-job-langemark-poelkapelle",
+  "path": "werken/flexi-job-langemark-poelkapelle.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Langemark-Poelkapelle",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Langemark-Poelkapelle",
+  "postcode": "8920",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Langemark",
+   "Poelkapelle",
+   "Bikschote"
+  ],
+  "in_de_buurt": [
+   "Ieper",
+   "Staden",
+   "Houthulst",
+   "Zonnebeke"
+  ],
+  "streek": "Westhoek",
+  "persona": "iemand die graag buiten werkt en de tuin en het terras wil doen"
+ },
+ {
+  "id": "werken/flexi-job-spiere-helkijn",
+  "path": "werken/flexi-job-spiere-helkijn.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Spiere-Helkijn",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Spiere-Helkijn",
+  "postcode": "8587",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Spiere",
+   "Helkijn"
+  ],
+  "in_de_buurt": [
+   "Avelgem",
+   "Zwevegem",
+   "Kooigem"
+  ],
+  "streek": "regio Kortrijk",
+  "persona": "een student die op kot zit en in de vakanties extra wil werken"
+ },
+ {
+  "id": "werken/flexi-job-nazareth",
+  "path": "werken/flexi-job-nazareth.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Nazareth",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Nazareth",
+  "postcode": "9810",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Eke"
+  ],
+  "in_de_buurt": [
+   "Deinze",
+   "De Pinte",
+   "Gavere",
+   "Kruisem"
+  ],
+  "streek": "regio Gent",
+  "persona": "een bediende met een vierdagenweek die de vrije dag wil invullen"
+ },
+ {
+  "id": "werken/flexi-job-de-pinte",
+  "path": "werken/flexi-job-de-pinte.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in De Pinte",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "De Pinte",
+  "postcode": "9840",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Zevergem"
+  ],
+  "in_de_buurt": [
+   "Gent",
+   "Nazareth",
+   "Sint-Martens-Latem",
+   "Merelbeke",
+   "Gavere"
+  ],
+  "streek": "regio Gent",
+  "persona": "een ploegarbeider met vrije voormiddagen in bepaalde weken"
+ },
+ {
+  "id": "werken/flexi-job-sint-martens-latem",
+  "path": "werken/flexi-job-sint-martens-latem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Sint-Martens-Latem",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Sint-Martens-Latem",
+  "postcode": "9830",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Deurle"
+  ],
+  "in_de_buurt": [
+   "Gent",
+   "De Pinte",
+   "Deinze",
+   "Nazareth"
+  ],
+  "streek": "regio Gent",
+  "persona": "een zij-instromer uit de horeca die geen avonden en weekends meer wil"
+ },
+ {
+  "id": "werken/flexi-job-gavere",
+  "path": "werken/flexi-job-gavere.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Gavere",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Gavere",
+  "postcode": "9890",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Asper",
+   "Baaigem",
+   "Dikkelvenne",
+   "Semmerzake",
+   "Vurste"
+  ],
+  "in_de_buurt": [
+   "Nazareth",
+   "Kruisem",
+   "Zwalm",
+   "Merelbeke"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "persona": "iemand die van strijken en orde houdt"
+ },
+ {
+  "id": "werken/flexi-job-wortegem-petegem",
+  "path": "werken/flexi-job-wortegem-petegem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Wortegem-Petegem",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Wortegem-Petegem",
+  "postcode": "9790",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Elsegem",
+   "Moregem",
+   "Ooike",
+   "Petegem-aan-de-Schelde"
+  ],
+  "in_de_buurt": [
+   "Oudenaarde",
+   "Waregem",
+   "Kruisem",
+   "Anzegem"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "persona": "een masterstudent met twee vrije namiddagen per week"
+ },
+ {
+  "id": "werken/flexi-job-kluisbergen",
+  "path": "werken/flexi-job-kluisbergen.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Flexi-job of bijverdienen in Kluisbergen",
+  "soort_job": "flexi-job",
+  "scope": "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past",
+  "employment": [
+   "PART_TIME"
+  ],
+  "place": "Kluisbergen",
+  "postcode": "9690",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Berchem",
+   "Kwaremont",
+   "Ruien",
+   "Zulzeke"
+  ],
+  "in_de_buurt": [
+   "Avelgem",
+   "Oudenaarde",
+   "Ronse",
+   "Anzegem"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "persona": "een gepensioneerde die graag kookt en een paar voormiddagen wil werken"
  },
  {
   "id": "werken/vaste-job-overdag-kortrijk",
@@ -9096,5 +13759,1003 @@
   ],
   "streek": "regio Gent",
   "persona": "een student lerarenopleiding die graag met kinderen werkt"
+ },
+ {
+  "id": "werken/vaste-job-overdag-wervik",
+  "path": "werken/vaste-job-overdag-wervik.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Wervik",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Wervik",
+  "postcode": "8940",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Geluwe"
+  ],
+  "in_de_buurt": [
+   "Menen",
+   "Geluwe",
+   "Zonnebeke",
+   "Ieper"
+  ],
+  "streek": "regio Kortrijk",
+  "persona": "een zelfstandige in bijberoep die vaste uren zoekt"
+ },
+ {
+  "id": "werken/vaste-job-overdag-deerlijk",
+  "path": "werken/vaste-job-overdag-deerlijk.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Deerlijk",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Deerlijk",
+  "postcode": "8540",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Harelbeke",
+   "Zwevegem",
+   "Waregem",
+   "Anzegem"
+  ],
+  "streek": "regio Kortrijk",
+  "persona": "een herintreder na enkele jaren thuis bij de kinderen"
+ },
+ {
+  "id": "werken/vaste-job-overdag-anzegem",
+  "path": "werken/vaste-job-overdag-anzegem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Anzegem",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Anzegem",
+  "postcode": "8570",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Gijzelbrechtegem",
+   "Ingooigem",
+   "Kaster",
+   "Tiegem",
+   "Vichte"
+  ],
+  "in_de_buurt": [
+   "Waregem",
+   "Deerlijk",
+   "Zwevegem",
+   "Avelgem"
+  ],
+  "streek": "regio Kortrijk",
+  "persona": "iemand die graag buiten werkt en de tuin en het terras wil doen"
+ },
+ {
+  "id": "werken/vaste-job-overdag-avelgem",
+  "path": "werken/vaste-job-overdag-avelgem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Avelgem",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Avelgem",
+  "postcode": "8580",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Bossuit",
+   "Kerkhove",
+   "Outrijve",
+   "Waarmaarde"
+  ],
+  "in_de_buurt": [
+   "Zwevegem",
+   "Anzegem",
+   "Spiere-Helkijn",
+   "Kluisbergen"
+  ],
+  "streek": "regio Kortrijk",
+  "persona": "een student die op kot zit en in de vakanties extra wil werken"
+ },
+ {
+  "id": "werken/vaste-job-overdag-lendelede",
+  "path": "werken/vaste-job-overdag-lendelede.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Lendelede",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Lendelede",
+  "postcode": "8860",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Kuurne",
+   "Heule",
+   "Izegem",
+   "Ingelmunster",
+   "Moorsele"
+  ],
+  "streek": "regio Kortrijk",
+  "persona": "een bediende met een vierdagenweek die de vrije dag wil invullen"
+ },
+ {
+  "id": "werken/vaste-job-overdag-ledegem",
+  "path": "werken/vaste-job-overdag-ledegem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Ledegem",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Ledegem",
+  "postcode": "8880",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Rollegem-Kapelle",
+   "Sint-Eloois-Winkel"
+  ],
+  "in_de_buurt": [
+   "Moorslede",
+   "Wevelgem",
+   "Izegem",
+   "Menen"
+  ],
+  "streek": "regio Roeselare",
+  "persona": "een ploegarbeider met vrije voormiddagen in bepaalde weken"
+ },
+ {
+  "id": "werken/vaste-job-overdag-moorslede",
+  "path": "werken/vaste-job-overdag-moorslede.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Moorslede",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Moorslede",
+  "postcode": "8890",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Dadizele"
+  ],
+  "in_de_buurt": [
+   "Ledegem",
+   "Roeselare",
+   "Zonnebeke",
+   "Staden"
+  ],
+  "streek": "regio Roeselare",
+  "persona": "een zij-instromer uit de horeca die geen avonden en weekends meer wil"
+ },
+ {
+  "id": "werken/vaste-job-overdag-ingelmunster",
+  "path": "werken/vaste-job-overdag-ingelmunster.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Ingelmunster",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Ingelmunster",
+  "postcode": "8770",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Izegem",
+   "Meulebeke",
+   "Oostrozebeke",
+   "Lendelede"
+  ],
+  "streek": "regio Roeselare",
+  "persona": "iemand die van strijken en orde houdt"
+ },
+ {
+  "id": "werken/vaste-job-overdag-hooglede",
+  "path": "werken/vaste-job-overdag-hooglede.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Hooglede",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Hooglede",
+  "postcode": "8830",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Gits"
+  ],
+  "in_de_buurt": [
+   "Roeselare",
+   "Staden",
+   "Lichtervelde",
+   "Kortemark"
+  ],
+  "streek": "regio Roeselare",
+  "persona": "een masterstudent met twee vrije namiddagen per week"
+ },
+ {
+  "id": "werken/vaste-job-overdag-staden",
+  "path": "werken/vaste-job-overdag-staden.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Staden",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Staden",
+  "postcode": "8840",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Oostnieuwkerke",
+   "Westrozebeke"
+  ],
+  "in_de_buurt": [
+   "Hooglede",
+   "Roeselare",
+   "Moorslede",
+   "Langemark-Poelkapelle",
+   "Zonnebeke"
+  ],
+  "streek": "regio Roeselare",
+  "persona": "een gepensioneerde die graag kookt en een paar voormiddagen wil werken"
+ },
+ {
+  "id": "werken/vaste-job-overdag-lichtervelde",
+  "path": "werken/vaste-job-overdag-lichtervelde.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Lichtervelde",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Lichtervelde",
+  "postcode": "8810",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Torhout",
+   "Ardooie",
+   "Hooglede",
+   "Roeselare"
+  ],
+  "streek": "regio Roeselare",
+  "persona": "een mama of papa die wil werken binnen de schooluren"
+ },
+ {
+  "id": "werken/vaste-job-overdag-ardooie",
+  "path": "werken/vaste-job-overdag-ardooie.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Ardooie",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Ardooie",
+  "postcode": "8850",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Koolskamp"
+  ],
+  "in_de_buurt": [
+   "Roeselare",
+   "Izegem",
+   "Lichtervelde",
+   "Pittem",
+   "Meulebeke"
+  ],
+  "streek": "regio Roeselare",
+  "persona": "iemand uit de winkelsector die een rooster zonder zaterdagen zoekt"
+ },
+ {
+  "id": "werken/vaste-job-overdag-meulebeke",
+  "path": "werken/vaste-job-overdag-meulebeke.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Meulebeke",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Meulebeke",
+  "postcode": "8760",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Tielt",
+   "Ingelmunster",
+   "Oostrozebeke",
+   "Pittem",
+   "Dentergem"
+  ],
+  "streek": "regio Tielt",
+  "persona": "een student verpleegkunde met lessen vooral in de voormiddag"
+ },
+ {
+  "id": "werken/vaste-job-overdag-oostrozebeke",
+  "path": "werken/vaste-job-overdag-oostrozebeke.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Oostrozebeke",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Oostrozebeke",
+  "postcode": "8780",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [],
+  "in_de_buurt": [
+   "Wielsbeke",
+   "Ingelmunster",
+   "Meulebeke"
+  ],
+  "streek": "Leiestreek",
+  "persona": "een student lerarenopleiding die graag met kinderen werkt"
+ },
+ {
+  "id": "werken/vaste-job-overdag-wielsbeke",
+  "path": "werken/vaste-job-overdag-wielsbeke.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Wielsbeke",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Wielsbeke",
+  "postcode": "8710",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Ooigem",
+   "Sint-Baafs-Vijve"
+  ],
+  "in_de_buurt": [
+   "Oostrozebeke",
+   "Waregem",
+   "Dentergem",
+   "Meulebeke"
+  ],
+  "streek": "Leiestreek",
+  "persona": "een zelfstandige in bijberoep die vaste uren zoekt"
+ },
+ {
+  "id": "werken/vaste-job-overdag-dentergem",
+  "path": "werken/vaste-job-overdag-dentergem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Dentergem",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Dentergem",
+  "postcode": "8720",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Markegem",
+   "Oeselgem",
+   "Wakken"
+  ],
+  "in_de_buurt": [
+   "Wielsbeke",
+   "Tielt",
+   "Zulte",
+   "Deinze",
+   "Meulebeke"
+  ],
+  "streek": "Leiestreek",
+  "persona": "een herintreder na enkele jaren thuis bij de kinderen"
+ },
+ {
+  "id": "werken/vaste-job-overdag-zulte",
+  "path": "werken/vaste-job-overdag-zulte.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Zulte",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Zulte",
+  "postcode": "9870",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Machelen",
+   "Olsene"
+  ],
+  "in_de_buurt": [
+   "Waregem",
+   "Deinze",
+   "Kruisem",
+   "Dentergem",
+   "Wielsbeke"
+  ],
+  "streek": "Leiestreek",
+  "persona": "iemand die graag buiten werkt en de tuin en het terras wil doen"
+ },
+ {
+  "id": "werken/vaste-job-overdag-pittem",
+  "path": "werken/vaste-job-overdag-pittem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Pittem",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Pittem",
+  "postcode": "8740",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Egem"
+  ],
+  "in_de_buurt": [
+   "Tielt",
+   "Ardooie",
+   "Wingene",
+   "Meulebeke"
+  ],
+  "streek": "regio Tielt",
+  "persona": "een student die op kot zit en in de vakanties extra wil werken"
+ },
+ {
+  "id": "werken/vaste-job-overdag-zonnebeke",
+  "path": "werken/vaste-job-overdag-zonnebeke.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Zonnebeke",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Zonnebeke",
+  "postcode": "8980",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Beselare",
+   "Geluveld",
+   "Passendale",
+   "Zandvoorde"
+  ],
+  "in_de_buurt": [
+   "Ieper",
+   "Moorslede",
+   "Langemark-Poelkapelle",
+   "Staden",
+   "Wervik"
+  ],
+  "streek": "Westhoek",
+  "persona": "een bediende met een vierdagenweek die de vrije dag wil invullen"
+ },
+ {
+  "id": "werken/vaste-job-overdag-kruisem",
+  "path": "werken/vaste-job-overdag-kruisem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Kruisem",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Kruisem",
+  "postcode": "9770",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Kruishoutem",
+   "Zingem",
+   "Lozer",
+   "Nokere",
+   "Wannegem-Lede",
+   "Huise",
+   "Ouwegem"
+  ],
+  "in_de_buurt": [
+   "Oudenaarde",
+   "Waregem",
+   "Zulte",
+   "Wortegem-Petegem",
+   "Gavere"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "persona": "een ploegarbeider met vrije voormiddagen in bepaalde weken"
+ },
+ {
+  "id": "werken/vaste-job-overdag-oostkamp",
+  "path": "werken/vaste-job-overdag-oostkamp.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Oostkamp",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Oostkamp",
+  "postcode": "8020",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Hertsberge",
+   "Ruddervoorde",
+   "Waardamme"
+  ],
+  "in_de_buurt": [
+   "Brugge",
+   "Beernem",
+   "Zedelgem",
+   "Torhout"
+  ],
+  "streek": "regio Brugge",
+  "persona": "een zij-instromer uit de horeca die geen avonden en weekends meer wil"
+ },
+ {
+  "id": "werken/vaste-job-overdag-zedelgem",
+  "path": "werken/vaste-job-overdag-zedelgem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Zedelgem",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Zedelgem",
+  "postcode": "8210",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Aartrijke",
+   "Loppem",
+   "Veldegem"
+  ],
+  "in_de_buurt": [
+   "Brugge",
+   "Oostkamp",
+   "Torhout",
+   "Jabbeke",
+   "Ichtegem"
+  ],
+  "streek": "regio Brugge",
+  "persona": "iemand die van strijken en orde houdt"
+ },
+ {
+  "id": "werken/vaste-job-overdag-beernem",
+  "path": "werken/vaste-job-overdag-beernem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Beernem",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Beernem",
+  "postcode": "8730",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Oedelem",
+   "Sint-Joris"
+  ],
+  "in_de_buurt": [
+   "Oostkamp",
+   "Brugge",
+   "Wingene",
+   "Aalter"
+  ],
+  "streek": "regio Brugge",
+  "persona": "een masterstudent met twee vrije namiddagen per week"
+ },
+ {
+  "id": "werken/vaste-job-overdag-wingene",
+  "path": "werken/vaste-job-overdag-wingene.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Wingene",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Wingene",
+  "postcode": "8750",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Zwevezele"
+  ],
+  "in_de_buurt": [
+   "Tielt",
+   "Ruiselede",
+   "Beernem",
+   "Pittem",
+   "Ardooie"
+  ],
+  "streek": "regio Tielt",
+  "persona": "een gepensioneerde die graag kookt en een paar voormiddagen wil werken"
+ },
+ {
+  "id": "werken/vaste-job-overdag-ruiselede",
+  "path": "werken/vaste-job-overdag-ruiselede.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Ruiselede",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Ruiselede",
+  "postcode": "8755",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Doomkerke"
+  ],
+  "in_de_buurt": [
+   "Wingene",
+   "Tielt",
+   "Aalter",
+   "Beernem"
+  ],
+  "streek": "regio Tielt",
+  "persona": "een mama of papa die wil werken binnen de schooluren"
+ },
+ {
+  "id": "werken/vaste-job-overdag-kortemark",
+  "path": "werken/vaste-job-overdag-kortemark.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Kortemark",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Kortemark",
+  "postcode": "8610",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Handzame",
+   "Werken",
+   "Zarren"
+  ],
+  "in_de_buurt": [
+   "Torhout",
+   "Hooglede",
+   "Diksmuide",
+   "Houthulst",
+   "Ichtegem"
+  ],
+  "streek": "Westhoek",
+  "persona": "iemand uit de winkelsector die een rooster zonder zaterdagen zoekt"
+ },
+ {
+  "id": "werken/vaste-job-overdag-diksmuide",
+  "path": "werken/vaste-job-overdag-diksmuide.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Diksmuide",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Diksmuide",
+  "postcode": "8600",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Beerst",
+   "Esen",
+   "Kaaskerke",
+   "Keiem",
+   "Lampernisse",
+   "Leke",
+   "Nieuwkapelle",
+   "Oostkerke",
+   "Oudekapelle",
+   "Pervijze",
+   "Sint-Jacobskapelle",
+   "Stuivekenskerke",
+   "Vladslo",
+   "Woumen"
+  ],
+  "in_de_buurt": [
+   "Kortemark",
+   "Houthulst",
+   "Lo-Reninge",
+   "Koekelare"
+  ],
+  "streek": "Westhoek",
+  "persona": "een student verpleegkunde met lessen vooral in de voormiddag"
+ },
+ {
+  "id": "werken/vaste-job-overdag-langemark-poelkapelle",
+  "path": "werken/vaste-job-overdag-langemark-poelkapelle.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Langemark-Poelkapelle",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Langemark-Poelkapelle",
+  "postcode": "8920",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Langemark",
+   "Poelkapelle",
+   "Bikschote"
+  ],
+  "in_de_buurt": [
+   "Ieper",
+   "Staden",
+   "Houthulst",
+   "Zonnebeke"
+  ],
+  "streek": "Westhoek",
+  "persona": "een student lerarenopleiding die graag met kinderen werkt"
+ },
+ {
+  "id": "werken/vaste-job-overdag-spiere-helkijn",
+  "path": "werken/vaste-job-overdag-spiere-helkijn.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Spiere-Helkijn",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Spiere-Helkijn",
+  "postcode": "8587",
+  "provincie": "West-Vlaanderen",
+  "deelgemeenten": [
+   "Spiere",
+   "Helkijn"
+  ],
+  "in_de_buurt": [
+   "Avelgem",
+   "Zwevegem",
+   "Kooigem"
+  ],
+  "streek": "regio Kortrijk",
+  "persona": "een zelfstandige in bijberoep die vaste uren zoekt"
+ },
+ {
+  "id": "werken/vaste-job-overdag-nazareth",
+  "path": "werken/vaste-job-overdag-nazareth.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Nazareth",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Nazareth",
+  "postcode": "9810",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Eke"
+  ],
+  "in_de_buurt": [
+   "Deinze",
+   "De Pinte",
+   "Gavere",
+   "Kruisem"
+  ],
+  "streek": "regio Gent",
+  "persona": "een herintreder na enkele jaren thuis bij de kinderen"
+ },
+ {
+  "id": "werken/vaste-job-overdag-de-pinte",
+  "path": "werken/vaste-job-overdag-de-pinte.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in De Pinte",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "De Pinte",
+  "postcode": "9840",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Zevergem"
+  ],
+  "in_de_buurt": [
+   "Gent",
+   "Nazareth",
+   "Sint-Martens-Latem",
+   "Merelbeke",
+   "Gavere"
+  ],
+  "streek": "regio Gent",
+  "persona": "iemand die graag buiten werkt en de tuin en het terras wil doen"
+ },
+ {
+  "id": "werken/vaste-job-overdag-sint-martens-latem",
+  "path": "werken/vaste-job-overdag-sint-martens-latem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Sint-Martens-Latem",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Sint-Martens-Latem",
+  "postcode": "9830",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Deurle"
+  ],
+  "in_de_buurt": [
+   "Gent",
+   "De Pinte",
+   "Deinze",
+   "Nazareth"
+  ],
+  "streek": "regio Gent",
+  "persona": "een student die op kot zit en in de vakanties extra wil werken"
+ },
+ {
+  "id": "werken/vaste-job-overdag-gavere",
+  "path": "werken/vaste-job-overdag-gavere.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Gavere",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Gavere",
+  "postcode": "9890",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Asper",
+   "Baaigem",
+   "Dikkelvenne",
+   "Semmerzake",
+   "Vurste"
+  ],
+  "in_de_buurt": [
+   "Nazareth",
+   "Kruisem",
+   "Zwalm",
+   "Merelbeke"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "persona": "een bediende met een vierdagenweek die de vrije dag wil invullen"
+ },
+ {
+  "id": "werken/vaste-job-overdag-wortegem-petegem",
+  "path": "werken/vaste-job-overdag-wortegem-petegem.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Wortegem-Petegem",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Wortegem-Petegem",
+  "postcode": "9790",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Elsegem",
+   "Moregem",
+   "Ooike",
+   "Petegem-aan-de-Schelde"
+  ],
+  "in_de_buurt": [
+   "Oudenaarde",
+   "Waregem",
+   "Kruisem",
+   "Anzegem"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "persona": "een ploegarbeider met vrije voormiddagen in bepaalde weken"
+ },
+ {
+  "id": "werken/vaste-job-overdag-kluisbergen",
+  "path": "werken/vaste-job-overdag-kluisbergen.html",
+  "kind": "kandidaat",
+  "group": "werken",
+  "h1": "Vaste job overdag zonder weekends in Kluisbergen",
+  "soort_job": "vaste-job-overdag",
+  "scope": "een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten, nooit 's avonds of in het weekend; kan ook enkel binnen de schooluren; voor herintreders, zij-instromers, ouders en wie zekerheid zoekt",
+  "employment": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "place": "Kluisbergen",
+  "postcode": "9690",
+  "provincie": "Oost-Vlaanderen",
+  "deelgemeenten": [
+   "Berchem",
+   "Kwaremont",
+   "Ruien",
+   "Zulzeke"
+  ],
+  "in_de_buurt": [
+   "Avelgem",
+   "Oudenaarde",
+   "Ronse",
+   "Anzegem"
+  ],
+  "streek": "Vlaamse Ardennen",
+  "persona": "een zij-instromer uit de horeca die geen avonden en weekends meer wil"
  }
 ]

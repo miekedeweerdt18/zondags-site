@@ -84,6 +84,31 @@ PLAATSEN = [
  ("Ronse","9600",OV,"stad","",[],["Kluisbergen","Maarkedal","Oudenaarde"],"Vlaamse Ardennen"),
  ("Zottegem","9620",OV,"stad","",["Elene","Erwetegem","Godveerdegem","Grotenberge","Leeuwergem","Oombergen","Strijpen","Velzeke-Ruddershove"],["Zwalm","Oosterzele","Herzele","Brakel"],"Vlaamse Ardennen"),
  ("Aalter","9880",OV,"stad","",["Bellem","Lotenhulle","Poeke","Knesselare","Ursel"],["Deinze","Beernem","Ruiselede","Maldegem"],"regio Gent"),
+ # week 2b (6 oktober 2026): extra gemeenten in Oost-Vlaanderen
+ ("Lochristi","9080",OV,"gemeente","",["Beervelde","Zaffelare","Zeveneken"],["Gent","Destelbergen","Lokeren","Wachtebeke","Laarne"],"regio Gent"),
+ ("Destelbergen","9070",OV,"gemeente","",["Heusden"],["Gent","Lochristi","Laarne","Wetteren","Melle"],"regio Gent"),
+ ("Evergem","9940",OV,"gemeente","",["Ertvelde","Kluizen","Sleidinge"],["Gent","Lievegem","Zelzate","Assenede","Kaprijke"],"regio Gent"),
+ ("Lievegem","9920",OV,"gemeente","",["Lovendegem","Vinderhoute","Waarschoot","Zomergem","Oostwinkel","Ronsele"],["Gent","Evergem","Eeklo","Aalter","Deinze"],"Meetjesland"),
+ ("Wetteren","9230",OV,"gemeente","",["Massemen","Westrem"],["Destelbergen","Laarne","Wichelen","Lede","Oosterzele","Melle"],"regio Gent"),
+ ("Oosterzele","9860",OV,"gemeente","",["Balegem","Gijzenzele","Landskouter","Moortsele","Scheldewindeke"],["Merelbeke","Zottegem","Herzele","Sint-Lievens-Houtem","Wetteren"],"regio Gent"),
+ ("Herzele","9550",OV,"gemeente","",["Borsbeke","Hillegem","Ressegem","Sint-Antelinks","Sint-Lievens-Esse","Steenhuize-Wijnhuize","Woubrechtegem"],["Zottegem","Oosterzele","Sint-Lievens-Houtem","Haaltert","Lierde"],"Vlaamse Ardennen"),
+ ("Brakel","9660",OV,"gemeente","",["Elst","Everbeek","Michelbeke","Nederbrakel","Opbrakel","Parike","Zegelsem"],["Zottegem","Zwalm","Horebeke","Lierde","Geraardsbergen","Maarkedal"],"Vlaamse Ardennen"),
+ ("Zwalm","9630",OV,"gemeente","",["Beerlegem","Dikkele","Hundelgem","Meilegem","Munkzwalm","Paulatem","Roborst","Rozebeke","Sint-Blasius-Boekel","Sint-Denijs-Boekel","Sint-Maria-Latem"],["Oudenaarde","Zottegem","Brakel","Gavere","Horebeke"],"Vlaamse Ardennen"),
+ ("Maarkedal","9680",OV,"gemeente","",["Etikhove","Maarke-Kerkem","Nukerke","Schorisse"],["Ronse","Oudenaarde","Horebeke","Brakel","Kluisbergen"],"Vlaamse Ardennen"),
+ ("Lierde","9570",OV,"gemeente","",["Deftinge","Hemelveerdegem","Sint-Maria-Lierde","Sint-Martens-Lierde"],["Geraardsbergen","Brakel","Zottegem","Herzele","Ninove"],"Vlaamse Ardennen"),
+ ("Geraardsbergen","9500",OV,"stad","",["Goeferdinge","Grimminge","Idegem","Moerbeke","Nederboelare","Nieuwenhove","Onkerzele","Ophasselt","Overboelare","Schendelbeke","Smeerebbe-Vloerzegem","Viane","Zandbergen","Zarlardinge"],["Ninove","Lierde","Brakel"],"Denderstreek"),
+ ("Ninove","9400",OV,"stad","",["Appelterre-Eichem","Aspelare","Denderwindeke","Lieferinge","Meerbeke","Nederhasselt","Neigem","Okegem","Outer","Pollare","Voorde"],["Denderleeuw","Haaltert","Geraardsbergen","Lierde"],"Denderstreek"),
+ ("Aalst","9300",OV,"stad","",["Baardegem","Erembodegem","Gijzegem","Herdersem","Hofstade","Meldert","Moorsel","Nieuwerkerken"],["Lede","Erpe-Mere","Haaltert","Denderleeuw","Lebbeke"],"Denderstreek"),
+ ("Lede","9340",OV,"gemeente","",["Impe","Oordegem","Smetlede","Wanzele"],["Aalst","Erpe-Mere","Wichelen","Wetteren","Oosterzele"],"Denderstreek"),
+ ("Erpe-Mere","9420",OV,"gemeente","",["Aaigem","Bambrugge","Burst","Erondegem","Ottergem","Vlekkem","Mere"],["Aalst","Lede","Haaltert","Herzele","Sint-Lievens-Houtem"],"Denderstreek"),
+ ("Dendermonde","9200",OV,"stad","",["Appels","Baasrode","Grembergen","Mespelare","Oudegem","Schoonaarde","Sint-Gillis-bij-Dendermonde"],["Hamme","Zele","Berlare","Lebbeke","Buggenhout","Wichelen"],"Denderstreek"),
+ ("Zele","9240",OV,"gemeente","",[],["Dendermonde","Berlare","Lokeren","Hamme","Waasmunster","Laarne"],"Scheldeland"),
+ ("Berlare","9290",OV,"gemeente","",["Overmere","Uitbergen"],["Zele","Dendermonde","Wichelen","Laarne"],"Scheldeland"),
+ ("Hamme","9220",OV,"gemeente","",["Moerzeke"],["Dendermonde","Zele","Waasmunster","Temse"],"Scheldeland"),
+ ("Lokeren","9160",OV,"stad","",["Daknam","Eksaarde"],["Zele","Waasmunster","Lochristi","Sint-Niklaas"],"Waasland"),
+ ("Sint-Niklaas","9100",OV,"stad","",["Belsele","Nieuwkerken-Waas","Sinaai"],["Beveren","Temse","Waasmunster","Stekene","Sint-Gillis-Waas","Lokeren"],"Waasland"),
+ ("Eeklo","9900",OV,"stad","",[],["Kaprijke","Maldegem","Lievegem","Sint-Laureins"],"Meetjesland"),
+ ("Maldegem","9990",OV,"gemeente","",["Adegem","Middelburg"],["Eeklo","Aalter","Sint-Laureins","Beernem"],"Meetjesland"),
 ]
 
 ANGLES = [
@@ -265,6 +290,8 @@ def question_pages():
 # ---------------- KANDIDATEN (werken/<soort>-<plaats>): voor wie werk zoekt bij Zondags ----------------
 K_CITIES = ["Kortrijk", "Roeselare", "Waregem", "Ieper", "Izegem", "Menen", "Harelbeke", "Wevelgem", "Tielt", "Oudenaarde", "Brugge", "Gent",
             "Deinze", "Oostende", "Torhout", "Zwevegem", "Aalter", "Zottegem", "Ronse", "Poperinge", "Kuurne", "Merelbeke"]
+# week 2b: kandidatenpagina's voor de overige gemeenten van het oorspronkelijke plan (zonder deelgemeenten en zonder de nieuwe Oost-Vlaamse gemeenten)
+K_CITIES = K_CITIES + [p[0] for p in PLAATSEN[:PLAATSEN.index(next(q for q in PLAATSEN if q[0] == "Lochristi"))] if p[3] != 'deelgemeente' and p[0] not in K_CITIES]
 K_SOORT = [
  ("studentenjob", "Studentenjob met flexibele uren in {p}", "studenten vanaf 18 jaar: een job overdag op weekdagen bij vaste klanten, met dagen en uren die samen met de student rond het lessenrooster worden gekozen (vrije voormiddagen, vrije namiddagen, schoolvakanties); studentencontract, de student volgt zelf het urensaldo op via Student@work", ['PART_TIME', 'TEMPORARY']),
  ("flexi-job", "Flexi-job of bijverdienen in {p}", "bijverdienen naast een hoofdjob, als gepensioneerde of op een vrije dag: een paar uur per week overdag bij vaste klanten; of een flexi-job mogelijk is hangt af van de eigen situatie, Zondags bekijkt het statuut samen met de kandidaat (nooit beloven dat een flexi-job kan); anders zoeken we samen een statuut dat wel past", ['PART_TIME']),

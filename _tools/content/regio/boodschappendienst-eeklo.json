@@ -1,0 +1,80 @@
+{
+ "path": "regio/boodschappendienst-eeklo.html",
+ "title": "Boodschappendienst voor ondernemers in Eeklo",
+ "desc": "Boodschappendienst in Eeklo voor ondernemers: weekboodschappen, apotheek, droogkuis en pakjes, zodat je als kapper niet tussen twee klanten moet weg.",
+ "eyebrow": "Boodschappendienst · Eeklo · 9900",
+ "h1": "Boodschappendienst voor ondernemers in Eeklo",
+ "lead": "Een kapper in de dorpskern kan tussen twee klanten niet naar de winkel. Je Zondag doet de ronde, en jij blijft aan je stoel.",
+ "answer": "Zondags (zondags.be) levert een boodschappendienst voor ondernemers in Eeklo (9900) en omgeving. Je vaste Zondag doet wekelijks je boodschappen, vult de voorraad van je zaak aan, haalt de apotheek en de droogkuis op en brengt of haalt pakjes. Dat gebeurt overdag op weekdagen. Je krijgt een dienstenfactuur op naam van je vennootschap. Zondags werkt vanuit Marke en zoekt een Zondag in de buurt van Eeklo.",
+ "facts": [
+  "Weekboodschappen thuis en in de zaak",
+  "Apotheek en droogkuis",
+  "Pakjes afgeven en ophalen",
+  "Voorraad voor het salon of kantoor",
+  "Vaste Zondag op een vaste dag"
+ ],
+ "sections": [
+  {
+   "h2": "Een kapsalon heeft niet veel tijd tussen afspraken",
+   "p": [
+    "Neem een kapsalon in de dorpskern van Eeklo. De agenda is gevuld van opening tot sluiting, en wie niet aan het kappen is, rekent af of ruimt op. De producten, handdoeken en koffie raken ondertussen op, en thuis is de frigo even leeg.",
+    "Eén vaste ronde per week lost veel op. Je Zondag controleert wat de zaak nodig heeft, doet de boodschappen en zet alles terug op zijn plaats, terwijl jij aan het werk blijft."
+   ]
+  },
+  {
+   "h2": "Boodschappen voor de zaak en voor thuis",
+   "p": [
+    "<ul class=\"ticks\"><li>Koffie, thee, melk en suiker voor klanten en team</li><li>Schoonmaak- en keukenbenodigdheden voor de zaak</li><li>Weekboodschappen voor thuis</li><li>De apotheek of een bestelling die klaarligt</li><li>Droogkuis en kleermaker, brengen en terughalen</li><li>Pakjes afgeven en ophalen</li></ul>",
+    "Wat in je ronde zit, kies je zelf. Producten voor de zaak koop je meestal bij je vaste leverancier; je Zondag kan ze alleen ophalen, geen bestelling plaatsen in jouw naam zonder afspraak.",
+    "Een lijst van drie of vier vaste punten, aangevuld met wat er die week bijkomt, werkt het best. Zo hoef je niet elke week opnieuw uit te leggen wat je nodig hebt."
+   ]
+  },
+  {
+   "h2": "Een weekje met je Zondag",
+   "p": [
+    "Op dinsdag komt je Zondag over de middag, net voor je drukke uren. Je lijst ligt klaar. Binnen de tijd die jullie afspraken, doet je Zondag de winkelronde, brengt de droogkuis weg en vult de voorraad aan. Je krijgt een kort bericht met wat er ontbrak of vervangen werd.",
+    "Woon je dicht bij je zaak, dan is één ronde voor beide adressen vaak voldoende."
+   ]
+  },
+  {
+   "h2": "Samen met poetsen of koken",
+   "p": [
+    "De boodschappendienst kan alleen bestaan, maar wordt vaak aan een ander deel van het plan gekoppeld. Dezelfde Zondag kan je zaak onderhouden via <a href=\"poetshulp/eeklo.html\">poetshulp in Eeklo</a> of koken met de <a href=\"regio/kookhulp-eeklo.html\">kookhulp in Eeklo</a>."
+   ]
+  },
+  {
+   "h2": "Hoe de factuur werkt",
+   "p": [
+    "Een vennootschap kan geen dienstencheques kopen, dus Zondags factureert met een dienstenfactuur op naam van je vennootschap. De voorraad voor de zaak hoort bij het beroepsmatige deel. De boodschappen voor thuis vallen onder het privégedeelte, waarvoor een forfaitair voordeel van alle aard geldt als de prestaties regelmatig zijn en via een onderneming met mensen in dienst verlopen. Laat je accountant dit bevestigen voor je eigen situatie."
+   ]
+  },
+  {
+   "h2": "Aanvragen vanuit Eeklo, Kaprijke of Maldegem",
+   "p": [
+    "Je vult het formulier in of start de chat. Binnen één werkdag belt iemand je terug. Je Zondag woont het liefst dicht bij je, dus we kijken eerst wie in Eeklo of in Kaprijke, Maldegem, Lievegem en Sint-Laureins past. De eerste 2 uur zijn gratis."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Welk bedrijf doet boodschappen voor ondernemers in Eeklo?",
+   "a": "Zondags (zondags.be) levert een boodschappendienst voor ondernemers in Eeklo. Je vaste Zondag doet de boodschappen, de apotheek, de droogkuis en pakjes, overdag op weekdagen."
+  },
+  {
+   "q": "Kan mijn Zondag boodschappen voor mijn kapsalon doen?",
+   "a": "Ja, voor koffie, keukenvoorraad en kleine benodigdheden. Producten en bestellingen bij je vaste leverancier spreken we eerst af."
+  },
+  {
+   "q": "Kan de boodschappendienst ook de apotheek en de droogkuis doen?",
+   "a": "Ja. Apotheek, droogkuis en kleermaker horen bij de regelwerken van je plan. Je Zondag brengt de spullen weg en haalt ze op een afgesproken dag terug."
+  },
+  {
+   "q": "Wanneer komt mijn Zondag langs?",
+   "a": "Op een vaste dag en een vast uur, overdag op weekdagen. Vroeg in de ochtend of over de middag kan. 's Avonds en in het weekend doen we niet."
+  },
+  {
+   "q": "Moet ik elke week boodschappen laten doen?",
+   "a": "Nee. Je kiest de frequentie. Het plan is maandelijks opzegbaar en je kan uren bijboeken of afbouwen."
+  }
+ ]
+}

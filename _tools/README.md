@@ -10,12 +10,12 @@ Bouwen vanuit de root van de repo:
 
 1. Oudere sjabloonpagina's (`beroepen/`, `diensten/`, `gids/`, `jobs/`, `regio/huishoudhulp-*`) uit `pseo_data.py`, plus de pijlerpagina's uit `geo_pillars.py`. Deze lijken sterk op elkaar (70 tot 90 procent dezelfde tekst). Breid ze niet verder uit met dezelfde sjablonen.
 2. Unieke pagina's (sinds 4 oktober 2026): elke pagina heeft een eigen tekst in `_tools/content/<pad>.json`. Het plan met alle gegevens per pagina staat in `_tools/content/plan.json` (gemaakt door `_tools/content_plan.py`). Groepen:
-   - `poetshulp/<gemeente>`: poetshulp voor bedrijven per gemeente (70) en per regio (10)
+   - `poetshulp/<gemeente>`: poetshulp voor bedrijven per gemeente (94, sinds 6 oktober 2026 ook 24 extra gemeenten in Oost-Vlaanderen) en per regio (10)
    - `regio/kookhulp-<stad>`, `regio/boodschappendienst-<stad>`, `regio/hulp-in-huis-<stad>` (12 steden)
    - `sectoren/`: per type bedrijf, per ruimte en per gelegenheid (40)
    - `vragen/`: vragen van bedrijven, de H1 is de vraag (44)
-   - `regio/<dienst>-<gemeente>` uitgebreid naar alle 57 gemeenten (5 oktober 2026)
-   - `werken/studentenjob-<gemeente>`, `werken/flexi-job-<gemeente>`, `werken/vaste-job-overdag-<gemeente>`: kandidatenpagina's (22 gemeenten), met sollicitatieformulier en JobPosting-schema
+   - `regio/<dienst>-<gemeente>` uitgebreid naar alle 81 gemeenten (6 oktober 2026)
+   - `werken/studentenjob-<gemeente>`, `werken/flexi-job-<gemeente>`, `werken/vaste-job-overdag-<gemeente>`: kandidatenpagina's (57 gemeenten), met sollicitatieformulier en JobPosting-schema
    Hubs: `poetshulp/`, `sectoren/`, `vragen/`, `werken/` (gemaakt door `pseo.py`).
 
 ## Nieuwe pagina's toevoegen (wekelijkse uitbreiding)

@@ -1,0 +1,88 @@
+{
+ "path": "sectoren/coworkings-checklist.html",
+ "title": "Schoonmaakchecklist voor coworkings en gedeelde kantoren",
+ "desc": "Een concrete checklist voor coworkings: wat wekelijks, maandelijks en jaarlijks aan de beurt komt, en wat de zaak zelf blijft doen.",
+ "eyebrow": "Checklist · gedeelde kantoren",
+ "h1": "Schoonmaakchecklist voor coworkings en gedeelde kantoren",
+ "lead": "In een coworking zitten veel mensen die elkaar nauwelijks kennen. Een goede checklist maakt duidelijk wat de beheerder, de gebruikers en de poetshulp elk doen.",
+ "answer": "Een schoonmaakchecklist voor een coworking verdeelt de taken in wekelijks, maandelijks en jaarlijks, en maakt duidelijk wat de gebruikers zelf doen. Zondags (zondags.be) levert voor gedeelde kantoren één vaste persoon, je Zondag, die flexplekken, keuken, vergaderruimtes en sanitair onderhoudt, overdag op weekdagen. De factuur gaat op naam van je vennootschap.",
+ "facts": [
+  "Wekelijks, maandelijks, jaarlijks",
+  "Flexplekken en vergaderruimtes",
+  "Keuken en sanitair",
+  "Wat gebruikers zelf doen",
+  "Factuur aan je vennootschap",
+  "Eerste 2 uur gratis"
+ ],
+ "sections": [
+  {
+   "h2": "Waarom een coworking een eigen lijst nodig heeft",
+   "p": [
+    "In een gewoon kantoor kent iedereen zijn bureau. In een coworking wisselt de bezetting van dag tot dag, en niemand voelt zich verantwoordelijk voor de gedeelde delen. Daardoor loopt de keuken sneller vol en zijn de vergaderruimtes na gebruik niet altijd leeg.",
+    "Een checklist maakt dat zichtbaar. Je zet erop wat de gebruiker zelf doet, wat de beheerder nakijkt en wat je Zondag elke week opneemt."
+   ]
+  },
+  {
+   "h2": "Wekelijks: de vaste beurt van je Zondag",
+   "p": [
+    "<ul class=\"ticks\"><li>Flexplekken en bureaus afnemen</li><li>Vergaderruimtes opruimen: tafels, stoelen, whiteboards afnemen</li><li>Keuken: koelkast nakijken, microgolf, koffiemachine, werkblad</li><li>Sanitair</li><li>Vloeren in gangen en gemeenschappelijke ruimtes</li><li>Afval en recyclage buiten zetten</li></ul>",
+    "Wil je dat dit voor de drukste dag van de week klaar is, dan plannen we de beurt daarvoor. Je Zondag werkt overdag op weekdagen, vroeg in de ochtend of over de middag."
+   ]
+  },
+  {
+   "h2": "Maandelijks: de grotere beurt",
+   "p": [
+    "Eens per maand kan je Zondag dieper gaan: kastdeurtjes en handgrepen, de ruimte onder de tafels, het glas van de scheidingswanden langs binnen en de hoeken waar het stof zich ophoopt. Ook de deur- en lichtschakelaars, die door iedereen aangeraakt worden, verdienen af en toe extra aandacht.",
+    "In een flexplek zonder vaste bureaus zijn er geen persoonlijke spullen die in de weg liggen, wat de beurt vlotter maakt."
+   ]
+  },
+  {
+   "h2": "Jaarlijks en bij verandering",
+   "p": [
+    "Eén of twee keer per jaar, bijvoorbeeld in voor- en najaar, kan je een grote beurt als losse opdracht boeken: vloeren grondiger, meubels verschuiven, gordijnen of lamellen nakijken. Dat spreek je af als aanvulling op het vaste plan. Wie een nieuwe indeling krijgt, kan ook zo'n beurt inplannen voor de herinrichting.",
+    "Voor de grote technische onderhoudsbeurten van airco, ventilatie of verlichting roep je een technicus. Zondags werkt niet op hoogte en herstelt niets."
+   ]
+  },
+  {
+   "h2": "Wat de gebruikers zelf blijven doen",
+   "p": [
+    "Een coworking werkt als iedereen zijn eigen plek verlaat zoals hij ze aantrof. Spreek dat af in je huisregels: bureau leegmaken, bekers terug naar de vaatwasser, vergaderruimte netjes achterlaten en eigen afval meenemen of in de juiste bak gooien. Dan blijft er voor je Zondag echt poetswerk over, en geen opruimwerk."
+   ]
+  },
+  {
+   "h2": "Stel: een IT-consultant met een thuiskantoor die een flexplek huurt",
+   "p": [
+    "Neem een IT-consultant die twee dagen per week een flexplek huurt in een coworking en de rest thuis werkt. Voor de flexplek zorgt de coworking zelf voor het poetsen. Voor zijn thuiskantoor en woning kan hij een Zondag nemen. Op de factuur komt het gedeelte voor het thuiskantoor als beroepsmatig, de rest van de woning als privé.",
+    "Lees meer over die combinatie bij <a href=\"vragen/poetshulp-thuiskantoor-beroepsmatig-prive.html\">poetshulp voor een thuiskantoor</a>."
+   ]
+  },
+  {
+   "h2": "Factuur en start",
+   "p": [
+    "Een vennootschap kan geen dienstencheques kopen. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van beroepsruimtes is een beroepskost. Laat je accountant bevestigen hoe dit voor jouw situatie werkt. Je start met een aanvraag via het formulier of de chat, en de eerste 2 uur zijn gratis."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Hoe vaak moet een coworking gepoetst worden?",
+   "a": "Wekelijks voor de vaste delen, bij drukke bezetting vaker. Een maandelijkse grotere beurt en een jaarlijkse grote beurt als losse opdracht vullen dat aan. Je plan kan je altijd aanpassen."
+  },
+  {
+   "q": "Wat doet de beheerder zelf in een coworking?",
+   "a": "De beheerder zorgt voor huisregels, nakijken van gedeelde ruimtes tussen twee beurten en voorraad zoals koffie en papier. Je Zondag zorgt voor het eigenlijke poetswerk."
+  },
+  {
+   "q": "Kan een Zondag in een coworking buiten kantooruren poetsen?",
+   "a": "Overdag op weekdagen: vroeg in de ochtend of over de middag. 's Avonds en in het weekend werken we niet."
+  },
+  {
+   "q": "Doet Zondags ook de ramen?",
+   "a": "Ramen en glazen wanden langs binnen wel. Ramen langs buiten op hoogte en gevelreiniging niet."
+  },
+  {
+   "q": "Kan een flexplek-huurder zijn eigen Zondag nemen?",
+   "a": "Een ondernemer kan een Zondag nemen voor zijn eigen kantoor of woning. Voor de gedeelde delen van de coworking zelf kan de beheerder een plan bespreken met Zondags."
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "path": "vragen/wie-haalt-kinderen-van-school-ondernemer.html",
+ "title": "Wie haalt je kinderen van school als je een zaak runt",
+ "desc": "Wie haalt je kinderen van school als je zelf een zaak runt? Een overzicht van mogelijkheden: partner, familie, de opvang van de school of een vaste Zondag.",
+ "eyebrow": "Vraag",
+ "h1": "Wie haalt je kinderen van school als je zelf een zaak runt?",
+ "lead": "Voor ondernemers valt het einde van de schooldag zelden samen met het einde van de werkdag. Deze mogelijkheden helpen je kiezen wat bij jouw gezin past.",
+ "answer": "Als ondernemer kan je de kinderen laten ophalen door je partner, door familie, door de opvang van de school of gemeente, of door een vaste hulp in huis. Zondags (zondags.be) levert een vaste Zondag die kinderen van het lager en de eerste jaren van het secundair ophaalt en thuis opvangt, naast het huishouden. Zondags is geen erkende kinderopvang, geen crèche en geen buitenschoolse opvang.",
+ "facts": ["Partner of familie als eerste optie", "Opvang van de school of gemeente", "Een vaste Zondag aan huis", "Geen baby's, geen peuters", "Geen erkende kinderopvang bij Zondags"],
+ "sections": [
+  {"h2": "De eerste vraag: wanneer ben jij er niet", "p": [
+   "Maak eerst een lijstje van de dagen en uren waarop jij of je partner de kinderen niet kan ophalen. Voor veel ondernemers is dat niet elke dag, maar bijvoorbeeld twee dagen per week en tijdens drukke periodes. Dat bepaalt of je een volledige oplossing nodig hebt of een aanvulling."]},
+  {"h2": "Optie één: partner of familie", "p": [
+   "Grootouders, een oom of een tante zijn voor veel gezinnen de eerste keuze. Het is vertrouwd en vaak gratis. Het nadeel is de afhankelijkheid: als iemand ziek is of op reis gaat, zit je zonder plan. Voor een vaste routine is dat soms kwetsbaar."]},
+  {"h2": "Optie twee: de opvang van de school of gemeente", "p": [
+   "Veel scholen en gemeenten organiseren opvang voor en na school. Dat is een goede oplossing als je kind graag bij vrienden blijft en je flexibele uren niet nodig hebt. De uren en de beschikbaarheid verschillen per plaats, dus vraag ze na bij de school of de gemeente. Zondags vervangt dat niet."]},
+  {"h2": "Optie drie: een vaste Zondag aan huis", "p": [
+   "Een vaste Zondag haalt je kinderen op en brengt ze naar huis, zet een vieruurtje klaar en blijft tot jij of je partner thuis bent. Dezelfde persoon komt op vaste weekdagen, in dienst van Zondags en gescreend. Naast de kinderen doet je Zondag ook het huishouden: poetsen, was en strijk, koken en boodschappen.",
+   "<ul class=\"ticks\"><li>Kinderen in het lager en de eerste jaren van het secundair</li><li>Overdag op weekdagen, nooit 's avonds of in het weekend</li><li>Geen baby's, geen peuters, geen zieke kinderen</li><li>Geen huiswerkbegeleiding, geen medische zorg</li></ul>",
+   "Eerlijk gezegd: Zondags is geen erkende kinderopvang, geen crèche en geen buitenschoolse opvang. Wie de kinderen van school mag ophalen, regel je als ouder zelf met de school."]},
+  {"h2": "Zaak en gezin in één plan", "p": [
+   "Heb je een kantoor aan huis of een zaak dicht bij je woning? Dan combineer je alles met dezelfde Zondag: kinderen, woning en zaak. Op de factuur staan het beroepsmatige en het privégedeelte apart. Een vennootschap kan geen dienstencheques kopen; je accountant bevestigt de fiscale kant voor jouw situatie.",
+   "Meer lees je in <a href=\"gids/kinderen-ophalen-als-ondernemer.html\">kinderen ophalen als ondernemer</a> en <a href=\"bedrijven/hulp-in-huis-voor-ondernemers.html\">hulp in huis voor ondernemers</a>."]},
+  {"h2": "Een combinatie kiezen", "p": [
+   "Veel gezinnen combineren: de grootouders op maandag, de buitenschoolse opvang op dinsdag en een vaste Zondag op woensdag en vrijdag. Kies wat bij jouw weekritme past. Je Zondag begint met een intake waarin we de dagen, de uren en de afspraken bespreken. De eerste 2 uur zijn gratis."]}
+ ],
+ "faq": [
+  {"q": "Wie kan mijn kinderen van school halen als ik een zaak run?", "a": "Je partner, familie, de opvang van de school of gemeente, of een vaste Zondag van Zondags. Veel gezinnen combineren meerdere oplossingen over de week."},
+  {"q": "Is Zondags erkende kinderopvang?", "a": "Nee. Zondags is geen erkende kinderopvang, geen crèche en geen buitenschoolse opvang. Een Zondag haalt kinderen op en vangt ze thuis op als onderdeel van de hulp in huis."},
+  {"q": "Voor welke kinderen werkt dit?", "a": "Voor kinderen in het lager en de eerste jaren van het secundair. Geen baby's, geen peuters, geen zieke kinderen en geen medische zorg."},
+  {"q": "Wie regelt de toestemming met de school?", "a": "Dat doe je als ouder zelf met de school. Zondags beheert geen contracten van de school. Vraag de school hoe ze de ophaalpersoon wil kennen."},
+  {"q": "Kan dit ook in de schoolvakanties?", "a": "Dat bekijken we in de intake. Schoolvakanties zijn weekdagen overdag, maar we beloven niets vooraf."}
+ ]
+}

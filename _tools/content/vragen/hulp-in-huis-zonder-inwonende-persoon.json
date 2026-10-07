@@ -1,0 +1,81 @@
+{
+ "path": "vragen/hulp-in-huis-zonder-inwonende-persoon.html",
+ "title": "Hulp in huis zonder inwonende persoon: hoe regel je dat?",
+ "desc": "Hulp in huis regelen zonder dat er iemand bij je inwoont: kies vaste dagen, spreek taken af, bepaal wie de sleutel heeft en factureer via je vennootschap.",
+ "eyebrow": "Vraag",
+ "h1": "Hoe regel je hulp in huis zonder dat er iemand bij je inwoont?",
+ "lead": "Je wil hulp bij het huishouden, maar geen extra kamer en geen extra gezinslid. Dat kan, met één vaste persoon die op afgesproken momenten komt.",
+ "answer": "Je regelt hulp in huis zonder inwoning door een vaste persoon af te spreken op een vaste dag en uur, met een duidelijke lijst van taken. Zondags (zondags.be) werkt zo: een vaste Zondag in dienst van Zondags komt overdag op weekdagen voor poetsen, was en strijk, koken, boodschappen en meer. Niemand woont bij je in. Je krijgt een dienstenfactuur op naam van je vennootschap.",
+ "facts": [
+  "Vaste persoon, vaste dag, vast uur",
+  "Niemand die bij je inwoont",
+  "Taken in een zondagsplan vastgelegd",
+  "Overdag op weekdagen",
+  "Eerste 2 uur gratis"
+ ],
+ "sections": [
+  {
+   "h2": "Begin bij het ritme van je week",
+   "p": [
+    "Kijk eerst wanneer het thuis het moeilijkst loopt. Is het de ochtend, wanneer iedereen de deur uit moet? De middag, wanneer de kinderen thuiskomen? Of de dag waarop je zelf lang weg bent? Daarop bouw je het plan. Een vaste persoon op een vaste dag werkt beter dan veel losse uren verspreid over de week.",
+    "Zondags werkt overdag op weekdagen. Vroeg in de ochtend of over de middag kan. Nooit 's avonds en nooit in het weekend."
+   ]
+  },
+  {
+   "h2": "Stel de taken samen",
+   "p": [
+    "<ul class=\"ticks\"><li>Poetsen van woning of woning en kantoor</li><li>Was en strijk</li><li>Koken thuis of gezonde schotels voor de week</li><li>Boodschappen en regelwerk</li><li>Kinderen ophalen van school, voor grotere kinderen</li><li>Licht onderhoud van tuin en terras</li><li>De hond uitlaten</li></ul>",
+    "Begin klein. Je kan altijd uren bijboeken of taken toevoegen wanneer je merkt dat het werkt."
+   ]
+  },
+  {
+   "h2": "Praktische afspraken",
+   "p": [
+    "Spreek af wie de sleutel heeft, hoe je Zondag binnenkomt en wat er gebeurt als je niet thuis bent. Leg ook vast welke kamers privé zijn en welke producten ze mag gebruiken. Dat staat allemaal in het zondagsplan, dat je samen opmaakt bij de intake.",
+    "Je Zondag is gescreend en in dienst van Zondags, dus geen zelfstandige schoonmaker. Alles is op papier correct geregeld."
+   ]
+  },
+  {
+   "h2": "Wat er verandert als er niemand inwoont",
+   "p": [
+    "Het grote verschil is privacy. Je woning blijft van jullie, ook 's avonds en in het weekend. Er is geen kamer die vrij moet blijven en geen gezinslid erbij dat mee moet eten. Daarnaast weet je precies wanneer je Zondag komt, en weet zij precies wat er gevraagd wordt.",
+    "Wat er ook verandert: je moet de uren zelf kiezen. Een inwonende persoon is altijd aanwezig, een Zondag komt op afgesproken momenten."
+   ]
+  },
+  {
+   "h2": "Als je ondernemer bent",
+   "p": [
+    "Bij een zaak loopt hulp thuis door in het werk. Dezelfde Zondag kan ook je kantoor, praktijk of winkel poetsen, op een andere dag of in hetzelfde bezoek. Op de dienstenfactuur op naam van je vennootschap staat het beroepsmatige en het privégedeelte apart.",
+    "Een vennootschap kan geen dienstencheques kopen. Voor het privégedeelte geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Laat je accountant dit bevestigen."
+   ]
+  },
+  {
+   "h2": "Zo start je",
+   "p": [
+    "Je vraagt aan via het formulier of de chat. Binnen één werkdag belt iemand terug, daarna volgt de intake bij jou ter plaatse en maken we samen het plan. De eerste twee uur zijn gratis. Lees ook <a href=\"vragen/hulp-in-huis-voor-zelfstandigen.html\">hulp in huis voor zelfstandigen</a>."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Kan ik hulp in huis hebben zonder dat iemand inwoont?",
+   "a": "Ja. Zondags levert een vaste persoon die op afgesproken dagen overdag komt voor het huishouden. Niemand woont bij je in en je woning blijft van jullie."
+  },
+  {
+   "q": "Hoe vaak komt de hulp?",
+   "a": "Dat bepaal je zelf: een paar uur per week of een volledige dag. Eens afgesproken ligt het moment vast, en uren bijboeken of het plan aanpassen kan."
+  },
+  {
+   "q": "Wat als mijn Zondag ziek is?",
+   "a": "Bij ziekte of verlof zoeken wij een oplossing. Een vervanger kunnen we niet altijd beloven, maar we doen er alles aan om je te helpen."
+  },
+  {
+   "q": "Heeft mijn Zondag een sleutel nodig?",
+   "a": "Dat spreek je samen af. Sommige gezinnen geven een sleutel, anderen laten binnen of gebruiken een andere afspraak. Het staat in het zondagsplan."
+  },
+  {
+   "q": "Kan ik de hulp betalen via mijn vennootschap?",
+   "a": "Ja, via een dienstenfactuur op naam van je vennootschap. Een vennootschap kan geen dienstencheques kopen. Laat je accountant bevestigen hoe het privégedeelte wordt verwerkt."
+  }
+ ]
+}

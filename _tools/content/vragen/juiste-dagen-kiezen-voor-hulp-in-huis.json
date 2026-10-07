@@ -1,0 +1,74 @@
+{
+ "path": "vragen/juiste-dagen-kiezen-voor-hulp-in-huis.html",
+ "title": "Hoe kies je de juiste dagen voor hulp in huis?",
+ "desc": "Welke dagen en uren passen bij je hulp in huis? Een praktische aanpak voor ondernemers: begin bij je week, kies een vast moment en pas het plan later aan.",
+ "eyebrow": "Vraag",
+ "h1": "Hoe kies je de juiste dagen voor hulp in huis?",
+ "lead": "Kies de dagen waarop je het meeste ontlast wordt, niet de dagen waarop het huis het vuilst is. Begin bij je eigen week en laat de vaste hulp daarop aansluiten.",
+ "answer": "Je kiest de juiste dagen voor hulp in huis door eerst je eigen week te bekijken: wanneer ben je weg, wanneer is het huis het drukst, wanneer kom je thuis? Zondags (zondags.be) werkt overdag op weekdagen, vroeg in de ochtend of over de middag, nooit in de avond of het weekend. Je Zondag komt op een vaste dag en uur, en je past het zondagsplan later aan als je week verandert.",
+ "facts": [
+  "Begin bij je eigen week",
+  "Vaste dag, vast uur",
+  "Overdag op weekdagen",
+  "Uren bijboeken kan",
+  "Plan maandelijks opzegbaar"
+ ],
+ "sections": [
+  {
+   "h2": "Begin bij het moment dat je zelf het meest nodig hebt",
+   "p": [
+    "Veel ondernemers kiezen automatisch voor vrijdag, omdat het huis dan klaar moet zijn voor het weekend. Dat is niet altijd het beste moment. Vraag jezelf eerst af wanneer je het zwaarst belast bent en wat dan bij je thuis vastloopt.",
+    "Is dat de maandagochtend, omdat je kantoor dan volloopt? Is het woensdag, omdat de kinderen vroeg thuis zijn? Dat zijn betere startpunten dan een dag die toevallig leeg lijkt."
+   ]
+  },
+  {
+   "h2": "Een kleine checklist om te kiezen",
+   "p": [
+    "<ul class=\"ticks\"><li>Welke dagen ben je vaak weg van huis en wie is er dan om de sleutel te geven?</li><li>Op welke dag loopt de was het meest op?</li><li>Welke dagen komen de kinderen vroeg thuis?</li><li>Wanneer wil je thuiskomen in een opgeruimd huis?</li><li>Hoe vaak ontvang je thuis, bijvoorbeeld voor klanten of familie?</li></ul>",
+    "Tel je antwoorden samen en kijk welke dag het vaakst terugkomt. Dat is meestal een goede kandidaat."
+   ]
+  },
+  {
+   "h2": "Weekdagen overdag, en wat dat betekent",
+   "p": [
+    "Zondags werkt overdag op weekdagen. Vroeg in de ochtend of over de middag kan, nooit in de avond en nooit in het weekend. Als je beste moment in het weekend ligt, past onze dienst niet voor die dag en moet je een andere oplossing zoeken.",
+    "Wil je meerdere taken combineren, bijvoorbeeld poetsen op dinsdag en koken op donderdag, dan kan dat in één zondagsplan met dezelfde persoon."
+   ]
+  },
+  {
+   "h2": "Een voorbeeld van een week",
+   "p": [
+    "Stel: je bent zaakvoerder van een kantoor, je hebt twee kinderen in het lager onderwijs en je werkt op maandag en dinsdag veel buiten de deur. Je Zondag komt dan op woensdagochtend voor het poetsen en de was, en op donderdagmiddag voor het koken en de boodschappen.",
+    "Is die week te vol, dan schuif je naar één dag. Is er extra druk, dan boek je uren bij. Het plan is maandelijks opzegbaar, dus niets staat vast."
+   ]
+  },
+  {
+   "h2": "Hoe Zondags de dagen vastlegt",
+   "p": [
+    "Na je aanvraag belt iemand binnen één werkdag terug. Bij de intake leggen we samen het zondagsplan vast: taken, dagen, uren en afspraken. De eerste 2 uur zijn gratis, zodat je ziet of de dag klopt. Pas je dag later aan, dan kijken we samen naar wat mogelijk is. Meer over de intake lees je op <a href=\"gids/intakegesprek.html\">het intakegesprek</a>, en een overzicht van het plan op <a href=\"gids/zondagsplan.html\">het zondagsplan</a>."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Welke dag is het beste voor hulp in huis?",
+   "a": "Dat hangt af van je week. Kies de dag waarop je het meest ontlast wordt, bijvoorbeeld voor een drukke werkdag of voor je gezin thuiskomt. Zondags werkt overdag op weekdagen."
+  },
+  {
+   "q": "Kan ik de dagen later nog wijzigen?",
+   "a": "Ja. Het zondagsplan is aanpasbaar en maandelijks opzegbaar. Uren bijboeken of een andere dag kiezen bespreek je met je Zondag."
+  },
+  {
+   "q": "Kan hulp in huis in het weekend?",
+   "a": "Nee. Zondags werkt niet in het weekend en niet in de avond. Alleen overdag op weekdagen."
+  },
+  {
+   "q": "Kan mijn Zondag elke week op een andere dag komen?",
+   "a": "Het uitgangspunt is een vaste dag en uur, zodat jij en je Zondag een ritme hebben. Af en toe wisselen kan in overleg."
+  },
+  {
+   "q": "Hoe begin ik met kiezen?",
+   "a": "Doe een aanvraag via het formulier of de chat. Binnen één werkdag belt iemand terug en kiezen we samen de dagen tijdens de intake."
+  }
+ ]
+}

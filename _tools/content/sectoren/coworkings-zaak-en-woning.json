@@ -1,0 +1,85 @@
+{
+ "path": "sectoren/coworkings-zaak-en-woning.html",
+ "title": "Zaak en woning in één plan voor gedeelde kantoren",
+ "desc": "Als zaakvoerder van een gedeeld kantoor laat je zaak en woning door dezelfde vaste Zondag doen, met een factuur die beroepsmatig en privé splitst.",
+ "eyebrow": "Gedeelde kantoren",
+ "h1": "Zaak en woning in één plan: hulp voor coworkings en gedeelde kantoren",
+ "lead": "Een gedeeld kantoor heeft veel wisselende gebruikers en dus veel slijtage. Als zaakvoerder wil je niet ook nog thuis alles zelf doen. Eén vaste Zondag kan beide aan.",
+ "answer": "Voor zaakvoerders van gedeelde kantoren en flexplekken kan Zondags (zondags.be) de zaak en de woning in één plan nemen, met dezelfde vaste Zondag. Het gedeelde kantoor krijgt een vaste beurt voor flexplekken, keuken en vergaderruimtes, de woning een eigen moment. De factuur op naam van je vennootschap splitst het beroepsmatige en het privégedeelte, en je accountant bevestigt de fiscale kant.",
+ "facts": [
+  "Flexplekken, keuken, vergaderruimtes",
+  "Dezelfde Zondag voor zaak en woning",
+  "Factuur splitst beroepsmatig en privé",
+  "Overdag op weekdagen",
+  "Accountant bevestigt de fiscale kant"
+ ],
+ "sections": [
+  {
+   "h2": "Een gedeeld kantoor, een gedeelde zorg",
+   "p": [
+    "In een gedeeld kantoor komen en gaan mensen. Elke dag een andere flexplek in gebruik, een keuken die iedereen deelt, een vergaderruimte die wekelijks wisselt van bezetting. Niemand voelt zich verantwoordelijk, dus de zaakvoerder voelt het zelf.",
+    "Een vaste Zondag brengt rust. Iedereen kent die persoon, en de beurt valt op een vast moment. Dat geeft de gebruikers het gevoel van een verzorgde plek."
+   ]
+  },
+  {
+   "h2": "Wat je Zondag in een gedeeld kantoor doet",
+   "p": [
+    "<ul class=\"ticks\"><li>Flexplekken en bureaus afnemen</li><li>Keuken en koffiehoek opruimen en reinigen</li><li>Vergaderruimtes klaarzetten</li><li>Sanitair onderhouden</li><li>Vloeren en afval</li><li>Gemeenschappelijke zitjes en onthaal</li></ul>",
+    "Dat sluit aan bij een wekelijks of tweewekelijks ritme, afhankelijk van hoeveel gebruikers er zijn. Een druk gedeeld kantoor kiest vaak voor wekelijks."
+   ]
+  },
+  {
+   "h2": "Je woning in hetzelfde plan",
+   "p": [
+    "Op een andere dag van de week komt dezelfde Zondag naar je woning. Daar doet je Zondag het poetsen, de was en strijk of de boodschappen, zoals jullie afspreken. Dat kan ook koken zijn, thuis of als schotels voor de week.",
+    "Zo heb je één aanspreekpunt voor twee adressen, en niemand die je telkens opnieuw moet inwerken."
+   ]
+  },
+  {
+   "h2": "Hoe de factuur gesplitst wordt",
+   "p": [
+    "Een vennootschap kan geen dienstencheques kopen, die zijn voorbehouden aan particulieren. Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap. Daarop staan het beroepsmatige en het privégedeelte apart, zodat je boekhouding klopt.",
+    "Het onderhoud van beroepsruimtes is een beroepskost. Voor de woning van de bedrijfsleider geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst."
+   ]
+  },
+  {
+   "h2": "Fiscale voorzichtigheid",
+   "p": [
+    "Btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte in principe niet. Een btw-vrijgestelde zaak kan de btw doorgaans niet recupereren. Wat voor jouw gedeelde kantoor en je privésituatie geldt, kunnen wij niet voor je beoordelen. Laat je accountant dit bevestigen voor je eigen situatie."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een opticien in een winkelstraat, en jij ernaast",
+   "p": [
+    "Neem een gedeeld kantoor in een winkelstraat, naast een opticien. Het kantoor gaat open om een vast uur, dus de beurt valt vroeg in de ochtend. Je Zondag poetst de flexplekken en de keuken en gaat daarna naar je woning.",
+    "Wil je dat het plan meegroeit met je gebruikers, dan kan je uren bijboeken of afbouwen. Het plan is maandelijks opzegbaar en de eerste 2 uur zijn gratis. Je start met een aanvraag via het formulier of de chat. Meer lees je bij <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Kan Zondags een gedeeld kantoor en mijn woning samen doen?",
+   "a": "Ja. Zondags neemt het gedeelde kantoor en je woning in één zondagsplan met dezelfde vaste Zondag, op verschillende dagen of uren. De factuur splitst beroepsmatig en privé."
+  },
+  {
+   "q": "Hoe vaak moet een gedeeld kantoor gepoetst worden?",
+   "a": "Dat hangt af van het aantal gebruikers. Een druk gedeeld kantoor kiest vaak voor wekelijks, een rustige voor tweewekelijks. Het ritme kan je later aanpassen."
+  },
+  {
+   "q": "Wat doet je Zondag in de keuken van een gedeeld kantoor?",
+   "a": "Opruimen, reinigen en afnemen van de keuken en koffiehoek. Wat in de frigo hoort, bepaal je zelf. Je Zondag ruimt niets weg dat jij niet hebt aangeduid."
+  },
+  {
+   "q": "Hoe zit het met de btw?",
+   "a": "Btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte in principe niet. Laat je accountant bevestigen hoe het voor jou werkt."
+  },
+  {
+   "q": "Kan ik dienstencheques gebruiken?",
+   "a": "Nee. Een vennootschap kan geen dienstencheques kopen, die zijn voor particulieren. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap."
+  },
+  {
+   "q": "Wat als mijn Zondag ziek is?",
+   "a": "Dan zoeken we een oplossing, zonder een vervanger te beloven. Klikt het niet met je Zondag, dan zoeken we samen een andere Zondag die beter past."
+  }
+ ]
+}

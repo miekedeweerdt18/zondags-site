@@ -1,0 +1,82 @@
+{
+ "path": "vragen/kinderen-ophalen-via-je-vennootschap.html",
+ "title": "Kinderen ophalen via je vennootschap laten lopen?",
+ "desc": "Kan je de hulp voor het ophalen van je kinderen via je vennootschap laten lopen? Zo zit de factuur van Zondags in elkaar, met de nodige voorzichtigheid.",
+ "eyebrow": "Vraag",
+ "h1": "Kan je de hulp bij het ophalen van je kinderen via je vennootschap laten lopen?",
+ "lead": "De hulp bij het ophalen van je kinderen is een privétaak. Zo komt ze op een dienstenfactuur aan je vennootschap, en wat je accountant erover moet weten.",
+ "answer": "Bij Zondags (zondags.be) kan de hulp bij het ophalen van je kinderen op de dienstenfactuur van je vennootschap staan, als privégedeelte naast het beroepsmatige deel. Voor het privégedeelte geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst. Een vennootschap kan geen dienstencheques kopen. Laat je accountant dit bevestigen voor jouw situatie.",
+ "facts": [
+  "Gewone dienstenfactuur op je vennootschap",
+  "Ophalen van kinderen is privégedeelte",
+  "Forfaitair voordeel van alle aard",
+  "Regelmatige prestaties nodig",
+  "Accountant bevestigt",
+  "Eerste 2 uur gratis"
+ ],
+ "sections": [
+  {
+   "h2": "Het eerste wat je moet weten",
+   "p": [
+    "De hulp bij het ophalen van je kinderen is geen beroepskost. Het gaat om een taak in je privéleven, ook al doet je vennootschap de betaling. Daarom zet Zondags dat gedeelte apart op de factuur, als privégedeelte.",
+    "Een vennootschap kan geen dienstencheques kopen; die zijn voorbehouden aan particulieren. Daarom werkt Zondags met een gewone dienstenfactuur op naam van je vennootschap, met een splitsing tussen beroepsmatig en privé."
+   ]
+  },
+  {
+   "h2": "Wat er op de factuur komt",
+   "p": [
+    "<ul class=\"ticks\"><li>Beroepsmatig: het onderhoud van je kantoor, praktijk of winkel</li><li>Privé: het ophalen van je kinderen, de opvang thuis, het huishouden</li></ul>",
+    "Kinderen ophalen en opvangen is onderdeel van de hulp in huis, en daar hoort het privégedeelte bij. Het gaat om kinderen in het lager onderwijs en de eerste jaren van het secundair. Het is geen erkende kinderopvang, geen crèche en geen buitenschoolse opvang."
+   ]
+  },
+  {
+   "h2": "Hoe dat fiscaal wordt bekeken",
+   "p": [
+    "Voor het privégedeelte, hier het ophalen van je kinderen en het huishouden, geldt een forfaitair voordeel van alle aard. Dat geldt op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst. Een los, onregelmatig bezoek valt dus buiten dat verhaal.",
+    "De btw op het privégedeelte is in principe niet recupereerbaar. Op het beroepsmatige deel is ze in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Een btw-vrijgestelde zaak kan de btw doorgaans niet recupereren. Laat je accountant bevestigen hoe dat voor jouw situatie werkt."
+   ]
+  },
+  {
+   "h2": "Wat je accountant wil weten",
+   "p": [
+    "De hulp bij het ophalen van je kinderen is een privétaak. Zondags zet die apart op de factuur, naast het beroepsmatige deel. Ouders weten zo precies waarvoor ze betalen.",
+    "Meer uitleg over de combinatie lees je op <a href=\"gids/kinderen-ophalen-als-ondernemer.html\">kinderen ophalen als ondernemer</a> en op <a href=\"gids/voordeel-alle-aard-huispersoneel.html\">voordeel alle aard bij huispersoneel</a>."
+   ]
+  },
+  {
+   "h2": "Wie regelt wat met de school",
+   "p": [
+    "Wie je kind mag ophalen, regel je als ouder met de school. Zondags beheert geen contracten van de school. In het intakegesprek bespreken we samen hoe de week eruitziet, en leggen we dat vast in het zondagsplan. Een voorbeeld: een ouder die om vier uur in vergadering zit, hoeft de agenda niet te verschuiven, omdat het ophalen vaststaat in het plan. Dat geeft in drukke weken rust.",
+    "Moeten er in de schoolvakanties afspraken komen, dan bekijken we dat in de intake. We beloven vooraf niet dat het kan."
+   ]
+  },
+  {
+   "h2": "Zo start je",
+   "p": [
+    "Vraag aan via het formulier of de chat. Binnen één werkdag belt iemand je terug. We komen langs voor de intake en maken samen het zondagsplan. De eerste 2 uur zijn gratis, en het plan is maandelijks opzegbaar."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Kan ik de hulp bij het ophalen van mijn kinderen via mijn vennootschap laten lopen?",
+   "a": "Ja, op een dienstenfactuur op naam van je vennootschap, als privégedeelte. Voor dat deel geldt een forfaitair voordeel van alle aard. Laat je accountant bevestigen hoe dat voor jouw situatie werkt."
+  },
+  {
+   "q": "Is het ophalen van kinderen een beroepskost?",
+   "a": "Nee. Het is een privétaak en staat apart op de factuur, naast het beroepsmatige deel zoals het onderhoud van je kantoor."
+  },
+  {
+   "q": "Kan mijn vennootschap dienstencheques kopen voor de kinderen?",
+   "a": "Nee. Een vennootschap kan geen dienstencheques kopen; die zijn voorbehouden aan particulieren. Daarom werkt Zondags met een gewone dienstenfactuur."
+  },
+  {
+   "q": "Moet de hulp regelmatig zijn?",
+   "a": "Ja, voor het forfaitaire voordeel van alle aard moeten de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Daarom werkt een vast zondagsplan met vaste dag en uur."
+  },
+  {
+   "q": "Is dit een erkende kinderopvang?",
+   "a": "Nee. Zondags is geen erkende kinderopvang, geen crèche en geen buitenschoolse opvang. Je Zondag haalt kinderen op en vangt ze thuis op als deel van de hulp in huis."
+  }
+ ]
+}

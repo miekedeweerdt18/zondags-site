@@ -1,0 +1,83 @@
+{
+ "sections": [
+  {
+   "h2": "Waarom de vraag niet voor elk bedrijf hetzelfde is",
+   "p": [
+    "Btw hangt af van wie je bent. Een btw-plichtige zaak met aftrekrecht doet andere dingen met de btw dan een vrijgestelde praktijk. Daarbovenop gaat het over de vraag of de poetshulp bij de zaak hoort of bij de woning van de zaakvoerder. Wij geven hier de algemene lijn en geen advies op maat, want dat vraagt kennis van jouw dossier."
+   ]
+  },
+  {
+   "h2": "Het beroepsmatige deel",
+   "p": [
+    "Het onderhoud van beroepsruimtes, zoals een kantoor, een winkel of een praktijk, is een beroepskost. Voor een btw-plichtige zaak met aftrekrecht is de btw op dat deel in principe recupereerbaar. Dat betekent dat je ze in je aangifte kan opnemen. Of dat ook in jouw situatie opgaat, hangt af van je activiteiten en van de manier waarop je de btw behandelt."
+   ]
+  },
+  {
+   "h2": "Het privégedeelte",
+   "p": [
+    "Laat je ook je woning poetsen, dan is dat geen beroepskost. De btw op het privégedeelte is in principe niet recupereerbaar. Voor het privégedeelte geldt bovendien een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst. Daarom splitst Zondags de factuur: beroepsmatig en privé staan apart. Meer uitleg vind je in de gids <a href=\"gids/btw-huishoudelijke-diensten.html\">btw op huishoudelijke diensten</a>."
+   ]
+  },
+  {
+   "h2": "Een btw-vrijgestelde praktijk",
+   "p": [
+    "Een btw-vrijgestelde praktijk, bijvoorbeeld van sommige zorgverleners, kan de btw op poetshulp doorgaans niet recupereren. De btw is dan een kost zoals alle andere. Lees meer in <a href=\"vragen/btw-vrijgestelde-praktijk-poetshulp.html\">btw-vrijgestelde praktijk en poetshulp</a>. Of dat ook voor jouw praktijk geldt, bevestigt je accountant."
+   ]
+  },
+  {
+   "h2": "Waarom dienstencheques geen optie zijn",
+   "p": [
+    "Je kan als vennootschap geen dienstencheques kopen, want die zijn voorbehouden aan particulieren. Daarom werkt Zondags met een gewone dienstenfactuur op naam van je vennootschap. Dat is ook de reden waarom btw op die factuur een vraag wordt, die bij dienstencheques niet speelt."
+   ]
+  },
+  {
+   "h2": "Zo bereid je het gesprek met je accountant voor",
+   "p": [
+    "<ul class=\"ticks\"><li>Noteer of je zaak btw-plichtig is of vrijgesteld<li>Noteer welke ruimtes gepoetst worden: zaak, woning of beide<li>Vraag of het voordeel van alle aard voor het privégedeelte van toepassing is<li>Laat de factuur zien en vraag hoe je ze boekt<li>Vraag wat er verandert als je plan uitbreidt</li></ul>",
+    "Doe dit voor je start, zodat je geen verrassingen krijgt."
+   ]
+  },
+  {
+   "h2": "Hoe je start",
+   "p": [
+    "Je dient een aanvraag in via het formulier of de chat, we bellen binnen één werkdag terug, komen langs voor de intake en maken samen het zondagsplan. Op de factuur komt het beroepsmatige en het privégedeelte apart. De eerste 2 uur zijn gratis. Laat je accountant bevestigen hoe dit voor je eigen situatie werkt."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Kan ik de btw op poetshulp voor mijn bedrijf recupereren?",
+   "a": "In principe op het beroepsmatige deel, voor een btw-plichtige zaak met aftrekrecht. Op het privégedeelte in principe niet. Laat je accountant dit bevestigen voor je eigen situatie."
+  },
+  {
+   "q": "Wat als mijn praktijk btw-vrijgesteld is?",
+   "a": "Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Je accountant bevestigt wat in jouw geval geldt."
+  },
+  {
+   "q": "Hoe zit het met de woning van de zaakvoerder?",
+   "a": "Dat is een privégedeelte. De btw is in principe niet recupereerbaar en er geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren."
+  },
+  {
+   "q": "Kan ik als vennootschap dienstencheques gebruiken?",
+   "a": "Nee. Een vennootschap kan geen dienstencheques kopen, enkel particulieren. Zondags werkt daarom met een gewone dienstenfactuur op naam van je vennootschap."
+  },
+  {
+   "q": "Staat de btw apart op de factuur van Zondags?",
+   "a": "Je krijgt een gewone dienstenfactuur. Beroepsmatig en privé staan apart, zodat je accountant het correct kan verwerken. Voor de verwerking in jouw situatie vraag je altijd je accountant."
+  }
+ ],
+ "path": "vragen/btw-op-poetshulp-voor-bedrijven.html",
+ "title": "Btw op poetshulp: wat moet je als bedrijf weten?",
+ "desc": "Btw op poetshulp voor je bedrijf: wat in principe recupereerbaar is, wat voor een btw-vrijgestelde praktijk geldt en waarom je accountant beslist.",
+ "eyebrow": "Vraag",
+ "h1": "Btw op poetshulp: wat moet je als bedrijf weten?",
+ "lead": "Of je de btw op poetshulp kan recupereren, hangt af van je zaak en van wat er precies gepoetst wordt. Dit is de algemene lijn, zonder bedragen en zonder belofte.",
+ "answer": "Op de factuur voor poetshulp staat btw, en of je die kan recupereren hangt af van je situatie. In principe is de btw op het beroepsmatige deel recupereerbaar voor een btw-plichtige zaak met aftrekrecht, en op het privégedeelte niet. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Zondags (zondags.be) splitst de factuur, en je accountant bevestigt wat voor jou geldt.",
+ "facts": [
+  "Btw-plichtige zaak: beroepsdeel in principe recupereerbaar",
+  "Privégedeelte in principe niet",
+  "Btw-vrijgestelde praktijk: doorgaans niet",
+  "Factuur splitst beroepsmatig en privé",
+  "Accountant bevestigt altijd"
+ ]
+}

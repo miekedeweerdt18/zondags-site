@@ -1,0 +1,81 @@
+{
+ "title": "Kan iemand je huis bijhouden tijdens je vakantie?",
+ "desc": "Ja, een vaste Zondag kan je huis bijhouden terwijl je weg bent. Wat dat inhoudt, hoe je het afspreekt en wat je vooraf best regelt.",
+ "eyebrow": "Vraag",
+ "h1": "Kan iemand je huis bijhouden terwijl je op vakantie bent?",
+ "lead": "Ja. Een vaste Zondag kan je woning bijhouden terwijl je weg bent, zodat je bij thuiskomst in een huis stapt dat er gewoon bijligt.",
+ "answer": "Ja, iemand kan je huis bijhouden tijdens je vakantie. Zondags (zondags.be) biedt dat aan als onderdeel van de hulp in huis: een vaste Zondag komt op de afgesproken dagen overdag langs en doet wat jullie samen hebben vastgelegd in het zondagsplan. Ze werkt overdag op weekdagen en is in dienst van Zondags. De factuur gaat op naam van je vennootschap.",
+ "facts": [
+  "Ja, onderdeel van de hulp in huis",
+  "Vaste Zondag, op afgesproken dagen",
+  "Overdag op weekdagen",
+  "Inhoud leg je vast in het zondagsplan",
+  "Factuur op je vennootschap"
+ ],
+ "sections": [
+  {
+   "h2": "Wat het huis bijhouden inhoudt",
+   "p": [
+    "Een huis dat een week of twee leeg staat, verandert niet veel, en toch merk je bij thuiskomst dat er iets ontbreekt. Het ruikt bedompt, er ligt stof op de planken, de frigo heeft een rondje nodig en er ligt post. Een vaste Zondag kijkt tussendoor in je huis, zodat het niet zo ver komt.",
+    "Wat daar precies bij hoort, bepaal je zelf. Dat zijn de dingen die jij belangrijk vindt, en die bespreken we in de intake."
+   ]
+  },
+  {
+   "h2": "Wat je vooraf best bespreekt",
+   "p": [
+    "<ul class=\"ticks\"><li>Hoe vaak je Zondag langskomt tijdens je afwezigheid</li><li>Wat er bij elk bezoek moet gebeuren</li><li>Wie je bereikt als er iets onverwachts is</li><li>Wat je bij thuiskomst klaar wil hebben</li></ul>",
+    "Zo'n lijstje hoeft niet lang te zijn. Het helpt om vooraf te weten wat verwacht wordt, zodat je op reis niet hoeft na te denken over je huis. Alles wat je afspreekt, wordt vastgelegd in je zondagsplan."
+   ]
+  },
+  {
+   "h2": "Waarom een vaste persoon voor je huis tijdens je vakantie",
+   "p": [
+    "Wie een huis bijhoudt, weet waar alles staat en wat normaal is. Een vaste Zondag die je woning al kent, ziet meteen als er iets anders is dan anders. Dat is geen toverformule, maar het scheelt ten opzichte van iemand die voor het eerst bij je binnenkomt.",
+    "Heb je al een vaste Zondag voor het poetsen, dan is het huis bijhouden een kleine uitbreiding van wat zij al doet. Je hoeft niemand nieuw in te leiden."
+   ]
+  },
+  {
+   "h2": "Wat een Zondag niet doet",
+   "p": [
+    "Technische klussen, zoals elektriciteit of sanitair herstellen, horen er niet bij. Ook werken op hoogte is uitgesloten. Wil je dat iemand 's avonds of in het weekend langskomt, dan past dat niet binnen onze werkuren, want Zondags werkt overdag op weekdagen.",
+    "Dat betekent dat je Zondag bij vertrek in het weekend of bij thuiskomst op een zaterdag niet aanwezig is. Plan je dus zelf iets voor die momenten of vraag een afspraak op een weekdag."
+   ]
+  },
+  {
+   "h2": "Fiscaal: houd je accountant erbij",
+   "p": [
+    "Een vennootschap kan geen dienstencheques kopen; die zijn voor particulieren. Zondags werkt met een gewone dienstenfactuur op naam van de vennootschap. Voor het huis, het privégedeelte, geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst.",
+    "Laat je accountant bevestigen hoe dat voor jouw situatie werkt. Meer over de aanpak lees je op <a href=\"gids/checklist-huis-tijdens-vakantie.html\">de checklist voor je huis tijdens de vakantie</a> en op <a href=\"bedrijven/hulp-in-huis-voor-ondernemers.html\">hulp in huis voor ondernemers</a>."
+   ]
+  },
+  {
+   "h2": "Zo regel je het",
+   "p": [
+    "Vraag aan via het formulier of de chat. Binnen één werkdag belt iemand je terug. In de intake bekijken we wat je wil en maken we het zondagsplan. De eerste 2 uur zijn gratis. Bij ziekte of verlof van je Zondag zoeken we een oplossing, een vervanger beloven we niet."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Kan iemand mijn huis bijhouden terwijl ik op vakantie ben?",
+   "a": "Ja. Een vaste Zondag van Zondags kan op afgesproken dagen overdag langskomen en doen wat jullie samen in het zondagsplan hebben vastgelegd."
+  },
+  {
+   "q": "Hoe vaak komt de Zondag langs tijdens mijn vakantie?",
+   "a": "Dat spreek je vooraf af, bijvoorbeeld één of enkele keren per week. We bespreken het in de intake en leggen het vast."
+  },
+  {
+   "q": "Komt de Zondag ook in het weekend?",
+   "a": "Nee. Zondags werkt overdag op weekdagen, nooit 's avonds en nooit in het weekend."
+  },
+  {
+   "q": "Wat als mijn Zondag ziek is tijdens mijn vakantie?",
+   "a": "Dan zoeken we een oplossing. We beloven geen vervanger op dezelfde dag, maar we bekijken samen wat mogelijk is."
+  },
+  {
+   "q": "Kan het huis bijhouden gecombineerd worden met een grote poetsbeurt bij thuiskomst?",
+   "a": "Ja. Een losse opdracht zoals een grote poetsbeurt is mogelijk, op een weekdag overdag, zodat je thuiskomt in een huis dat klaar is."
+  }
+ ],
+ "path": "vragen/huis-bijhouden-tijdens-vakantie.html"
+}

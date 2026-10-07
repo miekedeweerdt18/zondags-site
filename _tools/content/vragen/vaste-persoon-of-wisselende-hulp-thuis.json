@@ -1,0 +1,81 @@
+{
+ "title": "Vaste persoon of wisselende hulp thuis?",
+ "desc": "Waarom kies je thuis liever voor één vaste persoon dan voor wisselende hulp? Wat het scheelt in uitleg, vertrouwen en rust, en wanneer wisselend ook past.",
+ "eyebrow": "Vraag",
+ "h1": "Waarom kies je thuis liever voor één vaste persoon dan voor wisselende hulp?",
+ "lead": "Bij hulp in huis draait veel om vertrouwen en gewoonte. Dat bouw je op met één persoon, niet met een ploeg die telkens verandert.",
+ "answer": "Een vaste persoon thuis scheelt in uitleg, vertrouwen en rust: ze kent je huis, je gewoontes en wat je liever niet hebt, en je hoeft niets telkens opnieuw uit te leggen. Zondags (zondags.be) werkt met één vaste Zondag per klant, op een vaste dag en een vast uur, in dienst van Zondags. Wisselende hulp kan voor een eenmalige klus volstaan.",
+ "facts": [
+  "Je hoeft niets telkens uit te leggen",
+  "Vertrouwen groeit met één persoon",
+  "Vaste dag en vast uur",
+  "In dienst van Zondags",
+  "Wisselend kan voor een losse klus"
+ ],
+ "sections": [
+  {
+   "h2": "Wat een vaste persoon thuis verandert",
+   "p": [
+    "Een huis is geen kantoor. Het gaat om persoonlijke spullen, een privéleven en gewoontes die niemand anders kent. Wanneer elke week een ander gezicht aan de deur staat, moet je telkens uitleggen waar de strijkplank staat, welke producten niet mogen en welke kamer je liever met rust laat.",
+    "Een vaste persoon leert dat één keer. Na enkele weken weet ze het, en jij hoeft niet meer te zeggen wat ze al kent."
+   ]
+  },
+  {
+   "h2": "Waar je het meest van merkt",
+   "p": [
+    "<ul class=\"ticks\"><li>Je hoeft niets telkens opnieuw uit te leggen</li><li>De kwaliteit blijft hetzelfde, omdat dezelfde persoon het doet</li><li>Je weet wie er aan de deur staat</li><li>Kinderen en huisdieren kennen haar</li><li>Kleine dingen, zoals een voorkeur voor de strijk, worden onthouden</li></ul>",
+    "Dat zijn geen grote dingen, maar samen zijn ze het verschil tussen hulp waar je aan denkt en hulp waar je niet meer aan hoeft te denken."
+   ]
+  },
+  {
+   "h2": "Wanneer wisselende hulp ook past",
+   "p": [
+    "Een wisselende ploeg is niet altijd een slechte keuze. Voor een eenmalige grote poetsbeurt, na een verhuis of na een verbouwing, kan een ploeg zinvol zijn. Je hoeft geen band op te bouwen en je wil gewoon dat het snel gebeurt.",
+    "Voor wat elke week terugkomt, werkt een vaste persoon beter. En ook een losse opdracht is mogelijk bij Zondags, bijvoorbeeld een grote poetsbeurt of een verhuis, naast of zonder vast plan."
+   ]
+  },
+  {
+   "h2": "Wat Zondags hierin anders doet",
+   "p": [
+    "Je Zondag is steeds dezelfde persoon, gescreend door Zondags en in dienst van Zondags, geen zelfstandige. Zondags werkt met studenten vanaf 18 jaar, flexi-jobbers en mensen met een vast contract. Wie jouw Zondag wordt, hangt af van je dagen, je uren en wat bij je past.",
+    "Klikt het niet, dan zoeken we samen een andere Zondag. Bij ziekte of verlof zoeken we een oplossing; een vervanger beloven we niet. We zijn eerlijk over wat we wel en niet kunnen doen."
+   ]
+  },
+  {
+   "h2": "Voor ondernemers: waarom het extra telt",
+   "p": [
+    "Als ondernemer heb je weinig tijd om dingen opnieuw uit te leggen. Een vaste persoon thuis geeft je minder dingen om te regelen en minder om bij na te denken. Dat past bij wie liever zijn tijd in zijn zaak steekt.",
+    "Heb je ook een kantoor of praktijk, dan kan dezelfde Zondag daar ook komen, met één factuur op de vennootschap waarop beroepsmatig en privé gescheiden staan. Voor het privégedeelte geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst. Laat je accountant bevestigen hoe dat voor jou werkt. Meer lees je op <a href=\"gids/vaste-huishoudhulp-voordelen.html\">de voordelen van een vaste huishoudhulp</a> en <a href=\"bedrijven/hulp-in-huis-voor-ondernemers.html\">hulp in huis voor ondernemers</a>."
+   ]
+  },
+  {
+   "h2": "Zo start je",
+   "p": [
+    "Vraag aan via het formulier of de chat. Binnen één werkdag belt iemand je terug. In de intake maken we samen het zondagsplan. De eerste 2 uur zijn gratis, zodat je kan voelen of het klikt."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Waarom kies ik thuis best één vaste persoon?",
+   "a": "Omdat je dan niets telkens opnieuw moet uitleggen, en het vertrouwen met één persoon groeit. Ze kent je huis en je gewoontes."
+  },
+  {
+   "q": "Is een wisselende ploeg slechter?",
+   "a": "Niet altijd. Voor een eenmalige grote poetsbeurt kan een ploeg zinvol zijn. Voor wat wekelijks terugkomt, werkt een vaste persoon doorgaans beter."
+  },
+  {
+   "q": "Wat als ik me niet goed voel bij mijn Zondag?",
+   "a": "Dan zoeken we samen een andere Zondag. Het moet voor jou kloppen, want je laat iemand in je huis."
+  },
+  {
+   "q": "Is mijn Zondag een zelfstandige?",
+   "a": "Nee. Je Zondag is gescreend door Zondags en in dienst van Zondags. Je hebt één aanspreekpunt bij ons."
+  },
+  {
+   "q": "Wat als mijn vaste persoon ziek is?",
+   "a": "Dan zoeken we een oplossing. We beloven geen vervanger op dezelfde dag, maar we bekijken samen wat mogelijk is."
+  }
+ ],
+ "path": "vragen/vaste-persoon-of-wisselende-hulp-thuis.html"
+}

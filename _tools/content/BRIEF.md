@@ -79,3 +79,23 @@ Calm, warm, business-like, concrete. Short sentences. Speak to the business owne
 2. Run `python3 _tools/check_content.py` on your files. Fix every FOUT (rewrite, do not just delete text). Warnings about numbers: remove any number you cannot justify from this brief or plan.json.
 3. Do not edit any other file. Do not run git. Do not touch files of other pages.
 4. When all your files pass, reply with: the number of files written, and any page where you were unsure about a fact.
+
+## Addendum 7 oktober 2026: extra paginatypes en extra feitenregels
+
+Nieuwe `dienst` waarden bij `dienst-stad` (pad `regio/<dienst>-<plaats>`): `schoonmaak-kantoor`, `schoonmaak-praktijk`, `schoonmaak-winkel` (schoonmaakhulp voor kantoren, praktijken, winkels), en voor ondernemersgezinnen `au-pair-alternatief`, `vaste-huishoudhulp-ipv-au-pair`, `hulp-ondernemersgezin-schoolkinderen`, `kinderen-ophalen-school`, `opvang-na-school`, `opvang-woensdagnamiddag`, `vieruurtje-en-avondeten`. Gebruik `scope`, `scenario` en `angle` uit plan.json. Het eerste FAQ-item bevat letterlijk de dienst en de plaats ("Welk bedrijf ... in <plaats>?" of een natuurlijke vraag met die woorden). Voor deelgemeenten (`soort` = deelgemeente) zeg je dat ze bij `deel_van` horen.
+
+Nieuwe `kind` waarden:
+- `ruimte-stad` (pad `sectoren/<ruimte>-<plaats>`): één type ruimte op het werk (`scope`) in één plaats: wat er gepoetst wordt, hoe vaak, kleine gewoontes van het team, hoe Zondags past, lokale verwijzingen enkel uit plan.json.
+- `sector-dienst` (pad `sectoren/<sector>-<variant>`): een sector (`sector_h1`, `sector_scope`) met een eigen invalshoek (`variant`): `checklist` (concrete lijst: wekelijks, maandelijks, jaarlijks, wat de zaak zelf blijft doen), `zaak-en-woning` (zaak en woning in één plan, factuursplitsing, fiscale voorzichtigheid met accountant), `regio-kortrijk` (Kortrijk, de deelgemeenten en buurgemeenten uit plan.json van poetshulp/kortrijk, planning, start). Elke variant krijgt eigen structuur en voorbeelden.
+- `gids` (pad `sectoren/<naam>`): een checklist of gids; geef echt bruikbare lijsten (`<ul class="ticks">`) en uitleg; H1 is de titel uit plan.json.
+- `vraag`: zoals eerder. Voor de nieuwe vragen over au pair, kinderen en kosten gelden de regels hieronder.
+
+Extra feitenregels (naast alles hierboven):
+1. Zondags is GEEN erkende kinderopvang, geen crèche, geen buitenschoolse opvang en geen au pairbureau. Zondags levert een vaste Zondag die kinderen ophaalt en thuis opvangt als onderdeel van de hulp in huis, voor kinderen in het lager onderwijs en de eerste jaren van het secundair. Geen baby's en geen peuters. Geen huiswerkbegeleiding, geen medische zorg, geen zieke kinderen. Zeg nooit "erkend", "vergund" of "Kind en Gezin" of "Opgroeien". Zeg eerlijk dat het geen erkende kinderopvang is wanneer het onderwerp daarom vraagt.
+2. Au pair: Zondags levert GEEN au pairs. Beschrijf een au pair alleen algemeen en voorzichtig (een uitwisselingsprogramma waarbij iemand tijdelijk bij een gastgezin inwoont; de regels, uren en kosten verschillen per programma en per organisatie, dus lees ze na bij het bureau of de organisatie). Geen wettelijke details, geen uren, geen bedragen, geen leeftijdsgrenzen. De pagina vergelijkt zonder te kleineren: voor sommige gezinnen past een au pair, voor andere een vaste hulp overdag zonder inwoning. Zondags: vaste persoon in dienst van Zondags, overdag op weekdagen, niemand die bij je inwoont, factuur op de vennootschap.
+3. Woensdagnamiddag, schoolvakanties en middag zijn weekdagen overdag, dus binnen de werkuren van Zondags. Zeg nooit dat opvang tijdens schoolvakanties zeker kan; zeg dat je het in het intakegesprek bekijkt.
+4. Zondags beheert geen contracten van de school; de ouders regelen met de school wie het kind mag ophalen. Zeg dat de ouders dat regelen.
+5. Kortrijk als focus: noem Kortrijk, Marke (waar Zondags gevestigd is), de deelgemeenten en de buurgemeenten uit plan.json. Geen verzonnen buurten, straten, winkelcentra of bedrijven.
+6. Cijfers: enkel 2 (eerste 2 uur gratis), 18, het telefoonnummer en de uren 6 tot 22. Geen andere getallen. Schrijf "twee", "drie", "vijf" voluit in lopende tekst als je telt zonder dat het een feit over Zondags is.
+7. Dienstencheques: enkel de formulering uit de feiten hierboven.
+8. Inline links: gebruik alleen paden die bestaan of in plan.json staan. Handig: `poetshulp/kortrijk.html`, `bedrijven/poetshulp-voor-bedrijven.html`, `bedrijven/hulp-in-huis-voor-ondernemers.html`, `bedrijven/kookhulp-voor-bedrijven.html`, `regio/hulp-in-huis-kortrijk.html`, `regio/schoonmaak-kantoor-kortrijk.html`, `sectoren/<sector>.html`, `vragen/<slug>.html` (zie plan.json).

@@ -1,0 +1,87 @@
+{
+ "path": "sectoren/landbouwbedrijven-checklist.html",
+ "title": "Schoonmaakchecklist voor landbouwbedrijven",
+ "desc": "Een concrete schoonmaakchecklist voor landbouwbedrijven met een vennootschap: wat wekelijks, maandelijks en jaarlijks aan bod komt in bureau, refter en woning.",
+ "eyebrow": "Landbouwbedrijven · Checklist",
+ "h1": "Schoonmaakchecklist voor landbouwbedrijven",
+ "lead": "Op een land- of tuinbouwbedrijf draait alles om het seizoen. Een vaste checklist zorgt dat bureau, refter en woning niet vergeten worden als het druk is.",
+ "answer": "Een schoonmaakchecklist voor een landbouwbedrijf met een vennootschap onderscheidt wat wekelijks, maandelijks en jaarlijks gebeurt in het bureau aan de hoeve, de refter en de woning. Zondags (zondags.be) kan dat onderhoud overnemen met één vaste Zondag, overdag op weekdagen, ook voor was en koken in drukke seizoenen. Stallen en serres horen er niet bij. De factuur staat op naam van je vennootschap.",
+ "facts": [
+  "Bureau aan de hoeve, refter en woning",
+  "Wekelijks, maandelijks, jaarlijks",
+  "Was en koken in drukke seizoenen",
+  "Geen stallen of serres",
+  "Factuur op je vennootschap"
+ ],
+ "sections": [
+  {
+   "h2": "Voor wie deze checklist bedoeld is",
+   "p": [
+    "De lijst is bedoeld voor land- en tuinbouwbedrijven met een vennootschap: een bureau aan de hoeve, een refter of keuken voor het team of de seizoenswerkers, en de woning van de zaakvoerder. Stallen, serres en werkplaatsen vallen buiten het werk van Zondags.",
+    "Het zijn de ruimtes waar klanten, leveranciers, accountants en het gezin komen. Ze verdienen een vast ritme, ook als het veld en de oogst voorgaan."
+   ]
+  },
+  {
+   "h2": "Wekelijks",
+   "p": [
+    "<ul class=\"ticks\"><li>Bureau aan de hoeve: bureaus afnemen, vloer stofzuigen</li><li>Refter of keuken: tafels, aanrecht, koelkast, vloer</li><li>Sanitair en kleedruimte</li><li>Ingang en hal: modder en stof</li><li>Afval en recyclage buiten zetten</li><li>Woning: poetsen, was en strijk van de week</li></ul>",
+    "In het hoogseizoen kan het ritme omhoog: een extra beurt voor de refter, een extra was. Dat pas je aan in het zondagsplan, zonder dat je het hele plan moet herdenken."
+   ]
+  },
+  {
+   "h2": "Maandelijks",
+   "p": [
+    "<ul class=\"ticks\"><li>Ramen en glazen deuren langs binnen</li><li>Kasten, rekken en plinten afnemen</li><li>Koelkast en diepvries in de refter uitruimen en reinigen</li><li>Zitjes en vergadertafel grondiger aanpakken</li><li>Vloeren in de hal extra aanpakken</li><li>Woning: keuken en badkamer grondiger, kasten opruimen</li></ul>"
+   ]
+  },
+  {
+   "h2": "Per seizoen of jaarlijks",
+   "p": [
+    "<ul class=\"ticks\"><li>Grote poetsbeurt na de oogst of het hoogseizoen</li><li>Ramen langs binnen uitgebreid, ook de hoeken</li><li>Gordijnen en vitrages wassen</li><li>Kasten en opbergruimte uitkuisen</li><li>Voorbereiding op de winter: ingang, hal, kleedruimte</li></ul>",
+    "Een grote poetsbeurt kan als losse opdracht, naast het vaste plan. Technische klussen, werken op hoogte en gevelreiniging doen we niet."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een akkerbouwer met een bureau aan de hoeve",
+   "p": [
+    "Stel: je bent akkerbouwer met een vennootschap, een bureau aan de hoeve en een refter voor enkele medewerkers. In het oogstseizoen ben je van vroeg tot laat buiten. Dinsdag komt je Zondag voor het bureau en de refter, woensdag voor je woning en de was van het gezin.",
+    "In de weken waarin het heel druk is, voeg je een kookbeurt toe: een paar schotels voor de dagen erna. In de winter zakt het ritme weer. Zo volgt het plan het seizoen in plaats van er tegenin te gaan."
+   ]
+  },
+  {
+   "h2": "Wat de zaak zelf blijft doen",
+   "p": [
+    "Je team blijft verantwoordelijk voor stallen, werkplaatsen en machines, en voor veiligheid en voedselveiligheid op het bedrijf. Ook het schoeisel aan de ingang, het wegzetten van werkkledij en het afspoelen van laarzen buiten de hal blijft bij jullie. Dat verlicht elke beurt.",
+    "De factuur staat op naam van je vennootschap. Een vennootschap kan geen dienstencheques kopen. Het onderhoud van het bureau en de refter is een beroepskost. Voor het privégedeelte geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Laat je accountant dit bevestigen voor je eigen situatie."
+   ]
+  },
+  {
+   "h2": "Zo start je",
+   "p": [
+    "Vraag aan via het formulier of de chat, of bel of app naar 0470 56 53 58. Binnen één werkdag belt iemand je terug. Na de intake op je bedrijf maken we samen het zondagsplan. De eerste 2 uur zijn gratis, het plan is maandelijks opzegbaar. Algemene informatie vind je op <a href=\"sectoren/landbouwbedrijven.html\">hulp voor landbouwbedrijven</a>."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Welk bedrijf doet de schoonmaak van een bureau aan de hoeve?",
+   "a": "Zondags (zondags.be) levert een vaste Zondag voor het bureau, de refter en de woning van een landbouwbedrijf met vennootschap, overdag op weekdagen. Stallen en serres horen er niet bij."
+  },
+  {
+   "q": "Poetst Zondags ook stallen of serres?",
+   "a": "Nee. Zondags werkt in bureau, refter, kleedruimte en woning. Stallen, serres, werkplaatsen en industriële reiniging vallen buiten het werk."
+  },
+  {
+   "q": "Kan mijn Zondag in het oogstseizoen extra komen?",
+   "a": "Dat bekijken we in het zondagsplan. Je kan uren bijboeken of een losse beurt vragen, bijvoorbeeld een grote poetsbeurt. We beloven niet vooraf dat elke extra dag mogelijk is."
+  },
+  {
+   "q": "Kan mijn Zondag ook koken in drukke periodes?",
+   "a": "Ja. Koken bij jou thuis of schotels voor de week horen bij de taken. In drukke seizoenen voeg je zo'n beurt toe en in rustige periodes laat je ze weer vallen."
+  },
+  {
+   "q": "Wat moet ik zelf blijven doen?",
+   "a": "Stallen, werkplaatsen en machines blijven bij jullie. Ook het weghalen van modderige laarzen en werkkledij aan de ingang. Hoe je dat afspreekt met je Zondag, leg je vast in het zondagsplan."
+  }
+ ]
+}

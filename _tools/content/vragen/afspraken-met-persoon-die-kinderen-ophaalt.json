@@ -1,0 +1,79 @@
+{
+ "path": "vragen/afspraken-met-persoon-die-kinderen-ophaalt.html",
+ "title": "Afspraken met wie je kinderen van school haalt",
+ "desc": "Welke afspraken maak je met de persoon die je kinderen van school haalt? Wat je bespreekt, wat je op papier zet en wat bij jou als ouder blijft.",
+ "eyebrow": "Vraag",
+ "h1": "Welke afspraken maak je met de persoon die je kinderen van school haalt?",
+ "lead": "Een goede afspraak voorkomt discussie achteraf. Dit zijn de punten die je met je ophaalpersoon bespreekt, nog voor de eerste keer dat de kinderen mee naar huis gaan.",
+ "answer": "Je spreekt vooraf af wie de kinderen ophaalt en wanneer, wat er thuis gebeurt, welke huisregels gelden, hoe je bereikbaar bent en wat bij een probleem moet gebeuren. De ouders regelen zelf met de school wie de kinderen mag ophalen. Bij Zondags (zondags.be) bespreken we die afspraken in de intake en leggen we ze vast in het zondagsplan. Zondags is geen erkende kinderopvang, geen crèche en geen buitenschoolse opvang.",
+ "facts": [
+  "Praat vooraf, leg schriftelijk vast",
+  "Ouders regelen het met de school",
+  "Huisregels en eten bespreken",
+  "Bereikbaarheid afspreken",
+  "Plan een evaluatie na enkele weken"
+ ],
+ "sections": [
+  {
+   "h2": "Begin bij wie, wanneer en hoe lang",
+   "p": [
+    "Een duidelijke afspraak begint met drie vragen. Wie haalt de kinderen op? Op welke dagen en welk uur? En tot wanneer blijft die persoon thuis bij de kinderen? Leg dat vast in een korte lijst die beide partijen kennen. Wijzigingen laat je bij voorkeur vooraf weten, zodat niemand voor een dichte deur staat."
+   ]
+  },
+  {
+   "h2": "Wat de school moet weten",
+   "p": [
+    "De school beslist wie kinderen mag meenemen. Dat regelen de ouders zelf met de school. Een persoon die komt ophalen kan dat niet in jullie plaats doen. Vraag bij de school hoe ze dat willen, bijvoorbeeld via een formulier of een bericht, en zorg dat de naam van de ophaalpersoon op tijd bekend is. Zondags beheert geen schoolcontracten en neemt dat niet over."
+   ]
+  },
+  {
+   "h2": "Wat er thuis gebeurt",
+   "p": [
+    "Bespreek concreet wat je verwacht, zodat je Zondag of andere ophaalpersoon niet moet gokken.",
+    "<ul class=\"ticks\"><li>Een vieruurtje of een boterham, en wat de kinderen mogen drinken</li><li>Een rustig moment om bij te komen of te spelen</li><li>Huiswerk: samenzitten, geen begeleiding verwachten</li><li>Schermtijd, vrienden langs, buiten spelen</li><li>Wat ze zelf mogen en wat niet zonder volwassene</li></ul>",
+    "Het helpt om dit samen op papier te zetten en met je kinderen na te lopen. Zo hoeven kinderen niet te raden wat mag en wat niet, en voelt de ophaalpersoon zich niet de strenge. Het zijn jullie huisregels, niet haar of zijn regels."
+   ]
+  },
+  {
+   "h2": "Bereikbaarheid en onverwachte situaties",
+   "p": [
+    "Spreek af hoe je elkaar bereikt, en wie je belt als jij niet opneemt. Bespreek ook wat de ophaler doet als een kind niet op de afgesproken plek staat, als er iets mis is of als iemand zich niet goed voelt. Zondags werkt niet voor zieke kinderen en biedt geen medische zorg. Bij een ernstig probleem bel je zelf de nodige hulp.",
+    "Spreek ook af wie jij kan bellen of berichten als je in een vergadering zit, bij een klant bent of even niet bereikbaar. Een tweede contactpersoon kan nuttig zijn, maar dat beslis je zelf met je gezin en bespreken we in de intake."
+   ]
+  },
+  {
+   "h2": "Praat ook met je kinderen",
+   "p": [
+    "Kinderen voelen zich gerust als ze weten wat er gebeurt. Vertel hen wie komt, op welke dagen en wat jullie hebben afgesproken. Een korte kennismaking voor de eerste dag helpt. Laat hen ook zeggen wat ze minder fijn vinden, zodat je dat bij de eerste evaluatie kan meenemen."
+   ]
+  },
+  {
+   "h2": "Hoe Zondags dit aanpakt",
+   "p": [
+    "Een Zondag is steeds dezelfde vaste persoon, in dienst van Zondags en gescreend. In de intake bespreken we met jullie de dagen, de uren, de huisregels en wat je verwacht. Alles komt in het zondagsplan, dat je op elk moment kunt aanpassen. Meer lees je op <a href=\"gids/kinderen-ophalen-als-ondernemer.html\">kinderen ophalen als ondernemer</a> en in de <a href=\"sectoren/checklist-kinderen-van-school-laten-ophalen.html\">checklist voor het ophalen van kinderen</a>."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Wie regelt met de school wie mijn kinderen mag ophalen?",
+   "a": "Dat regel je als ouder zelf met de school. Zondags beheert geen contracten van de school. Vraag bij de school hoe ze de ophaalpersoon wil kennen."
+  },
+  {
+   "q": "Welke afspraken zet ik best op papier?",
+   "a": "Wie ophaalt, op welke dagen en uren, wat er thuis gebeurt, welke huisregels gelden, hoe je bereikbaar bent en wat bij een probleem gebeurt. Bij Zondags komt dat in het zondagsplan."
+  },
+  {
+   "q": "Moeten mijn kinderen de ophaalpersoon eerst leren kennen?",
+   "a": "Dat helpt. Een korte kennismaking voor de eerste dag maakt het voor kinderen rustiger. Bij Zondags bespreken we dat in de intake."
+  },
+  {
+   "q": "Kan een Zondag mijn kind helpen met het huiswerk?",
+   "a": "Een Zondag kan rustig bijzitten tijdens het huiswerk, maar we beloven geen huiswerkbegeleiding. Spreek vooraf af wat je verwacht."
+  },
+  {
+   "q": "Hoe vaak evalueer ik de afspraken?",
+   "a": "Na de eerste weken is een korte evaluatie een goed idee, daarna wanneer er iets verandert. Bij Zondags kan het plan altijd worden aangepast."
+  }
+ ]
+}

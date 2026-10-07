@@ -1,0 +1,35 @@
+{
+ "path": "vragen/keuken-en-frigo-op-kantoor-hygienisch.html",
+ "title": "Keuken en frigo op kantoor hygiënisch houden",
+ "desc": "Praktische afspraken voor een nette keuken en frigo op kantoor: wat het team zelf doet, wat wekelijks gepoetst wordt en wat een vaste Zondag overneemt.",
+ "eyebrow": "Vraag",
+ "h1": "Hoe hou je de keuken en frigo op kantoor hygiënisch?",
+ "lead": "De keuken is de plek waar kantoorgesprekken ontstaan en waar de kleinste slordigheid het snelst opvalt. Met een paar afspraken blijft ze fris, zonder dat je er veel tijd aan kwijt bent.",
+ "answer": "Een hygiënische kantoorkeuken berust op kleine dagelijkse gewoontes van het team en een vaste wekelijkse beurt. Zondags (zondags.be) laat een vaste Zondag keuken, koffiehoek en refter onderhouden, overdag op weekdagen. Wat er in de frigo ligt en wat weg mag, bepaal je zelf. De keuken zelf, het aanrecht, de vloer en het sanitair worden gepoetst.",
+ "facts": ["Dagelijkse gewoontes van het team", "Wekelijkse beurt door je Zondag", "Frigo leegmaken: afspraak met het team", "Aanrecht, vloer, koffiehoek", "Factuur op je vennootschap"],
+ "sections": [
+  {"h2": "Wat het team zelf dagelijks doet", "p": [
+   "Een keuken blijft pas netjes als iedereen een paar dingen doet. Dat zijn geen grote opdrachten, wel kleine gewoontes die samen het verschil maken.",
+   "<ul class=\"ticks\"><li>Je eigen kop of glas afwassen of in de vaatwasser zetten</li><li>Gemorste koffie of thee meteen wegvegen</li><li>Resten uit de frigo niet laten liggen</li><li>De prullenbak sluiten en leegmaken als hij vol is</li><li>De koffiemachine na gebruik afspoelen</li></ul>"]},
+  {"h2": "De frigo: afspraken in het team", "p": [
+   "De frigo is de lastigste plek omdat iedereen er iets in heeft en niemand zich verantwoordelijk voelt. Spreek daarom af dat er op een vast moment in de week een kleine opruim is: wat vervallen of vergeten is, gaat weg. Meestal is dat de vrijdag.",
+   "Je Zondag kan de frigo van binnen en buiten reinigen op haar vaste dag, maar ruimt niets weg dat jij of het team niet hebt aangeduid. Wat bewaard blijft, beslissen jullie."]},
+  {"h2": "Wat een vaste Zondag overneemt", "p": [
+   "Je Zondag komt op een vaste dag en uur, en onderhoudt de keuken als onderdeel van het kantoor. Dat gaat om het aanrecht, de kasten langs buiten, de koffiehoek, de vloer, de vaatwasser langs buiten en het sanitair erbij.",
+   "Het gaat om het gewone onderhoud. Een grondige beurt van keuken en frigo kan je als losse opdracht boeken als er veel achterstand is."]},
+  {"h2": "Voorbeeld: een kantoor met een refter voor een kleine ploeg", "p": [
+   "Neem een bouwbedrijf met een kantoor en een refter voor de ploeg. Elke middag eten er tien mensen, en de keuken ziet er om twee uur uit als een slagveld. Het team spreekt af dat iedereen zijn eigen bord afwast en dat de vrijdag de frigodag is. Je Zondag komt op maandag en poetst de refter, het aanrecht en het sanitair, zodat de week fris begint."]},
+  {"h2": "Zondags en de keuken van je woning", "p": [
+   "Als zaakvoerder met een eigen keuken thuis kan dezelfde Zondag ook daar helpen: poetsen, koken of schotels voor de week klaarzetten. Op de factuur op naam van je vennootschap staan het beroepsmatige en het privégedeelte apart. Een vennootschap kan geen dienstencheques kopen. Laat je accountant bevestigen hoe dit voor jou werkt."]},
+  {"h2": "Hoe je het aanvraagt", "p": [
+   "Je vraagt een gesprek aan via het formulier of de chat. Binnen één werkdag bellen we terug en volgt de intake in je kantoor. We maken samen het zondagsplan, met de keuken erin. De eerste 2 uur zijn gratis en het plan is maandelijks opzegbaar. Meer over de aanpak lees je bij <a href=\"vragen/wat-doet-poetshulp-op-kantoor.html\">wat poetshulp op kantoor doet</a>."]}
+ ],
+ "faq": [
+  {"q": "Hoe hou je de keuken op kantoor hygiënisch?", "a": "Met kleine dagelijkse gewoontes van het team, zoals afwassen en meteen opruimen, en een vaste wekelijkse beurt voor aanrecht, vloer en frigo. Een vaste Zondag kan die wekelijkse beurt overnemen."},
+  {"q": "Hoe vaak moet de frigo op kantoor opgeruimd worden?", "a": "Een wekelijkse opruim werkt voor de meeste kantoren, bijvoorbeeld op vrijdag. Wat vervallen is, gaat weg. De frigo reinigen kan je Zondag op haar vaste dag, na jullie opruim."},
+  {"q": "Ruimt mijn Zondag spullen uit de frigo weg?", "a": "Nee, niet op eigen initiatief. Wat weg mag, bepaal jij of het team. Je Zondag reinigt de frigo en laat de rest staan zoals afgesproken."},
+  {"q": "Worden de koffiemachine en de vaatwasser ook gedaan?", "a": "Koffiehoek, aanrecht en de buitenkant van toestellen worden afgenomen. Wat jij liever zelf onderhoudt, zoals het ontkalken van een machine, blijft bij jou."},
+  {"q": "Kan ik een grondige beurt als losse opdracht boeken?", "a": "Ja. Een grote poetsbeurt van keuken en frigo kan als losse opdracht zonder vast plan. Wil je later vast onderhoud, dan kan je overstappen op een zondagsplan."},
+  {"q": "Kan mijn Zondag ook mijn keuken thuis doen?", "a": "Ja. Kantoor en woning kunnen in één plan met dezelfde vaste persoon, met een gesplitste factuur voor het beroepsmatige en het privégedeelte."}
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "path": "vragen/huishoudhulp-en-hond-uitlaten.html",
+ "title": "Kan je huishoudhulp ook je hond uitlaten?",
+ "desc": "Ja, een vaste Zondag kan je hond uitlaten, naast poetsen of boodschappen. Wat je best afspreekt, en hoe het past in je zondagsplan en je factuur.",
+ "eyebrow": "Vraag",
+ "h1": "Kan je huishoudhulp ook je hond uitlaten?",
+ "lead": "Wie lange dagen maakt, laat een hond soms te lang alleen. Je vaste Zondag kan hem uitlaten, als dat past bij jullie afspraken.",
+ "answer": "Ja. Bij Zondags (zondags.be) hoort hond uitlaten bij de taken die je vaste Zondag kan doen, naast poetsen, was en strijk, koken en boodschappen. Je spreekt samen af wanneer, hoe lang en op welke manier, en dat komt in het zondagsplan. Je krijgt één dienstenfactuur op naam van je vennootschap, waarop het privégedeelte, zoals de hond, apart staat.",
+ "facts": ["Hond uitlaten hoort bij de taken", "Op vaste dag en uur", "Samen afspreken in het zondagsplan", "Overdag op weekdagen", "Factuur aan je vennootschap", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "Het korte antwoord", "p": [
+   "Een hond uitlaten is een gewone taak voor een vaste Zondag. Het past in dezelfde logica als de rest: een vaste persoon, een vaste dag en een vast uur. Je Zondag leert je hond kennen en je hond leert je Zondag kennen. Dat verloopt rustiger dan bij een wisselend gezicht.",
+   "Het is wel een privétaak. Het zit dus bij het privégedeelte van je zondagsplan, en niet bij de beroepsmatige uren voor je kantoor of praktijk."]},
+  {"h2": "Wat je best afspreekt", "p": [
+   "Een hond is geen toestel. Een paar afspraken helpen om te voorkomen dat er misverstanden ontstaan.",
+   "<ul class=\"ticks\"><li>Hoe lang de wandeling duurt en hoe vaak</li><li>Wat je hond mag en niet mag, bijvoorbeeld losloper of aan de lijn</li><li>Wat je Zondag moet weten over je hond, zoals schrikreacties of andere honden</li><li>Wat er gebeurt als de hond zich niet goed voelt</li><li>Wie het eten en de lijn klaarlegt</li></ul>",
+   "Die dingen bespreek je in het intakegesprek en leg je samen vast in het zondagsplan."]},
+  {"h2": "Combineren met poetsen en boodschappen", "p": [
+   "Veel gezinnen combineren de wandeling met een poetsbeurt of een ronde boodschappen. Je Zondag komt, laat de hond uit, poetst, doet de was en haalt boodschappen. Zo heb je in één bezoek meerdere taken van de lijst.",
+   "Een voorbeeld: je hebt een kantoor aan huis en je hond ligt de hele dag onder je bureau. Op de dag dat je Zondag komt, gaat de hond een uurtje naar buiten, en jij kan intussen vergaderen of bellen. Meer taken lees je op <a href=\"bedrijven/hulp-in-huis-voor-ondernemers.html\">hulp in huis voor ondernemers</a>."]},
+  {"h2": "Wat niet kan", "p": [
+   "Zondags werkt overdag op weekdagen: vroeg in de ochtend of over de middag. Een avondwandeling of een wandeling in het weekend kan dus niet. Ook een hond met bijzondere medische zorg of een gevaarlijk gedrag past niet in een gewone wandeling, en dan kijken we samen of er een andere oplossing is.",
+   "Zondags is geen hondenpension en geen dierenartsenpraktijk. Het gaat om het uitlaten van een gewone, goed opgevoede hond tijdens een gewone werkdag."]},
+  {"h2": "Facturatie en je vennootschap", "p": [
+   "Een vennootschap kan geen dienstencheques kopen; die zijn voorbehouden aan particulieren. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap. Het uitlaten van je hond is een privé-taak en komt in het privégedeelte.",
+   "Voor het privégedeelte geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst. De btw op het privégedeelte is in principe niet recupereerbaar. Laat je accountant dit bevestigen voor je eigen situatie."]},
+  {"h2": "Zo start je", "p": [
+   "Vraag aan via het formulier of de chat. Binnen één werkdag belt iemand je terug. We komen langs voor de intake, ontmoeten je hond en maken samen het zondagsplan op. De eerste 2 uur zijn gratis, en het plan is maandelijks opzegbaar."]}
+ ],
+ "faq": [
+  {"q": "Kan mijn huishoudhulp mijn hond uitlaten?", "a": "Ja. Je vaste Zondag kan je hond uitlaten, naast andere taken zoals poetsen, boodschappen en koken. Je spreekt samen af wanneer en hoe lang, en dat komt in het zondagsplan."},
+  {"q": "Moet mijn Zondag mijn hond eerst leren kennen?", "a": "Dat is verstandig. In het intakegesprek maak je kennis, en je vertelt wat je Zondag moet weten over je hond. Zo verloopt de eerste wandeling rustig."},
+  {"q": "Kan mijn hond ook 's avonds of in het weekend uitgelaten worden?", "a": "Nee. Zondags werkt overdag op weekdagen, vroeg in de ochtend of over de middag. 's Avonds en in het weekend werken we niet."},
+  {"q": "Staat het uitlaten van mijn hond op de factuur van mijn vennootschap?", "a": "Ja, als privégedeelte, apart van het beroepsmatige deel. Laat je accountant bevestigen hoe dat voor jouw situatie verwerkt wordt."},
+  {"q": "Doet Zondags ook hondenopvang of dierenverzorging?", "a": "Nee. Het gaat om het uitlaten van een gewone hond tijdens een werkdag. Zondags is geen hondenpension en doet geen medische zorg voor dieren."}
+ ]
+}

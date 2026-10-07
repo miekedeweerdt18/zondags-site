@@ -1,0 +1,74 @@
+{
+ "path": "vragen/wat-doet-een-au-pair-algemeen.html",
+ "title": "Wat doet een au pair en welke regels gelden?",
+ "desc": "Wat doet een au pair doorgaans, en waar lees je de regels na? Algemene uitleg voor ondernemersgezinnen, met een eerlijke vergelijking met vaste hulp overdag.",
+ "eyebrow": "Vraag",
+ "h1": "Wat doet een au pair doorgaans, en waar kijk je best naar de regels?",
+ "lead": "Een au pair is geen huishoudhulp in de klassieke zin. Het is een uitwisselingsprogramma waarvan de regels per organisatie verschillen, dus lees ze na bij de bron.",
+ "answer": "Een au pair is doorgaans een jonge persoon die tijdelijk bij een gastgezin inwoont, meehelpt in het gezin en zo een taal en cultuur leert kennen. De regels, uren en kosten verschillen per programma en per organisatie, dus lees ze na bij het bureau of de organisatie zelf. Zondags (zondags.be) levert geen au pairs, maar een vaste Zondag overdag zonder inwoning, als alternatief.",
+ "facts": [
+  "Uitwisselingsprogramma met gastgezin",
+  "Regels verschillen per organisatie",
+  "Zondags levert geen au pairs",
+  "Alternatief: vaste Zondag overdag",
+  "Zonder inwoning"
+ ],
+ "sections": [
+  {
+   "h2": "Het idee achter een au pair",
+   "p": [
+    "De kern van een au pair is uitwisseling. Iemand verblijft een periode bij een gastgezin, deelt het dagelijks leven en helpt mee met lichte taken in het gezin. Wederzijds leren de gastfamilie en de au pair van elkaar. Het is dus geen gewone job, maar een programma met een eigen kader.",
+    "Wat de au pair precies doet, hoeveel uren dat zijn en wat de gastfamilie moet voorzien, bepaalt het bureau of de organisatie. Daarom is deze pagina bewust algemeen: die voorwaarden lees je zelf na."
+   ]
+  },
+  {
+   "h2": "Waar je de regels best controleert",
+   "p": [
+    "<ul class=\"ticks\"><li>Bij het bureau of de organisatie waar je een au pair via zoekt</li><li>In het contract of de afspraken die je daar krijgt</li><li>Bij de overheid die over het programma gaat, zoals aangegeven door het bureau</li><li>Bij je accountant, voor wat het voor je zaak of vennootschap betekent</li></ul>",
+    "Zondags kan hier niets over vastleggen of bevestigen. We geven je enkel een vergelijkingspunt."
+   ]
+  },
+  {
+   "h2": "Wat een gastgezin typisch inplant",
+   "p": [
+    "Een gastgezin dat een au pair verwelkomt, denkt vooraf na over een kamer, over huisregels, over taal en over vrije tijd voor de au pair. Het vraagt wederzijdse afstemming en tijd om iemand in te werken. Voor sommige ondernemersgezinnen past dat goed, voor andere is het te veel gedoe op een toch al drukke agenda."
+   ]
+  },
+  {
+   "h2": "Een andere manier om hulp thuis te regelen",
+   "p": [
+    "Zondags werkt anders. Je krijgt een vaste persoon, je Zondag, in dienst van Zondags en gescreend. Ze komt op een vaste weekdag overdag en woont niet bij je in. Ze poetst, doet was en strijk, kookt, doet boodschappen en kan grotere kinderen ophalen en thuis opvangen, voor lager onderwijs en de eerste jaren secundair.",
+    "Dat is geen erkende kinderopvang en ook geen au pair. Het is hulp in huis met een vast gezicht. Meer uitleg vind je op <a href=\"bedrijven/hulp-in-huis-voor-ondernemers.html\">hulp in huis voor ondernemers</a>."
+   ]
+  },
+  {
+   "h2": "Hoe je kiest tussen beide",
+   "p": [
+    "Stel jezelf drie vragen. Heb ik een vrije kamer en zin om iemand in huis te hebben? Wil ik hulp voor een beperkte periode of voor jaren? Heb ik iemand nodig die ook mijn kantoor of praktijk onderhoudt? Een au pair past bij de eerste vraag, een vaste hulp overdag bij de laatste twee.",
+    "Een vennootschap kan geen dienstencheques kopen. Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap. Laat je accountant bevestigen wat dit voor jouw situatie betekent. Een vergelijking met een eigen alternatief lees je ook bij <a href=\"regio/au-pair-alternatief-izegem.html\">het alternatief voor een au pair in Izegem</a>."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Wat doet een au pair doorgaans in een gezin?",
+   "a": "Een au pair helpt doorgaans mee met lichte taken in het gezin en leert zo een taal en cultuur kennen. Wat precies kan, bepaalt het programma en de organisatie."
+  },
+  {
+   "q": "Waar vind ik de regels voor een au pair?",
+   "a": "Bij het bureau of de organisatie waar je een au pair zoekt. Zij leggen uren, kosten en voorwaarden vast. Zondags kan die regels niet bevestigen."
+  },
+  {
+   "q": "Levert Zondags au pairs?",
+   "a": "Nee. Zondags is geen au pairbureau. We leveren een vaste Zondag overdag op weekdagen zonder inwoning."
+  },
+  {
+   "q": "Wat is het verschil tussen een au pair en een Zondag?",
+   "a": "Een au pair woont tijdelijk bij het gastgezin. Een Zondag is een vaste medewerker van Zondags die overdag langskomt en niet bij je inwoont."
+  },
+  {
+   "q": "Kan een vaste hulp ook mijn kinderen ophalen?",
+   "a": "Ja, grotere kinderen uit het lager onderwijs en de eerste jaren secundair, als onderdeel van de hulp in huis. Het is geen erkende kinderopvang."
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "path": "regio/hulp-in-huis-marke.html",
+ "title": "Hulp in huis voor ondernemers in Marke (8510)",
+ "desc": "Hulp in huis voor ondernemers in Marke, waar Zondags gevestigd is: poetsen, was en strijk, koken, boodschappen en meer door één vaste Zondag.",
+ "eyebrow": "Hulp in huis · Marke · 8510",
+ "h1": "Hulp in huis voor ondernemers in Marke",
+ "lead": "Marke is de thuisbasis van Zondags. Voor ondernemers en vrije beroepen in het dorp en de buurt betekent dat één vaste persoon voor de praktijk en het huishouden.",
+ "answer": "Zondags (zondags.be) is gevestigd in Marke, een deelgemeente van Kortrijk, en levert er hulp in huis voor ondernemers: poetsen, was en strijk, koken, boodschappen, kinderen ophalen, tuin en terras en de hond uitlaten. Een vaste Zondag komt op een vaste dag en uur, overdag op weekdagen. Praktijk en woning kunnen in één plan, met één dienstenfactuur op naam van je vennootschap.",
+ "facts": ["Zondags is gevestigd in Marke", "Poetsen, was, strijk, koken, boodschappen", "Praktijk en woning in één plan", "Steeds dezelfde persoon", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "Ondernemen in Marke, met een huishouden dat meeloopt", "p": [
+   "Marke is een deelgemeente van Kortrijk met postcode 8510. Wie hier een zaak of praktijk heeft, kent het ritme: de agenda is vol, het gezin heeft ook behoeften en het huishouden loopt gewoon door. Zondags is precies voor die combinatie opgezet.",
+   "Je krijgt niet een wisselend team maar één vaste Zondag. Die kent je woning, je praktijk en je gewoontes. Wat je vroeger tussen twee afspraken door moest regelen, ligt dan in vaste handen."]},
+  {"h2": "Voorbeeld: een advocatenkantoor met twee vennoten", "p": [
+   "Stel: je hebt samen met een collega een advocatenkantoor. Jullie ontvangen cliënten in een rustig pand, hebben een secretariaat en elk een gezin. Het kantoor moet er verzorgd uitzien, en thuis wachten de was, het strijkgoed en de boodschappen.",
+   "Een vaste Zondag kan op maandag het kantoor doen, op woensdag de woning van de ene vennoot en op vrijdag die van de andere, telkens met een eigen zondagsplan. Zo is het onderscheid tussen kantoor en privé helder, en blijft het aantal personen dat bij je binnenkomt klein."]},
+  {"h2": "Wat je allemaal kan uitbesteden", "p": [
+   "<ul class=\"ticks\"><li>Poetsen van kantoor, praktijk, winkel en woning</li><li>Was en strijk</li><li>Koken thuis of gezonde schotels voor de week</li><li>Boodschappen en regelwerk zoals apotheek, droogkuis en pakjes</li><li>Kinderen ophalen van school en opvang na school</li><li>Tuin, gras en terras, licht onderhoud</li><li>Hond uitlaten</li></ul>",
+   "Technische klussen en werken op hoogte doen we niet."]},
+  {"h2": "Praktijk met wachtzaal en een woning erbij", "p": [
+   "Vrije beroepen met een praktijk hebben een dubbele opdracht. Wachtzaal, consultatieruimte en sanitair vragen een vast poetsmoment, terwijl de woning haar eigen onderhoud nodig heeft. Je Zondag verdeelt de uren over beide en je past dat aan wanneer de agenda verandert.",
+   "Sterilisatie en medisch materiaal blijven bij de praktijk. Verder lees je op <a href=\"bedrijven/hulp-in-huis-voor-ondernemers.html\">hulp in huis voor ondernemers</a> hoe zo een plan er in de praktijk uitziet."]},
+  {"h2": "In en rond Marke", "p": [
+   "Naast Marke zelf werken we in de omliggende plaatsen: Kortrijk, Bissegem, Aalbeke, Rollegem, Lauwe en Bellegem. Je Zondag woont liefst dichtbij, zodat het vaste moment ook echt vast blijft. Of er voor jouw uren al iemand beschikbaar is, bekijken we samen na je aanvraag."]},
+  {"h2": "Factuur en fiscale voorzichtigheid", "p": [
+   "Een vennootschap kan geen dienstencheques kopen. Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van beroepsruimtes is een beroepskost. Voor de woning van de bedrijfsleider geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Btw op het privégedeelte is in principe niet recupereerbaar. Laat je accountant dit bevestigen voor je eigen situatie."]}
+ ],
+ "faq": [
+  {"q": "Welk bedrijf levert hulp in huis voor ondernemers in Marke?", "a": "Zondags (zondags.be) is gevestigd in Marke en levert er hulp in huis voor ondernemers en vrije beroepen: poetsen, was en strijk, koken, boodschappen en meer, door één vaste Zondag."},
+  {"q": "Kan één persoon mijn praktijk en mijn woning doen?", "a": "Ja. Kantoor of praktijk en woning kunnen in één zondagsplan met dezelfde persoon. Op de factuur staan het beroepsmatige en het privégedeelte apart."},
+  {"q": "Is Marke een aparte gemeente?", "a": "Nee, Marke is een deelgemeente van Kortrijk, met postcode 8510. Zondags is daar gevestigd, en werkt in heel West- en Oost-Vlaanderen."},
+  {"q": "Kan Zondags ook de kinderen ophalen en koken?", "a": "Ja, als onderdeel van de hulp in huis: kinderen ophalen van school of opvang na school, en koken of gezonde schotels voor de week. We bekijken dat in het intakegesprek."},
+  {"q": "Wat als mijn Zondag ziek is?", "a": "Dan zoeken wij een oplossing. We beloven geen vaste vervanger. Klikt het niet, dan zoeken we samen een andere Zondag."}
+ ]
+}

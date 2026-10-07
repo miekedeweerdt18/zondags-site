@@ -1,0 +1,81 @@
+{
+ "path": "sectoren/interieurzaken-checklist.html",
+ "title": "Schoonmaakchecklist voor interieurzaken",
+ "desc": "Een concrete checklist voor je toonzaal of showroom met meubels, keukens of badkamers: wat wekelijks, maandelijks en jaarlijks aan de beurt komt.",
+ "eyebrow": "Checklist · Interieurzaken",
+ "h1": "Schoonmaakchecklist voor interieurzaken",
+ "lead": "In een toonzaal verkoopt de zaak zichzelf met wat de klant ziet. Deze checklist toont wat er wekelijks, maandelijks en jaarlijks moet gebeuren, en wat bij jou blijft.",
+ "answer": "Voor een interieurzaak met toonzaal poets je wekelijks vloeren, onthaal, glas langs binnen en het stof op meubels en decoratie, maandelijks de plekken die je zelden aanraakt, en jaarlijks de grotere opkuis. Zondags (zondags.be) laat een vaste Zondag dit overdag op weekdagen doen. Sanitair, keuken en onthaal horen erbij, de presentatie van de collectie blijft bij jou.",
+ "facts": [
+  "Wekelijks: vloeren, stof, glas",
+  "Maandelijks: onderaan en achteraan",
+  "Jaarlijks: grote opkuis",
+  "Presentatie blijft bij de zaak",
+  "Eerste 2 uur gratis"
+ ],
+ "sections": [
+  {
+   "h2": "Hoe je de lijst leest",
+   "p": [
+    "Een toonzaal met keukens, badkamers, meubels en decoratie heeft veel oppervlak waar stof blijft liggen. De lijst hieronder is ingedeeld per ritme, zodat je weet wat bij elk bezoek van je Zondag hoort en wat enkel af en toe aan de beurt komt. Je past ze aan je eigen zaak aan.",
+    "Heb je al een eigen lijstje, leg het dan naast deze versie. Wat ontbreekt, voeg je toe. Wat bij jou nooit gebeurt, schrap je. Het zondagsplan krijgt dan precies de taken die jouw zaak nodig heeft, niet meer en niet minder."
+   ]
+  },
+  {
+   "h2": "Wekelijks",
+   "p": [
+    "<ul class=\"ticks\"><li>Vloer stofzuigen of dweilen, met extra aandacht bij de ingang</li><li>Stof afnemen op meubels, tafels en decoratie</li><li>Glas langs binnen, vitrines en spiegels</li><li>Onthaal, balie en zitplekken</li><li>Keuken of koffiehoek voor klanten en personeel</li><li>Sanitair en afval</li></ul>",
+    "Een Zondag die elke week op dezelfde dag komt, herkent meteen wat er verandert in de toonzaal en past de volgorde aan."
+   ]
+  },
+  {
+   "h2": "Maandelijks",
+   "p": [
+    "<ul class=\"ticks\"><li>Onderkant van tafels en stoelen</li><li>Plinten en randen langs de vloer</li><li>Hoeken achter grote meubels, voor zover ze verschuifbaar zijn</li><li>Lampen en armaturen die je zonder trap bereikt</li><li>Binnenkant van kasten in de keuken of personeelsruimte</li></ul>",
+    "Werken op hoogte, zoals plafonds of hoge verlichting, doen we niet."
+   ]
+  },
+  {
+   "h2": "Jaarlijks of bij een nieuwe collectie",
+   "p": [
+    "Bij een nieuwe collectie verschuiven de meubels en komen er plekken vrij die maanden niet bereikbaar waren. Dat is het ideale moment voor een grotere poetsbeurt, als losse opdracht binnen je plan. Ook bij een verhuis of herinrichting kan dat. We bespreken in het gesprek wanneer het past, en plannen het op een weekdag overdag."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een showroom met keukens of badkamers",
+   "p": [
+    "Neem een showroom met meerdere keukens en badkamers. Elke opstelling heeft werkbladen, kranen en spiegels die klanten aanraken. Vingerafdrukken en waterkringen vallen meteen op. Je Zondag neemt de werkbladen en kranen af, maar demonteert niets en verplaatst geen toestellen.",
+    "Wat de zaak zelf blijft doen, is de presentatie: de decoratie herschikken, prijskaartjes bijwerken en nieuwe toestellen installeren. Dat is jouw vak, het poetsen ervan is dat van je Zondag."
+   ]
+  },
+  {
+   "h2": "Zaak en woning, factuur en accountant",
+   "p": [
+    "Een vennootschap kan geen dienstencheques kopen. Zondags factureert met een dienstenfactuur op naam van je vennootschap, het onderhoud van beroepsruimtes is een beroepskost. Laat je ook je woning poetsen, dan staat dat deel apart op de factuur en geldt een forfaitair voordeel van alle aard. Laat je accountant dit bevestigen voor je eigen situatie.",
+    "Wil je weten hoe starten werkt, lees dan <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>. De eerste 2 uur zijn gratis."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Wat hoort er op een schoonmaakchecklist voor een interieurzaak?",
+   "a": "Wekelijks vloeren, stof op meubels en decoratie, glas langs binnen, onthaal en sanitair. Maandelijks plinten, onderkanten en hoeken, en jaarlijks een grote opkuis bij een nieuwe collectie."
+  },
+  {
+   "q": "Verplaatst Zondags meubels of toestellen in de toonzaal?",
+   "a": "Nee. We nemen meubels, werkbladen en kranen af, maar demonteren niets en verplaatsen geen toestellen. De presentatie blijft bij de zaak."
+  },
+  {
+   "q": "Wie neemt de decoratie af?",
+   "a": "Je Zondag neemt decoratie af die je vrij kan verplaatsen en terugzetten. Breekbare of waardevolle stukken kan je liever zelf behandelen, dat spreken we vooraf af."
+  },
+  {
+   "q": "Kan er een grote poetsbeurt bij een nieuwe collectie?",
+   "a": "Ja, als losse opdracht binnen je plan. We bekijken samen het moment, overdag op een weekdag."
+  },
+  {
+   "q": "Kunnen jullie ook mijn woning doen?",
+   "a": "Ja. Zaak en woning kunnen in één zondagsplan, met beroepsmatig en privé apart op de factuur."
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "path": "vragen/wat-gebeurt-in-eerste-twee-gratis-uren.html",
+ "title": "Wat gebeurt er in de eerste twee gratis uren?",
+ "desc": "De eerste 2 uur bij Zondags zijn gratis om kennis te maken. Wat er dan gebeurt, wat je voorbereidt en hoe je daarna beslist of je verder gaat.",
+ "eyebrow": "Vraag",
+ "h1": "Wat gebeurt er in de eerste twee gratis uren?",
+ "lead": "De eerste twee uren zijn een kennismaking, geen verplichting. Je ziet hoe je Zondag werkt in jouw zaak of woning, en jij beslist daarna.",
+ "answer": "In de eerste 2 uur bij Zondags (zondags.be) maak je kennis met je Zondag en zie je hoe het werk in jouw kantoor, praktijk, winkel of woning verloopt. Die uren zijn gratis. Voor de start volgt een intake ter plaatse waarin het zondagsplan wordt opgemaakt. Daarna beslis je of je verder gaat. Het plan is maandelijks opzegbaar.",
+ "facts": [
+  "Eerste 2 uur gratis",
+  "Kennismaking met je Zondag",
+  "Intake komt vooraf",
+  "Daarna beslis je zelf",
+  "Maandelijks opzegbaar"
+ ],
+ "sections": [
+  {
+   "h2": "Waar die twee uren voor dienen",
+   "p": [
+    "Een offerte of een gesprek op papier zegt weinig over hoe iemand werkt in jouw ruimte. Daarom zijn de eerste 2 uur gratis. Je ziet je Zondag aan het werk, je merkt of de communicatie goed loopt en je weet of dit past bij je zaak.",
+    "Vergelijk het met een proefdag: niemand verwacht dat het perfect is, wel dat je een goed gevoel krijgt over de samenwerking."
+   ]
+  },
+  {
+   "h2": "Eerst de intake, dan de kennismaking",
+   "p": [
+    "Na je aanvraag via het formulier of de chat belt iemand binnen één werkdag terug. Daarna komen we langs voor de intake ter plaatse. We bekijken de ruimtes, bespreken wat er moet gebeuren en maken samen het zondagsplan. Dan start je Zondag met die eerste 2 uur."
+   ]
+  },
+  {
+   "h2": "Een voorbeeld van een eerste beurt",
+   "p": [
+    "Stel: je hebt een kleine praktijk met een wachtzaal, twee behandelkamers en sanitair. In de eerste 2 uur doet je Zondag de wachtzaal en één behandelkamer, volgens de lijst die jullie samen opmaakten. Jij kijkt na, geeft feedback en past de lijst aan.",
+    "<ul class=\"ticks\"><li>Je ziet hoe je Zondag werkt en communiceert</li><li>Je geeft meteen feedback over wat anders moet</li><li>De lijst en de volgorde worden bijgestuurd</li><li>Je beslist of je het plan laat starten</li></ul>"
+   ]
+  },
+  {
+   "h2": "Wat je voorbereidt",
+   "p": [
+    "Zorg dat de sleutel en toegang geregeld zijn. Laat weten welke ruimtes eerst moeten en welke niet. Zeg of er materiaal aanwezig is of dat je Zondag het meebrengt. Zorg dat je zelf of iemand van je team aanwezig is voor een korte overdracht.",
+    "Heb je een alarm, vertel dan vooraf hoe het werkt, zodat je Zondag niet voor een gesloten deur staat."
+   ]
+  },
+  {
+   "h2": "Na de twee uren",
+   "p": [
+    "Je beslist of je verder wil. Klikt het, dan start het vaste zondagsplan op een vaste dag en een vast uur. Klikt het niet, dan zoeken we samen een andere Zondag, of je stopt. Het plan is maandelijks opzegbaar en je kan uren bijboeken of het plan aanpassen.",
+    "Heb je vragen over wat daarna volgt, bijvoorbeeld welke dagen of hoeveel uren, dan bespreken we dat meteen in dezelfde afspraak."
+   ]
+  },
+  {
+   "h2": "Wat het niet is",
+   "p": [
+    "De eerste 2 uur zijn geen volledige grote poetsbeurt en ook geen test van de hele zaak. Het is een kennismaking. Voor een grote beurt, bijvoorbeeld bij een verhuis, kan je een losse opdracht afspreken. Voor de details van je plan kijk je in <a href=\"gids/intakegesprek.html\">het intakegesprek</a>. Een gewone dienstenfactuur op naam van je vennootschap geldt voor de uren daarna, en je accountant bevestigt hoe dat bij jou past."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Zijn de eerste twee uren echt gratis?",
+   "a": "Ja. De eerste 2 uur zijn gratis, om kennis te maken. Voor je start is er een intake waarin we het zondagsplan opmaken."
+  },
+  {
+   "q": "Moet ik daarna verdergaan?",
+   "a": "Nee. Je beslist na de kennismaking zelf of je verder gaat. Het plan is maandelijks opzegbaar, en je kan uren bijboeken of het plan aanpassen wanneer je wil."
+  },
+  {
+   "q": "Wat gebeurt er als het niet klikt?",
+   "a": "Dan zoeken we samen een andere Zondag, of je stopt. Je bent nergens aan gebonden."
+  },
+  {
+   "q": "Wie is er aanwezig tijdens die uren?",
+   "a": "Je Zondag werkt, en jij of iemand van je team is er bij het begin voor een korte overdracht en op het einde om te bekijken hoe het ging."
+  },
+  {
+   "q": "Wat moet ik voorbereiden?",
+   "a": "Sleutel en toegang, een lijst met ruimtes die eerst aan de beurt zijn en een contactpersoon. In de intake bespreken we de rest."
+  },
+  {
+   "q": "Geldt dit ook voor mijn woning?",
+   "a": "Ja, ook voor een woning die in je plan zit. De eerste 2 uur zijn gratis om kennis te maken."
+  }
+ ]
+}

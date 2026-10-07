@@ -1,0 +1,35 @@
+{
+ "path": "vragen/collega-allergisch-voor-poetsproducten.html",
+ "title": "Collega allergisch voor poetsproducten: wat doe je?",
+ "desc": "Een collega reageert op poetsproducten op kantoor. Wat kan je doen? Praktische stappen om er rekening mee te houden, en hoe je dat afspreekt met je Zondag.",
+ "eyebrow": "Vraag",
+ "h1": "Wat als een collega allergisch is voor bepaalde poetsproducten?",
+ "lead": "Een collega die hoest, niest of rode ogen krijgt na een poetsbeurt is een signaal. Je hoeft er niet lang over te discussiëren: je past de afspraken aan.",
+ "answer": "Als een collega allergisch is voor poetsproducten, laat je die persoon eerst zeggen welke producten of geuren het probleem zijn. Daarna spreek je met de poetshulp af welke producten wel en niet gebruikt worden. Bij Zondags (zondags.be) staan zulke afspraken in het zondagsplan, zodat je vaste Zondag ze elke beurt volgt. Medisch advies blijft bij de huisarts van je collega.",
+ "facts": ["Vraag eerst welk product of welke geur", "Leg het vast in het zondagsplan", "Je Zondag volgt de afspraken", "Ventileer na de beurt", "Medisch advies via de huisarts"],
+ "sections": [
+  {"h2": "Begin met het gesprek", "p": [
+   "Vraag je collega rustig waar de klacht mee te maken heeft. Gaat het om een bepaalde geur, een spuitbus of een product dat blijft hangen? Vaak is één product de oorzaak, en niet alle poetsmiddelen. Vraag ook of de klacht op een bepaald moment optreedt, bijvoorbeeld net na de beurt.",
+   "Je hoeft geen diagnose te stellen. Dat is de rol van de huisarts of de arbeidsarts. Jij zoekt vooral naar een werkbare afspraak voor iedereen."]},
+  {"h2": "Wat je kan afspreken", "p": [
+   "<ul class=\"ticks\"><li>Geen spuitbussen of sterk geurende producten op kantoor</li><li>Producten zonder parfum, als je collega daar beter op reageert</li><li>Poetsen op een moment dat de allergische collega er niet is</li><li>Na de beurt een raam of rooster openzetten</li><li>Een lijst van gebruikte producten bij de intake bewaren</li></ul>",
+   "Een afspraak is pas nuttig als ze vastligt. Zet ze in je zondagsplan, zodat ook een vervanger weet wat er niet gebruikt mag worden."]},
+  {"h2": "Hoe je Zondag dat aanpakt", "p": [
+   "Bij Zondags werkt elke zaak met een zondagsplan met de taken, de uren en de afspraken. Staat er een allergie in, dan weet je vaste Zondag dat bij elke beurt. Je Zondag is steeds dezelfde persoon, dus je hoeft het niet telkens opnieuw uit te leggen.",
+   "Gebruikt je Zondag je eigen producten, dan kan je die laten kiezen door je collega. Meer over het onderhoud van een kantoor lees je op <a href=\"gids/checklist-kantoorschoonmaak.html\">de checklist voor kantoorschoonmaak</a>."]},
+  {"h2": "Een moment kiezen dat past", "p": [
+   "Een Zondag werkt overdag op weekdagen, vroeg in de ochtend of over de middag. Dat is een voordeel: de ruimte kan na de beurt uitwaaien voor het team arriveert. Hang het poetsmoment liefst niet vlak voor een vergadering of een drukke middag."]},
+  {"h2": "Wat je niet moet doen", "p": [
+   "Probeer niet zelf te beslissen welk product veilig is. Je collega kent de eigen reactie, en de huisarts weet het best. Laat het ook niet aanslepen: een klacht die structureel terugkomt, is het waard om serieus te nemen. Zondags geeft geen medisch advies en belooft ook geen product dat voor iedereen veilig is."]},
+  {"h2": "Als je het wil regelen via Zondags", "p": [
+   "Je vraagt aan via het formulier of de chat. Binnen één werkdag belt iemand je terug en bespreken we de intake, inclusief de allergie. De eerste 2 uur zijn gratis, en je past het plan aan wanneer de situatie verandert.",
+   "Een vennootschap kan geen dienstencheques kopen. Zondags factureert met een dienstenfactuur op naam van je vennootschap. Laat je accountant bevestigen hoe dat voor jouw situatie werkt."]}
+ ],
+ "faq": [
+  {"q": "Wat als een collega allergisch is voor poetsproducten?", "a": "Vraag welk product of welke geur het probleem is, spreek met de poetshulp af welke producten niet gebruikt worden en leg dat vast. Medisch advies hoort bij de huisarts van je collega."},
+  {"q": "Kan Zondags poetsen zonder bepaalde producten?", "a": "Dat bespreken we bij de intake. Wat je collega niet verdraagt, komt in het zondagsplan. Je vaste Zondag volgt die afspraak bij elke beurt."},
+  {"q": "Kan er gepoetst worden terwijl de allergische collega er niet is?", "a": "Ja. Je Zondag werkt overdag op weekdagen, vroeg in de ochtend of over de middag. Zo kan je het moment kiezen dat past, en kan de ruimte uitwaaien."},
+  {"q": "Geeft Zondags medisch advies over allergieën?", "a": "Nee. Zondags geeft geen medisch advies. Vraag je huisarts of arbeidsarts welke producten of geuren je collega beter vermijdt."},
+  {"q": "Wat helpt tegen geurhinder na het poetsen?", "a": "Ventileren, geen spuitbussen gebruiken en producten zonder parfum kiezen. Spreek af wat werkt en leg het vast, zodat het bij elke beurt hetzelfde gaat."}
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "path": "vragen/school-op-de-hoogte-brengen-ophaalpersoon.html",
+ "title": "School op de hoogte brengen als iemand anders ophaalt",
+ "desc": "Wat regel je met de school als iemand anders je kind ophaalt? Een praktische checklist voor ouders, ook als een vaste Zondag je kinderen komt halen.",
+ "eyebrow": "Vraag",
+ "h1": "Wat regel je met de school als iemand anders je kind ophaalt?",
+ "lead": "De ouders regelen met de school wie het kind mag ophalen. Dat geldt ook als een vaste Zondag van Zondags het doet. Zo pak je het aan.",
+ "answer": "Als iemand anders je kind ophaalt, regel je als ouder zelf met de school wie dat mag doen, hoe de school dat wil weten en hoe de persoon zich meldt. Zondags (zondags.be) beheert geen contracten van de school. Je Zondag, de vaste persoon die grotere kinderen ophaalt, volgt de afspraken die jij met de school maakt.",
+ "facts": ["Ouders regelen het met de school", "Zondags beheert geen schoolcontracten", "Vooraf naam en dagen doorgeven", "Vaste Zondag volgt jouw afspraken", "Grotere kinderen, geen baby's of peuters"],
+ "sections": [
+  {"h2": "Eerst de school bellen", "p": [
+   "Elke school heeft haar eigen werkwijze. Sommige vragen een briefje, andere een mail, andere een gesprek met de leerkracht of de directie. Daarom begin je als ouder altijd met een rechtstreekse vraag: wat wil de school weten over iemand die mijn kind komt ophalen?",
+   "Zondags kan dat niet in jouw plaats regelen. De school kent jou als ouder en spreekt met jou."]},
+  {"h2": "Wat je de school doorgeeft", "p": [
+   "<ul class=\"ticks\"><li>De naam van de persoon die ophaalt</li><li>Op welke dagen en uren zij komt</li><li>Hoe ze zich meldt aan de schoolpoort of de leerkracht</li><li>Een telefoonnummer van de ouders voor als er iets onduidelijk is</li><li>Of er een tweede ophaalpersoon is voor noodgevallen</li></ul>",
+   "Vraag ook of de school een foto of een papier wil zien, en hoe lang de afspraak geldt."]},
+  {"h2": "Wat je Zondag doet", "p": [
+   "Je Zondag houdt zich aan wat de school vraagt. Ze komt op het afgesproken uur, meldt zich zoals afgesproken en gaat met het kind naar huis of naar de training. Ze werkt in dienst van Zondags en is gescreend. Bij de intake spreken we af wie haar naam doorgeeft aan wie.",
+   "Grotere kinderen uit het lager onderwijs en de eerste jaren van het secundair kunnen worden opgehaald. Baby's en peuters doen we niet."]},
+  {"h2": "Als de school nog twijfelt", "p": [
+   "Sommige scholen vragen eerst een kennismaking. Plan dan een korte ontmoeting met je Zondag aan de schoolpoort, zodat de leerkracht haar gezicht kent. Laat je kind ook weten wie komt, en dat het die dag normaal naar huis gaat. Zo voorkom je verwarring bij het kind en bij de school."]},
+  {"h2": "Wat bij een afwijking", "p": [
+   "Als je Zondag ziek is of een afspraak verschuift, laat je dat de school zo snel mogelijk weten. Bij ziekte of verlof zoeken wij een oplossing, een vaste vervanging beloven we niet. Een nieuwe persoon mag het kind pas ophalen als jij dat met de school hebt geregeld.",
+   "Meer over de aanpak lees je bij <a href=\"gids/kinderen-ophalen-als-ondernemer.html\">kinderen ophalen als ondernemer</a>."]},
+  {"h2": "Hoe Zondags het organiseert", "p": [
+   "Zondags is geen erkende kinderopvang, het is hulp in huis. Het ophalen van school zit in het zondagsplan, naast poetsen, was en strijk, koken en boodschappen. Een vennootschap kan geen dienstencheques kopen. We factureren met een gewone dienstenfactuur op naam van je vennootschap. Laat je accountant bevestigen hoe dat voor jouw situatie werkt. Meer vind je op <a href=\"bedrijven/hulp-in-huis-voor-ondernemers.html\">hulp in huis voor ondernemers</a>."]}
+ ],
+ "faq": [
+  {"q": "Wat regel je met de school als iemand anders je kind ophaalt?", "a": "Je geeft de school de naam, de dagen en de uren door en vraagt hoe zij dat willen weten. Dat regel je als ouder, niet de persoon die ophaalt."},
+  {"q": "Regelt Zondags dit met de school?", "a": "Nee. Zondags beheert geen contracten van de school. De ouders regelen het met de school en geven door wie komt."},
+  {"q": "Mag ik meerdere personen laten ophalen?", "a": "Dat bepaalt de school. Vraag wat zij aanvaarden en geef elke naam door, ook die van een tweede persoon voor noodgevallen."},
+  {"q": "Wat als mijn Zondag een keer niet kan?", "a": "Laat het de school zo snel mogelijk weten. Bij ziekte of verlof zoeken wij een oplossing. Een nieuwe persoon mag pas ophalen als jij dat geregeld hebt."},
+  {"q": "Voor welke kinderen kan dit?", "a": "Voor kinderen uit het lager onderwijs en de eerste jaren van het secundair. Geen baby's en geen peuters."}
+ ]
+}

@@ -317,8 +317,256 @@ def candidate_pages():
                 deelgemeenten=p[5], in_de_buurt=p[6], streek=p[7], persona=K_PERSONA[(ci * 3 + si * 5) % len(K_PERSONA)]))
     return out
 
+
+# ---------------- 7 OKTOBER 2026: 502 extra pagina's (Kortrijk-focus, schoonmaak, au pair, grotere kinderen) ----------------
+PL_MAP = {p[0]: p for p in PLAATSEN}
+def _ctx(c):
+    p = PL_MAP[c]
+    return dict(place=c, postcode=p[1], provincie=p[2], soort=p[3], deel_van=p[4], deelgemeenten=p[5], in_de_buurt=p[6], streek=p[7])
+
+N_SERV = {
+ "schoonmaak-kantoor": ("Schoonmaakhulp voor kantoren in {p}", "wekelijks of tweewekelijks onderhoud van kantoren: bureaus, vergaderruimte, keuken, sanitair, vloeren, afval; dezelfde vaste persoon, overdag op weekdagen"),
+ "schoonmaak-praktijk": ("Schoonmaakhulp voor praktijken in {p}", "praktijken van vrije beroepen en zorgverleners: wachtzaal, onthaal, consultatie- en behandelruimtes, sanitair; geen sterilisatie of medisch materiaal"),
+ "schoonmaak-winkel": ("Schoonmaakhulp voor winkels in {p}", "winkelvloer, paskamers, toonbank, etalage langs binnen, stockruimte, sanitair; poetsen voor de winkel opengaat"),
+ "kookhulp": ("Kookhulp aan huis voor ondernemers in {p}", "koken bij de ondernemer thuis of schotels voor de week klaarzetten, weekmenu, allergieën en voorkeuren"),
+ "boodschappendienst": ("Boodschappendienst voor ondernemers in {p}", "wekelijkse boodschappen, voorraad aanvullen, apotheek, droogkuis, pakjes, koffie en keukenvoorraad op kantoor"),
+ "hulp-in-huis": ("Hulp in huis voor ondernemers in {p}", "allround hulp: poetsen, was en strijk, koken, boodschappen, kinderen ophalen, tuin en terras, hond uitlaten"),
+ "au-pair-alternatief": ("Alternatief voor een au pair voor ondernemers in {p}", "ondernemersgezinnen die overwegen een au pair te nemen en een vaste hulp overdag zonder inwonende persoon willen vergelijken: wat een au pair typisch is (een uitwisselingsprogramma met een gastgezin, regels bij het bureau of de organisatie nakijken) en wat Zondags anders doet: een vaste Zondag in dienst van Zondags, overdag op weekdagen, niemand die bij je inwoont"),
+ "vaste-huishoudhulp-ipv-au-pair": ("Vaste huishoudhulp in plaats van een au pair in {p}", "een vaste huishoudhulp overdag voor poetsen, was en strijk, koken en boodschappen als alternatief voor een au pair: vaste dag en uur, factuur op de vennootschap, geen inwoning, geen kamer nodig, bij ziekte of verlof zoeken we een oplossing"),
+ "hulp-ondernemersgezin-schoolkinderen": ("Hulp voor ondernemersgezinnen met schoolkinderen in {p}", "gezinnen met kinderen in het lager en de eerste jaren van het secundair: kinderen ophalen van school, vieruurtje, opvang tot ouders thuis zijn, plus huishouden, was en strijk en koken; Zondags is geen erkende kinderopvang en doet geen baby's of peuters"),
+ "kinderen-ophalen-school": ("Kinderen laten ophalen van school in {p}", "een vaste Zondag staat aan de schoolpoort, brengt de kinderen naar huis of naar de training, in overleg met de school en de ouders; grotere kinderen van het lager en de eerste jaren van het secundair; geen baby's of peuters"),
+ "opvang-na-school": ("Opvang na school aan huis in {p}", "een vaste Zondag vangt de kinderen na school op bij het gezin thuis tot de ouders thuiskomen: vieruurtje, rustig huiswerkmoment, huisregels volgen; geen erkende kinderopvang, geen huiswerkbegeleiding beloven"),
+ "opvang-woensdagnamiddag": ("Opvang op woensdagnamiddag in {p}", "de woensdagnamiddag als vast moment: een vaste Zondag ontvangt de kinderen thuis na school, middageten of vieruurtje, vervoer naar activiteiten in overleg; overdag op weekdagen"),
+ "vieruurtje-en-avondeten": ("Vieruurtje en avondeten voor schoolkinderen in {p}", "vieruurtje klaarzetten en het avondeten koken of opwarmen voor de kinderen terwijl de ouders nog werken; rekening houden met allergieën en voorkeuren; combineren met ophalen van school"),
+}
+N_H1 = {k: v[0] for k, v in N_SERV.items()}
+N_SCOPE = {k: v[1] for k, v in N_SERV.items()}
+
+def _dienst_page(key, c, i, extra_angle=True):
+    ctx = _ctx(c)
+    return dict(id=f'regio/{key}-{slug(c)}', path=f'regio/{key}-{slug(c)}.html', kind='dienst-stad', group='regio',
+        h1=N_H1[key].format(p=c), dienst=key, scope=N_SCOPE[key], scenario=SCEN[(i * 5 + len(key)) % len(SCEN)],
+        angle=ANGLES[(i * 7 + len(key)) % len(ANGLES)], **ctx)
+
+# blok 1: schoonmaakhulp voor kantoren, praktijken en winkels in 40 gemeenten (120)
+N_CITIES = [p[0] for p in PLAATSEN if p[3] != 'deelgemeente'][:40]
+def block1():
+    return [_dienst_page(k, c, i) for k in ("schoonmaak-kantoor", "schoonmaak-praktijk", "schoonmaak-winkel") for i, c in enumerate(N_CITIES)]
+
+# blok 2: de 7 deelgemeenten van Kortrijk x 5 diensten (35)
+KORTRIJK_DEEL = ["Marke", "Heule", "Bissegem", "Aalbeke", "Bellegem", "Rollegem", "Kooigem"]
+def block2():
+    return [_dienst_page(k, c, i) for k in ("schoonmaak-kantoor", "schoonmaak-praktijk", "kookhulp", "boodschappendienst", "hulp-in-huis") for i, c in enumerate(KORTRIJK_DEEL)]
+
+# blok 3: ruimtes in Kortrijk en omgeving (5 ruimtes x 8 plaatsen = 40)
+RUIMTE_STAD = [
+ ("refter-en-bedrijfskeuken", "Refter en bedrijfskeuken laten poetsen in {p}", "refter, koelkast, microgolf, koffiemachine, tafels, vaatwasser, afval"),
+ ("sanitair-op-kantoor", "Sanitair op kantoor laten poetsen in {p}", "toiletten, lavabo's, spiegels, aanvullen van papier en zeep, vloeren, regelmaat"),
+ ("vergaderzalen", "Vergaderzalen laten schoonmaken in {p}", "vergadertafels, stoelen, schermen en whiteboards langs de buitenkant, glazen wanden, klaarzetten voor de volgende vergadering"),
+ ("onthaal-en-wachtruimte", "Onthaal en wachtruimte laten poetsen in {p}", "eerste indruk, balie, zitjes, tijdschriften, deurklinken, ramen langs binnen, ingangsmat"),
+ ("kleedkamers-en-douches", "Kleedkamers en douches op het werk laten poetsen in {p}", "kleedkamers, lockers langs de buitenkant, douches, vloeren, ventilatie en geurtjes"),
+]
+R_CITIES = ["Kortrijk", "Wevelgem", "Menen", "Harelbeke", "Zwevegem", "Kuurne", "Waregem", "Izegem"]
+def block3():
+    out = []
+    for ri, (key, h1, scope) in enumerate(RUIMTE_STAD):
+        for ci, c in enumerate(R_CITIES):
+            out.append(dict(id=f'sectoren/{key}-{slug(c)}', path=f'sectoren/{key}-{slug(c)}.html', kind='ruimte-stad', group='sectoren',
+                h1=h1.format(p=c), ruimte=key, scope=scope, scenario=SCEN[(ci * 3 + ri * 5) % len(SCEN)],
+                angle=ANGLES[(ci * 5 + ri * 3) % len(ANGLES)], **_ctx(c)))
+    return out
+
+# blok 4: 28 sectoren x 3 invalshoeken (84)
+def block4():
+    out = []
+    for si, (s, h1, scope) in enumerate(SECTOREN):
+        lbl = h1.split(' voor ', 1)[1]
+        variants = [
+         ('checklist', f'Schoonmaakchecklist voor {lbl}', 'een concrete checklist: wat wekelijks, wat maandelijks en wat jaarlijks aan de beurt komt in deze soort zaak, en wat de zaak zelf blijft doen'),
+         ('zaak-en-woning', f'Zaak en woning in één plan: hulp voor {lbl}', 'de zaakvoerder van dit soort bedrijf laat zaak en woning door dezelfde vaste persoon doen, met splitsing op de factuur tussen beroepsmatig en privé, en de nodige fiscale voorzichtigheid'),
+         ('regio-kortrijk', f'Poetshulp voor {lbl} in Kortrijk en omgeving', 'lokale invalshoek Kortrijk, de deelgemeenten en de buurgemeenten uit het plan van poetshulp/kortrijk: hoe het werkt, wanneer er gepoetst wordt, hoe je start'),
+        ]
+        for vi, (vk, vh1, vscope) in enumerate(variants):
+            out.append(dict(id=f'sectoren/{s}-{vk}', path=f'sectoren/{s}-{vk}.html', kind='sector-dienst', group='sectoren',
+                h1=vh1, sector=s, sector_h1=h1, sector_scope=scope, variant=vk, scope=vscope,
+                scenario=SCEN[(si * 3 + vi * 7) % len(SCEN)]))
+    return out
+
+# blok 5: au pair en vaste hulp (12 steden x 3 + 24 vragen = 60)
+B_CITIES_N = ["Kortrijk", "Roeselare", "Waregem", "Ieper", "Izegem", "Menen", "Harelbeke", "Wevelgem", "Tielt", "Oudenaarde", "Brugge", "Gent"]
+def block5():
+    out = []
+    for k in ("au-pair-alternatief", "vaste-huishoudhulp-ipv-au-pair", "hulp-ondernemersgezin-schoolkinderen"):
+        out += [_dienst_page(k, c, i) for i, c in enumerate(B_CITIES_N)]
+    return out
+AU_VRAGEN = [
+ ("au-pair-of-huishoudhulp-voor-ondernemers", "Au pair of huishoudhulp: wat past bij een ondernemersgezin?"),
+ ("hulp-in-huis-zonder-au-pair", "Kan je hulp in huis hebben zonder een au pair in huis te nemen?"),
+ ("wat-doet-een-au-pair-algemeen", "Wat doet een au pair doorgaans, en waar kijk je best naar de regels?"),
+ ("vaste-hulp-voor-druk-ondernemersgezin", "Hoe organiseer je vaste hulp in huis als beide ouders ondernemen?"),
+ ("wie-haalt-kinderen-van-school-ondernemer", "Wie haalt je kinderen van school als je zelf een zaak runt?"),
+ ("hulp-in-huis-zonder-inwonende-persoon", "Hoe regel je hulp in huis zonder dat er iemand bij je inwoont?"),
+ ("verschil-au-pair-en-vaste-huishoudhulp", "Wat is het verschil tussen een au pair en een vaste huishoudhulp?"),
+ ("hulp-in-huis-als-je-veel-onderweg-bent", "Welke hulp in huis past als je veel onderweg bent voor je zaak?"),
+ ("hulp-in-huis-tijdens-schoolvakanties", "Hoe regel je hulp in huis tijdens de schoolvakanties?"),
+ ("privacy-gezin-en-huishoudhulp", "Hoe gaat een huishoudhulp om met de privacy van je gezin?"),
+ ("vertrouwen-opbouwen-met-huishoudhulp", "Hoe bouw je vertrouwen op met iemand die bij je thuis komt?"),
+ ("sleutel-en-toegang-huishoudhulp", "Hoe regel je de sleutel en de toegang voor je huishoudhulp?"),
+ ("huishoudhulp-en-hond-uitlaten", "Kan je huishoudhulp ook je hond uitlaten?"),
+ ("weekplanning-hulp-in-huis-ondernemersgezin", "Hoe maak je een weekplanning voor hulp in huis in een ondernemersgezin?"),
+ ("hulp-in-huis-als-je-zaak-snel-groeit", "Hoeveel hulp in huis heb je nodig als je zaak snel groeit?"),
+ ("wie-kookt-thuis-als-beide-ouders-ondernemen", "Wie kookt er thuis als beide ouders een zaak runnen?"),
+ ("gezonde-schotels-voor-de-hele-week", "Kan je gezonde schotels voor de hele week laten klaarzetten?"),
+ ("hulp-bij-kinderen-ophalen-via-vennootschap", "Kan de hulp bij het ophalen van je kinderen via je vennootschap lopen?"),
+ ("taken-vaste-huishoudhulp-schoolkinderen", "Welke taken doet een vaste huishoudhulp in een gezin met schoolkinderen?"),
+ ("juiste-dagen-kiezen-voor-hulp-in-huis", "Hoe kies je de juiste dagen voor hulp in huis?"),
+ ("huishoudhulp-en-tuin-terras", "Kan je huishoudhulp ook de tuin en het terras bijhouden?"),
+ ("huis-bijhouden-tijdens-vakantie", "Kan iemand je huis bijhouden terwijl je op vakantie bent?"),
+ ("au-pair-of-opvang-na-school", "Au pair of opvang na school: wat past bij schoolgaande kinderen?"),
+ ("vaste-persoon-of-wisselende-hulp-thuis", "Waarom kies je thuis liever voor één vaste persoon dan voor wisselende hulp?"),
+]
+
+# blok 6: kinderopvang voor grotere kinderen (12 steden x 4 + 30 vragen = 78)
+def block6():
+    out = []
+    for k in ("kinderen-ophalen-school", "opvang-na-school", "opvang-woensdagnamiddag", "vieruurtje-en-avondeten"):
+        out += [_dienst_page(k, c, i) for i, c in enumerate(B_CITIES_N)]
+    return out
+KIND_VRAGEN = [
+ ("opvang-schoolgaande-kinderen-ondernemer", "Welke opvang bestaat er voor schoolgaande kinderen als je zelf ondernemer bent?"),
+ ("wat-is-opvang-na-school-aan-huis", "Wat houdt opvang na school aan huis in?"),
+ ("kan-iemand-anders-kinderen-van-school-halen", "Kan iemand anders je kinderen van school halen?"),
+ ("afspraken-met-persoon-die-kinderen-ophaalt", "Welke afspraken maak je met de persoon die je kinderen van school haalt?"),
+ ("vieruurtje-laten-klaarzetten", "Kan iemand het vieruurtje klaarzetten als de kinderen thuiskomen?"),
+ ("wie-let-op-kinderen-na-school", "Wie let op de kinderen na school terwijl jij nog werkt?"),
+ ("woensdagnamiddag-regelen-als-je-werkt", "Hoe regel je de woensdagnamiddag als je werkt?"),
+ ("hebben-grotere-kinderen-nog-opvang-nodig", "Hebben grotere kinderen nog opvang na school nodig?"),
+ ("kinderen-naar-training-laten-brengen", "Kan iemand je kinderen naar de training of academie brengen?"),
+ ("vaste-persoon-voor-je-kinderen", "Waarom is een vaste persoon voor je kinderen beter dan wisselende opvang?"),
+ ("kennismaking-kinderen-en-je-zondag", "Hoe verloopt de kennismaking tussen je kinderen en je Zondag?"),
+ ("opvangpersoon-ziek-wat-nu", "Wat als de persoon die je kinderen opvangt ziek is?"),
+ ("opvang-en-huishouden-combineren", "Kan één persoon de kinderen opvangen en het huishouden doen?"),
+ ("thuisregels-uitleggen-aan-opvangpersoon", "Hoe leg je de thuisregels uit aan de persoon die je kinderen opvangt?"),
+ ("opvang-overdag-in-schoolvakanties", "Kan je overdag opvang voor je kinderen regelen in de schoolvakanties?"),
+ ("is-zondags-een-erkende-kinderopvang", "Is Zondags een erkende kinderopvang?"),
+ ("opvang-aan-huis-of-buitenschoolse-opvang", "Wat is het verschil tussen opvang aan huis en buitenschoolse opvang?"),
+ ("allergieen-en-voorkeuren-bij-koken-voor-kinderen", "Hoe ga je om met allergieën en voorkeuren als iemand voor je kinderen kookt?"),
+ ("gezonde-maaltijd-voor-schoolkinderen-laat-thuis", "Hoe zorg je voor een gezonde maaltijd voor schoolkinderen als je laat thuiskomt?"),
+ ("schermtijd-en-snacks-afspreken-met-opvang", "Hoe spreek je regels over schermtijd en snacks af met de opvangpersoon?"),
+ ("kinderen-ophalen-via-je-vennootschap", "Kan je de hulp bij het ophalen van je kinderen via je vennootschap laten lopen?"),
+ ("opvang-meerdere-kinderen-verschillende-uren", "Hoe organiseer je opvang voor meerdere schoolkinderen met verschillende uren?"),
+ ("contact-houden-met-opvangpersoon", "Hoe houd je contact met de persoon die je kinderen opvangt?"),
+ ("hoeveel-uur-opvang-na-school-nodig", "Waarvan hangt het af hoeveel uur opvang je na school nodig hebt?"),
+ ("kinderen-ophalen-en-boodschappen-doen", "Kan de persoon die je kinderen ophaalt ook boodschappen doen?"),
+ ("kinderen-ophalen-op-twee-scholen", "Kan iemand je kinderen van twee verschillende scholen ophalen?"),
+ ("opvangpersoon-en-hond-uitlaten", "Kan de persoon die je kinderen opvangt ook de hond uitlaten?"),
+ ("school-op-de-hoogte-brengen-ophaalpersoon", "Wat regel je met de school als iemand anders je kind ophaalt?"),
+ ("opvang-en-hulp-bij-start-schooljaar", "Hoe regel je opvang en hulp bij de start van het schooljaar?"),
+ ("vragen-aan-opvangpersoon-grotere-kinderen", "Welke vragen stel je aan een opvangpersoon voor je grotere kinderen?"),
+]
+
+# blok 7: vragen over kosten, fiscaliteit, contracten en vergelijken (55)
+PRIJS_VRAGEN = [
+ ("offertes-poetsfirmas-vergelijken", "Hoe vergelijk je offertes van poetsfirma's?"),
+ ("uurprijs-of-vaste-prijs-poetsen", "Uurprijs of vaste prijs voor poetshulp: wat past bij je bedrijf?"),
+ ("verborgen-kosten-poetsfirma", "Welke verborgen kosten kunnen er zijn bij een poetsfirma?"),
+ ("minimum-uren-per-bezoek-poetshulp", "Waarom hanteren poetsfirma's een minimum aantal uren per bezoek?"),
+ ("wat-staat-in-offerte-poetshulp-kantoor", "Wat moet er in een offerte voor poetshulp op kantoor staan?"),
+ ("schoonmaakbedrijf-of-vaste-poetshulp", "Schoonmaakbedrijf of vaste poetshulp: wat is het verschil?"),
+ ("ploeg-of-een-vaste-persoon-kantoor", "Een ploeg of één vaste persoon voor je kantoor?"),
+ ("poetshulp-in-dienst-van-de-firma", "Wat betekent het voor jou als klant dat de poetshulp in dienst is van de firma?"),
+ ("wat-staat-op-dienstenfactuur-poetshulp", "Wat staat er op een dienstenfactuur voor poetshulp?"),
+ ("factuur-splitsen-beroepsmatig-en-prive", "Hoe wordt een factuur gesplitst tussen beroepsmatig en privé?"),
+ ("btw-op-poetshulp-voor-bedrijven", "Btw op poetshulp: wat moet je als bedrijf weten?"),
+ ("is-poetshulp-kantoor-bedrijfskost", "Is poetshulp voor je kantoor een bedrijfskost?"),
+ ("voordeel-alle-aard-poetshulp-woning", "Wat is een voordeel van alle aard bij poetshulp voor je woning?"),
+ ("wat-vraag-je-accountant-over-poetshulp", "Wat vraag je je accountant over poetshulp via je zaak?"),
+ ("poetshulp-registreren-in-boekhouding", "Hoe registreer je poetshulp in je boekhouding?"),
+ ("waarom-geen-dienstencheques-voor-vennootschap", "Waarom kan een vennootschap geen dienstencheques gebruiken?"),
+ ("alternatief-dienstencheques-voor-bedrijven", "Wat is het alternatief voor dienstencheques voor een bedrijf?"),
+ ("eigen-woning-laten-poetsen-via-de-zaak", "Mag een bedrijfsleider zijn eigen woning laten poetsen via de zaak?"),
+ ("wat-staat-in-contract-poetshulp", "Wat staat er in een contract voor poetshulp?"),
+ ("opzegtermijn-poetshulp-bedrijven", "Hoe werkt de opzegtermijn bij poetshulp voor bedrijven?"),
+ ("kennismaking-voor-je-vastlegt", "Kan je poetshulp uitproberen voor je je vastlegt?"),
+ ("wat-gebeurt-in-eerste-twee-gratis-uren", "Wat gebeurt er in de eerste twee gratis uren?"),
+ ("intake-poetshulp-wat-bespreek-je", "Wat bespreek je bij de intake voor poetshulp?"),
+ ("wat-is-een-zondagsplan", "Wat is een zondagsplan?"),
+ ("uren-bijboeken-of-afbouwen-poetshulp", "Kan je uren bijboeken of afbouwen bij poetshulp?"),
+ ("wanneer-losse-grote-poetsbeurt-boeken", "Wanneer boek je een losse grote poetsbeurt?"),
+ ("poetshulp-als-kantoor-gesloten-is", "Wat doe je met poetshulp als je kantoor gesloten is?"),
+ ("poetshulp-rond-feestdagen-en-brugdagen", "Hoe werkt poetshulp rond feestdagen en brugdagen?"),
+ ("poetsproducten-afspreken-met-poetshulp", "Hoe spreek je af welke poetsproducten gebruikt worden?"),
+ ("collega-allergisch-voor-poetsproducten", "Wat als een collega allergisch is voor bepaalde poetsproducten?"),
+ ("sleutel-en-alarm-poetshulp-kantoor", "Hoe regel je sleutel en alarm voor de poetshulp van je kantoor?"),
+ ("poetshulp-alleen-op-kantoor", "Wat als je poetshulp alleen op kantoor is?"),
+ ("discretie-poetshulp-in-praktijk", "Hoe regel je discretie bij poetshulp in een praktijk?"),
+ ("patientendossiers-en-poetshulp", "Wat met patiëntendossiers als er een poetshulp in de praktijk komt?"),
+ ("poetshulp-tijdens-openingsuren", "Kan poetshulp tijdens de openingsuren van je zaak?"),
+ ("waarom-poetsen-voor-de-opening", "Waarom poetsen veel zaken liefst voor de opening?"),
+ ("hoe-vaak-sanitair-kantoor-poetsen", "Hoe vaak moet het sanitair op kantoor gepoetst worden?"),
+ ("keuken-en-frigo-op-kantoor-hygienisch", "Hoe hou je de keuken en frigo op kantoor hygiënisch?"),
+ ("vloeren-op-kantoor-onderhouden", "Hoe onderhoud je verschillende vloeren op kantoor?"),
+ ("ramen-van-je-kantoor", "Wat doe je met de ramen van je kantoor?"),
+ ("afvalsortering-op-kantoor", "Hoe organiseer je afvalsortering op kantoor?"),
+ ("kantoor-ordelijk-tussen-twee-poetsbeurten", "Hoe hou je een klein kantoor ordelijk tussen twee poetsbeurten?"),
+ ("afspraken-met-team-opgeruimd-kantoor", "Hoe maak je afspraken met je team over een opgeruimd kantoor?"),
+ ("poetshulp-voor-starter-eerste-kantoor", "Welke poetshulp past bij een starter met een eerste kantoor?"),
+ ("poetshulp-bij-groeiend-team", "Hoe groeit de poetshulp mee met een groeiend team?"),
+ ("poetshulp-thuiskantoor-beroepsmatig-prive", "Poetshulp voor een thuiskantoor: wat is beroepsmatig en wat privé?"),
+ ("poetshulp-gedeeld-kantoorgebouw", "Poetshulp in een gedeeld kantoorgebouw: wie regelt wat?"),
+ ("wat-doet-poetshulp-in-winkel-voor-opening", "Wat doet poetshulp in een winkel voor de opening?"),
+ ("etalage-langs-binnen-laten-doen", "Kan poetshulp ook de etalage langs binnen doen?"),
+ ("welke-ruimtes-door-vaste-persoon-laten-onderhouden", "Welke ruimtes laat je het best door een vaste persoon onderhouden?"),
+ ("niet-tevreden-over-de-schoonmaak", "Wat doe je als je niet tevreden bent over de schoonmaak?"),
+ ("poetshulp-evalueren-na-eerste-maanden", "Hoe evalueer je je poetshulp na de eerste maanden?"),
+ ("jaarplanning-onderhoud-kantoor", "Hoe maak je een jaarplanning voor het onderhoud van je kantoor?"),
+ ("onnodige-kosten-schoonmaak-vermijden", "Hoe vermijd je dat schoonmaak op kantoor onnodig veel kost?"),
+ ("poetshulp-voor-kantoor-in-kortrijk-wat-te-weten", "Poetshulp voor je kantoor in Kortrijk: wat moet je vooraf weten?"),
+]
+def block_vragen():
+    return [dict(id=f'vragen/{s}', path=f'vragen/{s}.html', kind='vraag', group='vragen', h1=q) for s, q in AU_VRAGEN + KIND_VRAGEN + PRIJS_VRAGEN]
+
+# blok 8: checklists en gidsen (30)
+GIDSEN = [
+ ("checklist-wekelijkse-kantoorpoets", "Checklist voor de wekelijkse poetsbeurt van je kantoor", "wat bij een wekelijkse poetsbeurt op kantoor aan de beurt komt, per ruimte"),
+ ("checklist-wekelijkse-praktijkpoets", "Checklist voor de wekelijkse poetsbeurt van je praktijk", "wachtzaal, onthaal, consultatie- en behandelruimtes, sanitair; wat bij de praktijk blijft (instrumenten, medisch materiaal)"),
+ ("checklist-winkel-poetsen-voor-opening", "Checklist: je winkel poetsen voor de opening", "vloer, paskamers, toonbank, etalage langs binnen, stock, sanitair, in welke volgorde en hoe lang vooraf"),
+ ("checklist-eerste-dag-nieuwe-poetshulp", "Checklist voor de eerste dag van je nieuwe poetshulp", "toegang, sleutel en alarm, rondleiding, wat staat waar, wat niet aangeraakt mag worden, contactpersoon"),
+ ("gids-poetshulp-kiezen-voor-je-bedrijf", "Gids: zo kies je poetshulp voor je bedrijf", "criteria om poetshulp te vergelijken: vaste persoon, in dienst, factuur, flexibiliteit, planning, communicatie"),
+ ("gids-zondagsplan-opstellen", "Gids: zo stel je een zondagsplan op", "van taken en frequentie tot dag en uur: een plan op één pagina met afspraken tussen jou en je Zondag"),
+ ("checklist-intakegesprek-poetshulp", "Checklist voor het intakegesprek met je poetshulp", "wat je voorbereidt en doorneemt bij de intake ter plaatse"),
+ ("gids-kantoor-en-woning-in-een-plan", "Gids: kantoor en woning in één plan", "hoe je beroepsmatig en privé in één plan zet, de factuursplitsing en wat je accountant moet bevestigen"),
+ ("checklist-vergaderzaal-klaarzetten", "Checklist: een vergaderzaal klaarzetten voor de volgende vergadering", "tafel, stoelen, schermen, glazen wand, water en koffie, afval, geur en verluchting"),
+ ("checklist-sanitair-op-kantoor-wekelijks", "Checklist voor het sanitair op kantoor", "toiletten, lavabo's, spiegels, aanvullen, vloeren, afval"),
+ ("checklist-refter-en-keuken-op-kantoor", "Checklist voor de refter en keuken op kantoor", "frigo, koffiemachine, microgolf, tafels, vaatwasser, afval en geur"),
+ ("checklist-frisse-wachtzaal", "Checklist voor een frisse wachtzaal", "zitjes, tafeltjes, tijdschriften, speelhoek, vloer, ramen langs binnen, geur, ingangsmat"),
+ ("gids-eerste-grote-poetsbeurt-nieuw-kantoor", "Gids: een eerste grote poetsbeurt voor een nieuw kantoor", "plannen, voorbereiden en uitvoeren van de eerste beurt voor je intrekt, daarna overgaan op een vast ritme"),
+ ("checklist-grote-poetsbeurt-praktijk", "Checklist voor de grote poetsbeurt van je praktijk", "kasten, plinten, behandelruimtes, wachtzaal, archief stofvrij, als losse opdracht"),
+ ("gids-hulp-in-huis-voor-ondernemers-in-vijf-stappen", "Gids: hulp in huis voor ondernemers in vijf stappen", "van behoefte bepalen tot de eerste vaste dag: aanvraag, telefoon, intake, plan, start"),
+ ("checklist-weekmenu-en-boodschappenlijst", "Checklist: weekmenu en boodschappenlijst voor drukke ondernemers", "weekmenu opstellen, voorraad nakijken, boodschappenlijst doorgeven, allergieën en voorkeuren"),
+ ("gids-gezonde-schotels-voor-de-week", "Gids: gezonde schotels voor de week laten klaarzetten", "hoe een Zondag schotels voor meerdere dagen kookt, bewaart en etiketteert, afspraken over smaak en allergieën"),
+ ("checklist-kinderen-van-school-laten-ophalen", "Checklist: iemand anders je kinderen van school laten ophalen", "afspraken met school, kinderen en ophaalpersoon, wat je doorgeeft, hoe je op de hoogte blijft"),
+ ("gids-opvang-na-school-thuis-organiseren", "Gids: opvang na school bij jou thuis organiseren", "dagritme, vieruurtje, regels, communicatie, wat Zondags wel en niet doet"),
+ ("checklist-start-schooljaar-ondernemersgezin", "Checklist voor de start van het schooljaar in een ondernemersgezin", "weekritme, ophaalmomenten, vaste dagen voor hulp in huis, planning van de eerste weken"),
+ ("gids-alternatieven-voor-een-au-pair", "Gids: alternatieven voor een au pair", "wat een au pair is, welke alternatieven er zijn voor een ondernemersgezin en waar ze verschillen; Zondags als vaste hulp overdag zonder inwoning"),
+ ("gids-vaste-hulp-vinden-in-kortrijk", "Gids: vaste hulp vinden in Kortrijk en omgeving", "waar je op let bij hulp in huis in Kortrijk, de deelgemeenten en de buurgemeenten, en hoe Zondags start"),
+ ("checklist-kantoor-voor-het-bouwverlof", "Checklist: je kantoor klaarmaken voor het bouwverlof", "afsluiten, opruimen, frigo leegmaken, afval, grondige poetsbeurt, planten, herstart"),
+ ("checklist-praktijk-proper-het-nieuwe-jaar-in", "Checklist: je praktijk proper het nieuwe jaar in", "jaarafsluiting van de praktijk: archief, kasten, grondige poetsbeurt, frisse start"),
+ ("gids-administratie-poetshulp-via-vennootschap", "Gids: de administratie van poetshulp via je vennootschap", "offerte, contract, dienstenfactuur, betalingen en wat je bewaart voor je accountant"),
+ ("gids-vragen-voor-je-accountant-over-hulp-in-huis", "Gids: vragen voor je accountant over hulp in huis via je zaak", "een lijst vragen om met je accountant door te nemen, zonder zelf adviseren"),
+ ("checklist-kantoor-ordelijk-tussen-twee-beurten", "Checklist: je kantoor ordelijk houden tussen twee poetsbeurten", "kleine gewoontes van het team die de poetsbeurt makkelijker maken"),
+ ("gids-poetshulp-voor-een-klein-team", "Gids: poetshulp voor een klein team", "hoe je poetshulp inricht voor een klein team: frequentie, momenten, verdeling van taken tussen team en Zondag"),
+ ("checklist-huis-laten-bijhouden-tijdens-vakantie", "Checklist: je huis laten bijhouden tijdens je vakantie", "post, planten, ramen openen, vuilnis, lichten, huisdieren; wat je Zondag wel en niet doet"),
+ ("gids-hulp-voor-ondernemers-in-kortrijk-per-dienst", "Gids: hulp voor ondernemers in Kortrijk, per dienst", "overzicht van schoonmaak, kookhulp, boodschappen, hulp in huis, kinderen ophalen en opvang na school in Kortrijk en de deelgemeenten"),
+]
+def block8():
+    return [dict(id=f'sectoren/{s}', path=f'sectoren/{s}.html', kind='gids', group='sectoren', h1=h1, scope=scope) for s, h1, scope in GIDSEN]
+
+def block_nieuw():
+    return block1() + block2() + block3() + block4() + block5() + block6() + block_vragen() + block8()
+
 def plan():
-    pages = city_pages() + region_pages() + service_city_pages() + sector_pages() + question_pages() + candidate_pages()
+    pages = city_pages() + region_pages() + service_city_pages() + sector_pages() + question_pages() + candidate_pages() + block_nieuw()
     return pages
 
 if __name__ == '__main__':

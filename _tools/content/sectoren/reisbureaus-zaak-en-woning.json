@@ -1,0 +1,85 @@
+{
+ "path": "sectoren/reisbureaus-zaak-en-woning.html",
+ "title": "Zaak en woning in één plan voor reisbureaus",
+ "desc": "Reisbureau en woning door dezelfde vaste Zondag, met een factuur die beroepsmatig en privé splitst en je accountant als controle.",
+ "eyebrow": "Reisbureaus · Zaak en woning",
+ "h1": "Zaak en woning in één plan: hulp voor reisbureaus",
+ "lead": "Een reisbureau heeft een winkelruimte en een zaakvoerder die er vaak ook woont, vlakbij. Met één vaste persoon voor beide houd je alles overzichtelijk.",
+ "answer": "Zondags (zondags.be) laat de zaakvoerder van een reisbureau zaak en woning door dezelfde vaste Zondag doen. De Zondag poetst de winkel, de klantentafels en de vitrines overdag op weekdagen, en op een andere dag de woning. Op de dienstenfactuur op naam van de vennootschap staan beroepsmatig en privé apart. Laat je accountant bevestigen hoe dat voor jou geldt.",
+ "facts": [
+  "Winkelkantoor en woning in één plan",
+  "Dezelfde vaste Zondag",
+  "Factuur splitst beroepsmatig en privé",
+  "Overdag op weekdagen",
+  "Accountant bevestigt je situatie"
+ ],
+ "sections": [
+  {
+   "h2": "Waarom één persoon voor beide",
+   "p": [
+    "Een reisbureau is een zaak waar de eerste indruk telt: klantentafels, folders en een nette vitrine. Heb je ook een woning vlakbij, dan loopt het werk daar door. Twee verschillende hulpen betekent twee afspraken, twee sleutels en twee facturen. Met één Zondag houd je één afspraak.",
+    "Een vaste Zondag weet bovendien hoe jij je zaak graag hebt: waar de reisbrochures staan, welke tafel altijd vrij moet zijn en hoe de vitrine er het liefst uitziet."
+   ]
+  },
+  {
+   "h2": "Wat in de zaak aan bod komt",
+   "p": [
+    "<ul class=\"ticks\"><li>Onthaal en klantentafels afnemen</li><li>Folders ordenen en vitrines stofvrij houden</li><li>Keuken en sanitair</li><li>Vloeren</li><li>Ramen langs binnen</li><li>Afval en papier</li></ul>",
+    "Zeg in de intake wat je liever zelf houdt, zoals de balie tijdens de dag of de computers, dan weet je Zondag wat van haar is."
+   ]
+  },
+  {
+   "h2": "En wat thuis",
+   "p": [
+    "Thuis kan je Zondag poetsen, was en strijk doen, koken of schotels voor de week bereiden en boodschappen meebrengen. Wat precies op je lijst komt, bepaal je zelf in het zondagsplan."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een bouwbedrijf als buur",
+   "p": [
+    "Neem een reisbureau dat zijn zaak naast een bouwbedrijf met een kantoor en een refter heeft. Het reisbureau en het bouwbedrijf delen geen Zondag, maar de zaakvoerder van het reisbureau heeft er wel één. Op maandag is de Zondag in de winkel, op woensdag thuis.",
+    "Dat is wat 'zaak en woning in één plan' betekent: twee plekken, één persoon, één factuur met twee delen."
+   ]
+  },
+  {
+   "h2": "De factuur op twee sporen",
+   "p": [
+    "Een vennootschap kan geen dienstencheques kopen, enkel particulieren. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van beroepsruimtes is een beroepskost. Voor het privégedeelte, de woning, geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren.",
+    "Btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte in principe niet. Laat je accountant dit bevestigen voor je eigen situatie. Lees ook <a href=\"gids/dienstenfactuur-woning-en-kantoor.html\">dienstenfactuur voor woning en kantoor</a>.",
+    "Dat is geen vrijblijvend advies: elke zaak en elke gezinssituatie is anders, en wat voor een buur klopt, hoeft niet voor jou te kloppen."
+   ]
+  },
+  {
+   "h2": "Hoe je start",
+   "p": [
+    "Vraag aan via het formulier of de chat. Binnen één werkdag bellen we terug. Bij de intake bekijken we de winkel en de woning en maken we het zondagsplan. De eerste 2 uur zijn gratis en je kan maandelijks opzeggen."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Kan één Zondag mijn reisbureau en mijn woning doen?",
+   "a": "Ja. Zaak en woning kunnen in één zondagsplan met dezelfde vaste persoon, op verschillende dagen of op één dag."
+  },
+  {
+   "q": "Hoe wordt de factuur gesplitst?",
+   "a": "Op de dienstenfactuur staan het beroepsmatige en het privégedeelte apart, zodat je accountant het correct kan verwerken."
+  },
+  {
+   "q": "Is de poetshulp voor mijn woning aftrekbaar?",
+   "a": "Voor het privégedeelte geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Laat je accountant bevestigen wat dat voor jou betekent."
+  },
+  {
+   "q": "Kan ik dienstencheques gebruiken via mijn vennootschap?",
+   "a": "Nee. Een vennootschap kan geen dienstencheques kopen, enkel particulieren. Zondags werkt met een gewone dienstenfactuur."
+  },
+  {
+   "q": "Welke dagen kan de Zondag komen?",
+   "a": "Overdag op weekdagen, vroeg in de ochtend of over de middag. Nooit 's avonds en niet in het weekend."
+  },
+  {
+   "q": "Wat als ik mijn plan wil aanpassen?",
+   "a": "Je kan uren bijboeken of het plan aanpassen wanneer je zaak of je gezin verandert. Het plan is maandelijks opzegbaar, dus je zit nergens aan vast."
+  }
+ ]
+}

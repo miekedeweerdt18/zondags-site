@@ -1,0 +1,36 @@
+{
+ "path": "vragen/uren-bijboeken-of-afbouwen-poetshulp.html",
+ "title": "Kan je uren bijboeken of afbouwen bij poetshulp?",
+ "desc": "Je zaak verandert en je poetshulp moet mee. Zo werkt het bijboeken of afbouwen van uren bij Zondags, met een plan dat maandelijks opzegbaar blijft.",
+ "eyebrow": "Vraag",
+ "h1": "Kan je uren bijboeken of afbouwen bij poetshulp?",
+ "lead": "Een zaak staat niet stil. Een extra collega, een drukke periode of net een rustiger seizoen: het zondagsplan mag meebewegen.",
+ "answer": "Ja. Bij Zondags (zondags.be) kan je uren bijboeken of afbouwen en het zondagsplan aanpassen wanneer je zaak verandert. Het plan is maandelijks opzegbaar, losse opdrachten zijn ook mogelijk. Je bespreekt de wijziging met ons, we kijken samen naar de dagen en uren van je Zondag en leggen het nieuwe plan vast. Je Zondag blijft dezelfde persoon.",
+ "facts": ["Uren bijboeken kan", "Uren afbouwen kan", "Maandelijks opzegbaar", "Losse opdrachten mogelijk", "Dezelfde vaste Zondag"],
+ "sections": [
+  {"h2": "Een plan dat meebeweegt", "p": [
+   "Een zondagsplan is geen vast pakket. Het is een afspraak over dagen, uren en taken, op maat gemaakt na een kort gesprek. Verandert je situatie, dan verandert het plan mee.",
+   "Dat geldt in beide richtingen. Heb je meer ruimte nodig, dan boek je er uren bij. Wordt de zaak rustiger of verhuist een deel van het team, dan bouw je af."]},
+  {"h2": "Wanneer bijboeken zinvol is", "p": [
+   "<ul class=\"ticks\"><li>Je team groeit en de keuken en het sanitair worden drukker gebruikt</li><li>Je opent een extra ruimte of een tweede vestiging</li><li>Je wilt ook de woning, de was en strijk of het koken erbij</li><li>Er komt een drukke periode, zoals een aangifteseizoen of een verhuis</li></ul>",
+   "Ook een losse opdracht, zoals een grote poetsbeurt, kan een goede manier zijn om tijdelijk meer te laten doen zonder je vaste plan te veranderen."]},
+  {"h2": "Wanneer afbouwen logisch is", "p": [
+   "Soms is minder voldoende. Het team werkt meer thuis, je sluit een deel van het kantoor, de zaak is in een rustige periode of het weekritme verandert. Je kan dan van wekelijks naar tweewekelijks gaan, of een dag laten vallen.",
+   "Je hoeft daar niet bang voor te zijn. Het plan is maandelijks opzegbaar en je Zondag blijft beschikbaar voor wat overblijft."]},
+  {"h2": "Voorbeeld: een advocatenkantoor met twee vennoten", "p": [
+   "Stel: een advocatenkantoor met twee vennoten laat elke maandagochtend poetsen. Wanneer een derde advocaat start, komt er een extra beurt op donderdag bij. In augustus, als het kantoor rustig is, valt die extra beurt weer weg. Het plan wordt telkens aangepast, de Zondag blijft dezelfde.",
+   "Zo blijft de kost in verhouding met wat het kantoor echt nodig heeft, zonder dat je telkens een nieuw contract moet bespreken."]},
+  {"h2": "Hoe je een wijziging doorgeeft", "p": [
+   "Geef je wens door via de chat, WhatsApp of telefoon op 0470 56 53 58, elke dag van 6 tot 22 uur bereikbaar. We kijken samen naar de dagen en uren die je Zondag beschikbaar heeft en bevestigen het nieuwe plan. Het gebeurt overdag op weekdagen, op een vast uur. Hoe snel een extra beurt kan, hangt af van de agenda van je Zondag. Dat zeggen we je eerlijk."]},
+  {"h2": "Factuur en je accountant", "p": [
+   "Een vennootschap kan geen dienstencheques kopen. Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap, volgens het plan zoals het op dat moment geldt. Het onderhoud van beroepsruimtes is een beroepskost. Is je woning ook in het plan, dan staat het privégedeelte apart op de factuur. Laat je accountant bevestigen hoe dat voor jou werkt. Meer over het plan lees je bij <a href=\"vragen/vaste-poetshulp-of-losse-opdracht.html\">vaste poetshulp of losse opdracht</a>."]}
+ ],
+ "faq": [
+  {"q": "Kan ik uren bijboeken bij mijn poetshulp?", "a": "Ja. Bij Zondags kan je uren bijboeken of het zondagsplan aanpassen. Je geeft het door, we kijken samen naar de agenda van je Zondag en leggen het nieuwe plan vast."},
+  {"q": "Kan ik uren afbouwen?", "a": "Ja. Je kan van wekelijks naar tweewekelijks gaan of een dag laten vallen. Het plan is maandelijks opzegbaar, dus je zit nergens aan vast."},
+  {"q": "Hoe snel kan een extra beurt?", "a": "Dat hangt af van de agenda van je Zondag. We bekijken het samen en zeggen je eerlijk wat kan. Een extra beurt valt altijd overdag op een weekdag."},
+  {"q": "Kan ik een losse opdracht boeken naast mijn vaste plan?", "a": "Ja. Losse opdrachten, zoals een grote poetsbeurt of een verhuis, kunnen naast je vaste plan. Zo doe je tijdelijk meer zonder het ritme van je plan te wijzigen."},
+  {"q": "Blijf ik dezelfde Zondag houden?", "a": "Ja, zolang het klikt. Bijboeken of afbouwen verandert niets aan je vaste persoon. Klikt het niet, dan zoeken we samen een andere Zondag."},
+  {"q": "Hoe geef ik een wijziging door?", "a": "Via de chat op de site, WhatsApp of telefoon op 0470 56 53 58. We zijn bereikbaar elke dag van 6 tot 22 uur en bevestigen het nieuwe plan met jou."}
+ ]
+}

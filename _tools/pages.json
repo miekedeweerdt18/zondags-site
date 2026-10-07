@@ -674,7 +674,7 @@
 {
 "path": "regio/huishoudhulp-marke.html",
 "title": "Huishoudelijke hulp voor ondernemers in Marke",
-"words": 786,
+"words": 800,
 "group": "regio"
 },
 {
@@ -686,7 +686,7 @@
 {
 "path": "regio/huishoudhulp-heule.html",
 "title": "Huishoudelijke hulp voor ondernemers in Heule",
-"words": 799,
+"words": 813,
 "group": "regio"
 },
 {
@@ -698,7 +698,7 @@
 {
 "path": "regio/huishoudhulp-bissegem.html",
 "title": "Huishoudelijke hulp voor ondernemers in Bissegem",
-"words": 799,
+"words": 813,
 "group": "regio"
 },
 {
@@ -710,7 +710,7 @@
 {
 "path": "regio/huishoudhulp-aalbeke.html",
 "title": "Huishoudelijke hulp voor ondernemers in Aalbeke",
-"words": 799,
+"words": 813,
 "group": "regio"
 },
 {
@@ -722,7 +722,7 @@
 {
 "path": "regio/huishoudhulp-bellegem.html",
 "title": "Huishoudelijke hulp voor ondernemers in Bellegem",
-"words": 799,
+"words": 813,
 "group": "regio"
 },
 {
@@ -734,7 +734,7 @@
 {
 "path": "regio/huishoudhulp-rollegem.html",
 "title": "Huishoudelijke hulp voor ondernemers in Rollegem",
-"words": 799,
+"words": 813,
 "group": "regio"
 },
 {
@@ -1190,7 +1190,7 @@
 {
 "path": "regio/huishoudhulp-kooigem.html",
 "title": "Huishoudelijke hulp voor ondernemers in Kooigem",
-"words": 786,
+"words": 800,
 "group": "regio"
 },
 {
@@ -1274,319 +1274,319 @@
 {
 "path": "poetshulp/kortrijk.html",
 "title": "Poetshulp voor bedrijven in Kortrijk",
-"words": 940,
+"words": 944,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/marke.html",
 "title": "Poetshulp voor bedrijven in Marke",
-"words": 1030,
+"words": 1033,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/heule.html",
 "title": "Poetshulp voor bedrijven in Heule",
-"words": 986,
+"words": 989,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/bissegem.html",
 "title": "Poetshulp voor bedrijven in Bissegem",
-"words": 939,
+"words": 942,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/aalbeke.html",
 "title": "Poetshulp voor bedrijven in Aalbeke",
-"words": 965,
+"words": 968,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/bellegem.html",
 "title": "Poetshulp voor bedrijven in Bellegem",
-"words": 974,
+"words": 977,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/rollegem.html",
 "title": "Poetshulp voor bedrijven in Rollegem",
-"words": 1031,
+"words": 1034,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/kooigem.html",
 "title": "Poetshulp voor bedrijven in Kooigem",
-"words": 1019,
+"words": 1022,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/wevelgem.html",
 "title": "Poetshulp voor bedrijven in Wevelgem",
-"words": 902,
+"words": 906,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/gullegem.html",
 "title": "Poetshulp voor bedrijven in Gullegem",
-"words": 946,
+"words": 938,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/moorsele.html",
 "title": "Poetshulp voor bedrijven in Moorsele",
-"words": 950,
+"words": 942,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/menen.html",
 "title": "Poetshulp voor bedrijven in Menen",
-"words": 943,
+"words": 947,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/lauwe.html",
 "title": "Poetshulp voor bedrijven in Lauwe",
-"words": 906,
+"words": 898,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/rekkem.html",
 "title": "Poetshulp voor bedrijven in Rekkem",
-"words": 916,
+"words": 908,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/wervik.html",
 "title": "Poetshulp voor bedrijven in Wervik",
-"words": 906,
+"words": 910,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/geluwe.html",
 "title": "Poetshulp voor bedrijven in Geluwe",
-"words": 908,
+"words": 904,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/harelbeke.html",
 "title": "Poetshulp voor bedrijven in Harelbeke",
-"words": 907,
+"words": 911,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/kuurne.html",
 "title": "Poetshulp voor bedrijven in Kuurne",
-"words": 969,
+"words": 973,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/zwevegem.html",
 "title": "Poetshulp voor bedrijven in Zwevegem",
-"words": 888,
+"words": 892,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/deerlijk.html",
 "title": "Poetshulp voor bedrijven in Deerlijk",
-"words": 857,
+"words": 861,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/waregem.html",
 "title": "Poetshulp voor bedrijven in Waregem",
-"words": 957,
+"words": 961,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/anzegem.html",
 "title": "Poetshulp voor bedrijven in Anzegem",
-"words": 960,
+"words": 964,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/avelgem.html",
 "title": "Poetshulp voor bedrijven in Avelgem",
-"words": 970,
+"words": 974,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/lendelede.html",
 "title": "Poetshulp voor bedrijven in Lendelede",
-"words": 935,
+"words": 939,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/ledegem.html",
 "title": "Poetshulp voor bedrijven in Ledegem",
-"words": 860,
+"words": 864,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/moorslede.html",
 "title": "Poetshulp voor bedrijven in Moorslede",
-"words": 887,
+"words": 891,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/izegem.html",
 "title": "Poetshulp voor bedrijven in Izegem",
-"words": 1042,
+"words": 1046,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/ingelmunster.html",
 "title": "Poetshulp voor bedrijven in Ingelmunster",
-"words": 896,
+"words": 900,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/roeselare.html",
 "title": "Poetshulp voor bedrijven in Roeselare",
-"words": 879,
+"words": 883,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/rumbeke.html",
 "title": "Poetshulp voor bedrijven in Rumbeke",
-"words": 839,
+"words": 835,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/hooglede.html",
 "title": "Poetshulp voor bedrijven in Hooglede",
-"words": 902,
+"words": 906,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/staden.html",
 "title": "Poetshulp voor bedrijven in Staden",
-"words": 853,
+"words": 857,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/lichtervelde.html",
 "title": "Poetshulp voor bedrijven in Lichtervelde",
-"words": 900,
+"words": 904,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/ardooie.html",
 "title": "Poetshulp voor bedrijven in Ardooie",
-"words": 889,
+"words": 893,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/meulebeke.html",
 "title": "Poetshulp voor bedrijven in Meulebeke",
-"words": 870,
+"words": 874,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/tielt.html",
 "title": "Poetshulp voor bedrijven in Tielt",
-"words": 875,
+"words": 879,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/oostrozebeke.html",
 "title": "Poetshulp voor bedrijven in Oostrozebeke",
-"words": 873,
+"words": 875,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/wielsbeke.html",
 "title": "Poetshulp voor bedrijven in Wielsbeke",
-"words": 849,
+"words": 853,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/dentergem.html",
 "title": "Poetshulp voor bedrijven in Dentergem",
-"words": 839,
+"words": 843,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/zulte.html",
 "title": "Poetshulp voor bedrijven in Zulte",
-"words": 875,
+"words": 879,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/pittem.html",
 "title": "Poetshulp voor bedrijven in Pittem",
-"words": 886,
+"words": 890,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/ieper.html",
 "title": "Poetshulp voor bedrijven in Ieper",
-"words": 843,
+"words": 847,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/zonnebeke.html",
 "title": "Poetshulp voor bedrijven in Zonnebeke",
-"words": 819,
+"words": 823,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/oudenaarde.html",
 "title": "Poetshulp voor bedrijven in Oudenaarde",
-"words": 890,
+"words": 894,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/kruisem.html",
 "title": "Poetshulp voor bedrijven in Kruisem",
-"words": 844,
+"words": 848,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/brugge.html",
 "title": "Poetshulp voor bedrijven in Brugge",
-"words": 836,
+"words": 838,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/oostende.html",
 "title": "Poetshulp voor bedrijven in Oostende",
-"words": 858,
+"words": 870,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/torhout.html",
 "title": "Poetshulp voor bedrijven in Torhout",
-"words": 915,
+"words": 919,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/oostkamp.html",
 "title": "Poetshulp voor bedrijven in Oostkamp",
-"words": 914,
+"words": 918,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/zedelgem.html",
 "title": "Poetshulp voor bedrijven in Zedelgem",
-"words": 928,
+"words": 930,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/beernem.html",
 "title": "Poetshulp voor bedrijven in Beernem",
-"words": 886,
+"words": 890,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/wingene.html",
 "title": "Poetshulp voor bedrijven in Wingene",
-"words": 1015,
+"words": 1019,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/ruiselede.html",
 "title": "Poetshulp voor bedrijven in Ruiselede",
-"words": 899,
+"words": 903,
 "group": "poetshulp"
 },
 {
@@ -1622,55 +1622,55 @@
 {
 "path": "poetshulp/gent.html",
 "title": "Poetshulp voor bedrijven in Gent",
-"words": 968,
+"words": 970,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/deinze.html",
 "title": "Poetshulp voor bedrijven in Deinze",
-"words": 948,
+"words": 950,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/nazareth.html",
 "title": "Poetshulp voor bedrijven in Nazareth",
-"words": 883,
+"words": 885,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/de-pinte.html",
 "title": "Poetshulp voor bedrijven in De Pinte",
-"words": 947,
+"words": 950,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/sint-martens-latem.html",
 "title": "Poetshulp voor bedrijven in Sint-Martens-Latem",
-"words": 889,
+"words": 891,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/merelbeke.html",
 "title": "Poetshulp voor bedrijven in Merelbeke",
-"words": 886,
+"words": 888,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/gavere.html",
 "title": "Poetshulp voor bedrijven in Gavere",
-"words": 875,
+"words": 877,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/wortegem-petegem.html",
 "title": "Poetshulp voor bedrijven in Wortegem-Petegem",
-"words": 872,
+"words": 874,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/kluisbergen.html",
 "title": "Poetshulp voor bedrijven in Kluisbergen",
-"words": 915,
+"words": 917,
 "group": "poetshulp"
 },
 {
@@ -1682,13 +1682,13 @@
 {
 "path": "poetshulp/zottegem.html",
 "title": "Poetshulp voor bedrijven in Zottegem",
-"words": 895,
+"words": 897,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/aalter.html",
 "title": "Poetshulp voor bedrijven in Aalter",
-"words": 887,
+"words": 889,
 "group": "poetshulp"
 },
 {
@@ -1712,7 +1712,7 @@
 {
 "path": "poetshulp/lievegem.html",
 "title": "Poetshulp voor bedrijven in Lievegem",
-"words": 885,
+"words": 887,
 "group": "poetshulp"
 },
 {
@@ -1724,7 +1724,7 @@
 {
 "path": "poetshulp/oosterzele.html",
 "title": "Poetshulp voor bedrijven in Oosterzele",
-"words": 805,
+"words": 807,
 "group": "poetshulp"
 },
 {
@@ -1736,25 +1736,25 @@
 {
 "path": "poetshulp/brakel.html",
 "title": "Poetshulp voor bedrijven in Brakel",
-"words": 865,
+"words": 867,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/zwalm.html",
 "title": "Poetshulp voor bedrijven in Zwalm",
-"words": 810,
+"words": 812,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/maarkedal.html",
 "title": "Poetshulp voor bedrijven in Maarkedal",
-"words": 903,
+"words": 905,
 "group": "poetshulp"
 },
 {
 "path": "poetshulp/lierde.html",
 "title": "Poetshulp voor bedrijven in Lierde",
-"words": 841,
+"words": 843,
 "group": "poetshulp"
 },
 {
@@ -1898,247 +1898,247 @@
 {
 "path": "regio/kookhulp-kortrijk.html",
 "title": "Kookhulp aan huis voor ondernemers in Kortrijk",
-"words": 1106,
+"words": 1118,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-roeselare.html",
 "title": "Kookhulp aan huis voor ondernemers in Roeselare",
-"words": 1044,
+"words": 1056,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-waregem.html",
 "title": "Kookhulp aan huis voor ondernemers in Waregem",
-"words": 995,
+"words": 1007,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-ieper.html",
 "title": "Kookhulp aan huis voor ondernemers in Ieper",
-"words": 996,
+"words": 1008,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-izegem.html",
 "title": "Kookhulp aan huis voor ondernemers in Izegem",
-"words": 963,
+"words": 975,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-menen.html",
 "title": "Kookhulp aan huis voor ondernemers in Menen",
-"words": 968,
+"words": 980,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-harelbeke.html",
 "title": "Kookhulp aan huis voor ondernemers in Harelbeke",
-"words": 929,
+"words": 941,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-wevelgem.html",
 "title": "Kookhulp aan huis voor ondernemers in Wevelgem",
-"words": 964,
+"words": 976,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-tielt.html",
 "title": "Kookhulp aan huis voor ondernemers in Tielt",
-"words": 1019,
+"words": 1031,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-oudenaarde.html",
 "title": "Kookhulp aan huis voor ondernemers in Oudenaarde",
-"words": 995,
+"words": 1007,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-brugge.html",
 "title": "Kookhulp aan huis voor ondernemers in Brugge",
-"words": 904,
+"words": 916,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-gent.html",
 "title": "Kookhulp aan huis voor ondernemers in Gent",
-"words": 985,
+"words": 1004,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-wervik.html",
 "title": "Kookhulp aan huis voor ondernemers in Wervik",
-"words": 961,
+"words": 973,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-kuurne.html",
 "title": "Kookhulp aan huis voor ondernemers in Kuurne",
-"words": 865,
+"words": 877,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-zwevegem.html",
 "title": "Kookhulp aan huis voor ondernemers in Zwevegem",
-"words": 868,
+"words": 880,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-deerlijk.html",
 "title": "Kookhulp aan huis voor ondernemers in Deerlijk",
-"words": 849,
+"words": 861,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-anzegem.html",
 "title": "Kookhulp aan huis voor ondernemers in Anzegem",
-"words": 870,
+"words": 882,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-avelgem.html",
 "title": "Kookhulp aan huis voor ondernemers in Avelgem",
-"words": 953,
+"words": 965,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-lendelede.html",
 "title": "Kookhulp aan huis voor ondernemers in Lendelede",
-"words": 937,
+"words": 949,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-ledegem.html",
 "title": "Kookhulp aan huis voor ondernemers in Ledegem",
-"words": 842,
+"words": 854,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-moorslede.html",
 "title": "Kookhulp aan huis voor ondernemers in Moorslede",
-"words": 906,
+"words": 918,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-ingelmunster.html",
 "title": "Kookhulp aan huis voor ondernemers in Ingelmunster",
-"words": 872,
+"words": 884,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-hooglede.html",
 "title": "Kookhulp aan huis voor ondernemers in Hooglede",
-"words": 941,
+"words": 953,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-staden.html",
 "title": "Kookhulp aan huis voor ondernemers in Staden",
-"words": 925,
+"words": 937,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-lichtervelde.html",
 "title": "Kookhulp aan huis voor ondernemers in Lichtervelde",
-"words": 906,
+"words": 918,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-ardooie.html",
 "title": "Kookhulp aan huis voor ondernemers in Ardooie",
-"words": 875,
+"words": 887,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-meulebeke.html",
 "title": "Kookhulp aan huis voor ondernemers in Meulebeke",
-"words": 865,
+"words": 877,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-oostrozebeke.html",
 "title": "Kookhulp aan huis voor ondernemers in Oostrozebeke",
-"words": 1025,
+"words": 1037,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-wielsbeke.html",
 "title": "Kookhulp aan huis voor ondernemers in Wielsbeke",
-"words": 931,
+"words": 943,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-dentergem.html",
 "title": "Kookhulp aan huis voor ondernemers in Dentergem",
-"words": 917,
+"words": 929,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-zulte.html",
 "title": "Kookhulp aan huis voor ondernemers in Zulte",
-"words": 896,
+"words": 908,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-pittem.html",
 "title": "Kookhulp aan huis voor ondernemers in Pittem",
-"words": 882,
+"words": 894,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-zonnebeke.html",
 "title": "Kookhulp aan huis voor ondernemers in Zonnebeke",
-"words": 1025,
+"words": 1037,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-kruisem.html",
 "title": "Kookhulp aan huis voor ondernemers in Kruisem",
-"words": 934,
+"words": 946,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-oostende.html",
 "title": "Kookhulp aan huis voor ondernemers in Oostende",
-"words": 924,
+"words": 936,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-torhout.html",
 "title": "Kookhulp aan huis voor ondernemers in Torhout",
-"words": 921,
+"words": 933,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-oostkamp.html",
 "title": "Kookhulp aan huis voor ondernemers in Oostkamp",
-"words": 923,
+"words": 935,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-zedelgem.html",
 "title": "Kookhulp aan huis voor ondernemers in Zedelgem",
-"words": 991,
+"words": 1003,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-beernem.html",
 "title": "Kookhulp aan huis voor ondernemers in Beernem",
-"words": 911,
+"words": 923,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-wingene.html",
 "title": "Kookhulp aan huis voor ondernemers in Wingene",
-"words": 877,
+"words": 889,
 "group": "regio"
 },
 {
 "path": "regio/kookhulp-ruiselede.html",
 "title": "Kookhulp aan huis voor ondernemers in Ruiselede",
-"words": 888,
+"words": 900,
 "group": "regio"
 },
 {
@@ -2384,247 +2384,247 @@
 {
 "path": "regio/boodschappendienst-kortrijk.html",
 "title": "Boodschappendienst voor ondernemers in Kortrijk",
-"words": 983,
+"words": 995,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-roeselare.html",
 "title": "Boodschappendienst voor ondernemers in Roeselare",
-"words": 928,
+"words": 940,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-waregem.html",
 "title": "Boodschappendienst voor ondernemers in Waregem",
-"words": 957,
+"words": 969,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-ieper.html",
 "title": "Boodschappendienst voor ondernemers in Ieper",
-"words": 951,
+"words": 963,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-izegem.html",
 "title": "Boodschappendienst voor ondernemers in Izegem",
-"words": 1061,
+"words": 1073,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-menen.html",
 "title": "Boodschappendienst voor ondernemers in Menen",
-"words": 1052,
+"words": 1064,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-harelbeke.html",
 "title": "Boodschappendienst voor ondernemers in Harelbeke",
-"words": 943,
+"words": 955,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-wevelgem.html",
 "title": "Boodschappendienst voor ondernemers in Wevelgem",
-"words": 995,
+"words": 1007,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-tielt.html",
 "title": "Boodschappendienst voor ondernemers in Tielt",
-"words": 984,
+"words": 996,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-oudenaarde.html",
 "title": "Boodschappendienst voor ondernemers in Oudenaarde",
-"words": 938,
+"words": 950,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-brugge.html",
 "title": "Boodschappendienst voor ondernemers in Brugge",
-"words": 945,
+"words": 957,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-gent.html",
 "title": "Boodschappendienst voor ondernemers in Gent",
-"words": 924,
+"words": 943,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-wervik.html",
 "title": "Boodschappendienst voor ondernemers in Wervik",
-"words": 874,
+"words": 886,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-kuurne.html",
 "title": "Boodschappendienst voor ondernemers in Kuurne",
-"words": 880,
+"words": 892,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-zwevegem.html",
 "title": "Boodschappendienst voor ondernemers in Zwevegem",
-"words": 889,
+"words": 901,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-deerlijk.html",
 "title": "Boodschappendienst voor ondernemers in Deerlijk",
-"words": 864,
+"words": 876,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-anzegem.html",
 "title": "Boodschappendienst voor ondernemers in Anzegem",
-"words": 857,
+"words": 869,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-avelgem.html",
 "title": "Boodschappendienst voor ondernemers in Avelgem",
-"words": 847,
+"words": 859,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-lendelede.html",
 "title": "Boodschappendienst voor ondernemers in Lendelede",
-"words": 919,
+"words": 931,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-ledegem.html",
 "title": "Boodschappendienst voor ondernemers in Ledegem",
-"words": 883,
+"words": 895,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-moorslede.html",
 "title": "Boodschappendienst voor ondernemers in Moorslede",
-"words": 895,
+"words": 907,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-ingelmunster.html",
 "title": "Boodschappendienst voor ondernemers in Ingelmunster",
-"words": 845,
+"words": 857,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-hooglede.html",
 "title": "Boodschappendienst voor ondernemers in Hooglede",
-"words": 928,
+"words": 940,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-staden.html",
 "title": "Boodschappendienst voor ondernemers in Staden",
-"words": 854,
+"words": 866,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-lichtervelde.html",
 "title": "Boodschappendienst voor ondernemers in Lichtervelde",
-"words": 856,
+"words": 868,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-ardooie.html",
 "title": "Boodschappendienst voor ondernemers in Ardooie",
-"words": 833,
+"words": 845,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-meulebeke.html",
 "title": "Boodschappendienst voor ondernemers in Meulebeke",
-"words": 869,
+"words": 881,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-oostrozebeke.html",
 "title": "Boodschappendienst voor ondernemers in Oostrozebeke",
-"words": 902,
+"words": 914,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-wielsbeke.html",
 "title": "Boodschappendienst voor ondernemers in Wielsbeke",
-"words": 853,
+"words": 865,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-dentergem.html",
 "title": "Boodschappendienst voor ondernemers in Dentergem",
-"words": 888,
+"words": 900,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-zulte.html",
 "title": "Boodschappendienst voor ondernemers in Zulte",
-"words": 877,
+"words": 889,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-pittem.html",
 "title": "Boodschappendienst voor ondernemers in Pittem",
-"words": 895,
+"words": 907,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-zonnebeke.html",
 "title": "Boodschappendienst voor ondernemers in Zonnebeke",
-"words": 919,
+"words": 931,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-kruisem.html",
 "title": "Boodschappendienst voor ondernemers in Kruisem",
-"words": 832,
+"words": 844,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-oostende.html",
 "title": "Boodschappendienst voor ondernemers in Oostende",
-"words": 863,
+"words": 875,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-torhout.html",
 "title": "Boodschappendienst voor ondernemers in Torhout",
-"words": 852,
+"words": 864,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-oostkamp.html",
 "title": "Boodschappendienst voor ondernemers in Oostkamp",
-"words": 850,
+"words": 862,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-zedelgem.html",
 "title": "Boodschappendienst voor ondernemers in Zedelgem",
-"words": 846,
+"words": 858,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-beernem.html",
 "title": "Boodschappendienst voor ondernemers in Beernem",
-"words": 869,
+"words": 881,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-wingene.html",
 "title": "Boodschappendienst voor ondernemers in Wingene",
-"words": 861,
+"words": 873,
 "group": "regio"
 },
 {
 "path": "regio/boodschappendienst-ruiselede.html",
 "title": "Boodschappendienst voor ondernemers in Ruiselede",
-"words": 847,
+"words": 859,
 "group": "regio"
 },
 {
@@ -2870,247 +2870,247 @@
 {
 "path": "regio/hulp-in-huis-kortrijk.html",
 "title": "Hulp in huis voor ondernemers in Kortrijk",
-"words": 1104,
+"words": 1116,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-roeselare.html",
 "title": "Hulp in huis voor ondernemers in Roeselare",
-"words": 992,
+"words": 1004,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-waregem.html",
 "title": "Hulp in huis voor ondernemers in Waregem",
-"words": 997,
+"words": 1009,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-ieper.html",
 "title": "Hulp in huis voor ondernemers in Ieper",
-"words": 998,
+"words": 1010,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-izegem.html",
 "title": "Hulp in huis voor ondernemers in Izegem",
-"words": 922,
+"words": 934,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-menen.html",
 "title": "Hulp in huis voor ondernemers in Menen",
-"words": 936,
+"words": 948,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-harelbeke.html",
 "title": "Hulp in huis voor ondernemers in Harelbeke",
-"words": 950,
+"words": 962,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-wevelgem.html",
 "title": "Hulp in huis voor ondernemers in Wevelgem",
-"words": 947,
+"words": 959,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-tielt.html",
 "title": "Hulp in huis voor ondernemers in Tielt",
-"words": 992,
+"words": 1004,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-oudenaarde.html",
 "title": "Hulp in huis voor ondernemers in Oudenaarde",
-"words": 944,
+"words": 956,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-brugge.html",
 "title": "Hulp in huis voor ondernemers in Brugge",
-"words": 1034,
+"words": 1046,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-gent.html",
 "title": "Hulp in huis voor ondernemers in Gent",
-"words": 964,
+"words": 983,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-wervik.html",
 "title": "Hulp in huis voor ondernemers in Wervik",
-"words": 942,
+"words": 954,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-kuurne.html",
 "title": "Hulp in huis voor ondernemers in Kuurne",
-"words": 890,
+"words": 902,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-zwevegem.html",
 "title": "Hulp in huis voor ondernemers in Zwevegem",
-"words": 892,
+"words": 904,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-deerlijk.html",
 "title": "Hulp in huis voor ondernemers in Deerlijk",
-"words": 872,
+"words": 884,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-anzegem.html",
 "title": "Hulp in huis voor ondernemers in Anzegem",
-"words": 888,
+"words": 900,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-avelgem.html",
 "title": "Hulp in huis voor ondernemers in Avelgem",
-"words": 885,
+"words": 897,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-lendelede.html",
 "title": "Hulp in huis voor ondernemers in Lendelede",
-"words": 911,
+"words": 923,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-ledegem.html",
 "title": "Hulp in huis voor ondernemers in Ledegem",
-"words": 903,
+"words": 915,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-moorslede.html",
 "title": "Hulp in huis voor ondernemers in Moorslede",
-"words": 862,
+"words": 874,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-ingelmunster.html",
 "title": "Hulp in huis voor ondernemers in Ingelmunster",
-"words": 871,
+"words": 883,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-hooglede.html",
 "title": "Hulp in huis voor ondernemers in Hooglede",
-"words": 874,
+"words": 886,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-staden.html",
 "title": "Hulp in huis voor ondernemers in Staden",
-"words": 894,
+"words": 906,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-lichtervelde.html",
 "title": "Hulp in huis voor ondernemers in Lichtervelde",
-"words": 872,
+"words": 884,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-ardooie.html",
 "title": "Hulp in huis voor ondernemers in Ardooie",
-"words": 878,
+"words": 890,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-meulebeke.html",
 "title": "Hulp in huis voor ondernemers in Meulebeke",
-"words": 907,
+"words": 919,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-oostrozebeke.html",
 "title": "Hulp in huis voor ondernemers in Oostrozebeke",
-"words": 891,
+"words": 903,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-wielsbeke.html",
 "title": "Hulp in huis voor ondernemers in Wielsbeke",
-"words": 885,
+"words": 897,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-dentergem.html",
 "title": "Hulp in huis voor ondernemers in Dentergem",
-"words": 866,
+"words": 878,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-zulte.html",
 "title": "Hulp in huis voor ondernemers in Zulte",
-"words": 851,
+"words": 863,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-pittem.html",
 "title": "Hulp in huis voor ondernemers in Pittem",
-"words": 858,
+"words": 870,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-zonnebeke.html",
 "title": "Hulp in huis voor ondernemers in Zonnebeke",
-"words": 929,
+"words": 941,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-kruisem.html",
 "title": "Hulp in huis voor ondernemers in Kruisem",
-"words": 886,
+"words": 898,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-oostende.html",
 "title": "Hulp in huis voor ondernemers in Oostende",
-"words": 847,
+"words": 859,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-torhout.html",
 "title": "Hulp in huis voor ondernemers in Torhout",
-"words": 855,
+"words": 867,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-oostkamp.html",
 "title": "Hulp in huis voor ondernemers in Oostkamp",
-"words": 868,
+"words": 880,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-zedelgem.html",
 "title": "Hulp in huis voor ondernemers in Zedelgem",
-"words": 910,
+"words": 922,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-beernem.html",
 "title": "Hulp in huis voor ondernemers in Beernem",
-"words": 884,
+"words": 896,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-wingene.html",
 "title": "Hulp in huis voor ondernemers in Wingene",
-"words": 867,
+"words": 879,
 "group": "regio"
 },
 {
 "path": "regio/hulp-in-huis-ruiselede.html",
 "title": "Hulp in huis voor ondernemers in Ruiselede",
-"words": 868,
+"words": 880,
 "group": "regio"
 },
 {
@@ -3830,31 +3830,31 @@
 {
 "path": "vragen/doet-poetshulp-de-ramen.html",
 "title": "Doet een poetshulp ook de ramen?",
-"words": 921,
+"words": 920,
 "group": "vragen"
 },
 {
 "path": "vragen/was-en-strijk-van-je-zaak.html",
 "title": "Kan je poetshulp ook de was en strijk van je zaak doen?",
-"words": 972,
+"words": 976,
 "group": "vragen"
 },
 {
 "path": "vragen/poetsfirma-of-dienstenchequebedrijf.html",
 "title": "Wat is het verschil tussen een poetsfirma en een dienstenchequebedrijf?",
-"words": 953,
+"words": 962,
 "group": "vragen"
 },
 {
 "path": "vragen/afspraken-met-poetsfirma.html",
 "title": "Welke afspraken leg je vast met een poetsfirma?",
-"words": 906,
+"words": 919,
 "group": "vragen"
 },
 {
 "path": "vragen/kwaliteit-schoonmaak-controleren.html",
 "title": "Hoe controleer je de kwaliteit van de schoonmaak op kantoor?",
-"words": 876,
+"words": 892,
 "group": "vragen"
 },
 {
@@ -4882,5 +4882,3017 @@
 "title": "Vaste job overdag zonder weekends in Kluisbergen",
 "words": 824,
 "group": "werken"
+},
+{
+"path": "regio/schoonmaak-kantoor-kortrijk.html",
+"title": "Schoonmaakhulp voor kantoren in Kortrijk",
+"words": 1025,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-wevelgem.html",
+"title": "Schoonmaakhulp voor kantoren in Wevelgem",
+"words": 968,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-menen.html",
+"title": "Schoonmaakhulp voor kantoren in Menen",
+"words": 891,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-wervik.html",
+"title": "Schoonmaakhulp voor kantoren in Wervik",
+"words": 908,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-harelbeke.html",
+"title": "Schoonmaakhulp voor kantoren in Harelbeke",
+"words": 993,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-kuurne.html",
+"title": "Schoonmaakhulp voor kantoren in Kuurne",
+"words": 933,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-zwevegem.html",
+"title": "Schoonmaakhulp voor kantoren in Zwevegem",
+"words": 1098,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-deerlijk.html",
+"title": "Schoonmaakhulp voor kantoren in Deerlijk",
+"words": 964,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-waregem.html",
+"title": "Schoonmaakhulp voor kantoren in Waregem",
+"words": 945,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-anzegem.html",
+"title": "Schoonmaakhulp voor kantoren in Anzegem",
+"words": 1011,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-avelgem.html",
+"title": "Schoonmaakhulp voor kantoren in Avelgem",
+"words": 889,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-lendelede.html",
+"title": "Schoonmaakhulp voor kantoren in Lendelede",
+"words": 920,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-ledegem.html",
+"title": "Schoonmaakhulp voor kantoren in Ledegem",
+"words": 1020,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-moorslede.html",
+"title": "Schoonmaakhulp voor kantoren in Moorslede",
+"words": 882,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-izegem.html",
+"title": "Schoonmaakhulp voor kantoren in Izegem",
+"words": 1062,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-ingelmunster.html",
+"title": "Schoonmaakhulp voor kantoren in Ingelmunster",
+"words": 932,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-roeselare.html",
+"title": "Schoonmaakhulp voor kantoren in Roeselare",
+"words": 1036,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-hooglede.html",
+"title": "Schoonmaakhulp voor kantoren in Hooglede",
+"words": 977,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-staden.html",
+"title": "Schoonmaakhulp voor kantoren in Staden",
+"words": 927,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-lichtervelde.html",
+"title": "Schoonmaakhulp voor kantoren in Lichtervelde",
+"words": 952,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-ardooie.html",
+"title": "Schoonmaakhulp voor kantoren in Ardooie",
+"words": 965,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-meulebeke.html",
+"title": "Schoonmaakhulp voor kantoren in Meulebeke",
+"words": 1088,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-tielt.html",
+"title": "Schoonmaakhulp voor kantoren in Tielt",
+"words": 998,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-oostrozebeke.html",
+"title": "Schoonmaakhulp voor kantoren in Oostrozebeke",
+"words": 920,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-wielsbeke.html",
+"title": "Schoonmaakhulp voor kantoren in Wielsbeke",
+"words": 911,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-dentergem.html",
+"title": "Schoonmaakhulp voor kantoren in Dentergem",
+"words": 847,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-zulte.html",
+"title": "Schoonmaakhulp voor kantoren in Zulte",
+"words": 875,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-pittem.html",
+"title": "Schoonmaakhulp voor kantoren in Pittem",
+"words": 990,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-ieper.html",
+"title": "Schoonmaakhulp voor kantoren in Ieper",
+"words": 951,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-zonnebeke.html",
+"title": "Schoonmaakhulp voor kantoren in Zonnebeke",
+"words": 926,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-oudenaarde.html",
+"title": "Schoonmaakhulp voor kantoren in Oudenaarde",
+"words": 918,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-kruisem.html",
+"title": "Schoonmaakhulp voor kantoren in Kruisem",
+"words": 919,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-brugge.html",
+"title": "Schoonmaakhulp voor kantoren in Brugge",
+"words": 963,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-oostende.html",
+"title": "Schoonmaakhulp voor kantoren in Oostende",
+"words": 1036,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-torhout.html",
+"title": "Schoonmaakhulp voor kantoren in Torhout",
+"words": 921,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-oostkamp.html",
+"title": "Schoonmaakhulp voor kantoren in Oostkamp",
+"words": 870,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-zedelgem.html",
+"title": "Schoonmaakhulp voor kantoren in Zedelgem",
+"words": 955,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-beernem.html",
+"title": "Schoonmaakhulp voor kantoren in Beernem",
+"words": 895,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-wingene.html",
+"title": "Schoonmaakhulp voor kantoren in Wingene",
+"words": 892,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-ruiselede.html",
+"title": "Schoonmaakhulp voor kantoren in Ruiselede",
+"words": 906,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-kortrijk.html",
+"title": "Schoonmaakhulp voor praktijken in Kortrijk",
+"words": 942,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-wevelgem.html",
+"title": "Schoonmaakhulp voor praktijken in Wevelgem",
+"words": 882,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-menen.html",
+"title": "Schoonmaakhulp voor praktijken in Menen",
+"words": 902,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-wervik.html",
+"title": "Schoonmaakhulp voor praktijken in Wervik",
+"words": 930,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-harelbeke.html",
+"title": "Schoonmaakhulp voor praktijken in Harelbeke",
+"words": 1022,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-kuurne.html",
+"title": "Schoonmaakhulp voor praktijken in Kuurne",
+"words": 867,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-zwevegem.html",
+"title": "Schoonmaakhulp voor praktijken in Zwevegem",
+"words": 861,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-deerlijk.html",
+"title": "Schoonmaakhulp voor praktijken in Deerlijk",
+"words": 900,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-waregem.html",
+"title": "Schoonmaakhulp voor praktijken in Waregem",
+"words": 922,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-anzegem.html",
+"title": "Schoonmaakhulp voor praktijken in Anzegem",
+"words": 973,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-avelgem.html",
+"title": "Schoonmaakhulp voor praktijken in Avelgem",
+"words": 913,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-lendelede.html",
+"title": "Schoonmaakhulp voor praktijken in Lendelede",
+"words": 881,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-ledegem.html",
+"title": "Schoonmaakhulp voor praktijken in Ledegem",
+"words": 928,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-moorslede.html",
+"title": "Schoonmaakhulp voor praktijken in Moorslede",
+"words": 1012,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-izegem.html",
+"title": "Schoonmaakhulp voor praktijken in Izegem",
+"words": 918,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-ingelmunster.html",
+"title": "Schoonmaakhulp voor praktijken in Ingelmunster",
+"words": 987,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-roeselare.html",
+"title": "Schoonmaakhulp voor praktijken in Roeselare",
+"words": 958,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-hooglede.html",
+"title": "Schoonmaakhulp voor praktijken in Hooglede",
+"words": 956,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-staden.html",
+"title": "Schoonmaakhulp voor praktijken in Staden",
+"words": 932,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-lichtervelde.html",
+"title": "Schoonmaakhulp voor praktijken in Lichtervelde",
+"words": 927,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-ardooie.html",
+"title": "Schoonmaakhulp voor praktijken in Ardooie",
+"words": 857,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-meulebeke.html",
+"title": "Schoonmaakhulp voor praktijken in Meulebeke",
+"words": 905,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-tielt.html",
+"title": "Schoonmaakhulp voor praktijken in Tielt",
+"words": 935,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-oostrozebeke.html",
+"title": "Schoonmaakhulp voor praktijken in Oostrozebeke",
+"words": 915,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-wielsbeke.html",
+"title": "Schoonmaakhulp voor praktijken in Wielsbeke",
+"words": 935,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-dentergem.html",
+"title": "Schoonmaakhulp voor praktijken in Dentergem",
+"words": 921,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-zulte.html",
+"title": "Schoonmaakhulp voor praktijken in Zulte",
+"words": 853,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-pittem.html",
+"title": "Schoonmaakhulp voor praktijken in Pittem",
+"words": 1007,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-ieper.html",
+"title": "Schoonmaakhulp voor praktijken in Ieper",
+"words": 922,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-zonnebeke.html",
+"title": "Schoonmaakhulp voor praktijken in Zonnebeke",
+"words": 853,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-oudenaarde.html",
+"title": "Schoonmaakhulp voor praktijken in Oudenaarde",
+"words": 926,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-kruisem.html",
+"title": "Schoonmaakhulp voor praktijken in Kruisem",
+"words": 913,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-brugge.html",
+"title": "Schoonmaakhulp voor praktijken in Brugge",
+"words": 935,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-oostende.html",
+"title": "Schoonmaakhulp voor praktijken in Oostende",
+"words": 946,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-torhout.html",
+"title": "Schoonmaakhulp voor praktijken in Torhout",
+"words": 888,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-oostkamp.html",
+"title": "Schoonmaakhulp voor praktijken in Oostkamp",
+"words": 977,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-zedelgem.html",
+"title": "Schoonmaakhulp voor praktijken in Zedelgem",
+"words": 908,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-beernem.html",
+"title": "Schoonmaakhulp voor praktijken in Beernem",
+"words": 828,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-wingene.html",
+"title": "Schoonmaakhulp voor praktijken in Wingene",
+"words": 905,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-ruiselede.html",
+"title": "Schoonmaakhulp voor praktijken in Ruiselede",
+"words": 910,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-kortrijk.html",
+"title": "Schoonmaakhulp voor winkels in Kortrijk",
+"words": 922,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-wevelgem.html",
+"title": "Schoonmaakhulp voor winkels in Wevelgem",
+"words": 909,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-menen.html",
+"title": "Schoonmaakhulp voor winkels in Menen",
+"words": 905,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-wervik.html",
+"title": "Schoonmaakhulp voor winkels in Wervik",
+"words": 899,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-harelbeke.html",
+"title": "Schoonmaakhulp voor winkels in Harelbeke",
+"words": 921,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-kuurne.html",
+"title": "Schoonmaakhulp voor winkels in Kuurne",
+"words": 888,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-zwevegem.html",
+"title": "Schoonmaakhulp voor winkels in Zwevegem",
+"words": 836,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-deerlijk.html",
+"title": "Schoonmaakhulp voor winkels in Deerlijk",
+"words": 943,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-waregem.html",
+"title": "Schoonmaakhulp voor winkels in Waregem",
+"words": 947,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-anzegem.html",
+"title": "Schoonmaakhulp voor winkels in Anzegem",
+"words": 948,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-avelgem.html",
+"title": "Schoonmaakhulp voor winkels in Avelgem",
+"words": 930,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-lendelede.html",
+"title": "Schoonmaakhulp voor winkels in Lendelede",
+"words": 880,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-ledegem.html",
+"title": "Schoonmaakhulp voor winkels in Ledegem",
+"words": 920,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-moorslede.html",
+"title": "Schoonmaakhulp voor winkels in Moorslede",
+"words": 913,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-izegem.html",
+"title": "Schoonmaakhulp voor winkels in Izegem",
+"words": 884,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-ingelmunster.html",
+"title": "Schoonmaakhulp voor winkels in Ingelmunster",
+"words": 969,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-roeselare.html",
+"title": "Schoonmaakhulp voor winkels in Roeselare",
+"words": 948,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-hooglede.html",
+"title": "Schoonmaakhulp voor winkels in Hooglede",
+"words": 985,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-staden.html",
+"title": "Schoonmaakhulp voor winkels in Staden",
+"words": 917,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-lichtervelde.html",
+"title": "Schoonmaakhulp voor winkels in Lichtervelde",
+"words": 871,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-ardooie.html",
+"title": "Schoonmaakhulp voor winkels in Ardooie",
+"words": 931,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-meulebeke.html",
+"title": "Schoonmaakhulp voor winkels in Meulebeke",
+"words": 864,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-tielt.html",
+"title": "Schoonmaakhulp voor winkels in Tielt",
+"words": 929,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-oostrozebeke.html",
+"title": "Schoonmaakhulp voor winkels in Oostrozebeke",
+"words": 950,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-wielsbeke.html",
+"title": "Schoonmaakhulp voor winkels in Wielsbeke",
+"words": 915,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-dentergem.html",
+"title": "Schoonmaakhulp voor winkels in Dentergem",
+"words": 918,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-zulte.html",
+"title": "Schoonmaakhulp voor winkels in Zulte",
+"words": 900,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-pittem.html",
+"title": "Schoonmaakhulp voor winkels in Pittem",
+"words": 950,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-ieper.html",
+"title": "Schoonmaakhulp voor winkels in Ieper",
+"words": 992,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-zonnebeke.html",
+"title": "Schoonmaakhulp voor winkels in Zonnebeke",
+"words": 858,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-oudenaarde.html",
+"title": "Schoonmaakhulp voor winkels in Oudenaarde",
+"words": 923,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-kruisem.html",
+"title": "Schoonmaakhulp voor winkels in Kruisem",
+"words": 949,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-brugge.html",
+"title": "Schoonmaakhulp voor winkels in Brugge",
+"words": 940,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-oostende.html",
+"title": "Schoonmaakhulp voor winkels in Oostende",
+"words": 924,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-torhout.html",
+"title": "Schoonmaakhulp voor winkels in Torhout",
+"words": 920,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-oostkamp.html",
+"title": "Schoonmaakhulp voor winkels in Oostkamp",
+"words": 952,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-zedelgem.html",
+"title": "Schoonmaakhulp voor winkels in Zedelgem",
+"words": 898,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-beernem.html",
+"title": "Schoonmaakhulp voor winkels in Beernem",
+"words": 911,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-wingene.html",
+"title": "Schoonmaakhulp voor winkels in Wingene",
+"words": 900,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-winkel-ruiselede.html",
+"title": "Schoonmaakhulp voor winkels in Ruiselede",
+"words": 915,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-marke.html",
+"title": "Schoonmaakhulp voor kantoren in Marke",
+"words": 956,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-heule.html",
+"title": "Schoonmaakhulp voor kantoren in Heule",
+"words": 963,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-bissegem.html",
+"title": "Schoonmaakhulp voor kantoren in Bissegem",
+"words": 883,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-aalbeke.html",
+"title": "Schoonmaakhulp voor kantoren in Aalbeke",
+"words": 895,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-bellegem.html",
+"title": "Schoonmaakhulp voor kantoren in Bellegem",
+"words": 918,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-rollegem.html",
+"title": "Schoonmaakhulp voor kantoren in Rollegem",
+"words": 986,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-kantoor-kooigem.html",
+"title": "Schoonmaakhulp voor kantoren in Kooigem",
+"words": 944,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-marke.html",
+"title": "Schoonmaakhulp voor praktijken in Marke",
+"words": 895,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-heule.html",
+"title": "Schoonmaakhulp voor praktijken in Heule",
+"words": 915,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-bissegem.html",
+"title": "Schoonmaakhulp voor praktijken in Bissegem",
+"words": 978,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-aalbeke.html",
+"title": "Schoonmaakhulp voor praktijken in Aalbeke",
+"words": 922,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-bellegem.html",
+"title": "Schoonmaakhulp voor praktijken in Bellegem",
+"words": 1012,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-rollegem.html",
+"title": "Schoonmaakhulp voor praktijken in Rollegem",
+"words": 941,
+"group": "regio"
+},
+{
+"path": "regio/schoonmaak-praktijk-kooigem.html",
+"title": "Schoonmaakhulp voor praktijken in Kooigem",
+"words": 889,
+"group": "regio"
+},
+{
+"path": "regio/kookhulp-marke.html",
+"title": "Kookhulp aan huis voor ondernemers in Marke",
+"words": 1009,
+"group": "regio"
+},
+{
+"path": "regio/kookhulp-heule.html",
+"title": "Kookhulp aan huis voor ondernemers in Heule",
+"words": 999,
+"group": "regio"
+},
+{
+"path": "regio/kookhulp-bissegem.html",
+"title": "Kookhulp aan huis voor ondernemers in Bissegem",
+"words": 1005,
+"group": "regio"
+},
+{
+"path": "regio/kookhulp-aalbeke.html",
+"title": "Kookhulp aan huis voor ondernemers in Aalbeke",
+"words": 1066,
+"group": "regio"
+},
+{
+"path": "regio/kookhulp-bellegem.html",
+"title": "Kookhulp aan huis voor ondernemers in Bellegem",
+"words": 1152,
+"group": "regio"
+},
+{
+"path": "regio/kookhulp-rollegem.html",
+"title": "Kookhulp aan huis voor ondernemers in Rollegem",
+"words": 1065,
+"group": "regio"
+},
+{
+"path": "regio/kookhulp-kooigem.html",
+"title": "Kookhulp aan huis voor ondernemers in Kooigem",
+"words": 1051,
+"group": "regio"
+},
+{
+"path": "regio/boodschappendienst-marke.html",
+"title": "Boodschappendienst voor ondernemers in Marke",
+"words": 1110,
+"group": "regio"
+},
+{
+"path": "regio/boodschappendienst-heule.html",
+"title": "Boodschappendienst voor ondernemers in Heule",
+"words": 1002,
+"group": "regio"
+},
+{
+"path": "regio/boodschappendienst-bissegem.html",
+"title": "Boodschappendienst voor ondernemers in Bissegem",
+"words": 1092,
+"group": "regio"
+},
+{
+"path": "regio/boodschappendienst-aalbeke.html",
+"title": "Boodschappendienst voor ondernemers in Aalbeke",
+"words": 957,
+"group": "regio"
+},
+{
+"path": "regio/boodschappendienst-bellegem.html",
+"title": "Boodschappendienst voor ondernemers in Bellegem",
+"words": 1076,
+"group": "regio"
+},
+{
+"path": "regio/boodschappendienst-rollegem.html",
+"title": "Boodschappendienst voor ondernemers in Rollegem",
+"words": 1059,
+"group": "regio"
+},
+{
+"path": "regio/boodschappendienst-kooigem.html",
+"title": "Boodschappendienst voor ondernemers in Kooigem",
+"words": 1097,
+"group": "regio"
+},
+{
+"path": "regio/hulp-in-huis-marke.html",
+"title": "Hulp in huis voor ondernemers in Marke",
+"words": 900,
+"group": "regio"
+},
+{
+"path": "regio/hulp-in-huis-heule.html",
+"title": "Hulp in huis voor ondernemers in Heule",
+"words": 977,
+"group": "regio"
+},
+{
+"path": "regio/hulp-in-huis-bissegem.html",
+"title": "Hulp in huis voor ondernemers in Bissegem",
+"words": 991,
+"group": "regio"
+},
+{
+"path": "regio/hulp-in-huis-aalbeke.html",
+"title": "Hulp in huis voor ondernemers in Aalbeke",
+"words": 948,
+"group": "regio"
+},
+{
+"path": "regio/hulp-in-huis-bellegem.html",
+"title": "Hulp in huis voor ondernemers in Bellegem",
+"words": 1068,
+"group": "regio"
+},
+{
+"path": "regio/hulp-in-huis-rollegem.html",
+"title": "Hulp in huis voor ondernemers in Rollegem",
+"words": 904,
+"group": "regio"
+},
+{
+"path": "regio/hulp-in-huis-kooigem.html",
+"title": "Hulp in huis voor ondernemers in Kooigem",
+"words": 1006,
+"group": "regio"
+},
+{
+"path": "sectoren/refter-en-bedrijfskeuken-kortrijk.html",
+"title": "Refter en bedrijfskeuken laten poetsen in Kortrijk",
+"words": 952,
+"group": "sectoren"
+},
+{
+"path": "sectoren/refter-en-bedrijfskeuken-wevelgem.html",
+"title": "Refter en bedrijfskeuken laten poetsen in Wevelgem",
+"words": 886,
+"group": "sectoren"
+},
+{
+"path": "sectoren/refter-en-bedrijfskeuken-menen.html",
+"title": "Refter en bedrijfskeuken laten poetsen in Menen",
+"words": 964,
+"group": "sectoren"
+},
+{
+"path": "sectoren/refter-en-bedrijfskeuken-harelbeke.html",
+"title": "Refter en bedrijfskeuken laten poetsen in Harelbeke",
+"words": 906,
+"group": "sectoren"
+},
+{
+"path": "sectoren/refter-en-bedrijfskeuken-zwevegem.html",
+"title": "Refter en bedrijfskeuken laten poetsen in Zwevegem",
+"words": 943,
+"group": "sectoren"
+},
+{
+"path": "sectoren/refter-en-bedrijfskeuken-kuurne.html",
+"title": "Refter en bedrijfskeuken laten poetsen in Kuurne",
+"words": 922,
+"group": "sectoren"
+},
+{
+"path": "sectoren/refter-en-bedrijfskeuken-waregem.html",
+"title": "Refter en bedrijfskeuken laten poetsen in Waregem",
+"words": 872,
+"group": "sectoren"
+},
+{
+"path": "sectoren/refter-en-bedrijfskeuken-izegem.html",
+"title": "Refter en bedrijfskeuken laten poetsen in Izegem",
+"words": 867,
+"group": "sectoren"
+},
+{
+"path": "sectoren/sanitair-op-kantoor-kortrijk.html",
+"title": "Sanitair op kantoor laten poetsen in Kortrijk",
+"words": 914,
+"group": "sectoren"
+},
+{
+"path": "sectoren/sanitair-op-kantoor-wevelgem.html",
+"title": "Sanitair op kantoor laten poetsen in Wevelgem",
+"words": 872,
+"group": "sectoren"
+},
+{
+"path": "sectoren/sanitair-op-kantoor-menen.html",
+"title": "Sanitair op kantoor laten poetsen in Menen",
+"words": 856,
+"group": "sectoren"
+},
+{
+"path": "sectoren/sanitair-op-kantoor-harelbeke.html",
+"title": "Sanitair op kantoor laten poetsen in Harelbeke",
+"words": 855,
+"group": "sectoren"
+},
+{
+"path": "sectoren/sanitair-op-kantoor-zwevegem.html",
+"title": "Sanitair op kantoor laten poetsen in Zwevegem",
+"words": 835,
+"group": "sectoren"
+},
+{
+"path": "sectoren/sanitair-op-kantoor-kuurne.html",
+"title": "Sanitair op kantoor laten poetsen in Kuurne",
+"words": 801,
+"group": "sectoren"
+},
+{
+"path": "sectoren/sanitair-op-kantoor-waregem.html",
+"title": "Sanitair op kantoor laten poetsen in Waregem",
+"words": 846,
+"group": "sectoren"
+},
+{
+"path": "sectoren/sanitair-op-kantoor-izegem.html",
+"title": "Sanitair op kantoor laten poetsen in Izegem",
+"words": 810,
+"group": "sectoren"
+},
+{
+"path": "sectoren/vergaderzalen-kortrijk.html",
+"title": "Vergaderzalen laten schoonmaken in Kortrijk",
+"words": 917,
+"group": "sectoren"
+},
+{
+"path": "sectoren/vergaderzalen-wevelgem.html",
+"title": "Vergaderzalen laten schoonmaken in Wevelgem",
+"words": 879,
+"group": "sectoren"
+},
+{
+"path": "sectoren/vergaderzalen-menen.html",
+"title": "Vergaderzalen laten schoonmaken in Menen",
+"words": 913,
+"group": "sectoren"
+},
+{
+"path": "sectoren/vergaderzalen-harelbeke.html",
+"title": "Vergaderzalen laten schoonmaken in Harelbeke",
+"words": 969,
+"group": "sectoren"
+},
+{
+"path": "sectoren/vergaderzalen-zwevegem.html",
+"title": "Vergaderzalen laten schoonmaken in Zwevegem",
+"words": 928,
+"group": "sectoren"
+},
+{
+"path": "sectoren/vergaderzalen-kuurne.html",
+"title": "Vergaderzalen laten schoonmaken in Kuurne",
+"words": 882,
+"group": "sectoren"
+},
+{
+"path": "sectoren/vergaderzalen-waregem.html",
+"title": "Vergaderzalen laten schoonmaken in Waregem",
+"words": 904,
+"group": "sectoren"
+},
+{
+"path": "sectoren/vergaderzalen-izegem.html",
+"title": "Vergaderzalen laten schoonmaken in Izegem",
+"words": 939,
+"group": "sectoren"
+},
+{
+"path": "sectoren/onthaal-en-wachtruimte-kortrijk.html",
+"title": "Onthaal en wachtruimte laten poetsen in Kortrijk",
+"words": 814,
+"group": "sectoren"
+},
+{
+"path": "sectoren/onthaal-en-wachtruimte-wevelgem.html",
+"title": "Onthaal en wachtruimte laten poetsen in Wevelgem",
+"words": 862,
+"group": "sectoren"
+},
+{
+"path": "sectoren/onthaal-en-wachtruimte-menen.html",
+"title": "Onthaal en wachtruimte laten poetsen in Menen",
+"words": 954,
+"group": "sectoren"
+},
+{
+"path": "sectoren/onthaal-en-wachtruimte-harelbeke.html",
+"title": "Onthaal en wachtruimte laten poetsen in Harelbeke",
+"words": 837,
+"group": "sectoren"
+},
+{
+"path": "sectoren/onthaal-en-wachtruimte-zwevegem.html",
+"title": "Onthaal en wachtruimte laten poetsen in Zwevegem",
+"words": 880,
+"group": "sectoren"
+},
+{
+"path": "sectoren/onthaal-en-wachtruimte-kuurne.html",
+"title": "Onthaal en wachtruimte laten poetsen in Kuurne",
+"words": 972,
+"group": "sectoren"
+},
+{
+"path": "sectoren/onthaal-en-wachtruimte-waregem.html",
+"title": "Onthaal en wachtruimte laten poetsen in Waregem",
+"words": 935,
+"group": "sectoren"
+},
+{
+"path": "sectoren/onthaal-en-wachtruimte-izegem.html",
+"title": "Onthaal en wachtruimte laten poetsen in Izegem",
+"words": 830,
+"group": "sectoren"
+},
+{
+"path": "sectoren/kleedkamers-en-douches-kortrijk.html",
+"title": "Kleedkamers en douches op het werk laten poetsen in Kortrijk",
+"words": 908,
+"group": "sectoren"
+},
+{
+"path": "sectoren/kleedkamers-en-douches-wevelgem.html",
+"title": "Kleedkamers en douches op het werk laten poetsen in Wevelgem",
+"words": 802,
+"group": "sectoren"
+},
+{
+"path": "sectoren/kleedkamers-en-douches-menen.html",
+"title": "Kleedkamers en douches op het werk laten poetsen in Menen",
+"words": 844,
+"group": "sectoren"
+},
+{
+"path": "sectoren/kleedkamers-en-douches-harelbeke.html",
+"title": "Kleedkamers en douches op het werk laten poetsen in Harelbeke",
+"words": 886,
+"group": "sectoren"
+},
+{
+"path": "sectoren/kleedkamers-en-douches-zwevegem.html",
+"title": "Kleedkamers en douches op het werk laten poetsen in Zwevegem",
+"words": 828,
+"group": "sectoren"
+},
+{
+"path": "sectoren/kleedkamers-en-douches-kuurne.html",
+"title": "Kleedkamers en douches op het werk laten poetsen in Kuurne",
+"words": 882,
+"group": "sectoren"
+},
+{
+"path": "sectoren/kleedkamers-en-douches-waregem.html",
+"title": "Kleedkamers en douches op het werk laten poetsen in Waregem",
+"words": 931,
+"group": "sectoren"
+},
+{
+"path": "sectoren/kleedkamers-en-douches-izegem.html",
+"title": "Kleedkamers en douches op het werk laten poetsen in Izegem",
+"words": 831,
+"group": "sectoren"
+},
+{
+"path": "sectoren/kleine-kantoren-checklist.html",
+"title": "Schoonmaakchecklist voor kleine kantoren",
+"words": 889,
+"group": "sectoren"
+},
+{
+"path": "sectoren/kleine-kantoren-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor kleine kantoren",
+"words": 811,
+"group": "sectoren"
+},
+{
+"path": "sectoren/kleine-kantoren-regio-kortrijk.html",
+"title": "Poetshulp voor kleine kantoren in Kortrijk en omgeving",
+"words": 931,
+"group": "sectoren"
+},
+{
+"path": "sectoren/kmo-checklist.html",
+"title": "Schoonmaakchecklist voor kmo's",
+"words": 960,
+"group": "sectoren"
+},
+{
+"path": "sectoren/kmo-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor kmo's",
+"words": 872,
+"group": "sectoren"
+},
+{
+"path": "sectoren/kmo-regio-kortrijk.html",
+"title": "Poetshulp voor kmo's in Kortrijk en omgeving",
+"words": 867,
+"group": "sectoren"
+},
+{
+"path": "sectoren/coworkings-checklist.html",
+"title": "Schoonmaakchecklist voor coworkings en gedeelde kantoren",
+"words": 873,
+"group": "sectoren"
+},
+{
+"path": "sectoren/coworkings-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor coworkings en gedeelde kantoren",
+"words": 864,
+"group": "sectoren"
+},
+{
+"path": "sectoren/coworkings-regio-kortrijk.html",
+"title": "Poetshulp voor coworkings en gedeelde kantoren in Kortrijk en omgeving",
+"words": 801,
+"group": "sectoren"
+},
+{
+"path": "sectoren/winkels-checklist.html",
+"title": "Schoonmaakchecklist voor winkels en boetieks",
+"words": 822,
+"group": "sectoren"
+},
+{
+"path": "sectoren/winkels-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor winkels en boetieks",
+"words": 883,
+"group": "sectoren"
+},
+{
+"path": "sectoren/winkels-regio-kortrijk.html",
+"title": "Poetshulp voor winkels en boetieks in Kortrijk en omgeving",
+"words": 915,
+"group": "sectoren"
+},
+{
+"path": "sectoren/showrooms-checklist.html",
+"title": "Schoonmaakchecklist voor showrooms",
+"words": 902,
+"group": "sectoren"
+},
+{
+"path": "sectoren/showrooms-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor showrooms",
+"words": 902,
+"group": "sectoren"
+},
+{
+"path": "sectoren/showrooms-regio-kortrijk.html",
+"title": "Poetshulp voor showrooms in Kortrijk en omgeving",
+"words": 786,
+"group": "sectoren"
+},
+{
+"path": "sectoren/kapsalons-checklist.html",
+"title": "Schoonmaakchecklist voor kapsalons",
+"words": 846,
+"group": "sectoren"
+},
+{
+"path": "sectoren/kapsalons-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor kapsalons",
+"words": 950,
+"group": "sectoren"
+},
+{
+"path": "sectoren/kapsalons-regio-kortrijk.html",
+"title": "Poetshulp voor kapsalons in Kortrijk en omgeving",
+"words": 844,
+"group": "sectoren"
+},
+{
+"path": "sectoren/schoonheidsinstituten-checklist.html",
+"title": "Schoonmaakchecklist voor schoonheidsinstituten",
+"words": 860,
+"group": "sectoren"
+},
+{
+"path": "sectoren/schoonheidsinstituten-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor schoonheidsinstituten",
+"words": 946,
+"group": "sectoren"
+},
+{
+"path": "sectoren/schoonheidsinstituten-regio-kortrijk.html",
+"title": "Poetshulp voor schoonheidsinstituten in Kortrijk en omgeving",
+"words": 843,
+"group": "sectoren"
+},
+{
+"path": "sectoren/groepspraktijken-checklist.html",
+"title": "Schoonmaakchecklist voor groepspraktijken",
+"words": 801,
+"group": "sectoren"
+},
+{
+"path": "sectoren/groepspraktijken-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor groepspraktijken",
+"words": 893,
+"group": "sectoren"
+},
+{
+"path": "sectoren/groepspraktijken-regio-kortrijk.html",
+"title": "Poetshulp voor groepspraktijken in Kortrijk en omgeving",
+"words": 950,
+"group": "sectoren"
+},
+{
+"path": "sectoren/paramedische-praktijken-checklist.html",
+"title": "Schoonmaakchecklist voor paramedische praktijken",
+"words": 898,
+"group": "sectoren"
+},
+{
+"path": "sectoren/paramedische-praktijken-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor paramedische praktijken",
+"words": 812,
+"group": "sectoren"
+},
+{
+"path": "sectoren/paramedische-praktijken-regio-kortrijk.html",
+"title": "Poetshulp voor paramedische praktijken in Kortrijk en omgeving",
+"words": 807,
+"group": "sectoren"
+},
+{
+"path": "sectoren/it-bedrijven-checklist.html",
+"title": "Schoonmaakchecklist voor IT-bedrijven",
+"words": 825,
+"group": "sectoren"
+},
+{
+"path": "sectoren/it-bedrijven-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor IT-bedrijven",
+"words": 882,
+"group": "sectoren"
+},
+{
+"path": "sectoren/it-bedrijven-regio-kortrijk.html",
+"title": "Poetshulp voor IT-bedrijven in Kortrijk en omgeving",
+"words": 932,
+"group": "sectoren"
+},
+{
+"path": "sectoren/start-ups-checklist.html",
+"title": "Schoonmaakchecklist voor start-ups en scale-ups",
+"words": 863,
+"group": "sectoren"
+},
+{
+"path": "sectoren/start-ups-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor start-ups en scale-ups",
+"words": 856,
+"group": "sectoren"
+},
+{
+"path": "sectoren/start-ups-regio-kortrijk.html",
+"title": "Poetshulp voor start-ups en scale-ups in Kortrijk en omgeving",
+"words": 778,
+"group": "sectoren"
+},
+{
+"path": "sectoren/bouwbedrijven-checklist.html",
+"title": "Schoonmaakchecklist voor bouwbedrijven",
+"words": 876,
+"group": "sectoren"
+},
+{
+"path": "sectoren/bouwbedrijven-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor bouwbedrijven",
+"words": 933,
+"group": "sectoren"
+},
+{
+"path": "sectoren/bouwbedrijven-regio-kortrijk.html",
+"title": "Poetshulp voor bouwbedrijven in Kortrijk en omgeving",
+"words": 809,
+"group": "sectoren"
+},
+{
+"path": "sectoren/transportbedrijven-checklist.html",
+"title": "Schoonmaakchecklist voor transportbedrijven",
+"words": 795,
+"group": "sectoren"
+},
+{
+"path": "sectoren/transportbedrijven-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor transportbedrijven",
+"words": 899,
+"group": "sectoren"
+},
+{
+"path": "sectoren/transportbedrijven-regio-kortrijk.html",
+"title": "Poetshulp voor transportbedrijven in Kortrijk en omgeving",
+"words": 814,
+"group": "sectoren"
+},
+{
+"path": "sectoren/productiebedrijven-checklist.html",
+"title": "Schoonmaakchecklist voor de kantoren van productiebedrijven",
+"words": 916,
+"group": "sectoren"
+},
+{
+"path": "sectoren/productiebedrijven-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor de kantoren van productiebedrijven",
+"words": 813,
+"group": "sectoren"
+},
+{
+"path": "sectoren/productiebedrijven-regio-kortrijk.html",
+"title": "Poetshulp voor de kantoren van productiebedrijven in Kortrijk en omgeving",
+"words": 875,
+"group": "sectoren"
+},
+{
+"path": "sectoren/autobedrijven-checklist.html",
+"title": "Schoonmaakchecklist voor garages en autobedrijven",
+"words": 897,
+"group": "sectoren"
+},
+{
+"path": "sectoren/autobedrijven-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor garages en autobedrijven",
+"words": 908,
+"group": "sectoren"
+},
+{
+"path": "sectoren/autobedrijven-regio-kortrijk.html",
+"title": "Poetshulp voor garages en autobedrijven in Kortrijk en omgeving",
+"words": 827,
+"group": "sectoren"
+},
+{
+"path": "sectoren/interieurzaken-checklist.html",
+"title": "Schoonmaakchecklist voor interieurzaken",
+"words": 797,
+"group": "sectoren"
+},
+{
+"path": "sectoren/interieurzaken-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor interieurzaken",
+"words": 906,
+"group": "sectoren"
+},
+{
+"path": "sectoren/interieurzaken-regio-kortrijk.html",
+"title": "Poetshulp voor interieurzaken in Kortrijk en omgeving",
+"words": 847,
+"group": "sectoren"
+},
+{
+"path": "sectoren/opticiens-checklist.html",
+"title": "Schoonmaakchecklist voor opticiens",
+"words": 825,
+"group": "sectoren"
+},
+{
+"path": "sectoren/opticiens-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor opticiens",
+"words": 826,
+"group": "sectoren"
+},
+{
+"path": "sectoren/opticiens-regio-kortrijk.html",
+"title": "Poetshulp voor opticiens in Kortrijk en omgeving",
+"words": 890,
+"group": "sectoren"
+},
+{
+"path": "sectoren/reisbureaus-checklist.html",
+"title": "Schoonmaakchecklist voor reisbureaus",
+"words": 871,
+"group": "sectoren"
+},
+{
+"path": "sectoren/reisbureaus-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor reisbureaus",
+"words": 807,
+"group": "sectoren"
+},
+{
+"path": "sectoren/reisbureaus-regio-kortrijk.html",
+"title": "Poetshulp voor reisbureaus in Kortrijk en omgeving",
+"words": 842,
+"group": "sectoren"
+},
+{
+"path": "sectoren/fitness-en-yogastudios-checklist.html",
+"title": "Schoonmaakchecklist voor fitness- en yogastudio's",
+"words": 816,
+"group": "sectoren"
+},
+{
+"path": "sectoren/fitness-en-yogastudios-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor fitness- en yogastudio's",
+"words": 931,
+"group": "sectoren"
+},
+{
+"path": "sectoren/fitness-en-yogastudios-regio-kortrijk.html",
+"title": "Poetshulp voor fitness- en yogastudio's in Kortrijk en omgeving",
+"words": 957,
+"group": "sectoren"
+},
+{
+"path": "sectoren/vzw-checklist.html",
+"title": "Schoonmaakchecklist voor vzw's en verenigingen",
+"words": 878,
+"group": "sectoren"
+},
+{
+"path": "sectoren/vzw-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor vzw's en verenigingen",
+"words": 963,
+"group": "sectoren"
+},
+{
+"path": "sectoren/vzw-regio-kortrijk.html",
+"title": "Poetshulp voor vzw's en verenigingen in Kortrijk en omgeving",
+"words": 805,
+"group": "sectoren"
+},
+{
+"path": "sectoren/webshops-checklist.html",
+"title": "Schoonmaakchecklist voor webshops met kantoor en magazijn",
+"words": 867,
+"group": "sectoren"
+},
+{
+"path": "sectoren/webshops-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor webshops met kantoor en magazijn",
+"words": 874,
+"group": "sectoren"
+},
+{
+"path": "sectoren/webshops-regio-kortrijk.html",
+"title": "Poetshulp voor webshops met kantoor en magazijn in Kortrijk en omgeving",
+"words": 836,
+"group": "sectoren"
+},
+{
+"path": "sectoren/familiebedrijven-checklist.html",
+"title": "Schoonmaakchecklist voor familiebedrijven",
+"words": 854,
+"group": "sectoren"
+},
+{
+"path": "sectoren/familiebedrijven-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor familiebedrijven",
+"words": 935,
+"group": "sectoren"
+},
+{
+"path": "sectoren/familiebedrijven-regio-kortrijk.html",
+"title": "Poetshulp voor familiebedrijven in Kortrijk en omgeving",
+"words": 784,
+"group": "sectoren"
+},
+{
+"path": "sectoren/landbouwbedrijven-checklist.html",
+"title": "Schoonmaakchecklist voor landbouwbedrijven",
+"words": 920,
+"group": "sectoren"
+},
+{
+"path": "sectoren/landbouwbedrijven-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor landbouwbedrijven",
+"words": 853,
+"group": "sectoren"
+},
+{
+"path": "sectoren/landbouwbedrijven-regio-kortrijk.html",
+"title": "Poetshulp voor landbouwbedrijven in Kortrijk en omgeving",
+"words": 934,
+"group": "sectoren"
+},
+{
+"path": "sectoren/installateurs-checklist.html",
+"title": "Schoonmaakchecklist voor installateurs en technische bedrijven",
+"words": 786,
+"group": "sectoren"
+},
+{
+"path": "sectoren/installateurs-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor installateurs en technische bedrijven",
+"words": 938,
+"group": "sectoren"
+},
+{
+"path": "sectoren/installateurs-regio-kortrijk.html",
+"title": "Poetshulp voor installateurs en technische bedrijven in Kortrijk en omgeving",
+"words": 955,
+"group": "sectoren"
+},
+{
+"path": "sectoren/interimkantoren-checklist.html",
+"title": "Schoonmaakchecklist voor interimkantoren",
+"words": 831,
+"group": "sectoren"
+},
+{
+"path": "sectoren/interimkantoren-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor interimkantoren",
+"words": 879,
+"group": "sectoren"
+},
+{
+"path": "sectoren/interimkantoren-regio-kortrijk.html",
+"title": "Poetshulp voor interimkantoren in Kortrijk en omgeving",
+"words": 886,
+"group": "sectoren"
+},
+{
+"path": "sectoren/drukkerijen-checklist.html",
+"title": "Schoonmaakchecklist voor drukkerijen",
+"words": 806,
+"group": "sectoren"
+},
+{
+"path": "sectoren/drukkerijen-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor drukkerijen",
+"words": 910,
+"group": "sectoren"
+},
+{
+"path": "sectoren/drukkerijen-regio-kortrijk.html",
+"title": "Poetshulp voor drukkerijen in Kortrijk en omgeving",
+"words": 809,
+"group": "sectoren"
+},
+{
+"path": "sectoren/eventbureaus-checklist.html",
+"title": "Schoonmaakchecklist voor eventbureaus",
+"words": 847,
+"group": "sectoren"
+},
+{
+"path": "sectoren/eventbureaus-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor eventbureaus",
+"words": 889,
+"group": "sectoren"
+},
+{
+"path": "sectoren/eventbureaus-regio-kortrijk.html",
+"title": "Poetshulp voor eventbureaus in Kortrijk en omgeving",
+"words": 772,
+"group": "sectoren"
+},
+{
+"path": "sectoren/rijscholen-checklist.html",
+"title": "Schoonmaakchecklist voor rijscholen",
+"words": 881,
+"group": "sectoren"
+},
+{
+"path": "sectoren/rijscholen-zaak-en-woning.html",
+"title": "Zaak en woning in één plan: hulp voor rijscholen",
+"words": 940,
+"group": "sectoren"
+},
+{
+"path": "sectoren/rijscholen-regio-kortrijk.html",
+"title": "Poetshulp voor rijscholen in Kortrijk en omgeving",
+"words": 810,
+"group": "sectoren"
+},
+{
+"path": "regio/au-pair-alternatief-kortrijk.html",
+"title": "Alternatief voor een au pair voor ondernemers in Kortrijk",
+"words": 1017,
+"group": "regio"
+},
+{
+"path": "regio/au-pair-alternatief-roeselare.html",
+"title": "Alternatief voor een au pair voor ondernemers in Roeselare",
+"words": 1130,
+"group": "regio"
+},
+{
+"path": "regio/au-pair-alternatief-waregem.html",
+"title": "Alternatief voor een au pair voor ondernemers in Waregem",
+"words": 1090,
+"group": "regio"
+},
+{
+"path": "regio/au-pair-alternatief-ieper.html",
+"title": "Alternatief voor een au pair voor ondernemers in Ieper",
+"words": 953,
+"group": "regio"
+},
+{
+"path": "regio/au-pair-alternatief-izegem.html",
+"title": "Alternatief voor een au pair voor ondernemers in Izegem",
+"words": 975,
+"group": "regio"
+},
+{
+"path": "regio/au-pair-alternatief-menen.html",
+"title": "Alternatief voor een au pair voor ondernemers in Menen",
+"words": 1144,
+"group": "regio"
+},
+{
+"path": "regio/au-pair-alternatief-harelbeke.html",
+"title": "Alternatief voor een au pair voor ondernemers in Harelbeke",
+"words": 1081,
+"group": "regio"
+},
+{
+"path": "regio/au-pair-alternatief-wevelgem.html",
+"title": "Alternatief voor een au pair voor ondernemers in Wevelgem",
+"words": 1068,
+"group": "regio"
+},
+{
+"path": "regio/au-pair-alternatief-tielt.html",
+"title": "Alternatief voor een au pair voor ondernemers in Tielt",
+"words": 1239,
+"group": "regio"
+},
+{
+"path": "regio/au-pair-alternatief-oudenaarde.html",
+"title": "Alternatief voor een au pair voor ondernemers in Oudenaarde",
+"words": 1131,
+"group": "regio"
+},
+{
+"path": "regio/au-pair-alternatief-brugge.html",
+"title": "Alternatief voor een au pair voor ondernemers in Brugge",
+"words": 1072,
+"group": "regio"
+},
+{
+"path": "regio/au-pair-alternatief-gent.html",
+"title": "Alternatief voor een au pair voor ondernemers in Gent",
+"words": 1044,
+"group": "regio"
+},
+{
+"path": "regio/vaste-huishoudhulp-ipv-au-pair-kortrijk.html",
+"title": "Vaste huishoudhulp in plaats van een au pair in Kortrijk",
+"words": 1020,
+"group": "regio"
+},
+{
+"path": "regio/vaste-huishoudhulp-ipv-au-pair-roeselare.html",
+"title": "Vaste huishoudhulp in plaats van een au pair in Roeselare",
+"words": 1026,
+"group": "regio"
+},
+{
+"path": "regio/vaste-huishoudhulp-ipv-au-pair-waregem.html",
+"title": "Vaste huishoudhulp in plaats van een au pair in Waregem",
+"words": 1013,
+"group": "regio"
+},
+{
+"path": "regio/vaste-huishoudhulp-ipv-au-pair-ieper.html",
+"title": "Vaste huishoudhulp in plaats van een au pair in Ieper",
+"words": 1096,
+"group": "regio"
+},
+{
+"path": "regio/vaste-huishoudhulp-ipv-au-pair-izegem.html",
+"title": "Vaste huishoudhulp in plaats van een au pair in Izegem",
+"words": 1058,
+"group": "regio"
+},
+{
+"path": "regio/vaste-huishoudhulp-ipv-au-pair-menen.html",
+"title": "Vaste huishoudhulp in plaats van een au pair in Menen",
+"words": 1047,
+"group": "regio"
+},
+{
+"path": "regio/vaste-huishoudhulp-ipv-au-pair-harelbeke.html",
+"title": "Vaste huishoudhulp in plaats van een au pair in Harelbeke",
+"words": 1087,
+"group": "regio"
+},
+{
+"path": "regio/vaste-huishoudhulp-ipv-au-pair-wevelgem.html",
+"title": "Vaste huishoudhulp in plaats van een au pair in Wevelgem",
+"words": 1098,
+"group": "regio"
+},
+{
+"path": "regio/vaste-huishoudhulp-ipv-au-pair-tielt.html",
+"title": "Vaste huishoudhulp in plaats van een au pair in Tielt",
+"words": 1006,
+"group": "regio"
+},
+{
+"path": "regio/vaste-huishoudhulp-ipv-au-pair-oudenaarde.html",
+"title": "Vaste huishoudhulp in plaats van een au pair in Oudenaarde",
+"words": 1107,
+"group": "regio"
+},
+{
+"path": "regio/vaste-huishoudhulp-ipv-au-pair-brugge.html",
+"title": "Vaste huishoudhulp in plaats van een au pair in Brugge",
+"words": 912,
+"group": "regio"
+},
+{
+"path": "regio/vaste-huishoudhulp-ipv-au-pair-gent.html",
+"title": "Vaste huishoudhulp in plaats van een au pair in Gent",
+"words": 960,
+"group": "regio"
+},
+{
+"path": "regio/hulp-ondernemersgezin-schoolkinderen-kortrijk.html",
+"title": "Hulp voor ondernemersgezinnen met schoolkinderen in Kortrijk",
+"words": 987,
+"group": "regio"
+},
+{
+"path": "regio/hulp-ondernemersgezin-schoolkinderen-roeselare.html",
+"title": "Hulp voor ondernemersgezinnen met schoolkinderen in Roeselare",
+"words": 1030,
+"group": "regio"
+},
+{
+"path": "regio/hulp-ondernemersgezin-schoolkinderen-waregem.html",
+"title": "Hulp voor ondernemersgezinnen met schoolkinderen in Waregem",
+"words": 1007,
+"group": "regio"
+},
+{
+"path": "regio/hulp-ondernemersgezin-schoolkinderen-ieper.html",
+"title": "Hulp voor ondernemersgezinnen met schoolkinderen in Ieper",
+"words": 1110,
+"group": "regio"
+},
+{
+"path": "regio/hulp-ondernemersgezin-schoolkinderen-izegem.html",
+"title": "Hulp voor ondernemersgezinnen met schoolkinderen in Izegem",
+"words": 1110,
+"group": "regio"
+},
+{
+"path": "regio/hulp-ondernemersgezin-schoolkinderen-menen.html",
+"title": "Hulp voor ondernemersgezinnen met schoolkinderen in Menen",
+"words": 993,
+"group": "regio"
+},
+{
+"path": "regio/hulp-ondernemersgezin-schoolkinderen-harelbeke.html",
+"title": "Hulp voor ondernemersgezinnen met schoolkinderen in Harelbeke",
+"words": 1078,
+"group": "regio"
+},
+{
+"path": "regio/hulp-ondernemersgezin-schoolkinderen-wevelgem.html",
+"title": "Hulp voor ondernemersgezinnen met schoolkinderen in Wevelgem",
+"words": 1100,
+"group": "regio"
+},
+{
+"path": "regio/hulp-ondernemersgezin-schoolkinderen-tielt.html",
+"title": "Hulp voor ondernemersgezinnen met schoolkinderen in Tielt",
+"words": 1106,
+"group": "regio"
+},
+{
+"path": "regio/hulp-ondernemersgezin-schoolkinderen-oudenaarde.html",
+"title": "Hulp voor ondernemersgezinnen met schoolkinderen in Oudenaarde",
+"words": 1007,
+"group": "regio"
+},
+{
+"path": "regio/hulp-ondernemersgezin-schoolkinderen-brugge.html",
+"title": "Hulp voor ondernemersgezinnen met schoolkinderen in Brugge",
+"words": 844,
+"group": "regio"
+},
+{
+"path": "regio/hulp-ondernemersgezin-schoolkinderen-gent.html",
+"title": "Hulp voor ondernemersgezinnen met schoolkinderen in Gent",
+"words": 993,
+"group": "regio"
+},
+{
+"path": "regio/kinderen-ophalen-school-kortrijk.html",
+"title": "Kinderen laten ophalen van school in Kortrijk",
+"words": 1002,
+"group": "regio"
+},
+{
+"path": "regio/kinderen-ophalen-school-roeselare.html",
+"title": "Kinderen laten ophalen van school in Roeselare",
+"words": 951,
+"group": "regio"
+},
+{
+"path": "regio/kinderen-ophalen-school-waregem.html",
+"title": "Kinderen laten ophalen van school in Waregem",
+"words": 926,
+"group": "regio"
+},
+{
+"path": "regio/kinderen-ophalen-school-ieper.html",
+"title": "Kinderen laten ophalen van school in Ieper",
+"words": 1029,
+"group": "regio"
+},
+{
+"path": "regio/kinderen-ophalen-school-izegem.html",
+"title": "Kinderen laten ophalen van school in Izegem",
+"words": 975,
+"group": "regio"
+},
+{
+"path": "regio/kinderen-ophalen-school-menen.html",
+"title": "Kinderen laten ophalen van school in Menen",
+"words": 1018,
+"group": "regio"
+},
+{
+"path": "regio/kinderen-ophalen-school-harelbeke.html",
+"title": "Kinderen laten ophalen van school in Harelbeke",
+"words": 990,
+"group": "regio"
+},
+{
+"path": "regio/kinderen-ophalen-school-wevelgem.html",
+"title": "Kinderen laten ophalen van school in Wevelgem",
+"words": 1087,
+"group": "regio"
+},
+{
+"path": "regio/kinderen-ophalen-school-tielt.html",
+"title": "Kinderen laten ophalen van school in Tielt",
+"words": 893,
+"group": "regio"
+},
+{
+"path": "regio/kinderen-ophalen-school-oudenaarde.html",
+"title": "Kinderen laten ophalen van school in Oudenaarde",
+"words": 876,
+"group": "regio"
+},
+{
+"path": "regio/kinderen-ophalen-school-brugge.html",
+"title": "Kinderen laten ophalen van school in Brugge",
+"words": 1100,
+"group": "regio"
+},
+{
+"path": "regio/kinderen-ophalen-school-gent.html",
+"title": "Kinderen laten ophalen van school in Gent",
+"words": 998,
+"group": "regio"
+},
+{
+"path": "regio/opvang-na-school-kortrijk.html",
+"title": "Opvang na school aan huis in Kortrijk",
+"words": 1002,
+"group": "regio"
+},
+{
+"path": "regio/opvang-na-school-roeselare.html",
+"title": "Opvang na school aan huis in Roeselare",
+"words": 949,
+"group": "regio"
+},
+{
+"path": "regio/opvang-na-school-waregem.html",
+"title": "Opvang na school aan huis in Waregem",
+"words": 896,
+"group": "regio"
+},
+{
+"path": "regio/opvang-na-school-ieper.html",
+"title": "Opvang na school aan huis in Ieper",
+"words": 947,
+"group": "regio"
+},
+{
+"path": "regio/opvang-na-school-izegem.html",
+"title": "Opvang na school aan huis in Izegem",
+"words": 957,
+"group": "regio"
+},
+{
+"path": "regio/opvang-na-school-menen.html",
+"title": "Opvang na school aan huis in Menen",
+"words": 924,
+"group": "regio"
+},
+{
+"path": "regio/opvang-na-school-harelbeke.html",
+"title": "Opvang na school aan huis in Harelbeke",
+"words": 1089,
+"group": "regio"
+},
+{
+"path": "regio/opvang-na-school-wevelgem.html",
+"title": "Opvang na school aan huis in Wevelgem",
+"words": 865,
+"group": "regio"
+},
+{
+"path": "regio/opvang-na-school-tielt.html",
+"title": "Opvang na school aan huis in Tielt",
+"words": 845,
+"group": "regio"
+},
+{
+"path": "regio/opvang-na-school-oudenaarde.html",
+"title": "Opvang na school aan huis in Oudenaarde",
+"words": 998,
+"group": "regio"
+},
+{
+"path": "regio/opvang-na-school-brugge.html",
+"title": "Opvang na school aan huis in Brugge",
+"words": 966,
+"group": "regio"
+},
+{
+"path": "regio/opvang-na-school-gent.html",
+"title": "Opvang na school aan huis in Gent",
+"words": 1100,
+"group": "regio"
+},
+{
+"path": "regio/opvang-woensdagnamiddag-kortrijk.html",
+"title": "Opvang op woensdagnamiddag in Kortrijk",
+"words": 958,
+"group": "regio"
+},
+{
+"path": "regio/opvang-woensdagnamiddag-roeselare.html",
+"title": "Opvang op woensdagnamiddag in Roeselare",
+"words": 1073,
+"group": "regio"
+},
+{
+"path": "regio/opvang-woensdagnamiddag-waregem.html",
+"title": "Opvang op woensdagnamiddag in Waregem",
+"words": 1026,
+"group": "regio"
+},
+{
+"path": "regio/opvang-woensdagnamiddag-ieper.html",
+"title": "Opvang op woensdagnamiddag in Ieper",
+"words": 1095,
+"group": "regio"
+},
+{
+"path": "regio/opvang-woensdagnamiddag-izegem.html",
+"title": "Opvang op woensdagnamiddag in Izegem",
+"words": 1006,
+"group": "regio"
+},
+{
+"path": "regio/opvang-woensdagnamiddag-menen.html",
+"title": "Opvang op woensdagnamiddag in Menen",
+"words": 1021,
+"group": "regio"
+},
+{
+"path": "regio/opvang-woensdagnamiddag-harelbeke.html",
+"title": "Opvang op woensdagnamiddag in Harelbeke",
+"words": 1069,
+"group": "regio"
+},
+{
+"path": "regio/opvang-woensdagnamiddag-wevelgem.html",
+"title": "Opvang op woensdagnamiddag in Wevelgem",
+"words": 1036,
+"group": "regio"
+},
+{
+"path": "regio/opvang-woensdagnamiddag-tielt.html",
+"title": "Opvang op woensdagnamiddag in Tielt",
+"words": 980,
+"group": "regio"
+},
+{
+"path": "regio/opvang-woensdagnamiddag-oudenaarde.html",
+"title": "Opvang op woensdagnamiddag in Oudenaarde",
+"words": 965,
+"group": "regio"
+},
+{
+"path": "regio/opvang-woensdagnamiddag-brugge.html",
+"title": "Opvang op woensdagnamiddag in Brugge",
+"words": 853,
+"group": "regio"
+},
+{
+"path": "regio/opvang-woensdagnamiddag-gent.html",
+"title": "Opvang op woensdagnamiddag in Gent",
+"words": 1041,
+"group": "regio"
+},
+{
+"path": "regio/vieruurtje-en-avondeten-kortrijk.html",
+"title": "Vieruurtje en avondeten voor schoolkinderen in Kortrijk",
+"words": 1010,
+"group": "regio"
+},
+{
+"path": "regio/vieruurtje-en-avondeten-roeselare.html",
+"title": "Vieruurtje en avondeten voor schoolkinderen in Roeselare",
+"words": 952,
+"group": "regio"
+},
+{
+"path": "regio/vieruurtje-en-avondeten-waregem.html",
+"title": "Vieruurtje en avondeten voor schoolkinderen in Waregem",
+"words": 881,
+"group": "regio"
+},
+{
+"path": "regio/vieruurtje-en-avondeten-ieper.html",
+"title": "Vieruurtje en avondeten voor schoolkinderen in Ieper",
+"words": 964,
+"group": "regio"
+},
+{
+"path": "regio/vieruurtje-en-avondeten-izegem.html",
+"title": "Vieruurtje en avondeten voor schoolkinderen in Izegem",
+"words": 868,
+"group": "regio"
+},
+{
+"path": "regio/vieruurtje-en-avondeten-menen.html",
+"title": "Vieruurtje en avondeten voor schoolkinderen in Menen",
+"words": 882,
+"group": "regio"
+},
+{
+"path": "regio/vieruurtje-en-avondeten-harelbeke.html",
+"title": "Vieruurtje en avondeten voor schoolkinderen in Harelbeke",
+"words": 940,
+"group": "regio"
+},
+{
+"path": "regio/vieruurtje-en-avondeten-wevelgem.html",
+"title": "Vieruurtje en avondeten voor schoolkinderen in Wevelgem",
+"words": 1049,
+"group": "regio"
+},
+{
+"path": "regio/vieruurtje-en-avondeten-tielt.html",
+"title": "Vieruurtje en avondeten voor schoolkinderen in Tielt",
+"words": 891,
+"group": "regio"
+},
+{
+"path": "regio/vieruurtje-en-avondeten-oudenaarde.html",
+"title": "Vieruurtje en avondeten voor schoolkinderen in Oudenaarde",
+"words": 857,
+"group": "regio"
+},
+{
+"path": "regio/vieruurtje-en-avondeten-brugge.html",
+"title": "Vieruurtje en avondeten voor schoolkinderen in Brugge",
+"words": 1018,
+"group": "regio"
+},
+{
+"path": "regio/vieruurtje-en-avondeten-gent.html",
+"title": "Vieruurtje en avondeten voor schoolkinderen in Gent",
+"words": 979,
+"group": "regio"
+},
+{
+"path": "vragen/au-pair-of-huishoudhulp-voor-ondernemers.html",
+"title": "Au pair of huishoudhulp: wat past bij een ondernemersgezin?",
+"words": 1011,
+"group": "vragen"
+},
+{
+"path": "vragen/hulp-in-huis-zonder-au-pair.html",
+"title": "Kan je hulp in huis hebben zonder een au pair in huis te nemen?",
+"words": 950,
+"group": "vragen"
+},
+{
+"path": "vragen/wat-doet-een-au-pair-algemeen.html",
+"title": "Wat doet een au pair doorgaans, en waar kijk je best naar de regels?",
+"words": 859,
+"group": "vragen"
+},
+{
+"path": "vragen/vaste-hulp-voor-druk-ondernemersgezin.html",
+"title": "Hoe organiseer je vaste hulp in huis als beide ouders ondernemen?",
+"words": 981,
+"group": "vragen"
+},
+{
+"path": "vragen/wie-haalt-kinderen-van-school-ondernemer.html",
+"title": "Wie haalt je kinderen van school als je zelf een zaak runt?",
+"words": 845,
+"group": "vragen"
+},
+{
+"path": "vragen/hulp-in-huis-zonder-inwonende-persoon.html",
+"title": "Hoe regel je hulp in huis zonder dat er iemand bij je inwoont?",
+"words": 858,
+"group": "vragen"
+},
+{
+"path": "vragen/verschil-au-pair-en-vaste-huishoudhulp.html",
+"title": "Wat is het verschil tussen een au pair en een vaste huishoudhulp?",
+"words": 992,
+"group": "vragen"
+},
+{
+"path": "vragen/hulp-in-huis-als-je-veel-onderweg-bent.html",
+"title": "Welke hulp in huis past als je veel onderweg bent voor je zaak?",
+"words": 933,
+"group": "vragen"
+},
+{
+"path": "vragen/hulp-in-huis-tijdens-schoolvakanties.html",
+"title": "Hoe regel je hulp in huis tijdens de schoolvakanties?",
+"words": 959,
+"group": "vragen"
+},
+{
+"path": "vragen/privacy-gezin-en-huishoudhulp.html",
+"title": "Hoe gaat een huishoudhulp om met de privacy van je gezin?",
+"words": 900,
+"group": "vragen"
+},
+{
+"path": "vragen/vertrouwen-opbouwen-met-huishoudhulp.html",
+"title": "Hoe bouw je vertrouwen op met iemand die bij je thuis komt?",
+"words": 956,
+"group": "vragen"
+},
+{
+"path": "vragen/sleutel-en-toegang-huishoudhulp.html",
+"title": "Hoe regel je de sleutel en de toegang voor je huishoudhulp?",
+"words": 924,
+"group": "vragen"
+},
+{
+"path": "vragen/huishoudhulp-en-hond-uitlaten.html",
+"title": "Kan je huishoudhulp ook je hond uitlaten?",
+"words": 901,
+"group": "vragen"
+},
+{
+"path": "vragen/weekplanning-hulp-in-huis-ondernemersgezin.html",
+"title": "Hoe maak je een weekplanning voor hulp in huis in een ondernemersgezin?",
+"words": 946,
+"group": "vragen"
+},
+{
+"path": "vragen/hulp-in-huis-als-je-zaak-snel-groeit.html",
+"title": "Hoeveel hulp in huis heb je nodig als je zaak snel groeit?",
+"words": 880,
+"group": "vragen"
+},
+{
+"path": "vragen/wie-kookt-thuis-als-beide-ouders-ondernemen.html",
+"title": "Wie kookt er thuis als beide ouders een zaak runnen?",
+"words": 1027,
+"group": "vragen"
+},
+{
+"path": "vragen/gezonde-schotels-voor-de-hele-week.html",
+"title": "Kan je gezonde schotels voor de hele week laten klaarzetten?",
+"words": 938,
+"group": "vragen"
+},
+{
+"path": "vragen/hulp-bij-kinderen-ophalen-via-vennootschap.html",
+"title": "Kan de hulp bij het ophalen van je kinderen via je vennootschap lopen?",
+"words": 897,
+"group": "vragen"
+},
+{
+"path": "vragen/taken-vaste-huishoudhulp-schoolkinderen.html",
+"title": "Welke taken doet een vaste huishoudhulp in een gezin met schoolkinderen?",
+"words": 952,
+"group": "vragen"
+},
+{
+"path": "vragen/juiste-dagen-kiezen-voor-hulp-in-huis.html",
+"title": "Hoe kies je de juiste dagen voor hulp in huis?",
+"words": 820,
+"group": "vragen"
+},
+{
+"path": "vragen/huishoudhulp-en-tuin-terras.html",
+"title": "Kan je huishoudhulp ook de tuin en het terras bijhouden?",
+"words": 879,
+"group": "vragen"
+},
+{
+"path": "vragen/huis-bijhouden-tijdens-vakantie.html",
+"title": "Kan iemand je huis bijhouden terwijl je op vakantie bent?",
+"words": 882,
+"group": "vragen"
+},
+{
+"path": "vragen/au-pair-of-opvang-na-school.html",
+"title": "Au pair of opvang na school: wat past bij schoolgaande kinderen?",
+"words": 930,
+"group": "vragen"
+},
+{
+"path": "vragen/vaste-persoon-of-wisselende-hulp-thuis.html",
+"title": "Waarom kies je thuis liever voor één vaste persoon dan voor wisselende hulp?",
+"words": 887,
+"group": "vragen"
+},
+{
+"path": "vragen/opvang-schoolgaande-kinderen-ondernemer.html",
+"title": "Welke opvang bestaat er voor schoolgaande kinderen als je zelf ondernemer bent?",
+"words": 815,
+"group": "vragen"
+},
+{
+"path": "vragen/wat-is-opvang-na-school-aan-huis.html",
+"title": "Wat houdt opvang na school aan huis in?",
+"words": 989,
+"group": "vragen"
+},
+{
+"path": "vragen/kan-iemand-anders-kinderen-van-school-halen.html",
+"title": "Kan iemand anders je kinderen van school halen?",
+"words": 902,
+"group": "vragen"
+},
+{
+"path": "vragen/afspraken-met-persoon-die-kinderen-ophaalt.html",
+"title": "Welke afspraken maak je met de persoon die je kinderen van school haalt?",
+"words": 898,
+"group": "vragen"
+},
+{
+"path": "vragen/vieruurtje-laten-klaarzetten.html",
+"title": "Kan iemand het vieruurtje klaarzetten als de kinderen thuiskomen?",
+"words": 867,
+"group": "vragen"
+},
+{
+"path": "vragen/wie-let-op-kinderen-na-school.html",
+"title": "Wie let op de kinderen na school terwijl jij nog werkt?",
+"words": 968,
+"group": "vragen"
+},
+{
+"path": "vragen/woensdagnamiddag-regelen-als-je-werkt.html",
+"title": "Hoe regel je de woensdagnamiddag als je werkt?",
+"words": 902,
+"group": "vragen"
+},
+{
+"path": "vragen/hebben-grotere-kinderen-nog-opvang-nodig.html",
+"title": "Hebben grotere kinderen nog opvang na school nodig?",
+"words": 960,
+"group": "vragen"
+},
+{
+"path": "vragen/kinderen-naar-training-laten-brengen.html",
+"title": "Kan iemand je kinderen naar de training of academie brengen?",
+"words": 932,
+"group": "vragen"
+},
+{
+"path": "vragen/vaste-persoon-voor-je-kinderen.html",
+"title": "Waarom is een vaste persoon voor je kinderen beter dan wisselende opvang?",
+"words": 967,
+"group": "vragen"
+},
+{
+"path": "vragen/kennismaking-kinderen-en-je-zondag.html",
+"title": "Hoe verloopt de kennismaking tussen je kinderen en je Zondag?",
+"words": 1005,
+"group": "vragen"
+},
+{
+"path": "vragen/opvangpersoon-ziek-wat-nu.html",
+"title": "Wat als de persoon die je kinderen opvangt ziek is?",
+"words": 855,
+"group": "vragen"
+},
+{
+"path": "vragen/opvang-en-huishouden-combineren.html",
+"title": "Kan één persoon de kinderen opvangen en het huishouden doen?",
+"words": 933,
+"group": "vragen"
+},
+{
+"path": "vragen/thuisregels-uitleggen-aan-opvangpersoon.html",
+"title": "Hoe leg je de thuisregels uit aan de persoon die je kinderen opvangt?",
+"words": 1000,
+"group": "vragen"
+},
+{
+"path": "vragen/opvang-overdag-in-schoolvakanties.html",
+"title": "Kan je overdag opvang voor je kinderen regelen in de schoolvakanties?",
+"words": 832,
+"group": "vragen"
+},
+{
+"path": "vragen/is-zondags-een-erkende-kinderopvang.html",
+"title": "Is Zondags een erkende kinderopvang?",
+"words": 863,
+"group": "vragen"
+},
+{
+"path": "vragen/opvang-aan-huis-of-buitenschoolse-opvang.html",
+"title": "Wat is het verschil tussen opvang aan huis en buitenschoolse opvang?",
+"words": 936,
+"group": "vragen"
+},
+{
+"path": "vragen/allergieen-en-voorkeuren-bij-koken-voor-kinderen.html",
+"title": "Hoe ga je om met allergieën en voorkeuren als iemand voor je kinderen kookt?",
+"words": 879,
+"group": "vragen"
+},
+{
+"path": "vragen/gezonde-maaltijd-voor-schoolkinderen-laat-thuis.html",
+"title": "Hoe zorg je voor een gezonde maaltijd voor schoolkinderen als je laat thuiskomt?",
+"words": 1081,
+"group": "vragen"
+},
+{
+"path": "vragen/schermtijd-en-snacks-afspreken-met-opvang.html",
+"title": "Hoe spreek je regels over schermtijd en snacks af met de opvangpersoon?",
+"words": 845,
+"group": "vragen"
+},
+{
+"path": "vragen/kinderen-ophalen-via-je-vennootschap.html",
+"title": "Kan je de hulp bij het ophalen van je kinderen via je vennootschap laten lopen?",
+"words": 882,
+"group": "vragen"
+},
+{
+"path": "vragen/opvang-meerdere-kinderen-verschillende-uren.html",
+"title": "Hoe organiseer je opvang voor meerdere schoolkinderen met verschillende uren?",
+"words": 979,
+"group": "vragen"
+},
+{
+"path": "vragen/contact-houden-met-opvangpersoon.html",
+"title": "Hoe houd je contact met de persoon die je kinderen opvangt?",
+"words": 832,
+"group": "vragen"
+},
+{
+"path": "vragen/hoeveel-uur-opvang-na-school-nodig.html",
+"title": "Waarvan hangt het af hoeveel uur opvang je na school nodig hebt?",
+"words": 930,
+"group": "vragen"
+},
+{
+"path": "vragen/kinderen-ophalen-en-boodschappen-doen.html",
+"title": "Kan de persoon die je kinderen ophaalt ook boodschappen doen?",
+"words": 878,
+"group": "vragen"
+},
+{
+"path": "vragen/kinderen-ophalen-op-twee-scholen.html",
+"title": "Kan iemand je kinderen van twee verschillende scholen ophalen?",
+"words": 914,
+"group": "vragen"
+},
+{
+"path": "vragen/opvangpersoon-en-hond-uitlaten.html",
+"title": "Kan de persoon die je kinderen opvangt ook de hond uitlaten?",
+"words": 816,
+"group": "vragen"
+},
+{
+"path": "vragen/school-op-de-hoogte-brengen-ophaalpersoon.html",
+"title": "Wat regel je met de school als iemand anders je kind ophaalt?",
+"words": 818,
+"group": "vragen"
+},
+{
+"path": "vragen/opvang-en-hulp-bij-start-schooljaar.html",
+"title": "Hoe regel je opvang en hulp bij de start van het schooljaar?",
+"words": 839,
+"group": "vragen"
+},
+{
+"path": "vragen/vragen-aan-opvangpersoon-grotere-kinderen.html",
+"title": "Welke vragen stel je aan een opvangpersoon voor je grotere kinderen?",
+"words": 843,
+"group": "vragen"
+},
+{
+"path": "vragen/offertes-poetsfirmas-vergelijken.html",
+"title": "Hoe vergelijk je offertes van poetsfirma's?",
+"words": 932,
+"group": "vragen"
+},
+{
+"path": "vragen/uurprijs-of-vaste-prijs-poetsen.html",
+"title": "Uurprijs of vaste prijs voor poetshulp: wat past bij je bedrijf?",
+"words": 942,
+"group": "vragen"
+},
+{
+"path": "vragen/verborgen-kosten-poetsfirma.html",
+"title": "Welke verborgen kosten kunnen er zijn bij een poetsfirma?",
+"words": 871,
+"group": "vragen"
+},
+{
+"path": "vragen/minimum-uren-per-bezoek-poetshulp.html",
+"title": "Waarom hanteren poetsfirma's een minimum aantal uren per bezoek?",
+"words": 857,
+"group": "vragen"
+},
+{
+"path": "vragen/wat-staat-in-offerte-poetshulp-kantoor.html",
+"title": "Wat moet er in een offerte voor poetshulp op kantoor staan?",
+"words": 921,
+"group": "vragen"
+},
+{
+"path": "vragen/schoonmaakbedrijf-of-vaste-poetshulp.html",
+"title": "Schoonmaakbedrijf of vaste poetshulp: wat is het verschil?",
+"words": 852,
+"group": "vragen"
+},
+{
+"path": "vragen/ploeg-of-een-vaste-persoon-kantoor.html",
+"title": "Een ploeg of één vaste persoon voor je kantoor?",
+"words": 965,
+"group": "vragen"
+},
+{
+"path": "vragen/poetshulp-in-dienst-van-de-firma.html",
+"title": "Wat betekent het voor jou als klant dat de poetshulp in dienst is van de firma?",
+"words": 861,
+"group": "vragen"
+},
+{
+"path": "vragen/wat-staat-op-dienstenfactuur-poetshulp.html",
+"title": "Wat staat er op een dienstenfactuur voor poetshulp?",
+"words": 922,
+"group": "vragen"
+},
+{
+"path": "vragen/factuur-splitsen-beroepsmatig-en-prive.html",
+"title": "Hoe wordt een factuur gesplitst tussen beroepsmatig en privé?",
+"words": 944,
+"group": "vragen"
+},
+{
+"path": "vragen/btw-op-poetshulp-voor-bedrijven.html",
+"title": "Btw op poetshulp: wat moet je als bedrijf weten?",
+"words": 857,
+"group": "vragen"
+},
+{
+"path": "vragen/is-poetshulp-kantoor-bedrijfskost.html",
+"title": "Is poetshulp voor je kantoor een bedrijfskost?",
+"words": 837,
+"group": "vragen"
+},
+{
+"path": "vragen/voordeel-alle-aard-poetshulp-woning.html",
+"title": "Wat is een voordeel van alle aard bij poetshulp voor je woning?",
+"words": 920,
+"group": "vragen"
+},
+{
+"path": "vragen/wat-vraag-je-accountant-over-poetshulp.html",
+"title": "Wat vraag je je accountant over poetshulp via je zaak?",
+"words": 841,
+"group": "vragen"
+},
+{
+"path": "vragen/poetshulp-registreren-in-boekhouding.html",
+"title": "Hoe registreer je poetshulp in je boekhouding?",
+"words": 821,
+"group": "vragen"
+},
+{
+"path": "vragen/waarom-geen-dienstencheques-voor-vennootschap.html",
+"title": "Waarom kan een vennootschap geen dienstencheques gebruiken?",
+"words": 841,
+"group": "vragen"
+},
+{
+"path": "vragen/alternatief-dienstencheques-voor-bedrijven.html",
+"title": "Wat is het alternatief voor dienstencheques voor een bedrijf?",
+"words": 898,
+"group": "vragen"
+},
+{
+"path": "vragen/eigen-woning-laten-poetsen-via-de-zaak.html",
+"title": "Mag een bedrijfsleider zijn eigen woning laten poetsen via de zaak?",
+"words": 827,
+"group": "vragen"
+},
+{
+"path": "vragen/wat-staat-in-contract-poetshulp.html",
+"title": "Wat staat er in een contract voor poetshulp?",
+"words": 966,
+"group": "vragen"
+},
+{
+"path": "vragen/opzegtermijn-poetshulp-bedrijven.html",
+"title": "Hoe werkt de opzegtermijn bij poetshulp voor bedrijven?",
+"words": 852,
+"group": "vragen"
+},
+{
+"path": "vragen/kennismaking-voor-je-vastlegt.html",
+"title": "Kan je poetshulp uitproberen voor je je vastlegt?",
+"words": 956,
+"group": "vragen"
+},
+{
+"path": "vragen/wat-gebeurt-in-eerste-twee-gratis-uren.html",
+"title": "Wat gebeurt er in de eerste twee gratis uren?",
+"words": 837,
+"group": "vragen"
+},
+{
+"path": "vragen/intake-poetshulp-wat-bespreek-je.html",
+"title": "Wat bespreek je bij de intake voor poetshulp?",
+"words": 864,
+"group": "vragen"
+},
+{
+"path": "vragen/wat-is-een-zondagsplan.html",
+"title": "Wat is een zondagsplan?",
+"words": 937,
+"group": "vragen"
+},
+{
+"path": "vragen/uren-bijboeken-of-afbouwen-poetshulp.html",
+"title": "Kan je uren bijboeken of afbouwen bij poetshulp?",
+"words": 868,
+"group": "vragen"
+},
+{
+"path": "vragen/wanneer-losse-grote-poetsbeurt-boeken.html",
+"title": "Wanneer boek je een losse grote poetsbeurt?",
+"words": 815,
+"group": "vragen"
+},
+{
+"path": "vragen/poetshulp-als-kantoor-gesloten-is.html",
+"title": "Wat doe je met poetshulp als je kantoor gesloten is?",
+"words": 898,
+"group": "vragen"
+},
+{
+"path": "vragen/poetshulp-rond-feestdagen-en-brugdagen.html",
+"title": "Hoe werkt poetshulp rond feestdagen en brugdagen?",
+"words": 937,
+"group": "vragen"
+},
+{
+"path": "vragen/poetsproducten-afspreken-met-poetshulp.html",
+"title": "Hoe spreek je af welke poetsproducten gebruikt worden?",
+"words": 890,
+"group": "vragen"
+},
+{
+"path": "vragen/collega-allergisch-voor-poetsproducten.html",
+"title": "Wat als een collega allergisch is voor bepaalde poetsproducten?",
+"words": 850,
+"group": "vragen"
+},
+{
+"path": "vragen/sleutel-en-alarm-poetshulp-kantoor.html",
+"title": "Hoe regel je sleutel en alarm voor de poetshulp van je kantoor?",
+"words": 883,
+"group": "vragen"
+},
+{
+"path": "vragen/poetshulp-alleen-op-kantoor.html",
+"title": "Wat als je poetshulp alleen op kantoor is?",
+"words": 953,
+"group": "vragen"
+},
+{
+"path": "vragen/discretie-poetshulp-in-praktijk.html",
+"title": "Hoe regel je discretie bij poetshulp in een praktijk?",
+"words": 838,
+"group": "vragen"
+},
+{
+"path": "vragen/patientendossiers-en-poetshulp.html",
+"title": "Wat met patiëntendossiers als er een poetshulp in de praktijk komt?",
+"words": 916,
+"group": "vragen"
+},
+{
+"path": "vragen/poetshulp-tijdens-openingsuren.html",
+"title": "Kan poetshulp tijdens de openingsuren van je zaak?",
+"words": 856,
+"group": "vragen"
+},
+{
+"path": "vragen/waarom-poetsen-voor-de-opening.html",
+"title": "Waarom poetsen veel zaken liefst voor de opening?",
+"words": 850,
+"group": "vragen"
+},
+{
+"path": "vragen/hoe-vaak-sanitair-kantoor-poetsen.html",
+"title": "Hoe vaak moet het sanitair op kantoor gepoetst worden?",
+"words": 886,
+"group": "vragen"
+},
+{
+"path": "vragen/keuken-en-frigo-op-kantoor-hygienisch.html",
+"title": "Hoe hou je de keuken en frigo op kantoor hygiënisch?",
+"words": 885,
+"group": "vragen"
+},
+{
+"path": "vragen/vloeren-op-kantoor-onderhouden.html",
+"title": "Hoe onderhoud je verschillende vloeren op kantoor?",
+"words": 900,
+"group": "vragen"
+},
+{
+"path": "vragen/ramen-van-je-kantoor.html",
+"title": "Wat doe je met de ramen van je kantoor?",
+"words": 848,
+"group": "vragen"
+},
+{
+"path": "vragen/afvalsortering-op-kantoor.html",
+"title": "Hoe organiseer je afvalsortering op kantoor?",
+"words": 902,
+"group": "vragen"
+},
+{
+"path": "vragen/kantoor-ordelijk-tussen-twee-poetsbeurten.html",
+"title": "Hoe hou je een klein kantoor ordelijk tussen twee poetsbeurten?",
+"words": 929,
+"group": "vragen"
+},
+{
+"path": "vragen/afspraken-met-team-opgeruimd-kantoor.html",
+"title": "Hoe maak je afspraken met je team over een opgeruimd kantoor?",
+"words": 926,
+"group": "vragen"
+},
+{
+"path": "vragen/poetshulp-voor-starter-eerste-kantoor.html",
+"title": "Welke poetshulp past bij een starter met een eerste kantoor?",
+"words": 892,
+"group": "vragen"
+},
+{
+"path": "vragen/poetshulp-bij-groeiend-team.html",
+"title": "Hoe groeit de poetshulp mee met een groeiend team?",
+"words": 938,
+"group": "vragen"
+},
+{
+"path": "vragen/poetshulp-thuiskantoor-beroepsmatig-prive.html",
+"title": "Poetshulp voor een thuiskantoor: wat is beroepsmatig en wat privé?",
+"words": 913,
+"group": "vragen"
+},
+{
+"path": "vragen/poetshulp-gedeeld-kantoorgebouw.html",
+"title": "Poetshulp in een gedeeld kantoorgebouw: wie regelt wat?",
+"words": 885,
+"group": "vragen"
+},
+{
+"path": "vragen/wat-doet-poetshulp-in-winkel-voor-opening.html",
+"title": "Wat doet poetshulp in een winkel voor de opening?",
+"words": 827,
+"group": "vragen"
+},
+{
+"path": "vragen/etalage-langs-binnen-laten-doen.html",
+"title": "Kan poetshulp ook de etalage langs binnen doen?",
+"words": 859,
+"group": "vragen"
+},
+{
+"path": "vragen/welke-ruimtes-door-vaste-persoon-laten-onderhouden.html",
+"title": "Welke ruimtes laat je het best door een vaste persoon onderhouden?",
+"words": 936,
+"group": "vragen"
+},
+{
+"path": "vragen/niet-tevreden-over-de-schoonmaak.html",
+"title": "Wat doe je als je niet tevreden bent over de schoonmaak?",
+"words": 889,
+"group": "vragen"
+},
+{
+"path": "vragen/poetshulp-evalueren-na-eerste-maanden.html",
+"title": "Hoe evalueer je je poetshulp na de eerste maanden?",
+"words": 927,
+"group": "vragen"
+},
+{
+"path": "vragen/jaarplanning-onderhoud-kantoor.html",
+"title": "Hoe maak je een jaarplanning voor het onderhoud van je kantoor?",
+"words": 860,
+"group": "vragen"
+},
+{
+"path": "vragen/onnodige-kosten-schoonmaak-vermijden.html",
+"title": "Hoe vermijd je dat schoonmaak op kantoor onnodig veel kost?",
+"words": 851,
+"group": "vragen"
+},
+{
+"path": "vragen/poetshulp-voor-kantoor-in-kortrijk-wat-te-weten.html",
+"title": "Poetshulp voor je kantoor in Kortrijk: wat moet je vooraf weten?",
+"words": 892,
+"group": "vragen"
+},
+{
+"path": "sectoren/checklist-wekelijkse-kantoorpoets.html",
+"title": "Checklist voor de wekelijkse poetsbeurt van je kantoor",
+"words": 852,
+"group": "sectoren"
+},
+{
+"path": "sectoren/checklist-wekelijkse-praktijkpoets.html",
+"title": "Checklist voor de wekelijkse poetsbeurt van je praktijk",
+"words": 838,
+"group": "sectoren"
+},
+{
+"path": "sectoren/checklist-winkel-poetsen-voor-opening.html",
+"title": "Checklist: je winkel poetsen voor de opening",
+"words": 836,
+"group": "sectoren"
+},
+{
+"path": "sectoren/checklist-eerste-dag-nieuwe-poetshulp.html",
+"title": "Checklist voor de eerste dag van je nieuwe poetshulp",
+"words": 955,
+"group": "sectoren"
+},
+{
+"path": "sectoren/gids-poetshulp-kiezen-voor-je-bedrijf.html",
+"title": "Gids: zo kies je poetshulp voor je bedrijf",
+"words": 964,
+"group": "sectoren"
+},
+{
+"path": "sectoren/gids-zondagsplan-opstellen.html",
+"title": "Gids: zo stel je een zondagsplan op",
+"words": 938,
+"group": "sectoren"
+},
+{
+"path": "sectoren/checklist-intakegesprek-poetshulp.html",
+"title": "Checklist voor het intakegesprek met je poetshulp",
+"words": 907,
+"group": "sectoren"
+},
+{
+"path": "sectoren/gids-kantoor-en-woning-in-een-plan.html",
+"title": "Gids: kantoor en woning in één plan",
+"words": 888,
+"group": "sectoren"
+},
+{
+"path": "sectoren/checklist-vergaderzaal-klaarzetten.html",
+"title": "Checklist: een vergaderzaal klaarzetten voor de volgende vergadering",
+"words": 864,
+"group": "sectoren"
+},
+{
+"path": "sectoren/checklist-sanitair-op-kantoor-wekelijks.html",
+"title": "Checklist voor het sanitair op kantoor",
+"words": 865,
+"group": "sectoren"
+},
+{
+"path": "sectoren/checklist-refter-en-keuken-op-kantoor.html",
+"title": "Checklist voor de refter en keuken op kantoor",
+"words": 887,
+"group": "sectoren"
+},
+{
+"path": "sectoren/checklist-frisse-wachtzaal.html",
+"title": "Checklist voor een frisse wachtzaal",
+"words": 887,
+"group": "sectoren"
+},
+{
+"path": "sectoren/gids-eerste-grote-poetsbeurt-nieuw-kantoor.html",
+"title": "Gids: een eerste grote poetsbeurt voor een nieuw kantoor",
+"words": 877,
+"group": "sectoren"
+},
+{
+"path": "sectoren/checklist-grote-poetsbeurt-praktijk.html",
+"title": "Checklist voor de grote poetsbeurt van je praktijk",
+"words": 860,
+"group": "sectoren"
+},
+{
+"path": "sectoren/gids-hulp-in-huis-voor-ondernemers-in-vijf-stappen.html",
+"title": "Gids: hulp in huis voor ondernemers in vijf stappen",
+"words": 1024,
+"group": "sectoren"
+},
+{
+"path": "sectoren/checklist-weekmenu-en-boodschappenlijst.html",
+"title": "Checklist: weekmenu en boodschappenlijst voor drukke ondernemers",
+"words": 890,
+"group": "sectoren"
+},
+{
+"path": "sectoren/gids-gezonde-schotels-voor-de-week.html",
+"title": "Gids: gezonde schotels voor de week laten klaarzetten",
+"words": 990,
+"group": "sectoren"
+},
+{
+"path": "sectoren/checklist-kinderen-van-school-laten-ophalen.html",
+"title": "Checklist: iemand anders je kinderen van school laten ophalen",
+"words": 990,
+"group": "sectoren"
+},
+{
+"path": "sectoren/gids-opvang-na-school-thuis-organiseren.html",
+"title": "Gids: opvang na school bij jou thuis organiseren",
+"words": 902,
+"group": "sectoren"
+},
+{
+"path": "sectoren/checklist-start-schooljaar-ondernemersgezin.html",
+"title": "Checklist voor de start van het schooljaar in een ondernemersgezin",
+"words": 918,
+"group": "sectoren"
+},
+{
+"path": "sectoren/gids-alternatieven-voor-een-au-pair.html",
+"title": "Gids: alternatieven voor een au pair",
+"words": 862,
+"group": "sectoren"
+},
+{
+"path": "sectoren/gids-vaste-hulp-vinden-in-kortrijk.html",
+"title": "Gids: vaste hulp vinden in Kortrijk en omgeving",
+"words": 992,
+"group": "sectoren"
+},
+{
+"path": "sectoren/checklist-kantoor-voor-het-bouwverlof.html",
+"title": "Checklist: je kantoor klaarmaken voor het bouwverlof",
+"words": 995,
+"group": "sectoren"
+},
+{
+"path": "sectoren/checklist-praktijk-proper-het-nieuwe-jaar-in.html",
+"title": "Checklist: je praktijk proper het nieuwe jaar in",
+"words": 989,
+"group": "sectoren"
+},
+{
+"path": "sectoren/gids-administratie-poetshulp-via-vennootschap.html",
+"title": "Gids: de administratie van poetshulp via je vennootschap",
+"words": 869,
+"group": "sectoren"
+},
+{
+"path": "sectoren/gids-vragen-voor-je-accountant-over-hulp-in-huis.html",
+"title": "Gids: vragen voor je accountant over hulp in huis via je zaak",
+"words": 873,
+"group": "sectoren"
+},
+{
+"path": "sectoren/checklist-kantoor-ordelijk-tussen-twee-beurten.html",
+"title": "Checklist: je kantoor ordelijk houden tussen twee poetsbeurten",
+"words": 872,
+"group": "sectoren"
+},
+{
+"path": "sectoren/gids-poetshulp-voor-een-klein-team.html",
+"title": "Gids: poetshulp voor een klein team",
+"words": 889,
+"group": "sectoren"
+},
+{
+"path": "sectoren/checklist-huis-laten-bijhouden-tijdens-vakantie.html",
+"title": "Checklist: je huis laten bijhouden tijdens je vakantie",
+"words": 959,
+"group": "sectoren"
+},
+{
+"path": "sectoren/gids-hulp-voor-ondernemers-in-kortrijk-per-dienst.html",
+"title": "Gids: hulp voor ondernemers in Kortrijk, per dienst",
+"words": 993,
+"group": "sectoren"
 }
 ]

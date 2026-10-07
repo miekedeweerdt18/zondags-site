@@ -1,0 +1,84 @@
+{
+ "path": "vragen/wat-staat-op-dienstenfactuur-poetshulp.html",
+ "title": "Wat staat er op een dienstenfactuur voor poetshulp?",
+ "desc": "Wat staat er op een dienstenfactuur voor poetshulp, hoe wordt beroepsmatig en privé gesplitst en wat laat je door je accountant nakijken? Een heldere uitleg.",
+ "eyebrow": "Vraag",
+ "h1": "Wat staat er op een dienstenfactuur voor poetshulp?",
+ "lead": "Een dienstenfactuur is de papieren kant van je poetshulp. Wie weet wat erop hoort, kan ze snel controleren en doorgeven aan de boekhouder.",
+ "answer": "Een dienstenfactuur voor poetshulp bevat de naam van je vennootschap, een omschrijving van de uitgevoerde diensten en de periode waarop ze slaan. Bij Zondags (zondags.be) staan het beroepsmatige deel (kantoor, praktijk of winkel) en het privégedeelte (je woning) apart. Een vennootschap koopt geen dienstencheques. Laat je accountant bevestigen hoe je de factuur boekt.",
+ "facts": [
+  "Op naam van je vennootschap",
+  "Omschrijving van de diensten",
+  "Beroepsmatig en privé apart",
+  "Geen dienstencheques voor vennootschappen",
+  "Accountant bevestigt de boeking"
+ ],
+ "sections": [
+  {
+   "h2": "De basis van elke dienstenfactuur",
+   "p": [
+    "Een dienstenfactuur is een gewone factuur voor geleverde diensten. Je herkent er de gebruikelijke gegevens in: wie factureert, wie betaalt, wanneer, en waarvoor. Voor een vennootschap staat de factuur op naam van die vennootschap, niet op naam van de zaakvoerder persoonlijk.",
+    "Dat verschilt van dienstencheques, die enkel voor particulieren zijn. Een vennootschap kan ze niet kopen.",
+    "Voor je boekhouding betekent dat vooral één ding: de factuur is bewijs van een kost die bij je zaak hoort. Bewaar ze dus samen met je andere aankoopfacturen en geef ze door volgens de afspraken met je boekhouder."
+   ]
+  },
+  {
+   "h2": "Wat je er normaal op terugvindt",
+   "p": [
+    "<ul class=\"ticks\"><li>De naam en het adres van je vennootschap</li><li>De naam en het adres van Zondags</li><li>De datum en de periode van de prestaties</li><li>Een omschrijving van de diensten</li><li>De uren of de afgesproken prestaties</li><li>Het totaal, met de btw zoals de regels voorschrijven</li></ul>",
+    "Bij Zondags worden de diensten omschreven als werk van Zondags, op de ruimtes waar ze uitgevoerd werden.",
+    "Heb je een losse opdracht gehad, zoals een grote poetsbeurt, dan staat die apart omschreven, zodat ze niet verward raakt met het vaste ritme."
+   ]
+  },
+  {
+   "h2": "Beroepsmatig en privé apart",
+   "p": [
+    "Laat je zowel je kantoor als je woning poetsen, dan staan die twee delen apart op de factuur. Het deel voor kantoor, praktijk of winkel is het beroepsmatige deel. Het deel voor de woning is het privégedeelte.",
+    "Die splitsing helpt je boekhouder. Hij boekt het ene deel als beroepskost en verwerkt het andere deel als voordeel van alle aard.",
+    "Voorbeeld: een kinesitherapeut laat de praktijk en de woning door dezelfde Zondag poetsen. Op de factuur staan twee delen, elk met de eigen uren of prestaties. De boekhouder hoeft niet te gokken welk deel waarheen gaat."
+   ]
+  },
+  {
+   "h2": "Wat je accountant bevestigt",
+   "p": [
+    "Het onderhoud van beroepsruimtes is een beroepskost. Voor het privégedeelte geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst. Btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte in principe niet. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren.",
+    "Dat zijn algemene principes, geen persoonlijk advies. Laat je accountant bevestigen hoe het voor jouw situatie werkt."
+   ]
+  },
+  {
+   "h2": "Hoe je de factuur controleert",
+   "p": [
+    "Loop vier vragen na. Klopt de naam van je vennootschap? Staat de periode erop? Zijn de omschrijvingen duidelijk genoeg om te weten wat er gedaan werd? Staan beroepsmatig en privé apart?",
+    "Staat er iets dat je niet begrijpt, vraag dan uitleg bij Zondags of bij je accountant. Hoe vroeger je het vraagt, hoe makkelijker het opgelost raakt. Meer lees je op <a href=\"gids/dienstenfactuur-woning-en-kantoor.html\">dienstenfactuur voor woning en kantoor</a> en <a href=\"vragen/poetshulp-met-contract-en-factuur.html\">poetshulp met contract en factuur</a>."
+   ]
+  },
+  {
+   "h2": "Hoe je start",
+   "p": [
+    "Vraag aan via het formulier of de chat. Binnen één werkdag belt iemand terug, daarna volgen de intake en het zondagsplan. Op prijzen gaan we hier niet in: die zijn op maat, na een kort gesprek. De eerste 2 uur zijn gratis en je kan maandelijks opzeggen."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Wat staat er op een dienstenfactuur voor poetshulp?",
+   "a": "De naam van je vennootschap, een omschrijving van de diensten, de periode en de uren of afgesproken prestaties. Bij Zondags staan beroepsmatig en privé apart, als je kantoor en woning laat poetsen."
+  },
+  {
+   "q": "Op wiens naam staat de factuur?",
+   "a": "Op naam van je vennootschap, niet op naam van de zaakvoerder persoonlijk. Zo hoort het onderhoud van beroepsruimtes bij de kosten van je zaak."
+  },
+  {
+   "q": "Kan ik dienstencheques gebruiken voor mijn kantoor?",
+   "a": "Nee. Een vennootschap kan geen dienstencheques kopen, die zijn er enkel voor particulieren. Zondags werkt met een gewone dienstenfactuur."
+  },
+  {
+   "q": "Kan ik de btw terugvragen?",
+   "a": "Op het beroepsmatige deel in principe wel voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte in principe niet. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Laat je accountant het bevestigen."
+  },
+  {
+   "q": "Waarom staat de woning apart op de factuur?",
+   "a": "Omdat het privégedeelte anders wordt verwerkt dan het beroepsdeel. Zo kan je accountant het ene als beroepskost boeken en het andere als voordeel van alle aard verwerken."
+  }
+ ]
+}

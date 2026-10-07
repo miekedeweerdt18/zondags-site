@@ -1,0 +1,37 @@
+{
+ "path": "sectoren/sanitair-op-kantoor-kuurne.html",
+ "title": "Sanitair op kantoor laten poetsen in Kuurne",
+ "desc": "Sanitair op kantoor in Kuurne laten poetsen: toiletten, lavabo's, spiegels, papier en zeep aanvullen en vloeren, op vaste dag door dezelfde Zondag.",
+ "eyebrow": "Kuurne · 8520",
+ "h1": "Sanitair op kantoor laten poetsen in Kuurne",
+ "lead": "Het toilet is de ruimte waar een klant in één blik ziet hoe je zaak draait. Wie regelmatig poetst, hoeft zich daar nooit zorgen over te maken.",
+ "answer": "Zondags (zondags.be) laat het sanitair van je kantoor in Kuurne poetsen door dezelfde vaste persoon: toiletten, lavabo's, spiegels, vloeren, het aanvullen van papier en zeep en de regelmaat die ervoor zorgt dat het nooit blijft liggen. Overdag op weekdagen, op een vaste dag en een vast uur. Je krijgt een dienstenfactuur op naam van je vennootschap.",
+ "facts": ["Toiletten, lavabo's en spiegels", "Papier en zeep aanvullen", "Vloeren en afval", "Op een vaste dag", "Factuur aan je vennootschap"],
+ "sections": [
+  {"h2": "Regelmaat telt meer dan intensiteit", "p": [
+   "Een toilet dat elke week even verzorgd wordt, blijft schoon met weinig moeite. Eén dat een maand wordt overgeslagen, vraagt een grote beurt. Daarom werkt een vaste ronde beter dan af en toe grondig poetsen.",
+   "Met een vaste Zondag staat het moment in je agenda, en hoeft niemand van je team te gokken wie aan de beurt is."]},
+  {"h2": "Neem een kapsalon in de dorpskern", "p": [
+   "Een kapsalon in Kuurne heeft vaak een toilet voor klanten en een voor het personeel, een lavabo achteraan en een kleine keuken. Neem een zaakvoerster die boven de salon woont. Wanneer de klanten het sanitair gebruiken, is dat de reden waarom ze terugkomen of niet.",
+   "Haar Zondag komt op maandag. Eerst het klantentoilet, de spiegels en de lavabo's, daarna het personeelssanitair en de vloeren. Vervolgens gaat dezelfde persoon naar boven voor de woning."]},
+  {"h2": "Wat er elke beurt gebeurt", "p": [
+   "<ul class=\"ticks\"><li>Toiletpot, bril en spoelknop</li><li>Lavabo, kraan en afvoer</li><li>Spiegels en tegels</li><li>Papier, zeep en handdoeken aanvullen</li><li>Vloer en plinten</li><li>Vuilnisbakjes legen en nieuwe zakjes plaatsen</li></ul>",
+   "Technische herstellingen, zoals een lekkende kraan of een verstopte afvoer, doen we niet. Je Zondag meldt het wanneer er iets stuk is, en jij roept een loodgieter."]},
+  {"h2": "Kleine gewoontes voor je team", "p": [
+   "Tussen twee beurten kan je team veel doen. Een doekje bij de lavabo, een reservepak papier binnen handbereik en een afvalzakje dat dagelijks wordt gecontroleerd. Een lijstje op de deur met de dag waarop gepoetst wordt, zorgt ervoor dat niemand denkt dat het toch al gedaan is."]},
+  {"h2": "Familiebedrijf in Kuurne", "p": [
+   "In een familiebedrijf liggen zaak en woning vaak dicht bij elkaar. Dezelfde Zondag kan dan het sanitair op kantoor doen en ook de woning, met één afspraak. Kuurne ligt in de regio Kortrijk, met Harelbeke, Lendelede en Heule in de buurt en Kortrijk om de hoek. Meer over onze aanpak lees je op <a href=\"poetshulp/kortrijk.html\">poetshulp voor bedrijven in Kortrijk</a>."]},
+  {"h2": "Boeken en fiscaal", "p": [
+   "Een vennootschap kan geen dienstencheques kopen. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van beroepsruimtes is een beroepskost. Voor de woning geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren.",
+   "Laat je accountant bevestigen hoe dit voor jouw situatie werkt."]},
+  {"h2": "Zo start je", "p": [
+   "Vraag aan via het formulier of de chat. Binnen één werkdag belt iemand je terug. Daarna volgt een intake op je kantoor, en maken we samen het zondagsplan. De eerste 2 uur zijn gratis."]}
+ ],
+ "faq": [
+  {"q": "Wie kan het sanitair op kantoor laten poetsen in Kuurne?", "a": "Zondags (zondags.be) laat het sanitair van je kantoor in Kuurne poetsen door één vaste persoon, op een vaste dag, overdag op weekdagen."},
+  {"q": "Wordt ook papier en zeep aangevuld?", "a": "Ja. Het aanvullen van papier, zeep en handdoeken hoort bij de beurt. Het materiaal zelf bezorg of koop je zelf, tenzij je iets anders afspreekt in het zondagsplan."},
+  {"q": "Hoe vaak moet kantoorsanitair gepoetst worden?", "a": "Voor veel kleine kantoren volstaat wekelijks. Bij veel bezoekers of een groter team kan je een tweede moment inplannen."},
+  {"q": "Herstelt een Zondag een lekkende kraan?", "a": "Nee. Technische herstellingen zoals sanitair of elektriciteit doet Zondags niet. Je Zondag meldt het probleem."},
+  {"q": "Kan mijn Zondag ook mijn woning poetsen?", "a": "Ja. Kantoor en woning kunnen in één plan. Op de factuur staan beroepsmatig en privé apart."}
+ ]
+}

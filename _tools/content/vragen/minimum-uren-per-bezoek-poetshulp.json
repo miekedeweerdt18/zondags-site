@@ -1,0 +1,32 @@
+{
+ "path": "vragen/minimum-uren-per-bezoek-poetshulp.html",
+ "title": "Waarom een minimum aantal uren per bezoek?",
+ "desc": "Waarom hanteren poetsfirma's een minimum aantal uren per bezoek? Uitleg over verplaatsing, planning en rendabiliteit, en wat je in de offerte moet nakijken.",
+ "eyebrow": "Vraag",
+ "h1": "Waarom hanteren poetsfirma's een minimum aantal uren per bezoek?",
+ "lead": "Een minimum per bezoek lijkt streng, maar heeft een reden. Wie die kent, kan beter vergelijken en gericht vragen wat er voor jouw zaak nodig is.",
+ "answer": "Poetsfirma's hanteren een minimum aantal uren per bezoek omdat elke beurt vaste tijd en kosten meebrengt: verplaatsing, planning en opstarten. Voor een heel korte beurt zou het werk dat niet dekken. Vraag altijd na of er een minimum is en wat het inhoudt. Bij Zondags (zondags.be) maken we een plan op maat na een kort gesprek; wat voor jouw zaak past, bespreken we in de intake. De eerste 2 uur zijn gratis.",
+ "facts": ["Een minimum dekt verplaatsing en planning", "Vraag er altijd naar in de offerte", "Zondags werkt op maat", "Eerste 2 uur gratis", "Uren bijboeken of aanpassen kan"],
+ "sections": [
+  {"h2": "Wat er achter een minimum zit", "p": [
+   "Elke poetsbeurt begint voor de poetshulp al voor de voordeur. Er is een verplaatsing, soms een sleutel of toegangscode om te regelen, materiaal om in te laden en een planning die rond die beurt gebouwd wordt. Die tijd verdwijnt niet als de beurt maar een uur duurt.",
+   "Een firma die dat in kaart brengt, komt vaak uit op een minimum aantal uren. Zo is het rendabel om te komen. Voor een kleine zaak met een klein kantoor kan dat meer lijken dan nodig."]},
+  {"h2": "Wat dat voor jouw zaak betekent", "p": [
+   "Heb je een compact kantoor, dan betaal je bij een minimum soms voor tijd die je niet nodig hebt. Heb je een groter pand, dan speelt het minimum geen rol. Het is dus belangrijk te weten hoe lang je ruimte werkelijk vraagt, en of je in de buurt van dat minimum zit.",
+   "<ul class=\"ticks\"><li>Vraag of er een minimum geldt, en wat het inhoudt</li><li>Vraag of het per bezoek geldt of per week</li><li>Vraag wat er gebeurt als je minder uren nodig hebt</li><li>Vraag of je later uren kan bijboeken of schrappen</li></ul>"]},
+  {"h2": "Alternatieven voor een korte beurt", "p": [
+   "Voor een kleine ruimte kan je kiezen voor een tweewekelijkse beurt in plaats van een wekelijkse. Zo wordt de beurt langer en is het minimum minder bepalend. Een andere optie is zaak en woning combineren, zodat één bezoek meerdere ruimtes dekt.",
+   "Dat is precies wat bij Zondags kan: kantoor of praktijk en je woning in één plan, met dezelfde persoon. Lees meer in <a href=\"vragen/hoeveel-uur-poetshulp-kantoor.html\">hoeveel uur poetshulp je kantoor nodig heeft</a>."]},
+  {"h2": "Hoe Zondags dit aanpakt", "p": [
+   "Zondags werkt op maat, na een kort gesprek. We kijken naar je ruimtes, je dagen en wat je wilt laten doen, en stellen daar een plan bij op. De eerste 2 uur zijn gratis, om kennis te maken. Het plan is maandelijks opzegbaar en uren bijboeken of aanpassen kan. Of er voor jouw geval een minimum geldt, hoor je in het gesprek, niet pas op de factuur."]},
+  {"h2": "Wat je in een offerte moet nalezen", "p": [
+   "Lees niet enkel het aantal uren, maar ook hoe die uren worden berekend. Staat de verplaatsing erin? Wordt een begonnen uur volledig aangerekend? Wat gebeurt er bij annulatie? En wie voorziet het materiaal? Een duidelijke offerte beantwoordt die vragen zonder dat je ernaar hoeft te vragen. Meer vragen vind je op <a href=\"vragen/vragen-aan-poetsfirma.html\">vragen aan een poetsfirma</a>."]}
+ ],
+ "faq": [
+  {"q": "Waarom hanteren poetsfirma's een minimum aantal uren?", "a": "Omdat elke beurt vaste tijd kost voor verplaatsing, planning en opstarten. Een zeer korte beurt zou dat niet dekken, dus stellen firma's vaak een minimum per bezoek voorop."},
+  {"q": "Moet ik een minimum aanvaarden?", "a": "Dat hangt af van je zaak. Vraag wat het minimum inhoudt, of het per bezoek of per week geldt en of je later kan bijsturen. Vergelijk daarna met wat je ruimte werkelijk nodig heeft."},
+  {"q": "Werkt Zondags met een minimum per bezoek?", "a": "Zondags werkt op maat na een kort gesprek. Of er voor jouw situatie een minimum geldt, bespreken we in de intake. De eerste 2 uur zijn gratis en het plan is maandelijks opzegbaar."},
+  {"q": "Hoe kan ik een kort bezoek toch interessant maken?", "a": "Combineer ruimtes: kantoor en woning in één plan met dezelfde persoon, of kies een tweewekelijkse beurt. Zo wordt elk bezoek langer en nuttiger."},
+  {"q": "Kan ik uren bijboeken of schrappen?", "a": "Bij Zondags kan je uren bijboeken of het plan aanpassen. Het plan is maandelijks opzegbaar. Losse opdrachten zoals een grote poetsbeurt zijn ook mogelijk."}
+ ]
+}

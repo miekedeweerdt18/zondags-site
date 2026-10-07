@@ -1,0 +1,83 @@
+{
+ "path": "sectoren/kleine-kantoren-zaak-en-woning.html",
+ "title": "Zaak en woning in één plan voor kleine kantoren",
+ "desc": "Een klein kantoor en je woning laten onderhouden door dezelfde vaste persoon: hoe het zondagsplan werkt, hoe de factuur splitst en wat je accountant bevestigt.",
+ "eyebrow": "Kleine kantoren",
+ "h1": "Zaak en woning in één plan: hulp voor kleine kantoren",
+ "lead": "Als zaakvoerder van een klein kantoor loopt je werk door in je gezin. Eén vaste persoon voor beide adressen scheelt je een tweede zoektocht, een tweede afspraak en een tweede factuur.",
+ "answer": "Zondags (zondags.be) laat zaak en woning van een kleine kantoorhouder door dezelfde vaste Zondag onderhouden. Het kantoor (bureaus, vergadertafel, keuken, sanitair, vloeren, afval) en de woning staan in één zondagsplan. Op de dienstenfactuur op naam van de vennootschap zijn het beroepsmatige en het privégedeelte gesplitst. Laat je accountant de fiscale kant bevestigen.",
+ "facts": [
+  "Kantoor en woning in één plan",
+  "Dezelfde vaste Zondag voor beide",
+  "Factuur gesplitst beroepsmatig en privé",
+  "Fiscale kant altijd met je accountant",
+  "Eerste 2 uur gratis"
+ ],
+ "sections": [
+  {
+   "h2": "Waarom één persoon voor twee adressen",
+   "p": [
+    "Een notaris, een boekhouder of een architect met een klein team heeft al genoeg te regelen. Eén persoon die het kantoor kent en ook de woning verzorgt, betekent één afspraak en één vertrouwensband. Neem een notariskantoor met een wachtzaal: de Zondag poetst op maandagochtend het kantoor, de wachtzaal en het sanitair, en gaat op woensdag naar de woning voor poetsen, was en strijk.",
+    "Zo weet je Zondag wat een kantoor nodig heeft en wat een gezin nodig heeft, en verwart ze die niet."
+   ]
+  },
+  {
+   "h2": "Wat in het kantoor gebeurt",
+   "p": [
+    "<ul class=\"ticks\"><li>Bureaus en vergadertafel afnemen</li><li>Wachtzaal en onthaal op orde</li><li>Keuken en koffiehoek</li><li>Sanitair</li><li>Vloeren</li><li>Afval en papier naar buiten</li></ul>",
+    "Dossiers, computers en vertrouwelijke papieren blijven ongemoeid.",
+    "Heb je een klein team, dan kan het zinvol zijn dat de Zondag tijdens je afwezigheid binnenkomt, zodat niemand gestoord wordt in het werk."
+   ]
+  },
+  {
+   "h2": "Wat in de woning gebeurt",
+   "p": [
+    "<ul class=\"ticks\"><li>Poetsen van keuken, badkamer, slaapkamers</li><li>Was en strijk</li><li>Boodschappen en regelwerk</li><li>Koken thuis of gezonde schotels voor de week</li><li>Kinderen ophalen van school, voor grotere kinderen</li></ul>",
+    "Je kiest zelf welke taken je opneemt. Een plan met enkel poetsen is evengoed in orde."
+   ]
+  },
+  {
+   "h2": "De splitsing op de factuur",
+   "p": [
+    "Op de dienstenfactuur van Zondags staan twee delen: wat voor het kantoor is en wat voor de woning. Dat overzicht maakt het voor je accountant eenvoudig om beide correct te verwerken.",
+    "Zo beschouw je het: het kantoor is een beroepskost. Voor de woning geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst."
+   ]
+  },
+  {
+   "h2": "Fiscale voorzichtigheid",
+   "p": [
+    "Een vennootschap kan geen dienstencheques kopen, die zijn er enkel voor particulieren. Btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte in principe niet. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren.",
+    "Elke situatie is anders. Laat je accountant altijd bevestigen hoe dit voor jouw vennootschap werkt. Lees ook <a href=\"vragen/kantoor-en-woning-een-poetshulp.html\">kantoor en woning met één poetshulp</a> en <a href=\"sectoren/kleine-kantoren.html\">poetshulp voor kleine kantoren</a>."
+   ]
+  },
+  {
+   "h2": "Zo start je",
+   "p": [
+    "Je meldt je aan via het formulier of de chat. Binnen één werkdag belt iemand terug. Daarna komen we langs voor de intake: we bekijken het kantoor en de woning en maken samen het zondagsplan. De eerste twee uur zijn gratis, en het plan is maandelijks opzegbaar. Bij ziekte of verlof zoeken wij een oplossing.",
+    "Wie dat wil, begint met enkel het kantoor en breidt later uit naar de woning."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Kan dezelfde persoon mijn kantoor en woning doen?",
+   "a": "Ja. Zondags zet kantoor en woning in één zondagsplan, met dezelfde vaste Zondag. De factuur splitst het beroepsmatige en het privégedeelte."
+  },
+  {
+   "q": "Hoe wordt de factuur gesplitst tussen kantoor en woning?",
+   "a": "Op de dienstenfactuur op naam van je vennootschap staan twee delen: het kantoor en de woning. Je accountant kan elk deel afzonderlijk verwerken."
+  },
+  {
+   "q": "Is de poetshulp voor de woning fiscaal aftrekbaar?",
+   "a": "Voor het privégedeelte geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Laat je accountant het bevestigen voor jouw situatie."
+  },
+  {
+   "q": "Kan mijn vennootschap dienstencheques gebruiken?",
+   "a": "Nee. Een vennootschap kan geen dienstencheques kopen, die zijn voorbehouden aan particulieren. Zondags werkt met een gewone dienstenfactuur."
+  },
+  {
+   "q": "Kan ik de woning later toevoegen of weglaten?",
+   "a": "Ja. Uren bijboeken of het plan aanpassen kan, en het plan is maandelijks opzegbaar. Je start met enkel het kantoor en voegt de woning later toe, of omgekeerd."
+  }
+ ]
+}

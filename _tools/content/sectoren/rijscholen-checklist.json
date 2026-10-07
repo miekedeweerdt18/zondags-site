@@ -1,0 +1,39 @@
+{
+ "path": "sectoren/rijscholen-checklist.html",
+ "title": "Schoonmaakchecklist voor rijscholen",
+ "desc": "Wat in een rijschool wekelijks, maandelijks en jaarlijks gepoetst wordt: onthaal, theorielokaal en sanitair. En wat je zelf blijft doen, zoals de lesvoertuigen.",
+ "eyebrow": "Rijscholen",
+ "h1": "Schoonmaakchecklist voor rijscholen",
+ "lead": "Een rijschool heeft een kantoor met onthaal, een theorielokaal en sanitair. Deze checklist zegt wat er wanneer aan de beurt komt, en wat bij jou blijft.",
+ "answer": "In een rijschool poets je wekelijks het onthaal, het theorielokaal en het sanitair, maandelijks de dieper liggende plekken en jaarlijks de grote beurt. Zondags (zondags.be) doet dat met één vaste persoon, overdag op weekdagen, met één dienstenfactuur op naam van je vennootschap. De reiniging van lesvoertuigen valt erbuiten en blijft bij de rijschool zelf.",
+ "facts": ["Onthaal, theorielokaal en sanitair", "Wekelijks, maandelijks, jaarlijks", "Geen reiniging van lesvoertuigen", "Steeds dezelfde Zondag", "Factuur aan je vennootschap", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "De ruimtes van een rijschool", "p": [
+   "Een rijschool is geen groot gebouw, maar het wordt veel gebruikt. Cursisten komen binnen, wachten, volgen theorie en verdwijnen weer. Wat zij zien, is het onthaal, het lokaal waar de theorie wordt gegeven en het toilet. Dat zijn ook de plekken die het vaakst aandacht vragen.",
+   "Je lesvoertuigen horen er niet bij. Die blijven bij de rijschool zelf, want Zondags reinigt geen voertuigen."]},
+  {"h2": "Wekelijks", "p": [
+   "<ul class=\"ticks\"><li>Onthaal: balie, stoelen en vloer</li><li>Theorielokaal: tafels, stoelen, bord of scherm langs de buitenkant, vloer</li><li>Sanitair: toilet, lavabo en vloer</li><li>Keuken of koffiehoek</li><li>Vuilbakken leegmaken en afval buiten zetten</li></ul>",
+   "Dit is de basis. Als je lokaal bijna elke dag in gebruik is, kan het zinvol zijn om twee keer per week te laten komen. Dat spreek je samen af in het zondagsplan."]},
+  {"h2": "Maandelijks", "p": [
+   "<ul class=\"ticks\"><li>Plinten, deurklinken en schakelaars afgenomen</li><li>Onder en achter de stoelen en tafels poetsen</li><li>Ramen en glazen deuren langs binnen</li><li>Kasten en planken van het onthaal afgenomen</li><li>De vloer in het theorielokaal dieper gedweild</li></ul>",
+   "Zulke beurten vragen wat meer tijd. Je plant ze in het plan als vaste extra, of je boekt een aantal uren bij in een rustigere week."]},
+  {"h2": "Jaarlijks", "p": [
+   "Eén keer per jaar verdient een rijschool een grote poetsbeurt, bijvoorbeeld voor het nieuwe cursusjaar of na de drukke zomermaanden. Denk aan meubels verschuiven, achter kasten en onder bureaus komen, de keuken uitwassen en alles in het sanitair grondig doen.",
+   "Dat kan als losse opdracht, ook zonder vast plan. Werken op hoogte of het reinigen van de buitengevel doen we niet; daarvoor schakel je een gespecialiseerd bedrijf in."]},
+  {"h2": "Wat je zelf blijft doen", "p": [
+   "<ul class=\"ticks\"><li>De lesvoertuigen reinigen</li><li>Het lesmateriaal, de pc's en je beeldschermen beheren</li><li>Dossiers en administratie bijhouden</li><li>Kleine reparaties en technische klussen</li></ul>",
+   "Dat zijn taken van de rijschool zelf. Je Zondag houdt de ruimtes schoon waar jouw cursisten binnenkomen."]},
+  {"h2": "Voorbeeld: een showroom met keukens als vergelijking", "p": [
+   "Neem een zaak die niet in de rijschoolsector zit, zoals een showroom met keukens of badkamers. Ook daar telt de eerste indruk: de klant ziet de vloer, de toonbank en het sanitair voor hij over het product praat. Voor een rijschool is dat niet anders. De kennismaking begint bij een open deur, een nette balie en een lokaal dat naar niets ruikt.",
+   "Het ritme is hetzelfde: wekelijks de basis, maandelijks het dieper werk, jaarlijks de grote beurt. Wie dat regelmatig doet, hoeft zelden in te grijpen."]},
+  {"h2": "Facturatie en je accountant", "p": [
+   "Een vennootschap kan geen dienstencheques kopen; die zijn voorbehouden aan particulieren. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van je rijschool is een beroepskost. Laat je ook je woning poetsen, dan splitst de factuur het beroepsmatige en het privégedeelte, waarbij het privégedeelte als forfaitair voordeel van alle aard wordt verwerkt als het regelmatig gebeurt via een onderneming met mensen in dienst. Laat je accountant dit bevestigen voor je eigen situatie. Meer over de sector lees je op <a href=\"sectoren/rijscholen.html\">poetshulp voor rijscholen</a>."]}
+ ],
+ "faq": [
+  {"q": "Wat moet er in een rijschool wekelijks gepoetst worden?", "a": "Het onthaal, het theorielokaal, het sanitair en de keuken of koffiehoek, plus de vuilbakken. Bij veel gebruik kan het vaker. Dat spreek je af in het zondagsplan met je vaste Zondag."},
+  {"q": "Worden de lesvoertuigen ook gereinigd?", "a": "Nee. Zondags reinigt geen voertuigen. De lesvoertuigen blijven bij de rijschool zelf. Je Zondag poetst alleen de ruimtes van het gebouw."},
+  {"q": "Kan er een grote poetsbeurt voor het nieuwe cursusjaar gepland worden?", "a": "Ja, als losse opdracht of binnen je plan. Je spreekt een weekdag af, vroeg in de ochtend of over de middag, nooit 's avonds of in het weekend."},
+  {"q": "Hoe vaak komt de poetshulp in een rijschool?", "a": "Dat hangt af van hoe vaak het lokaal en het onthaal gebruikt worden. Wekelijks is gebruikelijk, maar jullie bekijken het in de intake en je kan altijd uren bijboeken."},
+  {"q": "Kan mijn woning in hetzelfde plan?", "a": "Ja. Rijschool en woning kunnen in één plan met dezelfde Zondag, en de factuur splitst beroepsmatig en privé."}
+ ]
+}

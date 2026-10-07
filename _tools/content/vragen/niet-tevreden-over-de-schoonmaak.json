@@ -1,0 +1,81 @@
+{
+ "path": "vragen/niet-tevreden-over-de-schoonmaak.html",
+ "title": "Wat als je niet tevreden bent over de schoonmaak?",
+ "desc": "Niet tevreden over de schoonmaak? Zeg het concreet, leg het vast in het plan en bekijk of een andere aanpak of een andere Zondag past. Zo pak je het aan.",
+ "eyebrow": "Vraag",
+ "h1": "Wat doe je als je niet tevreden bent over de schoonmaak?",
+ "lead": "Zeg het snel en concreet, liefst met een voorbeeld. Meestal zit het probleem in een afspraak die niet duidelijk genoeg stond, niet in de persoon.",
+ "answer": "Als je niet tevreden bent over de schoonmaak, benoem je concreet wat je mist, laat je het zien op de plek zelf en pas je samen het plan aan. Bij Zondags (zondags.be) kan je plan aangepast worden, en klikt het niet met je Zondag, dan zoeken we samen een andere Zondag. Het plan is maandelijks opzegbaar.",
+ "facts": [
+  "Concreet benoemen, liefst ter plaatse",
+  "Eerst het plan aanpassen",
+  "Klikt het niet, een andere Zondag",
+  "Maandelijks opzegbaar",
+  "Meteen contact met Zondags"
+ ],
+ "sections": [
+  {
+   "h2": "Begin met één concreet voorbeeld",
+   "p": [
+    "Wie ontevreden is, zegt vaak \"het is niet proper genoeg\". Dat is een gevoel, geen afspraak. Een concreet voorbeeld werkt beter: de plinten in de wachtzaal, de rand van de koffiemachine, de hoek achter de deur. Neem een foto, of wijs het aan wanneer je Zondag er is.",
+    "Zo kan je Zondag zien wat jij ziet. En vaak is het antwoord eenvoudiger dan verwacht: het stond niet in het plan, of het was niet duidelijk hoe jij het wilt."
+   ]
+  },
+  {
+   "h2": "Kijk eerst in het zondagsplan",
+   "p": [
+    "Het zondagsplan beschrijft wat er gebeurt, hoe vaak en op welke dag en uur. Controleer of wat je mist erin staat. Staat het er niet in, dan is het geen slecht werk maar een gat in de afspraak. Staat het er wel in, dan bespreek je dat gewoon met je Zondag.",
+    "<ul class=\"ticks\"><li>Staat de taak in het zondagsplan</li><li>Is de frequentie genoeg voor jouw gebruik</li><li>Is er genoeg tijd voor wat je verwacht</li><li>Heb je het aan je Zondag gezegd, of enkel gedacht</li></ul>"
+   ]
+  },
+  {
+   "h2": "Bespreek het met je Zondag, daarna met Zondags",
+   "p": [
+    "Een goede Zondag wil weten wat beter kan. Zeg het vriendelijk en concreet, bij voorkeur op de plek zelf. Verandert er na een gesprek niets, neem dan contact met ons op via telefoon of WhatsApp op 0470 56 53 58, elke dag van 6 tot 22 uur, of via het formulier of de chat. We bekijken samen wat er mis loopt.",
+    "Soms past het plan niet meer bij wat je nodig hebt. Uren bijboeken of het plan aanpassen kan. Meer over het kwaliteitsgesprek lees je op <a href=\"vragen/kwaliteit-schoonmaak-controleren.html\">kwaliteit van de schoonmaak controleren</a>."
+   ]
+  },
+  {
+   "h2": "Als het niet klikt",
+   "p": [
+    "Soms ligt het niet aan het plan of aan een taak, maar aan de samenwerking. Dat is menselijk. Klikt het niet tussen jou en je Zondag, dan zoeken we samen een andere Zondag. Dat gebeurt zonder dat je opnieuw moet beginnen: we hebben je zondagsplan al.",
+    "Wil je weten hoe wisselen werkt, lees dan <a href=\"vragen/van-poetshulp-wisselen.html\">van poetshulp wisselen</a>."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een tandartspraktijk met twee behandelkamers",
+   "p": [
+    "Neem een tandartspraktijk met twee behandelkamers. De tandarts merkt dat het sanitair niet altijd goed gedaan is. Ze neemt een foto en bespreekt het met haar Zondag: gaat het om de tijd of om de volgorde? Blijkt de beurt te kort voor sanitair én behandelkamers, dan boekt ze een half uur bij.",
+    "Wat bij de praktijk blijft, blijft bij de praktijk: sterilisatie, medisch materiaal en de ontsmetting van vakgereedschap. De Zondag onderhoudt de ruimtes."
+   ]
+  },
+  {
+   "h2": "Als je wil stoppen",
+   "p": [
+    "Een plan is maandelijks opzegbaar. Je zit nergens aan vast voor een lange periode. Wil je stoppen of van aanpak veranderen, laat het ons dan weten, dan zoeken we samen wat het best past."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Wat doe ik als ik niet tevreden ben over de schoonmaak van mijn kantoor?",
+   "a": "Benoem concreet wat je mist, liefst met een foto of ter plaatse, controleer of het in het zondagsplan staat en bespreek het met je Zondag. Verandert er niets, neem dan contact met Zondags op."
+  },
+  {
+   "q": "Kan ik van Zondag veranderen?",
+   "a": "Ja. Klikt het niet, dan zoeken we samen een andere Zondag. Je zondagsplan blijft gelden, zodat je niet van nul begint."
+  },
+  {
+   "q": "Waar meld ik een probleem met de poetshulp?",
+   "a": "Bij je Zondag zelf, en als dat niets oplevert bij Zondags: telefoon of WhatsApp 0470 56 53 58, elke dag van 6 tot 22 uur, via het formulier of via de chat op de site."
+  },
+  {
+   "q": "Kan ik opzeggen als het niet lukt?",
+   "a": "Ja, het plan is maandelijks opzegbaar. Liefst bekijken we eerst samen of een aangepast plan of een andere Zondag de oplossing is."
+  },
+  {
+   "q": "Wat als mijn Zondag ziek is en de beurt uitvalt?",
+   "a": "Bij ziekte of verlof van je Zondag zoeken wij een oplossing, maar we beloven geen vaste vervanger."
+  }
+ ]
+}

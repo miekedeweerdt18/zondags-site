@@ -1,0 +1,36 @@
+{
+ "path": "vragen/hebben-grotere-kinderen-nog-opvang-nodig.html",
+ "title": "Hebben grotere kinderen nog opvang na school nodig?",
+ "desc": "Heeft een kind van twaalf of dertien nog iemand nodig na school? Een nuchtere kijk voor ondernemersgezinnen, met wat een vaste Zondag wel en niet doet.",
+ "eyebrow": "Vraag",
+ "h1": "Hebben grotere kinderen nog opvang na school nodig?",
+ "lead": "Kinderen in het lager en de eerste jaren van het secundair kunnen vaak al veel zelf. Of ze nog iemand nodig hebben na school, hangt af van het kind en van je agenda.",
+ "answer": "Dat verschilt per kind. Veel kinderen in de eerste jaren van het secundair kunnen een tijd alleen thuis zijn, maar niet elk kind wil dat, en niet elke ouder wil dat. Zondags (zondags.be) levert een vaste Zondag die kinderen ophaalt en thuis opvangt als onderdeel van de hulp in huis. Het is geen erkende kinderopvang, geen crèche en geen buitenschoolse opvang.",
+ "facts": ["Hangt af van kind en agenda", "Lager en eerste jaren secundair", "Geen baby's of peuters", "Geen erkende kinderopvang", "Vaste Zondag, overdag op weekdagen"],
+ "sections": [
+  {"h2": "Er is geen vaste leeftijd waarop opvang ophoudt", "p": [
+   "Een tienjarige die graag in de tuin speelt, heeft andere noden dan een veertienjarige die om vijf uur voor de computer zit. Sommige kinderen zijn rustig, andere hebben iemand nodig die vraagt hoe de dag was. Er bestaat geen cijfer dat voor elk gezin geldt.",
+   "Wat wel telt: het kind zelf, de weg naar huis, hoe vaak je zelf afwezig bent en of er een volwassene in de buurt is voor als er iets misloopt."]},
+  {"h2": "Vragen die je jezelf kan stellen", "p": [
+   "<ul class=\"ticks\"><li>Vindt mijn kind het zelf fijn om alleen thuis te zijn</li><li>Kan het veilig en zelfstandig naar huis</li><li>Weet het wat te doen als er iets gebeurt</li><li>Eet het iets en heeft het een vaste routine</li><li>Hoe lang ben ik niet bereikbaar</li></ul>",
+   "Antwoord je op meerdere vragen met twijfel, dan is een volwassene op de achtergrond vaak een geruststelling, ook voor een kind dat al groot is."]},
+  {"h2": "Wat een vaste Zondag kan betekenen", "p": [
+   "Een vaste Zondag komt op een vaste dag en uur, haalt het kind op of ontvangt het thuis, zorgt voor een vieruurtje en is er tot de ouders thuis zijn. Ondertussen doet je Zondag het huishouden, de was of het koken, zodat het gezin 's avonds echt samen kan zijn.",
+   "Voor een groter kind is dat vaak meer een aanwezigheid dan een opvang. Je Zondag is iemand die er is, zonder het kind te betuttelen."]},
+  {"h2": "Wat het niet is", "p": [
+   "Eerlijk blijven: Zondags is geen erkende kinderopvang, geen crèche en geen buitenschoolse opvang. De hulp is bedoeld voor kinderen in het lager onderwijs en de eerste jaren van het secundair. Er zijn geen baby's of peuters. Huiswerkbegeleiding, medische zorg en zieke kinderen horen er ook niet bij.",
+   "Wie een kind mag ophalen op school, regelen de ouders met de school. Zondags beheert daar geen afspraken over."]},
+  {"h2": "Voorbeeld: een zaakvoerder met een dertienjarige", "p": [
+   "Stel: je bent zaakvoerder en je dochter is dertien. Ze kan zelf naar huis, maar je zit tot zes uur in vergaderingen en wil dat er iemand is. Je Zondag komt op drie dagen in de week, is er om vier uur, doet een deel van de was en is er tot jij thuis bent. Wat je wilt dat er gebeurt, leg je vast in het zondagsplan, in overleg met je dochter."]},
+  {"h2": "Hoe je het bespreekt en regelt", "p": [
+   "Je vraagt een gesprek aan via het formulier of de chat. Binnen één werkdag bellen we terug, daarna volgt de intake bij jou thuis. Daar bekijken we samen welke dagen en uren passen en wat het kind zelf wil. De eerste 2 uur zijn gratis, het plan is maandelijks opzegbaar en je kan het aanpassen naarmate het kind groeit. Meer lees je bij <a href=\"bedrijven/hulp-in-huis-voor-ondernemers.html\">hulp in huis voor ondernemers</a>."]}
+ ],
+ "faq": [
+  {"q": "Vanaf welke leeftijd kan een kind alleen thuis zijn na school?", "a": "Daar is geen vaste leeftijd voor. Het hangt af van het kind, de weg naar huis en hoe lang je weg bent. Veel gezinnen kiezen voor een volwassene op de achtergrond, zeker bij jongere kinderen."},
+  {"q": "Is een vaste Zondag erkende kinderopvang?", "a": "Nee. Zondags is geen erkende kinderopvang, geen crèche en geen buitenschoolse opvang. Je krijgt een vaste Zondag die kinderen ophaalt en thuis opvangt als onderdeel van de hulp in huis."},
+  {"q": "Tot welke leeftijd werkt Zondags met kinderen?", "a": "Zondags helpt bij kinderen in het lager onderwijs en de eerste jaren van het secundair. Er zijn geen baby's en geen peuters. Huiswerkbegeleiding en medische zorg zijn er ook niet bij."},
+  {"q": "Doet mijn Zondag ook het huishouden terwijl de kinderen er zijn?", "a": "Ja. Het ophalen en opvangen maakt deel uit van de hulp in huis. Je Zondag kan poetsen, was en strijk doen of koken terwijl de kinderen thuis zijn."},
+  {"q": "Wie regelt het ophalen op school?", "a": "De ouders regelen met de school wie het kind mag ophalen. Zondags beheert geen contracten van de school. Jullie leggen de afspraken vast in het zondagsplan."},
+  {"q": "Kan ik het plan later aanpassen?", "a": "Ja. Je kan dagen of uren aanpassen of afbouwen als het kind groter wordt. Het plan is maandelijks opzegbaar en uren bijboeken kan ook."}
+ ]
+}

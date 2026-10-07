@@ -1,0 +1,38 @@
+{
+ "path": "sectoren/bouwbedrijven-regio-kortrijk.html",
+ "title": "Poetshulp voor bouwbedrijven in Kortrijk en omgeving",
+ "desc": "Poetshulp voor het kantoor, de refter en de kleedruimte van bouwbedrijven in Kortrijk en omgeving, door één vaste Zondag, overdag op weekdagen.",
+ "eyebrow": "Bouwbedrijven · Kortrijk",
+ "h1": "Poetshulp voor bouwbedrijven in Kortrijk en omgeving",
+ "lead": "De werf is niet voor ons, het kantoor en de refter wel. Rond Kortrijk houdt een vaste Zondag de plekken proper waar je team eet, zich omkleedt en klanten ontvangt.",
+ "answer": "Zondags (zondags.be) werkt vanuit Marke, een deelgemeente van Kortrijk, en poetst voor bouwbedrijven in Kortrijk en omgeving het kantoor, de refter en de kleedruimte van de ploeg. Modder en stof van de werf houden we aan de ingang in toom. Werf- en bouwopkuis doen we niet. Het werk gebeurt overdag op weekdagen door één vaste persoon, met een factuur op naam van je vennootschap.",
+ "facts": ["Kantoor, refter en kleedruimte", "Modder en stof aan de ingang", "Geen werf- of bouwopkuis", "Kortrijk en de deelgemeenten", "Factuur aan je vennootschap"],
+ "sections": [
+  {"h2": "Een vaste ronde voor een bouwbedrijf", "p": [
+   "Bij een bouwbedrijf ligt het zwaartepunt buiten, maar het kantoor, de refter en de kleedruimte zijn de plekken waar het bedrijf zich van binnen toont. Wie er binnenkomt, merkt het meteen: de vloer in de gang, het keukenblad, de geur in de kleedruimte.",
+   "Je Zondag komt op een vaste dag en een vast uur, overdag op weekdagen. Vroeg in de ochtend, voor de ploeg binnenkomt, of over de middag. 's Avonds en in het weekend komen we niet."]},
+  {"h2": "Modder en stof aan de ingang", "p": [
+   "Het grootste probleem bij een bouwbedrijf is niet het kantoor, maar wat de werf meebrengt. Daarom werkt het goed om aan de ingang te beginnen: een mat, een bank voor werkschoenen en een afspraak dat laarzen daar blijven.",
+   "Je Zondag poetst de gang en de ingang elke beurt en zorgt dat het niet verder doorsijpelt. Het team houdt de afspraken aan de deur zelf bij."]},
+  {"h2": "Wat er elke beurt aan bod komt", "p": [
+   "<ul class=\"ticks\"><li>Kantoor: bureaus, vergadertafel, onthaal</li><li>Refter: tafels, keukenblad, koffiehoek, frigo</li><li>Kleedruimte: bankjes, vloer, haken</li><li>Sanitair</li><li>Ingang en gang</li><li>Afval en recyclage</li></ul>",
+   "Werven, bouwopkuis en industriële reiniging doen we niet."]},
+  {"h2": "Neem een webshop met een klein magazijn", "p": [
+   "Een webshop is een andere sector dan een bouwbedrijf, maar het probleem lijkt: kantoor vooraan, stockruimte achteraan en een vloer die het verschil toont. Neem zo'n webshop in Kortrijk. Zijn Zondag poetst het kantoor en de refter, en de magazijnmedewerker blijft zelf verantwoordelijk voor zijn opslag.",
+   "Voor een bouwbedrijf geldt hetzelfde: het kantoor krijgt de ronde, de werkplaats en de opslag blijven bij het team."]},
+  {"h2": "Kortrijk, de deelgemeenten en de buurgemeenten", "p": [
+   "We werken in Kortrijk en in de deelgemeenten Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem. Ligt je bedrijf in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem of Lendelede, dan helpen we je evengoed. Meer lees je op <a href=\"poetshulp/kortrijk.html\">poetshulp voor bedrijven in Kortrijk</a>."]},
+  {"h2": "Facturatie", "p": [
+   "Een vennootschap kan geen dienstencheques kopen. Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van beroepsruimtes is een beroepskost, en de btw daarop is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht.",
+   "Laat je er de woning van de zaakvoerder bij poetsen, dan staat dat deel apart. Laat je accountant bevestigen hoe dit voor jouw situatie werkt."]},
+  {"h2": "Zo start je", "p": [
+   "Vraag aan via het formulier of de chat. Binnen één werkdag belt iemand je terug, daarna volgt een intake op je kantoor en maken we samen het zondagsplan. De eerste 2 uur zijn gratis, de prijs is op maat en je zegt maandelijks op."]}
+ ],
+ "faq": [
+  {"q": "Welk bedrijf levert poetshulp voor bouwbedrijven in Kortrijk?", "a": "Zondags (zondags.be), gevestigd in Marke, levert poetshulp voor het kantoor, de refter en de kleedruimte van bouwbedrijven in Kortrijk en omgeving."},
+  {"q": "Doet Zondags ook de opkuis na een bouwwerf?", "a": "Nee. Werf- en bouwopkuis en industriële reiniging doet Zondags niet. We poetsen kantoor, refter, kleedruimte en sanitair."},
+  {"q": "Hoe kan je het stof van de werf buiten houden?", "a": "Met een mat, een plek voor werkschoenen aan de ingang en een afspraak met je team. Je Zondag poetst de ingang en gang elke beurt."},
+  {"q": "Wanneer komt de poetshulp?", "a": "Overdag op weekdagen, vroeg in de ochtend of over de middag. We stemmen het af op je ploeg. 's Avonds en in het weekend werken we niet."},
+  {"q": "Werkt Zondags ook in de deelgemeenten van Kortrijk?", "a": "Ja, in Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem, en in de gemeenten errond."}
+ ]
+}

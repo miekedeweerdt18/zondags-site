@@ -61,7 +61,7 @@ def load_all():
     files = sorted(glob.glob(os.path.join(CDIR, '**', '*.json'), recursive=True))
     out = {}
     for f in files:
-        if f.endswith('plan.json'): continue
+        if os.path.basename(f) == 'plan.json': continue
         try: out[f] = json.load(open(f))
         except Exception as e: out[f] = e
     return out

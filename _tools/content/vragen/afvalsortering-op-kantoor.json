@@ -1,0 +1,36 @@
+{
+ "path": "vragen/afvalsortering-op-kantoor.html",
+ "title": "Hoe organiseer je afvalsortering op kantoor?",
+ "desc": "Praktische tips voor afvalsortering op kantoor: waar de bakken staan, wie ze leegt en wat je poetshulp wel en niet doet. Met een korte lijst om mee te starten.",
+ "eyebrow": "Vraag",
+ "h1": "Hoe organiseer je afvalsortering op kantoor?",
+ "lead": "Sorteren lukt op kantoor als de bakken op de juiste plek staan en iedereen weet wat waar hoort. Hier lees je hoe je dat in een klein team regelt.",
+ "answer": "Afvalsortering op kantoor werkt wanneer de bakken zichtbaar en dichtbij staan, duidelijk gelabeld zijn en een vaste persoon of poetshulp ze regelmatig leegt. Begin met restafval, papier en pmd, en pas aan aan wat jouw gemeente of afvalophaler vraagt. Zondags (zondags.be) zet als onderdeel van het poetsen het afval en de recyclage buiten, volgens de afspraken in je zondagsplan.",
+ "facts": ["Bakken dichtbij en duidelijk gelabeld", "Begin met drie stromen", "Volg de regels van je afvalophaler", "Vaste persoon om te legen", "Zondags zet afval buiten", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "Begin klein: drie stromen en duidelijke bakken", "p": [
+   "Een kantoor van vijf of tien mensen heeft geen twaalf bakken nodig. Begin met drie: restafval, papier en een bak voor plastic flessen, blik en drankkartons. Voeg later organisch afval toe als je een keuken met veel etensresten hebt.",
+   "Zet de bakken waar het afval ontstaat: papier naast de printer, restafval bij de bureaus, pmd in de keuken. Een bak die ver weg staat, wordt niet gebruikt."]},
+  {"h2": "Een korte lijst om je afspraken op te hangen", "p": [
+   "<ul class=\"ticks\"><li>Welke bakken er zijn en wat erin hoort</li><li>Wie ze leegt en op welke dag</li><li>Welke dag de ophaling gebeurt en wie de bakken buiten zet</li><li>Waar je grote voorwerpen en gevaarlijk afval laat, zoals batterijen en lampen</li><li>Wie het aanspreekpunt is als iets onduidelijk is</li></ul>",
+   "Hang de lijst bij de keuken en bij de printer. Een afspraak die niemand ziet, bestaat niet."]},
+  {"h2": "Wat in elke gemeente anders is", "p": [
+   "Wat in de gewone restafvalzak mag en wat in een aparte bak moet, verschilt naargelang je gemeente en je afvalophaler. Bedrijfsafval wordt soms anders behandeld dan huishoudelijk afval. Lees dus de regels van je ophaler na voor je bakken kiest, en vraag bij twijfel wat voor je zaak geldt.",
+   "Voor papier en karton, glas en gevaarlijk afval zijn er vaak aparte afspraken of containerparken. Leg je keuze vast, zodat ook een nieuwe collega weet hoe het hoort."]},
+  {"h2": "Gewoontes die verschil maken", "p": [
+   "Vraag je team om de bekers leeg te gieten voor ze in de bak gaan, kartonnen verpakkingen plat te leggen en geen vloeistoffen in de papierbak te gooien. Een vuile papierbak maakt het papier onbruikbaar en dan is alle moeite verloren.",
+   "Plaats een kleine bak voor koffiedik en etensresten in de keuken en leeg hem dagelijks. Dat is de snelste manier om geurtjes te vermijden. Meer tips voor de keuken vind je in de <a href=\"sectoren/checklist-refter-en-keuken-op-kantoor.html\">checklist voor de refter en keuken op kantoor</a>."]},
+  {"h2": "Wat je poetshulp wel en niet doet", "p": [
+   "Je Zondag kan de bakken legen, de zakken vervangen en het afval en de recyclage buiten zetten, op de dagen die jullie afspreken. Dat leggen we vast in het zondagsplan.",
+   "Het uitzoeken van wat er in welke stroom hoort, blijft bij je team. Het wegbrengen van grote hoeveelheden bedrijfsafval, het vernietigen van documenten of het afvoeren van gevaarlijk afval zijn geen onderdeel van de dienst; voor die dingen schakel je een gespecialiseerd bedrijf in."]},
+  {"h2": "Zo regel je het met Zondags", "p": [
+   "Vraag aan via het formulier of de chat. Binnen één werkdag belt iemand terug en volgt de intake. Daar spreken we af welke bakken er zijn, wie wat buiten zet en hoe vaak. De eerste 2 uur zijn gratis. Wil je weten hoe vaak een kantoor gepoetst moet worden, lees dan <a href=\"vragen/hoe-vaak-kantoor-poetsen.html\">hoe vaak je een kantoor laat poetsen</a>."]}
+ ],
+ "faq": [
+  {"q": "Hoeveel afvalbakken heeft een klein kantoor nodig?", "a": "Begin met drie stromen: restafval, papier en een bak voor plastic flessen, blik en drankkartons. Voeg een bakje voor organisch afval toe als je keuken veel etensresten heeft."},
+  {"q": "Wie moet de afvalbakken leegmaken op kantoor?", "a": "Dat spreek je vooraf af: een vaste persoon of de poetshulp, op een vaste dag. Bij Zondags kan je Zondag de bakken legen en het afval buiten zetten."},
+  {"q": "Zijn de sorteerregels voor bedrijven anders dan voor gezinnen?", "a": "Soms wel. Dat hangt af van je gemeente en je afvalophaler. Lees hun regels na of vraag ze wat voor jouw zaak geldt."},
+  {"q": "Neemt Zondags ook papier of dossiers mee om te vernietigen?", "a": "Nee. Het vernietigen van documenten en het afvoeren van gevaarlijk afval zijn geen onderdeel van de dienst. Daarvoor schakel je een gespecialiseerd bedrijf in."},
+  {"q": "Hoe vermijd ik geuren van de keukenbak?", "a": "Leeg het organisch afval elke dag, gebruik sluitende zakjes en laat de bak wekelijks reinigen. Je Zondag kan dat mee nemen in het plan."}
+ ]
+}

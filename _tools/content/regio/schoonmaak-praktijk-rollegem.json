@@ -1,0 +1,35 @@
+{
+ "path": "regio/schoonmaak-praktijk-rollegem.html",
+ "title": "Schoonmaakhulp voor praktijken in Rollegem",
+ "desc": "Voor groepspraktijken en vrije beroepen in Rollegem, een deelgemeente van Kortrijk: een vaste Zondag voor wachtzaal, onthaal en sanitair, met één factuur.",
+ "eyebrow": "Rollegem · 8510",
+ "h1": "Schoonmaakhulp voor praktijken in Rollegem",
+ "lead": "Een groepspraktijk draait op ritme. Een vaste Zondag zorgt dat wachtzaal en spreekkamers klaar zijn voor de eerste patiënt, zonder dat iemand uit het team moet bijspringen.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken in Rollegem, een deelgemeente van Kortrijk. Dezelfde vaste persoon poetst wachtzaal, onthaal, consultatie- en behandelruimtes en sanitair, overdag op weekdagen. Sterilisatie en medisch materiaal blijven bij de praktijk. Je krijgt één dienstenfactuur op naam van je vennootschap. Zondags is gevestigd in Marke, ook een deelgemeente van Kortrijk.",
+ "facts": ["Voor groepspraktijken en vrije beroepen", "Wachtzaal, onthaal en spreekkamers", "Geen sterilisatie of medisch materiaal", "Steeds dezelfde Zondag", "Factuur aan je vennootschap", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "Een groepspraktijk heeft geen tijd voor een schoonmaakrooster", "p": [
+   "Neem een groepspraktijk van huisartsen in Rollegem. Meerdere artsen, een secretariaat, een wachtzaal die de hele dag vol zit. Wie poetst de keuken van het team? Wie ziet dat het toilet leeg is aan toiletpapier? In de praktijk betekent het meestal dat iemand het er maar bij doet, en dat is geen duurzame oplossing.",
+   "Een vaste Zondag neemt dat uit handen. Op een vaste dag, bij voorkeur voor de praktijk opengaat, wordt alles in orde gebracht. Het team merkt dat het werkt omdat niemand er nog aan moet denken."]},
+  {"h2": "De ruimtes en wat erbij hoort", "p": [
+   "<ul class=\"ticks\"><li>Wachtzaal met stoelen, tafels en speelhoek</li><li>Onthaal en secretariaat</li><li>Consultatie- en behandelruimtes: oppervlakken en vloer</li><li>Sanitair voor patiënten en personeel</li><li>Keuken en pauzeruimte van het team</li><li>Afval en recyclage buiten zetten</li></ul>",
+   "Sterilisatie, ontsmetting van instrumenten en het omgaan met medisch materiaal blijven bij de praktijk. Daar maken we geen afspraken over; dat is jullie vak. Wat je Zondag doet, is het gewone onderhoud van de ruimtes. Voor een vollediger lijst zie je <a href=\"gids/checklist-praktijkschoonmaak.html\">de checklist praktijkschoonmaak</a>."]},
+  {"h2": "Planning rond je spreekuren", "p": [
+   "Je Zondag werkt overdag op weekdagen: vroeg in de ochtend, voor de eerste afspraak, of over de middag, als het spreekuur pauzeert. Nooit 's avonds en nooit in het weekend. Wil je liever op een dag dat de praktijk gesloten is, dan kan dat ook, zolang het overdag op een weekdag valt.",
+   "Het uur ligt vast, en dat is net de bedoeling. Je team weet wanneer er gepoetst wordt, en je Zondag weet waar alles staat. Je kan altijd uren bijboeken, bijvoorbeeld na een drukke griepperiode."]},
+  {"h2": "Praktijk en woning in één plan", "p": [
+   "Zaakvoerders die veel onderweg zijn, laten vaak ook hun woning bijhouden. Je Zondag kan na de praktijk naar je woning gaan voor poetsen, was en strijk. Kantoor en huis lopen dan door terwijl jij weg bent.",
+   "Een vennootschap kan geen dienstencheques kopen; die zijn voorbehouden aan particulieren. Het onderhoud van de praktijk is een beroepskost, het woninggedeelte staat apart op de factuur als privégedeelte, met een forfaitair voordeel van alle aard als het regelmatig gebeurt via een onderneming met mensen in dienst. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Laat je accountant dit bevestigen voor je eigen situatie."]},
+  {"h2": "Rollegem en de buurdorpen", "p": [
+   "Rollegem heeft postcode 8510 en hoort bij Kortrijk. Zondags zoekt een Zondag in en rond Rollegem, zonder te beloven dat er al iemand klaarstaat. Ligt je praktijk in Aalbeke, Bellegem, Kooigem, Marke of in het centrum van Kortrijk, dan kijken we ook daar naar wat kan."]},
+  {"h2": "Zo start je", "p": [
+   "Vraag aan via het formulier of de chat. Binnen één werkdag belt iemand je terug. We komen langs voor de intake en maken samen het zondagsplan op. De eerste 2 uur zijn gratis. Het plan is maandelijks opzegbaar, en klikt het niet met je Zondag, dan zoeken we samen een andere."]}
+ ],
+ "faq": [
+  {"q": "Welk bedrijf levert schoonmaakhulp voor praktijken in Rollegem?", "a": "Zondags, gevestigd in Marke, levert schoonmaakhulp voor praktijken in Rollegem en de rest van Kortrijk. Je krijgt steeds dezelfde vaste persoon en één factuur op naam van je vennootschap."},
+  {"q": "Is dit ook geschikt voor een groepspraktijk met meerdere artsen?", "a": "Ja. Een groepspraktijk heeft meer wachtzaal, meer spreekkamers en een teamkeuken, maar het principe blijft hetzelfde: één vaste persoon met een vaste dag en uur, afgestemd op jullie spreekuren."},
+  {"q": "Wat blijft bij de praktijk zelf?", "a": "Sterilisatie, ontsmetting van instrumenten en alles rond medisch materiaal blijft bij de praktijk. Je Zondag onderhoudt de ruimtes zelf, zoals wachtzaal, spreekkamers, sanitair en keuken."},
+  {"q": "Kan het poetsen voor de praktijk opengaat?", "a": "Ja. Vroeg in de ochtend kan, overdag op een weekdag. 's Avonds en in het weekend werken we niet."},
+  {"q": "Kan mijn Zondag ook mijn woning doen?", "a": "Ja. Praktijk en woning kunnen in één plan met dezelfde persoon, en op de factuur staat het beroepsmatige en het privégedeelte apart."}
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "path": "sectoren/checklist-wekelijkse-praktijkpoets.html",
+ "title": "Checklist voor de wekelijkse poetsbeurt van je praktijk",
+ "desc": "Een bruikbare checklist voor de wekelijkse poetsbeurt van je praktijk: wachtzaal, onthaal, consultatieruimtes en sanitair, en wat bij de praktijk blijft.",
+ "eyebrow": "Checklist",
+ "h1": "Checklist voor de wekelijkse poetsbeurt van je praktijk",
+ "lead": "Een praktijk die elke week dezelfde ronde krijgt, ziet er elke maandag even verzorgd uit. Gebruik deze lijst om je eigen poetsbeurt vast te leggen, of om ze door een vaste Zondag te laten doen.",
+ "answer": "Een wekelijkse poetsbeurt voor een praktijk omvat wachtzaal, onthaal, consultatie- en behandelruimtes, sanitair, vloeren en afval. Instrumenten, sterilisatie en medisch materiaal blijven bij de praktijk zelf. Zondags (zondags.be) laat die ronde elke week doen door dezelfde vaste persoon, overdag op weekdagen, met een dienstenfactuur op naam van je vennootschap. Gebruik de lijst hieronder als basis voor je zondagsplan.",
+ "facts": [
+  "Wachtzaal, onthaal, consultatieruimtes",
+  "Sanitair, vloeren en afval",
+  "Instrumenten blijven bij de praktijk",
+  "Vaste Zondag, vaste dag",
+  "Eerste 2 uur gratis"
+ ],
+ "sections": [
+  {
+   "h2": "Hoe je de lijst gebruikt",
+   "p": [
+    "Loop de lijst één keer door met je eigen praktijk voor ogen en schrap wat niet past. Wat overblijft, is je vaste ronde. Een vaste ronde is het verschil tussen een praktijk die er soms goed uitziet en een die er altijd goed uitziet.",
+    "Hang de lijst op in de personeelsruimte of geef ze mee aan je Zondag. Zo weet iedereen wat er wekelijks gebeurt en wat tussendoor door het team gedaan moet worden."
+   ]
+  },
+  {
+   "h2": "Wachtzaal en onthaal",
+   "p": [
+    "<ul class=\"ticks\"><li>Stoelen, armleuningen en tafeltjes afnemen</li><li>Tijdschriften en folders netjes leggen en verouderde weghalen</li><li>Balie en computerscherm van stof ontdoen</li><li>Vloer stofzuigen en dweilen</li><li>Glazen deuren en ramen langs binnen</li><li>Vuilnisbak legen</li></ul>"
+   ]
+  },
+  {
+   "h2": "Consultatie- en behandelruimtes",
+   "p": [
+    "<ul class=\"ticks\"><li>Oppervlakken en meubilair afnemen</li><li>Vloer en plinten</li><li>Lavabo en kranen</li><li>Spiegels en handdoekhouders</li><li>Prullenbak legen en nieuwe zak plaatsen</li></ul>",
+    "Een behandeltafel of onderzoeksbank reinigen volgens de voorschriften van je beroep blijft bij de praktijk. Je Zondag poetst de ruimte errond."
+   ]
+  },
+  {
+   "h2": "Sanitair en keuken",
+   "p": [
+    "<ul class=\"ticks\"><li>Toilet, lavabo en spiegel</li><li>Papier, zeep en handdoeken aanvullen</li><li>Vloeren en afvoerputjes</li><li>Keukenblad, koffiemachine en frigo-deur</li><li>Vaatwasser leegmaken of laten draaien</li></ul>"
+   ]
+  },
+  {
+   "h2": "Wat bij de praktijk blijft",
+   "p": [
+    "Zondags doet geen sterilisatie en reinigt geen medisch materiaal of instrumenten. Dat blijft een taak van de praktijk zelf. Ook werken op hoogte, gevelreiniging en technische klussen horen er niet bij. Spreek met je Zondag af waar de grens ligt, zodat niemand twijfelt wat er wel of niet aangeraakt wordt.",
+    "Meer over de volledige aanpak lees je op <a href=\"diensten/praktijkschoonmaak.html\">praktijkschoonmaak</a>."
+   ]
+  },
+  {
+   "h2": "Eén keer per maand en één keer per jaar",
+   "p": [
+    "Niet alles hoeft wekelijks. Plaats een paar taken in een maandritme, zoals radiatoren en lamphouders afnemen, en een paar in een jaarritme, zoals het grondig reinigen van de wachtzaal. Een Zondag kan die extra beurten inplannen binnen je zondagsplan, of je boekt een losse opdracht voor een grote poetsbeurt."
+   ]
+  },
+  {
+   "h2": "Zondags erbij",
+   "p": [
+    "Je Zondag komt overdag op weekdagen, vroeg in de ochtend of over de middag, op een vaste dag. Een vennootschap kan geen dienstencheques kopen. Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap, waarop het beroepsmatige deel gescheiden staat van een eventueel privégedeelte. Laat je accountant bevestigen hoe dit voor jouw situatie werkt.",
+    "Aanvragen kan via het formulier of de chat. Binnen één werkdag belt iemand je terug. De eerste 2 uur zijn gratis."
+   ]
+  },
+  {
+   "h2": "Een korte gewoonte voor je team",
+   "p": [
+    "Tussen twee wekelijkse beurten kan je team veel opvangen. Laat iedereen na een consultatie de tafel afnemen, een volle prullenbak meteen vervangen en een lege zeepdispenser melden. Zo blijft de ronde van je Zondag een aanvulling, en geen inhaalbeweging. Je past de lijst aan wanneer je praktijk groeit of er een ruimte bijkomt."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Wat hoort er in een wekelijkse poetsbeurt van een praktijk?",
+   "a": "Wachtzaal, onthaal, consultatie- en behandelruimtes, sanitair, keuken, vloeren en afval. Instrumenten, sterilisatie en medisch materiaal blijven bij de praktijk zelf."
+  },
+  {
+   "q": "Kan Zondags mijn praktijk wekelijks laten poetsen?",
+   "a": "Ja. Zondags (zondags.be) stuurt dezelfde vaste persoon op een vaste dag, overdag op weekdagen. Je kan ook kiezen voor een tweewekelijks ritme."
+  },
+  {
+   "q": "Wordt medisch materiaal gereinigd door een Zondag?",
+   "a": "Nee. Sterilisatie en reiniging van medisch materiaal en instrumenten doet Zondags niet. Dat blijft bij de praktijk."
+  },
+  {
+   "q": "Hoe vaak moet een praktijk gepoetst worden?",
+   "a": "Dat hangt af van het aantal cliënten en de soort praktijk. Voor veel praktijken is wekelijks een goed vertrekpunt, met af en toe een grotere beurt."
+  },
+  {
+   "q": "Hoe wordt dit gefactureerd?",
+   "a": "Met een dienstenfactuur op naam van je vennootschap. Een vennootschap kan geen dienstencheques kopen. Laat je accountant bevestigen hoe je dit verwerkt."
+  }
+ ]
+}

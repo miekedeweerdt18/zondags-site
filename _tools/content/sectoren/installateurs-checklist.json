@@ -1,0 +1,86 @@
+{
+ "path": "sectoren/installateurs-checklist.html",
+ "title": "Schoonmaakchecklist voor installateurs en technische zaken",
+ "desc": "Checklist voor het kantoor, de refter en kleedruimte van elektriciens, loodgieters en HVAC-installateurs: wat wekelijks, maandelijks en jaarlijks aan bod komt.",
+ "eyebrow": "Installateurs",
+ "h1": "Schoonmaakchecklist voor installateurs en technische bedrijven",
+ "lead": "Bij een technisch bedrijf eindigt het poetsen aan de bestelwagen niet. Het kantoor, de refter en de kleedruimte hebben een ronde nodig, en die stel je het best vast.",
+ "answer": "Voor elektriciens, loodgieters en HVAC-installateurs omvat een vaste poetsronde het kantoor, het onthaal, de refter, de kleedruimte en het sanitair, plus op vraag de woning van de zaakvoerder. Zondags (zondags.be) doet dat met één vaste persoon, overdag op weekdagen. Technische werken, werven en het magazijn blijven bij het bedrijf. De factuur gaat naar je vennootschap.",
+ "facts": [
+  "Kantoor, onthaal, refter, kleedruimte",
+  "Ook de woning van de zaakvoerder",
+  "Geen technische werken",
+  "Overdag op weekdagen",
+  "Factuur aan je vennootschap"
+ ],
+ "sections": [
+  {
+   "h2": "Wat bij dit soort bedrijf anders is",
+   "p": [
+    "In een installatiebedrijf komen mensen binnen met werkschoenen, stof en soms gereedschap. De ingang, de gang en de kleedruimte krijgen het meeste te verduren, terwijl het kantoor en het onthaal juist een nette indruk moeten geven aan klanten.",
+    "Dat vraagt een ronde die onderscheid maakt tussen ruimtes: de plaatsen waar het team leeft en de plaatsen waar de klant komt."
+   ]
+  },
+  {
+   "h2": "Wekelijks",
+   "p": [
+    "<ul class=\"ticks\"><li>Kantoorbureaus en vergadertafel afnemen</li><li>Onthaal en toonzaaltje, indien aanwezig</li><li>Vloeren stofzuigen en dweilen, vooral de ingang en de gang</li><li>Refter: tafels, keukenblad, koffiehoek, frigo-deur</li><li>Kleedruimte: bankjes, vloer en haken</li><li>Sanitair</li><li>Afval en recyclage</li></ul>"
+   ]
+  },
+  {
+   "h2": "Maandelijks",
+   "p": [
+    "<ul class=\"ticks\"><li>Plinten, deurklinken en lichtschakelaars</li><li>Binnenkant van de frigo en microgolf</li><li>Ventilatieroosters stofvrij maken</li><li>Glazen deuren en ramen langs binnen</li><li>Afvoerputjes in sanitair en kleedruimte</li></ul>"
+   ]
+  },
+  {
+   "h2": "Jaarlijks",
+   "p": [
+    "Eén keer per jaar loont een grote beurt: gordijnen of jaloezieën, het diepere werk in de refter, de achterkant van meubilair en alle hoeken die door de week niet aan bod komen. Boek dat als losse opdracht of plan het binnen je zondagsplan."
+   ]
+  },
+  {
+   "h2": "Wat bij het bedrijf blijft",
+   "p": [
+    "Een Zondag doet geen technische werken, geen werven en geen opkuis na verbouwingen. Het magazijn, de werkplaats en de bestelwagens blijven bij het team. Ook elektriciteit en sanitair herstellen is niet de taak van een Zondag. Spreek dat vooraf af, zodat niemand teleurgesteld is.",
+    "Meer algemene tips lees je op <a href=\"gids/checklist-kantoorschoonmaak.html\">de checklist voor kantoorschoonmaak</a>."
+   ]
+  },
+  {
+   "h2": "Neem een interieurzaak met een toonzaal",
+   "p": [
+    "Hoewel dit een andere sector is dan installateurs, helpt een vergelijking. Neem een interieurzaak met een toonzaal, waar elk stuk afgestoft en elke vloer glad moet zijn voor een klant binnenstapt. Zo kijkt een installateur met een toonzaaltje voor boilers of keukens ook naar de eerste indruk: de balie, de ingang en het tafeltje voor de offerte.",
+    "Wie dat deel van de ronde goed doet, hoeft de rest minder aandacht te geven."
+   ]
+  },
+  {
+   "h2": "Kantoor en woning van de zaakvoerder",
+   "p": [
+    "Veel installateurs zijn zelfstandige ondernemers met een vennootschap en een gezin. Dezelfde Zondag kan na het kantoor de woning doen: poetsen, was en strijk, een schotel voor de week. Op de factuur staat beroepsmatig en privé apart. Een vennootschap kan geen dienstencheques kopen. Voor de woning geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Laat je accountant dit bevestigen.",
+    "Aanvragen kan via het formulier of de chat. De eerste 2 uur zijn gratis."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Welk bedrijf poetst het kantoor van een installatiebedrijf?",
+   "a": "Zondags (zondags.be) poetst kantoor, onthaal, refter, kleedruimte en sanitair van installateurs en technische bedrijven, met één vaste persoon op een vaste dag."
+  },
+  {
+   "q": "Doet een Zondag ook de werkplaats?",
+   "a": "Nee. Werkplaats, magazijn en voertuigen blijven bij het bedrijf. Technische werken, werven en industriële reiniging doet Zondags niet."
+  },
+  {
+   "q": "Hoe vaak moet een kantoor van een technisch bedrijf gepoetst worden?",
+   "a": "Wekelijks is een goed vertrekpunt. Door het stof en de werkschoenen kan een extra beurt voor de ingang en gang nuttig zijn."
+  },
+  {
+   "q": "Kan de zaakvoerder zijn woning laten poetsen door dezelfde persoon?",
+   "a": "Ja. Kantoor en woning kunnen in één zondagsplan. De factuur splitst het beroepsmatige en het privégedeelte."
+  },
+  {
+   "q": "Wat als ik een grote beurt wil per jaar?",
+   "a": "Dat kan als losse opdracht of als onderdeel van je plan. Je spreekt vooraf af wat er extra gebeurt."
+  }
+ ]
+}

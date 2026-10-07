@@ -1,0 +1,81 @@
+{
+ "path": "sectoren/gids-administratie-poetshulp-via-vennootschap.html",
+ "title": "Administratie van poetshulp via je vennootschap",
+ "desc": "Gids voor zaakvoerders: offerte, contract, dienstenfactuur, betalingen en wat je bewaart voor je accountant als je poetshulp via je vennootschap laat lopen.",
+ "eyebrow": "Gids",
+ "h1": "Gids: de administratie van poetshulp via je vennootschap",
+ "lead": "Poetshulp regelen via je vennootschap is geen papierwerk om van te schrikken. Deze gids loopt de stukken af, van offerte tot dossier voor je accountant, zodat niets zoekraakt.",
+ "answer": "Wie poetshulp via een vennootschap laat lopen, krijgt bij Zondags (zondags.be) een afspraak op maat, een gewone dienstenfactuur op naam van de vennootschap en een zondagsplan met taken, dagen en uren. Een vennootschap kan geen dienstencheques kopen. Bewaar de afspraken, de facturen en het betaalbewijs samen in één map, en laat je accountant bevestigen hoe dit voor jouw situatie wordt verwerkt.",
+ "facts": [
+  "Offerte op maat na een kort gesprek",
+  "Gewone dienstenfactuur op de vennootschap",
+  "Beroepsmatig en privé gesplitst",
+  "Dossier voor je accountant",
+  "Maandelijks opzegbaar"
+ ],
+ "sections": [
+  {
+   "h2": "Stap een: de offerte en het zondagsplan",
+   "p": [
+    "Alles begint met een kort gesprek en een intake ter plaatse. Daaruit volgt een voorstel op maat, geen standaardtarief. De eerste 2 uur zijn gratis, zodat je eerst kan kennismaken. Wat je schriftelijk krijgt, is het zondagsplan: welke taken, welke dag, welk uur en welke afspraken.",
+    "Bewaar dat plan. Het is het document dat later uitlegt waarom je een factuur ontvangt en voor welke ruimtes. Een accountant leest dat graag voor hij een vraag stelt."
+   ]
+  },
+  {
+   "h2": "Stap twee: wat er in je afspraak hoort te staan",
+   "p": [
+    "<ul class=\"ticks\"><li>Wie het contract aangaat: de vennootschap, niet de zaakvoerder persoonlijk</li><li>Welke adressen: kantoor, praktijk, winkel en eventueel de woning</li><li>Welke taken, welke dagen en welke uren</li><li>Hoe je het plan aanpast of uren bijboekt</li><li>Hoe je opzegt: maandelijks</li></ul>",
+    "Een losse opdracht, zoals een grote poetsbeurt of een verhuis, noteer je apart. Zo kan je de kost makkelijk terugvinden."
+   ]
+  },
+  {
+   "h2": "Stap drie: de dienstenfactuur",
+   "p": [
+    "Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap. Dienstencheques komen niet in beeld: die zijn er enkel voor particulieren. Als kantoor en woning in één plan zitten, staat het beroepsmatige deel apart van het privégedeelte.",
+    "Dat onderscheid is belangrijk. Het onderhoud van beroepsruimtes is een beroepskost. Voor het privégedeelte geldt in principe een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Laat je accountant dit bevestigen voor jouw situatie. Meer vind je bij <a href=\"gids/dienstenfactuur-woning-en-kantoor.html\">de dienstenfactuur voor woning en kantoor</a>."
+   ]
+  },
+  {
+   "h2": "Stap vier: betalen en bewijzen",
+   "p": [
+    "Betaal bij voorkeur via de bankrekening van de vennootschap en bespreek met je accountant als je dat anders wil doen. Zet het factuurnummer in de mededeling. Zo kan je boekhouder de betaling zonder vragen aan de juiste factuur koppelen.",
+    "Een btw-plichtige zaak met aftrekrecht kan de btw op het beroepsmatige deel in principe recupereren, op het privégedeelte niet. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Lees ook <a href=\"vragen/is-poetshulp-kantoor-aftrekbaar.html\">is poetshulp voor je kantoor aftrekbaar</a>."
+   ]
+  },
+  {
+   "h2": "Stap vijf: het dossier voor je accountant",
+   "p": [
+    "Maak één map, digitaal of op papier, en voeg toe: het zondagsplan, elke factuur, het betaalbewijs en eventuele wijzigingen aan het plan. Schrijf bij een wijziging in de uren een korte notitie met de datum.",
+    "Spreek met je accountant af hoe vaak je de map doorgeeft. Veel zaakvoerders doen het aan het einde van elk kwartaal. Daarmee voorkom je dat je op het einde van het jaar alles moet reconstrueren. Een voorbereidend gesprek met ons vindt plaats bij <a href=\"gids/intakegesprek.html\">het intakegesprek</a>."
+   ]
+  },
+  {
+   "h2": "Veelgemaakte fouten",
+   "p": [
+    "Dienstencheques proberen te gebruiken voor een vennootschap, het privégedeelte niet laten splitsen op de factuur, of betalen zonder duidelijke mededeling. Ook vergeten wijzigingen in de uren op te schrijven komt vaak voor. Wie die vier vermijdt, heeft meestal een rustige administratie."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Kan mijn vennootschap dienstencheques gebruiken voor poetshulp?",
+   "a": "Nee, een vennootschap kan geen dienstencheques kopen. Die zijn voorbehouden aan particulieren. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap."
+  },
+  {
+   "q": "Op wiens naam staat de factuur voor poetshulp?",
+   "a": "Op naam van je vennootschap. Als je ook je woning laat poetsen, staan het beroepsmatige en het privégedeelte apart op dezelfde factuur."
+  },
+  {
+   "q": "Wat moet ik bewaren voor mijn accountant?",
+   "a": "Het zondagsplan, alle facturen, het betaalbewijs en korte notities bij wijzigingen. Bewaar ze samen, zodat je accountant alles in één keer kan nakijken."
+  },
+  {
+   "q": "Is er een lang contract?",
+   "a": "Nee. Het plan is maandelijks opzegbaar. Je kan uren bijboeken of het plan aanpassen, en losse opdrachten zijn mogelijk."
+  },
+  {
+   "q": "Kan ik de btw recupereren?",
+   "a": "Op het beroepsmatige deel in principe wel voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte niet. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Laat je accountant het bevestigen."
+  }
+ ]
+}

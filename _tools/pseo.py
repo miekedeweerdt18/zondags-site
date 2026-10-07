@@ -359,6 +359,18 @@ STREEK_PAGE={'regio Kortrijk':'regio-kortrijk','regio Roeselare':'regio-roeselar
 SERV={'kookhulp':('Kookhulp aan huis','bedrijven/kookhulp-voor-bedrijven.html','vragen/thuis-laten-koken-terwijl-je-werkt.html',['04-koken','09-keuken-dansen','eten-3-bakjes']),
       'boodschappendienst':('Boodschappendienst','bedrijven/boodschappendienst-voor-bedrijven.html','vragen/boodschappen-laten-doen-ondernemer.html',['10-boodschappen','04-koken']),
       'hulp-in-huis':('Hulp in huis','bedrijven/hulp-in-huis-voor-ondernemers.html','vragen/hulp-in-huis-voor-zelfstandigen.html',['02-kinderopvang','11-tuin-plant','06-strijken','07-tuin'])}
+SERV.update({
+ 'schoonmaak-kantoor':('Schoonmaakhulp voor kantoren','bedrijven/poetshulp-voor-bedrijven.html','vragen/hoe-vaak-kantoor-poetsen.html',['01-poetsen','12-dweilen','08-woonkamer']),
+ 'schoonmaak-praktijk':('Schoonmaakhulp voor praktijken','bedrijven/poetshulp-voor-bedrijven.html','vragen/hygiene-afspraken-praktijk.html',['12-dweilen','01-poetsen','05-wassen']),
+ 'schoonmaak-winkel':('Schoonmaakhulp voor winkels','bedrijven/poetshulp-voor-bedrijven.html','vragen/schoonmaakplan-winkel-maken.html',['01-poetsen','12-dweilen','08-woonkamer']),
+ 'au-pair-alternatief':('Alternatief voor een au pair','bedrijven/hulp-in-huis-voor-ondernemers.html','vragen/au-pair-of-huishoudhulp-voor-ondernemers.html',['03-au-pair','02-kinderopvang','06-strijken']),
+ 'vaste-huishoudhulp-ipv-au-pair':('Vaste huishoudhulp in plaats van een au pair','bedrijven/hulp-in-huis-voor-ondernemers.html','vragen/verschil-au-pair-en-vaste-huishoudhulp.html',['03-au-pair','06-strijken','04-koken']),
+ 'hulp-ondernemersgezin-schoolkinderen':('Hulp voor ondernemersgezinnen met schoolkinderen','bedrijven/hulp-in-huis-voor-ondernemers.html','vragen/taken-vaste-huishoudhulp-schoolkinderen.html',['02-kinderopvang','03-au-pair','04-koken']),
+ 'kinderen-ophalen-school':('Kinderen ophalen van school','bedrijven/hulp-in-huis-voor-ondernemers.html','vragen/kan-iemand-anders-kinderen-van-school-halen.html',['02-kinderopvang','03-au-pair']),
+ 'opvang-na-school':('Opvang na school aan huis','bedrijven/hulp-in-huis-voor-ondernemers.html','vragen/wat-is-opvang-na-school-aan-huis.html',['02-kinderopvang','03-au-pair','04-koken']),
+ 'opvang-woensdagnamiddag':('Opvang op woensdagnamiddag','bedrijven/hulp-in-huis-voor-ondernemers.html','vragen/woensdagnamiddag-regelen-als-je-werkt.html',['02-kinderopvang','03-au-pair']),
+ 'vieruurtje-en-avondeten':('Vieruurtje en avondeten voor schoolkinderen','bedrijven/kookhulp-voor-bedrijven.html','vragen/vieruurtje-laten-klaarzetten.html',['04-koken','02-kinderopvang','eten-3-bakjes']),
+})
 SERV_LABEL={'kookhulp':'Kookhulp','boodschappendienst':'Boodschappendienst','hulp-in-huis':'Hulp in huis'}
 GROUP_ORDER={g:[P for P in CPLAN if P['group']==g] for g in ('poetshulp','regio','sectoren','vragen')}
 def siblings(P, n):
@@ -382,10 +394,10 @@ for idx,(path,(P,C)) in enumerate(CONTENT.items()):
         rel.append((f'Poetshulp in {P["provincie"]}',f'poetshulp/{prov}.html'))
         for b in P['in_de_buurt']:
             q=f'poetshulp/{slug(b)}.html'
-            if cexists(q) and len(rel)<6: rel.append((f'Poetshulp in {b}',q))
-        for key in ('kookhulp','boodschappendienst','hulp-in-huis'):
+            if cexists(q) and len(rel)<4: rel.append((f'Poetshulp in {b}',q))
+        for key in ('schoonmaak-kantoor','schoonmaak-praktijk','kookhulp','boodschappendienst','hulp-in-huis'):
             q=f'regio/{key}-{sp}.html'
-            if cexists(q): rel.append((f'{SERV_LABEL[key]} in {P["place"]}',q))
+            if cexists(q): rel.append((f'{SERV_LABEL.get(key,SERV[key][0])} in {P["place"]}',q))
         if os.path.exists(f'regio/huishoudhulp-{sp}.html'): rel.append((f'Huishoudelijke hulp in {P["place"]}',f'regio/huishoudhulp-{sp}.html'))
         rel.append(('Poetshulp voor bedrijven','bedrijven/poetshulp-voor-bedrijven.html'))
         crumbs_items=[('Home',''),('Poetshulp per gemeente','poetshulp/'),(P['h1'],path[:-5])]
@@ -403,17 +415,38 @@ for idx,(path,(P,C)) in enumerate(CONTENT.items()):
                  "provider":{"@id":BASE+"#org"},"areaServed":[area]+[{"@type":"City","name":m} for m,_ in mem][:40],"audience":{"@type":"BusinessAudience","name":"Bedrijven, ondernemers en vrije beroepen"}}
     elif kind=='dienst-stad':
         key=P['dienst']; label,pillar,vraag,imgs=SERV[key]; gemeente=P['place']; img=pick(path,imgs); erv=ERV
-        for k2 in ('kookhulp','boodschappendienst','hulp-in-huis'):
-            q=f'regio/{k2}-{slug(P["place"])}.html'
-            if k2!=key and cexists(q): rel.append((f'{SERV_LABEL[k2]} in {P["place"]}',q))
         if cexists(f'poetshulp/{slug(P["place"])}.html'): rel.append((f'Poetshulp voor bedrijven in {P["place"]}',f'poetshulp/{slug(P["place"])}.html'))
+        _sib=[]
+        for k2 in SERV:
+            q=f'regio/{k2}-{slug(P["place"])}.html'
+            if k2!=key and cexists(q): _sib.append((f'{SERV_LABEL.get(k2,SERV[k2][0])} in {P["place"]}',q))
+        rel+=_sib[:4]
         if os.path.exists(f'regio/huishoudhulp-{slug(P["place"])}.html'): rel.append((f'Huishoudelijke hulp in {P["place"]}',f'regio/huishoudhulp-{slug(P["place"])}.html'))
         rel.append((f'{label} voor ondernemers',pillar))
         if cexists(vraag): rel.append((CONTENT[vraag][0]['h1'],vraag))
         crumbs_items=[('Home',''),('Regio','regio/'),(P['h1'],path[:-5])]
         ld_main={"@context":"https://schema.org","@type":"Service","name":P['h1'],"description":C['lead'],"serviceType":label,
                  "provider":{"@id":BASE+"#org"},"areaServed":place_area(P),"audience":{"@type":"BusinessAudience","name":"Ondernemers, zaakvoerders en vrije beroepen"}}
-    elif kind in ('sector','ruimte','situatie'):
+    elif kind=='ruimte-stad':
+        img=pick(path,['01-poetsen','12-dweilen','08-woonkamer','05-wassen']); gemeente=P['place']
+        _pil=f'sectoren/{P["ruimte"]}.html'
+        if cexists(_pil): rel.append((CONTENT[_pil][0]['h1'],_pil))
+        rel+=[(Q['h1'],Q['path']) for Q in CPLAN if Q['kind']=='ruimte-stad' and Q['place']==P['place'] and Q['path']!=path and cexists(Q['path'])][:3]
+        rel+=[(Q['h1'],Q['path']) for Q in CPLAN if Q['kind']=='ruimte-stad' and Q['ruimte']==P['ruimte'] and Q['place'] in P['in_de_buurt'] and cexists(Q['path'])][:2]
+        if cexists(f'poetshulp/{slug(P["place"])}.html'): rel.append((f'Poetshulp voor bedrijven in {P["place"]}',f'poetshulp/{slug(P["place"])}.html'))
+        crumbs_items=[('Home',''),('Per type bedrijf','sectoren/'),(P['h1'],path[:-5])]
+        ld_main={"@context":"https://schema.org","@type":"Service","name":P['h1'],"description":C['lead'],"serviceType":P['h1'],
+                 "provider":{"@id":BASE+"#org"},"areaServed":place_area(P),"audience":{"@type":"BusinessAudience","name":"Bedrijven, ondernemers en vrije beroepen"}}
+    elif kind=='sector-dienst':
+        img=pick(path,['01-poetsen','12-dweilen','08-woonkamer','05-wassen'])
+        _par=f'sectoren/{P["sector"]}.html'
+        if cexists(_par): rel.append((CONTENT[_par][0]['h1'],_par))
+        rel+=[(Q['h1'],Q['path']) for Q in CPLAN if Q['kind']=='sector-dienst' and Q['sector']==P['sector'] and Q['path']!=path and cexists(Q['path'])]
+        rel+=[('Poetshulp voor bedrijven in Kortrijk','poetshulp/kortrijk.html'),('Poetshulp voor bedrijven','bedrijven/poetshulp-voor-bedrijven.html')]
+        crumbs_items=[('Home',''),('Per type bedrijf','sectoren/'),(P['h1'],path[:-5])]
+        ld_main={"@context":"https://schema.org","@type":"Service","name":P['h1'],"description":C['lead'],"serviceType":P['h1'],
+                 "provider":{"@id":BASE+"#org"},"areaServed":AREAS,"audience":{"@type":"BusinessAudience","name":"Bedrijven, ondernemers en vrije beroepen"}}
+    elif kind in ('sector','ruimte','situatie','gids'):
         img=pick(path,['01-poetsen','12-dweilen','08-woonkamer','05-wassen'])
         rel=[(Q['h1'],Q['path']) for Q in siblings(P,4)]+[('Poetshulp voor bedrijven','bedrijven/poetshulp-voor-bedrijven.html'),('Poetshulp per gemeente','poetshulp/')]
         crumbs_items=[('Home',''),('Per type bedrijf','sectoren/'),(P['h1'],path[:-5])]
@@ -483,7 +516,7 @@ if CONTENT:
       'Van kapsalon tot transportbedrijf, van refter tot kantoorverhuis: zo werkt poetshulp voor jouw soort zaak.',
       ['Elke zaak vraagt iets anders: een winkel wil proper open, een praktijk wil een frisse wachtzaal, een kmo wil een refter en sanitair die de ploeg graag gebruikt. Zondags levert daarvoor één vaste persoon, overdag op weekdagen, met een factuur op naam van je vennootschap.',
        'Kies hieronder je sector, de ruimte die je wil laten onderhouden of de gelegenheid waarvoor je hulp zoekt.'],
-      [('Per sector',by('sector')),('Per ruimte',by('ruimte')),('Bij een bijzondere gelegenheid',by('situatie'))],
+      [('Per sector',by('sector')),('Per ruimte',by('ruimte')),('Per ruimte in Kortrijk en omgeving',by('ruimte-stad')),('Checklists en gidsen',by('gids')),('Checklist, zaak en woning en Kortrijk per sector',by('sector-dienst')),('Bij een bijzondere gelegenheid',by('situatie'))],
       [('Welke bedrijven kunnen bij Zondags terecht?',"Kantoren, praktijken, winkels, showrooms, kmo's, vzw's en zelfstandigen met een vennootschap in West- en Oost-Vlaanderen. Industriële reiniging, werken op hoogte en technische klussen doen we niet."),
        ('Kan ik ook een losse opdracht vragen?','Ja. Een grote poetsbeurt, een kantoorverhuis of een opkuis na een receptie kan als losse opdracht, naast of zonder een vast plan.'),
        ('Wanneer komt de poetshulp?',"Overdag op weekdagen, ook vroeg in de ochtend of over de middag. Niet 's avonds en niet in het weekend.")])

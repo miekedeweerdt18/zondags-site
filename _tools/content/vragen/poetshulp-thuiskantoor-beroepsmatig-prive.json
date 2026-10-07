@@ -1,0 +1,83 @@
+{
+ "path": "vragen/poetshulp-thuiskantoor-beroepsmatig-prive.html",
+ "title": "Poetshulp voor een thuiskantoor: beroepsmatig of privé?",
+ "desc": "Wat is beroepsmatig en wat privé als je een thuiskantoor laat poetsen? Zo splits je het op de factuur, met je accountant als controle.",
+ "eyebrow": "Vraag",
+ "h1": "Poetshulp voor een thuiskantoor: wat is beroepsmatig en wat privé?",
+ "lead": "Werk je vanuit een kamer van je woning, dan loopt beroepsmatig en privé door elkaar. Een goede splitsing op de factuur maakt het voor je accountant duidelijk.",
+ "answer": "Bij een thuiskantoor is het poetsen van de ruimte die je voor je beroep gebruikt in principe beroepsmatig, en het poetsen van de rest van de woning privé. Zondags (zondags.be) laat dezelfde vaste persoon beide doen en zet ze apart op één dienstenfactuur op naam van je vennootschap. Hoe dat voor jouw situatie verwerkt wordt, bevestigt je accountant.",
+ "facts": [
+  "Thuiskantoor: beroepsmatig deel",
+  "Rest van de woning: privé",
+  "Eén vaste persoon, één factuur",
+  "Splitsing op de factuur",
+  "Je accountant bevestigt",
+  "Eerste 2 uur gratis"
+ ],
+ "sections": [
+  {
+   "h2": "Eerst: wat is het thuiskantoor precies?",
+   "p": [
+    "De vraag begint bij de ruimte. Gebruik je een aparte kamer uitsluitend voor je werk, dan is het duidelijk waar het kantoor eindigt. Werk je aan de keukentafel of in de woonkamer, dan is de grens minder scherp.",
+    "Een nauwkeurige omschrijving van wat bij het kantoor hoort, helpt je Zondag én je accountant. Leg ze vast in het zondagsplan."
+   ]
+  },
+  {
+   "h2": "Een overzicht om te starten",
+   "p": [
+    "<ul class=\"ticks\"><li>Beroepsmatig: de kamer of ruimte die je voor je werk gebruikt, en in principe de ontvangstruimte voor klanten</li><li>Gemengd: gang, sanitair en keuken die zowel voor werk als gezin gebruikt worden</li><li>Privé: slaapkamers, woonkamer, keuken van het gezin en de rest van de woning</li></ul>",
+    "Voor de gemengde ruimtes beslis je samen met je accountant hoe je het verdeelt. Zondags rekent niet zelf af of verdeelt boekhoudkundig; we splitsen enkel op de factuur wat jullie vooraf afspreken.",
+    "Vraag je Zondag in de eerste weken niet om alles tegelijk. Eerst het kantoor, dan de gedeelde ruimtes, dan de woning. Zo groeit het plan mee met je vertrouwen in de persoon die het uitvoert."
+   ]
+  },
+  {
+   "h2": "Wat het fiscaal betekent",
+   "p": [
+    "Een vennootschap kan geen dienstencheques kopen; die zijn enkel voor particulieren. Het onderhoud van beroepsruimtes is een beroepskost. Voor het privégedeelte, de woning van de bedrijfsleider, geldt een voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst.",
+    "Btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte in principe niet. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren."
+   ]
+  },
+  {
+   "h2": "Stel: een IT-consultant met een thuiskantoor",
+   "p": [
+    "Neem een IT-consultant met een bureau in een zijkamer van zijn woning. Zijn Zondag komt op woensdag, poetst het bureau en de gang naar het kantoor, en doet daarna de rest van het huis. Op de factuur staan twee delen: kantoor als beroepsmatig, de rest van de woning als privé.",
+    "Zo hoeft de consultant niets op te splitsen met een rekenmachine; de factuur doet dat. Lees ook <a href=\"vragen/kantoor-en-woning-een-poetshulp.html\">één poetshulp voor kantoor en woning</a>.",
+    "Heb je een vraag over een specifieke situatie, bijvoorbeeld een thuiskantoor met klanten die langskomen, bespreek dat in de intake. Dan weet je Zondag welke ruimte als kantoor telt en hoe die er bij aankomst van klanten uit moet zien."
+   ]
+  },
+  {
+   "h2": "Wat je accountant moet bevestigen",
+   "p": [
+    "Dit zijn algemene principes, geen persoonlijk advies. Vraag je accountant of de verdeling die jij voorstelt, past voor je situatie, of je btw kan recupereren en hoe het privégedeelte in je boekhouding komt. Doe dat voor je het plan vastlegt, niet achteraf."
+   ]
+  },
+  {
+   "h2": "Hoe Zondags dit aanpakt",
+   "p": [
+    "Je doet een aanvraag via het formulier of de chat. Binnen één werkdag belt iemand terug en volgt de intake in je woning en kantoor. Daar leggen we vast welke ruimtes tot het kantoor horen en welke privé zijn. Je Zondag werkt overdag op weekdagen, op een vaste dag en een vast uur. De eerste 2 uur zijn gratis."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is het poetsen van mijn thuiskantoor een beroepskost?",
+   "a": "In principe wel voor de ruimte die je voor je beroep gebruikt. Het privégedeelte van de woning niet. Laat je accountant bevestigen hoe dat voor jouw situatie werkt."
+  },
+  {
+   "q": "Hoe splitst Zondags beroepsmatig en privé op de factuur?",
+   "a": "We zetten de ruimtes die jullie als kantoor afspreken apart van de rest van de woning, op één dienstenfactuur op naam van je vennootschap."
+  },
+  {
+   "q": "Kan ik dienstencheques gebruiken voor mijn thuiskantoor?",
+   "a": "Een vennootschap kan geen dienstencheques kopen; die zijn voorbehouden aan particulieren. Zondags werkt met een gewone dienstenfactuur."
+  },
+  {
+   "q": "Wat met de gang en het sanitair die ik voor beide gebruik?",
+   "a": "Dat zijn gemengde ruimtes. Bespreek met je accountant hoe je ze verdeelt. Zondags splitst op de factuur wat jullie samen afspreken."
+  },
+  {
+   "q": "Moet mijn Zondag het thuiskantoor apart poetsen?",
+   "a": "Dat hangt van je wens af. Dezelfde Zondag kan kantoor en woning in één beurt doen, of op verschillende dagen."
+  }
+ ]
+}

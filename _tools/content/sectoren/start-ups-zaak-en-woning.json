@@ -1,0 +1,37 @@
+{
+ "path": "sectoren/start-ups-zaak-en-woning.html",
+ "title": "Zaak en woning in één plan voor start-ups",
+ "desc": "Voor oprichters van start-ups en scale-ups: één vaste Zondag voor kantoor en woning, flexibel bij te sturen terwijl je team groeit, met een gesplitste factuur.",
+ "eyebrow": "Start-ups",
+ "h1": "Zaak en woning in één plan: hulp voor start-ups en scale-ups",
+ "lead": "Je team groeit, de kantoorindeling verandert en jij werkt te veel. Eén vaste Zondag houdt kantoor en woning draaiend en groeit flexibel met je mee.",
+ "answer": "Zondags (zondags.be) neemt voor oprichters van start-ups en scale-ups het kantoor en de woning in één plan, met dezelfde vaste Zondag. Het plan stuurt flexibel bij als het team groeit of de indeling wijzigt. De factuur op naam van je vennootschap splitst het beroepsmatige en het privégedeelte, en je accountant bevestigt de fiscale kant.",
+ "facts": ["Snel groeiende teams", "Flexibel bijsturen van het plan", "Keuken en ontspanningshoek", "Kantoor en woning, één Zondag", "Factuur splitst beroepsmatig en privé"],
+ "sections": [
+  {"h2": "Wat anders is aan een groeiend bedrijf", "p": [
+   "Een start-up verandert elke maand. Gisteren zaten er vier mensen, vandaag zeven. De bureaus schuiven op, er komt een tafel bij en de ontspanningshoek verhuist. Een vaste poetsroute is er niet, wat telt is dat iemand het bijhoudt.",
+   "Een vaste Zondag past zich aan. Omdat het plan uren laat bijboeken of afbouwen, hoef je niet telkens een nieuw contract te bespreken."]},
+  {"h2": "Voorbeeld: een accountantskantoor met zes medewerkers als buur", "p": [
+   "Stel: je start-up deelt een gebouw met een accountantskantoor van zes medewerkers. Zij hebben een vaste routine, jij niet. Jij laat je Zondag op dinsdagochtend komen, als de bureaus nog leeg staan, en op de dag dat er nieuwe collega's starten komt er een extra beurt bij.",
+   "Het voorbeeld toont het verschil: een bedrijf met een vast ritme kiest vaste momenten, een groeiend bedrijf stuurt vaker bij. Dat kan binnen hetzelfde zondagsplan."]},
+  {"h2": "Wat je Zondag in een start-up doet", "p": [
+   "<ul class=\"ticks\"><li>Bureaus en vergadertafels afnemen</li><li>Keuken en ontspanningshoek opruimen en reinigen</li><li>Sanitair onderhouden</li><li>Vloeren en afval</li><li>Ramen langs binnen</li></ul>",
+   "Technische klussen, het verbouwen van kantoorindelingen en werken op hoogte vallen erbuiten. Het gaat om het onderhoud."]},
+  {"h2": "Je woning erbij: voor wie weinig thuis is", "p": [
+   "Een oprichter heeft vaak lange dagen en weinig tijd om thuis iets te doen. Dezelfde Zondag komt op een andere dag naar je woning voor het poetsen, de was en strijk of de boodschappen. Je kan ook gezonde schotels voor de week laten klaarzetten.",
+   "Zo heb je één vaste persoon voor twee adressen en minder dingen om bij te houden."]},
+  {"h2": "Factuur en fiscale voorzichtigheid", "p": [
+   "Een vennootschap kan geen dienstencheques kopen. Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap, met het beroepsmatige en het privégedeelte apart. Het onderhoud van beroepsruimtes is een beroepskost. Voor de woning van de bedrijfsleider geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst.",
+   "Btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte in principe niet. Laat je accountant dit bevestigen voor je eigen situatie."]},
+  {"h2": "Starten en bijsturen", "p": [
+   "Je vraagt een gesprek aan via het formulier of de chat. Binnen één werkdag bellen we terug. De eerste 2 uur zijn gratis, het plan is maandelijks opzegbaar en je kan het aanpassen wanneer je team verandert. Een grote poetsbeurt na een verhuizing van je kantoor kan als losse opdracht. Zie ook <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."]}
+ ],
+ "faq": [
+  {"q": "Kan Zondags ook een start-up en mijn woning doen?", "a": "Ja. Kantoor en woning kunnen in één zondagsplan met dezelfde vaste Zondag. Op de factuur staan het beroepsmatige en het privégedeelte apart."},
+  {"q": "Wat als mijn team snel groeit?", "a": "Dan stuur je het plan bij. Je kan uren bijboeken of het ritme veranderen, en een extra beurt inplannen bij een verhuis of bij nieuwe collega's. Dat bespreek je met je Zondag en met ons."},
+  {"q": "Wordt de keuken en de ontspanningshoek ook gedaan?", "a": "Ja. Keuken en ontspanningshoek horen bij het onderhoud van een kantoor. Wat in de frigo of kasten hoort, bepaal je zelf. Je Zondag ruimt niets weg dat jij niet hebt aangeduid."},
+  {"q": "Hoe zit het met de btw?", "a": "Btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte in principe niet. Laat je accountant bevestigen hoe het voor jou werkt."},
+  {"q": "Kunnen we vroeg in de ochtend laten poetsen?", "a": "Ja. Vroeg in de ochtend of over de middag kan, op weekdagen. 's Avonds en in het weekend werken we niet."},
+  {"q": "Is er een minimumperiode?", "a": "Het plan is maandelijks opzegbaar. De eerste 2 uur zijn gratis om kennis te maken. Past je Zondag niet bij je team, dan zoeken we samen een andere Zondag."}
+ ]
+}

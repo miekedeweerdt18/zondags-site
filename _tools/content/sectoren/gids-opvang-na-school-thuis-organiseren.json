@@ -1,0 +1,38 @@
+{
+ "path": "sectoren/gids-opvang-na-school-thuis-organiseren.html",
+ "title": "Gids: opvang na school thuis organiseren",
+ "desc": "Dagritme, vieruurtje, afspraken en communicatie: een praktische gids voor ouders-ondernemers die de opvang na school bij hen thuis willen regelen.",
+ "eyebrow": "Gids",
+ "h1": "Gids: opvang na school bij jou thuis organiseren",
+ "lead": "Wie na school opvang bij zich thuis organiseert, wil dat het rustig verloopt. Deze gids loopt het dagritme, de afspraken en de grenzen van een vaste Zondag na.",
+ "answer": "Opvang na school bij jou thuis organiseren met Zondags (zondags.be) betekent: een vaste Zondag haalt je kinderen uit het lager of de eerste jaren van het secundair op, geeft een vieruurtje en blijft tot jij thuis bent, als onderdeel van de hulp in huis. Zondags is geen erkende kinderopvang, geen crèche en geen buitenschoolse opvang. De afspraken leg je vast in het zondagsplan.",
+ "facts": ["Lager en eerste jaren secundair", "Vieruurtje en rustmoment thuis", "Afspraken in het zondagsplan", "Geen baby's of peuters", "Geen huiswerkbegeleiding"],
+ "sections": [
+  {"h2": "Begin met de vraag: wat heb je echt nodig", "p": [
+   "Niet elk gezin zoekt hetzelfde. De ene ouder heeft elke dag een uur nodig, de andere alleen op dinsdag en donderdag. Sommigen willen vooral dat de kinderen niet alleen thuiskomen, anderen willen er ook het eten en de was bij.",
+   "Schrijf vooraf op welke dagen, van welk uur tot welk uur en met welke taken. Dat is je startpunt voor het gesprek met Zondags."]},
+  {"h2": "Een dagritme dat kinderen herkennen", "p": [
+   "Kinderen houden van voorspelbaarheid. Een vast ritme maakt de namiddag rustig.",
+   "<ul class=\"ticks\"><li>Aankomst thuis: jas, boekentas en een kort gesprek over de dag</li><li>Vieruurtje: iets gezonds en iets lekkers, volgens jullie afspraken</li><li>Rustmoment of vrij spelen</li><li>Een klein klusje zoals de boekentas klaarzetten voor morgen</li><li>Overdracht aan jou wanneer je thuis bent</li></ul>",
+   "Je Zondag volgt jullie huisregels, geen eigen regels. Dat bespreek je in de intake."]},
+  {"h2": "Afspraken die je vooraf vastlegt", "p": [
+   "Wie mag het kind ophalen? Dat regel jij als ouder met de school, want Zondags beheert geen contracten van de school. Wat doet je Zondag als een kind zich niet goed voelt? Hoe bereikt ze jou? Wat mag het kind eten en wat niet?",
+   "Zulke vragen leg je samen vast in het zondagsplan. Zo hoeft niemand te improviseren, en weet je Zondag precies waar ze aan toe is. Zieke kinderen vangen we niet op."]},
+  {"h2": "Communicatie tussen jou, je Zondag en je kinderen", "p": [
+   "Zorg voor één vast kanaal, bijvoorbeeld een korte berichtenlijn op WhatsApp, waarlangs je Zondag laat weten dat de kinderen veilig thuis zijn. Spreek ook af wat je wilt weten: alleen problemen, of ook een korte samenvatting.",
+   "Stel je kinderen voor aan je Zondag voor de eerste echte namiddag. Een eerste kennismaking tijdens de intake maakt het begin makkelijker, voor hen en voor jou."]},
+  {"h2": "Wat Zondags wel en niet is", "p": [
+   "Zondags is geen erkende kinderopvang, geen crèche en geen buitenschoolse opvang. We werken niet met baby's of peuters en doen geen huiswerkbegeleiding en geen medische zorg. Wat je krijgt is een vaste Zondag die kinderen ophaalt en thuis opvangt als deel van de hulp in huis.",
+   "Dezelfde persoon kan ook het huis poetsen, de was en strijk doen, koken en boodschappen. Heb je een zaak, dan kan je Zondag ook die onderhouden. Lees meer op <a href=\"gids/kinderen-ophalen-als-ondernemer.html\">kinderen ophalen als ondernemer</a>."]},
+  {"h2": "Factuur en start", "p": [
+   "Een vennootschap kan geen dienstencheques kopen. Je krijgt een gewone dienstenfactuur op naam van je vennootschap. Voor het privégedeelte geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Laat je accountant het bevestigen.",
+   "Vraag aan via het formulier of de chat, binnen één werkdag bellen we terug. Daarna volgt de intake met het zondagsplan. De eerste 2 uur zijn gratis. Opvang in schoolvakanties beloven we niet vooraf, die bekijken we samen in het intakegesprek."]}
+ ],
+ "faq": [
+  {"q": "Hoe organiseer ik opvang na school bij mij thuis?", "a": "Je vraagt een vaste Zondag aan bij Zondags. Die haalt je kinderen op, geeft een vieruurtje en blijft tot jij thuis bent. De afspraken leg je samen vast in het zondagsplan tijdens de intake."},
+  {"q": "Is Zondags een kinderopvang?", "a": "Nee. Zondags is geen erkende kinderopvang, geen crèche en geen buitenschoolse opvang. Het gaat om hulp in huis, waarbij je Zondag kinderen thuis opvangt."},
+  {"q": "Wat als mijn kind ziek is?", "a": "Zieke kinderen vangen we niet op, en medische zorg doen we niet. Spreek in het zondagsplan af hoe je Zondag jou verwittigt en wie het overneemt als een kind zich niet goed voelt."},
+  {"q": "Helpt een Zondag ook met huiswerk?", "a": "Nee. Huiswerkbegeleiding hoort er niet bij. Je Zondag zorgt voor een rustig moment, een vieruurtje en toezicht. Jij of de school blijft verantwoordelijk voor het schoolwerk."},
+  {"q": "Wie regelt het ophalen met de school?", "a": "Jij, als ouder. Zondags beheert geen contracten van de school. Je spreekt met de school af wie je kind mag ophalen en dat leggen we mee vast in het zondagsplan."}
+ ]
+}

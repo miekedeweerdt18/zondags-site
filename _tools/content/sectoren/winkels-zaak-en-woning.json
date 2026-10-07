@@ -1,0 +1,36 @@
+{
+ "path": "sectoren/winkels-zaak-en-woning.html",
+ "title": "Zaak en woning in één plan: hulp voor winkels en boetieks",
+ "desc": "Een winkel of boetiek en je woning in één zondagsplan, door dezelfde vaste Zondag, met één factuur die beroepsmatig en privé uit elkaar houdt.",
+ "eyebrow": "Winkels en boetieks",
+ "h1": "Zaak en woning in één plan: hulp voor winkels en boetieks",
+ "lead": "Wie een winkel runt, werkt lange dagen en komt thuis in een huis dat ook aandacht vraagt. Eén vaste Zondag kan winkel en woning samen nemen.",
+ "answer": "Zondags (zondags.be) laat de zaakvoerder van een winkel of boetiek zaak en woning door dezelfde vaste persoon doen. De dienstenfactuur op naam van de vennootschap houdt het beroepsmatige en het privégedeelte uit elkaar. Het privégedeelte wordt verwerkt als forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Je accountant bevestigt de details.",
+ "facts": ["Winkel en woning in één plan", "Poetsen voor de opening", "Eén factuur, twee gedeeltes", "Steeds dezelfde Zondag", "Overdag op weekdagen", "Eerste 2 uur gratis"],
+ "sections": [
+  {"h2": "Een week in een boetiek met een woning erboven", "p": [
+   "Neem een boetiek in een winkelstraat, met de woning van de zaakvoerder erboven. Op dinsdag wil je de winkel schoon hebben voor de deur om negen uur opengaat. Op donderdag liggen thuis de wasmanden vol en de keuken heeft aandacht nodig. Dat zijn twee adressen, twee taken en meestal één persoon, namelijk jij, die het zelf doet in de uurtjes die overblijven.",
+   "In een zondagsplan komt dezelfde Zondag op beide dagen. Op dinsdag werkt die in de winkel, vroeg in de ochtend. Op donderdag in je woning, voor de was, de strijk en het huishouden. Voor jou is het één afspraak en één contactpersoon."]},
+  {"h2": "Wat in de winkel aan de beurt komt", "p": [
+   "<ul class=\"ticks\"><li>Winkelvloer gezogen en gedweild</li><li>Paskamers opgeruimd en spiegels afgenomen</li><li>Toonbank en kassazone afgenomen</li><li>Etalage langs binnen</li><li>Stockruimte bijgehouden</li><li>Sanitair gepoetst</li></ul>",
+   "Wat je zelf doet, zoals je etalage inrichten of je rekken aanvullen, blijft bij jou. De ramen langs buiten op hoogte laten we ook aan anderen over."]},
+  {"h2": "De factuur in twee gedeeltes", "p": [
+   "Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap. Daarop staat een beroepsmatig gedeelte voor de winkel en een privégedeelte voor je woning. Zo zie je meteen wat bij de zaak hoort en wat privé is.",
+   "Een vennootschap kan geen dienstencheques kopen, die zijn voorbehouden aan particulieren. Het poetsen van de winkel is een beroepskost. Meer over het opbouwen van zo'n factuur lees je op <a href=\"gids/dienstenfactuur-woning-en-kantoor.html\">de dienstenfactuur voor woning en kantoor</a>."]},
+  {"h2": "Wat je boekhouder wil nakijken", "p": [
+   "Voor het gedeelte van je woning geldt een forfaitair voordeel van alle aard. Dat vraagt dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst. Een vast ritme is dus een voorwaarde, geen luxe.",
+   "Ook de btw heeft twee kanten: op het winkelgedeelte is ze in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, op het woninggedeelte in principe niet. Heeft je winkel een bijzonder btw-statuut, dan kijkt je boekhouder daar zeker naar. Laat dit bevestigen voor jouw situatie."]},
+  {"h2": "Eén vertrouwd gezicht in twee huizen", "p": [
+   "De winst van een gemengd plan zit in vertrouwen. Je Zondag leert je winkel en je huis kennen, en ziet sneller wat er die week nodig is. Je spreekt met één persoon af en controleert één factuur.",
+   "Je Zondag is gescreend door Zondags en in dienst van Zondags. Bij ziekte of verlof zoeken wij een oplossing, zonder een vervanger te beloven. Klikt het niet, dan zoeken we samen een andere Zondag. Voor de brede aanpak voor handelszaken zie je <a href=\"sectoren/winkels.html\">poetshulp voor winkels</a>."]},
+  {"h2": "Hoe je ermee begint", "p": [
+   "Je vraagt aan via het formulier of de chat. Binnen één werkdag belt iemand je terug. We komen langs, kijken naar winkel en woning en bouwen samen het zondagsplan op. De eerste 2 uur zijn gratis. Een extra beurt boeken voor de uitverkoop of een nieuwe collectie kan, en het plan is maandelijks opzegbaar."]}
+ ],
+ "faq": [
+  {"q": "Kan één persoon zowel mijn boetiek als mijn woning onderhouden?", "a": "Ja. Je vaste Zondag kan winkel en woning in één zondagsplan nemen, op verschillende dagen of na elkaar. De factuur houdt beide gedeeltes uit elkaar."},
+  {"q": "Wanneer wordt de winkel gepoetst?", "a": "Overdag op een weekdag, bij voorkeur vroeg in de ochtend vóór je opent. Je Zondag werkt nooit 's avonds en nooit in het weekend."},
+  {"q": "Hoe verwerkt mijn accountant het woninggedeelte?", "a": "Als forfaitair voordeel van alle aard, mits de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Je accountant bevestigt hoe dat bij jou werkt."},
+  {"q": "Kan ik de btw op de poetshulp terugvragen?", "a": "Voor de winkel in principe wel, als je zaak btw-plichtig is met aftrekrecht. Voor de woning in principe niet. Laat je accountant dit nakijken."},
+  {"q": "Wat als mijn Zondag ziek is?", "a": "Dan zoeken wij een oplossing. We beloven geen vaste vervanger, maar we denken mee."}
+ ]
+}

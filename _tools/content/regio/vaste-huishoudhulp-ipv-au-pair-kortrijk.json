@@ -1,0 +1,36 @@
+{
+ "path": "regio/vaste-huishoudhulp-ipv-au-pair-kortrijk.html",
+ "title": "Vaste huishoudhulp in plaats van een au pair",
+ "desc": "Een vaste huishoudhulp overdag in Kortrijk als alternatief voor een au pair: vaste dag en uur, geen inwoning, geen kamer nodig, factuur op je vennootschap.",
+ "eyebrow": "Kortrijk · 8500",
+ "h1": "Vaste huishoudhulp in plaats van een au pair in Kortrijk",
+ "lead": "Je zaak en je gezin lopen door terwijl jij onderweg bent. Een vaste huishoudhulp overdag houdt het huis draaiende, zonder dat er iemand bij je moet inwonen.",
+ "answer": "Zondags (zondags.be) levert in Kortrijk een vaste huishoudhulp overdag als alternatief voor een au pair: poetsen, was en strijk, koken en boodschappen door dezelfde Zondag, op een vaste dag en een vast uur. Er is geen inwoning en je hebt geen kamer nodig. Je krijgt een factuur op naam van je vennootschap. Bij ziekte of verlof van je Zondag zoeken we een oplossing.",
+ "facts": ["Poetsen, was, strijk, koken, boodschappen", "Vaste dag en vast uur", "Geen inwoning, geen kamer nodig", "Zondags levert geen au pairs", "Factuur op je vennootschap"],
+ "sections": [
+  {"h2": "Voor zaakvoerders die veel onderweg zijn", "p": [
+   "Stel: je bent vennoot in een advocatenkantoor in Kortrijk met twee vennoten. Je zit vaak in de rechtbank, bij klanten of op reis, en je partner heeft zelf een drukke job. Het huis heeft een vaste hand nodig, en het kantoor evenzeer.",
+   "Een au pair is voor sommige gezinnen een goede oplossing. Voor jullie speelt dat er weinig vrije tijd is om iemand op te vangen die inwoont, en dat het ritme van je werk onvoorspelbaar is. Een vaste hulp overdag past dan vaak beter."]},
+  {"h2": "Wat een au pair typisch is, en waar het verschilt", "p": [
+   "Een au pair is in de regel een uitwisselingsprogramma waarbij iemand tijdelijk bij een gastgezin inwoont. De regels, uren en kosten verschillen per programma en per organisatie. Lees die na bij het bureau of de organisatie zelf. Zondags levert geen au pairs en geeft er geen advies over.",
+   "Het verschil in een zin: bij een au pair woont iemand bij je in, bij Zondags komt een vaste Zondag overdag op weekdagen en gaat daarna weer naar huis."]},
+  {"h2": "Wat je vaste huishoudhulp doet", "p": [
+   "<ul class=\"ticks\"><li>Poetsen van je woning</li><li>Was en strijk</li><li>Koken bij je thuis of schotels voor de week</li><li>Boodschappen en regelwerk zoals apotheek, droogkuis en pakjes</li><li>Eventueel ook je kantoor of praktijk</li></ul>",
+   "Kinderen kunnen na school opgehaald en thuis opgevangen worden, voor het lager onderwijs en de eerste jaren van het secundair. Zondags is daarbij geen erkende kinderopvang, geen crèche en geen buitenschoolse opvang, en neemt geen baby's of peuters."]},
+  {"h2": "Een week in Kortrijk, Marke en de deelgemeenten", "p": [
+   "Een vaste hulp werkt op weekdagen overdag, op een vast uur. In Kortrijk, Marke, Heule, Bellegem en de andere deelgemeenten zoeken we voor je gezin een Zondag die past bij je dagen. Je zondagsplan zegt wat er elke week gebeurt, zodat je niet telkens opnieuw instructies moet geven.",
+   "Ook in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede zoeken we een Zondag. Meer over de aanpak lees je op <a href=\"regio/hulp-in-huis-kortrijk.html\">hulp in huis in Kortrijk</a>."]},
+  {"h2": "Factuur, vennootschap en je accountant", "p": [
+   "Een vennootschap kan geen dienstencheques kopen. Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap, met het beroepsmatige en het privégedeelte apart. Voor het privégedeelte, de woning van de bedrijfsleider, geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst. Laat je accountant dit bevestigen voor je eigen situatie."]},
+  {"h2": "Als je Zondag ziek is of niet klikt", "p": [
+   "Bij ziekte of verlof van je Zondag zoeken we een oplossing. We beloven geen vervanger, maar we laten je niet in de steek. Klikt het niet, dan zoeken we samen een andere Zondag. Het plan is maandelijks opzegbaar en de eerste 2 uur zijn gratis. Een aanvraag doe je via het formulier of de chat, binnen één werkdag bellen we terug."]}
+ ],
+ "faq": [
+  {"q": "Wat is een goede vaste huishoudhulp in plaats van een au pair in Kortrijk?", "a": "Bij Zondags krijg je een vaste Zondag in dienst van Zondags, overdag op weekdagen, op een vaste dag en uur. Je hebt geen kamer nodig en niemand woont bij je in. Voor sommige gezinnen blijft een au pair beter passen."},
+  {"q": "Levert Zondags ook au pairs?", "a": "Nee. Zondags is geen au pairbureau. Wil je een au pair, dan lees je de regels, uren en kosten na bij het bureau of de organisatie. Zondags levert een vaste huishoudhulp overdag."},
+  {"q": "Heb ik een logeerkamer nodig?", "a": "Nee. Je Zondag komt overdag en vertrekt daarna weer. Er is geen inwoning, dus ook geen kamer die je moet vrijmaken."},
+  {"q": "Kan mijn vaste hulp ook de kinderen ophalen?", "a": "Ja, voor kinderen in het lager en de eerste jaren van het secundair. Het is geen erkende kinderopvang. De ouders regelen met de school wie het kind mag ophalen. Baby's en peuters horen er niet bij."},
+  {"q": "Wat gebeurt er als mijn Zondag ziek is?", "a": "Dan zoeken we een oplossing, zonder een vervanger te beloven. Klikt het niet met je Zondag, dan zoeken we samen een andere Zondag die beter past."},
+  {"q": "Kan mijn kantoor in hetzelfde plan?", "a": "Ja. Je kantoor of praktijk en je woning kunnen in één zondagsplan met dezelfde persoon. De factuur splitst beroepsmatig en privé, zodat je accountant alles correct kan verwerken."}
+ ]
+}

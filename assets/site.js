@@ -84,17 +84,63 @@
     Object.entries(groups).forEach(([k,v])=>{let h=f.querySelector('input[type=hidden][name="'+k+'"]');if(!h){h=document.createElement('input');h.type='hidden';h.name=k;f.appendChild(h);}h.value=v.join(', ')||'niets aangeduid';});
   }));
 
-  /* Herkomst van de bezoeker (laatste niet-rechtstreekse bron), zodat elke aanvraag toont waar ze vandaan komt */
+  /* Herkomst van de bezoeker: kanaal (SEO, SEA, ChatGPT, social, direct, ...) van het laatste niet-rechtstreekse bezoek, zodat elke aanvraag toont waar ze vandaan komt */
   const SRC=(function(){
     let s=null; try{s=JSON.parse(localStorage.getItem('zd_src')||'null');}catch(e){}
-    const q=new URLSearchParams(location.search), u=['utm_source','utm_medium','utm_campaign'].map(k=>q.get(k)).filter(Boolean);
-    const ref=document.referrer&&document.referrer.indexOf(location.host)<0?document.referrer.replace(/^https?:\/\//,'').split('/')[0]:'';
-    if(u.length||ref||!s){
-      const now={bron:u.join(' / ')||ref||'direct',landing:location.pathname,datum:new Date().toISOString().slice(0,10)};
-      if(!s||u.length||ref){s=now;try{localStorage.setItem('zd_src',JSON.stringify(s));}catch(e){}}
+    const q=new URLSearchParams(location.search), g=k=>(q.get(k)||'').toLowerCase();
+    const src=g('utm_source'), med=g('utm_medium'), camp=q.get('utm_campaign')||'';
+    const host=document.referrer&&document.referrer.indexOf(location.host)<0?document.referrer.replace(/^https?:\/\//,'').split('/')[0].replace(/^www\./,'').toLowerCase():'';
+    const paid=/^(cpc|ppc|paid|paidsearch|paid_search|paid-search|paid_social|paid-social|cpm|display)$/.test(med)||q.has('gclid')||q.has('gbraid')||q.has('wbraid')||q.has('msclkid');
+    let kanaal='Direct';
+    if(q.has('gclid')||q.has('gbraid')||q.has('wbraid')||(paid&&/google/.test(src))) kanaal='SEA (Google Ads)';
+    else if(q.has('msclkid')||(paid&&/bing|microsoft/.test(src))) kanaal='SEA (Bing)';
+    else if(/(^|\.)(chatgpt\.com|chat\.openai\.com|openai\.com)$/.test(host)||/chatgpt|openai/.test(src)) kanaal=paid?'ChatGPT Ads':'ChatGPT (organisch)';
+    else if(/(^|\.)(perplexity\.ai|claude\.ai|gemini\.google\.com|copilot\.microsoft\.com|you\.com|poe\.com|mistral\.ai)$/.test(host)||/perplexity|claude|gemini|copilot/.test(src)) kanaal='AI-zoekmachine';
+    else if(med==='email'||/^(email|e-mail|nieuwsbrief|newsletter|klaviyo)$/.test(src)) kanaal='E-mail';
+    else if(paid&&/facebook|instagram|meta|linkedin|tiktok|pinterest/.test(src)) kanaal='Social (betaald)';
+    else if(paid) kanaal='Betaald (andere)';
+    else if(/(^|\.)google\.[a-z.]+$/.test(host)) kanaal='SEO (Google)';
+    else if(/(^|\.)(bing\.com|duckduckgo\.com|ecosia\.org|yahoo\.com|qwant\.com|startpage\.com|search\.brave\.com)$/.test(host)) kanaal='SEO (andere zoekmachine)';
+    else if(/(^|\.)(facebook\.com|instagram\.com|linkedin\.com|lnkd\.in|t\.co|twitter\.com|x\.com|tiktok\.com|pinterest\.[a-z]+|youtube\.com|whatsapp\.com|l\.messenger\.com)$/.test(host)||/facebook|instagram|linkedin|tiktok|whatsapp/.test(src)) kanaal='Social';
+    else if(host) kanaal='Verwijzing';
+    else if(src) kanaal='Campagne ('+src+')';
+    if(kanaal!=='Direct'||!s){
+      const detail=[src,med,camp].filter(Boolean).join(' / ')||host||(q.has('gclid')?'gclid':'');
+      const now={kanaal:kanaal,detail:detail,campagne:camp,verwijzer:host,landing:location.pathname,datum:new Date().toISOString().slice(0,10)};
+      now.bron=kanaal+(detail?' | '+detail:'');
+      if(!s||kanaal!=='Direct'){s=now;try{localStorage.setItem('zd_src',JSON.stringify(s));}catch(e){}}
     }
+    if(s&&!s.kanaal){s.kanaal='Onbekend (oud)';s.bron=s.kanaal+(s.bron?' | '+s.bron:'');}
+    window.ZD_SRC=s;
     return s;
   })();
+
+  /* Meting voor Google Ads (conversie "Aanvraag verzonden"), alleen na toestemming van de bezoeker */
+  const AW='AW-18500746602', CONV='AW-18500746602/yeOuCKajopUdEOr66_VE';
+  window.ZD_CONV=CONV;
+  window.dataLayer=window.dataLayer||[];
+  if(!window.gtag) window.gtag=function(){window.dataLayer.push(arguments);};
+  if(LIVE){
+    const grant={ad_storage:'granted',ad_user_data:'granted',ad_personalization:'granted',analytics_storage:'granted'};
+    let ok=null; try{ok=localStorage.getItem('zd_consent');}catch(e){}
+    gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',wait_for_update:400});
+    if(ok==='ja') gtag('consent','update',grant);
+    gtag('js',new Date()); gtag('config',AW);
+    const gs=document.createElement('script'); gs.async=true; gs.src='https://www.googletagmanager.com/gtag/js?id='+AW; document.head.appendChild(gs);
+    if(/^\/bedankt(\.html)?\/?$/.test(location.pathname)){
+      let done=null; try{done=sessionStorage.getItem('zd_conv');}catch(e){}
+      if(!done){gtag('event','conversion',{send_to:CONV});try{sessionStorage.setItem('zd_conv','1');}catch(e){}}
+    }
+    if(ok===null){
+      const bar=document.createElement('div'); bar.className='consent'; bar.setAttribute('role','dialog'); bar.setAttribute('aria-label','Cookies');
+      bar.innerHTML='<p>We meten anoniem of onze advertenties werken. Mag dat?</p><div><button type="button" data-c="ja">Ja, prima</button><button type="button" data-c="nee">Nee, bedankt</button></div>';
+      bar.addEventListener('click',e=>{const c=e.target.getAttribute&&e.target.getAttribute('data-c'); if(!c) return;
+        try{localStorage.setItem('zd_consent',c);}catch(err){}
+        if(c==='ja') gtag('consent','update',grant);
+        bar.remove();});
+      document.body.appendChild(bar);
+    }
+  }
 
   /* Elke formulieraanvraag ook meteen naar WhatsApp en de leadsheet (zelfde koppeling als de chat) */
   const HOOK='https://hook.eu2.make.com/kxqukx7dzzc666hvuefito1g4uytlvad';
@@ -102,13 +148,13 @@
   $$('form[action*="formsubmit"]').forEach(f=>f.addEventListener('submit',e=>{
     if(e.defaultPrevented) return;
     const add=(n,v)=>{let h=f.querySelector('input[type=hidden][name="'+n+'"]');if(!h){h=document.createElement('input');h.type='hidden';h.name=n;f.appendChild(h);}h.value=v;};
-    if(SRC){add('Bron',SRC.bron);add('Eerste pagina',SRC.landing);}
+    if(SRC){add('Bron',SRC.bron);add('Kanaal',SRC.kanaal);add('Eerste pagina',SRC.landing);}
     const fd=new FormData(f), g=ns=>{for(const n of ns){const v=fd.get(n);if(v&&String(v).trim())return String(v).trim();}return '';};
     const subj=g(['_subject']), kand=/kandidaat/i.test(subj)||!!f.querySelector('[name="Statuut"]');
     const tel=g(['GSM','gsm','Telefoon','telefoon']), naam=g(['Naam','naam'])||(g(['voornaam'])+' '+g(['achternaam'])).trim();
     const p={source:'zondags-chat',type:kand?'Kandidaat via formulier':'Bedrijf via formulier',naam:naam,bedrijf:g(['Bedrijf','bedrijf']),statuut:g(['Statuut']),
       telefoon:tel,e_mail:g(['E-mail','email']),gemeente:g(['Gemeente','gemeente','Woonplaats','woonplaats']),wat:g(['Taken','waarvoor']),uren:g(['uren','Dagen per week','dagen']),
-      vraag:g(['Bericht','bericht','motivatie']),pagina:location.href.split('#')[0],bron:SRC?SRC.bron:'direct',eerste_pagina:SRC?SRC.landing:'',
+      vraag:g(['Bericht','bericht','motivatie']),pagina:location.href.split('#')[0],bron:SRC?SRC.bron:'Direct',kanaal:SRC?SRC.kanaal:'Direct',campagne:SRC?SRC.campagne:'',verwijzer:SRC?SRC.verwijzer:'',eerste_bezoek:SRC?SRC.datum:'',eerste_pagina:SRC?SRC.landing:'',
       tijdstip:new Date().toLocaleString('nl-BE',{timeZone:'Europe/Brussels'}),
       wa_link:tel?'https://wa.me/'+waNum(tel)+'?text='+encodeURIComponent('Hallo '+naam.split(' ')[0]+', met Mieke van Zondags. Bedankt voor je aanvraag via onze website.'):''};
     if(LIVE&&tel){try{const b=new URLSearchParams(p);if(!(navigator.sendBeacon&&navigator.sendBeacon(HOOK,b)))fetch(HOOK,{method:'POST',mode:'no-cors',keepalive:true,body:b});}catch(err){}}

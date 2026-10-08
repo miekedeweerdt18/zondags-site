@@ -300,12 +300,13 @@
   }
 
   function utm() {
-    var q = new URLSearchParams(location.search), out = [];
-    ['utm_source', 'utm_medium', 'utm_campaign'].forEach(function (k) { if (q.get(k)) out.push(q.get(k)); });
-    var ref = document.referrer && document.referrer.indexOf(location.host) < 0 ? document.referrer.replace(/^https?:\/\//, '').split('/')[0] : '';
+    var s = window.ZD_SRC || null;
+    if (!s) { try { s = JSON.parse(localStorage.getItem('zd_src') || 'null'); } catch (e) {} }
     var first = store('zc_first') || ''; if (!first) { first = location.pathname; store('zc_first', first); }
-    var saved = null; try { saved = JSON.parse(localStorage.getItem('zd_src') || 'null'); } catch (e) {}
-    return { bron: out.join(' / ') || ref || (saved && saved.bron) || 'direct', eerste: (saved && saved.landing) || first };
+    return {
+      bron: (s && s.bron) || 'Direct', kanaal: (s && s.kanaal) || 'Direct', campagne: (s && s.campagne) || '',
+      verwijzer: (s && s.verwijzer) || '', bezoek: (s && s.datum) || '', eerste: (s && s.landing) || first
+    };
   }
 
   function send() {
@@ -315,16 +316,16 @@
     var p = {
       source: 'zondags-chat', type: data.type, naam: data.naam || '', bedrijf: data.bedrijf || '', statuut: data.statuut || '',
       telefoon: data.telefoon || '', e_mail: data.email || '', gemeente: data.gemeente || '', wat: data.wat || '', uren: data.uren || '',
-      vraag: data.vraag || '', pagina: location.href.split('#')[0], bron: u.bron, eerste_pagina: u.eerste,
+      vraag: data.vraag || '', pagina: location.href.split('#')[0], bron: u.bron, kanaal: u.kanaal, campagne: u.campagne, verwijzer: u.verwijzer, eerste_bezoek: u.bezoek, eerste_pagina: u.eerste,
       tijdstip: new Date().toLocaleString('nl-BE', { timeZone: 'Europe/Brussels' }), wa_link: leadWa
     };
     try { fetch(HOOK, { method: 'POST', mode: 'no-cors', body: new URLSearchParams(p) }); } catch (e) {}
     var m = { _subject: 'Zondags chat: ' + data.type + ' · ' + (data.naam || '') + (data.gemeente ? ' · ' + data.gemeente : ''), _template: 'table', _captcha: 'false' };
     if (data.email) m._replyto = data.email;
     lines().forEach(function (l) { var i = l.indexOf(': '); m[l.slice(0, i)] = l.slice(i + 2); });
-    m['Pagina'] = p.pagina; m['Bron'] = u.bron; m['Antwoord via WhatsApp'] = leadWa || '-';
+    m['Pagina'] = p.pagina; m['Bron'] = u.bron; m['Kanaal'] = u.kanaal; m['Antwoord via WhatsApp'] = leadWa || '-';
     try { fetch(MAIL, { method: 'POST', headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' }, body: JSON.stringify(m) }); } catch (e) {}
-    try { if (window.gtag) window.gtag('event', 'generate_lead', { lead_type: flow }); if (window.dataLayer) window.dataLayer.push({ event: 'zondags_chat_lead', lead_type: flow }); } catch (e) {}
+    try { if (window.gtag) { window.gtag('event', 'generate_lead', { lead_type: flow }); if (window.ZD_CONV) window.gtag('event', 'conversion', { send_to: window.ZD_CONV }); } if (window.dataLayer) window.dataLayer.push({ event: 'zondags_chat_lead', lead_type: flow }); } catch (e) {}
     store('zc_done', '1');
     var first = (data.naam || '').split(' ')[0];
     var msg = flow === 'werk' ? 'Dank je, ' + esc(first) + '. We bellen je binnen de twee werkdagen voor een kort gesprek.' :

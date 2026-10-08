@@ -484,3 +484,12 @@ section+section.svc,section+section.fisc,section+section.band,.marquee+section{m
 .bt--sun{top:-18px;right:-18px}
 
 .art__body .ticks{margin:6px 0 18px}
+
+/* Cookiemelding (meting advertenties) */
+.consent{position:fixed;left:16px;bottom:16px;z-index:90;max-width:340px;background:var(--ink);color:var(--paper);padding:16px 18px;border-radius:14px;box-shadow:0 10px 30px rgba(0,0,0,.25);font-size:14px;line-height:1.45}
+.consent p{margin:0 0 12px}
+.consent div{display:flex;gap:8px;flex-wrap:wrap}
+.consent button{font:inherit;font-weight:600;font-size:14px;padding:9px 16px;border-radius:999px;border:1.5px solid var(--paper);background:transparent;color:var(--paper);cursor:pointer}
+.consent button[data-c="ja"]{background:var(--geel);border-color:var(--geel);color:var(--ink)}
+.consent button:focus-visible{outline:2px solid var(--geel);outline-offset:2px}
+@media (max-width:520px){.consent{left:12px;right:12px;bottom:12px;max-width:none}}

@@ -84,7 +84,7 @@ FOOT='''<footer class="foot" id="footer">
     <div><h4>Adres</h4><ul><li>Jan Van Eyckstraat 2</li><li>8510 Marke</li></ul></div>
   </div>
   <div class="foot__logo" aria-hidden="true"><span class="wm">z<i></i>ndags</span></div>
-  <div class="foot__legal"><span>&copy; 2026 Zondags, een initiatief van Hummingbirds BV. Alle rechten voorbehouden. <span class="foot__id">BE 0684.696.967</span></span></div>
+  <div class="foot__legal"><span>&copy; 2026 Zondags. Alle rechten voorbehouden. <span class="foot__id">BE 0684.696.967</span></span></div>
 </footer>
 <a class="wa" href="https://wa.me/32470565358" aria-label="Stuur een bericht via WhatsApp"><svg viewBox="0 0 24 24"><path d="M17.5 14.4c-.3-.1-1.8-.9-2-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-.3-.1-1.3-.5-2.4-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6l.4-.5c.2-.2.2-.3.3-.5.1-.2 0-.4 0-.5l-.9-2.2c-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1.1 2.9 1.2 3.1c.1.2 2.1 3.2 5.1 4.5.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.8-.7 2-1.4.2-.7.2-1.3.2-1.4-.1-.2-.3-.3-.6-.4zM12 2C6.5 2 2 6.5 2 12c0 1.8.5 3.4 1.3 4.9L2 22l5.3-1.4c1.4.8 3 1.2 4.7 1.2 5.5 0 10-4.5 10-10S17.5 2 12 2z"/></svg></a>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>

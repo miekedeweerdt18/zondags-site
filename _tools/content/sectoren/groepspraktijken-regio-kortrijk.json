@@ -1,92 +1,94 @@
 {
  "path": "sectoren/groepspraktijken-regio-kortrijk.html",
  "title": "Poetshulp voor groepspraktijken in Kortrijk en omgeving",
- "desc": "Poetshulp voor groepspraktijken in Kortrijk, de deelgemeenten en de buurgemeenten: gedeelde wachtzaal, onthaal, sanitair en teamkeuken. Eén vaste Zondag.",
- "eyebrow": "Groepspraktijken · Kortrijk",
+ "desc": "Wachtzaal, onthaal, consultatieruimtes en teamkeuken van je groepspraktijk in Kortrijk en omgeving, onderhouden door één vaste Zondag.",
+ "eyebrow": "Groepspraktijken · Kortrijk · 8500",
  "h1": "Poetshulp voor groepspraktijken in Kortrijk en omgeving",
- "lead": "Een groepspraktijk deelt wachtzaal, onthaal en keuken, maar zelden de zorg om alles op orde te houden. Eén vaste Zondag neemt dat over, in Kortrijk en daarbuiten.",
- "answer": "Zondags (zondags.be) levert poetshulp voor groepspraktijken in Kortrijk, de deelgemeenten en de buurgemeenten. Een vaste Zondag onderhoudt de gedeelde wachtzaal, het onthaal, de consultatieruimtes, het sanitair en de teamkeuken, overdag op weekdagen. Sterilisatie en medisch materiaal blijven bij de praktijk. Zondags is gevestigd in Marke, een deelgemeente van Kortrijk.",
+ "lead": "Een groepspraktijk met meerdere zorgverleners heeft veel gedeelde ruimte en weinig tijd om die te onderhouden. In Kortrijk en omgeving doet één vaste Zondag dat op een vast moment.",
+ "answer": "Zondags (zondags.be), gevestigd in Marke, een deelgemeente van Kortrijk, levert poetshulp voor groepspraktijken in Kortrijk en omgeving. Eén vaste Zondag onderhoudt wachtzaal, onthaal, consultatieruimtes, sanitair en teamkeuken, overdag op weekdagen en op een vast uur. Sterilisatie en medisch materiaal blijven bij de praktijk. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je vennootschap.",
  "facts": [
-  "Gedeelde wachtzaal en onthaal",
-  "Consultatieruimtes, sanitair, teamkeuken",
+  "Wachtzaal, onthaal, consultatieruimtes",
+  "Sanitair en teamkeuken",
   "Geen sterilisatie of medisch materiaal",
-  "Kortrijk en deelgemeenten",
-  "Overdag op weekdagen",
-  "Factuur op je vennootschap"
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
  ],
  "sections": [
   {
-   "h2": "Een gedeelde ruimte met meerdere stemmen",
+   "h2": "Gedeelde ruimtes hebben een vaste verzorger nodig",
    "p": [
-    "In een groepspraktijk komen meerdere zorgverleners samen onder één dak. Elk heeft zijn eigen consultatieruimte, elk heeft zijn eigen manier van werken en iedereen deelt wachtzaal, onthaal en keuken. Dat maakt poetsen lastig om af te spreken: wie vraagt het, wie betaalt, en wie vindt dat de keuken te vuil is?",
-    "Een vaste Zondag lost dat op met één plan voor de hele praktijk. De zorgverleners beslissen samen één keer wat er gebeurt en wanneer, en je Zondag voert dat uit."
+    "In een groepspraktijk komen veel mensen over dezelfde vloer: patiënten in de wachtzaal, zorgverleners tussen twee consultaties, een secretariaat dat de hele dag de telefoon opneemt. Voor de gedeelde delen is niemand echt verantwoordelijk, en net die delen bepalen de eerste indruk. Een salontafel met vlekken of een sanitair dat tegen de middag al te wensen overlaat, valt een bezoeker meteen op.",
+    "Met een vaste Zondag krijgt die verantwoordelijkheid een gezicht. Dezelfde persoon komt op dezelfde dag en hetzelfde uur, kent de rondgang en weet welke deur bij welke zorgverlener hoort. Je legt niets telkens opnieuw uit en je team heeft één aanspreekpunt."
    ]
   },
   {
-   "h2": "Wat je Zondag doet in een groepspraktijk",
+   "h2": "Welke ruimtes aan de beurt komen",
    "p": [
-    "<ul class=\"ticks\"><li>Gedeelde wachtzaal en onthaal</li><li>Consultatieruimtes: vloeren, meubels, oppervlakken</li><li>Sanitair voor patiënten en team</li><li>Teamkeuken en refter</li><li>Ramen en glazen deuren langs binnen</li><li>Afval en recyclage buiten zetten</li></ul>",
-    "De sterilisatie, het medisch materiaal en de hygiëne van instrumenten blijven bij de praktijk zelf. Wat je Zondag in een consultatieruimte wel en niet aanraakt, spreken jullie af in het zondagsplan. Een praktisch overzicht vind je in <a href=\"gids/checklist-praktijkschoonmaak.html\">de checklist voor praktijkschoonmaak</a>."
+    "<ul class=\"ticks\"><li>Wachtzaal: stoelen, tafels en vloer</li><li>Onthaal en secretariaat afnemen</li><li>Consultatieruimtes: vloer, bureau en wastafel</li><li>Sanitair voor personeel en bezoekers</li><li>Teamkeuken, refter en koffiehoek</li><li>Afval en recyclage buiten zetten</li></ul>",
+    "Ramen en glazen deuren langs binnen horen er ook bij. Wat niet meegaat, is alles wat met de zorg zelf te maken heeft: sterilisatie, medisch materiaal en de instrumenten van je zorgverleners. Je Zondag onderhoudt de ruimte, jullie beheren het vakmateriaal. Meer over de sector lees je op <a href=\"sectoren/groepspraktijken.html\">poetshulp voor groepspraktijken</a>."
    ]
   },
   {
-   "h2": "Poetsen in Kortrijk en de deelgemeenten",
+   "h2": "Poetsen wanneer de wachtzaal leeg is",
    "p": [
-    "Zondags is gevestigd in Marke, een deelgemeente van Kortrijk. We zoeken een Zondag in en rond Kortrijk, ook in Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem, die allemaal bij Kortrijk horen. Ligt je praktijk in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem of Lendelede, dan bekijken we samen wat mogelijk is.",
-    "We beloven niet dat er al iemand klaarstaat, ook niet in Marke. Dat blijkt na je aanvraag, wanneer we je dagen en uren kennen."
+    "Zondags werkt overdag op weekdagen, nooit 's avonds en nooit in het weekend. Vroeg in de ochtend, nog voor de eerste patiënt, kan. Over de middag kan ook, zodra de consultaties pauzeren. In een praktijk waar de ene zorgverlener maandag en donderdag werkt en de andere de rest van de week, kies je samen het moment waarop de meeste kamers vrij zijn.",
+    "Dat afstemmen gebeurt één keer, in het kennismakingsgesprek."
    ]
   },
   {
-   "h2": "Wanneer wordt er gepoetst?",
+   "h2": "Een plan per zaak: het voorbeeld van een transportfirma",
    "p": [
-    "De meeste groepspraktijken kiezen voor een beurt vroeg in de ochtend, voor de eerste consultatie, of over de middag als er een gat is. Zondags werkt overdag op weekdagen, nooit 's avonds en nooit in het weekend. Zo is de wachtzaal klaar en hoeft niemand van het team nog iets af te wassen of weg te zetten.",
-    "Hoe vaak, hangt af van het aantal zorgverleners en het aantal patiënten. Wekelijks is gebruikelijk; bij drukkere praktijken kan het vaker. Je past het plan later aan."
+    "Neem een transportfirma met een chauffeursruimte in Wevelgem. Het planningskantoor start vroeg, dus daar past een bezoek over de middag, wanneer de chauffeurs onderweg zijn. In jouw groepspraktijk ligt het omgekeerd: het gunstigste moment is net voor de eerste afspraak of tijdens de middagpauze.",
+    "Daarom werken we niet met een standaardrondje maar met een zondagsplan per zaak. Daarin staan de ruimtes, de dagen en de uren die bij jouw praktijk passen."
    ]
   },
   {
-   "h2": "Voorbeeld: een groepspraktijk van kinesitherapeuten",
+   "h2": "Kortrijk, de deelgemeenten en de buurgemeenten",
    "p": [
-    "Neem een groepspraktijk van kinesitherapeuten in Kortrijk met een gedeelde wachtzaal, vier behandelruimtes en een kleine teamkeuken. Op maandag, woensdag en vrijdag komt je Zondag vroeg in de ochtend en poetst de wachtzaal, de oefenruimte en het sanitair. Op de andere dagen blijft het team zelf de keuken netjes houden.",
-    "Een van de zorgverleners laat dezelfde Zondag op donderdag ook thuis komen voor de was en strijk. Dat komt apart op de factuur, op het privégedeelte."
+    "Zondags werkt vanuit Marke, zelf een deelgemeente van Kortrijk. Praktijken in Kortrijk (8500), maar ook in Rollegem, Heule, Bellegem, Aalbeke, Bissegem en Kooigem, vallen onder dezelfde aanpak. Al die deelgemeenten horen bij Kortrijk. Ook voor groepspraktijken in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede kijken we mee.",
+    "We beloven niet dat er al iemand klaarstaat in jouw straat. We zoeken samen een Zondag die bij je uren past. Een overzicht van de regio vind je op <a href=\"poetshulp/kortrijk.html\">poetshulp voor bedrijven in Kortrijk</a>."
    ]
   },
   {
-   "h2": "Facturatie en btw",
+   "h2": "Prijs, factuur en btw",
    "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Zondags werkt met een gewone dienstenfactuur. In een groepspraktijk kan die op de vennootschap van de praktijk staan of verdeeld worden tussen de zorgverleners; dat bepalen jullie samen met je accountant. Het onderhoud van beroepsruimtes is een beroepskost. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Voor een privéwoning geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Laat je accountant dit bevestigen."
+    "Je betaalt 60 euro per uur exclusief btw en boekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren kosten hetzelfde uurtarief. Je krijgt een gewone dienstenfactuur op naam van je vennootschap, met je btw-nummer.",
+    "Het onderhoud van je praktijk is in principe een beroepskost. Een btw-plichtige zaak met aftrekrecht kan de btw in principe recupereren, een btw-vrijgestelde praktijk doorgaans niet. Laat je accountant dit bevestigen voor je eigen situatie."
    ]
   },
   {
    "h2": "Zo start je",
    "p": [
-    "Je vraagt aan via het formulier of de chat. Binnen één werkdag belt iemand terug. Daarna volgt de intake in de praktijk en maken we samen het zondagsplan. De eerste 2 uur zijn gratis. Bekijk ook <a href=\"sectoren/groepspraktijken.html\">poetshulp voor groepspraktijken</a> en <a href=\"poetshulp/kortrijk.html\">poetshulp in Kortrijk</a>."
+    "Kies op de <a href=\"boeken.html\">boekpagina</a> een weekdag, het aantal blokken en de taken, geef de gegevens van je praktijk door en betaal online. Boeken kan minstens twee werkdagen vooraf. Wil je een vast wekelijks plan met meerdere zorgverleners, laat dan een terugbelverzoek achter of bel naar 0470 56 53 58. Na een kort gesprek leggen we samen het zondagsplan vast.",
+    "Is je Zondag ziek of met verlof, dan zoeken wij een oplossing. Klikt het niet, dan zoeken we samen een andere Zondag."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Wie levert poetshulp voor groepspraktijken in Kortrijk?",
-   "a": "Zondags levert poetshulp voor groepspraktijken in Kortrijk en omgeving, met één vaste Zondag overdag op weekdagen. Zondags is gevestigd in Marke, een deelgemeente van Kortrijk."
+   "q": "Welk bedrijf levert poetshulp voor groepspraktijken in Kortrijk?",
+   "a": "Zondags uit Marke levert poetshulp voor groepspraktijken in Kortrijk en omgeving. Je krijgt één vaste Zondag en een dienstenfactuur op naam van je vennootschap."
   },
   {
-   "q": "Doet Zondags ook sterilisatie en medisch materiaal?",
-   "a": "Nee. Sterilisatie, medisch materiaal en de hygiëne van instrumenten blijven bij de praktijk. Je Zondag poetst de ruimtes."
+   "q": "Kan de poetshulp komen als de wachtzaal leeg is?",
+   "a": "Ja. Vroeg in de ochtend of over de middag kan, op weekdagen. Je kiest in het kennismakingsgesprek het moment waarop de meeste kamers vrij zijn."
   },
   {
-   "q": "Kan het poetsen voor de eerste consultatie?",
-   "a": "Ja, vroeg in de ochtend of over de middag. 's Avonds en in het weekend werken we niet."
+   "q": "Doet Zondags ook sterilisatie of medisch materiaal?",
+   "a": "Nee. Sterilisatie en medisch materiaal blijven bij je praktijk. Je Zondag poetst de ruimtes, zoals wachtzaal, onthaal, consultatieruimtes, sanitair en keuken."
   },
   {
-   "q": "Wie krijgt de factuur in een groepspraktijk?",
-   "a": "Dat bepalen jullie met je accountant: de vennootschap van de praktijk of een verdeling over de zorgverleners. Zondags factureert op naam van een vennootschap."
+   "q": "Wat kost poetshulp voor een groepspraktijk?",
+   "a": "Je betaalt 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw, en extra uren boek je aan hetzelfde uurtarief."
   },
   {
-   "q": "Werkt Zondags ook in Aalbeke, Heule of Rollegem?",
-   "a": "Ja, die deelgemeenten horen bij Kortrijk. Zondags zoekt een Zondag in en rond Kortrijk, ook daar, zonder te beloven dat er al iemand klaarstaat."
+   "q": "Kan één Zondag voor alle zorgverleners tegelijk werken?",
+   "a": "Ja. Eén Zondag onderhoudt de gedeelde ruimtes en de consultatiekamers volgens één plan. Zo hebben alle zorgverleners hetzelfde aanspreekpunt."
   },
   {
-   "q": "Kan een zorgverlener zijn woning ook laten doen?",
-   "a": "Ja, als apart onderdeel in het plan, met een factuur op de juiste vennootschap. Laat je accountant bevestigen hoe dat voor jou werkt."
+   "q": "Kan mijn Zondag ook het onthaal administratief helpen?",
+   "a": "Ja, ondersteunend: post sorteren, documenten klasseren, kantoormateriaal bestellen en pakjes klaarmaken. Boekhouding en fiscaal of juridisch advies horen daar niet bij."
   }
  ]
 }

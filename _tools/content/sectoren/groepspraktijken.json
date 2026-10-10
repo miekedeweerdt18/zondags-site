@@ -1,34 +1,39 @@
 {
  "path": "sectoren/groepspraktijken.html",
- "title": "Poetshulp voor groepspraktijken met gedeelde wachtzaal",
- "desc": "Poetshulp voor groepspraktijken met meerdere zorgverleners: gedeelde wachtzaal, onthaal, consultatieruimtes, sanitair en teamkeuken, door één vaste Zondag.",
+ "title": "Poetshulp voor groepspraktijken met meerdere zorgverleners",
+ "desc": "Poetshulp voor een groepspraktijk: gedeelde wachtzaal, onthaal, consultatieruimtes, sanitair en teamkeuken. Eén vaste persoon, 60 euro per uur excl. btw.",
  "eyebrow": "Groepspraktijken",
  "h1": "Poetshulp voor groepspraktijken",
- "lead": "Meerdere zorgverleners, één wachtzaal, één keuken en niemand die er de tijd voor heeft. Een vaste Zondag poetst de gedeelde ruimtes en laat de dossiers met rust.",
- "answer": "Een groepspraktijk met meerdere zorgverleners in West- of Oost-Vlaanderen krijgt van Zondags (zondags.be) één vaste persoon voor de gedeelde wachtzaal, het onthaal, de consultatieruimtes, het sanitair en de teamkeuken. Sterilisatie en medisch materiaal blijven bij de praktijk, en dossiers worden niet aangeraakt. De dienstenfactuur gaat naar de vennootschap die de opdracht geeft.",
- "facts": ["Wachtzaal, onthaal en consultatieruimtes", "Sanitair en teamkeuken", "Geen sterilisatie of medisch materiaal", "Dossiers blijven waar ze liggen", "Eerste 2 uur gratis"],
+ "lead": "Wanneer meerdere zorgverleners één wachtzaal delen, is die ruimte van iedereen en dus van niemand. Een vaste Zondag onderhoudt ze, aan 60 euro per uur exclusief btw.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor groepspraktijken met meerdere zorgverleners: één vaste persoon, je Zondag, voor de gedeelde wachtzaal, het onthaal, de consultatieruimtes, het sanitair en de teamkeuken, overdag op weekdagen. Sterilisatie en medisch materiaal blijven bij het zorgteam. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw.",
+ "facts": ["Wachtzaal, onthaal, consultatieruimtes", "Sanitair en teamkeuken", "Geen sterilisatie of medisch materiaal", "Steeds dezelfde Zondag", "60 euro per uur, per blok van 3 uur", "Online boeken en betalen"],
  "sections": [
-  {"h2": "Gedeelde ruimtes, gedeelde verantwoordelijkheid", "p": [
-   "In een solopraktijk weet je wie de keuken heeft laten liggen. In een groepspraktijk niet. Vier of zes zorgverleners delen wachtzaal, onthaal en sanitair, en net daardoor voelt niemand zich echt verantwoordelijk. Eén vaste persoon met een vast plan haalt dat knelpunt weg."]},
-  {"h2": "Wat er per zone gebeurt", "p": [
-   "<ul class=\"ticks\"><li>Wachtzaal: stoelen, tafels, speelhoek en vloer</li><li>Onthaal: balie en omgeving afnemen, zonder iets te verleggen</li><li>Consultatieruimtes: vloer, wastafel en bureau</li><li>Sanitair voor patiënten en team</li><li>Teamkeuken: aanrecht, koelkast, koffiehoek en vaatwasser</li></ul>",
-   "Onderzoekstafels en andere oppervlakken die patiënten tijdens een onderzoek aanraken, blijven bij de zorgverlener zelf, ook het ontsmetten tussen twee patiënten. Je Zondag neemt de rest van het meubilair af."]},
-  {"h2": "Wat een zorgverlener zelf blijft doen", "p": [
-   "Sterilisatie, instrumenten en alles wat medisch materiaal is, blijven bij de praktijk, ook wat de ruimte daarvoor betreft. Dossiers, labels en agenda's raakt je Zondag niet aan: wat op een bureau ligt, blijft liggen en wordt omzeild. Een overzicht van wat in een praktijk bij het poetsen hoort, vind je in <a href=\"gids/checklist-praktijkschoonmaak.html\">de checklist voor praktijkschoonmaak</a>."]},
-  {"h2": "Een moment tussen twee spreekuren", "p": [
-   "Heeft je groepspraktijk een ochtend- en een middagspreekuur, dan zit er een gat in het midden. Wanneer de wachtzaal leegloopt, kan je Zondag door de ruimtes. Ook vroeg in de ochtend, voor het eerste spreekuur, is mogelijk. Wachtdiensten in de avond of het weekend vallen buiten wat we doen."]},
-  {"h2": "Wie de factuur krijgt", "p": [
-   "Bij een groepspraktijk is dat de eerste vraag van de boekhouder. De factuur gaat naar de vennootschap die de opdracht geeft. Hoe jullie de kost onderling verdelen, bepalen jullie samen met jullie accountants. Dienstencheques komen niet in aanmerking, want ze bestaan enkel voor particulieren. Het helpt om één contactpersoon aan te duiden, bijvoorbeeld een van de partners, die het plan bespreekt en de factuur ontvangt."]},
-  {"h2": "Btw voor zorgberoepen", "p": [
-   "Een btw-vrijgestelde praktijk kan de btw op poetshulp doorgaans niet recupereren, ook al is het onderhoud van de praktijk een beroepskost. Of jullie praktijk vrijgesteld is, hangt af van de beroepen en de activiteiten, dus laat je accountant nagaan wat voor jullie geldt. Meer uitleg vind je bij de vraag <a href=\"vragen/btw-vrijgestelde-praktijk-poetshulp.html\">kan een btw-vrijgestelde praktijk de btw op poetshulp recupereren</a>."]},
-  {"h2": "Zo start je met een groepspraktijk", "p": [
-   "Meestal vult één van de zorgverleners het formulier in of opent de chat. Binnen één werkdag belt iemand terug en volgt een intake in de praktijk, waar je Zondag door alle ruimtes loopt en jullie samen noteren wat open mag en wat dicht blijft. Dan staat het zondagsplan. Wil een van de partners ook thuis hulp, dan kan dat via dezelfde Zondag, met beroepsmatig en privé apart op de factuur. De eerste 2 uur met je Zondag zijn gratis."]}
+  {"h2": "Een gedeelde praktijk, een gedeelde verantwoordelijkheid", "p": [
+   "In een groepspraktijk werken verschillende zorgverleners onder één dak: een huisarts, een tandarts, een psycholoog, misschien een kinesist. Elk heeft een eigen consultatieruimte en een eigen agenda. De wachtzaal, het onthaal, de gang en het sanitair delen ze. Net die gedeelde plekken raken in de verdrukking, omdat niemand zich ervoor verantwoordelijk voelt.",
+   "Zondags legt die verantwoordelijkheid bij één vaste persoon. Je Zondag komt op vaste momenten, kent de volgorde van de ruimtes en brengt geen gewoontes mee die botsen met jullie manier van werken."]},
+  {"h2": "Wat een Zondag in een groepspraktijk onderhoudt", "p": [
+   "<ul class=\"ticks\"><li>Wachtzaal: stoelen, salontafel, leesmateriaal en vloer</li><li>Onthaal en balie</li><li>Consultatieruimtes: vloer, bureau en wastafel van buiten</li><li>Gangen en trappen</li><li>Sanitair voor patiënten en team</li><li>Teamkeuken en vergaderhoek</li><li>Afval en recyclage naar buiten</li></ul>",
+   "Wat buiten ons werk valt: het steriliseren van instrumenten, het hanteren van medisch materiaal en afval met besmettingsrisico, en alles wat met behandelingen te maken heeft. Dat blijft bij het zorgteam."]},
+  {"h2": "Neem een praktijk met vijf zorgverleners", "p": [
+   "Stel: vijf zorgverleners delen een pand met een wachtzaal, een onthaal en vijf consultatieruimtes. Niemand heeft zin om elke avond de koffiekopjes af te wassen. Met een vaste Zondag spreken jullie af: op maandag- en donderdagochtend komt ze voor de eerste afspraak en doet wachtzaal, onthaal, gangen en sanitair. De consultatieruimtes volgen volgens een rooster dat de zorgverleners onderling hebben afgesproken.",
+   "De prijs blijft eenvoudig. Jullie boeken samen blokken van 3 uur en verdelen de factuur zoals jullie het intern willen. Zondags factureert aan één bedrijf."]},
+  {"h2": "Wie betaalt, wie beslist", "p": [
+   "In een groepspraktijk staat vaak een vennootschap of een vzw als gemeenschappelijke entiteit voor de facturen. Is dat zo, dan wordt de factuur op die naam opgesteld. Werken jullie als samenwerkende zelfstandigen met een kostendeling, dan spreek je intern af wie boekt en hoe de kost verdeeld wordt.",
+   "Zondags geeft hier geen advies over. Laat een boekhouder of accountant bevestigen hoe de btw en de beroepskosten in jullie structuur werken. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren."]},
+  {"h2": "Wachtzaal en onthaal: de eerste indruk van de hele praktijk", "p": [
+   "Een patiënt oordeelt over de hele praktijk bij het binnenkomen. Een nette wachtzaal, een opgeruimd onthaal en een fris sanitair stellen gerust, ook als de behandeling zelf nog moet beginnen. Een Zondag werkt daarom met een vaste volgorde: eerst de zones waar patiënten passeren, daarna de rest.",
+   "Meer tips voor een frisse wachtruimte vind je op <a href=\"sectoren/checklist-frisse-wachtzaal.html\">de checklist voor een frisse wachtzaal</a>."]},
+  {"h2": "Administratieve hulp aan het onthaal", "p": [
+   "Een praktijkmanager of zaakvoerder heeft vaak handen te kort. Je Zondag kan post openen en sorteren, documenten klasseren, kantoormateriaal bijbestellen en de teamkeuken bevoorraden. Medische dossiers en patiëntengegevens behandelt ze niet. Het gaat om ondersteunend werk, zonder boekhouding of juridisch advies.",
+   "Lees meer over <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">een rechterhand voor bedrijfsleiders</a>."]},
+  {"h2": "Kosten en eerste stap", "p": [
+   "Je betaalt 60 euro per uur exclusief btw, in blokken van 3 uur (180 euro exclusief btw). Extra uren gaan aan hetzelfde tarief. Op de <a href=\"boeken.html\">boekpagina</a> kies je een weekdag, blokken en taken. Voor een vast schema bellen we eerst kort met jullie en leggen we samen het zondagsplan vast."]}
  ],
  "faq": [
-  {"q": "Kunnen aanrecht, koelkast en koffiehoek mee in het plan?", "a": "Ja. Aanrecht, koffiehoek, koelkast en vaatwasser horen bij de beurt. Wat je liever niet weggegooid ziet, label je, zodat je Zondag weet wat blijft staan."},
-  {"q": "Mag mijn Zondag in een consultatieruimte werken terwijl een zorgverlener patiënten ziet?", "a": "Nee, tijdens een consultatie blijft de kamer dicht. Je Zondag werkt in de ruimtes die op dat moment leeg zijn, of komt op een moment zonder spreekuur."},
-  {"q": "Wat gebeurt er met patiëntendossiers en medische gegevens?", "a": "Die blijven buiten het werk van je Zondag. Je Zondag poetst oppervlakken en vloeren, opent geen kasten met dossiers en verlegt niets op een bureau of aan de balie."},
-  {"q": "Poetst Zondags ook de sterilisatieruimte?", "a": "Nee. Sterilisatie en medisch materiaal vallen buiten ons werk, ook wat de ruimte daarvoor betreft. Dat blijft bij de praktijk. De gewone ruimtes errond, zoals gang en wachtzaal, komen wel in het plan."},
-  {"q": "Moeten alle zorgverleners het eens zijn over de poetshulp?", "a": "Jullie duiden één contactpersoon aan. Die geeft de opdracht, krijgt de factuur en bespreekt het plan. Wie wat bijdraagt, regelen jullie onderling en met jullie accountants."}
+  {"q": "Doet de poetshulp ook consultatieruimtes in een groepspraktijk?", "a": "Ja, voor het gewone onderhoud: vloer, bureau, wastafel van buiten en afval. Sterilisatie, medisch materiaal en alles wat met behandelingen te maken heeft, blijft bij het zorgteam."},
+  {"q": "Wie krijgt de factuur van de poetshulp in een groepspraktijk?", "a": "Dat is één bedrijf met btw-nummer, bijvoorbeeld de vennootschap of vzw van de praktijk. Hoe jullie de kost intern verdelen, regelen jullie zelf."},
+  {"q": "Kan dezelfde poetshulp elke week komen?", "a": "Ja. Voor een terugkerend plan komt steeds dezelfde Zondag op dezelfde dag en hetzelfde uur. Bij ziekte of verlof zoeken wij een oplossing."},
+  {"q": "Mag de poetshulp patiëntendossiers inkijken?", "a": "Nee. Je Zondag raakt geen patiëntengegevens of medische dossiers aan. Ze klasseert enkel administratieve documenten van de praktijk zelf, zoals facturen en leveranciersbrieven."},
+  {"q": "Wat kost poetshulp voor een groepspraktijk?", "a": "60 euro per uur exclusief btw, geboekt per blok van 3 uur, dus 180 euro exclusief btw. Het tarief blijft hetzelfde, ook voor extra uren."}
  ]
 }

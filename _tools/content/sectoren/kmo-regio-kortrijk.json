@@ -1,83 +1,81 @@
 {
  "path": "sectoren/kmo-regio-kortrijk.html",
  "title": "Poetshulp voor kmo's in Kortrijk en omgeving",
- "desc": "Poetshulp voor kmo's in Kortrijk, Marke, de deelgemeenten en buurgemeenten: kantoor, refter, kleedruimte en sanitair naast je atelier of magazijn.",
- "eyebrow": "Kmo's · Regio Kortrijk",
+ "desc": "Poetshulp voor je kmo in Kortrijk, de deelgemeenten en buurgemeenten: kantoor, refter, kleedruimte en sanitair door één vaste Zondag, online boekbaar.",
+ "eyebrow": "Kmo's · Kortrijk · 8500",
  "h1": "Poetshulp voor kmo's in Kortrijk en omgeving",
- "lead": "Je kmo draait in de regio Kortrijk met een kantoor, een refter, een kleedruimte en een atelier. Een vaste Zondag houdt het mensendeel van het gebouw netjes, het atelier blijft van jou.",
- "answer": "Zondags (zondags.be) werkt vanuit Marke, een deelgemeente van Kortrijk, voor kmo's in Kortrijk en omgeving. Een vaste Zondag onderhoudt kantoor, refter, kleedruimte en sanitair naast je atelier of magazijn. Industriële reiniging van productiehallen valt buiten het werk. Overdag op weekdagen, met één dienstenfactuur op naam van je vennootschap.",
+ "lead": "Een kmo in de regio Kortrijk met kantoor, refter en kleedruimte naast een atelier of magazijn. Eén vaste Zondag houdt de gedeelde ruimtes in orde.",
+ "answer": "Zondags (zondags.be) uit Marke, een deelgemeente van Kortrijk, levert poetshulp voor kmo's in Kortrijk (8500) en omgeving. Eén vaste Zondag onderhoudt kantoor, vergaderzaal, refter, kleedruimte en sanitair, overdag op weekdagen. Atelier, magazijn en productiehallen blijven bij de zaak. Je betaalt 60 euro per uur exclusief btw, geboekt per blok van 3 uur, en krijgt een factuur op naam van je vennootschap.",
  "facts": [
-  "Vanuit Marke, deelgemeente van Kortrijk",
+  "Kmo's in Kortrijk en omgeving",
   "Kantoor, refter, kleedruimte, sanitair",
   "Geen productiehallen",
-  "Heel de regio Kortrijk",
-  "Eén factuur op je vennootschap"
+  "60 euro per uur, per blok van 3 uur",
+  "Factuur op naam van je vennootschap"
  ],
  "sections": [
   {
-   "h2": "Een kmo uit de regio Kortrijk",
+   "h2": "Een kmo-site met meer dan alleen een kantoor",
    "p": [
-    "In de regio Kortrijk zitten kmo's naast elkaar die één ding gemeen hebben: een klein team op een groot gebouw. Er is een kantoor met een handvol bureaus, een refter waar iedereen samenkomt, een kleedruimte met lockers en sanitair dat dagelijks gebruikt wordt, met daarachter een atelier of magazijn.",
-    "Wat in dat gebouw aan menselijk comfort hoort, is precies wat Zondags overneemt. De productie niet. Zo houd je grip op wat in jouw vak thuishoort.",
-    "Een kleine kmo heeft zelden een interne poetsdienst, en een gewone poetsfirma stuurt vaak wisselende mensen. Een vaste Zondag is daarom handig: dezelfde persoon, dezelfde dag, dezelfde uitleg die maar één keer moet gebeuren."
+    "Kmo's in en rond Kortrijk hebben vaak meerdere gebouwdelen onder één dak: een kantoor aan de straatkant, daarachter een atelier of loods, en tussenin een refter, kleedruimte en sanitair. De zaakvoerder wil zich op de klanten richten, niet op de vraag wie vandaag de refter doet.",
+    "Zondags pakt het deel dat bij mensen hoort. Het productie- en opslaggedeelte blijft buiten beeld."
    ]
   },
   {
    "h2": "Voorbeeld: een transportfirma met een chauffeursruimte",
    "p": [
-    "Stel: je baat een transportfirma uit in de buurt van Kortrijk, met een kantoor voor planning, een chauffeursruimte met koffiemachine en lockers, een sanitair voor de chauffeurs en een stalling. Op woensdagochtend komt je Zondag voor het kantoor en de chauffeursruimte, het sanitair en de refter.",
-    "De stalling en de voertuigen vallen buiten het werk, want reiniging van voertuigen doen we niet. Wat chauffeurs binnen laten liggen, blijft van hen. De ruimte zelf is netjes voor de volgende ploeg."
+    "Stel: je hebt een transportfirma met een kantoor voor planning en administratie, en een ruimte waar chauffeurs hun papieren afgeven, koffie nemen en hun spullen neerleggen. Die chauffeursruimte krijgt veel passage en ziet er snel druk uit. Je Zondag komt op maandag en donderdag vroeg in de ochtend, nog voor de eerste chauffeurs binnenkomen: vloer, tafels, koffiehoek en sanitair, daarna het kantoor.",
+    "Voertuigen reinigen of de laadruimte onderhouden hoort er niet bij. Dat is werk voor de firma zelf of voor gespecialiseerde bedrijven."
    ]
   },
   {
-   "h2": "Wat een Zondag in je kmo doet",
+   "h2": "Wat er wanneer gebeurt",
    "p": [
-    "<ul class=\"ticks\"><li>Kantoor: bureaus, vloeren, vergaderruimte</li><li>Refter: tafels, koelkast, microgolf, koffiemachine</li><li>Kleedruimte en lockerzone, zonder persoonlijke spullen te verplaatsen</li><li>Sanitair en douches</li><li>Afval en recyclage naar de afgesproken plek</li></ul>",
-    "Industriële reiniging, productiehallen, gevelreiniging en werken op hoogte doen we niet. Voor het complete overzicht lees je <a href=\"sectoren/kmo.html\">poetshulp voor kmo's</a>."
+    "<ul class=\"ticks\"><li>Overdag op weekdagen, op een vast uur</li><li>Vroeg in de ochtend vóór het team start, of over de middag</li><li>Nooit 's avonds en nooit in het weekend</li><li>Eén beurt per week als basis, extra beurten in drukke periodes</li></ul>",
+    "Het vaste uur is geen detail. Je team weet wie er binnenkomt, de sleutel of badge ligt bij één persoon en de afspraken blijven dezelfde."
    ]
   },
   {
-   "h2": "Kortrijk, Marke en de deelgemeenten",
+   "h2": "Van Aalbeke tot Zwevegem",
    "p": [
-    "Zondags is gevestigd in Marke, een deelgemeente van Kortrijk. We zoeken Zondags in Kortrijk zelf en in Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem, die allemaal bij Kortrijk horen. Daarnaast kijken we naar Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede. We beloven niet dat er in elke plaats meteen iemand klaarstaat, maar we zoeken mee.",
-    "Meer over de aanpak in Kortrijk lees je op <a href=\"poetshulp/kortrijk.html\">poetshulp voor bedrijven in Kortrijk</a>."
+    "Zondags werkt in Kortrijk en de deelgemeenten Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem. Ook voor kmo's in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede zoeken we een Zondag die bij je uren past. We gaan er niet vanuit dat er al iemand voor jouw straat klaarstaat, maar zoeken samen.",
+    "Lees ook <a href=\"poetshulp/kortrijk.html\">poetshulp voor bedrijven in Kortrijk</a> voor de volledige aanpak in de stad."
    ]
   },
   {
-   "h2": "Wanneer er gepoetst wordt",
+   "h2": "Meer dan poetsen voor de zaakvoerder",
    "p": [
-    "Overdag op weekdagen, vroeg in de ochtend of over de middag. Zo komt je Zondag aan de beurt als het kantoor nog stil is of wanneer het team op lunch is. 's Avonds en in het weekend werken we niet. Je kiest samen een vaste dag en een vast uur.",
-    "Voor kmo's met een druk seizoen kan je Zondag in dat seizoen een extra moment krijgen. Het plan aanpassen kan, en uren bijboeken ook."
+    "Naast het onderhoud kan je Zondag taken oppakken die blijven liggen: de post sorteren, pakjes klaarmaken voor de koerier, kantoormateriaal bijbestellen, de koffiehoek aanvullen. Boekhouding en loonadministratie horen er niet bij."
    ]
   },
   {
-   "h2": "Factuur, accountant en start",
+   "h2": "Prijs, factuur en btw",
    "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van beroepsruimtes is een beroepskost. Laat je ook je woning poetsen, dan staat dat deel apart. Je accountant bevestigt hoe dit voor jou werkt.",
-    "Je vraagt aan via het formulier of de chat. Binnen één werkdag belt iemand terug, dan volgt de intake. De eerste 2 uur zijn gratis."
+    "Je betaalt 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw per blok, en voegt extra uren toe aan hetzelfde tarief. De factuur staat op naam van je vennootschap met je btw-nummer. Poetshulp is in principe een beroepskost, en de btw is bij aftrekrecht in principe recupereerbaar. Laat je accountant dit bevestigen.",
+    "Boeken doe je op de <a href=\"boeken.html\">boekpagina</a>. Meer over de sector lees je op <a href=\"sectoren/kmo.html\">poetshulp voor kmo's</a>."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Welk bedrijf levert poetshulp voor kmo's in Kortrijk?",
-   "a": "Zondags, een service uit Marke bij Kortrijk, levert een vaste persoon voor kantoor, refter, kleedruimte en sanitair van kmo's in Kortrijk en omgeving. Je krijgt één factuur op naam van je vennootschap."
+   "q": "Welk bedrijf biedt poetshulp voor kmo's in Kortrijk?",
+   "a": "Zondags, gevestigd in Marke, een deelgemeente van Kortrijk. Je krijgt één vaste persoon voor kantoor, refter, kleedruimte en sanitair, en een factuur op naam van je vennootschap."
   },
   {
-   "q": "Poetst Zondags ook mijn atelier of productiehal?",
-   "a": "Nee. Industriële reiniging en productiehallen vallen buiten het werk. Het mensendeel van het gebouw, zoals kantoor, refter, kleedruimte en sanitair, valt er wel onder."
+   "q": "Kan Zondags het atelier of magazijn poetsen?",
+   "a": "Nee. Atelier, magazijn en productiehallen vragen specifieke middelen en afspraken. Zondags doet de ruimtes waar mensen werken, eten en zich omkleden."
   },
   {
-   "q": "Werkt Zondags ook buiten Kortrijk?",
-   "a": "Ja, in heel West- en Oost-Vlaanderen. Voor kmo's rond Kortrijk denken we aan Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede."
+   "q": "Werkt Zondags ook in Menen, Wevelgem of Zwevegem?",
+   "a": "Ja, we bekijken kmo's in de hele regio rond Kortrijk, zoals Menen, Wevelgem, Zwevegem, Kuurne, Harelbeke en Lendelede. Samen zoeken we een Zondag die bij je uren past."
   },
   {
-   "q": "Kan er gepoetst worden terwijl het team aan het werk is?",
-   "a": "We plannen vroeg in de ochtend of over de middag, zodat het team zo weinig mogelijk last heeft. Samen kiezen we een vast uur dat past."
+   "q": "Wat kost het per beurt?",
+   "a": "Je betaalt 60 euro per uur exclusief btw en boekt per blok van 3 uur. Eén blok is dus 180 euro exclusief btw. Extra uren komen aan hetzelfde tarief."
   },
   {
-   "q": "Kan mijn woning in hetzelfde plan?",
-   "a": "Ja. Zaak en woning kunnen in één zondagsplan met dezelfde persoon. De factuur splitst beroepsmatig en privé."
+   "q": "Kan ik een vast ritme afspreken?",
+   "a": "Ja. Voor een vaste dag en uur bespreken we eerst kort welke taken, dagen en uren passen en leggen we het zondagsplan vast. Daarna komt steeds dezelfde persoon."
   }
  ]
 }

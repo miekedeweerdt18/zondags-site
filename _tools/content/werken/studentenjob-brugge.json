@@ -1,78 +1,35 @@
 {
  "path": "werken/studentenjob-brugge.html",
- "title": "Studentenjob in Brugge naast je masterjaar",
- "desc": "Studentenjob in Brugge en deelgemeenten als masterstudent met vrije namiddagen: vaste klanten overdag, geen avonden of weekends. Solliciteer bij Zondags.",
- "eyebrow": "Studentenjob · Brugge",
+ "title": "Studentenjob met flexibele uren in Brugge",
+ "desc": "Studentenjob in Brugge voor een masterstudent met twee vrije namiddagen per week: vaste klanten, overdag op weekdagen, studentencontract.",
+ "eyebrow": "Studentenjob · Brugge · 8000",
  "h1": "Studentenjob met flexibele uren in Brugge",
- "lead": "Twee vrije namiddagen per week zijn genoeg om zinvol bij te werken. In Brugge vul je ze als Zondag bij dezelfde klanten, zonder dat je thesis erbij inboet.",
- "answer": "Zondags (zondags.be) zoekt studenten vanaf 18 jaar voor een studentenjob in Brugge en de deelgemeenten, van Sint-Andries tot Lissewege. Als Zondag werk je overdag op weekdagen bij vaste klanten, bijvoorbeeld op twee vaste namiddagen per week. Je krijgt een studentencontract en volgt je urensaldo zelf op via Student@work. Solliciteren kan via het formulier, de chat of WhatsApp op 0470 56 53 58.",
- "facts": [
-  "Studenten vanaf 18 jaar",
-  "Ook voor masterstudenten met weinig lessen",
-  "Twee vaste namiddagen is genoeg",
-  "Geen avonden, geen weekends",
-  "Klanten in je buurt"
- ],
+ "lead": "Stel: je bent masterstudent met twee vrije namiddagen per week. Dan loont een vaste job die precies in die twee blokken past, bij bedrijven in Brugge.",
+ "answer": "Zondags (zondags.be) zoekt studenten vanaf 18 jaar in en rond Brugge voor een studentenjob met flexibele uren. Je werkt als Zondag overdag op weekdagen bij vaste klanten: kantoren, praktijken, winkels en bedrijfsleiders. Twee vrije namiddagen per week volstaan om een vast rooster af te spreken. Je krijgt een studentencontract, verloning boven het barema en vergoede verplaatsingen, en je volgt je urensaldo zelf op via Student@work.",
+ "facts": ["Vanaf 18 jaar", "Twee namiddagen per week volstaan", "Studentencontract via Student@work", "Klanten zijn bedrijven in en rond Brugge", "Nooit avonden, nooit weekends", "Verplaatsingen vergoed"],
  "sections": [
-  {
-   "h2": "Een masterjaar met gaten in je agenda",
-   "p": [
-    "Stel: je bent masterstudent met twee vrije namiddagen per week. De rest van de tijd zit je in de les, in de bib of aan je thesis. Je wilt bijverdienen, maar een job met wisselende avondshiften past niet bij schrijven en studeren.",
-    "Bij Zondags kies je die twee namiddagen en ze blijven dezelfde, week na week. Je weet wat je krijgt, je weet bij wie je werkt en je kunt je thesis plannen rond een stabiele job."
-   ]
-  },
-  {
-   "h2": "Welk werk past bij een paar namiddagen",
-   "p": [
-    "Een namiddag is lang genoeg voor een goed afgebakende taak. Je kunt de hele week aan was en strijk bij een gezin werken, een kinesitherapiepraktijk of een klein kantoor onderhouden, boodschappen en regelwerk doen voor een drukke ondernemer of kinderen ophalen en opvangen tot de ouders thuis zijn.",
-    "Je kiest mee wat je graag doet. Hoogtewerk en technische klussen horen er niet bij."
-   ]
-  },
-  {
-   "h2": "Voorbeeldweek van een masterstudent",
-   "p": [
-    "Op dinsdagnamiddag ga je naar het huis van een ondernemersgezin voor de was, het strijk en een snelle poetsbeurt. Op donderdagnamiddag haal je de kinderen van het gezin op en zorg je tot de ouders er zijn voor een boterham en wat huiswerk. De andere dagen heb je vrij voor je lessen en je thesis. Tijdens de vakantie kun je meer dagen vullen, als je dat wilt."
-   ]
-  },
-  {
-   "h2": "Zo werkt het contract",
-   "p": [
-    "Je werkt met een studentencontract en volgt je urensaldo zelf op via Student@work. Wij regelen de rest, zodat alles netjes in orde is. Je verloning ligt boven het barema en je verplaatsingen zijn vergoed. Een diploma of ervaring heb je niet nodig; je betrouwbaarheid telt."
-   ]
-  },
-  {
-   "h2": "Brugge en de deelgemeenten",
-   "p": [
-    "Brugge heeft postcode 8000 en omvat onder meer Assebroek, Dudzele, Koolkerke, Lissewege, Sint-Andries, Sint-Kruis, Sint-Michiels en Zeebrugge. Die horen allemaal bij Brugge. We zoeken Zondags in en rond Brugge, ook richting Oostkamp, Zedelgem, Beernem, Damme en Jabbeke. Welke klant bij jou past, hangt af van waar je woont of op kot zit."
-   ]
-  },
-  {
-   "h2": "Solliciteren zonder omwegen",
-   "p": [
-    "Meld je aan via het formulier, de chat of WhatsApp. We bellen je binnen de twee werkdagen voor een kort gesprek over je lessenrooster en je voorkeuren. Klikt het, dan zoeken we klanten dicht bij je en gaan we samen langs op je eerste dag. Wil je eerst meer weten over het werk zelf, lees dan <a href=\"jobs/studentenjob-flexibele-uren.html\">studentenjob met flexibele uren</a>."
-   ]
-  }
+  {"h2": "Twee namiddagen, twee vaste klanten", "p": [
+   "Een masterjaar met stage of scriptie laat weinig losse uren over. Maar twee namiddagen die je al kent, zijn meer dan genoeg om een vaste bijbaan op te bouwen. Op de ene namiddag ga je naar het ene bedrijf, op de andere naar het tweede. Elke namiddag heeft zijn eigen routine, en je weet op voorhand wat je gaat doen.",
+   "Zo blijft je studie de prioriteit en blijft je bijbaan voorspelbaar."]},
+  {"h2": "Zo ziet een namiddag eruit", "p": [
+   "Neem een dinsdag. Om één uur kom je toe bij een kantoor in Brugge. Je begint met het onthaal en de vergaderzaal, dan volgen de bureaus, de keuken en het sanitair. Voor je weggaat, zet je de post klaar en vul je de koffiehoek aan. Om vier uur ben je klaar.",
+   "Op donderdag werk je bij een kleine praktijk. Je zet de wachtzaal en het onthaal op orde en maakt de zaak klaar voor de ochtend erna. Het zijn blokken van drie uur, met een duidelijke start en een duidelijk einde."]},
+  {"h2": "Wat je kan doen", "p": [
+   "<ul class=\"ticks\"><li>Poetsen van kantoor, praktijk, winkel, refter en vergaderzaal</li><li>Administratieve hulp: post, klasseren, dossiers en gegevens invoeren</li><li>Rechterhand voor een drukke bedrijfsleider</li><li>De zaak klaarzetten voor een klantenbezoek</li></ul>",
+   "Technische klussen en werken op hoogte doen we niet. We werken ook niet aan gevels of ramen buiten. Je kiest mee wat je graag doet."]},
+  {"h2": "Blokperiodes en vakanties", "p": [
+   "Je werkt met een studentencontract en bent in dienst van Zondags. Alles staat correct op papier, de verloning ligt boven het barema en je verplaatsingen worden vergoed. Via Student@work volg je je urensaldo zelf op. In de blok zeg je op voorhand dat je minder kan, in de vakantie vraag je desnoods meer. Op weekdagen, overdag."]},
+  {"h2": "Brugge en de deelgemeenten", "p": [
+   "Brugge heeft postcode 8000. Assebroek, Dudzele, Koolkerke, Lissewege, Sint-Andries, Sint-Kruis, Sint-Michiels en Zeebrugge zijn deelgemeenten van Brugge. We zoeken Zondags in en rond Brugge, ook in Oostkamp, Zedelgem, Beernem, Damme en Jabbeke.",
+   "Brugge is groter dan het centrum. Daarom kijken we naar waar je woont en waar je les hebt, zodat je tussen de les en je eerste klant niet te lang onderweg bent."]},
+  {"h2": "Hoe je solliciteert", "p": [
+   "Vul het formulier in, gebruik de chat of WhatsApp op 0470 56 53 58. We bellen je binnen de twee werkdagen voor een kort gesprek. Klikt het, dan zoeken we klanten die passen bij je twee namiddagen en gaan we bij de start samen langs. Lees ook <a href=\"jobs/studentenjob-flexibele-uren.html\">de studentenjob met flexibele uren</a> en <a href=\"zondag-worden.html\">hoe je Zondag wordt</a>."]}
  ],
  "faq": [
-  {
-   "q": "Waar vind ik een studentenjob met flexibele uren in Brugge?",
-   "a": "Bij Zondags. We zoeken studenten vanaf 18 jaar in Brugge en de deelgemeenten. Je werkt overdag bij vaste klanten en kiest mee de dagen en uren die bij je lessen passen."
-  },
-  {
-   "q": "Is een studentenjob mogelijk als ik maar twee namiddagen per week vrij heb?",
-   "a": "Ja. Twee vaste namiddagen kunnen volstaan. We zoeken klanten die precies op die momenten hulp nodig hebben en houden je rooster daarna vast."
-  },
-  {
-   "q": "Kan ik mijn thesis combineren met deze job?",
-   "a": "Veel studenten doen dat. Omdat je rooster vastligt en je nooit 's avonds of in het weekend werkt, blijft er tijd over. Geef je drukke weken tijdig door."
-  },
-  {
-   "q": "Moet ik op kot in Brugge zitten om te kunnen werken?",
-   "a": "Nee. We zoeken klanten dicht bij je woonplaats, of dat nu in Brugge is of in een gemeente in de buurt."
-  },
-  {
-   "q": "Wat als ik mijn vaste namiddag niet meer kan?",
-   "a": "Verandert je lessenrooster, dan praat je dat met ons door. We bekijken samen of de klant mee kan of dat we een andere klant zoeken."
-  }
+  {"q": "Waar vind ik een studentenjob met flexibele uren in Brugge?", "a": "Bij Zondags. We zoeken studenten vanaf 18 jaar in en rond Brugge voor werk overdag op weekdagen bij bedrijven. Je solliciteert via het formulier, de chat of WhatsApp."},
+  {"q": "Volstaan twee namiddagen per week?", "a": "Ja. We spreken af welke dagen en uren je beschikbaar bent en zoeken klanten die daarbij passen. Eens afgesproken ligt je rooster vast."},
+  {"q": "Is een job tijdens mijn master combineerbaar met stage of scriptie?", "a": "Meestal wel, omdat je zelf de uren kiest. Heb je een drukke periode, dan zeg je dat vooraf en passen we je plan aan."},
+  {"q": "Werk ik in het weekend?", "a": "Nee. Zondags werkt enkel overdag op weekdagen. Vroeg in de ochtend of over de middag kan, 's avonds en in het weekend nooit."},
+  {"q": "Wie zijn de klanten in Brugge?", "a": "Bedrijven: kantoren, praktijken, winkels en bedrijfsleiders in en rond Brugge. We noemen geen klanten bij naam, maar je werkt bij vaste klanten met een zondagsplan."}
  ]
 }

@@ -1,32 +1,37 @@
 {
  "path": "vragen/wat-bepaalt-prijs-poetshulp-bedrijf.html",
  "title": "Wat bepaalt de prijs van poetshulp voor een bedrijf?",
- "desc": "Wat bepaalt de prijs van poetshulp voor je bedrijf? Uren, frequentie, taken, oppervlakte en vaste afspraak of losse opdracht. Eerste 2 uur bij Zondags gratis.",
+ "desc": "Uren, frequentie, taken en het moment bepalen de prijs van poetshulp voor een bedrijf. Bij Zondags is het 60 euro per uur excl. btw, per blok van 3 uur.",
  "eyebrow": "Vraag",
  "h1": "Wat bepaalt de prijs van poetshulp voor een bedrijf?",
- "lead": "De prijs van poetshulp hangt af van zes dingen die je zelf kan inschatten. Wie ze kent, vergelijkt offertes eerlijk en vraagt niet meer dan nodig.",
- "answer": "De prijs van poetshulp voor een bedrijf wordt bepaald door het aantal uren, de frequentie, de taken, de oppervlakte, een eventuele combinatie van kantoor en woning en door de keuze tussen een vaste afspraak of een losse opdracht. Zondags (zondags.be) werkt daarom op maat, na een kort gesprek, zonder vaste prijslijst. De eerste 2 uur zijn gratis, om kennis te maken.",
- "facts": ["Zes factoren bepalen de prijs", "Uren en frequentie wegen het zwaarst", "Op maat, na een kort gesprek", "Vaste afspraak of losse opdracht", "Eerste 2 uur gratis"],
+ "lead": "De prijs hangt af van het aantal uren dat je nodig hebt en van hoe de aanbieder rekent. Zo lees je een tarief, en zo ziet het eruit bij Zondags.",
+ "answer": "De prijs van poetshulp voor een bedrijf wordt vooral bepaald door het aantal uren, het soort taken, de frequentie en de manier waarop de aanbieder rekent. Zondags (zondags.be) houdt het eenvoudig: 60 euro per uur exclusief btw, geboekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren kosten hetzelfde per uur. Er is één pakket, en je boekt het online via de boekpagina.",
+ "facts": ["Uren, taken en frequentie bepalen de prijs", "60 euro per uur, exclusief btw", "Blok van 3 uur is 180 euro excl. btw", "Extra uren aan hetzelfde tarief", "Eén pakket, één prijs"],
  "sections": [
-  {"h2": "De zes factoren kort uitgelegd", "p": [
-   "<ul class=\"ticks\"><li><b>Uren:</b> hoeveel tijd een beurt vraagt om je taken af te werken</li><li><b>Frequentie:</b> hoe vaak je Zondag komt</li><li><b>Taken:</b> alleen poetsen, of ook keuken, ramen langs binnen, was en strijk</li><li><b>Oppervlakte:</b> meer ruimtes en meer vloer vragen meer tijd</li><li><b>Kantoor en woning samen:</b> twee adressen in één plan</li><li><b>Vaste afspraak of losse opdracht:</b> een ritme dat blijft, of een eenmalige grote beurt</li></ul>"]},
-  {"h2": "Uren en frequentie: de grootste hefboom", "p": [
-   "Een prijs per uur zegt weinig zonder het aantal uren dat je werkelijk nodig hebt. Een korte beurt die vaker terugkomt, kan een kantoor beter proper houden dan een lange beurt die zelden komt. Wat bij jouw zaak past, lees je bij <a href=\"vragen/hoe-vaak-kantoor-poetsen.html\">hoe vaak je een kantoor laat poetsen</a> en bij <a href=\"vragen/hoeveel-uur-poetshulp-kantoor.html\">hoeveel uur een kantoor nodig heeft</a>."]},
-  {"h2": "Taken en oppervlakte: wat meetelt", "p": [
-   "Vierkante meters zijn maar de helft van het verhaal. Het gaat ook om hoeveel mensen de ruimtes gebruiken, hoeveel sanitair en keukens er zijn, welke vloeren je hebt en hoeveel bezoekers er binnenlopen. Een kleine wachtzaal met veel doorloop vraagt soms meer tijd dan een groter kantoor waar weinig gebeurt."]},
-  {"h2": "Eén plan voor kantoor en woning", "p": [
-   "Laat je dezelfde Zondag ook je woning doen, dan heb je één afspraak voor twee adressen. Op de factuur staan het beroepsmatige en het privégedeelte apart. Wat dat voor je boekhouding betekent, bevestigt je accountant."]},
-  {"h2": "Zo vergelijk je offertes eerlijk", "p": [
-   "<ul class=\"ticks\"><li>Vraag voor elke aanbieder dezelfde taken, uren en frequentie</li><li>Controleer wat inbegrepen is en wat extra gerekend wordt</li><li>Check of de factuur op naam van je vennootschap komt</li><li>Kijk naar opzegtermijn en minimumduur</li><li>Laat de offerte pas maken nadat iemand je ruimte heeft gezien</li></ul>"]},
-  {"h2": "Hoe Zondags tot een prijs op maat komt", "p": [
-   "Na je aanvraag belt iemand binnen één werkdag terug voor een kort gesprek. Daarna komen we langs voor de intake, bekijken we je ruimtes en maken we samen het zondagsplan op. De prijs volgt uit dat plan. Op deze site staan geen bedragen, omdat een bedrag zonder je ruimtes te kennen gokwerk zou zijn.",
-   "Je kan uren bijboeken of het plan aanpassen, en het plan is maandelijks opzegbaar. Wat het je netto kost, hangt ook af van hoe je het fiscaal verwerkt: een gewone dienstenfactuur op naam van je vennootschap, het onderhoud van beroepsruimtes als beroepskost. Laat je accountant bevestigen hoe dat voor jouw situatie werkt."]}
+  {"h2": "De vijf factoren achter elke prijs", "p": [
+   "Wie offertes vergelijkt, ziet dat de bedragen sterk uiteenlopen. Meestal zitten er dezelfde vijf factoren achter:",
+   "<ul class=\"ticks\"><li>Het aantal uren dat de taken echt vragen</li><li>De frequentie: wekelijks, om de twee weken of eenmalig</li><li>Het soort ruimte, bijvoorbeeld sanitair en wachtzaal tegenover enkel bureaus</li><li>Het moment, zoals vroeg in de ochtend of over de middag</li><li>Of er extra taken bijkomen, zoals administratie of boodschappen</li></ul>"]},
+  {"h2": "Uurprijs, vaste prijs of per vierkante meter", "p": [
+   "Aanbieders rekenen op drie manieren. Een uurprijs is het meest doorzichtig: je ziet meteen wat een extra uur kost. Een vaste maandprijs voelt rustig, maar je ziet niet altijd wat erin zit. Een prijs per oppervlakte is handig voor grote ruimtes, maar zegt weinig over hoeveel werk je kantoor werkelijk vraagt.",
+   "Vergelijk dus niet het eerste getal op een offerte, maar vraag telkens: wat zit erin, hoeveel uren zijn dat, en wat betaal ik extra als het langer duurt?"]},
+  {"h2": "Hoe de prijs bij Zondags is opgebouwd", "p": [
+   "Zondags rekent 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dat is 180 euro exclusief btw. Heb je meer tijd nodig, dan boek je extra uren aan dezelfde 60 euro per uur. Er zijn geen aparte pakketten en geen verrassende toeslagen op de boekpagina.",
+   "Het tarief geldt ook voor vaste, terugkerende afspraken. Wie elke week een blok wil, bespreekt de dagen en uren in een kort gesprek en betaalt dezelfde prijs per uur."]},
+  {"h2": "Wat je zelf in de hand hebt", "p": [
+   "Je kan de kosten sturen zonder aan kwaliteit in te boeten. Laat je team de bureaus leegmaken, dan gaat er minder tijd naar opruimen en meer naar poetsen. Kies voor een vaste dag, zodat je Zondag je zaak kent en sneller werkt. Plan een extra blok enkel op drukke momenten, zoals na een evenement of voor de start van een nieuw seizoen.",
+   "Een korte lijst met prioriteiten helpt ook. Wat mag een week overslaan, en wat moet altijd gebeuren? Het sanitair en de keuken staan meestal bovenaan."]},
+  {"h2": "Meer dan poetsen voor dezelfde prijs per uur", "p": [
+   "Je Zondag kan binnen je uren ook administratieve hulp bieden, zoals post sorteren, documenten klasseren en afspraken plannen, of de rol van rechterhand opnemen met boodschappen voor de zaak en het bevoorraden van de koffiehoek. Je rekent dus niet met aparte tarieven per soort taak."]},
+  {"h2": "Btw en factuur", "p": [
+   "Alle bedragen zijn exclusief btw. Je krijgt een dienstenfactuur op naam van je bedrijf, met je btw-nummer. Poetshulp voor de zaak is in principe een beroepskost, en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Laat je accountant dit bevestigen voor je eigen situatie.",
+   "Boeken doe je op de <a href=\"boeken.html\">boekpagina</a>, waar je vooraf ziet wat je betaalt."]}
  ],
  "faq": [
-  {"q": "Waarom geeft Zondags geen vaste prijs op de website?", "a": "Omdat de prijs afhangt van je uren, taken en ruimtes, en die ken je pas na een kort gesprek en een bezoek. Daarom werkt Zondags op maat. Na de intake krijg je een voorstel, vrijblijvend."},
-  {"q": "Wat zit er in de eerste 2 gratis uren?", "a": "Je maakt kennis met je Zondag en ziet hoe het werkt, zonder dat je daarvoor betaalt. Wat er precies gebeurt, bepalen we samen in je zondagsplan. Daarna beslis je of je verdergaat."},
-  {"q": "Wat is het verschil tussen een vaste afspraak en een losse opdracht?", "a": "Bij een vaste afspraak plan je een terugkerend ritme met dezelfde Zondag op een vaste dag en uur. Bij een losse opdracht, zoals een grote poetsbeurt of een verhuis, gaat het om eenmalig werk. Beide krijg je op maat voorgesteld na een kort gesprek."},
-  {"q": "Kan ik de prijs beperken door minder taken te kiezen?", "a": "Ja. Minder taken of minder uren betekent minder tijd per beurt. Je kan het plan aanpassen, bijvoorbeeld door ramen of keuken minder vaak te laten doen. Zondags past het plan aan op jouw vraag."},
-  {"q": "Kan ik uren bijboeken als het drukker wordt?", "a": "Ja. Uren bijboeken of het plan aanpassen kan, bijvoorbeeld in de drukke weken van je zaak. Het plan blijft maandelijks opzegbaar, dus je zit niet vast aan een ritme dat niet meer past."}
+  {"q": "Wat kost poetshulp voor een bedrijf gemiddeld?", "a": "Dat verschilt per aanbieder. Bij Zondags betaal je 60 euro per uur exclusief btw. Een blok van 3 uur kost 180 euro exclusief btw, en extra uren zijn hetzelfde tarief."},
+  {"q": "Waarom verschillen offertes van poetsbedrijven zo sterk?", "a": "Omdat de ene offerte uren rekent, de andere een vaste prijs of een prijs per oppervlakte. Ook de taken, de frequentie en wat erbij hoort, zoals materiaal, verschillen. Vergelijk daarom steeds wat er precies in zit."},
+  {"q": "Betaal ik bij Zondags extra voor administratie of boodschappen?", "a": "Nee, er is één tarief per uur. Of je Zondag nu poetst, post sorteert of boodschappen doet voor de zaak, de prijs blijft 60 euro per uur exclusief btw."},
+  {"q": "Is er een minimum aantal uren bij Zondags?", "a": "Je boekt per blok van 3 uur. Dat is de kleinste eenheid op de boekpagina. Daarna kan je extra uren toevoegen aan hetzelfde uurtarief."},
+  {"q": "Hoe betaal ik poetshulp voor mijn bedrijf?", "a": "Online, met kaart of Bancontact, via Stripe op de boekpagina. Je krijgt een factuur op naam van je bedrijf, met je btw-nummer."},
+  {"q": "Verandert de prijs als ik elke week een Zondag wil?", "a": "Nee. Voor terugkerende afspraken blijft de prijs 60 euro per uur exclusief btw. Je bespreekt enkel de dagen, uren en taken in een kort gesprek of via een terugbelverzoek."}
  ]
 }

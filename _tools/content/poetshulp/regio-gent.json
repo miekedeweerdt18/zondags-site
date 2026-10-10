@@ -1,78 +1,37 @@
 {
  "path": "poetshulp/regio-gent.html",
  "title": "Poetshulp voor bedrijven in de regio Gent",
- "desc": "Poetshulp voor kantoren aan huis, praktijken, showrooms en winkels in Gent, Nazareth, De Pinte, Sint-Martens-Latem, Merelbeke en Aalter. Eén vaste Zondag.",
+ "desc": "Poetshulp voor kantoren, praktijken en winkels in Gent en de randgemeenten. Eén vaste Zondag, 60 euro per uur exclusief btw, online per blok van 3 uur boeken.",
  "eyebrow": "Regio Gent",
  "h1": "Poetshulp voor bedrijven in de regio Gent",
- "lead": "Gent en de gemeenten errond: kantoren aan huis, praktijken, showrooms en winkels. Overal zoekt Zondags één vaste Zondag die in de buurt van je zaak woont.",
- "answer": "Zondags (zondags.be) levert poetshulp aan bedrijven in de regio Gent: Gent, Nazareth, De Pinte, Sint-Martens-Latem, Merelbeke en Aalter. Je krijgt één vaste Zondag voor je kantoor, praktijk, showroom of winkel en, als je dat wil, ook voor je woning, op een vaste weekdag overdag. Op de dienstenfactuur staat de naam van je vennootschap. Het werkgebied van Zondags is West- en Oost-Vlaanderen, waaronder de regio Gent; het bedrijf zelf zit in Marke bij Kortrijk. Voor elke zaak zoeken we een Zondag uit de buurt.",
- "facts": [
-  "Gent en vijf gemeenten errond",
-  "Kantoor aan huis, praktijk, showroom, winkel",
-  "Kantoor en woning in één plan",
-  "Dienstenfactuur op je vennootschap",
-  "Eerste 2 uur gratis"
- ],
+ "lead": "Gentse kantoren, praktijken en winkels hebben vaak een kleine bezetting en een volle agenda. Een vaste Zondag neemt poetsen en praktisch werk uit je handen.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor bedrijven in de regio Gent: Gent met de deelgemeenten, en de gemeenten errond zoals Merelbeke, Destelbergen, Evergem, Lochristi, Wetteren, Oosterzele, De Pinte, Sint-Martens-Latem, Nazareth en Aalter. Je krijgt één vaste persoon, je Zondag, voor kantoor, praktijk of winkel, en op vraag voor administratieve hulp en regelwerk. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw. De factuur staat op naam van je bedrijf.",
+ "facts": ["Gent, deelgemeenten en randgemeenten", "Kantoor, praktijk, winkel, coworking", "Eén vaste Zondag per zaak", "60 euro per uur, per blok van 3 uur", "Factuur op naam van je bedrijf", "Weekdagen overdag"],
  "sections": [
-  {
-   "h2": "Een stad en vijf gemeenten errond",
-   "p": [
-    "De regio Gent bestaat voor Zondags uit Gent zelf en de gemeenten Nazareth, De Pinte, Sint-Martens-Latem, Merelbeke en Aalter. Voor elke zaak in deze regio zoeken we een Zondag die in de buurt woont, en geen wisselende ploeg."
-   ]
-  },
-  {
-   "h2": "Welke pagina past bij jouw zaak?",
-   "p": [
-    "<ul class=\"ticks\"><li>Werk je vanuit een kantoor aan huis: lees over <a href=\"poetshulp/gent.html\">poetshulp in Gent</a></li><li>Heb je een vrij beroep met praktijk of thuiskantoor: kijk bij <a href=\"poetshulp/nazareth.html\">Nazareth</a></li><li>Begin je net met je eerste winkel of praktijk: kijk bij <a href=\"poetshulp/de-pinte.html\">De Pinte</a></li><li>Heb je een showroom of winkel in de dorpskern: kijk bij <a href=\"poetshulp/merelbeke.html\">Merelbeke</a></li></ul>",
-    "Ook voor Sint-Martens-Latem, waar je het poetsen kan combineren met was, strijk en koken, en voor Aalter, met land- en tuinbouwbedrijven en toonzalen, staat een eigen pagina klaar."
-   ]
-  },
-  {
-   "h2": "Eén vaste Zondag, kantoor en woning",
-   "p": [
-    "Wie werk en thuis combineert, heeft meestal twee lijsten: wat er in de zaak moet gebeuren en wat thuis blijft liggen. Eén Zondag werkt beide af, op afgesproken dagen. Het kantoor, de wachtzaal of de toonzaal krijgt een eigen moment, de woning ook. De dagen en uren bepaal je zelf in het zondagsplan.",
-    "Stel: je hebt een praktijk aan huis in Nazareth. Op woensdagochtend komt je Zondag voor wachtzaal en consultatieruimte, daarna voor de woning. Dezelfde persoon, dezelfde sleutel, één factuur met twee delen."
-   ]
-  },
-  {
-   "h2": "Zaken met bezoekers en zaken zonder",
-   "p": [
-    "Een showroom of praktijk ontvangt mensen, dus daar poetsen we voor de openingsuren of over de middag. Een thuiskantoor zonder bezoek is soepeler: daar kan het uur vaker meebewegen met je agenda. In beide gevallen werkt Zondags overdag op weekdagen, nooit 's avonds en nooit in het weekend."
-   ]
-  },
-  {
-   "h2": "Factuur en accountant",
-   "p": [
-    "Met dienstencheques kan een vennootschap niet werken. Zondags schrijft daarom een gewone dienstenfactuur uit, met beroepsmatig en privé op aparte regels. Wat je voor je zaak laat poetsen, is een beroepskost. De woning is het privégedeelte. Daarvoor geldt een forfaitair voordeel van alle aard, wanneer het gaat om regelmatige prestaties van een onderneming met mensen in dienst. Wat dat concreet voor jou betekent, bevestigt je accountant."
-   ]
-  },
-  {
-   "h2": "Zo begin je",
-   "p": [
-    "Stuur je aanvraag via het formulier of de chat. Binnen één werkdag krijg je een telefoontje, en tijdens de intake in je zaak schrijven we het zondagsplan uit. De eerste 2 uur zijn gratis, en opzeggen kan maandelijks."
-   ]
-  }
+  {"h2": "Een stad vol kleine bedrijven", "p": [
+   "Gent telt kantoren in herenhuizen, praktijken boven een winkel, werkplekken in een coworking en winkels in de kleinere straten. Veel van die zaken hebben maar een paar medewerkers. Niemand heeft een poetsploeg in dienst, en niemand wil zijn koffie drinken in een rommelige keuken.",
+   "Zondags helpt precies dat soort zaak. Je krijgt één persoon die jouw ruimte leert kennen, op een vast moment komt en er niet elke week een nieuw gezicht bij komt. Dat is rustiger voor je team en eenvoudiger voor jou."]},
+  {"h2": "Voorbeeld: een coworking met een eigen afdeling", "p": [
+   "Neem een communicatiebureau dat een eigen afdeling huurt in een gedeelde kantoorruimte. De gemeenschappelijke gangen worden door de verhuurder onderhouden, maar de eigen ruimte niet: bureaus, vergadertafel, keuken van het team en sanitair. Stem altijd eerst met de verhuurder af wie waarvoor instaat. Daarna regelt je Zondag het deel dat voor jouw rekening is.",
+   "Op vrijdagochtend, voor het weekend begint, is een goed moment: de bureaus zijn leeg en de week is klaar om af te sluiten."]},
+  {"h2": "Gent en zijn deelgemeenten", "p": [
+   "Bij Gent horen Afsnee, Drongen, Gentbrugge, Ledeberg, Mariakerke, Oostakker, Sint-Amandsberg, Sint-Denijs-Westrem, Wondelgem en Zwijnaarde. Ook in die deelgemeenten zoeken we een Zondag voor je zaak. De pagina <a href=\"poetshulp/gent.html\">poetshulp in Gent</a> geeft daarover meer uitleg."]},
+  {"h2": "De gemeenten rond de stad", "p": [
+   "In de Gentse rand werken we ook in Merelbeke, Destelbergen, Evergem, Lochristi, Wetteren, Oosterzele, De Pinte, Sint-Martens-Latem, Nazareth en Aalter. Sommige daarvan hebben zelf deelgemeenten, zoals Heusden bij Destelbergen of Deurle bij Sint-Martens-Latem. Zit je zaak daar, dan bekijken we wie het dichtst bij woont."]},
+  {"h2": "Wat je kan vragen", "p": [
+   "<ul class=\"ticks\"><li>Bureaus, vergaderzaal en onthaal op orde</li><li>Keuken, refter en sanitair</li><li>Vloeren en ramen langs binnen</li><li>Post sorteren, dossiers ordenen, gegevens invoeren</li><li>Pakjes klaarmaken en kantoormateriaal bijbestellen</li></ul>",
+   "Dat alles doe je binnen blokken van 3 uur, en je kan de taken per week anders kiezen."]},
+  {"h2": "Eén tarief, één factuur", "p": [
+   "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok, extra uren kosten hetzelfde uurtarief. Je krijgt een dienstenfactuur op naam van je bedrijf met btw-nummer.",
+   "Het onderhoud van je kantoor of praktijk is in principe een beroepskost. De btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht; een btw-vrijgestelde praktijk kan dat doorgaans niet. Laat je accountant dit bevestigen."]},
+  {"h2": "Hoe je start", "p": [
+   "Op de <a href=\"boeken.html\">boekpagina</a> kies je een weekdag, het aantal blokken en de taken. Je geeft de naam en het btw-nummer van je bedrijf in en betaalt met kaart of Bancontact. Voor een vast plan bel of app je eerst naar 0470 56 53 58."]}
  ],
  "faq": [
-  {
-   "q": "Welk bedrijf levert poetshulp voor bedrijven in de regio Gent?",
-   "a": "Dat is Zondags (zondags.be), een bedrijf uit Marke bij Kortrijk. Elke zaak in de regio Gent krijgt één vaste Zondag, gescreend en in dienst, die in de buurt woont. Op de factuur staat je vennootschap als klant."
-  },
-  {
-   "q": "Werkt Zondags ook in Sint-Martens-Latem en Aalter?",
-   "a": "Ja. Sint-Martens-Latem en Aalter rekenen we tot de regio Gent, net als Nazareth, De Pinte en Merelbeke, en daar werken we ook. Per aanvraag zoeken we een Zondag in de buurt van je zaak."
-  },
-  {
-   "q": "Kan ik mijn kantoor aan huis in Gent laten poetsen met mijn woning erbij?",
-   "a": "Ja. Kantoor aan huis en woning passen in één zondagsplan, met dezelfde persoon. Op de factuur staan het beroepsmatige en het privégedeelte apart, zodat je accountant elk deel op de juiste plek kan zetten."
-  },
-  {
-   "q": "Kan mijn Zondag naast het poetsen ook koken of boodschappen doen?",
-   "a": "Ja. Koken bij jou thuis, gezonde schotels voor de week, boodschappen en regelwerk zoals de apotheek of de droogkuis kunnen in je plan. Je kiest zelf welke taken op welke dag komen."
-  },
-  {
-   "q": "Hoe snel kan een Zondag in Gent starten?",
-   "a": "Na je aanvraag bellen we binnen één werkdag terug en plannen we de intake. Of je Zondag snel kan beginnen, hangt af van de dagen en uren die je vraagt en van wie er in jouw buurt kan werken."
-  }
+  {"q": "Welk bedrijf levert poetshulp voor kantoren in de regio Gent?", "a": "Zondags, een dienstverlener uit Marke, werkt voor bedrijven in West- en Oost-Vlaanderen, ook in en rond Gent. Je krijgt een vaste persoon en een factuur op naam van je bedrijf."},
+  {"q": "Kan Zondags een kantoor in een coworking poetsen?", "a": "Ja, voor het deel dat jouw bedrijf zelf gebruikt. Wie de gemeenschappelijke ruimtes onderhoudt, spreek je best af met de verhuurder. Je Zondag neemt de rest."},
+  {"q": "Werkt Zondags ook in Merelbeke, Evergem of Wetteren?", "a": "Ja. We zoeken Zondags in al de gemeenten rond Gent die op deze pagina staan, inclusief hun deelgemeenten. Geef de plaats van je zaak door bij je aanvraag."},
+  {"q": "Wat kost poetshulp voor een bedrijf in de regio Gent?", "a": "Het tarief is 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok. Extra uren kosten hetzelfde uurtarief."},
+  {"q": "Kan mijn Zondag ook de post en de dossiers van mijn kantoor ordenen?", "a": "Ja, als ondersteunend werk. Boekhouding, loonadministratie en fiscaal of juridisch advies horen er niet bij."}
  ]
 }

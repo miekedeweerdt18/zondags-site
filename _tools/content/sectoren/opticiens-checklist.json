@@ -1,87 +1,85 @@
 {
  "path": "sectoren/opticiens-checklist.html",
  "title": "Schoonmaakchecklist voor opticiens",
- "desc": "Een checklist voor opticiens: wat wekelijks, maandelijks en jaarlijks gepoetst wordt in winkel, onthaal, meetruimte en sanitair, en wat bij de opticien blijft.",
- "eyebrow": "Opticiens",
+ "desc": "Een concrete lijst voor de opticienswinkel: vitrines, spiegels, onthaal, meetruimte en sanitair per week, maand en jaar. Monturen blijven bij jou.",
+ "eyebrow": "Checklist · Opticiens",
  "h1": "Schoonmaakchecklist voor opticiens",
- "lead": "Glazen vitrines, spiegels en een meetruimte vragen om een andere aanpak dan een gewone winkel. Hier zie je wat wanneer aan de beurt komt, en wat jij zelf blijft doen.",
- "answer": "Voor een opticien poetst Zondags (zondags.be) via een vaste Zondag de winkelvloer, glazen vitrines en spiegels, het onthaal, de meetruimte en het sanitair, op weekdagen en voor de winkel opengaat. De monturen en de meetapparatuur blijven bij de opticien. Je krijgt een dienstenfactuur op naam van je vennootschap, met wekelijkse, maandelijkse en jaarlijkse taken in één plan.",
+ "lead": "Een opticien verkoopt helder zicht, dus de winkel moet zelf glashelder zijn. Deze lijst toont wat wekelijks, maandelijks en jaarlijks aan de beurt komt.",
+ "answer": "Zondags (zondags.be) onderhoudt de ruimtes van een opticiens: glazen vitrines en spiegels, onthaal, meetruimte en sanitair. De monturen en de meetapparatuur blijven bij de opticien zelf. Eén vaste Zondag werkt met een lijst van wekelijkse, maandelijkse en jaarlijkse taken. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een factuur op naam van je vennootschap.",
  "facts": [
-  "Vitrines en spiegels",
-  "Onthaal, meetruimte, sanitair",
-  "Monturen en meetapparatuur blijven bij jou",
+  "Vitrines, spiegels en onthaal",
+  "Meetruimte en sanitair",
+  "Monturen en apparatuur blijven van jou",
   "Wekelijks, maandelijks, jaarlijks",
-  "Factuur op je vennootschap"
+  "60 euro per uur, per blok van 3 uur"
  ],
  "sections": [
   {
-   "h2": "Wat is typisch aan een opticienszaak",
+   "h2": "Glas, glans en discretie",
    "p": [
-    "Bij een opticien draait alles om zicht, en dat geldt ook voor de winkel zelf. Vitrines en spiegels laten elke vlek zien. Vingerafdrukken op glas vallen meteen op, en stof op een rek met monturen trekt de blik naar de verkeerde plek.",
-    "Daarom werkt een vaste Zondag hier goed: iemand die weet welke vitrine open mag, welke spiegel breekbaar is en welke hoek elke dag aandacht vraagt."
+    "In een opticienszaak hangt alles samen met doorzicht. Vitrines vol monturen, spiegels waar klanten zichzelf in bekijken en een balie waar ze hun gegevens achterlaten: vingerafdrukken en stofnevel vallen er onmiddellijk op.",
+    "Deze lijst gaat uit van de ruimtes waar je Zondag terecht kan. Alles wat met de monturen, de glazen en de meetapparatuur te maken heeft, blijft bij het vakmanschap van jouw team."
    ]
   },
   {
-   "h2": "Wekelijks",
+   "h2": "Wekelijks: wat klanten elke dag zien",
    "p": [
-    "<ul class=\"ticks\"><li>Winkelvloer stofzuigen of dweilen</li><li>Glazen vitrines en spiegels langs buiten afnemen</li><li>Balie en onthaal afnemen</li><li>Zitjes bij de meetruimte</li><li>Sanitair en afval</li></ul>",
-    "Dit is de basis. Het gebeurt vroeg in de ochtend of over de middag, voor de winkel opengaat of tijdens een rustig moment.",
-    "Een goede gewoonte tussendoor: laat vitrinedeurtjes na een drukke dag even dicht en leg een zachte doek klaar voor kleine vlekken. Dan houdt de winkel zijn glans tot de volgende beurt van je Zondag."
+    "<ul class=\"ticks\"><li>Glazen vitrines en passpiegels langs buiten en binnen afnemen, zonder de monturen te verplaatsen</li><li>Vloer van de winkel stofzuigen en dweilen</li><li>Onthaalbalie, pinautomaat en wachtplaatsen afnemen</li><li>Meetruimte: tafeltje, stoel en vloer, zonder aan de apparaten te komen</li><li>Sanitair en personeelshoek</li><li>Afval en lege verpakkingen naar buiten</li></ul>",
+    "De passpiegels zijn het belangrijkste punt van de week. Een klant die zichzelf bekijkt met een nieuwe bril, verdient een spiegel zonder strepen."
    ]
   },
   {
-   "h2": "Maandelijks",
+   "h2": "Maandelijks: de plekken die intussen blijven liggen",
    "p": [
-    "<ul class=\"ticks\"><li>Rekken, tablets en plinten afstoffen</li><li>Deurklinken, lichtschakelaars en handgrepen</li><li>Ramen en glazen deuren langs binnen</li><li>Personeelsruimte en keuken grondiger</li><li>Hoeken en onder meubelstukken</li></ul>"
+    "<ul class=\"ticks\"><li>Onderkant en achterkant van vitrinekasten</li><li>Plinten, deurkaders en vensterbanken</li><li>Stoelen en zitbanken van de wachtplaats</li><li>Binnenzijde van de voordeur en de glazen scheidingswanden</li><li>Koffiehoek en frigo van het team</li></ul>",
+    "Leg deze lijst vast op een vaste weekdag. Zo weet iedereen in de zaak wanneer de grondige beurt komt."
    ]
   },
   {
-   "h2": "Jaarlijks",
+   "h2": "Jaarlijks: voor de nieuwe collecties",
    "p": [
-    "<ul class=\"ticks\"><li>Grote poetsbeurt als losse opdracht: kasten, plinten, radiatoren</li><li>Voegen in het sanitair</li><li>Stockruimte vrij van stof</li></ul>",
-    "Een grote beurt kan je als losse opdracht boeken, zonder vast plan, of binnen je zondagsplan. Zondags werkt overdag op weekdagen."
+    "Wanneer de nieuwe collecties binnenkomen of de zaak herschikt wordt, boek je een grotere beurt. Dan komen de ramen langs binnen aan bod, de kasten achter de balie en alle hoeken die gewoonlijk net buiten het bereik van de gewone ronde liggen. Een extra blok boek je gewoon bij."
    ]
   },
   {
-   "h2": "Wat bij de opticien blijft",
+   "h2": "Wat de opticien zelf blijft doen",
    "p": [
-    "De monturen, de meetapparatuur en alles wat met het vakwerk te maken heeft, blijven bij jou en je team. Je Zondag poetst de ruimtes en het meubilair, niet de instrumenten. Zo is duidelijk wie waarvoor verantwoordelijk is.",
-    "Ook kleine gewoontes tussendoor helpen: een doekje bij de meetruimte voor vlekken, een spuitflesje voor de vitrinedeurtjes. Dat blijft binnen de winkel.",
-    "Gaat een nieuwe collega starten of verbouw je de winkel, dan bekijken we samen of het plan moet meegroeien, bijvoorbeeld met een extra beurt of een losse opdracht."
+    "Monturen schikken, glazen en gereedschap opbergen, meetapparatuur schoonmaken en alles wat met de patiënt of klant te maken heeft: dat blijft jouw domein. Je Zondag raakt de apparatuur niet aan en verplaatst geen dossiers. Vraag je liever ondersteuning bij administratie, dan kan je Zondag klantenfiches klasseren, afspraken inplannen of bestellingen van kantoormateriaal opvolgen. Boekhouding en fiscaal of juridisch advies doet Zondags niet."
    ]
   },
   {
-   "h2": "Voorbeeld en factuur",
+   "h2": "Een vergelijking: het advocatenkantoor met twee vennoten",
    "p": [
-    "Stel: je bent opticien in een winkelstraat en je zus werkt mee in de zaak. Je Zondag komt op dinsdag voor de opening, en op donderdag naar je woning voor de was en het poetsen. Dat staat in één plan, met één factuur waarop het beroepsmatige en het privégedeelte apart staan.",
-    "Een vennootschap kan geen dienstencheques kopen. Het onderhoud van je zaak is een beroepskost, de woning een forfaitair voordeel van alle aard onder voorwaarden. Laat je accountant dit bevestigen. Meer over de aanpak lees je bij <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."
+    "Stel: je hebt een advocatenkantoor met twee vennoten. Je Zondag mag er het onthaal en de vergaderzaal doen, maar nooit in de dossiers kijken. Voor een opticiens geldt hetzelfde principe. Gegevens van klanten zijn vertrouwelijk, dus ligt alles wat gevoelig is, opgeborgen of buiten zicht. Dat leg je in het zondagsplan vast, zodat je Zondag precies weet wat ze wel en niet aanraakt."
+   ]
+  },
+  {
+   "h2": "Prijs en boeken",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw. Op de <a href=\"boeken.html\">boekpagina</a> kies je dag en taken en betaal je online. Een btw-plichtige zaak kan de btw in principe recupereren, een btw-vrijgestelde praktijk doorgaans niet. Laat je accountant dit bevestigen voor je eigen situatie."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Wat poetst Zondags bij een opticien?",
-   "a": "Winkelvloer, glazen vitrines en spiegels langs buiten, onthaal, meetruimte, zitjes en sanitair. Monturen en meetapparatuur blijven bij de opticien. Wat precies in je plan staat, bespreken we in de intake."
+   "q": "Poetst Zondags ook de glazen vitrines van een opticiens?",
+   "a": "Ja, de vitrines en passpiegels worden afgenomen. De monturen zelf blijven op hun plaats; die verplaatst alleen je eigen team."
+  },
+  {
+   "q": "Wordt de meetruimte ook gepoetst?",
+   "a": "Ja, tafel, stoel en vloer. Aan de meetapparatuur komt je Zondag niet. Die blijft bij je eigen team."
   },
   {
    "q": "Hoe vaak moet een opticienszaak gepoetst worden?",
-   "a": "Vitrines, vloer en onthaal wekelijks, rekken en grotere punten maandelijks, en een grote beurt jaarlijks. Je kan het ritme aanpassen of uren bijboeken."
+   "a": "Dat hangt af van de drukte en de grootte van de winkel. In het eerste gesprek stellen we een ritme voor en passen we dat bij na een paar weken."
   },
   {
-   "q": "Kan mijn winkel gepoetst worden voor ze opengaat?",
-   "a": "Ja. Vroeg in de ochtend of over de middag kan, op weekdagen. 's Avonds en in het weekend werken we niet."
+   "q": "Kan het voor de opening van de winkel?",
+   "a": "Ja, vroeg in de ochtend of over de middag op weekdagen. 's Avonds en in het weekend werken we niet."
   },
   {
-   "q": "Raakt mijn Zondag de monturen aan?",
-   "a": "Nee. De monturen en de meetapparatuur blijven bij jou en je team. Je Zondag poetst de ruimtes en het meubilair, niet de instrumenten."
-  },
-  {
-   "q": "Kan een grote poetsbeurt als losse opdracht?",
-   "a": "Ja. Een grote poetsbeurt kan als losse opdracht zonder vast plan, of binnen je zondagsplan. Het gebeurt overdag op weekdagen."
-  },
-  {
-   "q": "Hoe zit het met de factuur?",
-   "a": "Je krijgt een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van je zaak is een beroepskost. Een vennootschap kan geen dienstencheques kopen. Laat je accountant bevestigen hoe het voor jou werkt."
+   "q": "Is er ook hulp voor klantenfiches en administratie?",
+   "a": "Ja, ondersteunend werk zoals klasseren, afspraken plannen en materiaal bijhouden. Boekhouding of loonadministratie valt erbuiten."
   }
  ]
 }

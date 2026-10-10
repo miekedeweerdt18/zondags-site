@@ -1,33 +1,85 @@
 {
  "path": "poetshulp/ieper.html",
- "title": "Poetshulp voor kleine kantoren en transportfirma's in Ieper",
- "desc": "Poetshulp voor kleine kantoren en transportfirma's in Ieper, Vlamertinge, Elverdinge en Zillebeke: bureaus, refter en sanitair door één vaste Zondag.",
+ "title": "Poetshulp voor kantoren en transportfirma's in Ieper",
+ "desc": "Poetshulp voor kleine kantoren en transportfirma's in Ieper, Vlamertinge en Elverdinge: bureaus, refter en chauffeursruimte door één vaste Zondag.",
  "eyebrow": "Ieper · 8900",
  "h1": "Poetshulp voor bedrijven in Ieper",
  "lead": "Een planningskantoor, een refter en een ruimte voor chauffeurs die de hele dag in gebruik zijn. In Ieper onderhoudt een vaste Zondag ze, zonder dat je er iemand voor vrijmaakt.",
- "answer": "Een kantoor in Ieper (8900) met een handvol tot vijftien mensen, of een transportfirma met een planningskantoor en een chauffeursruimte, kan bij Zondags (zondags.be) één vaste Zondag aanvragen voor bureaus, keuken of refter en sanitair, op een vast uur. De facturatie loopt via een dienstenfactuur aan je vennootschap. Voertuigen en werkplaats blijven buiten het plan.",
- "facts": ["Kleine kantoren, handvol tot vijftien mensen", "Ook planningskantoor en chauffeursruimte", "Ieper en deelgemeenten, postcode 8900", "Geen reiniging van vrachtwagens", "Eerste 2 uur gratis"],
+ "answer": "Een kantoor in Ieper (8900) met een team van een handvol tot vijftien mensen, of een transportfirma met een planningskantoor en een chauffeursruimte, kan bij Zondags (zondags.be) één vaste Zondag aanvragen voor bureaus, keuken of refter en sanitair, op een vast uur. De facturatie loopt via een dienstenfactuur aan je vennootschap. Voertuigen en werkplaats blijven buiten het plan.",
+ "facts": [
+  "Kleine kantoren, handvol tot vijftien mensen",
+  "Ook planningskantoor en chauffeursruimte",
+  "Ieper en deelgemeenten, postcode 8900",
+  "Geen reiniging van voertuigen",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken"
+ ],
  "sections": [
-  {"h2": "Een transportfirma met een chauffeursruimte", "p": [
-   "Neem een transportfirma in Ieper. Die heeft twee gezichten: het kantoor waar de planning gemaakt wordt en de ruimte waar chauffeurs hun papieren invullen, koffie drinken en even wachten. Het is geen gewoon kantoor, maar het wordt de hele dag gebruikt, ook door mensen die net van de baan komen.",
-   "<ul class=\"ticks\"><li>Planningskantoor en administratie</li><li>Chauffeursruimte met tafels en zitjes</li><li>Refter en koffiehoek</li><li>Douches en sanitair</li><li>Vloeren, inkom en afval</li></ul>",
-   "Voertuigen reinigen we niet, en het poetsen van een werkplaats of loods hoort er evenmin bij. Meer over dit soort bedrijven staat bij <a href=\"sectoren/transportbedrijven.html\">poetshulp voor transportbedrijven</a>."]},
-  {"h2": "Wat de baan mee naar binnen brengt", "p": [
-   "Chauffeurs komen binnen van de baan: stof en modder aan de schoenen, een beker koffie in de hand, papieren op tafel. Daarom krijgen de inkom, de vloeren en de tafels in de chauffeursruimte vaste aandacht, en het sanitair en de douches ook. Het planningskantoor krijgt dezelfde beurt, op dezelfde dag en hetzelfde uur. De garage en de voertuigen blijven buiten het plan."]},
-  {"h2": "Van Ieper tot Zillebeke", "p": [
-   "Ieper (8900) heeft een lange rij deelgemeenten: Boezinge, Brielen, Dikkebus, Elverdinge, Hollebeke, Sint-Jan, Vlamertinge, Voormezele, Zillebeke en Zuidschote. Zonnebeke, Poperinge, Langemark-Poelkapelle en Wervik liggen in de buurt, in de Westhoek. We zoeken een Zondag die dicht bij je kantoor woont. Het overzicht van de streek staat op <a href=\"poetshulp/westhoek.html\">poetshulp in de Westhoek</a>."]},
-  {"h2": "Als het team groeit of de planning verschuift", "p": [
-   "Een transportfirma kent drukke en rustige weken. Je plan hoeft daar niet star in te blijven: uren bijboeken kan, het plan aanpassen ook, en een losse opdracht zoals een grote poetsbeurt is bespreekbaar. Elke maand kan je het plan opzeggen."]},
-  {"h2": "Facturen op naam van de firma", "p": [
-   "Zondags factureert een dienst aan je vennootschap. Dienstencheques zijn er voor particulieren en dus niet voor je firma. Het poetsen van kantoor en chauffeursruimte is een beroepskost, en de btw is in principe recupereerbaar als je firma btw-plichtig is met aftrekrecht. Wil je ook je woning in het plan? Dan staat die apart, als privégedeelte met een forfaitair voordeel van alle aard. Je accountant bevestigt of dat in jouw geval klopt."]},
-  {"h2": "Aanvragen en kennismaken", "p": [
-   "Een aanvraag verstuur je via het formulier of de chat. Binnen één werkdag belt iemand terug, waarna we een intake plannen op je kantoor. Daar leggen we samen vast wanneer je Zondag komt en wat er gebeurt. De eerste 2 uur zijn voor onze rekening."]}
+  {
+   "h2": "Een transportfirma met een chauffeursruimte",
+   "p": [
+    "Neem een transportfirma in Ieper. Die heeft twee gezichten: het kantoor waar de planning gemaakt wordt en de ruimte waar chauffeurs hun papieren invullen, een koffie nemen en even wachten. Het is geen gewoon kantoor, maar het wordt de hele dag gebruikt, ook door mensen die net van de baan komen.",
+    "Je Zondag komt op een rustig moment, bijvoorbeeld voor de eerste chauffeurs terugkeren. Ze neemt de chauffeursruimte, de keuken, het sanitair en de bureaus van de planners. De voertuigen, de laad- en loskaaien en de werkplaats blijven buiten het plan."
+   ]
+  },
+  {
+   "h2": "Kleine kantoren met een handvol tot vijftien mensen",
+   "p": [
+    "Bij een team van die grootte is er meestal geen conciërge en geen vaste poetshulp. Iedereen werkt, niemand ruimt op, en de keuken is de plek waar het eerst misgaat. Eén vaste persoon op een vast uur lost dat op: je weet wanneer ze er is en wat ze doet.",
+    "<ul class=\"ticks\"><li>Bureaus en vergaderzaal</li><li>Keuken of refter met koffiehoek</li><li>Sanitair</li><li>Vloeren en gangen</li><li>Ramen en glazen deuren langs binnen</li><li>Afval en recyclage</li></ul>"
+   ]
+  },
+  {
+   "h2": "Een week in een klein kantoor in Ieper",
+   "p": [
+    "Stel: je beheert een kantoor met twaalf mensen dat de ene week stil is en de andere week overloopt. Je Zondag komt elke maandagochtend en neemt dan het vaste rondje: bureaus, vergaderzaal, keuken en sanitair. Valt er een klantendag, een personeelsfeest tussen de middag of een drukke periode aan, dan boek je een extra blok in dezelfde week.",
+    "Het voordeel van een vaste persoon is dat ze het ritme van je zaak kent. Ze ziet welke bureaus vaak vol liggen, welke keuken een extra beurt nodig heeft en wanneer een vergaderzaal de dag nadien nog gebruikt wordt. Dat vraagt geen briefing meer na de eerste weken."
+   ]
+  },
+  {
+   "h2": "Hulp bij de planning en de papieren",
+   "p": [
+    "Een transportfirma of kantoor in Ieper heeft vaak veel papier: leveringsbonnen, facturen, formulieren. Je Zondag kan die klasseren, de post openen en sorteren, een pakje klaarmaken of kantoormateriaal bijbestellen. Boekhouding en loonadministratie horen er niet bij. Lees meer bij <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">een rechterhand voor bedrijfsleiders</a>."
+   ]
+  },
+  {
+   "h2": "Boezinge, Vlamertinge, Zillebeke en alle andere deelgemeenten",
+   "p": [
+    "Ieper telt veel deelgemeenten: Boezinge, Brielen, Dikkebus, Elverdinge, Hollebeke, Sint-Jan, Vlamertinge, Voormezele, Zillebeke en Zuidschote. Voor zaken daar werkt Zondags op dezelfde manier. Zit je kantoor in Zonnebeke, Poperinge, Langemark-Poelkapelle of Wervik, dan kijken we samen welke Zondag het best aansluit."
+   ]
+  },
+  {
+   "h2": "Wat het kost en hoe je boekt",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw en boekt per blok van 3 uur, dus 180 euro exclusief btw. Extra uren komen aan hetzelfde tarief. De dienstenfactuur staat op naam van je vennootschap. Poetshulp is in principe een beroepskost. De btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant bevestigen hoe dat voor jou geldt.",
+    "Kies op de <a href=\"boeken.html\">boekpagina</a> datum en taken. Voor een vast schema leggen we in een kort gesprek dagen en uren vast."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf levert poetshulp voor een klein kantoor of transportfirma in Ieper?", "a": "Zondags (zondags.be). Voor een kantoor of transportfirma in Ieper komt één vaste Zondag, gescreend en in dienst van Zondags, en de dienstenfactuur is gericht aan je vennootschap."},
-  {"q": "Poetst Zondags ook mijn vrachtwagens of de garage?", "a": "Nee. Reiniging van voertuigen en industriële reiniging doen we niet. Je Zondag onderhoudt de kantoren, de chauffeursruimte, de refter en het sanitair."},
-  {"q": "Op welk moment komt de Zondag bij een transportfirma?", "a": "Op weekdagen overdag. Vroeg in de ochtend kan, en rond de middag ook. We stemmen het uur af op wanneer de ruimtes het rustigst zijn. Een beurt 's avonds of in het weekend is niet mogelijk."},
-  {"q": "Kunnen we na een drukke periode een grote poetsbeurt laten doen?", "a": "Een losse opdracht zoals een grote poetsbeurt is bespreekbaar, naast je vaste beurt. Je kan ook uren bijboeken in drukke weken. Hoe dat in jouw geval kan, bespreken we in het eerste gesprek."},
-  {"q": "Werkt Zondags ook in Vlamertinge, Elverdinge en de andere deelgemeenten van Ieper?", "a": "Vlamertinge, Elverdinge, Zillebeke en de andere deelgemeenten horen bij Ieper en dus bij je aanvraag. Het adres van je zaak is genoeg om te beginnen; daarna zoeken we een Zondag die in je buurt woont."}
+  {
+   "q": "Welk bedrijf biedt poetshulp voor kantoren in Ieper?",
+   "a": "Zondags uit Marke levert een vaste poetshulp voor kantoren en bedrijven in Ieper en alle deelgemeenten, met een factuur op naam van je bedrijf."
+  },
+  {
+   "q": "Worden ook voertuigen of werkplaatsen gepoetst?",
+   "a": "Nee. Zondags poetst kantoren, refters en sanitair. Voertuigen, werkplaatsen en laadkaaien vallen buiten het aanbod."
+  },
+  {
+   "q": "Kan het poetsen van de chauffeursruimte op een vast uur?",
+   "a": "Ja. Je kiest met ons een dag en uur overdag op een weekdag, bijvoorbeeld voor de eerste chauffeurs terugkeren. 's Avonds en in het weekend werken we niet."
+  },
+  {
+   "q": "Wat kost poetshulp in Ieper?",
+   "a": "60 euro per uur exclusief btw, geboekt per blok van 3 uur. Een blok kost 180 euro exclusief btw en extra uren boek je aan hetzelfde tarief."
+  },
+  {
+   "q": "Werkt Zondags ook in Vlamertinge en Elverdinge?",
+   "a": "Ja, in alle deelgemeenten van Ieper. We zoeken telkens een Zondag die dichtbij woont, zodat het vaste uur haalbaar blijft."
+  },
+  {
+   "q": "Kan mijn Zondag ook papieren klasseren?",
+   "a": "Ja, als ondersteunend werk: post sorteren, documenten klasseren en kantoormateriaal bijhouden. Boekhouding blijft bij je boekhouder."
+  }
  ]
 }

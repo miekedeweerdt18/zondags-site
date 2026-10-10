@@ -1,34 +1,37 @@
 {
  "path": "poetshulp/rekkem.html",
- "title": "Poetshulp voor bedrijven in Rekkem (8930)",
- "desc": "Poetshulp voor een nieuw kantoor in Rekkem. Het poetsen groeit mee met je team, met één vaste persoon en één dienstenfactuur aan je vennootschap.",
+ "title": "Poetshulp voor jonge vennootschappen in Rekkem",
+ "desc": "Poetshulp voor je eerste kantoor of praktijk in Rekkem, deelgemeente van Menen. Eén vaste Zondag, 60 euro per uur exclusief btw, online per blok van 3 uur.",
  "eyebrow": "Rekkem · 8930",
  "h1": "Poetshulp voor bedrijven in Rekkem",
- "lead": "Een nieuw kantoor in Rekkem begint met een lege vloer en een volle agenda. Zondags laat het poetsen meegroeien met je team, met één vaste persoon die je zaak leert kennen.",
- "answer": "Jonge vennootschappen in Rekkem, een deelgemeente van Menen, die hun eerste kantoor of praktijk inrichten, krijgen bij Zondags (zondags.be) één vaste persoon, je Zondag, met een plan dat meegroeit naar meer uren wanneer je team groter wordt. De factuur gaat op naam van je vennootschap en het plan is maandelijks opzegbaar. Zondags werkt in West- en Oost-Vlaanderen.",
- "facts": ["Voor jonge vennootschappen in Rekkem", "Groeit mee met je team", "Maandelijks opzegbaar", "Rekkem hoort bij Menen", "Eerste 2 uur gratis"],
+ "lead": "Een jonge vennootschap in Rekkem kiest liefst een eenvoudige regeling die meegroeit. Eén blok, één prijs en één vaste persoon voor je eerste kantoor of praktijk.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor starters en jonge vennootschappen in Rekkem, een deelgemeente van Menen met postcode 8930. Je Zondag poetst je eerste kantoor of praktijk en helpt desgewenst met post en administratie. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw, zonder pakketkeuze, en ontvangt een dienstenfactuur op naam van je bedrijf.",
+ "facts": ["Voor starters en jonge vennootschappen", "Eén blok, één prijs, geen pakketkeuze", "Eén vaste Zondag", "Factuur op naam van je bedrijf", "60 euro per uur, per blok van 3 uur", "Online boeken"],
  "sections": [
-  {"h2": "Inrichten met het poetsen in gedachten", "p": [
-   "Wie een kantoor inricht, denkt aan bureaus, een vergadertafel en een koffiehoek. Denk er ook aan hoe het later onderhouden wordt. Bureaus op poten laten de vloer vrij. Een afvalbak per bureau scheelt wandelingen. Kabels langs de plint in plaats van over de grond maken dweilen makkelijker. Het zijn kleine keuzes die je Zondag bij elke beurt tijd besparen.",
-   "Kan je de intake plannen terwijl het kantoor nog wordt ingericht, dan kan je nog bijsturen wat in de weg staat. Dat is een goede reden om al vroeg een aanvraag te doen."]},
-  {"h2": "Stel: een accountantskantoor dat groeit van drie naar zes", "p": [
-   "Stel: je start een accountantskantoor in Rekkem met drie mensen. Een jaar later zijn jullie met zes: meer bureaus in gebruik, een koffiehoek die nooit stilstaat, een vergaderruimte voor klanten en een sanitair dat iedereen deelt.",
-   "In het begin volstaat misschien één korte ochtend per week. Met zes medewerkers worden keuken en sanitair intensiever gebruikt en pas je het plan aan met meer uren. Je Zondag blijft dezelfde persoon, dus de ruimtes en de gewoontes van het team zijn al bekend."]},
-  {"h2": "Zo laat je poetshulp meegroeien", "p": [
-   "<ul class=\"ticks\"><li>Start met een kennismaking: de eerste 2 uur zijn gratis</li><li>Leg een vaste dag en een vast uur vast</li><li>Boek uren bij wanneer er een bureau of collega bijkomt</li><li>Pas het plan aan als je verhuist of uitbreidt</li><li>Zeg per maand op als het niet meer past</li></ul>",
-   "Wat we nog meer voor beginnende zaken doen, lees je bij <a href=\"sectoren/start-ups.html\">start-ups</a>."]},
-  {"h2": "De factuur van een jonge vennootschap", "p": [
-   "Je betaalt via een gewone dienstenfactuur op naam van je vennootschap. Dienstencheques bestaan alleen voor particulieren. De poetskosten van je kantoor zijn beroepskosten. Wil je ook thuis hulp, dan komt dat deel als privé op een eigen regel.",
-   "Dat privégedeelte verwerk je als forfaitair voordeel van alle aard, wanneer de prestaties regelmatig zijn en een onderneming met personeel ze uitvoert. Ook als je zelf accountant bent, loont het om dit voor je eigen vennootschap na te gaan, en een collega te laten bevestigen wat voor jouw situatie geldt."]},
-  {"h2": "Aan de slag vanuit Rekkem", "p": [
-   "Rekkem is een deelgemeente van Menen (8930). Laat je gegevens achter via het formulier of de chat. Binnen één werkdag belt iemand van ons je terug, daarna komen we langs om je ruimtes te bekijken en het zondagsplan op te stellen. Ligt je kantoor in Lauwe, Menen, Aalbeke of Marke, dan werken we net zo. Ziekte of verlof van je Zondag laat je niet met een probleem zitten: wij zoeken een oplossing."]}
+  {"h2": "Kosten die je vooraf kent", "p": [
+   "Een starter moet elke uitgave kunnen voorspellen. Daarom is er bij Zondags maar één pakket: 60 euro per uur exclusief btw, geboekt per blok van 3 uur. Een blok kost dus 180 euro exclusief btw. Wil je meer uren, dan telt elk uur extra aan hetzelfde tarief. Geen schalen, geen opties die je moet vergelijken.",
+   "Voor een jonge vennootschap in Rekkem betekent dat: je kan met één blok per week of per twee weken beginnen en uitbreiden wanneer de zaak groeit. De factuur staat op naam van je bedrijf, met je btw-nummer."]},
+  {"h2": "Stel: een accountantskantoor met zes medewerkers", "p": [
+   "Neem een jong accountantskantoor in Rekkem dat net een eigen pand heeft gevonden. Zes mensen, twee vergaderkamers, een keuken en een afdeling waar dossiers worden bewaard. Het eerste jaar loopt alles op elkaar: medewerkers die zelf de prullenbakken leegmaken, een zaakvoerder die in het weekend de keuken poetst.",
+   "Nu komt een Zondag op maandagochtend, voor het team binnenkomt. Bureaus, vergaderkamers, keuken en sanitair worden gedaan. Op het einde van elk kwartaal, wanneer de drukte piekt, boeken ze een extra blok. De dossiers zelf blijven natuurlijk bij het team."]},
+  {"h2": "Wat je eerste kantoor nodig heeft", "p": [
+   "<ul class=\"ticks\"><li>Vergaderkamer en onthaal klaar voor de eerste klant</li><li>Een keuken of koffiehoek waar het team graag samenkomt</li><li>Sanitair dat vaak genoeg een beurt krijgt</li><li>Vloeren en ramen langs binnen, zodat de ruimte professioneel overkomt</li><li>Een eenvoudig ritme dat je kan aanpassen</li></ul>",
+   "Algemene uitleg over wat een Zondag in een bedrijf doet, vind je op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."]},
+  {"h2": "Starters hebben ook papieren", "p": [
+   "In het eerste jaar komen contracten, offertes en bestellingen sneller dan je kan klasseren. Je Zondag kan de post sorteren, documenten ordenen, kantoormateriaal bijhouden en pakjes klaarmaken. Zo blijft het kantoor georganiseerd zonder dat je meteen een administratieve kracht moet aanwerven. Boekhouding, jaarrekeningen en advies blijven bij je accountant."]},
+  {"h2": "Rekkem en de regio", "p": [
+   "Rekkem hoort bij Menen en heeft postcode 8930. In de buurt liggen Lauwe, Menen zelf, Aalbeke en Marke. Wij zoeken een Zondag uit die streek, zodat je plan makkelijk in te passen is, ook op een vroeg uur."]},
+  {"h2": "Fiscaal nuchter blijven", "p": [
+   "Poetshulp en administratieve hulp voor de zaak zijn in principe een beroepskost. De btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, en doorgaans niet voor een btw-vrijgestelde praktijk. Vraag je accountant wat voor jouw vennootschap geldt voor je ze in je begroting zet."]},
+  {"h2": "Begin met één blok", "p": [
+   "Op de <a href=\"boeken.html\">boekpagina</a> kies je een weekdag en betaal je online met kaart of Bancontact. Past een wekelijks plan beter, dan bespreken we taken, dagen en uren in een kort gesprek."]}
  ],
  "faq": [
-  {"q": "Welk bedrijf biedt poetshulp aan een nieuw kantoor in Rekkem?", "a": "Zondags biedt poetshulp aan nieuwe en jonge zaken in Rekkem, met één vaste persoon die meegroeit met je team. Je betaalt via een dienstenfactuur aan je vennootschap en start met 2 uur gratis kennismaking."},
-  {"q": "Vanaf hoeveel medewerkers is poetshulp zinvol?", "a": "Dat hangt niet enkel af van het aantal mensen, maar van je ruimtes en het gebruik ervan. Bij de intake bekijken we wat je nodig hebt, ook als je met één bureau start."},
-  {"q": "Hoe laat ik de poetshulp meegroeien met mijn team?", "a": "Je boekt uren bij of past het plan aan wanneer er mensen bijkomen of je verhuist. Je Zondag blijft dezelfde persoon, dus je hoeft niets opnieuw uit te leggen."},
-  {"q": "Is poetshulp een beroepskost voor mijn nieuwe vennootschap?", "a": "Poetsen in je kantoor hoort bij de beroepskosten. De fiscale details, ook voor het privégedeelte van je woning als je die laat poetsen, bevestigt je accountant voor jouw situatie, liefst al bij de start van je vennootschap."},
-  {"q": "Kan mijn Zondag ook mijn woning als zaakvoerder doen?", "a": "Ja, in hetzelfde plan en met dezelfde persoon, met een eigen regel op de factuur voor het privégedeelte. Je kan dat vanaf de start doen of later toevoegen, wanneer je zaak draait."},
-  {"q": "Geldt dit ook voor een nieuw kantoor in Lauwe of Menen?", "a": "Ja. Zit je nieuwe kantoor in Lauwe, Menen, Aalbeke of Marke, dan begin je met dezelfde aanvraag als in Rekkem, en ook de intake en het zondagsplan verlopen op dezelfde manier."}
+  {"q": "Welk bedrijf levert poetshulp voor starters in Rekkem?", "a": "Zondags, uit Marke, levert poetshulp aan starters, jonge vennootschappen en kmo's in Rekkem. Je krijgt één vaste persoon en een factuur op naam van je bedrijf."},
+  {"q": "Moet ik me vastleggen voor een lange periode?", "a": "Je boekt per blok van 3 uur. Voor een vast terugkerend plan bespreken we taken, dagen en uren, maar het tarief van 60 euro per uur exclusief btw blijft altijd hetzelfde."},
+  {"q": "Wat kost de poetshulp voor een klein kantoor in Rekkem?", "a": "Een blok van 3 uur kost 180 euro exclusief btw, aan 60 euro per uur exclusief btw. Extra uren boek je aan hetzelfde tarief."},
+  {"q": "Hoe snel kan mijn eerste beurt plaatsvinden?", "a": "Online boeken kan voor een weekdag, minstens twee werkdagen vooraf. Voor een vast plan volgt eerst een kort gesprek."},
+  {"q": "Is Rekkem een deelgemeente van Menen?", "a": "Ja. Rekkem hoort bij Menen, postcode 8930. Zondags werkt ook in Menen, Lauwe en de rest van West- en Oost-Vlaanderen."},
+  {"q": "Kan mijn Zondag ook helpen met bestellingen en post?", "a": "Ja. Post sorteren, documenten klasseren, kantoormateriaal bijhouden en pakjes klaarmaken zijn ondersteunende taken die in hetzelfde blok kunnen."}
  ]
 }

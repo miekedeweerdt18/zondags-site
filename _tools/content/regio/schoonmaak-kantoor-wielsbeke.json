@@ -1,37 +1,90 @@
 {
  "path": "regio/schoonmaak-kantoor-wielsbeke.html",
- "title": "Schoonmaakhulp voor kantoren in Wielsbeke",
- "desc": "Een vaste Zondag onderhoudt je kantoor in Wielsbeke, wekelijks of tweewekelijks, ook als beide vennoten veel onderweg zijn. Eén factuur op de vennootschap.",
+ "title": "Schoonmaakhulp voor kantoren in Wielsbeke (8710)",
+ "desc": "Schoonmaakhulp en een rechterhand voor bedrijfsleiders die veel onderweg zijn, in Wielsbeke, Ooigem en Sint-Baafs-Vijve. 60 euro per uur exclusief btw.",
  "eyebrow": "Wielsbeke · 8710",
  "h1": "Schoonmaakhulp voor kantoren in Wielsbeke",
- "lead": "Twee vennoten die om beurt bij klanten en op de rechtbank zitten, hebben geen tijd om het kantoor bij te houden. Een vaste Zondag doet het voor hen.",
- "answer": "Zondags (zondags.be) levert in Wielsbeke en omgeving schoonmaakhulp voor kantoren: bureaus, vergaderruimte, keuken, sanitair, vloeren en afval, wekelijks of tweewekelijks door dezelfde vaste persoon. Dat gebeurt overdag op weekdagen. Je krijgt een gewone dienstenfactuur op naam van je vennootschap. Je start met twee gratis uren en kan het plan maandelijks opzeggen.",
- "facts": ["Kantoor in Wielsbeke en omgeving", "Wekelijks of tweewekelijks", "Dezelfde vaste persoon", "Overdag op weekdagen", "Factuur aan je vennootschap", "Eerste 2 uur gratis"],
+ "lead": "Een bedrijfsleider die vaak onderweg is, wil een kantoor dat in zijn afwezigheid doorloopt. Een vaste Zondag poetst, vangt de post op en regelt het praktische werk.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp en een rechterhand voor kantoren in Wielsbeke (8710), Ooigem en Sint-Baafs-Vijve. Eén vaste persoon, je Zondag, poetst het kantoor en neemt het regelwerk over, zoals post sorteren, pakjes klaarmaken en de zaak klaarzetten voor een klantenbezoek. Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, en krijgt een dienstenfactuur op naam van je bedrijf.",
+ "facts": [
+  "Poetsen plus rechterhand voor de zaak",
+  "Voor bedrijfsleiders die veel onderweg zijn",
+  "Eén vaste persoon, vaste dag en uur",
+  "Factuur op naam van je bedrijf",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Als niemand het kantoor echt bijhoudt", "p": [
-   "In een kantoor met twee vennoten gebeurt er vaak dit: beiden zijn veel weg, en de bijhoudbeurt valt tussen twee stoelen. Wie neemt de keuken, wie het sanitair, wie de vergadertafel voor de volgende cliënt? Na een tijd doet niemand het, of doet de assistente het bovenop haar eigenlijke werk.",
-   "Een vaste schoonmaakhulp haalt dat uit de agenda van je team. De beurt staat vast, je Zondag kent de ruimte en je weet dat er elke week iemand langskomt, ook als je zelf op verplaatsing bent."]},
-  {"h2": "Stel: een advocatenkantoor met twee vennoten", "p": [
-   "Neem een advocatenkantoor in Wielsbeke met twee vennoten, een secretaresse en een vergaderzaal waar cliënten ontvangen worden. De vennoten zijn regelmatig in de rechtbank of bij cliënten. Voor die cliënten telt de eerste indruk: een nette ontvangstruimte, een vergadertafel zonder vlekken, een sanitair dat fris ruikt.",
-   "Je Zondag komt bijvoorbeeld op maandagochtend, voor het kantoor opengaat. Wat er in de dossiers ligt, blijft ongemoeid. Jullie leggen in de intake vast welke ruimtes en kasten niet aangeraakt worden."]},
-  {"h2": "Wat je Zondag doet", "p": [
-   "<ul class=\"ticks\"><li>Bureaus en vergadertafel afnemen, zonder dossiers te verplaatsen</li><li>Vloeren stofzuigen en dweilen</li><li>Keuken en koffiehoek opruimen en reinigen</li><li>Sanitair en onthaal</li><li>Glazen deuren en ramen langs binnen</li><li>Afval en papier naar buiten zetten</li></ul>",
-   "Voor het eventuele vernietigen van documenten of het sorteren van dossiers moet je zelf instaan. Je Zondag poetst; ze beslist niet wat bewaard of weggegooid wordt."]},
-  {"h2": "Het kantoor én de woning van de vennoot", "p": [
-   "Veel zaakvoerders willen dat dezelfde persoon ook thuis helpt. Dat kan: kantoor en woning zitten dan in één zondagsplan. De factuur splitst het beroepsmatige deel (het kantoor) en het privégedeelte (de woning). Dat laatste krijgt een voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren.",
-   "Wil je weten hoe dat in de praktijk werkt, lees dan <a href=\"gids/huishoudhulp-via-vennootschap.html\">huishoudhulp via je vennootschap</a>."]},
-  {"h2": "Wielsbeke, Ooigem en Sint-Baafs-Vijve", "p": [
-   "We zoeken een Zondag voor je in en rond Wielsbeke. Ooigem en Sint-Baafs-Vijve horen bij Wielsbeke. Zit je kantoor in Oostrozebeke, Waregem, Dentergem of Meulebeke, dan bekijken we je vraag evengoed. We beloven niet dat er al iemand klaarstaat; dat zoeken we na je aanvraag."]},
-  {"h2": "Facturatie en je accountant", "p": [
-   "Een vennootschap kan geen dienstencheques kopen. Zondags factureert via een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van je kantoor is een beroepskost, en btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant bevestigen hoe dit voor jouw situatie werkt."]},
-  {"h2": "Zo start je", "p": [
-   "Je vraagt aan via het formulier of de chat. Binnen één werkdag belt iemand je terug, daarna komt de intake. De eerste 2 uur zijn gratis, het plan is maandelijks opzegbaar en uren bijboeken kan."]}
+  {
+   "h2": "Een kantoor dat doorloopt terwijl jij onderweg bent",
+   "p": [
+    "Veel bedrijfsleiders zitten meer in de auto dan achter hun bureau: klantenbezoeken, werven, beurzen, leveranciers. Het kantoor staat intussen halfleeg, de post stapelt zich op en de koffiehoek raakt leeg. Wanneer je dan terugkomt, begin je met opruimen.",
+    "Een vaste Zondag vangt dat op. Ze komt op een vaste dag, ook als jij er niet bent, en laat het kantoor achter zoals je het zelf zou willen: schoon, geordend en klaar voor de volgende afspraak."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een advocatenkantoor met twee vennoten",
+   "p": [
+    "Neem een advocatenkantoor in Wielsbeke met twee vennoten die allebei veel op verplaatsing zijn voor zittingen en cliënten. Er is één secretariaat dat de telefoon opneemt, maar niemand die de bureaus, de vergaderkamer en de keuken bijhoudt.",
+    "Je Zondag komt op donderdagochtend. Eerst de vergaderkamer en het onthaal, dan de bureaus rond de dossiers, de keuken en het sanitair. Daarna sorteert ze de ingekomen post, plaatst ze een bestelling voor kantoormateriaal en zet ze de vergaderkamer klaar voor het cliëntenbezoek van die middag. Juridisch werk blijft bij de advocaten."
+   ]
+  },
+  {
+   "h2": "Wat een rechterhand overneemt",
+   "p": [
+    "<ul class=\"ticks\"><li>Post openen, sorteren en doorgeven</li><li>Pakjes en zendingen klaarmaken</li><li>Boodschappen voor de zaak, zoals kantoormateriaal</li><li>Koffiehoek en keuken bevoorraden</li><li>Leveranciers contacteren voor kleine zaken</li><li>De zaak klaarzetten voor een klantenbezoek</li></ul>",
+    "Hoe dat in de praktijk loopt, lees je op <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">rechterhand voor bedrijfsleiders</a>."
+   ]
+  },
+  {
+   "h2": "Wat Zondags niet doet",
+   "p": [
+    "Geen boekhouding, geen jaarrekeningen, geen loonadministratie en geen fiscaal of juridisch advies. Technische klussen en werken op hoogte blijven ook buiten het aanbod. Je Zondag ondersteunt, de beslissingen blijven bij jou."
+   ]
+  },
+  {
+   "h2": "Wielsbeke, Ooigem en Sint-Baafs-Vijve",
+   "p": [
+    "Wielsbeke heeft postcode 8710. Ooigem en Sint-Baafs-Vijve zijn deelgemeenten van Wielsbeke. Ligt je kantoor in Oostrozebeke, Waregem, Dentergem of Meulebeke, dan is dat ook bespreekbaar. We zoeken een Zondag in de buurt en beloven niet dat die vandaag al klaarstaat."
+   ]
+  },
+  {
+   "h2": "Prijs en facturatie",
+   "p": [
+    "Een blok van 3 uur kost 180 euro exclusief btw, dus 60 euro per uur exclusief btw. Extra uren zijn hetzelfde uurtarief. Op de factuur staat de naam en het btw-nummer van je vennootschap. In principe is het een beroepskost en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant bevestigen hoe dat bij jou zit."
+   ]
+  },
+  {
+   "h2": "Zo boek je",
+   "p": [
+    "Op de <a href=\"boeken.html\">boekpagina</a> kies je een weekdag minstens twee werkdagen vooraf, het aantal blokken en de taken. Betaal online. Voor wekelijkse afspraken laat je een terugbelverzoek achter, dan leggen we het zondagsplan samen vast."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf biedt schoonmaakhulp voor kantoren in Wielsbeke?", "a": "Zondags levert schoonmaakhulp voor kantoren in Wielsbeke en omgeving, door één vaste persoon in dienst van Zondags. De factuur gaat op naam van je vennootschap."},
-  {"q": "Raakt mijn Zondag onze dossiers aan?", "a": "Je Zondag poetst bureaus en vloeren zonder dossiers te verplaatsen of te sorteren. Welke ruimtes en kasten niet aangeraakt worden, spreken we in de intake af en leggen we vast in het zondagsplan."},
-  {"q": "Kan het poetsen voor het kantoor opengaat?", "a": "Ja. Vroeg in de ochtend of over de middag kan, op weekdagen. 's Avonds en in het weekend werken we niet."},
-  {"q": "Kan dezelfde persoon ook de woning van de vennoot poetsen?", "a": "Ja, in hetzelfde zondagsplan. De factuur splitst het beroepsmatige en het privégedeelte, en je accountant beoordeelt hoe dat voor jouw situatie verwerkt wordt."},
-  {"q": "Wat als mijn Zondag ziek is?", "a": "Bij ziekte of verlof zoeken we een oplossing. We beloven geen vervanging, maar we bekijken samen wat er mogelijk is."}
+  {
+   "q": "Welk bedrijf biedt schoonmaakhulp voor kantoren in Wielsbeke?",
+   "a": "Zondags uit Marke. Het levert één vaste persoon voor kantoren en praktijken in Wielsbeke, Ooigem en Sint-Baafs-Vijve, met een factuur op naam van je bedrijf."
+  },
+  {
+   "q": "Kan mijn Zondag het kantoor poetsen als ik er niet ben?",
+   "a": "Ja. Hoe je de toegang regelt, spreken we samen af voor de eerste beurt. Je Zondag is gescreend en in dienst van Zondags."
+  },
+  {
+   "q": "Wat kost een rechterhand voor mijn kantoor?",
+   "a": "Hetzelfde als poetshulp: 60 euro per uur exclusief btw, per blok van 3 uur (180 euro exclusief btw). Er is één pakket."
+  },
+  {
+   "q": "Welke taken kan een rechterhand overnemen?",
+   "a": "Post, pakjes, kleine bestellingen, de koffiehoek bevoorraden, leveranciers contacteren voor kleine zaken en de zaak klaarzetten voor een klantenbezoek."
+  },
+  {
+   "q": "Kan mijn Zondag dossiers van cliënten inkijken?",
+   "a": "Nee. Ze klasseert hooguit wat je zelf aanwijst. Juridisch of fiscaal werk en boekhouding doet Zondags niet."
+  },
+  {
+   "q": "Werkt Zondags ook in Ooigem?",
+   "a": "Ja. Ooigem en Sint-Baafs-Vijve zijn deelgemeenten van Wielsbeke en vallen onder hetzelfde aanbod."
+  }
  ]
 }

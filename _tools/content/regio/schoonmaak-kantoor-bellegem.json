@@ -1,37 +1,91 @@
 {
- "path": "regio/schoonmaak-kantoor-bellegem.html",
- "title": "Schoonmaakhulp voor kantoren in Bellegem",
- "desc": "Schoonmaakhulp voor je kantoor in Bellegem: wekelijks of tweewekelijks door dezelfde vaste persoon, overdag op weekdagen, met één factuur aan je vennootschap.",
+ "title": "Schoonmaakhulp voor kantoren in Bellegem (8510)",
+ "desc": "Poetsen, post en regelwerk voor je kantoor in Bellegem via één vaste persoon. 60 euro per uur exclusief btw, online te boeken per blok van 3 uur.",
  "eyebrow": "Bellegem · 8510",
  "h1": "Schoonmaakhulp voor kantoren in Bellegem",
- "lead": "Een kantoor in Bellegem dat er na elke beurt verzorgd bijligt, zonder dat iemand van je team de stofzuiger moet vastnemen. Dezelfde persoon, op dezelfde dag, week na week.",
- "answer": "Zondags (zondags.be) levert schoonmaakhulp voor kantoren in Bellegem, een deelgemeente van Kortrijk: wekelijks of tweewekelijks onderhoud van bureaus, vergaderruimte, keuken, sanitair, vloeren en afval. Het doet steeds dezelfde persoon, je Zondag, overdag op weekdagen. Je krijgt een dienstenfactuur op naam van je vennootschap en de eerste 2 uur zijn gratis.",
- "facts": ["Wekelijks of tweewekelijks onderhoud", "Steeds dezelfde vaste persoon", "Overdag op weekdagen", "Factuur aan je vennootschap", "Ook de was, strijk of boodschappen mogelijk"],
+ "lead": "Poetsen is zelden het enige dat blijft liggen. In Bellegem kan één vaste persoon je kantoor onderhouden en meteen de post, de bestellingen en het regelwerk meenemen.",
+ "answer": "Zondags (zondags.be) biedt in Bellegem, een deelgemeente van Kortrijk met postcode 8510, schoonmaakhulp voor kantoren die ook administratie en regelwerk willen uitbesteden. Je Zondag, steeds dezelfde persoon, poetst overdag op een weekdag en neemt desgewenst post, klasseerwerk en bestellingen mee. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en ontvangt een dienstenfactuur op naam van je bedrijf.",
+ "facts": [
+  "Kantoren in Bellegem (8510)",
+  "Poetsen plus administratie en regelwerk",
+  "Steeds dezelfde vaste persoon",
+  "Factuur op naam van je bedrijf",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Hoe vaak is genoeg", "p": [
-   "Voor de meeste kleine kantoren in Bellegem volstaat een wekelijkse beurt. Zit je met een handvol mensen die veel op kantoor werken, dan houdt dat de keuken en het sanitair in orde. Ben je vaker bij klanten dan op kantoor, dan kan een tweewekelijkse beurt genoeg zijn.",
-   "Je past het ritme later aan. Komt er een collega bij, staat er een drukke periode voor de deur of ga je de zomer rustiger in, dan wijzig je het zondagsplan zonder gedoe. Je kan ook uren bijboeken voor een grote beurt."]},
-  {"h2": "Wat er elke beurt aan bod komt", "p": [
-   "<ul class=\"ticks\"><li>Bureaus afnemen en vrij maken van stof</li><li>Vergaderruimte en onthaal</li><li>Keuken en koffiehoek, frigo-deur en vaatwasser</li><li>Sanitair en spiegels</li><li>Vloeren stofzuigen en dweilen</li><li>Afval en recyclage buiten zetten</li></ul>",
-   "Ramen langs binnen kunnen er ook bij. Gevelreiniging, werken op hoogte en industriële reiniging doen we niet. Voor het onderhoud van een kantoor ben je bij Zondags aan het juiste adres."]},
-  {"h2": "Neem een kapsalon in de dorpskern", "p": [
-   "Neem een kapsalon in de dorpskern van Bellegem. De eigenaar werkt van dinsdag tot zaterdag en heeft op maandag tijd voor administratie. Op maandagochtend komt haar Zondag: eerst het kantoortje achteraan, het onthaal en de keuken, dan het sanitair en de vloeren.",
-   "Omdat de zaakvoerster daarna haar wasmand vol heeft en de boodschappen nog moeten gebeuren, doet dezelfde Zondag in de late ochtend de strijk en een rondje in de winkel. Eén persoon, twee soorten taken, één factuur met twee delen."]},
-  {"h2": "Meer dan poetsen alleen", "p": [
-   "Veel zaakvoerders vragen na een paar weken: kan jij ook onze handdoeken wassen, of een schotel koken voor de week? Dat kan. Je Zondag kan naast het kantoor ook was en strijk doen, koken, boodschappen halen of regelwerk zoals de apotheek en de droogkuis. Je kiest wat past, en je plan groeit mee."]},
-  {"h2": "Bellegem en de buurt", "p": [
-   "Bellegem hoort bij Kortrijk. Dichtbij liggen Rollegem, Kooigem, Marke en Zwevegem, en natuurlijk Kortrijk zelf. We zoeken Zondags in en rond Bellegem, zodat je Zondag dichtbij woont. Meer over onze aanpak voor kantoren lees je op <a href=\"diensten/kantoorschoonmaak.html\">kantoorschoonmaak</a>."]},
-  {"h2": "Boeken via je vennootschap", "p": [
-   "Een vennootschap kan geen dienstencheques kopen; die zijn enkel voor particulieren. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van je kantoor is een beroepskost. Btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht.",
-   "Laat je er ook je woning bij poetsen, dan staat dat deel apart op de factuur. Laat je accountant altijd bevestigen hoe dit voor jouw situatie werkt."]},
-  {"h2": "Zo start je", "p": [
-   "Vraag aan via het formulier of de chat. Binnen één werkdag belt iemand je terug, daarna volgt een intake op je kantoor. We maken samen het zondagsplan en de eerste 2 uur zijn gratis. De prijs is op maat en je kan maandelijks opzeggen."]}
+  {
+   "h2": "Eén persoon voor poetsen én papierwerk",
+   "p": [
+    "De meeste kleine bedrijven in Bellegem kennen hetzelfde probleem. Het poetsen schuift op, maar de post stapelt zich ook op, de facturen liggen nog los en niemand weet wanneer het printpapier is aangevuld. Elk afzonderlijk taakje is klein. Samen eten ze een halve dag per week.",
+    "Daarom werkt Zondags met één vaste persoon voor beide. Je Zondag komt naar je kantoor, maakt het schoon en pakt daarna de praktische taken op die jij zelf het liefst nooit meer zou doen."
+   ]
+  },
+  {
+   "h2": "Neem een kapsalon in de dorpskern",
+   "p": [
+    "Neem een kapsalon in de dorpskern met twee stoelen, een wasbak, een kleine keuken en een bureau achteraan voor de boekhouding. De eigenares staat de hele dag aan de stoel en de papieren blijven liggen. Op maandagochtend komt haar Zondag: eerst de zaak zelf, met vloeren, spiegels langs binnen, sanitair en keuken. Daarna het bureau.",
+    "Daar sorteert ze de post, ordent ze de facturen in de juiste map, zet ze de bestelling kantoormateriaal klaar en noteert ze de afspraken met leveranciers in de agenda. De eigenares vindt een opgeruimd kantoor terug en een zaak die klaar is om de week te starten."
+   ]
+  },
+  {
+   "h2": "De poetsbeurt zelf",
+   "p": [
+    "<ul class=\"ticks\"><li>Bureaus en kasten afnemen</li><li>Vloeren stofzuigen en dweilen</li><li>Sanitair reinigen en navullen</li><li>Keuken en koffiehoek opfrissen</li><li>Spiegels, ramen en glazen deuren langs binnen</li><li>Afval en papier buiten zetten</li></ul>"
+   ]
+  },
+  {
+   "h2": "Welke administratie kan je uitbesteden",
+   "p": [
+    "Het gaat om ondersteunend werk dat je zelf niet echt hoeft te doen: de post openen en sorteren, documenten en facturen klasseren, dossiers en archief ordenen, afspraken inplannen, gegevens invoeren, kantoorbenodigdheden bijhouden en pakjes klaarmaken.",
+    "Boekhouding, jaarrekeningen, loonadministratie en fiscaal of juridisch advies horen niet bij het aanbod. Dat blijft bij je boekhouder of accountant. Een uitleg over de aanpak lees je op <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">een rechterhand voor bedrijfsleiders</a>."
+   ]
+  },
+  {
+   "h2": "Bellegem en omgeving",
+   "p": [
+    "Bellegem hoort bij Kortrijk. Zondags is gevestigd in Marke, een andere deelgemeente. Ligt je kantoor in Bellegem, Rollegem, Kooigem, Marke, Kortrijk of Zwevegem, dan zoeken we een Zondag die in de buurt woont."
+   ]
+  },
+  {
+   "h2": "Wat het kost en hoe je het factureert",
+   "p": [
+    "Het tarief is 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw. Extra uren boek je aan hetzelfde tarief. Poetsen en administratieve hulp vallen onder dezelfde prijs en dezelfde factuur.",
+    "De factuur staat op naam van je bedrijf. In principe is het een beroepskost en kan een btw-plichtige zaak met aftrekrecht de btw recupereren. Laat je accountant bevestigen hoe dat bij jou zit."
+   ]
+  },
+  {
+   "h2": "Starten in drie stappen",
+   "p": [
+    "Op de <a href=\"boeken.html\">boekpagina</a> kies je een datum, de blokken en de taken. Je geeft de bedrijfsgegevens in en betaalt online. Wil je dat het terugkerend wordt, bijvoorbeeld elke week, dan bellen we eerst kort en leggen we het zondagsplan vast."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf levert schoonmaakhulp voor kantoren in Bellegem?", "a": "Zondags (zondags.be) levert schoonmaakhulp voor kantoren in Bellegem en de rest van Kortrijk. Je krijgt steeds dezelfde persoon en een factuur op naam van je vennootschap."},
-  {"q": "Kan mijn kantoor in Bellegem tweewekelijks gepoetst worden?", "a": "Ja. Wekelijks of tweewekelijks kan. Je kiest het ritme dat bij je team past en past het later aan als je zaak groeit of krimpt."},
-  {"q": "Wordt er tijdens de kantooruren gepoetst?", "a": "Dat stemmen we af op je agenda. Overdag op weekdagen, vroeg in de ochtend of over de middag kan. 's Avonds en in het weekend werken we niet."},
-  {"q": "Doet mijn Zondag ook de ramen van mijn kantoor?", "a": "Langs binnen wel. Ramen langs buiten op hoogte, gevelreiniging en andere werken op hoogte horen niet bij Zondags."},
-  {"q": "Kan dezelfde persoon ook mijn woning poetsen?", "a": "Ja. Kantoor en woning kunnen in één plan. Op de factuur staan de twee delen apart, zodat je accountant het correct kan verwerken."}
- ]
+  {
+   "q": "Kan ik poetshulp en administratieve hulp combineren in Bellegem?",
+   "a": "Ja. Dezelfde Zondag poetst je kantoor en pakt ondersteunende taken op, zoals post sorteren, klasseren, afspraken inplannen en kantoormateriaal bestellen."
+  },
+  {
+   "q": "Wat kost een Zondag voor mijn kantoor in Bellegem?",
+   "a": "60 euro per uur exclusief btw. De boeking loopt per blok van 3 uur, dus 180 euro exclusief btw, en extra uren zijn aan hetzelfde uurtarief."
+  },
+  {
+   "q": "Doet Zondags ook mijn boekhouding?",
+   "a": "Nee. Boekhouding, jaarrekeningen, loonadministratie en fiscaal of juridisch advies zijn geen onderdeel van het werk. Zondags helpt enkel ondersteunend."
+  },
+  {
+   "q": "Wanneer komt de Zondag langs?",
+   "a": "Overdag op weekdagen, vroeg in de ochtend of over de middag. Nooit 's avonds en nooit in het weekend."
+  },
+  {
+   "q": "Wat als ik een extra klus heb, zoals een pakket afhalen?",
+   "a": "Dat kan, als regelwerk voor de zaak. Denk aan pakjes ophalen, kantoormateriaal halen of de koffiehoek bevoorraden. Je kiest de taken bij de boeking."
+  },
+  {
+   "q": "Krijg ik altijd dezelfde persoon?",
+   "a": "Ja, dat is de bedoeling. Klikt het niet, dan zoeken we samen een andere Zondag."
+  }
+ ],
+ "path": "regio/schoonmaak-kantoor-bellegem.html"
 }

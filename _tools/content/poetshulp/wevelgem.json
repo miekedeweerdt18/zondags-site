@@ -1,35 +1,37 @@
 {
  "path": "poetshulp/wevelgem.html",
- "title": "Poetshulp voor bedrijven in Wevelgem (8560)",
- "desc": "Poetshulp voor familiebedrijven in Wevelgem, waar zaak en woning dicht bij elkaar liggen. Eén vaste persoon voor beide, met aparte regels op één factuur.",
+ "title": "Poetshulp voor familiebedrijven in Wevelgem (8560)",
+ "desc": "Poetshulp voor familiebedrijven en kleine teams in Wevelgem, Gullegem en Moorsele. Eén vaste Zondag, 60 euro per uur exclusief btw, online per blok van 3 uur.",
  "eyebrow": "Wevelgem · 8560",
  "h1": "Poetshulp voor bedrijven in Wevelgem",
- "lead": "In een familiebedrijf liggen zaak en woning dicht bij elkaar en loopt het werk door. In Wevelgem poetst één vaste Zondag beide kanten, op afgesproken momenten.",
- "answer": "Familiebedrijven in Wevelgem, waar zaak en woning dicht bij elkaar liggen, kunnen bij Zondags (zondags.be) terecht voor poetshulp. Dezelfde Zondag poetst de zaak, bijvoorbeeld een kapsalon in de dorpskern, en op een ander moment de woning, op een afgesproken dag en uur. Op de dienstenfactuur aan je vennootschap staan beide delen apart. Zondags werkt in West- en Oost-Vlaanderen en heeft Marke als thuisbasis.",
- "facts": ["Voor familiebedrijven in Wevelgem", "Zaak en woning in één plan", "Ook Gullegem en Moorsele", "Steeds dezelfde persoon", "Eerste 2 uur gratis"],
+ "lead": "In een familiebedrijf met een klein team doet iedereen alles, behalve poetsen. Een vaste Zondag in Wevelgem neemt dat over, zodat niemand nog na de sluiting de mop vastneemt.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor bedrijven in Wevelgem, met postcode 8560, inclusief de deelgemeenten Gullegem en Moorsele. Je krijgt één vaste persoon, je Zondag, voor je kantoor, praktijk of winkel, en desgewenst ook hulp bij post en regelwerk. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en ontvangt een dienstenfactuur op naam van je bedrijf.",
+ "facts": ["Familiebedrijven en kleine teams", "Wevelgem, Gullegem en Moorsele", "Eén vaste Zondag, vast uur", "Factuur op naam van je bedrijf", "60 euro per uur, per blok van 3 uur", "Online boeken"],
  "sections": [
-  {"h2": "Als zaak en gezin onder hetzelfde dak draaien", "p": [
-   "In een familiebedrijf is de grens tussen werk en thuis flinterdun. De salon of winkel gaat open, maar thuis staat de ontbijttafel nog niet afgeruimd. De zaak krijgt voorrang, en de woonkamer wacht. Een vaste Zondag haalt die druk weg, omdat zaak en woning in één afspraak zitten.",
-   "Wevelgem is een gemeente met twee deelgemeenten, Gullegem en Moorsele. In heel dat gebied kan je een Zondag aanvragen voor je familiebedrijf."]},
-  {"h2": "Neem een kapsalon in de dorpskern", "p": [
-   "Neem een kapsalon in de dorpskern van Wevelgem, met drie kapstoelen, wasbakken, een wachthoek en een koffiehoek. Na een drukke dag ligt er haar op de vloer, zitten er vlekken in de spiegels en wordt het sanitair de hele dag gebruikt. Boven of achter de salon woont het gezin dat de zaak draaiende houdt.",
-   "Je Zondag veegt en dweilt de salon, doet de spiegels, de wachthoek en het sanitair, en gaat daarna naar de woning voor het poetsen en de was en strijk. Het materiaal van het vak, zoals scharen en toestellen, blijft bij de kapper. Salons komen ook apart aan bod bij <a href=\"sectoren/kapsalons.html\">kapsalons</a>."]},
-  {"h2": "Wat er voor het gezin bij kan", "p": [
-   "<ul class=\"ticks\"><li>Kinderen ophalen van school of van de opvang na school</li><li>Koken, of schotels voor de week klaarzetten</li><li>Boodschappen en regelwerk zoals apotheek en droogkuis</li><li>Gras en terras licht onderhouden</li><li>De hond uitlaten</li></ul>",
-   "Je kiest zelf wat in je zondagsplan komt. Begin gerust met de salon en de woning en voeg later iets toe. Wat een familiebedrijf verder nodig heeft, staat bij <a href=\"sectoren/familiebedrijven.html\">familiebedrijven</a>."]},
-  {"h2": "Eén factuur voor zaak en woning", "p": [
-   "Je vennootschap krijgt een gewone dienstenfactuur. Dienstencheques zijn er enkel voor particulieren en kan een vennootschap dus niet gebruiken. Het poetsen van de salon is een beroepskost.",
-   "Voor de woning geldt een forfaitair voordeel van alle aard, mits de hulp regelmatig langskomt en via een onderneming met mensen in dienst loopt. Omdat zaak en woning dicht bij elkaar liggen, staan ze op de factuur duidelijk gescheiden. Of dat voor jouw vennootschap zo klopt, bevestigt je accountant."]},
-  {"h2": "Het vaste ritme", "p": [
-   "Je Zondag komt telkens op dezelfde dag en hetzelfde uur. Wij werken overdag op weekdagen, vroeg in de ochtend of over de middag, nooit 's avonds of in het weekend. Voor een kapsalon past dat voor de opening of op een rustige dag. Kan je Zondag eens niet komen, dan zoeken wij een oplossing; jij hoeft niets te regelen. Opzeggen kan per maand."]},
-  {"h2": "Je Zondag aanvragen in Wevelgem", "p": [
-   "Via het formulier of de chat laat je weten dat je een Zondag zoekt. Binnen één werkdag nemen we contact op en daarna komen we langs voor de intake. De kennismaking van 2 uur is gratis. Ook voor zaken in Menen, Lauwe, Ledegem, Kortrijk of Bissegem werken we zo."]}
+  {"h2": "Wanneer niemand tijd heeft om te poetsen", "p": [
+   "Een familiebedrijf met vier of vijf mensen draait op inzet. De zaakvoerder neemt de klanten, een zus of broer doet de administratie, een medewerker staat in de winkel of op de baan. Niemand heeft het poetsen in zijn takenlijst, dus gebeurt het op vrijdagavond door wie het laatst blijft, of helemaal niet.",
+   "Dat is geen kwestie van onwil. Het is een kwestie van taakverdeling. Wie het poetsen aan een vaste Zondag geeft, maakt tijd vrij voor het werk waarvoor klanten betalen."]},
+  {"h2": "Stel: een kapsalon in de dorpskern", "p": [
+   "Neem een kapsalon in het centrum van Wevelgem met drie stoelen en een wasruimte. Haren op de vloer, handdoeken in de mand, spiegels vol vingerafdrukken: het salon moet op dinsdagochtend weer fris zijn voor de eerste klant. Je Zondag komt voor de opening, veegt en neemt de vloer nat, maakt spiegels, werkblad en onthaal schoon, kijkt het sanitair na en vult de koffie aan.",
+   "Producten, scharen en apparatuur laat ze met rust. De focus ligt op de ruimte waar klanten zitten en waar het team werkt."]},
+  {"h2": "Wat er standaard bij hoort", "p": [
+   "<ul class=\"ticks\"><li>Vloeren, werkplekken en onthaal</li><li>Wachtzone en koffiehoek</li><li>Sanitair voor klanten en personeel</li><li>Ramen en spiegels langs binnen</li><li>Afval en recyclage klaarzetten</li></ul>",
+   "Kijk voor de volledige aanpak naar <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>. Extra zaken zoals post, kantoormateriaal en pakjes kunnen binnen hetzelfde bezoek."]},
+  {"h2": "Wevelgem, Gullegem en Moorsele", "p": [
+   "Wevelgem is een gemeente met postcode 8560 en omvat de deelgemeenten Gullegem en Moorsele. Daarnaast liggen Kortrijk, Menen, Ledegem, Lauwe en Bissegem in de buurt. Wil je een tweede vestiging laten onderhouden in een van die plaatsen, dan bekijken we samen of dat past binnen je plan."]},
+  {"h2": "Een vast ritme voor een klein team", "p": [
+   "Voor een klein team werkt een eenvoudig schema het best: één vaste beurt per week, op een uur waarop de zaak rustig is, met een extra blok als het druk is. Je Zondag wordt na een paar weken de persoon die weet waar alles staat en wat er die week anders was. De lijst met taken staat vast in je zondagsplan, dus je moet niet elke keer opnieuw uitleggen wat je verwacht."]},
+  {"h2": "Prijs en facturatie", "p": [
+   "Eén tarief: 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw, en voegt extra uren toe aan hetzelfde tarief. De factuur komt op naam van je bedrijf, met btw-nummer. In principe is het een beroepskost en kan je als btw-plichtige met aftrekrecht de btw recupereren. Een btw-vrijgestelde zaak kan dat doorgaans niet. Je accountant bevestigt dit voor jouw situatie."]},
+  {"h2": "Starten in Wevelgem", "p": [
+   "Op de <a href=\"boeken.html\">boekpagina</a> kies je een weekdag, minstens twee werkdagen vooraf, en betaal je online. Wil je een terugkerend plan, dan bellen we eerst kort om dagen en uren af te spreken."]}
  ],
  "faq": [
-  {"q": "Welk bedrijf staat klaar voor poetshulp bij een kapsalon in Wevelgem?", "a": "Zondags poetst kapsalons en andere zaken in Wevelgem, en op wens ook de woning erachter. Dezelfde persoon doet beide, en de dienstenfactuur aan je vennootschap houdt de zaak en het gezin uit elkaar."},
-  {"q": "Kan één persoon zowel mijn salon als mijn woning poetsen?", "a": "Ja. Je Zondag kan op één dag allebei doen, of op twee verschillende dagen, afhankelijk van wat in je plan staat. Op de factuur staan zaak en woning apart."},
-  {"q": "Wassen jullie ook de handdoeken en kapmantels van de salon?", "a": "Was en strijk horen bij wat je Zondag kan doen. Of dat ook de handdoeken en kapmantels van de salon omvat, bekijken we bij de intake."},
-  {"q": "Kan mijn Zondag de kinderen ophalen als de salon vol zit?", "a": "Ja. Kinderen ophalen van school en van de opvang na school kan in je zondagsplan, naast het poetsen. Je legt vast op welke dagen en op welk uur."},
-  {"q": "Werkt Zondags ook in Gullegem en Moorsele?", "a": "Ja. Gullegem en Moorsele horen bij Wevelgem, dus een aanvraag uit een van die twee dorpen verloopt zoals een aanvraag uit Wevelgem zelf. Hetzelfde geldt voor zaken in Menen, Lauwe, Ledegem en Kortrijk."}
+  {"q": "Welk bedrijf levert poetshulp voor bedrijven in Wevelgem?", "a": "Zondags, uit Marke, levert poetshulp aan kantoren, praktijken, salons en winkels in Wevelgem, Gullegem en Moorsele. Je krijgt één vaste persoon en een factuur op naam van je bedrijf."},
+  {"q": "Kan Zondags ook mijn kapsalon of winkel poetsen?", "a": "Ja, de ruimte voor klanten en personeel: vloeren, onthaal, sanitair, keuken en ramen langs binnen. Technisch werk, werken op hoogte en reiniging van medisch of technisch materiaal horen er niet bij."},
+  {"q": "Werkt Zondags ook in Gullegem en Moorsele?", "a": "Ja. Gullegem en Moorsele zijn deelgemeenten van Wevelgem en vallen binnen ons werkgebied, net als de rest van West- en Oost-Vlaanderen."},
+  {"q": "Hoeveel kost poetshulp voor een klein bedrijf in Wevelgem?", "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok, met extra uren aan hetzelfde tarief."},
+  {"q": "Hoe vaak heeft een familiebedrijf poetshulp nodig?", "a": "Dat hangt af van de ruimte en het aantal mensen. Een wekelijkse beurt is voor veel kleine teams een goed uitgangspunt. We bespreken het bij het opstellen van je zondagsplan."},
+  {"q": "Kan ik de Zondag ook voor kleine administratieve taken inzetten?", "a": "Ja. Post sorteren, dossiers ordenen, kantoormateriaal bijhouden en pakjes klaarmaken kunnen binnen hetzelfde blok. Boekhouding valt erbuiten."}
  ]
 }

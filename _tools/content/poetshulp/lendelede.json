@@ -1,36 +1,85 @@
 {
- "path": "poetshulp/lendelede.html",
  "title": "Poetshulp voor bedrijven in Lendelede (8860)",
- "desc": "Poetshulp voor praktijken, kantoren en transportfirma's in Lendelede, op de rustige momenten: vroeg in de ochtend of over de middag. Eén vaste persoon.",
+ "desc": "Poetshulp vroeg in de ochtend of over de middag voor praktijken en kantoren in Lendelede, buiten de drukte. 60 euro per uur excl. btw, per blok van 3 uur.",
  "eyebrow": "Lendelede · 8860",
  "h1": "Poetshulp voor bedrijven in Lendelede",
- "lead": "Wanneer is jouw kantoor leeg? Bij een transportfirma is dat pas wanneer de wagens onderweg zijn. In Lendelede plannen we het poetsen op jouw rustige moment.",
- "answer": "Praktijken, kantoren en transportfirma's in Lendelede krijgen bij Zondags (zondags.be) poetshulp op de momenten dat het er rustig is: vroeg in de ochtend of over de middag, nooit 's avonds of in het weekend. Je Zondag is steeds dezelfde persoon, door Zondags gescreend en in dienst. Gefactureerd wordt aan je vennootschap. Het bedrijf zit in Marke en werkt in West- en Oost-Vlaanderen.",
- "facts": ["Vroeg in de ochtend of over de middag", "Praktijken, kantoren, transportfirma's", "Chauffeursruimte en planningskantoor", "Eén vaste persoon", "Eerste 2 uur gratis"],
+ "lead": "Een praktijk of kantoor in Lendelede dat liever poetst buiten de drukte, kiest een vroeg uur of de middagpauze. Je vaste Zondag komt wanneer het jou past, overdag op een weekdag.",
+ "answer": "Zondags (zondags.be) levert in Lendelede poetshulp voor praktijken en kantoren die liefst vroeg in de ochtend of over de middag laten poetsen, buiten de drukte. Eén vaste persoon, je Zondag, komt op een vast uur en onderhoudt wachtzaal, bureaus, keuken en sanitair. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw, met een factuur op naam van je bedrijf. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk, nooit 's avonds en nooit in het weekend.",
+ "facts": [
+  "Vroeg in de ochtend of over de middag",
+  "Praktijken en kantoren",
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Factuur op naam van je bedrijf",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Wanneer is jouw kantoor leeg?", "p": [
-   "Poetsen gaat het vlotst wanneer niemand in de weg loopt. Een praktijk is leeg voor de eerste afspraak of in de middagpauze. Een transportfirma heeft het omgekeerde ritme: vroeg vertrekken de wagens en over de middag zijn de meeste chauffeurs onderweg, waardoor het stil wordt in de chauffeursruimte.",
-   "Wij werken overdag op weekdagen, vroeg in de ochtend of over de middag. 's Avonds en in het weekend doen we niet. Weet je niet welk moment bij je zaak past, dan zoeken we dat samen bij de intake."]},
-  {"h2": "Stel: de wagens van je transportfirma zijn onderweg", "p": [
-   "Neem een transportfirma in Lendelede. De planners zitten in een kantoor, de chauffeurs hebben een eigen ruimte met een koffiehoek en een toilet. Vroeg in de ochtend vertrekken de wagens. Over de middag is het stil: de chauffeurs zijn onderweg en de planners nemen pauze.",
-   "Dat is het moment voor je Zondag: het zitgedeelte, de koffiehoek en de vloer van de chauffeursruimte, het planningskantoor, het sanitair en de gang. De wagens zelf blijven buiten ons werk."]},
-  {"h2": "Vroeg of over de middag: zo vergelijk je", "p": [
-   "<ul class=\"ticks\"><li>Vroeg in de ochtend: voor praktijken en kantoren die nog niet open zijn</li><li>Over de middag: voor ruimtes die dan leeg zijn, zoals een chauffeursruimte of een wachtzaal tijdens de pauze</li><li>Nooit 's avonds en nooit in het weekend</li></ul>",
-   "Je kiest één vast moment. Wil je beide, bijvoorbeeld de ochtend voor het kantoor en de middag voor de chauffeursruimte, dan kan het plan twee beurten per week bevatten."]},
-  {"h2": "Hoe je betaalt", "p": [
-   "De prijs bepalen we op maat, na een kort gesprek, en de eerste 2 uur zijn gratis. Je betaalt met een gewone dienstenfactuur op naam van je vennootschap. Dienstencheques kunnen niet: die zijn voor particulieren. Het onderhoud is een beroepskost.",
-   "Wil de zaakvoerder ook zijn woning laten poetsen, dan komt dat op een aparte regel als privé, met een forfaitair voordeel van alle aard, op twee voorwaarden: regelmatige beurten en een onderneming die personeel in dienst heeft. Je accountant bevestigt hoe dat in jouw dossier werkt."]},
-  {"h2": "Dezelfde persoon, ook als de planning verandert", "p": [
-   "Een transportfirma en een praktijk hebben allebei weleens een uitzondering: een extra rit, een dag zonder afspraken. Uren bijboeken of het plan aanpassen kan, en opzeggen kan per maand. Het is steeds dezelfde Zondag, dus niets hoeft opnieuw uitgelegd te worden. Valt je Zondag uit, dan zoeken wij een oplossing."]},
-  {"h2": "Lendelede en de omgeving", "p": [
-   "Lendelede is een gemeente zonder deelgemeenten. Ook voor praktijken en kantoren in Kuurne, Heule, Izegem, Ingelmunster en Moorsele verloopt de aanvraag zo: via het formulier of de chat, binnen één werkdag telefonisch contact en daarna de intake. Meer over firma's met wagens en chauffeurs staat bij <a href=\"sectoren/transportbedrijven.html\">transportbedrijven</a>."]}
+  {
+   "h2": "Poetsen op het moment dat niemand erdoor gestoord wordt",
+   "p": [
+    "Poetshulp in een bedrijf botst vaak met de agenda: tijdens de consulturen loopt een stofzuiger in de weg, na sluitingstijd is het te laat en in het weekend wil niemand komen. Veel zaakvoerders zoeken daarom naar een uur ertussen. Dat uur bestaat: vroeg in de ochtend, voor de eerste klant of patiënt, of over de middag, wanneer de wachtzaal even leeg is.",
+    "Bij Zondags kies je zelf dat uur. Eens vastgelegd komt je Zondag steeds op hetzelfde moment, zodat jij en je team weten wanneer ze er is en wanneer ze klaar is."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een transportfirma met een chauffeursruimte",
+   "p": [
+    "Stel: je hebt een transportfirma in Lendelede met een kantoor voor planning en facturatie en een chauffeursruimte waar de wagenbestuurders hun papieren invullen en koffie drinken. In de vroege ochtend zijn de chauffeurs net weg, het kantoor is nog niet vol. Dat is het uur van je Zondag.",
+    "Ze neemt de planningsbureaus af, zet de chauffeursruimte recht, poetst het sanitair en leegt de afvalbakken. Op vrijdag kan ze de post en de vrachtdocumenten klasseren in plaats van de ruimte. Het wagenpark en de loods blijven buiten haar taak."
+   ]
+  },
+  {
+   "h2": "Een vast uur kiezen, in drie vragen",
+   "p": [
+    "<ul class=\"ticks\"><li>Wanneer komen de eerste klanten of medewerkers binnen?</li><li>Hoe lang is de pauze waarin de ruimte leeg is?</li><li>Wil je dezelfde dag elke week, of wisselen we af?</li></ul>",
+    "Met die antwoorden stellen we samen het zondagsplan op. Het plan houdt dag, uur en taken vast, en je past het later aan als je team of je openingsuren veranderen."
+   ]
+  },
+  {
+   "h2": "Naast de poetsbeurt: wat ze nog kan oppakken",
+   "p": [
+    "Omdat je Zondag toch in je zaak is, kan ze ook papierwerk doen: post sorteren, facturen klasseren, kantoormateriaal bestellen. De koffiehoek aanvullen of een pakje klaarzetten kan ook. Meer over zulke hulp lees je op <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">de pagina voor bedrijfsleiders</a>."
+   ]
+  },
+  {
+   "h2": "Lendelede en de dorpen errond",
+   "p": [
+    "Lendelede heeft postcode 8860 en geen aparte deelgemeenten. Zondags werkt er en ook net buiten de grens, in Kuurne, Heule, Izegem, Ingelmunster en Moorsele. Voor Izegem is er <a href=\"poetshulp/izegem.html\">een eigen pagina</a>."
+   ]
+  },
+  {
+   "h2": "Wat het kost en hoe je boekt",
+   "p": [
+    "Een blok van drie uur kost 180 euro exclusief btw. Extra uren kosten 60 euro per uur. Je betaalt online en krijgt een dienstenfactuur op naam van je bedrijf. Het is in principe een beroepskost; laat je accountant bevestigen hoe dat voor jouw situatie werkt.",
+    "Op <a href=\"boeken.html\">de boekpagina</a> kies je een weekdag, een uur en de taken."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf kan poetshulp leveren aan een transportfirma in Lendelede?", "a": "Zondags kan dat voor transportfirma's, praktijken en kantoren in Lendelede, op het moment dat het in je gebouw rustig is. De persoon blijft dezelfde en de dienstenfactuur gaat naar je vennootschap."},
-  {"q": "Kan er gepoetst worden terwijl mijn chauffeurs onderweg zijn?", "a": "Ja, dat is een logisch moment. Over de middag zijn de ruimtes vaak leeg, zodat je Zondag de chauffeursruimte en het planningskantoor kan doen zonder in de weg te lopen. We spreken het uur bij de intake af."},
-  {"q": "Wat is geschikter: vroeg in de ochtend of over de middag?", "a": "Dat hangt af van wanneer je ruimtes het rustigst zijn. Een praktijk kiest vaak de ochtend, een firma met chauffeurs de middag. Bij de intake bekijken we je dag en kiezen we een vast moment."},
-  {"q": "Poetst Zondags ook de cabines van de vrachtwagens?", "a": "Nee. Reiniging van voertuigen doen we niet. We poetsen de ruimtes in het gebouw: kantoor, chauffeursruimte, keuken en sanitair, en op wens de woning van de zaakvoerder."},
-  {"q": "Kan de poetshulp op zaterdag komen?", "a": "Nee. Weekends en avonden doen we niet, we werken overdag op weekdagen. Past dat niet bij je firma, dan zeggen we dat meteen na je aanvraag, voor je tijd verliest."},
-  {"q": "Kan een firma in Izegem of Ingelmunster ook een Zondag aanvragen?", "a": "Ja. Voor praktijken, kantoren en firma's in Izegem, Ingelmunster, Kuurne, Heule en Moorsele loopt de aanvraag zoals voor Lendelede, met een intake in je eigen gebouw."}
- ]
+  {
+   "q": "Welk bedrijf doet poetshulp voor praktijken in Lendelede?",
+   "a": "Zondags doet poetshulp voor praktijken en kantoren in Lendelede, op een vroeg uur of over de middag. Je krijgt één vaste persoon in dienst van Zondags en een factuur op naam van je bedrijf."
+  },
+  {
+   "q": "Kan de poetshulp komen voor de praktijk opent?",
+   "a": "Ja, vroeg in de ochtend kan. Je kiest een uur dat voor de eerste afspraak valt, en je Zondag komt elke week op hetzelfde moment."
+  },
+  {
+   "q": "Kan het ook in de middagpauze?",
+   "a": "Ja, over de middag kan ook, als de ruimte even leeg is. Dat spreken we af bij het boeken of in het eerste gesprek."
+  },
+  {
+   "q": "Werkt Zondags 's avonds of in het weekend?",
+   "a": "Nee. Zondags werkt overdag op weekdagen. Het vroege ochtend- en het middaguur zijn de rustige momenten die we kunnen aanbieden."
+  },
+  {
+   "q": "Wat kost poetshulp in Lendelede?",
+   "a": "60 euro per uur exclusief btw, geboekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren kosten hetzelfde per uur."
+  },
+  {
+   "q": "Kan mijn Zondag een sleutel en een alarmcode krijgen?",
+   "a": "Ja, dat regelen we vooraf in het zondagsplan. Zo kan je Zondag binnen, ook als jij zelf nog niet aanwezig bent."
+  }
+ ],
+ "path": "poetshulp/lendelede.html"
 }

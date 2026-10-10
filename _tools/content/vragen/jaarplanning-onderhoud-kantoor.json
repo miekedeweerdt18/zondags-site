@@ -1,83 +1,39 @@
 {
  "path": "vragen/jaarplanning-onderhoud-kantoor.html",
  "title": "Jaarplanning voor het onderhoud van je kantoor",
- "desc": "Hoe maak je een jaarplanning voor het onderhoud van je kantoor? Een kader per seizoen, met wekelijkse routine, grote beurten en wat je zelf blijft doen.",
+ "desc": "Zo maak je een jaarplanning voor het onderhoud van je kantoor: weekroutine, maandelijkse taken en seizoensmomenten, met een eenvoudig voorbeeld.",
  "eyebrow": "Vraag",
  "h1": "Hoe maak je een jaarplanning voor het onderhoud van je kantoor?",
- "lead": "Een jaarplanning houdt het onderhoud van je kantoor voorspelbaar. Je combineert een vaste wekelijkse routine met een paar grotere beurten verspreid over het jaar.",
- "answer": "Een jaarplanning voor het onderhoud van je kantoor bestaat uit drie lagen: een vaste wekelijkse of tweewekelijkse routine, een maandelijkse ronde voor wat minder opvalt en een paar grote beurten per jaar. Zondags (zondags.be) werkt met een zondagsplan voor de routine en met losse opdrachten voor de grote beurten, steeds met dezelfde vaste persoon.",
- "facts": [
-  "Drie lagen: week, maand, jaar",
-  "Zondagsplan voor de routine",
-  "Losse opdracht voor grote beurten",
-  "Per seizoen een accent",
-  "Wat je zelf doet staat erin"
- ],
+ "lead": "Een jaarplanning voorkomt dat grote taken blijven liggen. Je verdeelt het werk in een vaste weekroutine, maandelijkse extra's en een paar seizoensmomenten.",
+ "answer": "Een jaarplanning voor kantoor-onderhoud bestaat uit drie lagen: een vaste weekroutine, taken die maandelijks of per kwartaal terugkomen en een paar seizoensmomenten. Zet ze samen op één overzicht met een verantwoordelijke per taak. Bij Zondags (zondags.be) legt je vaste Zondag de weekroutine vast in het zondagsplan, en boek je voor grotere momenten een extra blok. Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur.",
+ "facts": ["Drie lagen: week, maand, seizoen", "Eén overzicht met verantwoordelijke", "Weekroutine vast in het zondagsplan", "Extra blok voor seizoensmomenten", "60 euro per uur, per blok van 3 uur", "Online boeken per blok"],
  "sections": [
-  {
-   "h2": "Begin met de routine",
-   "p": [
-    "Een planning begint met wat altijd moet gebeuren: bureaus, vloeren, sanitair, keuken en afval. Dat bepaal je op basis van het aantal mensen en bezoekers. Een klein kantoor zonder bezoek komt vaak toe met tweewekelijks, een kantoor met onthaal en een refter heeft wekelijks nodig.",
-    "Deze routine is het ruggengraat van het zondagsplan. Alles wat later volgt, komt erbovenop.",
-    "Schrijf de routine op een blad en hang het op de plaats waar je team het ziet. Dan weet iedereen wat er wanneer gebeurt, en kan je bij een wijziging in een oogopslag zien wat verandert."
-   ]
-  },
-  {
-   "h2": "De maandelijkse ronde",
-   "p": [
-    "<ul class=\"ticks\"><li>Deurklinken, schakelaars en kopieerapparaat grondig afnemen</li><li>Plinten, vensterbanken en kasten stofvrij</li><li>Glazen deuren en ramen langs binnen</li><li>Koelkast en microgolf binnenin</li><li>Trap, gang en lift</li></ul>",
-    "Je kan dit afwisselen met de routine: elke maand eenmaal een iets langere beurt."
-   ]
-  },
-  {
-   "h2": "Een accent per seizoen",
-   "p": [
-    "Een jaar heeft een natuurlijke indeling. In het voorjaar komen ramen langs binnen, kasten en de afwerking van de winter aan bod. In de zomer verdienen de koelkast en de keuken extra aandacht. In het najaar komen bureaustoelen, matten en vloeren aan de beurt. Rond het einde van het jaar volgt de grote eindejaarsronde.",
-    "Voor de voorjaars- en eindejaarsbeurt bestaan aparte pagina's: <a href=\"sectoren/voorjaarspoets-kantoor.html\">voorjaarspoets voor kantoren</a> en <a href=\"sectoren/eindejaarspoets.html\">de eindejaarspoets</a>."
-   ]
-  },
-  {
-   "h2": "Plan rond je eigen drukte",
-   "p": [
-    "Elk bedrijf heeft piekmomenten: de aangifteperiode bij een boekhouder, de zomer bij een reisbureau, het najaar bij een webshop. Plan in die periodes liever een extra beurt dan een grote ronde achteraf. Schuif grote beurten naar rustige weken, zodat je team er geen hinder van heeft.",
-    "Zondags werkt overdag op weekdagen, vroeg in de ochtend of over de middag. Een grote beurt kan je ook als losse opdracht boeken, zonder je vaste plan te verzetten.",
-    "Houd ook rekening met vakantieperiodes en bouwverlof: in zo'n periode volstaat vaak een lichtere beurt, met een grondiger ronde bij de heropstart."
-   ]
-  },
-  {
-   "h2": "Wat je zelf blijft doen",
-   "p": [
-    "Een jaarplanning werkt enkel als je team meespeelt. Vaat in de vaatwasser, koelkast leeg op vrijdag, bureaus opgeruimd voor de beurt: het zijn kleine dingen met groot effect. Zet ze in het zondagsplan, zodat iedereen weet wie wat doet.",
-    "Voor een uitgebreide lijst kan je terecht bij <a href=\"gids/checklist-kantoorschoonmaak.html\">de checklist voor kantoorschoonmaak</a>."
-   ]
-  },
-  {
-   "h2": "Plan, factuur en bijsturen",
-   "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van een kantoor is een beroepskost. Laat je accountant bevestigen hoe dit voor jouw situatie werkt. Het plan is maandelijks opzegbaar, uren bijboeken of aanpassen kan. Vraag aan via het formulier of de chat, de eerste 2 uur zijn gratis."
-   ]
-  }
+  {"h2": "Begin met de weekroutine", "p": [
+   "Alles wat elke week moet gebeuren, krijgt een vast ritme: bureaus en vergadertafel afnemen, vloeren, sanitair, keuken en refter, afval en recyclage. Dit is de basis, en bij een klein kantoor is een of twee bezoeken per week meestal genoeg. Hoe vaak precies, hangt af van het aantal mensen en het klantenbezoek.",
+   "Schrijf die routine eerst uit. Zodra ze op papier staat, zie je wat er nog ontbreekt en kan je de rest van het jaar eromheen plannen."]},
+  {"h2": "Voeg de maandelijkse en kwartaaltaken toe", "p": [
+   "Sommige taken hoef je niet elke week te doen, maar ze mogen ook niet vergeten worden. Denk aan de binnenkant van kasten en frigo, de plinten, de binnenkant van de ramen, de grondige beurt van de wachtruimte en het uitkuisen van de printerhoek.",
+   "<ul class=\"ticks\"><li>Maandelijks: frigo leegmaken en reinigen, deuren en lichtschakelaars, plinten</li><li>Per kwartaal: ramen en glazen deuren langs binnen, grondig stofzuigen onder en achter meubilair</li><li>Twee keer per jaar: tapijt of vloer grondiger aanpakken, rolkasten en archiefruimte opruimen</li></ul>",
+   "Verdeel ze bewust over de maanden. Zet niet alles op dezelfde dag, anders heb je één zwaar bezoek en daarna weken niets."]},
+  {"h2": "Kijk naar de ritmes van je eigen zaak", "p": [
+   "Elke zaak heeft drukke en rustige perioden. Een boekhoudkantoor kent zijn piek rond de aangiftes, een winkel rond de feestperiodes, een praktijk rond de grieppieken. Plan de zwaardere taken in de rustige weken en voorzie extra uren wanneer het team langer blijft en de keuken en het sanitair meer te verduren krijgen.",
+   "Voorbeeld: neem een kantoor met acht medewerkers. Het voorjaar krijgt een grondige raambeurt, de zomer een ruim moment voor de archiefruimte, het najaar een intensieve beurt voor de vloeren voor de donkere maanden en het eind van het jaar extra uren voor de keuken en de vergaderzaal."]},
+  {"h2": "Wijs per taak een verantwoordelijke aan", "p": [
+   "Een planning zonder eigenaar blijft een mooi document. Noteer bij elke taak wie ze uitvoert, wie controleert en wanneer. Sommige taken horen bij het team zelf, zoals het eigen bureau opruimen of de koffiemachine ontkalken. Andere geef je aan je vaste poetshulp.",
+   "Zo voorkom je dat twee mensen hetzelfde doen en niemand het ander. Het helpt ook bij een vervanging: wie invalt, ziet meteen wat er verwacht wordt."]},
+  {"h2": "Hoe Zondags dit invult", "p": [
+   "Je Zondag komt op een vaste dag en een vast uur en werkt volgens het zondagsplan. In dat plan zet je de weekroutine en de terugkerende extra's. Voor een seizoensmoment boek je een extra blok op de <a href=\"boeken.html\">boekpagina</a>, op een weekdag en minstens twee werkdagen vooraf.",
+   "Een blok van 3 uur kost 180 euro exclusief btw, extra uren boek je aan dezelfde 60 euro per uur. Wil je ook iets wat administratief of praktisch is, zoals het archief ordenen of kantoormateriaal bijhouden, dan kan dat in dezelfde planning. Meer over de frequentie lees je op <a href=\"vragen/hoe-vaak-kantoor-poetsen.html\">hoe vaak je een kantoor best poetst</a>."]},
+  {"h2": "Plan een jaarlijkse herziening", "p": [
+   "Een planning is geen eenmalig document. Bekijk ze één keer per jaar, bij voorkeur voor de zomer of aan het begin van het nieuwe jaar. Is het team gegroeid, is er een lokaal bijgekomen, zijn de openingsuren veranderd? Pas het plan aan en geef het door aan je Zondag.",
+   "Laat je boekhouder gerust kijken hoe de kosten worden geboekt. Poetshulp voor de zaak is in principe een beroepskost, maar laat je accountant bevestigen hoe dat voor jouw situatie werkt."]}
  ],
  "faq": [
-  {
-   "q": "Hoe maak je een jaarplanning voor het onderhoud van je kantoor?",
-   "a": "Begin met een vaste routine per week of twee weken, voeg een maandelijkse ronde toe en plan daarna enkele grote beurten per jaar. Pas het aan je eigen drukte aan."
-  },
-  {
-   "q": "Hoe vaak moet een kantoor een grote beurt krijgen?",
-   "a": "Een paar keer per jaar is gebruikelijk, bijvoorbeeld in het voorjaar en rond het einde van het jaar. Dat hangt af van het aantal mensen en bezoekers."
-  },
-  {
-   "q": "Kan een grote beurt buiten het wekelijkse plan?",
-   "a": "Ja. Bij Zondags kan je een losse opdracht boeken, zonder dat het vaste plan verschuift."
-  },
-  {
-   "q": "Wanneer plan je best een extra beurt?",
-   "a": "Voor of na een drukke periode, een verhuis, een verbouwing of een event. Plan het in een rustige week, zodat je team er weinig van merkt."
-  },
-  {
-   "q": "Wie doet de grote beurt?",
-   "a": "Dezelfde vaste Zondag die ook de wekelijkse routine doet. Zo ken je het kantoor al, en hoef je niets opnieuw uit te leggen."
-  }
+  {"q": "Hoe maak ik een jaarplanning voor kantoor-onderhoud?", "a": "Begin met de weekroutine, voeg maandelijkse en kwartaaltaken toe en plan seizoensmomenten in je rustige weken. Zet alles op één overzicht, met een verantwoordelijke per taak."},
+  {"q": "Welke taken doe je niet elke week?", "a": "De binnenkant van kasten en frigo, plinten, ramen langs binnen, de archiefruimte en een grondige beurt van tapijt of vloer. Die plan je per maand, per kwartaal of per halfjaar."},
+  {"q": "Kan Zondags mijn jaarplanning mee uitvoeren?", "a": "Ja. Je Zondag werkt volgens een zondagsplan met taken, dagen en uren. Voor seizoensmomenten boek je een extra blok van 3 uur aan 60 euro per uur exclusief btw."},
+  {"q": "Hoe vaak herzie ik de planning?", "a": "Eén keer per jaar volstaat meestal, plus op elk moment dat er iets verandert in je zaak, zoals een groter team, een nieuw lokaal of andere openingsuren."},
+  {"q": "Kan ik ook buiten de vaste dag een extra beurt boeken?", "a": "Ja, op weekdagen, minstens twee werkdagen vooraf. Je kiest datum en moment online of belt voor een terugkerend plan. Het tarief blijft hetzelfde."},
+  {"q": "Wat met taken die mijn team zelf doet?", "a": "Noteer ze in de planning als aparte categorie, met een naam erbij. Zo weet iedereen wat bij het team blijft en wat je Zondag overneemt."}
  ]
 }

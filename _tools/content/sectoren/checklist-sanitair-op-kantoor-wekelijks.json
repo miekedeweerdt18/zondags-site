@@ -1,82 +1,89 @@
 {
+ "path": "sectoren/checklist-sanitair-op-kantoor-wekelijks.html",
  "title": "Checklist voor het sanitair op kantoor",
- "desc": "Een bruikbare checklist voor het sanitair op kantoor: wat dagelijks, wekelijks en maandelijks aan de beurt komt, en wat je team zelf kan doen.",
- "eyebrow": "Checklist",
+ "desc": "Toiletten, lavabo's, spiegels, aanvullen, vloeren en afval: een wekelijkse checklist voor het sanitair op kantoor en wat daarvan je team zelf kan doen.",
+ "eyebrow": "Checklist · Sanitair",
  "h1": "Checklist voor het sanitair op kantoor",
- "lead": "Het sanitair is de ruimte waar bezoekers en medewerkers het snelst oordelen. Met deze checklist weet je wat wanneer aan de beurt komt en wie het doet.",
- "answer": "Een goed onderhouden kantoorsanitair vraagt een vast ritme: dagelijks aanvullen en controleren door het team, wekelijks een grondige beurt van toiletten, lavabo's, spiegels, vloeren en afval. Zondags (zondags.be) laat die wekelijkse beurt door één vaste persoon doen, overdag op weekdagen, met één dienstenfactuur op naam van je vennootschap.",
+ "lead": "Sanitair is de plek waar kantoorbezoekers het scherpst opletten en waar niemand graag over praat. Deze lijst maakt van het onderhoud een vaste routine.",
+ "answer": "Een goede sanitaire routine op kantoor omvat toiletten reinigen, lavabo's en kranen poetsen, spiegels vingervrij maken, zeep, papier en handdoekjes aanvullen, vloeren dweilen en het afval legen. Zondags (zondags.be) laat dit doen door één vaste persoon, je Zondag, op een vaste weekdag en een vast uur. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw, en krijgt een factuur op naam van je bedrijf.",
  "facts": [
-  "Dagelijks: aanvullen en controleren",
-  "Wekelijks: grondige beurt",
-  "Maandelijks: details en afvoer",
-  "Wat het team zelf blijft doen",
-  "Overdag op weekdagen",
-  "Eerste 2 uur gratis"
+  "Toiletten, lavabo's en spiegels",
+  "Zeep en papier aanvullen",
+  "Vloeren en afval",
+  "Elke beurt dezelfde volgorde",
+  "60 euro per uur, per blok van 3 uur",
+  "Steeds dezelfde Zondag"
  ],
  "sections": [
   {
-   "h2": "Waarom het sanitair een eigen checklist verdient",
+   "h2": "Eerst de volgorde, dan de lijst",
    "p": [
-    "In een kantoor gebruikt iedereen hetzelfde sanitair: het team, bezoekers, leveranciers, de koerier. Het is ook de ruimte die het snelst tegenvalt. Een lege zeepdispenser of een overvolle vuilnisbak valt meteen op, ook al zijn de bureaus tiptop.",
-    "Een checklist maakt het onderhoud voorspelbaar. Je weet wat dagelijks moet, wat wekelijks volstaat en wat af en toe aan de beurt komt. Zo blijft het sanitair er verzorgd bijliggen zonder dat iemand uit je team de vaste poetstaak erbij krijgt."
+    "Werk altijd van schoon naar vuil. Begin met spiegels en lavabo's, ga daarna naar het toilet zelf en sluit af met de vloer. Zo breng je geen vuil mee van de pot naar de kraan. Gebruik per zone aparte doeken en wissel ze, ook binnen één kantoor."
    ]
   },
   {
-   "h2": "Dagelijks: kleine gewoontes van het team",
+   "h2": "Toiletten",
    "p": [
-    "<ul class=\"ticks\"><li>Toiletpapier, zeep en handdoekjes aanvullen als ze bijna op zijn</li><li>Zichtbaar vuil meteen wegnemen met een doekje</li><li>Een volle vuilnisbak legen of melden</li><li>Een lekkende kraan of een toilet dat niet doorspoelt doorgeven aan de beheerder</li></ul>",
-    "Dit zijn geen poetstaken maar gewoontes. Door ze af te spreken, blijft het sanitair tussen twee beurten presentabel. Technische herstellingen zoals een lekkende kraan of een defect toilet doet Zondags niet. Dat meld je aan je loodgieter of verhuurder."
+    "<ul class=\"ticks\"><li>Binnenkant en rand van de pot, onderkant van de bril en de spoelknop</li><li>Buitenkant van de pot en de muur erachter</li><li>Toiletborstel en houder proper, deur en klink afgenomen</li><li>Kleine vuilbak geleegd</li></ul>"
    ]
   },
   {
-   "h2": "Wekelijks: de grondige beurt",
+   "h2": "Lavabo's en spiegels",
    "p": [
-    "<ul class=\"ticks\"><li>Toiletten: pot, zitting, bril, buitenkant en spoelknop</li><li>Lavabo's en kranen</li><li>Spiegels</li><li>Vloeren stofzuigen of vegen en dweilen</li><li>Afvalbakken legen en reinigen</li><li>Dispensers aanvullen</li><li>Deurklinken en lichtschakelaars afnemen</li></ul>",
-    "Dit is de beurt die je Zondag elke week of om de twee weken doet. Hoe vaak je een beurt nodig hebt, hangt af van het aantal mensen en bezoekers in je kantoor. Dat bespreek je in het intakegesprek."
+    "<ul class=\"ticks\"><li>Lavabo, kraan en afvoer gereinigd, kalk en vlekken weg</li><li>Spiegel vingervrij en zonder strepen</li><li>Zeepdispenser aangevuld en aan de buitenkant afgenomen</li><li>Handdoekjes of droger oppervlakkig gereinigd</li></ul>"
    ]
   },
   {
-   "h2": "Maandelijks en af en toe",
+   "h2": "Aanvullen, vloer en afval",
    "p": [
-    "<ul class=\"ticks\"><li>Voegen en hoeken tussen de tegels</li><li>Ventilatieroosters en plinten afnemen</li><li>Achter en onder het toilet, achter de vuilnisbak</li><li>Wandtegels en deuren van de toiletcabines</li><li>Het sanitair samen bekijken en aanpassen waar nodig</li></ul>",
-    "Het gaat om de plekken die niet in een gewone beurt aan bod komen. Zo blijft het sanitair er na maanden nog verzorgd uitzien. Wil je dat je Zondag er op een vast moment in de maand aandacht aan besteedt, dan noteren jullie dat in het zondagsplan."
+    "Toiletpapier en handdoekjes blijven de meest voorkomende klacht van bezoekers. Houd daarom een kleine voorraad onder handbereik en laat je Zondag zeggen wanneer er bijbesteld moet worden. Dat valt onder rechterhandwerk. De vloer gaat als laatste aan bod, met aandacht voor de hoek achter het toilet en de rand onder de lavabo. Afvalzakken vervang je bij elke beurt, ook als ze niet vol zijn."
    ]
   },
   {
-   "h2": "Wat jij zelf blijft doen, en wat Zondags doet",
+   "h2": "Geur, verluchting en vaste ergernissen",
    "p": [
-    "Het team vult aan en meldt, de Zondag poetst. Wie dat vooraf afspreekt, voorkomt dat het sanitair tussendoor vervalt tot een probleem. Technische herstellingen, werken op hoogte en industriële reiniging blijven buiten het aanbod van Zondags.",
-    "Het onderhoud van beroepsruimtes is een beroepskost. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap, want een vennootschap kan geen dienstencheques kopen. Laat je accountant bevestigen hoe dat voor jouw situatie werkt. Meer algemene checklists vind je op <a href=\"gids/checklist-kantoorschoonmaak.html\">checklist kantoorschoonmaak</a> en op <a href=\"sectoren/sanitair-op-kantoor.html\">sanitair op kantoor</a>."
+    "Een frisse geur komt van een proper toilet en van verluchting, niet van een luchtverfrisser die alles bedekt. Zet een raam op kantelstand als dat kan, of laat de ventilatie voldoende lang draaien. Merk je dat het in één toilet altijd anders ruikt, dan zit het probleem vaak bij de afvoer of bij een voegje dat vuil vasthoudt. Noteer zulke vaste ergernissen in het zondagsplan, zodat je Zondag er elke week extra aandacht aan geeft."
    ]
   },
   {
-   "h2": "Zo laat je het sanitair door Zondags onderhouden",
+   "h2": "Hoe vaak: wekelijks of vaker",
    "p": [
-    "Je doet een aanvraag via het formulier of de chat. Binnen één werkdag belt iemand je terug. Bij de intake lopen we samen langs het sanitair en leggen we de checklist vast in je zondagsplan. De eerste 2 uur zijn gratis en het plan is maandelijks opzegbaar."
+    "Voor een klein team is één beurt per week een goed vertrekpunt. Is het sanitair ook voor bezoekers, of werken er veel mensen, dan kan een tweede, kortere beurt zinvol zijn. Over de frequentie lees je meer op de pagina <a href=\"vragen/hoe-vaak-sanitair-kantoor-poetsen.html\">hoe vaak het sanitair van een kantoor poetsen</a>."
+   ]
+  },
+  {
+   "h2": "Wat je team zelf doet",
+   "p": [
+    "Je collega's blijven verantwoordelijk voor de kleine dingen: de bril laten dalen na gebruik, een vlek meteen wegvegen, een lege rol vervangen als ze het zien. Dat houdt de routine kort. De wekelijkse beurt is bedoeld voor wat een team niet zelf wil of kan doen."
+   ]
+  },
+  {
+   "h2": "Prijs en boeken",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw en boekt per blok van 3 uur, dus 180 euro exclusief btw. Het sanitair is meestal een deel van de wekelijkse kantoorbeurt. Kies datum en taken op de <a href=\"boeken.html\">boekpagina</a>. De factuur staat op naam van je bedrijf. Of je de btw kan recupereren, hangt van je situatie af, dus laat het je accountant bevestigen."
    ]
   }
  ],
  "faq": [
   {
    "q": "Hoe vaak moet het sanitair op kantoor gepoetst worden?",
-   "a": "Dagelijks vullen en controleren door het team, wekelijks of tweewekelijks een grondige beurt door een vaste persoon. Hoe vaak het precies moet, hangt af van het aantal mensen en bezoekers."
+   "a": "Minstens wekelijks. Bij veel gebruik of bezoek is een tweede, kortere beurt zinvol, vooral voor toiletten en lavabo's."
   },
   {
-   "q": "Wat hoort in een wekelijkse sanitairbeurt?",
-   "a": "Toiletten, lavabo's, kranen, spiegels, vloeren, afvalbakken en dispensers. Daarnaast deurklinken en lichtschakelaars. De lijst staat in je zondagsplan."
+   "q": "Wat hoort bij het onderhoud van het sanitair?",
+   "a": "Toiletten, lavabo's, kranen, spiegels, zeep- en papierdispensers, vloer, deurklinken en afval. Technische herstellingen aan leidingen horen er niet bij."
   },
   {
-   "q": "Wie vult de zeep en het toiletpapier aan?",
-   "a": "Dat kan het team zelf doen, of je Zondag tijdens de beurt. Spreek vooraf af wie wat doet, en wie bijbestelt als iets op raakt."
+   "q": "Vult de poetshulp zeep en toiletpapier aan?",
+   "a": "Ja, als je dat afspreekt. Zij geeft ook door wanneer de voorraad opraakt, zodat jij kan bijbestellen of haar laat bestellen."
   },
   {
-   "q": "Repareert Zondags ook een lekkende kraan?",
-   "a": "Nee. Technische herstellingen zoals elektriciteit en sanitair herstellen horen niet bij het aanbod. Je meldt dat aan je loodgieter of verhuurder."
+   "q": "Kan het sanitair gepoetst worden tijdens de kantooruren?",
+   "a": "Dat kan, bijvoorbeeld vroeg in de ochtend of over de middag. Zondags werkt overdag op weekdagen en nooit 's avonds of in het weekend."
   },
   {
-   "q": "Kan ik de sanitairbeurt combineren met de rest van het kantoor?",
-   "a": "Ja. Sanitair, bureaus, keuken en vloeren kunnen in één beurt, met dezelfde vaste persoon en één factuur op naam van je vennootschap."
+   "q": "Wat kost het onderhoud van het sanitair?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok, met extra uren aan hetzelfde tarief."
   }
- ],
- "path": "sectoren/checklist-sanitair-op-kantoor-wekelijks.html"
+ ]
 }

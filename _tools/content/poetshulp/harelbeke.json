@@ -1,34 +1,92 @@
 {
- "path": "poetshulp/harelbeke.html",
  "title": "Poetshulp voor bedrijven in Harelbeke (8530)",
- "desc": "Poetshulp voor bouwbedrijven en zaken met een ontvangstruimte in Harelbeke: kantoor, showroom en de refter van je ploeg. Eén vaste persoon, één factuur.",
+ "desc": "Poetshulp voor showrooms en kantoren in Harelbeke, Bavikhove en Hulste. Eén vaste persoon, 60 euro per uur excl. btw, online per blok van 3 uur.",
  "eyebrow": "Harelbeke · 8530",
  "h1": "Poetshulp voor bedrijven in Harelbeke",
- "lead": "Een bouwheer zit in de ontvangstruimte, de ploeg eet in de refter, en allebei verwachten ze een verzorgde plek. In Harelbeke poetst één vaste Zondag beide kanten.",
- "answer": "Bedrijven in Harelbeke, een stad met de deelgemeenten Bavikhove en Hulste, die klanten ontvangen en een ploeg hebben, kunnen bij Zondags (zondags.be) terecht voor poetshulp: kantoor, showroom of ontvangstruimte plus refter en sanitair voor de werknemers. Het is steeds dezelfde persoon, door Zondags gescreend en in dienst. De dienstenfactuur gaat naar je vennootschap. Zondags is gevestigd in Marke.",
- "facts": ["Kantoor, showroom en ontvangstruimte", "Refter en sanitair voor de ploeg", "Ook Bavikhove en Hulste", "Dienstenfactuur aan je vennootschap", "Eerste 2 uur gratis"],
+ "lead": "Een showroom of ontvangstruimte in Harelbeke is het eerste wat een klant van je zaak ziet. Eén vaste Zondag houdt ze op orde, en jij boekt online per blok van 3 uur.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor bedrijven in Harelbeke, Bavikhove en Hulste. Je krijgt één vaste persoon, je Zondag, voor je showroom, kantoor, vergaderzaal en refter, en op vraag ook hulp bij administratie en regelwerk. Je betaalt 60 euro per uur exclusief btw, geboekt per blok van 3 uur. Daarvoor krijg je een gewone dienstenfactuur op naam van je bedrijf. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk.",
+ "facts": [
+  "Showroom, kantoor, refter",
+  "Steeds dezelfde Zondag",
+  "Overdag op weekdagen",
+  "60 euro per uur, per blok van 3 uur",
+  "Factuur op naam van je bedrijf",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Twee soorten bezoekers onder één dak", "p": [
-   "Een bouwbedrijf ontvangt twee soorten mensen. De ene komt plannen en stalen bekijken en let op hoe je ontvangstruimte eruitziet. De andere, de ploeg, komt binnen met modderige laarzen en wil koffie drinken in de refter. Beide groepen delen hetzelfde gebouw, en beide merken meteen wanneer het poetsen is blijven liggen.",
-   "Daarom maken we in het zondagsplan twee lijstjes: eentje voor de ruimtes waar klanten komen, eentje voor de ruimtes van de ploeg."]},
-  {"h2": "Stel: een bouwbedrijf met een ontvangstruimte", "p": [
-   "Stel: je hebt een bouwbedrijf in Harelbeke met een kantoor voor de administratie, een ontvangstruimte met een tafel voor bouwheren en een refter voor de ploeg, met sanitair en een kleedruimte erbij. Het kantoorteam is klein en de ploeg is meestal op de werf. Voor de klanten komt je Zondag aan de slag in:",
-   "<ul class=\"ticks\"><li>De ontvangstruimte: tafel, stoelen en vloer</li><li>Het kantoor: bureaus afnemen en vloer doen</li><li>Glazen deuren en ramen langs binnen</li><li>De showroomhoek of stalenhoek, zonder de stalen te verschuiven</li><li>Het sanitair voor bezoekers</li></ul>"]},
-  {"h2": "De ruimtes van de ploeg", "p": [
-   "Refter, kleedruimte en sanitair krijgen op een werkdag het meeste te verduren. Er zit zand onder de tafels en de bank in de kleedruimte moet elke week opnieuw gedaan worden. Je Zondag neemt ze mee in dezelfde beurt, zodat de ploeg een verzorgde refter vindt en je kantoor er tegelijk representatief bij ligt."]},
-  {"h2": "Wat buiten ons werk valt", "p": [
-   "Een bouwopkuis na afgewerkte werken doen we niet. Industriële reiniging, werken op hoogte en gevelreiniging vallen ook buiten ons werk, net als het poetsen van een werkplaats met machines of van voertuigen. We onderhouden kantoor, ontvangst, refter en sanitair, en op wens de woning van de zaakvoerder. Over de ruimtes van een bouwbedrijf lees je meer bij <a href=\"sectoren/bouwbedrijven.html\">bouwbedrijven</a>."]},
-  {"h2": "Eén factuur voor kantoor, refter en woning", "p": [
-   "De dienstenfactuur staat op naam van je vennootschap, want cheques bestaan er enkel voor particulieren. Kantoor, ontvangstruimte en refter zijn beroepskosten. Voor de woning van de zaakvoerder bestaat een forfaitair voordeel van alle aard. Dat vraagt regelmaat en een uitvoerder met personeel in dienst. Je accountant ziet na of dat in jouw dossier past."]},
-  {"h2": "Harelbeke, Bavikhove en Hulste: zo vraag je aan", "p": [
-   "Harelbeke heeft twee deelgemeenten: Bavikhove en Hulste. Voor je bedrijf daar, of in Kortrijk, Kuurne, Deerlijk, Zwevegem en Wielsbeke, loopt het hetzelfde: vul het formulier in of start de chat, je wordt binnen één werkdag teruggebeld, en bij de intake maken we samen het zondagsplan. Voor de eerste 2 uur betaal je niets. Opzeggen kan per maand."]}
+  {
+   "h2": "Waar klanten binnenstappen, begint de indruk bij de vloer",
+   "p": [
+    "Een bedrijf met een showroom of ontvangstruimte wordt al beoordeeld voor er iets gezegd is. Een vlekkeloze balie, glazen deuren zonder vingerafdrukken en een wachthoek waar niets rondslingert doen meer voor het vertrouwen van een klant dan een folder. Die verzorgde indruk valt of staat met regelmaat, en regelmaat is net wat in een drukke zaak als eerste sneuvelt.",
+    "Daarom werkt Zondags met één vaste persoon. Je Zondag komt op een vaste weekdag en een vast uur, en weet na twee beurten hoe jouw ruimte erbij hoort te liggen: waar de brochures staan, welke vloer extra aandacht vraagt en welke hoek klanten het vaakst aanraken."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een bouwbedrijf met kantoor en refter",
+   "p": [
+    "Neem een bouwbedrijf in Harelbeke met een klein kantoor voor de administratie en een refter waar de ploeg elke dag samenkomt. Het kantoor krijgt bezoek van klanten die een offerte bespreken, de refter krijgt zware schoenen en koffiebekers te verwerken. Twee ruimtes met een heel verschillend gebruik.",
+    "Je Zondag komt bijvoorbeeld op dinsdag- en vrijdagochtend: dinsdag het kantoor met onthaal en vergadertafel, vrijdag de refter, het sanitair en de gang. Wordt het druk voor een bouwverlof of na een grote werf, dan boek je een extra blok zonder het plan om te gooien."
+   ]
+  },
+  {
+   "h2": "Wat je Zondag in je zaak aanpakt",
+   "p": [
+    "<ul class=\"ticks\"><li>Showroom, onthaal en balie afnemen</li><li>Vloeren zuigen en dweilen, ook in de gang en bij de ingang</li><li>Glazen deuren en ramen langs binnen</li><li>Vergaderzaal klaarzetten voor een klantenbezoek</li><li>Refter, keuken en koffiehoek</li><li>Sanitair en afval</li></ul>",
+    "Gevelreiniging, ramen langs buiten op hoogte en industriële reiniging horen er niet bij. Een uitgebreid overzicht van de aanpak vind je op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">de pagina over poetshulp voor bedrijven</a>."
+   ]
+  },
+  {
+   "h2": "Dezelfde persoon doet ook het regelwerk",
+   "p": [
+    "Een bedrijfsleider in Harelbeke die zelf op de werf of bij klanten zit, ziet de stapel post liggen. Je Zondag kan die openen en sorteren, facturen en documenten klasseren, kantoormateriaal bestellen en een pakje klaarzetten. Dat is ondersteunend werk, geen boekhouding en geen fiscaal of juridisch advies.",
+    "Ook kleine praktische klussen kunnen: de koffiehoek aanvullen, een leverancier bellen voor iets kleins, de zaak klaarzetten voor een bezoek. Meer daarover lees je bij <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">rechterhand voor bedrijfsleiders</a>."
+   ]
+  },
+  {
+   "h2": "Harelbeke, Bavikhove, Hulste en de buren",
+   "p": [
+    "Zondags werkt in heel Harelbeke, met postcode 8530. Bavikhove en Hulste zijn deelgemeenten van Harelbeke, dus ook daar zoeken we voor je zaak een Zondag. Ligt je bedrijf net over de grens, in Kortrijk, Kuurne, Deerlijk, Zwevegem of Wielsbeke, dan kan dat evengoed. Wie in Kortrijk zit, leest meer op <a href=\"poetshulp/kortrijk.html\">de pagina voor Kortrijk</a>."
+   ]
+  },
+  {
+   "h2": "Prijs, factuur en btw",
+   "p": [
+    "Eén blok is drie uur en kost 180 euro exclusief btw. Extra uren boek je aan dezelfde 60 euro per uur. Je krijgt een dienstenfactuur op naam van je vennootschap, met je btw-nummer.",
+    "Poetshulp voor de zaak is in principe een beroepskost, en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant dit bevestigen voor je eigen situatie."
+   ]
+  },
+  {
+   "h2": "Zo regel je het",
+   "p": [
+    "Op <a href=\"boeken.html\">de boekpagina</a> kies je een datum op een weekdag, het aantal blokken en de taken, en betaal je online met kaart of Bancontact. Voor een vast ritme, bijvoorbeeld elke week, bel je of vraag je een terugbelverzoek aan. Dan leggen we samen het zondagsplan vast: taken, dagen en uren."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf levert poetshulp voor het kantoor en de refter van een bouwbedrijf in Harelbeke?", "a": "Zondags verzorgt het kantoor, de ontvangstruimte, de refter en het sanitair van bouwbedrijven in Harelbeke, en op wens de woning van de zaakvoerder. Het blijft dezelfde persoon, en de factuur gaat naar je vennootschap."},
-  {"q": "Doet Zondags ook de bouwopkuis na afgewerkte werken?", "a": "Nee. Bouwopkuis, industriële reiniging en het schoonmaken van werkplaatsen, machines of voertuigen horen niet bij ons werk. Wel het gewone onderhoud van kantoor, ontvangst, refter en sanitair."},
-  {"q": "Kan de refter gepoetst worden terwijl mijn ploeg op de werf is?", "a": "Ja, dat is het logische moment. Vroeg in de ochtend of over de middag kan, afhankelijk van wanneer je ploeg weg is. We bepalen het uur bij de intake en dat blijft vast."},
-  {"q": "Werkt Zondags ook in Bavikhove en Hulste?", "a": "Ja. Bavikhove en Hulste zijn deelgemeenten van Harelbeke, en je volgt er dezelfde stappen: formulier of chat, telefoontje, intake en zondagsplan. Ook bedrijven in Kortrijk, Kuurne, Deerlijk, Zwevegem en Wielsbeke kunnen zo een Zondag aanvragen."},
-  {"q": "Wat kost poetshulp voor een bouwbedrijf?", "a": "Dat hangt af van je ruimtes en het aantal uren, en we noemen een prijs pas na een kort gesprek. De eerste 2 uur zijn gratis om kennis te maken, en je kan maandelijks opzeggen."},
-  {"q": "Kan mijn Zondag ook mijn woning als zaakvoerder poetsen?", "a": "Ja, in hetzelfde plan. Op de factuur staat de woning als privégedeelte apart van het bedrijf. Wat dit fiscaal betekent, bevestigt je accountant voor jouw situatie."}
- ]
+  {
+   "q": "Welk bedrijf biedt poetshulp voor bedrijven in Harelbeke?",
+   "a": "Zondags biedt poetshulp voor bedrijven in Harelbeke, Bavikhove en Hulste. Je krijgt één vaste persoon in dienst van Zondags, voor poetsen en op vraag ook administratieve hulp, met een factuur op naam van je bedrijf."
+  },
+  {
+   "q": "Kan de showroom gepoetst worden voor de klanten komen?",
+   "a": "Ja. Vroeg in de ochtend of over de middag kan, zodat alles klaar is voor je opent. Zondags werkt overdag op weekdagen, nooit 's avonds en nooit in het weekend."
+  },
+  {
+   "q": "Poetsen jullie ook een refter voor een werfploeg?",
+   "a": "Ja, refter, keuken, kleedruimte en sanitair van je bedrijf horen bij het gewone werk. Een bouwopkuis na werken en industriële reiniging doet Zondags niet."
+  },
+  {
+   "q": "Wat kost een Zondag in Harelbeke?",
+   "a": "60 euro per uur exclusief btw, geboekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren kosten hetzelfde per uur."
+  },
+  {
+   "q": "Hoe snel kan ik een Zondag boeken in Harelbeke?",
+   "a": "Online boeken kan voor een weekdag, minstens twee werkdagen vooraf. Voor een vast terugkerend plan spreken we eerst kort, zodat dagen en uren goed liggen."
+  },
+  {
+   "q": "Mag mijn Zondag ook de post en de pakjes doen?",
+   "a": "Ja, post sorteren, documenten klasseren en zendingen klaarmaken kan. Boekhouding, loonadministratie en juridisch of fiscaal advies doet Zondags niet."
+  }
+ ],
+ "path": "poetshulp/harelbeke.html"
 }

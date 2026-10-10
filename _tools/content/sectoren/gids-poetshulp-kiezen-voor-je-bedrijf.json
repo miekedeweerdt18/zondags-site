@@ -1,87 +1,34 @@
 {
+ "path": "sectoren/gids-poetshulp-kiezen-voor-je-bedrijf.html",
  "title": "Gids: zo kies je poetshulp voor je bedrijf",
- "desc": "Zes criteria om poetshulp voor je bedrijf te vergelijken: vaste persoon, in dienst, factuur, flexibiliteit, planning en communicatie.",
- "eyebrow": "Gids",
+ "desc": "Zes criteria om poetshulp voor je bedrijf te vergelijken: vaste persoon, in dienst, factuur, flexibiliteit, planning en communicatie. Met vragen om te stellen.",
+ "eyebrow": "Gids · Poetshulp kiezen",
  "h1": "Gids: zo kies je poetshulp voor je bedrijf",
- "lead": "Poetshulp kiezen is meer dan een offerte vergelijken. Deze gids loopt de zes criteria af die in de praktijk het verschil maken, met de vragen die je elke aanbieder kan stellen.",
- "answer": "Poetshulp voor je bedrijf kies je op zes criteria: werk je met een vaste persoon, is die persoon in dienst, hoe ziet de factuur eruit, hoe flexibel is het plan, hoe verloopt de planning en hoe communiceer je. Zondags (zondags.be) werkt met een vaste Zondag in dienst van Zondags, een dienstenfactuur op naam van je vennootschap, een maandelijks opzegbaar plan en één aanspreekpunt. Zo kan je elke aanbieder naast dezelfde meetlat leggen.",
- "facts": [
-  "Zes criteria om te vergelijken",
-  "Vaste persoon of wisselende ploeg",
-  "In dienst of zelfstandig",
-  "Factuur op je vennootschap",
-  "Flexibiliteit en opzegbaarheid"
- ],
+ "lead": "Poetshulp kiezen voor je kantoor of praktijk is vooral een kwestie van de juiste vragen. Deze gids geeft zes criteria en wat je er per criterium aan kan toetsen.",
+ "answer": "Vergelijk poetshulp voor je bedrijf op zes punten: werk je met één vaste persoon, is die in dienst of zelfstandig, krijg je een correcte factuur, hoe flexibel is de planning, hoe duidelijk is de communicatie en wat staat in het plan. Zondags (zondags.be) levert één vaste persoon in dienst, een factuur op naam van je bedrijf, en een prijs van 60 euro per uur exclusief btw per blok van 3 uur.",
+ "facts": ["Zes criteria om te vergelijken", "Vaste persoon of wisselende ploeg", "In dienst of zelfstandig", "Factuur op naam van je bedrijf", "60 euro per uur, per blok van 3 uur", "Online boeken en betalen"],
  "sections": [
-  {
-   "h2": "Eerste criterium: een vaste persoon of een wisselende ploeg",
-   "p": [
-    "De belangrijkste vraag is wie er komt. Een wisselende ploeg betekent telkens opnieuw uitleggen waar het materiaal staat en welke hoek aandacht vraagt. Een vaste persoon leert je ruimtes kennen en neemt dat mee van week tot week.",
-    "Vraag elke aanbieder: komt er steeds dezelfde persoon, op dezelfde dag en hetzelfde uur? Bij Zondags is het antwoord ja. Dat is ook de reden waarom je Zondag \"je Zondag\" heet."
-   ]
-  },
-  {
-   "h2": "Tweede criterium: in dienst of zelfstandig",
-   "p": [
-    "Werkt de persoon die bij je komt in loondienst van de aanbieder, of is het een zelfstandige? Dat bepaalt wie verantwoordelijk is voor de administratie, de screening en de continuïteit. Zondags werkt met gescreende mensen in dienst van Zondags: studenten vanaf 18 jaar, flexi-jobbers en mensen met een vast contract.",
-    "Een zelfstandige poetshulp kan prima zijn, maar vraag dan wie inspringt bij ziekte, en hoe de facturatie verloopt. Meer verschillen vind je op <a href=\"gids/zelfstandige-poetshulp-of-firma.html\">zelfstandige poetshulp of firma</a>."
-   ]
-  },
-  {
-   "h2": "Derde criterium: de factuur",
-   "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Je hebt dus een gewone dienstenfactuur nodig, op naam van je zaak. Vraag of beroepsmatig en privé apart op de factuur staan als je woning meegaat, en of de factuur duidelijk genoeg is voor je accountant.",
-    "Het onderhoud van beroepsruimtes is een beroepskost. Voor het privégedeelte geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst. Laat je accountant bevestigen hoe dat voor jouw situatie werkt."
-   ]
-  },
-  {
-   "h2": "Vierde criterium: flexibiliteit",
-   "p": [
-    "Een zaak verandert. Vraag daarom of je uren kan bijboeken, een plan kan aanpassen, losse opdrachten kan plannen en hoe je opzegt.",
-    "<ul class=\"ticks\"><li>Kan ik extra uren bijboeken in een drukke periode?</li><li>Kan ik het plan aanpassen zonder nieuw contract?</li><li>Zijn losse opdrachten mogelijk, zoals een grote poetsbeurt?</li><li>Hoe en wanneer kan ik opzeggen?</li></ul>",
-    "Bij Zondags is het plan maandelijks opzegbaar en kunnen uren bijgeboekt of aangepast worden."
-   ]
-  },
-  {
-   "h2": "Vijfde criterium: planning en timing",
-   "p": [
-    "Wanneer komt de poetshulp: voor de opening, over de middag, na sluitingstijd? Zondags werkt overdag op weekdagen, vroeg in de ochtend of over de middag, nooit 's avonds en nooit in het weekend. Als je een aanbieder nodig hebt voor avond- of weekendwerk, moet je elders zoeken.",
-    "Vraag ook wat er gebeurt bij ziekte of verlof van de vaste persoon. Bij Zondags zoeken we dan een oplossing, zonder dat we een vaste vervanger beloven."
-   ]
-  },
-  {
-   "h2": "Zesde criterium: communicatie en kennismaking",
-   "p": [
-    "Wie is je aanspreekpunt, en hoe snel krijg je antwoord? Hoe verloopt de kennismaking? Bij Zondags loopt het zo: aanvraag via het formulier of de chat, binnen één werkdag een terugbelverzoek, een intake ter plaatse en samen het zondagsplan. De eerste 2 uur zijn gratis.",
-    "Telefoon en WhatsApp bereik je op 0470 56 53 58, elke dag van 6 tot 22 uur. Klikt het niet met je Zondag, dan zoeken we samen een andere. Zo gebruik je deze zes criteria als checklist voor elke aanbieder, ook voor ons."
-   ]
-  }
+  {"h2": "Begin met je eigen behoefte", "p": [
+   "Voor je een aanbod bekijkt, schrijf je op wat je wil laten doen, hoe vaak en op welk moment. Een kantoor met zes werkplekken heeft andere noden dan een winkel met paskamers of een praktijk met een wachtzaal. Hoe scherper dat beeld, hoe sneller je zeker weet of een aanbod past."]},
+  {"h2": "Criterium één: een vaste persoon", "p": [
+   "Wisselende ploegen betekenen telkens opnieuw uitleg, en elke nieuwe persoon heeft een sleutel. Vraag dus: komt er steeds dezelfde persoon, op dezelfde dag en hetzelfde uur? Bij Zondags is dat het uitgangspunt: je Zondag leert je zaak kennen en blijft in principe dezelfde, ook als je het pakket later uitbreidt."]},
+  {"h2": "Criterium twee: in dienst of zelfstandig", "p": [
+   "Een persoon in dienst van het bedrijf dat je inhuurt, werkt onder een contract en met een duidelijke verantwoordelijke. Bij een zelfstandige werk je rechtstreeks samen, met alle voordelen van dichtbij contact maar ook met de vraag wat er gebeurt bij ziekte. Zondags werkt met gescreende mensen in dienst: studenten vanaf 18 jaar, flexi-jobbers en medewerkers met een vast contract. Bij ziekte of verlof zoeken we een oplossing, al beloven we geen vervanger."]},
+  {"h2": "Criterium drie: factuur en btw", "p": [
+   "Vraag naar een gewone dienstenfactuur op naam van je bedrijf, met je btw-nummer. Poetshulp voor de zaak is in principe een beroepskost en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Laat je accountant dit bevestigen voor je eigen situatie."]},
+  {"h2": "Criterium vier tot zes: flexibiliteit, planning en communicatie", "p": [
+   "<ul class=\"ticks\"><li>Flexibiliteit: kan je een extra blok bijboeken in een drukke maand, en hoe opzegbaar is de samenwerking</li><li>Planning: werkt het aanbod op weekdagen, vroeg in de ochtend of over de middag, zonder avond- of weekendwerk</li><li>Communicatie: wie bel je als er iets misloopt, en hoe snel krijg je antwoord</li></ul>",
+   "Bij Zondags bereik je ons elke dag van 6 tot 22 uur op 0470 56 53 58, ook via WhatsApp. Daarnaast is er de chat op de site en het adres hello@zondags.be."]},
+  {"h2": "Het plan: wat staat er op papier", "p": [
+   "Een goed aanbod beschrijft welke taken, welke dagen en welke uren. Dat noemen wij het zondagsplan. Lees hoe je het opstelt in de <a href=\"sectoren/gids-zondagsplan-opstellen.html\">gids over het zondagsplan</a>. Wat niet op het plan staat, is meestal ook niet afgesproken."]},
+  {"h2": "Wat het kost en hoe je start", "p": [
+   "Er is één pakket: 60 euro per uur exclusief btw, geboekt per blok van 3 uur, dus 180 euro exclusief btw. Extra uren kosten hetzelfde per uur. Je boekt op de <a href=\"boeken.html\">boekpagina</a> en betaalt online met kaart of Bancontact. Voor een terugkerend plan vraag je een terugbelverzoek of bel je."]}
  ],
  "faq": [
-  {
-   "q": "Waar let ik als eerste op bij het kiezen van poetshulp voor mijn bedrijf?",
-   "a": "Op de vaste persoon. Komt er telkens dezelfde persoon, op dezelfde dag en hetzelfde uur, dan leert die je zaak kennen. Dat scheelt uitleg en geeft je rust. Daarna volgen de factuur en de flexibiliteit."
-  },
-  {
-   "q": "Is het beter dat de poetshulp in dienst is?",
-   "a": "Dat is een keuze. Een persoon in dienst van de aanbieder betekent dat de aanbieder de administratie en de continuïteit regelt. Zondags werkt met gescreende mensen in dienst van Zondags."
-  },
-  {
-   "q": "Welke factuur heb ik nodig als vennootschap?",
-   "a": "Een gewone dienstenfactuur op naam van je vennootschap. Een vennootschap kan geen dienstencheques kopen. Laat je accountant bevestigen hoe je de factuur verwerkt."
-  },
-  {
-   "q": "Hoe flexibel moet het plan zijn?",
-   "a": "Zo flexibel dat je uren kan bijboeken, het plan kan aanpassen en kan opzeggen zonder lange termijn. Bij Zondags is het plan maandelijks opzegbaar."
-  },
-  {
-   "q": "Kan ik poetshulp ook 's avonds of in het weekend krijgen?",
-   "a": "Niet bij Zondags. We werken overdag op weekdagen. Heb je avond- of weekendwerk nodig, dan zoek je daarvoor een andere aanbieder."
-  },
-  {
-   "q": "Wat als ik niet tevreden ben?",
-   "a": "Klikt het niet, dan zoeken we samen een andere Zondag. Je kan ook het plan aanpassen of maandelijks opzeggen."
-  }
- ],
- "path": "sectoren/gids-poetshulp-kiezen-voor-je-bedrijf.html"
+  {"q": "Waarop moet ik letten bij het kiezen van poetshulp voor mijn bedrijf?", "a": "Op een vaste persoon, een contract of dienstverband, een correcte factuur, flexibele planning, duidelijke communicatie en een schriftelijk plan met taken, dagen en uren."},
+  {"q": "Is het beter om een zelfstandige of een bedrijf in te schakelen?", "a": "Dat hangt af van wat je belangrijk vindt. Bij een bedrijf met mensen in dienst loopt de planning en vervanging via één partner. Bij een zelfstandige werk je rechtstreeks samen."},
+  {"q": "Hoe vergelijk ik prijzen van poetshulp?", "a": "Vergelijk het uurtarief, de minimumduur per bezoek, of materiaal inbegrepen is en of de btw apart staat. Bij Zondags is dat 60 euro per uur exclusief btw, per blok van 3 uur."},
+  {"q": "Wat is het verschil tussen poetshulp en administratieve hulp?", "a": "Poetshulp houdt je ruimtes proper. Administratieve hulp gaat over post, klasseren en agenda. Je Zondag kan beide doen, maar boekhouding en fiscaal advies zijn uitgesloten."},
+  {"q": "Hoe start ik snel met poetshulp?", "a": "Je boekt online een weekdag, minstens twee werkdagen vooraf. Wil je een vast plan, dan vraag je een terugbelverzoek of bel je 0470 56 53 58."}
+ ]
 }

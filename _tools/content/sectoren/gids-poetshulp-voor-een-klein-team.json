@@ -1,81 +1,93 @@
 {
+ "path": "sectoren/gids-poetshulp-voor-een-klein-team.html",
  "title": "Gids: poetshulp voor een klein team",
- "desc": "Hoe richt je poetshulp in voor een klein team? Frequentie, moment van de dag en wie wat doet, tussen jullie en je vaste Zondag.",
- "eyebrow": "Gids",
+ "desc": "Poetshulp inrichten voor een klein team: hoe vaak, op welk moment en wie welke taak doet. Met voorbeeldschema's, prijs en uitleg over de vaste Zondag.",
+ "eyebrow": "Gids · Klein team",
  "h1": "Gids: poetshulp voor een klein team",
- "lead": "Een klein team heeft geen poetsploeg nodig, maar wel een duidelijke afspraak. Deze gids loopt door frequentie, moment en taakverdeling.",
- "answer": "Poetshulp voor een klein team richt je in met drie keuzes: hoe vaak er gepoetst wordt, op welk moment van de dag en wie welke taak doet. Zondags (zondags.be) levert één vaste Zondag die op een vast uur komt, overdag op weekdagen. Het team houdt de basis bij, je Zondag neemt het regelmatige onderhoud over. Je legt het samen vast in het zondagsplan.",
+ "lead": "Met een team van enkele mensen hoef je geen poetsfirma met een planning en een vloot. Je hebt wel een duidelijke afspraak nodig over frequentie, moment en taken.",
+ "answer": "Poetshulp voor een klein team regel je met één vaste persoon op een vast moment. Zondags (zondags.be) levert die persoon als je Zondag: overdag op weekdagen, gescreend en in dienst van Zondags. Je betaalt 60 euro per uur exclusief btw, geboekt per blok van 3 uur, en ontvangt een factuur op naam van je bedrijf. Het team houdt de dagelijkse orde, je Zondag doet het grondige werk en desgewenst ook wat administratie.",
  "facts": [
-  "Drie keuzes: frequentie, moment, taakverdeling",
-  "Vaste persoon, vast uur",
+  "Eén vaste persoon, vast uur",
   "Overdag op weekdagen",
-  "Team houdt de basis bij",
-  "Eerste 2 uur gratis"
+  "Team doet de dagelijkse orde",
+  "60 euro per uur, per blok van 3 uur",
+  "Factuur op naam van je bedrijf",
+  "Online boeken of eerst een gesprek"
  ],
  "sections": [
   {
-   "h2": "Waarom een klein team iets anders nodig heeft",
+   "h2": "Wat een klein team echt nodig heeft",
    "p": [
-    "Een team van vier tot tien mensen heeft geen volledige poetsploeg nodig en kan geen dagelijkse schoonmaker rechtvaardigen. Toch ligt een kantoor zonder onderhoud er al snel verwaarloosd bij: stof op de vensterbanken, vlekken op de vloer, een keuken die van niemand is.",
-    "Een klein team heeft dus een kleine, vaste, goed afgesproken dienst nodig. Eén persoon die wekelijks of tweewekelijks komt en weet hoe het kantoor werkt, doet meer dan een wisselende ploeg die telkens opnieuw uitleg vraagt."
+    "Neem een studiebureau met vijf medewerkers, een open werkruimte, een keukentje en één sanitaire ruimte. Er is geen onthaal met een receptionist en geen vaste schoonmaker. Wie het eerst ziet dat de vuilbak vol zit, schuift het door naar de volgende, en dat knaagt aan de sfeer.",
+    "Zulke zaken hebben één betrouwbaar iemand nodig die op een vast moment komt, de grote dingen doet en de sleutel kent. Het resultaat is rust: de basis is geregeld."
    ]
   },
   {
-   "h2": "Stap één: kies de frequentie",
+   "h2": "Hoe vaak? Drie schema's om uit te kiezen",
    "p": [
-    "De frequentie hangt af van hoeveel mensen er werken, hoeveel bezoekers je ontvangt en hoeveel de keuken en het sanitair gebruikt worden. Als vuistregel kiezen veel kleine teams voor wekelijks. Gaat het om een kantoor met weinig bezoek, dan volstaat tweewekelijks.",
-    "Je hoeft het niet meteen juist te hebben. Je start met wat logisch lijkt, kijkt na enkele weken wat je ervan merkt en past aan. Uren bijboeken of het plan aanpassen kan."
+    "<ul class=\"ticks\"><li>Wekelijks één blok van 3 uur: voor een team dat dagelijks in de zaak zit en een keuken en sanitair deelt</li><li>Om de twee weken één blok: voor een kantoor waar mensen deels op verplaatsing werken en weinig bezoek komt</li><li>Wekelijks plus een extra blok per maand: voor een zaak met klantenbezoek of een drukke maand, waarin het sanitair en de refter meer te verduren krijgen</li></ul>",
+    "Start met het schema dat het meest logisch lijkt en pas het plan na enkele weken aan. Uren bijboeken kan altijd."
    ]
   },
   {
-   "h2": "Stap twee: kies het moment",
+   "h2": "Op welk moment komt je Zondag?",
    "p": [
-    "Vroeg in de ochtend of over de middag kan, zodat je team het onderhoud nauwelijks merkt. Zondags werkt overdag op weekdagen en nooit 's avonds of in het weekend. Kies een dag waarop het kantoor niet vol zit, of het uur waarop de meesten buiten zijn.",
-    "Een vast moment heeft nog een voordeel: iedereen weet wanneer de Zondag er is, dus het team ruimt de dag ervoor op zonder dat iemand eraan herinnerd moet worden."
+    "Zondags werkt overdag op weekdagen, vroeg in de ochtend of over de middag. 's Avonds en in het weekend werken we niet. Een kleine zaak kiest vaak het uur waarop de meeste mensen weg zijn, of de ochtend voor het team binnenkomt.",
+    "Een vast uur heeft nog een voordeel: iedereen weet wanneer de Zondag er is. Het team legt de dag ervoor gevoelige papieren weg, zodat de beurt meteen vlot verloopt."
    ]
   },
   {
-   "h2": "Stap drie: verdeel de taken tussen team en Zondag",
+   "h2": "Wie doet wat? Een eenvoudige taakverdeling",
    "p": [
-    "<ul class=\"ticks\"><li>Team: bureau vrijhouden, eigen kopje afwassen, afval wegdoen</li><li>Team: frigo wekelijks nakijken</li><li>Zondag: bureaus afnemen en vloeren</li><li>Zondag: sanitair, keuken en vergaderruimte</li><li>Zondag: afval en recyclage buiten zetten</li><li>Zondag: ramen langs binnen</li></ul>",
-    "Zet die verdeling op papier in het zondagsplan, zodat niemand zich afvraagt wie wat deed. Een kleine zaak met korte lijnen vindt dat snel uit; opschrijven voorkomt dat het wegglijdt."
+    "Het team houdt de dagelijkse orde: bureaus leegmaken, bekers naar de keuken, de eigen vuilbak niet laten overlopen. Je Zondag doet wat tijd en materiaal vraagt: bureaus en tafels afnemen, keuken en refter, sanitair, vloeren, ramen en glazen deuren langs binnen en het afval buiten zetten.",
+    "Staat er iets op de lijst dat jullie liever zelf doen, zoals de planten of de koffiemachine, dan schrappen we het in het zondagsplan. Een uitgewerkte lijst vind je in de <a href=\"sectoren/checklist-kantoor-ordelijk-tussen-twee-beurten.html\">checklist voor een ordelijk kantoor</a>."
    ]
   },
   {
-   "h2": "Zo past het in je vennootschap",
+   "h2": "Een Zondag voor meer dan poetsen",
    "p": [
-    "Een vennootschap kan geen dienstencheques kopen; die zijn voor particulieren. Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van beroepsruimtes is een beroepskost.",
-    "Wil de zaakvoerder ook zijn woning laten onderhouden door dezelfde Zondag, dan splitst de factuur beroepsmatig en privé. Voor het privégedeelte geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst. Laat je accountant bevestigen hoe dat voor jouw situatie werkt. Meer vind je op <a href=\"gids/huishoudhulp-via-vennootschap.html\">huishoudhulp via je vennootschap</a>."
+    "In een klein team doet vaak dezelfde persoon de administratie, de bestellingen en de ontvangst van klanten. Je Zondag kan post openen en sorteren, facturen en documenten klasseren, kantoormateriaal bijhouden, pakjes klaarmaken en de koffiehoek bevoorraden.",
+    "Boekhouding, loonadministratie en fiscaal of juridisch advies horen daar niet bij. Meer over die kant staat bij <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">een rechterhand voor bedrijfsleiders</a>."
+   ]
+  },
+  {
+   "h2": "Prijs, factuur en btw",
+   "p": [
+    "Er is één pakket: 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan dezelfde 60 euro per uur. Je krijgt een dienstenfactuur op naam van je bedrijf, met je btw-nummer.",
+    "Poetshulp voor de zaak is in principe een beroepskost, en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Laat je accountant dit bevestigen."
    ]
   },
   {
    "h2": "Zo start je",
    "p": [
-    "Je vraagt aan via het formulier of de chat. Binnen één werkdag belt iemand je terug, daarna komen we langs voor de intake. Samen maken we het zondagsplan. De eerste 2 uur zijn gratis. Bij ziekte of verlof van je Zondag zoeken we een oplossing. Klikt het niet, dan zoeken we samen een andere Zondag. Lees ook <a href=\"sectoren/kleine-kantoren.html\">poetshulp voor kleine kantoren</a>."
+    "Voor een eerste proef kies je op de <a href=\"boeken.html\">boekpagina</a> datum, aantal blokken en taken, geef je het btw-nummer in en betaal je online. Boeken kan voor weekdagen, minstens twee werkdagen vooraf. Wil je een vast schema, dan eerst een kort gesprek: bel of stuur een WhatsApp naar 0470 56 53 58, elke dag van 6 tot 22 uur."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Hoe vaak moet een klein team poetshulp inschakelen?",
-   "a": "Veel kleine teams kiezen wekelijks of tweewekelijks. Dat hangt af van het aantal mensen, bezoekers en het gebruik van keuken en sanitair. Je past het plan aan als je merkt dat het anders moet."
+   "q": "Hoe vaak moet een klein team laten poetsen?",
+   "a": "Voor een team dat dagelijks in de zaak zit, is een wekelijks blok van 3 uur een logische start. Met weinig bezoek of veel verplaatsingen kan om de twee weken volstaan. Je past het plan later gewoon aan."
   },
   {
-   "q": "Op welk moment komt de poetshulp het best?",
-   "a": "Vroeg in de ochtend of over de middag, overdag op weekdagen. Zondags werkt nooit 's avonds en nooit in het weekend."
+   "q": "Wat kost poetshulp voor een klein team?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, geboekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren kosten hetzelfde bedrag per uur, en de factuur staat op naam van je bedrijf."
   },
   {
-   "q": "Wat doet het team zelf nog?",
-   "a": "Het team houdt de basis bij: bureau vrijmaken, eigen kopje afwassen, afval wegdoen en de frigo nakijken. De poetshulp neemt het regelmatige onderhoud over."
+   "q": "Krijgt mijn team elke keer dezelfde poetshulp?",
+   "a": "Ja, dat is de bedoeling. Je krijgt één vaste Zondag op een vast uur, gescreend en in dienst van Zondags. Klikt het niet, dan zoeken we samen een andere Zondag."
   },
   {
-   "q": "Is een vaste persoon echt nodig voor een klein team?",
-   "a": "Het helpt. Een vaste persoon leert je kantoor kennen en weet wat waar hoort. Bij een wisselende ploeg moet je telkens opnieuw uitleggen wat je wil."
+   "q": "Wat als mijn Zondag ziek is of verlof neemt?",
+   "a": "Dan zoeken wij een oplossing, maar een vervanger kunnen we niet vooraf beloven. Je hoort het snel van ons en we bekijken samen wat er kan."
   },
   {
-   "q": "Kan ik de poetshulp voor mijn team ook voor thuis gebruiken?",
-   "a": "Ja. Kantoor en woning kunnen in één zondagsplan met dezelfde persoon. De factuur splitst beroepsmatig en privé."
+   "q": "Wie ruimt op: mijn team of de Zondag?",
+   "a": "Het team houdt de dagelijkse orde, zoals bureaus leegmaken. Je Zondag doet het eigenlijke schoonmaakwerk. Wat jullie liever zelf doen, schrappen we samen in het zondagsplan."
+  },
+  {
+   "q": "Kan ik als klein bedrijf eerst een keer proberen?",
+   "a": "Ja, je kan één blok van 3 uur online boeken aan het gewone tarief en daarna beslissen of je een vast schema wil. Voor een vast schema bespreken we eerst de taken, dagen en uren."
   }
- ],
- "path": "sectoren/gids-poetshulp-voor-een-klein-team.html"
+ ]
 }

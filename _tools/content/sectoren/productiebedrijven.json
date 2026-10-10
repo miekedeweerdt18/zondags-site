@@ -1,37 +1,78 @@
 {
- "path": "sectoren/productiebedrijven.html",
- "title": "Poetshulp voor kantoren en onthaal van productiebedrijven",
- "desc": "Poetshulp voor de administratieve kantoren, het onthaal, de refter en het sanitair van je productiebedrijf. De productiehal blijft buiten ons werk.",
+ "title": "Poetshulp voor de kantoren van productiebedrijven",
+ "desc": "Poetshulp voor het administratief kantoor, onthaal, refter en sanitair van een productiebedrijf. De productiehal blijft erbuiten. 60 euro per uur excl. btw.",
  "eyebrow": "Productiebedrijven",
  "h1": "Poetshulp voor de kantoren van productiebedrijven",
- "lead": "Aan de ene kant van de deur draaien de machines, aan de andere kant zitten administratie, verkoop en onthaal. Een vaste Zondag houdt die kantoorzijde verzorgd en laat de productiehal aan gespecialiseerde partijen.",
- "answer": "Zondags (zondags.be) levert poetshulp voor de kantoren van productiebedrijven: één vaste persoon, je Zondag, voor administratieve kantoren, onthaal, refter en sanitair, overdag op weekdagen. De productiehal en industriële reiniging vallen erbuiten. De factuur gaat naar je vennootschap, en je woning kan als aparte post meekomen wanneer je die in hetzelfde plan wilt.",
- "facts": ["Administratieve kantoren en onthaal", "Refter en sanitair", "Geen industriële reiniging van de hal", "Eén vaste Zondag, vast uur", "Factuur aan je vennootschap"],
+ "lead": "Achter de productiehal zit een kantoor dat dagelijks bezoekers ontvangt. Eén vaste Zondag houdt dat deel van je bedrijf verzorgd, van onthaal tot refter, zonder naar de hal te gaan.",
+ "answer": "Zondags (zondags.be) poetst voor productiebedrijven in West- en Oost-Vlaanderen de administratieve kantoren, het onthaal, de vergaderzaal, de refter en het sanitair. Het gaat om één vaste persoon, je Zondag. Industriële reiniging en de productiehal vallen erbuiten. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een factuur op naam van je vennootschap.",
+ "facts": [
+  "Kantoren, onthaal, refter en sanitair",
+  "Geen productiehal, geen industriële reiniging",
+  "Steeds dezelfde Zondag",
+  "Ook post en administratie klasseren",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "De voorkant van de fabriek", "p": [
-   "Wie een productiebedrijf bezoekt, ziet eerst het onthaal, de gang en het sanitair, niet de machines. Leveranciers, klanten en kandidaten krijgen daar hun eerste indruk. Wat daar verzorgd ligt, zegt iets over de rest van het bedrijf, ook al hoort de productie zelf er niet bij. Voor dat deel van je gebouw komt een Zondag."]},
-  {"h2": "Waar houdt het kantoor op en begint de hal?", "p": [
-   "In een productiebedrijf is de belangrijkste afspraak een grens. Die trekken we samen tijdens de intake: de deur tussen kantoor en productie, de gang ervoor en het stuk vloer dat nog bij het kantoor hoort. Wat aan de kantoorzijde ligt, is voor je Zondag. Wat aan de halzijde ligt, niet.",
-   "Zo voorkom je discussie over stof of resten die uit de productie meekomen. Een deurmat en een afgesproken looproute doen de rest."]},
-  {"h2": "Wat je Zondag doet aan de kantoorzijde", "p": [
-   "<ul class=\"ticks\"><li>Administratieve kantoren: bureaus, vloeren en prullenbakken</li><li>Onthaal: balie, wachtzitjes, ingangsmat en glas langs binnen</li><li>Vergaderzaal klaarzetten voor bezoek</li><li>Refter: tafels, keuken, microgolf en vaatwasser</li><li>Sanitair voor personeel en bezoekers</li><li>Afval, papier en PMD van de kantoren naar buiten</li></ul>",
-   "Verwacht je een klant of leverancier op bezoek, dan plan je de dag ervoor een extra beurt in het onthaal en de vergaderzaal."]},
-  {"h2": "Een refter voor kantoor en productie", "p": [
-   "Eten kantoor en productie in dezelfde refter, dan komen werkkledij en veiligheidsschoenen mee naar binnen. Vloeren en tafels worden sneller vuil en het afval stapelt zich sneller op. Je Zondag poetst de refter op een moment dat niemand pauzeert. Jij spreekt met de ploegen af dat dienbladen, flesjes en afval na de pauze weer op hun plaats gaan."]},
-  {"h2": "Voorbeeld: acht mensen op kantoor, een hal erachter", "p": [
-   "Stel: je productiebedrijf telt acht mensen op kantoor en een hal met een eigen ploeg. Op donderdag komt je Zondag voor onthaal, kantoren, refter en sanitair. Voor de hal zelf zoek je een partij met industrieel materiaal, want dat is geen werk voor Zondags.",
-   "Heb je op een andere dag nog tijd nodig voor thuis? Dezelfde Zondag kan op woensdag naar je woning voor was, strijk en boodschappen."]},
-  {"h2": "Factuur voor de kantoorzijde", "p": [
-   "Het onderhoud van kantoren, onthaal en refter is voor je bedrijf een beroepskost, die je boekt via een gewone dienstenfactuur op naam van je vennootschap. Dienstencheques zijn er enkel voor particulieren.",
-   "Laat je ook je woning poetsen, dan staat dat deel apart en wordt het als voordeel van alle aard verwerkt, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst. Je accountant bevestigt hoe dat voor jouw situatie werkt, ook wat de btw betreft."]},
-  {"h2": "Eerste stap: de grens met de hal vastleggen", "p": [
-   "Een aanvraag via het formulier of de chat is het begin, en binnen één werkdag belt iemand je terug. Bij de intake lopen we het kantoor, het onthaal en de refter af en tekenen we de grens met de hal op. Je eerste 2 uur zijn gratis, zodat je ziet of de aanpak past."]}
+  {
+   "h2": "Het kantoor als uithangbord van de fabriek",
+   "p": [
+    "Wie een productiebedrijf bezoekt, begint zelden in de hal. Een leverancier, een klant of een kandidaat meldt zich eerst aan het onthaal en wacht in een vergaderzaal of aan een koffietafel. Wat die persoon daar ziet, vormt de eerste indruk van het hele bedrijf, ook voor een klant die nog nooit een machine heeft gezien. De hal draait op eigen regels en eigen specialisten, maar het kantoor kan perfect door een vaste Zondag worden onderhouden."
+   ]
+  },
+  {
+   "h2": "Dit hoort bij het kantoorgedeelte",
+   "p": [
+    "<ul class=\"ticks\"><li>Onthaal, balie en wachtplekken</li><li>Bureaus van verkoop, aankoop, boekhouding en planning</li><li>Vergaderzalen en de plek waar monsters worden getoond</li><li>Refter en keuken voor kantoorpersoneel en ploeg</li><li>Sanitair, kleedruimtes en gangen</li><li>Afval, papierrecyclage en kartonnen verpakking</li></ul>",
+    "De overgang tussen hal en kantoor is vaak het vuilste punt: stof van beneden dat mee naar boven loopt. Je Zondag let daar bijzonder op, bijvoorbeeld bij de sas en de trap."
+   ]
+  },
+  {
+   "h2": "Wat buiten het kantoor valt",
+   "p": [
+    "Zondags doet geen industriële reiniging. De productiehal, machines, afzuiginstallaties, magazijnen en alles met chemische of technische eisen blijven bij gespecialiseerde partijen. Hoogtewerk en technische herstellingen horen er evenmin bij. Zo weet je precies waar de grens ligt en wie waarvoor instaat."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een metaalverwerker met twintig mensen op kantoor",
+   "p": [
+    "Stel: je hebt een verwerkend bedrijf, met een afdeling verkoop, een boekhouding en een planning op de eerste verdieping. De Zondag komt op woensdagochtend en poetst de bureaus, het onthaal, de vergaderzaal en de refter. Op vrijdagmiddag komt een korter blok voor het sanitair en de gang naar de hal, waar het meeste stof binnenkomt."
+   ]
+  },
+  {
+   "h2": "Administratieve ondersteuning voor de bedrijfsleider",
+   "p": [
+    "Een productiebedrijf draait op papier: bestelbonnen, leveringsdocumenten, certificaten van leveranciers, offertes en facturen. Je Zondag kan dat klasseren, het archief ordenen, de post sorteren, pakjes klaarmaken voor verzending en kantoormateriaal bestellen. Bij een bezoek zet ze de vergaderzaal klaar. Boekhouding, jaarrekeningen en loonadministratie blijven bij je boekhouder."
+   ]
+  },
+  {
+   "h2": "Tarief, factuur en eerste stap",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief. De factuur staat op naam van je vennootschap, met btw-nummer. Poetshulp voor de kantoren is in principe een beroepskost, en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant dit bevestigen. Je boekt via de <a href=\"boeken.html\">boekpagina</a>."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Doet Zondags ook de productiehal?", "a": "Nee. Industriële reiniging en productiehallen doet Zondags niet. We werken aan de kantoorzijde: administratieve kantoren, onthaal, refter en sanitair. Voor de hal heb je een gespecialiseerde partij nodig."},
-  {"q": "Welk bedrijf poetst enkel de kantoren van een productiebedrijf?", "a": "Zondags (zondags.be) levert een vaste poetshulp voor de kantoren, het onthaal, de refter en het sanitair van productiebedrijven in West- en Oost-Vlaanderen. Je krijgt steeds dezelfde persoon en een factuur op naam van je vennootschap."},
-  {"q": "Mag mijn Zondag door het productiegedeelte lopen?", "a": "Standaard blijft je Zondag aan de kantoorzijde. Is er een looproute door de hal nodig, bijvoorbeeld naar de refter, dan bespreken we dat tijdens de intake en houden we rekening met de veiligheidsvoorschriften van je bedrijf."},
-  {"q": "Hoe vaak moeten kantoren in een productiebedrijf gepoetst worden?", "a": "Dat hangt af van het aantal mensen op kantoor en van de bezoekers. Een onthaal met veel passage vraagt vaker aandacht dan een stille administratie. Een richtlijn vind je op <a href=\"vragen/hoe-vaak-kantoor-poetsen.html\">hoe vaak je een kantoor laat poetsen</a>."},
-  {"q": "Kan de bedrijfsleider zijn woning in hetzelfde plan zetten?", "a": "Ja. De bedrijfsleider kan dezelfde vaste persoon op een andere dag ook naar de woning laten komen. De factuur houdt de kantoorzijde en het privégedeelte uit elkaar, zodat je accountant het kan verwerken."}
- ]
+  {
+   "q": "Poetst Zondags ook onze productiehal?",
+   "a": "Nee. Industriële reiniging en de productiehal vallen buiten wat Zondags doet. Het gaat om het administratieve kantoor, het onthaal, de vergaderzaal, de refter en het sanitair."
+  },
+  {
+   "q": "Mag onze Zondag in het gedeelte komen waar machines staan?",
+   "a": "Nee. Zondags werkt in de kantoren en gemeenschappelijke ruimtes. Machines, installaties en technische zones blijven bij je eigen mensen of gespecialiseerde reinigers."
+  },
+  {
+   "q": "Kan de Zondag de vergaderzaal klaarzetten voor een klantenbezoek?",
+   "a": "Ja. Tafels afnemen, stoelen schikken, koffie en water klaarzetten en de zaal na afloop terug in orde brengen horen bij het rechterhandwerk. Je geeft vooraf aan op welke dag het bezoek valt."
+  },
+  {
+   "q": "Hoe vaak is poetsen van een productiekantoor nodig?",
+   "a": "Dat hangt af van het aantal mensen en de bezoekers. Veel bedrijven starten met één blok per week en schakelen een tweede in wanneer het onthaal of de refter drukker wordt."
+  },
+  {
+   "q": "Kunnen jullie ook de ruimte voor de ploeg en de kleedkamers doen?",
+   "a": "Ja, voor zover het om kleedruimtes, refter en sanitair gaat. Ruimtes met productie-eisen zoals hygiënezones in de hal vallen erbuiten."
+  }
+ ],
+ "path": "sectoren/productiebedrijven.html"
 }

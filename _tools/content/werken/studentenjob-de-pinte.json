@@ -1,80 +1,89 @@
 {
- "title": "Studentenjob in De Pinte rond je lessenrooster",
- "desc": "Master volgen en twee namiddagen vrij? Werk als student overdag bij vaste klanten in De Pinte, nooit 's avonds of in het weekend. Solliciteer bij Zondags.",
- "eyebrow": "Studentenjob · De Pinte",
+ "path": "werken/studentenjob-de-pinte.html",
+ "title": "Studentenjob met flexibele uren in De Pinte (9840)",
+ "desc": "Masterstudent met twee vrije namiddagen? In De Pinte en Zevergem werk je overdag op weekdagen bij vaste bedrijfsklanten, met een studentencontract.",
+ "eyebrow": "Studentenjob · De Pinte · 9840",
  "h1": "Studentenjob met flexibele uren in De Pinte",
- "lead": "Twee vrije namiddagen per week zijn al genoeg om te beginnen. In De Pinte werk je als student overdag bij vaste klanten, zonder avonden of weekends.",
- "answer": "Zondags (zondags.be) zoekt studenten vanaf 18 jaar in en rond De Pinte voor een studentenjob overdag op weekdagen. Samen kiezen we dagen en uren die bij je lessenrooster passen, en je werkt bij vaste klanten: ondernemers, praktijken, kantoren en gezinnen. Je krijgt een studentencontract, verloning boven het barema en vergoede verplaatsingen.",
+ "lead": "Stel: je volgt een master en hebt twee namiddagen per week geen les. Wat doe je met die twee blokken? In De Pinte kan je ze invullen als vaste Zondag.",
+ "answer": "Zondags (zondags.be) zoekt in De Pinte, de deelgemeente Zevergem en de regio Gent studenten vanaf 18 jaar voor werk overdag op weekdagen bij vaste bedrijfsklanten. Voor een masterstudent met twee vrije namiddagen per week is een vast schema haalbaar. Je werkt met een studentencontract, volgt je urensaldo zelf op via Student@work en kiest mee dagen en uren.",
  "facts": [
-  "Vanaf 18 jaar",
-  "Dagen en uren kies je mee",
-  "Overdag, nooit in het weekend",
-  "Studentencontract",
-  "Verplaatsingen vergoed"
+  "Twee vaste namiddagen per week",
+  "Studenten vanaf 18 jaar",
+  "Rooster rond je thesis en lessen",
+  "Studentencontract, saldo via Student@work",
+  "Weekdagen overdag, geen weekends",
+  "Enkel bedrijven als klant"
  ],
  "sections": [
   {
-   "h2": "Stel: je volgt een master met twee vrije namiddagen",
+   "h2": "Twee namiddagen als vast anker",
    "p": [
-    "Een masterjaar zit vol colleges, papers en stages, maar het rooster laat meestal gaten. Stel dat je elke week twee namiddagen vrij hebt. Dat is voldoende voor een vaste afspraak bij een klant, op dezelfde dagen en hetzelfde uur.",
-    "Wat je niet moet doen, is zomaar kortlopende klusjes aannemen op wisselende adressen. Bij Zondags word je iemands Zondag: de vaste persoon bij dezelfde klanten, zodat je weet waar je aan toe bent."
+    "In een masterjaar verschuift veel van je tijd naar zelfstandig werk: een thesis, een stage, zelfstudie. Twee vaste namiddagen buiten je bureau zorgen voor een vast ritme in een week die anders weinig structuur heeft. Zondags werkt met dat soort ritmes.",
+    "Je spreekt één of twee dagen af, steeds op hetzelfde uur, bij dezelfde klant. Zo plan je je thesis eromheen in plaats van omgekeerd."
    ]
   },
   {
-   "h2": "Hoe een week eruit kan zien",
+   "h2": "Een mogelijke week",
    "p": [
-    "Neem een semesterweek. Op dinsdagnamiddag ga je naar een gezin om de was en het strijk te doen en de keuken op orde te brengen. Op vrijdagnamiddag poets je het kantoor van een zaakvoerder die in de voormiddag klanten ontvangt.",
-    "Zit je in een drukke blok, dan zeg je dat vooraf en werk je een tijdje minder. In de vakantie kan het omgekeerd. Dat leggen we samen vast, niet in een chatgroep waar je snel moet reageren."
+    "Neem een tandartspraktijk met drie behandelkamers. Op maandagnamiddag ruim je de wachtzaal op, onderhoud je de vloeren en de refter, en vul je de koffiehoek aan. Op donderdagnamiddag ga je naar een kantoor met vijf bureaus: post sorteren, afspraken in de agenda zetten en de vergaderzaal klaarmaken.",
+    "Het blijven twee korte, goed afgebakende blokken. Wat de klant verwacht, staat vooraf in het zondagsplan."
    ]
   },
   {
-   "h2": "Wat de klanten van je vragen",
+   "h2": "Taken waar je uit kiest",
    "p": [
-    "<ul class=\"ticks\"><li>Huishouden en poetsen</li><li>Was en strijk</li><li>Koken of schotels voor de week klaarmaken</li><li>Boodschappen en regelwerk</li><li>Kinderen na school opvangen</li><li>Hond uitlaten of licht tuinonderhoud</li></ul>",
-    "Je zegt mee wat je graag doet. Technische klussen en werk op hoogte vallen buiten de job. Diploma of ervaring is niet nodig, wel betrouwbaarheid, discretie en respect voor andermans huis."
+    "<ul class=\"ticks\"><li>Poetsen van kantoor, praktijk of winkel</li><li>Wachtzaal, onthaal en vergaderzaal klaarzetten</li><li>Post sorteren en documenten klasseren</li><li>Afspraken en agenda helpen plannen</li><li>Kantoormateriaal bestellen</li></ul>",
+    "Werken op hoogte, technische klussen, boekhouding en loonadministratie zijn geen onderdeel van de job."
    ]
   },
   {
-   "h2": "Contract, uren en verloning",
+   "h2": "Studentencontract, urensaldo en verloning",
    "p": [
-    "Je krijgt een studentencontract en bent in dienst van Zondags, alles netjes op papier. Je volgt je urensaldo zelf op via Student@work. We betalen boven het barema en je verplaatsingen krijg je vergoed.",
-    "Is je rooster eenmaal afgesproken, dan ligt het vast. Je kan het aan je medestudenten zeggen: elke week dezelfde dagen, bij dezelfde mensen."
+    "Je bent student en werkt in dienst van Zondags met een studentencontract. Je urensaldo volg je zelf op via Student@work, zodat je weet waar je staat. De verloning ligt boven het barema en je verplaatsingen worden vergoed.",
+    "Heb je een drukke periode, bijvoorbeeld rond examens of een eindpresentatie, dan trek je je uit het rooster. In de vakanties kan je meer uren plannen."
    ]
   },
   {
-   "h2": "Werken in De Pinte en omgeving",
+   "h2": "Wat het je oplevert naast het loon",
    "p": [
-    "De Pinte heeft postcode 9840 en Zevergem hoort erbij. We zoeken Zondags in en rond De Pinte, ook richting Gent, Nazareth, Sint-Martens-Latem, Merelbeke en Gavere. Studeer je in een andere stad maar woon je in De Pinte, dan zoeken we klanten die dicht bij je thuis liggen. Lees ook over <a href=\"jobs/studentenjob-flexibele-uren.html\">de studentenjob met flexibele uren</a>."
+    "Een studentenjob telt ook voor je cv. Je leert hoe een kleine onderneming dagelijks draait, hoe een bedrijfsleider prioriteiten legt en hoe je discreet omgaat met dossiers en gesprekken die vertrouwelijk zijn. Zulke vaardigheden vallen op bij een eerste sollicitatie na je master.",
+    "Wie een vaste klant heeft, bouwt bovendien een werkervaring op die iets zegt over betrouwbaarheid en regelmaat."
    ]
   },
   {
-   "h2": "Zo solliciteer je",
+   "h2": "De Pinte, Zevergem en Gent in de buurt",
    "p": [
-    "Vul het formulier in, open de chat of stuur een WhatsApp naar 0470 56 53 58. Binnen twee werkdagen bellen we je voor een kort gesprek. Klikt het, dan zoeken we klanten die bij je lessen passen. Bij de start gaan we samen langs en krijgt elke klant een zondagsplan met taken, uren en afspraken."
+    "De Pinte ligt in de regio Gent en heeft Zevergem als deelgemeente. Naast De Pinte en Zevergem zoeken we Zondags in Gent, Nazareth, Sint-Martens-Latem, Merelbeke en Gavere. Pendel je naar een Gentse campus, dan kijken we of een klant op je route ligt."
+   ]
+  },
+  {
+   "h2": "Zo sta je snel op de rit",
+   "p": [
+    "Stuur een bericht via WhatsApp naar 0470 56 53 58, gebruik de chat of vul het formulier in. Binnen twee werkdagen bellen we je. Daarna zoeken we een klant die past bij je namiddagen. Meer lees je bij <a href=\"jobs/bijverdienen-als-student.html\">bijverdienen als student</a> en <a href=\"zondag-worden.html\">zondag worden</a>.",
+    "Een diploma of ervaring is niet nodig. Betrouwbaarheid en discretie tellen, samen met zin in orde en voldoende Nederlands om afspraken te maken."
    ]
   }
  ],
  "faq": [
   {
    "q": "Waar vind ik een studentenjob met flexibele uren in De Pinte?",
-   "a": "Bij Zondags. We zoeken studenten vanaf 18 jaar in en rond De Pinte voor werk overdag bij vaste klanten. Dagen en uren kies je mee rond je lessen. Solliciteren kan via het formulier, de chat of WhatsApp."
+   "a": "Bij Zondags. We zoeken in De Pinte, Zevergem en de regio Gent studenten voor werk overdag op weekdagen bij vaste bedrijfsklanten. Aanmelden kan via formulier, chat of WhatsApp."
   },
   {
-   "q": "Kan ik met maar twee vrije namiddagen per week werken?",
-   "a": "Ja, dat kan, als er klanten zijn die op die momenten hulp zoeken. Zeg in het eerste gesprek wanneer je vrij bent. Dan zoeken we klanten die daarbij passen en blijft je rooster daarna vast."
+   "q": "Kan ik echt maar twee namiddagen per week werken?",
+   "a": "Ja. Je kiest mee de dagen en uren en het rooster ligt daarna vast. Heb je meer tijd in de vakantie, dan breiden we uit."
   },
   {
-   "q": "Moet ik 's avonds of op zaterdag werken?",
-   "a": "Nee. Je werkt overdag op weekdagen. Vroeg in de ochtend of over de middag kan. 's Avonds en in het weekend plannen we nooit."
+   "q": "Wat als mijn thesis of examens mijn tijd opslorpen?",
+   "a": "Laat het ons tijdig weten. We stemmen je rooster af op je studie, en je klant wordt vooraf op de hoogte gebracht."
   },
   {
-   "q": "Is een studentenjob in het huishouden moeilijk als ik nog nooit gepoetst heb?",
-   "a": "Nee. We leggen alles uit en we gaan bij de start samen langs bij je klanten. In het zondagsplan staat wat er moet gebeuren, wanneer en hoe de klant het graag heeft."
+   "q": "Wie houdt mijn uren bij?",
+   "a": "Dat doe je zelf via Student@work. Zo heb je steeds zicht op je urensaldo als student."
   },
   {
-   "q": "Wie houdt mijn uren bij als student?",
-   "a": "Je volgt je urensaldo zelf op via Student@work. Je contract en je verloning regelen wij."
+   "q": "Voor wie werk ik?",
+   "a": "Voor bedrijven: kantoren, praktijken, winkels en bedrijfsleiders in de buurt. Je bent hun vaste Zondag."
   }
- ],
- "path": "werken/studentenjob-de-pinte.html"
+ ]
 }

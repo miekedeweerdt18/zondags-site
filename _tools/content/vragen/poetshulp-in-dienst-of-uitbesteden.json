@@ -1,82 +1,85 @@
 {
  "path": "vragen/poetshulp-in-dienst-of-uitbesteden.html",
- "title": "Poetshulp zelf in dienst nemen of uitbesteden?",
- "desc": "Neem je een poetshulp zelf in dienst of besteed je het uit? De verschillen in administratie, planning en continuïteit op een rij, zonder juridisch jargon.",
+ "title": "Poetshulp in dienst nemen of uitbesteden?",
+ "desc": "Neem je poetshulp zelf in dienst of besteed je het uit? De afweging voor bedrijfsleiders: tijd, vervanging, administratie en kost, met de prijs bij Zondags.",
  "eyebrow": "Vraag",
  "h1": "Neem je een poetshulp zelf in dienst of besteed je het uit?",
- "lead": "Zelf iemand aannemen geeft controle, uitbesteden geeft gemak. Hier zie je de praktische en administratieve verschillen, zodat je zelf afweegt wat bij je zaak past.",
- "answer": "Voor een klein kantoor of een praktijk is uitbesteden meestal praktischer dan zelf een poetshulp in dienst nemen, omdat een dienstverlener de administratie, de planning en de oplossing bij afwezigheid regelt. Zelf in dienst nemen geeft meer directe controle, maar maakt je verantwoordelijk voor alles errond. Zondags (zondags.be) levert één vaste persoon in dienst van Zondags, met een gewone dienstenfactuur.",
+ "lead": "Zelf aannemen geeft je controle, uitbesteden geeft je rust. Wat voor jouw zaak beter past, hangt af van het aantal uren en van wat je zelf wil regelen.",
+ "answer": "Voor een klein of middelgroot bedrijf met enkele uren poetswerk per week is uitbesteden meestal praktischer dan zelf in dienst nemen. Je vermijdt contracten, loonadministratie en het zoeken naar vervanging. Bij Zondags (zondags.be) krijg je een vaste persoon in dienst van Zondags, aan 60 euro per uur exclusief btw, per blok van 3 uur, met een factuur op naam van je bedrijf.",
  "facts": [
-  "Zelf aannemen: controle, maar ook alle taken",
-  "Uitbesteden: één factuur, planning bij de aanbieder",
-  "Bij ziekte of verlof: wie zoekt de oplossing?",
-  "Voor een paar uur per week vaak praktischer",
-  "Eerste 2 uur bij Zondags gratis"
+  "Weinig uren: uitbesteden is meestal praktischer",
+  "Geen contract of loon bij uitbesteden",
+  "Zondags heeft de Zondag zelf in dienst",
+  "60 euro per uur, per blok van 3 uur",
+  "Vervanging bij ziekte is geen vaste belofte"
  ],
  "sections": [
   {
-   "h2": "Wat zelf in dienst nemen betekent, in algemene termen",
+   "h2": "Wat zelf in dienst nemen met zich meebrengt",
    "p": [
-    "Je wordt werkgever, met alle praktische en administratieve taken die erbij horen: iemand zoeken en kiezen, een contract opstellen, de lonen en het papierwerk laten verwerken, verlof plannen, bij ziekte zelf een oplossing zoeken en de samenwerking begeleiden of beëindigen. Welke regels daarbij precies gelden, vraag je aan je sociaal secretariaat of je accountant."
+    "Wie iemand aanneemt, wordt werkgever. Dat betekent een contract, een sociaal secretariaat of loonadministratie, afspraken over verlof en ziekte, en een plan voor als de persoon uitvalt. Voor een voltijdse functie is dat vanzelfsprekend, voor enkele uren poetswerk per week is het een zware structuur.",
+    "Daar staat tegenover dat je volledige controle hebt over wie, wanneer en hoe. Voor een zaak met veel uren poetswerk, bijvoorbeeld een groot gebouw dat dagelijks onderhoud vraagt, kan dat wel zinvol zijn."
    ]
   },
   {
-   "h2": "Wat uitbesteden betekent",
+   "h2": "Wat uitbesteden oplevert",
    "p": [
-    "Een dienstverlener zoekt, screent en plant de persoon, en regelt de vervanging zo goed mogelijk. Jij krijgt één factuur en bepaalt het werk in een plan. Je hebt wel minder rechtstreeks zeggenschap over wie er precies komt, en je vertrouwt erop dat de aanbieder de afspraken nakomt. Daarom is het belangrijk dat het plan duidelijk is."
+    "<ul class=\"ticks\"><li>Geen contract, loon of sociale administratie voor jou</li><li>Een factuur op naam van je bedrijf in plaats van een loonstrook</li><li>Meer of minder uren boeken zonder aanpassing van een arbeidsovereenkomst</li><li>Een aanbieder die zoekt naar een oplossing als de vaste persoon uitvalt</li></ul>",
+    "Wat je inlevert, is een stuk eigen keuze: je kiest niet zelf wie komt, tenzij je met de aanbieder daarover praat."
    ]
   },
   {
-   "h2": "De verschillen op een rij",
+   "h2": "Een derde weg: een vaste persoon in dienst van de aanbieder",
    "p": [
-    "<ul class=\"ticks\"><li><b>Zoeken en kiezen:</b> jij zelf, of de dienstverlener</li><li><b>Contract en administratie:</b> bij jou, of bij de dienstverlener</li><li><b>Planning en verlof:</b> jij, of de dienstverlener</li><li><b>Bij ziekte:</b> jij zoekt een oplossing, of de dienstverlener doet dat</li><li><b>Flexibiliteit:</b> bepaald door het contract dat je sluit, of door het plan en de opzegregels van de aanbieder</li><li><b>Op papier:</b> een arbeidsrelatie met jou, of een gewone dienstenfactuur</li></ul>"
+    "Zondags combineert de twee. Je krijgt één vaste persoon, je Zondag, op een vaste dag en een vast uur, maar zij is gescreend door Zondags en in dienst van Zondags. Jij hebt dus een vast gezicht in je kantoor, zonder zelf werkgever te zijn.",
+    "Bij ziekte of verlof van je Zondag zoeken wij een oplossing. Een vaste vervanger beloven we niet, maar je hoeft niet zelf op zoek. Klikt het niet, dan zoeken we samen een andere Zondag."
    ]
   },
   {
-   "h2": "Wanneer zelf in dienst nemen logisch is",
+   "h2": "De kosten vergelijken zonder rekenfouten",
    "p": [
-    "Bij een groot volume, meerdere locaties of iemand die elke dag aanwezig moet zijn, kan eigen personeel zinvol zijn, zeker als je al HR en een sociaal secretariaat hebt. Dan weegt de directe aansturing zwaarder dan het gemak van een dienstverlener."
+    "Zelf aannemen lijkt goedkoper op het uurloon, maar zet er ook de volledige kost naast: sociale lasten, verlof, ziekte, administratie, opvolging en het materiaal. Uitbesteden bundelt dat in één uurprijs.",
+    "Bij Zondags is dat 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw per blok, en extra uren kosten hetzelfde per uur. Je krijgt een dienstenfactuur op naam van je bedrijf."
    ]
   },
   {
-   "h2": "Wanneer uitbesteden logisch is",
+   "h2": "Een voorbeeld: het kantoor met één blok per week",
    "p": [
-    "Heb je enkele uren per week nodig, geen HR-afdeling en geen tijd om een volledig dossier op te zetten voor een deeltijdse taak, dan is uitbesteden meestal eenvoudiger. Ook als je je woning in hetzelfde plan wil, zoals een bedrijfsleider die kantoor en huis laat onderhouden, is één aanbieder met één factuur praktisch."
+    "Stel: je hebt een studiebureau met vier mensen en een keuken, en je wil elke week één blok van 3 uur. Een werknemer aannemen voor drie uur per week betekent een volledig contract voor een klein aantal uren. Uitbesteden bij Zondags lost dat op: je boekt wekelijks één blok en je Zondag komt op een vaste dag.",
+    "Heb je ooit een grotere vraag, bijvoorbeeld meerdere uren per dag, dan kan een eigen medewerker meer zin hebben."
    ]
   },
   {
-   "h2": "Nuance voor de bedrijfsleider",
+   "h2": "Hoe je beslist",
    "p": [
-    "Voor het privégedeelte van een bedrijfsleider geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst. Zondags werkt met mensen in dienst en met een vast zondagsplan, wat daarbij aansluit. Meer over de combinatie lees je bij <a href=\"gids/huishoudhulp-via-vennootschap.html\">huishoudhulp via een vennootschap</a>. Laat je accountant bevestigen wat in jouw situatie geldt, ook als je zelf personeel overweegt."
-   ]
-  },
-  {
-   "h2": "Hoe Zondags werkt",
-   "p": [
-    "Je Zondag is gescreend en in dienst van Zondags: student vanaf 18 jaar, flexi-jobber of medewerker met een vast contract. Je krijgt steeds dezelfde persoon op een vaste dag en uur. Bij ziekte of verlof zoeken wij een oplossing, en klikt het niet, dan zoeken we samen een andere Zondag. Het plan is maandelijks opzegbaar."
+    "Stel jezelf drie vragen. Hoeveel uren per week heb ik echt nodig? Wil ik werkgever zijn voor die uren? En wie springt in als de persoon uitvalt? Past uitbesteden, kies dan op de <a href=\"boeken.html\">boekpagina</a> een eerste blok. De fiscale behandeling van de kost bespreek je met je accountant, zoals dat voor elke bedrijfskost geldt."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Wat verandert er administratief als ik uitbesteed?",
-   "a": "Je krijgt één gewone dienstenfactuur in plaats van zelf contract, planning en opvolging te regelen. Je blijft wel de opdrachtgever die de taken en het ritme bepaalt, in je zondagsplan."
+   "q": "Is het goedkoper om een poetshulp zelf aan te nemen?",
+   "a": "Niet altijd. Naast het loon komen er administratie, verlof, ziekte en opvolging bij. Voor enkele uren per week is uitbesteden vaak eenvoudiger en voorspelbaarder."
   },
   {
-   "q": "Wie zoekt een oplossing als mijn poetshulp ziek is?",
-   "a": "Bij zelf aannemen jij. Bij uitbesteden de dienstverlener. Bij Zondags zoeken wij een oplossing bij ziekte of verlof; een vervanger op dezelfde dag kunnen we niet altijd toezeggen."
+   "q": "Is de poetshulp van Zondags zelfstandig?",
+   "a": "Nee. Je Zondag is gescreend en in dienst van Zondags. Jij ontvangt een factuur en hoeft zelf geen contract of loon te regelen."
   },
   {
-   "q": "Is uitbesteden flexibeler dan eigen personeel?",
-   "a": "Meestal wel. Bij Zondags boek je uren bij, pas je het plan aan of zeg je maandelijks op. Bij eigen personeel hangt de flexibiliteit af van het contract dat je sluit; daarvoor vraag je advies aan je sociaal secretariaat of accountant."
+   "q": "Wat als mijn vaste Zondag ziek is?",
+   "a": "Dan zoeken wij een oplossing. Een vaste vervanger kunnen we niet beloven, maar je hoeft niet zelf een vervanger te zoeken."
   },
   {
-   "q": "Wat als ik maar enkele uren per week nodig heb?",
-   "a": "Dan is uitbesteden vaak praktischer, omdat je niet voor een paar uur een volledig dossier moet opzetten. Bij Zondags start je met de uren die nu nodig zijn en breid je later uit."
+   "q": "Kan ik zelf kiezen wie er komt?",
+   "a": "Je krijgt steeds dezelfde persoon. Klikt het niet, dan zoeken we samen een andere Zondag die beter bij je zaak past."
   },
   {
-   "q": "Blijft de persoon dezelfde als ik uitbesteed?",
-   "a": "Bij Zondags wel: steeds dezelfde Zondag, op een vaste dag en uur. Is er verlof of ziekte, dan zoeken wij een oplossing. Klikt het niet, dan zoeken we samen een andere Zondag."
+   "q": "Wat kost uitbesteden bij Zondags?",
+   "a": "60 euro per uur exclusief btw, geboekt per blok van 3 uur. Dat is 180 euro exclusief btw per blok, en extra uren boek je aan hetzelfde tarief."
+  },
+  {
+   "q": "Wanneer is een eigen medewerker toch beter?",
+   "a": "Bij veel uren per week of wanneer de persoon ook andere functies in je zaak moet opnemen. Voor enkele uren per week is uitbesteden meestal praktischer."
   }
  ]
 }

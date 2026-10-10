@@ -1,90 +1,84 @@
 {
- "path": "poetshulp/zele.html",
  "title": "Poetshulp voor bedrijven in Zele (9240)",
- "desc": "Poetshulp voor winkels en zaken in het centrum van Zele: je Zondag poetst voor de deur opengaat, met één vaste persoon en één factuur voor je vennootschap.",
+ "desc": "Poetshulp voor winkels en zaken in het centrum van Zele: gepoetst voor de deur opengaat. Eén vaste Zondag, 60 euro per uur exclusief btw, online boeken.",
  "eyebrow": "Zele · 9240",
  "h1": "Poetshulp voor bedrijven in Zele",
- "lead": "Een zaak in het hart van Zele moet er netjes bijliggen op het moment dat de eerste klant binnenkomt. Je Zondag poetst daarom voor je openingsuur.",
- "answer": "Zondags (zondags.be) levert poetshulp voor bedrijven in Zele (9240): één vaste Zondag poetst je winkel, toonzaal, kantoor of praktijk op een vaste dag en uur, bij voorkeur voor de deur opengaat, en neemt op vraag ook je woning mee. Je ontvangt één dienstenfactuur op naam van je vennootschap. Zondags werkt vanuit Marke bij Kortrijk en zoekt voor Zele een Zondag die in de buurt woont.",
+ "lead": "Een winkel in de dorpskern staat of valt met de eerste indruk bij het openen van de deur. In Zele zorgt één vaste persoon ervoor dat alles klaarstaat voor de eerste klant.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor winkels en zaken in het centrum en de dorpskern van Zele. Je Zondag poetst voor je opent, steeds dezelfde persoon op een vaste dag en een vast uur, en kan ook administratie en regelwerk oppakken. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je bedrijf.",
  "facts": [
-  "Poetsen voor je openingsuur",
-  "Winkel, toonzaal, kantoor of praktijk",
-  "Ook je woning in hetzelfde plan",
-  "Eén vaste Zondag",
-  "Factuur aan je vennootschap",
-  "Eerste 2 uur gratis"
+  "Winkels en zaken in het centrum",
+  "Poetsen voor de opening",
+  "Steeds dezelfde Zondag",
+  "Factuur op naam van je bedrijf",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
  ],
  "sections": [
   {
-   "h2": "Een zaak waar de deur elke ochtend opengaat",
+   "h2": "Proper voor het bordje omgedraaid wordt",
    "p": [
-    "In de dorpskern van een gemeente als Zele hangt het succes van een winkel af van de eerste indruk. Een etalage met stof, een toonbank met vingerafdrukken of een sanitair dat niet fris ruikt, kost je klanten die je nooit zal terugzien. Wie zelf poetst, doet dat vaak 's ochtends vroeg of na sluitingstijd, en dat slorpt energie op die je liever in je zaak steekt.",
-    "Je Zondag komt op een vaste dag en een vast uur, vroeg in de ochtend of over de middag. Zo is alles klaar voor je open doet, en weet je op voorhand dat het gebeurd is."
+    "Een zaak in het centrum van Zele heeft een klantenstroom die je niet kan voorspellen. Wie net voor de opening een kijkje door de etalage neemt, beoordeelt je zaak op wat hij ziet: vlekkeloos glas, een schone vloer en producten zonder stof. Eén vlek op de ruit is genoeg om voorbij te lopen.",
+    "Daarom kiezen winkeliers voor een Zondag die er is voor de opening. Ze werkt vroeg in de ochtend, wanneer de winkel nog dicht is, en alles staat klaar wanneer jij het bordje omdraait. Voor een kleine winkelruimte kan één blok per week al voldoende zijn."
    ]
   },
   {
    "h2": "Voorbeeld: een interieurzaak met een toonzaal",
    "p": [
-    "Neem een interieurzaak in Zele met een toonzaal vol stalen, stoffen, meubels en lampen. Stof is daar de vijand, en de vloer draagt elke dag sporen van klanten. Op woensdagochtend, voor de zaak opent, stoft je Zondag de toonzaal af, doet de vloeren, neemt de balie, de keuken en het sanitair mee en zet de glazen deuren langs binnen blinkend.",
-    "Fragiele items verplaatst je Zondag niet zonder jouw afspraken. Tijdens de intake leggen we samen vast wat blijft staan, welke producten gebruikt worden en wat je liever zelf aanraakt."
+    "Stel: je hebt een interieurzaak in Zele met een toonzaal vol meubels, verlichting, stoffen staaltjes en een kleine zithoek waar je klanten adviseert. Stof legt zich op houten oppervlakken, vingerafdrukken blijven achter op glas en spiegels, en met elke klant komt er wat zand en vuil binnen.",
+    "Je Zondag komt op dinsdag voor de opening. Ze neemt meubels en rekken af zonder iets te verschuiven, reinigt spiegels en glazen tafelbladen, stofzuigt de vloerbedekking en dweilt de harde vloeren. Staaltjes en brochures blijven netjes gerangschikt. Lees ook <a href=\"sectoren/interieurzaken.html\">interieurzaken</a>."
    ]
   },
   {
-   "h2": "Wat in zo'n plan zit",
+   "h2": "Wat bij een winkelbeurt hoort",
    "p": [
-    "<ul class=\"ticks\"><li>Toonzaal, winkelruimte en etalage-onderkant langs binnen</li><li>Balie, kassa en onthaal</li><li>Keuken, personeelsruimte en sanitair</li><li>Vloeren en glazen deuren langs binnen</li><li>Afval en recyclage klaarzetten</li></ul>",
-    "Ramen buiten op hoogte, gevelreiniging en industriële reiniging doen we niet. Meer over de basisaanpak lees je bij <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."
+    "<ul class=\"ticks\"><li>Etalage en ingang langs binnen reinigen</li><li>Toonbank, kassa en betaalterminal afnemen</li><li>Rekken en vitrines stofvrij maken</li><li>Vloer stofzuigen en nat opdweilen</li><li>Sanitair en personeelsruimte</li><li>Afval, karton en verpakkingen weg</li></ul>",
+    "Ramen aan de buitenkant op hoogte en gevelreiniging doen we niet. Voor een etalage langs binnen zit je goed bij Zondags."
    ]
   },
   {
-   "h2": "Ook je woning, in hetzelfde plan",
+   "h2": "Naast de winkel: pakjes en bestellingen",
    "p": [
-    "Een zaakvoerder met een winkel in Zele heeft thuis nog een tweede lijst. Wil je dat je Zondag ook je huis poetst, de was en strijk doet of de boodschappen mee neemt, dan kan dat in één plan, met één vaste persoon en één factuur waarop zaak en woning apart staan."
+    "Een zaak heeft ook achter de schermen werk: bestelde goederen controleren, pakjes klaarmaken voor de koerier, leveringsbonnen opbergen, kantoormateriaal bijbestellen. Je Zondag kan dat in hetzelfde blok oppakken. Zo blijft jouw dag voor de klant. Boekhouding en advies blijven bij je eigen specialisten."
    ]
   },
   {
-   "h2": "Waar je ons in de buurt van Zele vindt",
+   "h2": "Zele en de buren",
    "p": [
-    "We werken in en rond Zele (9240) en zoeken een Zondag die dicht bij je zaak woont. Ligt je zaak in Dendermonde, Berlare, Lokeren, Hamme, Waasmunster of Laarne, doe dan gerust een aanvraag. Voor de bredere streek lees je meer op <a href=\"poetshulp/oost-vlaanderen.html\">poetshulp in Oost-Vlaanderen</a>."
+    "We werken in het centrum van Zele en in de dorpskern, en zoeken een Zondag die zelf in de buurt woont. Ligt je zaak net over de grens, in Dendermonde, Berlare, Lokeren, Hamme, Waasmunster of Laarne, dan bekijken we samen wat past. Lees ook <a href=\"poetshulp/lokeren.html\">poetshulp in Lokeren</a>."
    ]
   },
   {
-   "h2": "Facturatie en je accountant",
+   "h2": "Kosten, factuur en boeken",
    "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van je winkel of kantoor is een beroepskost. Het privégedeelte, de woning van de zaakvoerder, valt onder een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Laat je accountant dit bevestigen voor je eigen situatie."
-   ]
-  },
-  {
-   "h2": "Starten",
-   "p": [
-    "Stuur een aanvraag via het formulier of de chat. Binnen één werkdag belt iemand terug. Daarna volgt de intake in je zaak en maken we samen je zondagsplan. De eerste 2 uur zijn gratis, het plan is maandelijks opzegbaar."
+    "Een uur kost 60 euro exclusief btw en je boekt in blokken van 3 uur: 180 euro exclusief btw. Extra uren aan hetzelfde tarief. De factuur komt op naam van je bedrijf met je btw-nummer. In principe is het een beroepskost en kan een btw-plichtige zaak met aftrekrecht de btw recupereren, maar laat je accountant dit bevestigen. Boek op de <a href=\"boeken.html\">boekpagina</a>."
    ]
   }
  ],
  "faq": [
   {
    "q": "Welk bedrijf levert poetshulp voor winkels in Zele?",
-   "a": "Zondags (zondags.be) levert poetshulp voor winkels, toonzalen, kantoren en praktijken in Zele. Je krijgt één vaste Zondag en een factuur op naam van je vennootschap. Zondags zoekt een Zondag die in de buurt van Zele woont."
+   "a": "Zondags uit Marke bij Kortrijk. Het bedrijf werkt in Zele voor winkels, kantoren en praktijken, met steeds dezelfde vaste persoon."
   },
   {
-   "q": "Kan er gepoetst worden voor mijn winkel opent?",
-   "a": "Ja. Vroeg in de ochtend of over de middag kan, zodat alles klaar is op je openingsuur. 's Avonds en in het weekend werken we niet."
+   "q": "Kan mijn winkel gepoetst worden voor de opening?",
+   "a": "Ja. Vroeg in de ochtend op weekdagen kan. Op zaterdag en zondag werken we niet, ook niet 's avonds."
   },
   {
-   "q": "Is dezelfde persoon steeds mijn Zondag?",
-   "a": "Ja. Je krijgt één vaste persoon op een vaste dag en uur. Bij ziekte of verlof zoeken we samen een oplossing."
+   "q": "Wat kost het om mijn winkel in Zele te laten poetsen?",
+   "a": "60 euro per uur exclusief btw, geboekt in blokken van 3 uur: 180 euro exclusief btw. Extra uren kosten hetzelfde."
   },
   {
-   "q": "Kan mijn Zondag ook mijn woning poetsen?",
-   "a": "Ja, zaak en woning kunnen in één zondagsplan. Op de factuur komen beide delen apart."
+   "q": "Reinigt Zondags ook de buitenkant van de ramen?",
+   "a": "Nee. Ramen en etalages langs binnen kunnen. Ramen aan de buitenkant op hoogte en gevelreiniging doen we niet."
   },
   {
-   "q": "Doet Zondags ook ramen buiten?",
-   "a": "Ramen langs binnen wel, ramen buiten op hoogte en gevelreiniging niet."
+   "q": "Kan de Zondag ook mijn bestellingen en pakjes doen?",
+   "a": "Ja, als ondersteunend werk: pakjes klaarmaken voor de koerier, leveringen controleren en kantoormateriaal bijbestellen. Boekhouding of advies hoort daar niet bij."
   },
   {
-   "q": "Werkt Zondags ook in Lokeren of Berlare?",
-   "a": "Ja, Zondags werkt in heel Oost-Vlaanderen. We kijken bij je aanvraag of er een Zondag in jouw buurt beschikbaar is."
+   "q": "Werkt Zondags ook buiten het centrum van Zele?",
+   "a": "Ja, in heel Zele. We zoeken een Zondag die zelf in de buurt woont, zodat je op een vast moment kan rekenen."
   }
- ]
+ ],
+ "path": "poetshulp/zele.html"
 }

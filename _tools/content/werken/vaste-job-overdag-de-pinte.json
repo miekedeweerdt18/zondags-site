@@ -1,79 +1,37 @@
 {
- "title": "Vaste job overdag in De Pinte, werken in de buitenlucht",
- "desc": "Liefst buiten bezig met tuin en terras? Vaste job overdag zonder weekends in De Pinte, met vast contract bij Zondags. Solliciteer via het formulier.",
- "eyebrow": "Vaste job overdag · De Pinte",
+ "path": "werken/vaste-job-overdag-de-pinte.html",
+ "title": "Vaste job overdag zonder weekends in De Pinte",
+ "desc": "Een vaste job in De Pinte voor wie liever actief bezig is dan achter een bureau zit. Overdag, op weekdagen, zonder weekends. Solliciteer bij Zondags.",
+ "eyebrow": "Vaste job · De Pinte · 9840",
  "h1": "Vaste job overdag zonder weekends in De Pinte",
- "lead": "Tuin, terras en frisse lucht, met een vast contract en een rooster dat stopt voor het weekend. In De Pinte is dat een job als Zondag.",
- "answer": "Zondags (zondags.be) zoekt mensen in en rond De Pinte voor een vaste job overdag op weekdagen, zonder avonden en weekends. Je werkt met een vast contract, deeltijds of voltijds, bij vaste klanten. Wie graag buiten bezig is, kan taken in tuin en terras opnemen naast andere taken. Je verloning ligt boven het barema en je verplaatsingen worden vergoed.",
- "facts": [
-  "Vast contract, deeltijds of voltijds",
-  "Overdag op weekdagen",
-  "Tuin en terras (licht werk)",
-  "Nooit 's avonds of in het weekend",
-  "Verplaatsingen vergoed"
- ],
+ "lead": "Een job waarin je in beweging blijft, zonder kantoorstoel en zonder weekendwerk. In De Pinte kan dat met een vast contract als Zondag, bij vaste klanten die bedrijven zijn.",
+ "answer": "Zondags (zondags.be) zoekt in De Pinte en omgeving mensen voor een vast contract overdag, deeltijds of voltijds, zonder avonden en weekends. Als Zondag werk je actief: je poetst kantoren, praktijken en winkels, regelt praktische klusjes voor een bedrijfsleider en ondersteunt eenvoudig administratief werk. Je blijft zelden lang op dezelfde plaats. Je bent in dienst van Zondags, krijgt verloning boven het barema en kiest mee je dagen en uren.",
+ "facts": ["Vast contract, deeltijds of voltijds", "Actief werk, geen bureaujob", "Overdag, nooit 's avonds of in het weekend", "Verloning boven het barema", "Verplaatsingen vergoed"],
  "sections": [
-  {
-   "h2": "Stel: je werkt liever buiten dan binnen",
-   "p": [
-    "Stel dat je niet gemaakt bent voor een kantoor. Je bent graag buiten bezig: gras maaien, een border opruimen, een terras schoonmaken voor de eerste zonnige dag. Na een lange winter weet je precies wat een tuin nodig heeft.",
-    "Een vaste job waar dat een deel van je week is, klinkt dan aantrekkelijk. Het hoeft niet het enige te zijn. Veel Zondags doen buiten en binnen werk, afhankelijk van het seizoen en van wat de klant nodig heeft."
-   ]
-  },
-  {
-   "h2": "Wat buiten werken bij Zondags betekent",
-   "p": [
-    "We doen licht onderhoud van tuin, gras en terras. Dat is iets anders dan landschapswerk of snoeien op hoogte. Het gaat om gras, onkruid, planten, een terras vegen en de tuinmeubelen buiten zetten.",
-    "Als het regent of vriest, ga je naar binnen: strijk, boodschappen of een kantoor onderhouden. Zo heb je een volle week, ook als het weer niet meewerkt."
-   ]
-  },
-  {
-   "h2": "Een voorbeeldweek",
-   "p": [
-    "Neem een week in het voorjaar. Op maandag doe je bij een gezin de tuin en het terras. Op dinsdag poets je een kleine praktijk. Op woensdag haal je boodschappen en leg je schotels klaar. Op donderdag ben je weer buiten bij een andere klant, en op vrijdag hou je je voor strijk en regelwerk. Alles overdag, op weekdagen."
-   ]
-  },
-  {
-   "h2": "Vast contract, met zekerheid",
-   "p": [
-    "Een vaste job betekent een vast contract bij Zondags, deeltijds of voltijds. Het kan ook enkel binnen de schooluren, handig voor ouders. Je weet dus vooraf waar je aan toe bent, ook voor de maanden die komen. Alles staat correct op papier, je verloning ligt boven het barema en je verplaatsingen worden vergoed.",
-    "Voor wie na een tijd opnieuw wil beginnen of van een andere sector komt, is dat een stabiele start. Bekijk ook <a href=\"jobs/vaste-job-flexibele-uren.html\">de pagina over vaste jobs</a>."
-   ]
-  },
-  {
-   "h2": "De Pinte en omgeving",
-   "p": [
-    "De Pinte heeft postcode 9840 en Zevergem hoort erbij. We zoeken Zondags in en rond De Pinte, ook in de richting van Gent, Nazareth, Sint-Martens-Latem, Merelbeke en Gavere. Woon je net buiten De Pinte, dan kijken we naar klanten dicht bij je thuis."
-   ]
-  },
-  {
-   "h2": "Solliciteren",
-   "p": [
-    "Gebruik het formulier, de chat of WhatsApp op 0470 56 53 58. Binnen twee werkdagen bellen we je voor een kort gesprek. Klikt het, dan zoeken we klanten die bij je uren en je voorkeur passen. Bij de start gaan we samen langs en krijgt elke klant een zondagsplan met taken, uren en afspraken."
-   ]
-  }
+  {"h2": "Voor wie stilzitten niet lukt", "p": [
+   "Neem iemand die na een lange dag achter een scherm altijd merkt dat het lichaam eigenlijk wil bewegen. Papierwerk is prima, maar acht uur aan een stuk op dezelfde stoel is te veel. Zo iemand zoekt een job met afwisseling: een beetje stappen, een beetje denken, een beetje tillen, en vooral geen saaie dagen.",
+   "Dat is precies wat het werk van een Zondag oplevert. Je poetst, je ordent, je haalt een pakje af, je zet een vergaderzaal klaar. Niemand zit je op de vingers, want je kent je taken en je klant rekent op je."]},
+  {"h2": "Een dag die niet op de vorige lijkt", "p": [
+   "Een voorbeelddag: je begint vroeg in een kantoor en maakt bureaus, keuken en sanitair in orde. Tegen de middag ben je in een winkel, waar je vloeren en passeerzone onderhoudt. In de namiddag loop je bij een bedrijfsleider langs om pakjes klaar te maken en kantoormateriaal bij te bestellen.",
+   "Zo wissel je beweging af met rustiger werk. Je blijft niet de hele dag op één plaats, maar je werkt ook niet zonder structuur. Elke klant heeft een zondagsplan met taken, uren en afspraken."]},
+  {"h2": "Wat bij je contract hoort", "p": [
+   "<ul class=\"ticks\"><li>Een vast contract bij Zondags, deeltijds of voltijds</li><li>Alles correct in orde op papier</li><li>Verloning boven het barema</li><li>Verplaatsingen naar je klanten vergoed</li><li>Dagen en uren die je mee kiest</li></ul>",
+   "Technische klussen en werken op hoogte doen we niet, en je werkt enkel in bedrijfsruimtes. Je klanten zijn altijd bedrijven: kantoren, praktijken, winkels en bedrijfsleiders in de buurt."]},
+  {"h2": "Je kiest wat je graag doet", "p": [
+   "Hou je vooral van poetsen, dan bouwen we je week daarrond. Vind je het fijn om ook dossiers te ordenen of pakjes klaar te maken, dan schuift er administratief en praktisch werk bij. Wie liever niet lang achter een bureau zit, kiest een mix waarin poetsen en rondlopen de hoofdrol spelen en het papierwerk een kleinere plaats krijgt.",
+   "Je spreekt dat open af in het eerste gesprek. Past iets niet meer, dan bespreken we het en zoeken we een andere invulling of een andere klant."]},
+  {"h2": "In en rond De Pinte", "p": [
+   "We zoeken Zondags in De Pinte (9840), waaronder Zevergem. Woon je in Gent, Nazareth, Sint-Martens-Latem, Merelbeke of Gavere, dan zoeken we klanten dicht bij je woonplaats, zodat je verplaatsingen kort blijven. Een lijst van vacatures bij een bepaald adres hebben we niet. We zoeken gewoon mensen in de regio Gent.",
+   "Een buur uit Sint-Martens-Latem kan eens kijken naar <a href=\"werken/vaste-job-overdag-sint-martens-latem.html\">de vaste job in Sint-Martens-Latem</a>."]},
+  {"h2": "Solliciteren in een paar minuten", "p": [
+   "Vul het formulier in, start de chat of stuur een WhatsApp naar 0470 56 53 58. Dat nummer is elke dag bereikbaar van 6 tot 22 uur. We bellen je binnen de twee werkdagen voor een kort gesprek. Klikt het, dan zoeken we klanten die bij je passen en gaan we bij de start samen langs. Ook meer lezen kan, op <a href=\"zondag-worden.html\">zondag worden</a> en op <a href=\"jobs/vaste-job-flexibele-uren.html\">vaste job met flexibele uren</a>."]}
  ],
  "faq": [
-  {
-   "q": "Is er een vaste job overdag zonder weekends in De Pinte?",
-   "a": "Zondags zoekt mensen in en rond De Pinte voor een vaste job overdag op weekdagen. Je krijgt een vast contract, deeltijds of voltijds, en werkt nooit 's avonds of in het weekend."
-  },
-  {
-   "q": "Kan ik vooral buiten werken?",
-   "a": "Tuin, gras en terras maken deel uit van het werk, maar het is licht onderhoud. In de winter of bij slecht weer vul je de week aan met binnenwerk."
-  },
-  {
-   "q": "Heb ik een diploma nodig?",
-   "a": "Nee. Betrouwbaarheid, discretie en zorg voor andermans huis tellen. Je krijgt uitleg en we gaan samen langs bij je klanten."
-  },
-  {
-   "q": "Kan ik deeltijds werken?",
-   "a": "Ja. Een vast contract kan deeltijds of voltijds. Je kiest mee je dagen en uren, ook als je enkel binnen de schooluren wil werken."
-  },
-  {
-   "q": "Werk ik ook op zaterdag?",
-   "a": "Nee. Je werkt overdag op weekdagen. Vroeg in de ochtend of over de middag kan, avonden en weekends nooit."
-  }
- ],
- "path": "werken/vaste-job-overdag-de-pinte.html"
+  {"q": "Waar vind ik een vaste job overdag in De Pinte zonder bureauwerk?", "a": "Bij Zondags solliciteer je voor een vast contract overdag in en rond De Pinte. Het werk is afwisselend: poetsen, praktisch regelwerk en wat administratie, bij vaste bedrijven als klant. Je neemt contact op via het formulier, de chat of WhatsApp."},
+  {"q": "Is het werk zwaar?", "a": "Het is actief werk, maar geen industriële reiniging en geen werken op hoogte. Je poetst kantoren, praktijken en winkels. Past een taak niet bij jou, dan bespreken we dat en zoeken we een andere invulling."},
+  {"q": "Kan ik voltijds werken zonder weekends?", "a": "Ja. Het contract kan voltijds of deeltijds zijn en je werkt altijd overdag op weekdagen. Avonden en weekends zijn uitgesloten."},
+  {"q": "Moet ik zelf een voertuig hebben?", "a": "Je verplaatst je tussen je klanten en die verplaatsingen worden vergoed. We zoeken klanten dicht bij je woonplaats. Wat voor jou het handigst is, bespreken we in het eerste gesprek."},
+  {"q": "Wie zijn mijn klanten?", "a": "Altijd bedrijven: kantoren, praktijken, winkels en drukke bedrijfsleiders. Je komt telkens bij dezelfde klanten en leert hun zaak kennen. Je klanten zijn dus nooit individuele personen."},
+  {"q": "Hoe snel hoor ik iets na mijn sollicitatie?", "a": "We bellen je binnen de twee werkdagen voor een kort gesprek. Daarin bespreken we je dagen, uren en wat je graag doet."}
+ ]
 }

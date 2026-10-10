@@ -1,80 +1,34 @@
 {
  "path": "werken/studentenjob-wevelgem.html",
- "title": "Studentenjob in Wevelgem met flexibele uren",
- "desc": "Studentenjob in Wevelgem, Gullegem of Moorsele: vrije voor- of namiddagen invullen bij vaste klanten, zonder avonden en weekends. Solliciteer bij Zondags.",
- "eyebrow": "Studentenjob · Wevelgem",
+ "title": "Studentenjob met flexibele uren in Wevelgem",
+ "desc": "Studentenjob in Wevelgem bij bedrijven overdag. Werk je in ploegen en heb je vrije voormiddagen, dan bekijken we samen welk statuut past.",
+ "eyebrow": "Studentenjob · Wevelgem · 8560",
  "h1": "Studentenjob met flexibele uren in Wevelgem",
- "lead": "Lessen die wisselen van week tot week, en een job die daar rekening mee houdt. In Wevelgem werk je als Zondag op de momenten die jij vrij hebt, altijd overdag.",
- "answer": "Zondags (zondags.be) zoekt studenten vanaf 18 jaar voor een studentenjob in Wevelgem, Gullegem en Moorsele. Je werkt overdag op weekdagen bij vaste klanten, op de voor- of namiddagen die je lessenrooster openlaat. Je krijgt een studentencontract, volgt je urensaldo zelf op via Student@work en kiest samen met ons wat je graag doet. Solliciteren kan via het formulier, de chat of WhatsApp.",
- "facts": [
-  "Voor studenten vanaf 18 jaar",
-  "Vrije voor- of namiddagen invullen",
-  "Ook alleen in de vakanties",
-  "Geen avonden, geen weekends",
-  "Eén vast rooster per klant"
- ],
+ "lead": "Stel: je werkt in ploegen en hebt in bepaalde weken vrije voormiddagen. Dat zijn precies de uren waarop veel bedrijven in Wevelgem een vaste Zondag kunnen gebruiken.",
+ "answer": "Zondags (zondags.be) zoekt in en rond Wevelgem Zondags voor werk overdag op weekdagen bij bedrijven: kantoren, praktijken, winkels en bedrijfsleiders. De studentenjob met flexibele uren is bedoeld voor studenten vanaf 18 jaar. Werk je in ploegen, dan is een studentencontract niet vanzelfsprekend. In het eerste gesprek bekijken we samen welk statuut past en hoe een rooster met wisselende weken te combineren valt met vaste klanten.",
+ "facts": ["Studentenjob: voor studenten vanaf 18 jaar", "Ploegwerk? Statuut bekijken we samen", "Voormiddagen of namiddagen mogelijk", "Klanten zijn bedrijven in en rond Wevelgem", "Nooit avonden, nooit weekends", "Verplaatsingen vergoed"],
  "sections": [
-  {
-   "h2": "Als je rooster elke week anders is",
-   "p": [
-    "Stel: je bent een ploegarbeider met vrije voormiddagen in bepaalde weken. Zo iemand wil werk dat zich naar een wisselend schema plooit. Ben je geen student, dan kan <a href=\"werken/flexi-job-wevelgem.html\">flexi-job of bijverdienen in Wevelgem</a> beter passen. Het principe is dezelfde als voor een student met een lessenrooster dat per semester verandert.",
-    "Eens we samen een vast patroon gevonden hebben, ligt je rooster bij die klant vast. Verandert je rooster op school, dan praat je dat met ons door voor je het zelf probeert op te lossen.",
-    "Zo weet de klant waar hij aan toe is en weet jij wanneer je een vrije dag hebt. Een job die je lessen of je ploegen niet in de weg zit, houd je ook langer vol."
-   ]
-  },
-  {
-   "h2": "Voor wie zoeken we een Zondag",
-   "p": [
-    "We zoeken jonge mensen van 18 jaar of ouder die rustig, discreet en betrouwbaar zijn. Een diploma of ervaring is niet nodig. Wat wel telt: je komt afspraken na, je gaat met andermans spullen zorgvuldig om en je kunt je Nederlands gebruiken om iets te vragen of te melden."
-   ]
-  },
-  {
-   "h2": "Taken die studenten vaak kiezen",
-   "p": [
-    "<ul class=\"ticks\"><li>Strijk en was bij een gezin</li><li>Een kantoor of praktijk afnemen</li><li>Boodschappen en regelwerk, zoals de apotheek of de droogkuis</li><li>Een hond uitlaten</li><li>Kinderen ophalen van school en opvangen</li></ul>",
-    "Je kiest mee wat je graag doet. Niet iedereen wil poetsen, en dat hoeft ook niet."
-   ]
-  },
-  {
-   "h2": "Een voorbeeldweek in Wevelgem",
-   "p": [
-    "Neem een student met lessen vooral op maandag en woensdag. Op dinsdagvoormiddag poets je in de woning van een ondernemersgezin. Op donderdag over de middag doe je boodschappen voor een koppel dat veel weg is. In de zomer vul je meer dagen, omdat de lessen dan stilvallen. Dat patroon blijft, week na week, bij dezelfde mensen."
-   ]
-  },
-  {
-   "h2": "Contract, loon en verplaatsingen",
-   "p": [
-    "Je werkt met een studentencontract. Het urensaldo volg je zelf op via Student@work. Je verloning ligt boven het barema, je verplaatsingen zijn vergoed en alles staat correct op papier.",
-    "Je bent in dienst van Zondags, niet zelfstandig. Dat betekent dat je niet zelf klanten hoeft te zoeken, geen facturen schrijft en geen ruzie hoeft te maken over wie wat betaalt. Je concentreert je op het werk en op je studies."
-   ]
-  },
-  {
-   "h2": "Gullegem, Moorsele en de buurt",
-   "p": [
-    "Gullegem en Moorsele zijn deelgemeenten van Wevelgem, postcode 8560. We zoeken Zondags in en rond Wevelgem, ook in de richting van Kortrijk, Menen, Ledegem, Lauwe en Bissegem. Lees ook over <a href=\"jobs/huishoudhulp-wevelgem.html\">huishoudhulp in Wevelgem</a>. Klaar om te starten? Meld je aan via het formulier of <a href=\"zondag-worden.html\">lees hoe je Zondag wordt</a>."
-   ]
-  }
+  {"h2": "Ploegwerk en een vaste klant, kan dat samen?", "p": [
+   "Wie in ploegen werkt, heeft geen vast ritme. Een vroege week wordt gevolgd door een late week, en alleen in bepaalde weken blijven de voormiddagen vrij. Een bijbaan met vaste dagen en uren lijkt dan moeilijk, maar het kan wel als de afspraken goed zijn. Bij Zondags kies je mee je dagen en uren, en we zoeken klanten die passen bij de weken dat jij beschikbaar bent.",
+   "Dat is een gesprek, geen standaardformulier. Zeg in het begin welke weken er over zijn en op welke uren."]},
+  {"h2": "Over het statuut zijn we eerlijk", "p": [
+   "Een studentencontract is voor studenten. Heb je een hoofdjob in ploegen, dan is dat meestal niet het statuut dat bij je past. Welk statuut wel kan, hangt af van je eigen situatie. Dat bekijken we samen in het eerste gesprek. Past een studentencontract niet, dan zoeken we een statuut dat wel past. Een overzicht van wat er bestaat vind je op <a href=\"jobs/werken-met-flexibele-uren.html\">werken met flexibele uren</a>."]},
+  {"h2": "Een weekplanning om te zien hoe het werkt", "p": [
+   "Neem de volgende situatie. In week één werk je vroege ploegen en zijn je namiddagen vrij. In week twee heb je late ploegen en zijn je voormiddagen vrij. Je spreekt met ons af dat je in de vrije voormiddagen werkt bij een klant waar een Zondag om negen uur welkom is, en dat je in de andere weken bij een tweede klant werkt in de namiddag.",
+   "Zo heb je twee vaste klanten, elk met een eigen zondagsplan. Het rooster blijft vast, ook al wisselt je hoofdwerk."]},
+  {"h2": "Wat je bij bedrijven doet", "p": [
+   "<ul class=\"ticks\"><li>Een kantoor, winkel of praktijk poetsen</li><li>De refter en keuken verzorgen</li><li>Post sorteren en documenten klasseren</li><li>Pakjes en zendingen klaarmaken</li><li>Een bedrijfsleider helpen met kleine boodschappen en regelwerk</li></ul>",
+   "Je werkt nooit 's avonds of in het weekend, en nooit in een productiehal. Industriële reiniging en technische klussen horen er niet bij."]},
+  {"h2": "Wevelgem, Gullegem en Moorsele", "p": [
+   "Wevelgem heeft postcode 8560, met Gullegem en Moorsele als deelgemeenten. We zoeken Zondags in en rond Wevelgem, ook in Kortrijk, Menen, Ledegem, Lauwe en Bissegem. Werk je voor je hoofdjob in de buurt, dan kijken we of een klant op jouw route ligt, zodat je verplaatsingen kort blijven en vergoed worden."]},
+  {"h2": "Hoe je solliciteert", "p": [
+   "Stuur het formulier in, gebruik de chat of schrijf via WhatsApp naar 0470 56 53 58. Binnen de twee werkdagen bellen we je. Neem je ploegschema mee in je hoofd of op papier, dan zien we meteen wat mogelijk is. Lees ook <a href=\"zondag-worden.html\">hoe je Zondag wordt</a>."]}
  ],
  "faq": [
-  {
-   "q": "Waar vind ik een studentenjob met flexibele uren in Wevelgem?",
-   "a": "Zondags zoekt studenten vanaf 18 jaar in en rond Wevelgem, Gullegem en Moorsele. Je werkt overdag bij vaste klanten en geeft door op welke momenten je vrij bent."
-  },
-  {
-   "q": "Mijn lessenrooster verandert elk semester. Is dat een probleem?",
-   "a": "Nee. Je geeft het nieuwe rooster door en we bekijken samen of je klanten dezelfde dagen kunnen houden. Soms stemmen we een klant opnieuw af."
-  },
-  {
-   "q": "Kan ik enkel in de zomer werken?",
-   "a": "Ja, dat kan. Dan zoeken we klanten die tijdens de vakantie hulp nodig hebben, bijvoorbeeld voor kinderen, de tuin of het huishouden."
-  },
-  {
-   "q": "Heb ik een eigen vervoermiddel nodig?",
-   "a": "We zoeken klanten in de buurt van je woonplaats. Verplaatsingen worden vergoed. Bespreek je mogelijkheden in het eerste gesprek, dan houden we daar rekening mee."
-  },
-  {
-   "q": "Hoe snel hoor ik iets na mijn sollicitatie?",
-   "a": "We bellen je binnen de twee werkdagen voor een kort gesprek. Daarna zoeken we klanten die passen bij je uren en je voorkeuren."
-  }
+  {"q": "Waar vind ik een studentenjob met flexibele uren in Wevelgem?", "a": "Bij Zondags. We zoeken studenten vanaf 18 jaar in en rond Wevelgem voor werk overdag op weekdagen bij bedrijven. Je solliciteert via het formulier, de chat of WhatsApp."},
+  {"q": "Kan ik bijwerken als ik in ploegen werk?", "a": "Dat kan, afhankelijk van je situatie. We bekijken in het eerste gesprek je schema en je statuut. Een studentencontract is voor studenten, dus voor jou zoeken we een statuut dat wel past."},
+  {"q": "Wat als mijn schema elke week verandert?", "a": "Dan maken we afspraken per weektype, bijvoorbeeld voormiddagen in de ene week en namiddagen in de andere. Hoe vast je rooster precies is, bespreken we in het gesprek."},
+  {"q": "Moet ik 's avonds werken?", "a": "Nee. Zondags werkt enkel overdag op weekdagen. Vroeg in de ochtend of over de middag kan, 's avonds en in het weekend nooit."},
+  {"q": "Werk ik in een fabriek of productiehal?", "a": "Nee. Je klanten zijn kantoren, praktijken, winkels en bedrijfsleiders. Productiehallen en industriële reiniging horen niet bij het werk."}
  ]
 }

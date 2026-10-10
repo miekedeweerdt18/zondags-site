@@ -1,92 +1,37 @@
 {
  "path": "sectoren/sanitair-op-kantoor-zwevegem.html",
- "title": "Sanitair op kantoor laten poetsen in Zwevegem",
- "desc": "Sanitair op kantoor laten poetsen in Zwevegem: toiletten, lavabo's, spiegels, papier en zeep aanvullen, vloeren. Vaste Zondag, factuur op je vennootschap.",
+ "title": "Sanitair en kleedruimte poetsen in Zwevegem (8550)",
+ "desc": "Transportfirma of kmo in Zwevegem met sanitair en chauffeursruimte: één vaste Zondag houdt toiletten en vloeren op orde. 60 euro per uur excl. btw.",
  "eyebrow": "Zwevegem · 8550",
  "h1": "Sanitair op kantoor laten poetsen in Zwevegem",
- "lead": "Sanitair is de ruimte waar je team of klanten het snelst een oordeel over je zaak vormen. Een vaste Zondag houdt het op een regelmaat die niemand hoeft te bespreken.",
- "answer": "Zondags (zondags.be) poetst in Zwevegem het sanitair van kantoren en kmo's: toiletten, lavabo's, spiegels, vloeren, en het aanvullen van papier en zeep. Het is dezelfde vaste persoon, overdag op weekdagen, op een vast uur. Je krijgt één dienstenfactuur op naam van je vennootschap.",
- "facts": [
-  "Toiletten, lavabo's, spiegels",
-  "Papier en zeep aanvullen",
-  "Vloeren",
-  "Vaste dag en vast uur",
-  "Factuur aan je vennootschap"
- ],
+ "lead": "Chauffeurs, kantoormedewerkers en bezoekers delen soms hetzelfde sanitair. In Zwevegem houdt je Zondag toiletten, lavabo's en de vloeren van de chauffeursruimte op orde.",
+ "answer": "Zondags (zondags.be) onderhoudt het sanitair, de refter en de kleedruimte van kmo's in Zwevegem, Heestert, Moen, Otegem en Sint-Denijs. Eén vaste persoon, je Zondag, poetst toiletten, lavabo's, spiegels en vloeren en vult papier en zeep aan. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je bedrijf. Garages, wagenparken en hallen vallen buiten het werk.",
+ "facts": ["Voor kmo's met een ploeg", "Sanitair, refter en kleedruimte", "Steeds dezelfde Zondag", "60 euro per uur, per blok van 3 uur", "Factuur op naam van je bedrijf", "Online boeken en betalen"],
  "sections": [
-  {
-   "h2": "Regelmaat doet het werk",
-   "p": [
-    "Sanitair wordt niet vuil op één dag, maar het wordt binnen drie dagen onaangenaam als niemand het opvolgt. Het geheim zit in regelmaat: een vaste beurt op een vast moment, liefst voor de drukste dag van de week.",
-    "Een vaste Zondag weet welke toiletten het meest gebruikt worden, wanneer het zeep en papier opraakt en waar je op de vloer het eerst iets ziet.",
-    "Bespreek in de intake ook hoe het zit met geurtjes en hygiënische producten. Sommige zaken kiezen voor neutrale producten, andere hebben een eigen voorkeur. Dat leggen we vast in het zondagsplan."
-   ]
-  },
-  {
-   "h2": "Wat er per beurt gebeurt",
-   "p": [
-    "<ul class=\"ticks\"><li>Toiletten en pot reinigen en ontkalken</li><li>Lavabo's, kranen en spiegels</li><li>Papier, zeep en handdoeken aanvullen</li><li>Vloeren stofzuigen en nat afnemen</li><li>Afvalbakjes legen</li><li>Deurklinken en lichtschakelaars</li></ul>",
-    "Technische herstellingen, zoals een lek of een verstopping, vallen erbuiten: daarvoor bel je een loodgieter.",
-    "Wat je Zondag opmerkt, bijvoorbeeld een lekkende kraan of een kapotte slot, meldt hij of zij aan jou, zodat je zelf een vakman kan bellen."
-   ]
-  },
-  {
-   "h2": "Wat het team zelf doet tussendoor",
-   "p": [
-    "Kleine gewoontes helpen: wie de laatste papieren handdoek neemt, vervangt de rol; wie morst, veegt het weg; wie iets opmerkt dat stuk is, meldt het. Voorzie ook een plek waar je Zondag kan zien wat er nog in stock is."
-   ]
-  },
-  {
-   "h2": "Voorbeeld: een kmo met een kleedruimte en een refter",
-   "p": [
-    "Neem een kmo met een kleedruimte, een refter en sanitair voor de ploeg, ergens in Zwevegem. Een vaste Zondag komt op maandagochtend, nog voor de ploeg binnenkomt, en doet eerst het sanitair, daarna de kleedruimte en de refter.",
-    "Dat is geen industriële reiniging: de productiehal zelf doen we niet. Het gaat om het deel waar het team elke dag komt."
-   ]
-  },
-  {
-   "h2": "Een transportfirma met een chauffeursruimte",
-   "p": [
-    "Stel: een transportfirma in Zwevegem met een chauffeursruimte en sanitair waar chauffeurs de hele dag in en uit lopen. Hier wil je minstens wekelijks een beurt, liefst twee, afhankelijk van het aantal chauffeurs. Dat spreek je af in de intake, en je kan het later bijsturen."
-   ]
-  },
-  {
-   "h2": "Zwevegem en de omgeving",
-   "p": [
-    "Zwevegem heeft postcode 8550. Heestert, Moen, Otegem en Sint-Denijs horen bij Zwevegem, in de regio Kortrijk. Ook in Kortrijk, Harelbeke, Deerlijk, Avelgem, Spiere-Helkijn en Anzegem zoeken we een Zondag in de buurt."
-   ]
-  },
-  {
-   "h2": "Factuur en accountant",
-   "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van beroepsruimtes is een beroepskost. Laat je accountant dit bevestigen. Meer lees je op <a href=\"sectoren/sanitair-op-kantoor.html\">sanitair op kantoor laten poetsen</a>.",
-    "Wie in Zwevegem werkt maar in een buurgemeente woont, kan zijn Zondag laten komen naar beide adressen, mits het plan dat toelaat."
-   ]
-  }
+  {"h2": "Een sanitair voor kantoor en ploeg", "p": [
+   "In een transportfirma schuiven mensen op verschillende uren binnen en buiten. Een chauffeur komt na een lange rit en wil zich opfrissen, een dispatcher blijft de hele dag op kantoor en de zaakvoerder ontvangt een klant. Eén sanitair, drie gebruikers, en iedereen heeft verschillende verwachtingen.",
+   "Dan is een vaste routine nodig. Niemand wil een lijst plaatsen met wie het toilet poetst. Een Zondag neemt die rol over, zonder discussie."]},
+  {"h2": "Voorbeeld: een transportfirma met een chauffeursruimte", "p": [
+   "Neem een transportfirma in Zwevegem met twee kantoormedewerkers, een zaakvoerder en acht chauffeurs. Er is een chauffeursruimte met een bank, een koffieautomaat en een sanitair met douche. De wagens zelf blijven buiten haar bereik.",
+   "Hun Zondag komt op maandag en donderdag in de voormiddag, wanneer de meeste wagens onderweg zijn. Ze poetst eerst het sanitair en de douche, daarna de chauffeursruimte en het kantoor. Aan het eind controleert ze de voorraad papier, zeep en handdoekjes en noteert wat bijbesteld moet worden."]},
+  {"h2": "Wat er elke beurt gebeurt", "p": [
+   "<ul class=\"ticks\"><li>Toiletten reinigen en ontkalken</li><li>Douche en tegelwanden schrobben</li><li>Lavabo's, kranen en spiegels afwerken</li><li>Vloeren in sanitair en chauffeursruimte dweilen</li><li>Banken, tafels en kapstokken afnemen</li><li>Papier, zeep en handdoekjes aanvullen</li></ul>",
+   "Is er veel gebruik door een grote ploeg, dan is een tweede beurt per week verstandig. Lees meer over de aanpak bij <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."]},
+  {"h2": "Afspraken met de ploeg", "p": [
+   "Een kleedruimte of chauffeursruimte blijft pas netjes als de ploeg meewerkt. Vuile laarzen aan de deur laten, afval in de bak gooien en natte handdoeken ophangen zijn kleine regels die het werk van je Zondag lichter maken.",
+   "Kom je dat op een kort team- of toolboxmoment samen overeen, dan blijft de beurt van je Zondag een onderhoud in plaats van een herstelwerk."]},
+  {"h2": "Zwevegem en de deelgemeenten", "p": [
+   "Zondags werkt in Zwevegem en in Heestert, Moen, Otegem en Sint-Denijs, deelgemeenten van Zwevegem. Ligt je firma in Kortrijk, Harelbeke, Deerlijk, Avelgem, Spiere-Helkijn of Anzegem, dan zoeken we daar een Zondag."]},
+  {"h2": "Tarief en factuur", "p": [
+   "Je betaalt 60 euro per uur exclusief btw. Een blok van 3 uur is 180 euro exclusief btw, extra uren volgen aan hetzelfde tarief. Op de <a href=\"boeken.html\">boekpagina</a> kies je een weekdag, taken en betaal je online.",
+   "De factuur gaat op naam van je vennootschap, met btw-nummer. Laat je accountant bevestigen hoe dit past in je situatie."]}
  ],
  "faq": [
-  {
-   "q": "Wie poetst het sanitair van kantoren in Zwevegem?",
-   "a": "Zondags poetst in Zwevegem het sanitair van kantoren en kmo's: toiletten, lavabo's, spiegels en vloeren, door dezelfde vaste persoon, overdag op weekdagen."
-  },
-  {
-   "q": "Hoe vaak moet sanitair op kantoor gepoetst worden?",
-   "a": "Dat hangt af van het aantal mensen. Wekelijks is een goed vertrekpunt, bij veel gebruik vaker. We bepalen het ritme samen in de intake."
-  },
-  {
-   "q": "Vult de Zondag ook papier en zeep aan?",
-   "a": "Ja, als jij zorgt dat de voorraad ergens ligt. Je Zondag meldt wanneer iets bijna op is."
-  },
-  {
-   "q": "Doet de Zondag technische herstellingen?",
-   "a": "Nee. Elektriciteit en sanitair herstellen is geen taak van Zondags. Daarvoor bel je een vakman."
-  },
-  {
-   "q": "Wat als het sanitair tussen twee beurten vuil is?",
-   "a": "Dan kan je uren bijboeken of het plan aanpassen. Kleine gewoontes van het team doen daarnaast veel."
-  },
-  {
-   "q": "Kan de beurt vóór de ploeg binnenkomt?",
-   "a": "Ja. Vroeg in de ochtend of over de middag kan, nooit 's avonds en niet in het weekend."
-  }
+  {"q": "Wie poetst het sanitair van een transportfirma in Zwevegem?", "a": "Zondags stuurt één vaste persoon naar je firma in Zwevegem. Ze poetst sanitair, douche, chauffeursruimte en kantoor, op een vaste dag en uur, overdag."},
+  {"q": "Worden ook de wagens of de hallen gepoetst?", "a": "Nee. Reiniging van voertuigen, hallen en industriële reiniging valt buiten het werk van Zondags. Kantoor, sanitair, refter en kleedruimte wel."},
+  {"q": "Wat kost sanitair poetsen in Zwevegem?", "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok, met extra uren aan hetzelfde tarief."},
+  {"q": "Kan mijn Zondag komen als de chauffeurs onderweg zijn?", "a": "Ja, overdag op weekdagen, op het uur dat jij kiest. Vroeg in de ochtend of over de middag kan ook. 's Avonds en in het weekend niet."},
+  {"q": "Werkt Zondags ook in Moen en Otegem?", "a": "Ja, net als in Heestert en Sint-Denijs. Het zijn deelgemeenten van Zwevegem, waar Zondags actief is."},
+  {"q": "Wat als mijn vaste Zondag ziek is?", "a": "Dan zoeken wij een oplossing. Een vervanger kunnen we niet altijd vooraf beloven, maar we laten je tijdig weten wat mogelijk is."}
  ]
 }

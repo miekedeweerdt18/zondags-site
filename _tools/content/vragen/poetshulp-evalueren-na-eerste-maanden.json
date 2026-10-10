@@ -1,85 +1,39 @@
 {
- "title": "Hoe evalueer je je poetshulp na de eerste maanden?",
- "desc": "Na de eerste maanden poetshulp kijk je terug: wat loopt goed, wat moet bij, wat kan weg. Zo houd je een korte evaluatie die het zondagsplan echt verbetert.",
+ "path": "vragen/poetshulp-evalueren-na-eerste-maanden.html",
+ "title": "Poetshulp evalueren na de eerste maanden",
+ "desc": "Hoe evalueer je je poetshulp na een paar maanden? Een korte lijst, de juiste vragen over uren en taken en wat je bijstuurt. Praktisch voor kantoor en praktijk.",
  "eyebrow": "Vraag",
  "h1": "Hoe evalueer je je poetshulp na de eerste maanden?",
- "lead": "Een goede evaluatie hoeft geen vergadering te zijn. Een korte terugblik met je Zondag en je team is genoeg om het zondagsplan scherp te houden.",
- "answer": "Je evalueert je poetshulp na de eerste maanden door te kijken naar vier dingen: wat goed loopt, wat ontbreekt, wat overbodig is en of het moment nog past. Bij Zondags (zondags.be) bespreek je dat met je vaste Zondag en met ons, en pas je het zondagsplan aan. Uren bijboeken of taken schrappen kan, het plan is maandelijks opzegbaar en klikt het niet, dan zoeken we samen een andere Zondag.",
- "facts": [
-  "Vier vragen: goed, ontbreekt, overbodig, moment",
-  "Korte terugblik, geen vergadering",
-  "Zondagsplan aanpassen kan",
-  "Maandelijks opzegbaar",
-  "Andere Zondag zoeken kan"
- ],
+ "lead": "Na drie maanden weet je meer dan bij de start. Een korte evaluatie met vaste vragen toont of de uren, de taken en de persoon nog passen bij je zaak.",
+ "answer": "Je evalueert poetshulp door na enkele maanden vier dingen te bekijken: het resultaat, de taken, de uren en de samenwerking. Vergelijk wat je ziet met het afgesproken plan en pas het aan waar je zaak is veranderd. Bij Zondags (zondags.be) doe je dat met je vaste Zondag, op basis van het zondagsplan. Past iets niet meer, dan voeg je een blok toe of haal je er een weg. Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur.",
+ "facts": ["Evalueer na enkele maanden", "Vier punten: resultaat, taken, uren, klik", "Pas het zondagsplan aan", "Extra blok of minder uren kan", "60 euro per uur, per blok van 3 uur", "Boeken en bijsturen online"],
  "sections": [
-  {
-   "h2": "Plan een terugblik, ook als alles loopt",
-   "p": [
-    "Het klinkt overbodig om te evalueren wanneer er niets misloopt. Toch is dat net het moment om bij te sturen. In de eerste maanden verandert een zaak: er komt een nieuwe collega, een drukke periode, een verhuis van een bureau. Wat in het begin klopte, kan na enkele maanden net niet meer passen.",
-    "Kies dus een vast moment, bijvoorbeeld na de eerste maand en daarna eens per periode die voor jou logisch is. Houd het kort. Een kwartier is genoeg."
-   ]
-  },
-  {
-   "h2": "De vier vragen",
-   "p": [
-    "<ul class=\"ticks\"><li>Wat loopt goed en wil ik zo houden?</li><li>Wat ontbreekt er, wat blijft liggen?</li><li>Wat gebeurt er dat niet meer nodig is?</li><li>Past het moment van de week nog bij mijn agenda?</li></ul>",
-    "Schrijf de antwoorden kort op, liefst samen met de collega die op kantoor het meest merkt wat er gebeurt. Voor een vergelijking met de beginsituatie kan je het zondagsplan erbij nemen."
-   ]
-  },
-  {
-   "h2": "Wat je concreet kan aanpassen",
-   "p": [
-    "Een plan is geen contract voor jaren. Zondags laat je het plan aanpassen: extra uren op een drukke dag, een taak die je schrapt, een ander uur of een andere dag. Heb je er ook iets bij nodig, zoals was en strijk of boodschappen, dan kan dat in hetzelfde plan.",
-    "Ook losse opdrachten zijn mogelijk, bijvoorbeeld een grote poetsbeurt na een verbouwing of voor een receptie. Over de eerste maand zelf vind je meer op <a href=\"vragen/eerste-maand-poetshulp-kantoor.html\">de eerste maand poetshulp op kantoor</a>."
-   ]
-  },
-  {
-   "h2": "Wat als het niet klikt",
-   "p": [
-    "Soms past een persoon niet bij een zaak. Dat is geen drama en niemand verwijt iemand iets. Klikt het niet, dan zoeken we samen een andere Zondag die beter bij jou past. Het plan is maandelijks opzegbaar.",
-    "Het is wel nuttig om concreet te zijn: wat zit er in de weg? Een andere stijl, een ander tempo, een ander uur? Hoe concreter je het zegt, hoe beter we een andere Zondag kunnen kiezen."
-   ]
-  },
-  {
-   "h2": "Wie praat er mee",
-   "p": [
-    "Betrek mee wie dagelijks in de ruimtes werkt: een collega, een assistent, de partner van de zaakvoerder. Zij zien sneller dan jij wat beter kan. Als de woning in hetzelfde plan zit, praat het gezin mee over wat thuis anders kan.",
-    "Wil je dat het gesprek niet via je Zondag loopt, bel dan gerust naar Zondags op 0470 56 53 58, elke dag van 6 tot 22 uur."
-   ]
-  },
-  {
-   "h2": "Fiscale controle meenemen",
-   "p": [
-    "Laat bij de evaluatie ook je boekhouding kijken. Een vennootschap kan geen dienstencheques kopen en je krijgt een gewone dienstenfactuur. Het onderhoud van beroepsruimtes is een beroepskost, en voor het privégedeelte geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst. Laat je accountant bevestigen dat de verwerking nog klopt."
-   ]
-  }
+  {"h2": "Waarom een evaluatie meer is dan een oogcontrole", "p": [
+   "In de eerste weken let je vooral op of het proper is. Na een paar maanden verschuift de vraag. Is de dag nog de goede? Ligt de keuken er nog netjes bij nu het team groter is? Doet de persoon taken die je niet meer nodig hebt, en liggen er andere dingen te wachten?",
+   "Een kwartier met een lijstje en de persoon zelf volstaat."]},
+  {"h2": "Neem het zondagsplan als vertrekpunt", "p": [
+   "Wie bij de start heeft vastgelegd welke taken, dagen en uren gelden, heeft nu iets om tegen te toetsen. Leg het plan naast de werkelijkheid en loop het punt voor punt na.",
+   "<ul class=\"ticks\"><li>Welke taken gebeuren altijd, en welke worden geregeld overgeslagen omdat de tijd ontbreekt?</li><li>Welke taken staan er niet in, maar worden al een tijd wel gedaan?</li><li>Zijn er ruimtes bijgekomen of afgevallen?</li><li>Is er een moment in het jaar waarop het drukker is dan het plan voorziet?</li></ul>",
+   "Vaak blijken de uren krap voor wat je verwacht."]},
+  {"h2": "Vier vragen die je altijd stelt", "p": [
+   "Het resultaat: ligt de zaak er verzorgd bij op het moment dat klanten of patiënten binnenkomen? De taken: komt alles aan bod wat telt, ook het sanitair, de refter en de vergaderzaal? De uren: past het aantal blokken nog bij de drukte? En de klik: voel je dat je de persoon kan vertrouwen met je sleutel, je ruimtes en je discretie?",
+   "Geef op elke vraag een eerlijk cijfer van één tot vijf, schrijf het op en bewaar het. Na de volgende evaluatie zie je meteen of het beter, gelijk of slechter gaat. Dat is waardevoller dan een algemeen gevoel."]},
+  {"h2": "Wat je bijstuurt en wat je laat zoals het is", "p": [
+   "Loopt alles goed, laat het dan zo. Een vaste, rustige routine is precies waarvoor je gekozen hebt. Pas alleen aan waar je een concreet probleem of een duidelijke nieuwe behoefte ziet.",
+   "Past de tijd niet, dan boek je een extra blok op de <a href=\"boeken.html\">boekpagina</a> of verschuif je een taak naar een andere dag. Is een deel van het werk eigenlijk administratief of praktisch regelwerk, zoals post sorteren of de koffiehoek bijvullen, dan kan je Zondag dat ook oppakken, mits het in het plan staat. Boekhouding of fiscaal advies hoort daar niet bij."]},
+  {"h2": "Hoe dat bij Zondags verloopt", "p": [
+   "Je Zondag is steeds dezelfde persoon, op een vaste dag en een vast uur. Dat maakt een evaluatie eenvoudig: je bespreekt het rechtstreeks, zonder tussenschakel. Heb je liever een gesprek met ons, bel of stuur een bericht op 0470 56 53 58, elke dag van 6 tot 22 uur.",
+   "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief. Wil je na de evaluatie meer of minder uren, dan pas je dat aan zonder dat het tarief verandert."]},
+  {"h2": "Wanneer je beter van Zondag wisselt", "p": [
+   "Soms blijkt na enkele maanden dat de combinatie niet werkt, ondanks een eerlijk gesprek en een aangepast plan. Dat is geen mislukking. Klikt het niet, dan zoeken we samen een andere Zondag die beter bij je zaak past.",
+   "Een evaluatie op een vast moment voorkomt dat kleine ergernissen uitgroeien tot een reden om alles stop te zetten."]}
  ],
  "faq": [
-  {
-   "q": "Wanneer evalueer ik mijn poetshulp best?",
-   "a": "Na de eerste maand en daarna op een vast moment dat voor jou logisch is. Houd het kort. Een kwartier terugblik met je Zondag of met ons volstaat om het zondagsplan bij te sturen."
-  },
-  {
-   "q": "Welke vragen stel ik bij de evaluatie?",
-   "a": "Wat loopt goed, wat ontbreekt, wat is overbodig en past het moment van de week nog? Zo ontdek je snel wat het plan nodig heeft."
-  },
-  {
-   "q": "Kan ik het zondagsplan aanpassen?",
-   "a": "Ja. Uren bijboeken, taken schrappen, een ander uur of een andere dag kiezen kan. Ook losse opdrachten zoals een grote poetsbeurt zijn mogelijk."
-  },
-  {
-   "q": "Wat als het niet klikt met mijn Zondag?",
-   "a": "Dan zoeken we samen een andere Zondag die beter bij je past. Het plan is maandelijks opzegbaar, dus je zit nergens aan vast."
-  },
-  {
-   "q": "Wie moet er bij de evaluatie zijn?",
-   "a": "Wie dagelijks in de ruimtes werkt, bijvoorbeeld een collega of assistent. Zit de woning in het plan, dan praat ook het gezin mee."
-  },
-  {
-   "q": "Waar kan ik terecht met vragen of klachten?",
-   "a": "Bij Zondags, telefonisch of via WhatsApp op 0470 56 53 58, elke dag van 6 tot 22 uur, of via hello@zondags.be of de chat op de site."
-  }
- ],
- "path": "vragen/poetshulp-evalueren-na-eerste-maanden.html"
+  {"q": "Wanneer evalueer je best je poetshulp?", "a": "Na twee of drie maanden, wanneer de routine er staat, en daarna een of twee keer per jaar. Kies vaste momenten, bijvoorbeeld bij het begin van een nieuw seizoen, zodat je het niet vergeet."},
+  {"q": "Wie neemt deel aan de evaluatie?", "a": "De bedrijfsleider of wie het dagelijks opvolgt, en de poetshulp zelf. Bij Zondags is dat steeds dezelfde persoon, dus je voert het gesprek rechtstreeks en kort."},
+  {"q": "Welke vragen stel ik tijdens de evaluatie?", "a": "Hoe is het resultaat, komen alle taken aan bod, passen de uren nog en is er vertrouwen? Geef elk punt een cijfer van één tot vijf, zodat je het bij de volgende keer kan vergelijken."},
+  {"q": "Kan ik na de evaluatie meer of minder uren nemen?", "a": "Ja. Je boekt per blok van 3 uur aan 60 euro per uur exclusief btw en extra uren boek je aan hetzelfde tarief. Je kan dus eenvoudig opschalen of afbouwen."},
+  {"q": "Wat als de persoon niet bij mijn zaak past?", "a": "Dan zoeken we samen een andere Zondag. Je hoeft niet te blijven bij een combinatie die niet werkt, en het zondagsplan blijft als basis voor de nieuwe start."},
+  {"q": "Moet ik elke taak tijdens de evaluatie opnieuw bespreken?", "a": "Nee, loop vooral de taken na die je twijfel geven of die nieuw zijn. Wat goed loopt, laat je zoals het is. Noteer wijzigingen kort in het zondagsplan."}
+ ]
 }

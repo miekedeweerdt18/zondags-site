@@ -1,83 +1,36 @@
 {
  "path": "vragen/poetsproducten-afspreken-met-poetshulp.html",
  "title": "Poetsproducten afspreken met je poetshulp",
- "desc": "Welke poetsproducten gebruikt je poetshulp? Spreek af wie ze koopt, wat je liever niet hebt en wat je laat staan. Zo regel je het in het zondagsplan.",
+ "desc": "Hoe spreek je af welke poetsproducten in je kantoor of praktijk gebruikt worden? Een korte afsprakenlijst voor producten, geuren, gevoeligheden en materiaal.",
  "eyebrow": "Vraag",
  "h1": "Hoe spreek je af welke poetsproducten gebruikt worden?",
- "lead": "Poetsproducten lijken een detail, tot een geur, een allergie of een gevoelig oppervlak roet in het eten gooit. Een korte afspraak vooraf voorkomt gedoe.",
- "answer": "Je spreekt poetsproducten af door drie dingen vast te leggen: wie ze koopt, welke je niet wil en welke oppervlakken speciaal zijn. Bij Zondags (zondags.be) komt dat in het zondagsplan, dat je samen met je vaste Zondag opmaakt bij de intake. Je kan zelf producten voorzien of vragen dat je Zondag ze meebrengt. De afspraak ligt vast en je kan ze altijd aanpassen.",
- "facts": [
-  "Wie koopt de producten: spreek het af",
-  "Noteer wat je liever niet hebt",
-  "Gevoelige oppervlakken vooraf melden",
-  "Afspraak staat in het zondagsplan",
-  "Eerste 2 uur gratis"
- ],
+ "lead": "Welke producten er in je zaak gebruikt worden, regel je het best voor de eerste beurt. Een korte afspraak voorkomt geurklachten, gevoelige oppervlakken en vragen achteraf.",
+ "answer": "Je spreekt poetsproducten af bij de intake: noteer welke producten wel en niet gebruikt mogen worden, welke oppervlakken gevoelig zijn en of er collega's zijn met allergieën. Bij Zondags (zondags.be) leg je die afspraken vast in het zondagsplan van je vaste Zondag. Wie het materiaal voorziet, bespreek je vooraf. Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur.",
+ "facts": ["Afspreken bij de intake", "Gevoelige oppervlakken en geuren noteren", "Allergieën doorgeven", "Vastgelegd in het zondagsplan", "60 euro per uur, per blok van 3 uur"],
  "sections": [
-  {
-   "h2": "Wie koopt wat",
-   "p": [
-    "De eenvoudigste regeling is dat je Zondag meebrengt wat nodig is, of dat jij een basisset voorziet. Beide kan. Wat je kiest, hangt af van je voorkeuren. Heb je een bepaald merk in huis of in je kantoor, zeg dat dan. Houd je er niet aan vast, dan volstaat een standaard keuze.",
-    "Zet in het zondagsplan wie voor welke producten zorgt, zodat je Zondag niet bij een lege fles staat.",
-    "Heb je een kantoor, een praktijk en een woning in één plan, dan kan je per ruimte een andere keuze maken. In het kantoor een neutraal product, in de keuken thuis een ander, bij het sanitair een kalkreiniger. Dat noteer je één keer en je Zondag volgt het."
-   ]
-  },
-  {
-   "h2": "Wat je liever niet hebt",
-   "p": [
-    "<ul class=\"ticks\"><li>Sterke geuren, bijvoorbeeld in een praktijk of een wachtzaal</li><li>Producten waar iemand in huis allergisch voor is</li><li>Producten die je liever niet in de buurt van kinderen of huisdieren hebt</li><li>Bleek op gekleurde stoffen of hout</li></ul>",
-    "Vertel het bij de intake. Je Zondag noteert het en past haar werk daarop aan.",
-    "Heeft iemand van het gezin of van het team last van geuren of een gevoelige huid, zeg dat dan meteen. Het is makkelijker om dat vooraf op te lossen dan na een beurt die klachten gaf."
-   ]
-  },
-  {
-   "h2": "Gevoelige oppervlakken",
-   "p": [
-    "Natuursteen, geolied hout, vloeren met een behandeling, glanzende toonbanken, schermen en fijne stoffen vragen elk een andere aanpak. Zeg welke dat zijn en hoe je ze liefst behandelt. Een korte rondgang tijdens de intake is genoeg.",
-    "Twijfelt je Zondag, dan vraagt ze het. Dat is beter dan een vlek die niet meer weggaat."
-   ]
-  },
-  {
-   "h2": "Een voorbeeld: een groepspraktijk van huisartsen",
-   "p": [
-    "Neem een groepspraktijk van huisartsen. In de wachtzaal wil je geen scherpe geur, bij de behandelkamers liever een neutraal product. Je kan afspreken dat je Zondag in de wachtzaal een milde reiniger gebruikt en bij de balie een ander product. Sterilisatie of medisch materiaal blijft sowieso bij je eigen team.",
-    "Zo staat het op papier en weet iedereen wat ze mogen verwachten."
-   ]
-  },
-  {
-   "h2": "Aanpassen kan altijd",
-   "p": [
-    "Merk je dat een product niet bevalt, dan pas je het aan. Je Zondag past haar werk aan en noteert het in het plan. Heb je een nieuwe wens, bijvoorbeeld een duurzaam alternatief, dan bespreek je dat tijdens de eerstvolgende beurt. Lees ook <a href=\"vragen/wie-voorziet-poetsmateriaal.html\">wie voorziet het poetsmateriaal</a> en <a href=\"vragen/duurzaam-kantoor-poetsen.html\">duurzaam kantoor poetsen</a>.",
-    "Zo blijft je afspraak levend: ze groeit mee met je zaak en je gezin, in plaats van op een blad te blijven liggen."
-   ]
-  },
-  {
-   "h2": "Zo start je met Zondags",
-   "p": [
-    "Je vraagt aan via het formulier of de chat. Binnen één werkdag belt iemand terug, daarna volgt de intake waar we ook de producten bespreken. Je krijgt een dienstenfactuur op naam van je vennootschap. Laat je accountant bevestigen hoe dit voor jouw situatie werkt. De eerste twee uur zijn gratis."
-   ]
-  }
+  {"h2": "Waarom producten een afspraak verdienen", "p": [
+   "Een poetsproduct is niet neutraal in een werkruimte. Een sterke geur kan hoofdpijn geven aan wie de hele dag in een kantoor zit, een verkeerd product kan een houten bureau, een natuurstenen vloer of een schermoppervlak beschadigen, en in een praktijk gelden vaak eigen hygiënevoorschriften.",
+   "Een korte afspraak vooraf is dus goedkoper dan een schade of een discussie achteraf.",
+   "Het hoeft geen lang document te zijn. Een half blad met de belangrijkste punten volstaat, zolang je Zondag het kan raadplegen en jij het kan nalezen wanneer er een vraag opduikt."]},
+  {"h2": "Wat je best afspreekt", "p": [
+   "<ul class=\"ticks\"><li>Welke producten je Zondag mag gebruiken per ruimte</li><li>Welke producten of geuren je team liever vermijdt</li><li>Welke oppervlakken gevoelig zijn, zoals natuursteen, hout of glas</li><li>Welke zones een eigen hygiënevoorschrift volgen</li><li>Wie het materiaal en de producten voorziet en aanvult</li><li>Wie je verwittigt als iets opraakt</li></ul>"]},
+  {"h2": "Wie voorziet het materiaal", "p": [
+   "Dit punt vraag je altijd expliciet, bij elke aanbieder. Sommige bedrijven werken met eigen materiaal, andere met wat jij in huis hebt. Bespreek bij de intake wat op jouw situatie van toepassing is en laat het noteren in het zondagsplan.",
+   "Meer over die kwestie lees je bij <a href=\"vragen/wie-voorziet-poetsmateriaal.html\">wie het poetsmateriaal voorziet</a>."]},
+  {"h2": "Een voorbeeld: een galerij met kwetsbare oppervlakken", "p": [
+   "Stel: je hebt een galerij met een natuurstenen vloer, glazen vitrines en houten sokkels. Je weet dat sommige zuren de steen aantasten en dat vitrines vingerafdrukken tonen. In het plan noteer je welk product voor de vloer is, welk voor het glas en dat sokkels enkel met een droge doek worden afgenomen.",
+   "Je Zondag leest het plan en werkt elke keer op dezelfde manier, ook als jij er niet bent."]},
+  {"h2": "Allergieën en gevoeligheden", "p": [
+   "Heeft een collega last van bepaalde geuren of stoffen, geef het dan door voor de eerste beurt. Dat kan ook later nog, maar hoe vroeger, hoe minder gedoe. Een uitgebreide aanpak vind je bij <a href=\"vragen/collega-allergisch-voor-poetsproducten.html\">een collega die allergisch is voor poetsproducten</a>."]},
+  {"h2": "Prijs en bijsturen", "p": [
+   "De afspraken over producten kosten niets extra: je betaalt de uren die je boekt, 60 euro per uur exclusief btw, in blokken van 3 uur, dus 180 euro exclusief btw per blok. Merk je na enkele weken iets op, dan pas je het plan aan. Wil je meteen starten, dan boek je via de <a href=\"boeken.html\">boekpagina</a> of bel je 0470 56 53 58."]}
  ],
  "faq": [
-  {
-   "q": "Wie koopt de poetsproducten bij Zondags?",
-   "a": "Dat spreek je af in het zondagsplan. Je Zondag kan producten meebrengen, of jij voorziet een basisset. Beide kan, en je kan het later aanpassen."
-  },
-  {
-   "q": "Kan ik zeggen dat ik bepaalde producten niet wil?",
-   "a": "Ja. Je noteert het bij de intake, zoals sterke geuren, allergieën of producten die je niet bij kinderen of huisdieren wil. Je Zondag volgt die lijst."
-  },
-  {
-   "q": "Wat als een product een oppervlak beschadigt?",
-   "a": "Meld gevoelige oppervlakken vooraf, zoals natuursteen of geolied hout. Twijfelt je Zondag, dan vraagt ze het eerst. Zo vermijden we een vlek."
-  },
-  {
-   "q": "Kan ik een duurzamer product vragen?",
-   "a": "Ja. Je kan een voorkeur doorgeven, bijvoorbeeld voor een milder of duurzamer product. Dat bespreek je met je Zondag en wordt in het plan genoteerd."
-  },
-  {
-   "q": "Moet ik dit elke beurt opnieuw uitleggen?",
-   "a": "Nee. Het staat in het zondagsplan en je Zondag is steeds dezelfde persoon. Ze onthoudt je voorkeuren."
-  }
+  {"q": "Wie bepaalt welke poetsproducten er gebruikt worden?", "a": "Jij en je Zondag samen, bij de intake. Je noteert wat wel en niet mag, en dat komt in het zondagsplan terecht."},
+  {"q": "Kan ik bepaalde producten of geuren uitsluiten?", "a": "Ja. Geef door welke producten of geuren je liever vermijdt, zodat ze in het plan staan. Zo houdt je Zondag er elke beurt rekening mee."},
+  {"q": "Wie voorziet het poetsmateriaal?", "a": "Dat bespreek je bij de intake. Vraag het expliciet en laat het noteren in het zondagsplan, zodat je weet wie wat aanvult."},
+  {"q": "Wat als mijn bureau of vloer gevoelig is?", "a": "Vermeld het bij de intake en noteer welk product of welke werkwijze past. Zo vermijd je schade aan natuursteen, hout of speciale oppervlakken."},
+  {"q": "Kan ik de afspraken later aanpassen?", "a": "Ja, het zondagsplan is bijstuurbaar. Merk je iets op, zeg het dan aan je Zondag of via de chat en we passen het aan."},
+  {"q": "Kost een afspraak over producten extra?", "a": "Nee. Je betaalt enkel de uren die je boekt, aan 60 euro per uur exclusief btw, in blokken van 3 uur."}
  ]
 }

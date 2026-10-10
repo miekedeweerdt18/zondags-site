@@ -1,34 +1,85 @@
 {
  "path": "vragen/hoe-vaak-kantoor-poetsen.html",
  "title": "Hoe vaak moet je een kantoor laten poetsen?",
- "desc": "Hoe vaak laat je een kantoor poetsen? Dat hangt af van mensen, bezoekers en ruimtes. Een richtlijn per ruimte, en hoe je het ritme bijstelt met Zondags.",
+ "desc": "Hoe vaak laat je een kantoor poetsen? Een richtlijn per teamgrootte en gebruik, wat dagelijks en wekelijks hoort, en hoe je bij Zondags een ritme boekt.",
  "eyebrow": "Vraag",
  "h1": "Hoe vaak moet je een kantoor laten poetsen?",
- "lead": "Voor een klein kantoor is een wekelijkse beurt een goed vertrekpunt, aangevuld met wat je team zelf dagelijks doet. Sanitair, keuken en bezoekersruimtes vragen vaak meer.",
- "answer": "Voor een klein kantoor is een wekelijkse poetsbeurt een goede vuistregel, aangevuld met wat je team dagelijks zelf doet. Meer mensen, meer bezoekers of veel gebruik van sanitair en keuken vragen een extra beurt. Zondags (zondags.be) plant je beurt op een vaste dag en uur met dezelfde Zondag, en je kan uren bijboeken of het ritme aanpassen wanneer je zaak verandert.",
- "facts": ["Wekelijks als vertrekpunt", "Sanitair en keuken vragen vaak meer", "Bezoekers en doorloop tellen mee", "Ritme bijstellen kan altijd", "Vaste dag en vast uur"],
+ "lead": "Er is geen vaste frequentie die voor elk kantoor past. Wel is er een logische richtlijn, afhankelijk van je team, je bezoekers en je sanitair.",
+ "answer": "Voor de meeste kantoren is één vaste poetsbeurt per week een goed vertrekpunt, met kleine dagelijkse gewoontes van het team ertussen. Drukke kantoren met veel bezoek, een wachtzaal of een groter team starten vaak met twee beurten per week. Bij Zondags (zondags.be) boek je per blok van 3 uur aan 60 euro per uur exclusief btw, en je Zondag komt steeds op dezelfde dag en hetzelfde uur.",
+ "facts": [
+  "Wekelijks is een goed vertrekpunt",
+  "Meer bezoek of team vraagt vaker",
+  "Kleine dagelijkse gewoontes ertussen",
+  "60 euro per uur, per blok van 3 uur",
+  "Frequentie bijsturen kan altijd"
+ ],
  "sections": [
-  {"h2": "Een vuistregel per ruimte", "p": [
-   "<ul class=\"ticks\"><li>Sanitair en keuken: het eerst aan de beurt, bij veel gebruik vaker dan wekelijks</li><li>Bureaus en vloeren: wekelijks</li><li>Onthaal en wachtruimte: wekelijks, bij veel bezoekers vaker</li><li>Vergaderzaal: wekelijks, of na intensief gebruik</li><li>Ramen langs binnen en kasten: maandelijks of per seizoen</li><li>Afval en recyclage: bij elke beurt</li></ul>",
-   "Dit zijn richtlijnen, geen regels. Je ziet zelf snel of ze bij jouw kantoor passen."]},
-  {"h2": "Wat het ritme beïnvloedt", "p": [
-   "Het aantal mensen telt, maar vooral hoeveel er echt aanwezig zijn: een team dat twee dagen per week thuiswerkt, laat minder sporen na. Bezoekers en klanten verhogen de eisen aan onthaal en sanitair. Eet je team op kantoor, dan ligt er meer in de keuken. En in het natte seizoen komt er meer vuil binnen op de vloer."]},
-  {"h2": "Wat je team tussendoor doet", "p": [
-   "Met een paar gewoontes volstaat vaak een wekelijkse beurt.",
-   "<ul class=\"ticks\"><li>Vaat meteen in de vaatwasser zetten</li><li>De koffiehoek na gebruik afvegen</li><li>Bureaus bij het weggaan vrij maken van losse spullen</li><li>Natte jassen en paraplu's op een vaste plek laten drogen</li></ul>",
-   "Voor een wachtruimte zijn er extra gewoontes. Die vind je bij <a href=\"vragen/wachtzaal-proper-houden.html\">een wachtzaal proper houden tussen twee poetsbeurten</a>."]},
-  {"h2": "Signalen dat je ritme te laag is", "p": [
-   "Zie je al halverwege de week vlekken in het sanitair, een volle keuken of stof op de bureaus? Merken klanten het? Ruimt je team zelf steeds meer op? Dan is er een extra beurt of meer tijd nodig. Het omgekeerde bestaat ook: vindt je Zondag nauwelijks werk, dan kan de beurt korter of kan er een andere taak bij, zoals ramen langs binnen."]},
-  {"h2": "Voorbeeld: een kantoor met vijf mensen en deels thuiswerk", "p": [
-   "Neem een kantoor met vijf medewerkers die twee dagen per week thuiswerken en af en toe klanten ontvangen. Eén wekelijkse beurt is hier meestal genoeg. In drukke weken met veel bezoek komt er een korte extra beurt bij voor sanitair en onthaal, daarna val je terug op het gewone ritme."]},
-  {"h2": "Hoe Zondags het ritme vastlegt", "p": [
-   "Tijdens de intake ter plaatse bekijken we je ruimtes en leggen we samen je zondagsplan vast, met een vaste dag en een vast uur voor dezelfde Zondag. Merk je na enkele weken dat het ritme niet klopt, dan pas je het aan. Uren bijboeken kan, en het plan is maandelijks opzegbaar. Over de uren zelf lees je meer bij <a href=\"vragen/hoeveel-uur-poetshulp-kantoor.html\">hoeveel uur een kantoor nodig heeft</a>."]}
+  {
+   "h2": "Eerst kijken naar het gebruik van je kantoor",
+   "p": [
+    "De juiste frequentie volgt uit drie vragen. Hoeveel mensen werken er dagelijks? Komen er klanten of patiënten binnen? En hoe zwaar wordt het sanitair en de keuken gebruikt? Een kantoor met drie vaste medewerkers die zelden bezoek ontvangen, vraagt minder dan een praktijk met een volle wachtzaal.",
+    "Reken daarbij ook op het seizoen. In natte maanden komt er meer vuil naar binnen, en in drukke periodes blijft het team langer zitten."
+   ]
+  },
+  {
+   "h2": "Een praktische richtlijn per situatie",
+   "p": [
+    "<ul class=\"ticks\"><li>Klein team, weinig bezoek: één beurt per week</li><li>Middelgroot team of regelmatig klantenbezoek: één beurt per week met een extra blok in drukke periodes</li><li>Wachtzaal, showroom of winkel met passage: twee beurten per week</li><li>Zeer rustig kantoor of vaak afwezig team: om de twee weken kan, maar sanitair en keuken verdienen dan extra aandacht</li></ul>",
+    "Dit zijn ervaringsrichtlijnen, geen regels. Je kan ze bijsturen na de eerste maand, zodra je ziet wat te vaak of te weinig is."
+   ]
+  },
+  {
+   "h2": "Wat het team zelf dagelijks doet",
+   "p": [
+    "Een poetsbeurt werkt pas goed als het team ertussen de basis bijhoudt. Bureaus leegmaken voor het weekend, vuil servies in de vaatwasser zetten, afval buiten de vergaderzaal opruimen en de koffiehoek proper achterlaten. Zulke kleine gewoontes maken dat je Zondag haar tijd aan echt poetsen besteedt en niet aan opruimen.",
+    "Spreek die gewoontes één keer af, schrijf ze op een kaartje in de keuken en loop ze na de eerste weken eens samen na."
+   ]
+  },
+  {
+   "h2": "Wanneer een extra beurt loont",
+   "p": [
+    "Een extra blok boek je bij een klantenevenement, na een verbouwing van een kleine ruimte, bij de start van een nieuw team of voor de eindejaarsperiode. Je hoeft je vaste ritme daarvoor niet te wijzigen. Je Zondag komt gewoon een keer extra, of je voegt uren toe aan hetzelfde tarief.",
+    "Merk je dat het sanitair of de keuken tussen twee beurten te veel te verduren krijgt, dan is dat vaak het teken dat de frequentie omhoog mag."
+   ]
+  },
+  {
+   "h2": "Hoe je het bij Zondags regelt",
+   "p": [
+    "Je boekt per blok van 3 uur, aan 60 euro per uur exclusief btw. Dat is 180 euro exclusief btw per blok, en extra uren kosten hetzelfde per uur. Voor een vast ritme bespreken we in een kort gesprek de dagen en de uren, daarna ligt het zondagsplan vast.",
+    "Vroeg in de ochtend of over de middag kan, op weekdagen. 's Avonds en in het weekend werken we niet. Kijk ook naar <a href=\"vragen/hoeveel-uur-poetshulp-kantoor.html\">hoeveel uur poetshulp je kantoor nodig heeft</a>."
+   ]
+  },
+  {
+   "h2": "Boeken en bijsturen",
+   "p": [
+    "Op de <a href=\"boeken.html\">boekpagina</a> kies je een weekdag, het aantal blokken en de taken. Betaal online en je krijgt een factuur op naam van je bedrijf. Past de frequentie na een tijdje niet meer, dan pas je ze aan met een telefoontje."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Is één keer per week poetsen genoeg voor een klein kantoor?", "a": "Vaak wel, als je team dagelijks de keuken en de eigen bureaus netjes houdt. Heb je bezoekers, veel gebruik van het sanitair of een wachtruimte, dan kan een extra beurt nodig zijn. Het eerste ritme is een startpunt dat je bijstelt."},
-  {"q": "Wat als mijn team vaak thuiswerkt?", "a": "Dan wordt het kantoor minder gebruikt en kan het ritme lager of de beurt korter zijn. Bij Zondags pas je het plan aan wanneer je werkpatroon verandert."},
-  {"q": "Moet het sanitair vaker gepoetst worden dan de rest?", "a": "Meestal wel. Sanitair en keuken worden het meest gebruikt en vragen de meeste aandacht. In je zondagsplan kan je voor die ruimtes extra tijd of extra beurten vastleggen."},
-  {"q": "Hoe pas ik het ritme aan als mijn zaak groeit?", "a": "Je boekt uren bij of past het plan aan. Dat kan bij Zondags zonder dat je opnieuw moet beginnen, en het plan blijft maandelijks opzegbaar."},
-  {"q": "Op welke dag komt de poetshulp best?", "a": "Twee dagen liggen voor de hand: maandag, zodat de week fris begint, of vrijdag, zodat het kantoor opgeruimd is voor het weekend. Zondags werkt overdag op weekdagen, op een vaste dag en een vast uur."}
+  {
+   "q": "Hoe vaak moet een kantoor gepoetst worden?",
+   "a": "Voor een gewoon kantoor is één keer per week een goed vertrekpunt. Met veel bezoek, een wachtzaal of een groot team loont twee keer per week. Het hangt af van gebruik, niet van een vaste regel."
+  },
+  {
+   "q": "Is één keer per maand genoeg voor een klein kantoor?",
+   "a": "Zelden. Sanitair, keuken en vloeren hebben sneller aandacht nodig. Een rustig kantoor kan om de twee weken, maar wekelijks houdt de ruimte netter en het werk per beurt lichter."
+  },
+  {
+   "q": "Hoe vaak moet het sanitair op kantoor gepoetst worden?",
+   "a": "Bij elke poetsbeurt, en bij druk gebruik is een extra korte beurt tussendoor zinvol. Je team houdt het ertussen eenvoudig netjes met een doekje en een afvalzak."
+  },
+  {
+   "q": "Kan ik de frequentie later aanpassen bij Zondags?",
+   "a": "Ja. Na de eerste weken bekijk je samen of het ritme klopt. Je kan blokken toevoegen of schrappen, aan hetzelfde tarief van 60 euro per uur exclusief btw."
+  },
+  {
+   "q": "Wat kost wekelijkse poetshulp voor een kantoor?",
+   "a": "Een blok van 3 uur per week kost 180 euro exclusief btw, dus 60 euro per uur exclusief btw. Extra uren boek je aan hetzelfde tarief."
+  },
+  {
+   "q": "Komt Zondags ook vroeg of over de middag?",
+   "a": "Ja, op weekdagen. Vroeg in de ochtend of over de middag kan, 's avonds en in het weekend niet. Je Zondag komt steeds op hetzelfde moment."
+  }
  ]
 }

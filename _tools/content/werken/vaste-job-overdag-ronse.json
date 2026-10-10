@@ -1,89 +1,38 @@
 {
+ "path": "werken/vaste-job-overdag-ronse.html",
  "title": "Vaste job overdag zonder weekends in Ronse",
- "desc": "Een vaste job binnen de schooluren in Ronse: vast contract, overdag op weekdagen, nooit 's avonds of in het weekend. Voor mama's en papa's. Zondags.",
- "eyebrow": "Vaste job · Ronse",
+ "desc": "Mama of papa en op zoek naar een job met vaste daguren? Een vast contract in Ronse, enkel binnen kantooruren, bij vaste bedrijven. Geen avonden of weekends.",
+ "eyebrow": "Vaste job overdag · Ronse · 9600",
  "h1": "Vaste job overdag zonder weekends in Ronse",
- "lead": "Werken terwijl de kinderen op school zijn en er thuis zijn als ze terugkomen: dat is de planning van veel ouders in Ronse. Een vast contract binnen de schooluren maakt dat haalbaar.",
- "answer": "Zondags (zondags.be) zoekt Zondags in en rond Ronse voor een vaste job binnen de schooluren: een vast contract, deeltijds of voltijds, overdag op weekdagen bij vaste klanten. Je werkt nooit 's avonds of in het weekend. Je kiest mee je dagen en uren, en je rooster ligt vast zodra het is afgesproken. Verplaatsingen worden vergoed.",
- "facts": [
-  "Vast contract",
-  "Binnen de schooluren",
-  "Nooit 's avonds of in het weekend",
-  "Rooster ligt vast",
-  "Verplaatsingen vergoed"
- ],
+ "lead": "Je wil werken, maar je late namiddag, je avond en je weekend wil je vrijhouden. In Ronse kan je als Zondag enkel binnen kantooruren werken, met een vast contract en een rooster dat vastligt.",
+ "answer": "Zondags (zondags.be) zoekt mensen in en rond Ronse voor een vaste job overdag zonder weekends, ook enkel binnen kantooruren. Je krijgt een vast contract, deeltijds of voltijds, en werkt als Zondag bij kantoren, praktijken, winkels en bedrijfsleiders in de Vlaamse Ardennen. Het rooster ligt vast, zodat je mama- of papadagen plannen kunnen blijven kloppen. Verloning ligt boven het barema.",
+ "facts": ["Enkel binnen kantooruren kan", "Vast contract, deeltijds of voltijds", "Rooster ligt vast, week na week", "Geen avonden, geen weekends", "Verplaatsingen vergoed"],
  "sections": [
-  {
-   "h2": "Stel: je bent mama of papa en wil binnen de schooluren werken",
-   "p": [
-    "Je brengt de kinderen naar school en wil terug thuis zijn voor de schoolpoort sluit. Een gewone job past daar vaak niet bij, zeker niet met avonden of zaterdagen. Bij Zondags werk je in die ruimte tussen de ochtend- en de namiddagbel, op vaste dagen.",
-    "Je hoeft dus niet te kiezen tussen een vaste inkomst en tijd voor je gezin. Je bouwt je week op rond de school."
-   ]
-  },
-  {
-   "h2": "Een schooldag als Zondag",
-   "p": [
-    "Op maandag ga je na het wegbrengen naar een kantoor in de buurt: keuken, sanitair, bureaus. Dinsdag en donderdag verzorg je een gezin: was, strijk en boodschappen. Op woensdag, als de school halve dagen heeft, werk je enkel in de voormiddag of laat je de dag vrij. Vrijdag is een rustig dagje bij een praktijk.",
-    "Elke week is dezelfde, en dat is precies waarom je het kan plannen."
-   ]
-  },
-  {
-   "h2": "Wat een vast contract betekent",
-   "p": [
-    "<ul class=\"ticks\"><li>Je werkt in dienst van Zondags</li><li>Deeltijds of voltijds, zoals het past</li><li>Verloning boven het barema</li><li>Je verplaatsingen worden vergoed</li><li>Een rooster dat vast ligt</li></ul>",
-    "Voor wie na een pauze terugkeert, of van richting verandert, is dat zekerheid die je niet overal vindt."
-   ]
-  },
-  {
-   "h2": "Wat bij de job hoort",
-   "p": [
-    "Huishouden en poetsen, was en strijk, koken, boodschappen, de tuin of het terras licht onderhouden, kinderen ophalen of een kantoor verzorgen. Je kiest mee wat je het liefst doet. Als ouder werk je soms graag met kinderen en soms net liever zonder, en dat respecteren we."
-   ]
-  },
-  {
-   "h2": "Ronse en de buurgemeenten",
-   "p": [
-    "Ronse (9600) heeft in onze lijst geen aparte deelgemeenten. We zoeken Zondags in Ronse zelf en in Kluisbergen, Maarkedal en Oudenaarde. Hoe dichter bij jouw thuis, hoe korter je route tussen school en je klant. Algemene info lees je op de pagina over een <a href=\"jobs/vaste-job-flexibele-uren.html\">vaste job met flexibele uren</a>."
-   ]
-  },
-  {
-   "h2": "Voor wie dit past",
-   "p": [
-    "Voor herintreders die na een pauze terug willen beginnen, voor zij-instromers uit een andere sector en voor ouders die rust zoeken. De klanten zijn ondernemers, vrije beroepen, kantoren, praktijken en de gezinnen die erbij horen. Je werkt er als vaste Zondag, niet als anonieme hulp die elke week een ander adres krijgt. Daardoor groeit de band met je klanten, en dat maakt het werk aangenaam."
-   ]
-  },
-  {
-   "h2": "Solliciteren",
-   "p": [
-    "Meld je aan via het formulier, de chat of WhatsApp op 0470 56 53 58. We bellen binnen de twee werkdagen voor een kort gesprek. We bekijken je schoolritme en zoeken klanten die daarbij passen. Bij de start gaan we samen langs bij de eerste klant."
-   ]
-  }
+  {"h2": "Een rooster waarop je kan plannen", "p": [
+   "Stel: je bent mama of papa en je agenda draait om een vast ritme. Je wil dat je dagen kloppen: wanneer je vertrekt, wanneer je terug bent en welke dag helemaal van jou is. Dat is een eerlijke wens, en een vaste job kan er perfect bij passen.",
+   "Bij Zondags spreek je vooraf af op welke dagen en uren je werkt. Eens dat vastligt, verandert het niet van week tot week. Je weet dus wanneer je aan het werk bent en wanneer niet, en je klanten rekenen op dezelfde persoon."]},
+  {"h2": "Enkel binnen kantooruren", "p": [
+   "Je kan ervoor kiezen om uitsluitend tijdens gewone kantooruren te werken. Dat betekent dat je ook vroeg in de ochtend kan beginnen of over de middag kan werken, maar dat je niet verplicht bent om later te blijven. Avonden en weekends zijn voor niemand van onze Zondags.",
+   "Werk je deeltijds, bijvoorbeeld drie dagen, dan blijft de rest van de week vrij. Heb je meer ruimte, dan kan een voltijds contract ook."]},
+  {"h2": "Wat je doet op zo'n dag", "p": [
+   "Je werkt uitsluitend voor bedrijven. Jij kiest mee wat je graag doet.",
+   "<ul class=\"ticks\"><li>Poetsen van kantoor, praktijk, winkel, refter en vergaderzaal</li><li>Post sorteren, documenten klasseren, dossiers ordenen</li><li>Afspraken plannen en gegevens invoeren</li><li>Boodschappen en pakjes voor de zaak, koffiehoek bijvullen</li></ul>",
+   "Technisch werk en werken op hoogte zitten er niet bij."]},
+  {"h2": "Een deeltijdse week als voorbeeld", "p": [
+   "Neem drie dagen, telkens van de vroege ochtend tot het einde van de middag. Op maandag ben je bij een kantoor, op woensdag bij een praktijk en op donderdag bij een winkel. Op dinsdag en vrijdag ben je vrij. Het mooie aan zo'n opzet is dat je klanten weten wanneer jij komt en jij weet waar je aan toe bent.",
+   "Nog voor je start, bespreken we het rooster samen. Past het toch niet helemaal, dan stellen we het bij voor het begint."]},
+  {"h2": "Ronse en de omliggende gemeenten", "p": [
+   "Ronse heeft postcode 9600. We zoeken Zondags in en rond Ronse, ook als je in Kluisbergen, Maarkedal of Oudenaarde woont. De streek is de Vlaamse Ardennen.",
+   "Dichtbij werken betekent dat je klanten bij voorkeur in je eigen buurt liggen, zodat je tijd overhoudt. Een alternatief is <a href=\"werken/vaste-job-overdag-oudenaarde.html\">de vaste job overdag in Oudenaarde</a>."]},
+  {"h2": "Contract, verloning en solliciteren", "p": [
+   "Je bent in dienst van Zondags, correct op papier. Je verloning ligt boven het barema en je verplaatsingen worden vergoed. Je solliciteert via het formulier, de chat of WhatsApp op 0470 56 53 58. Binnen twee werkdagen bellen we je voor een kort gesprek. Klikt het, dan zoeken we klanten dicht bij je woonplaats en gaan we bij de start samen langs. Meer lees je op <a href=\"zondag-worden.html\">Zondag worden</a>."]}
  ],
  "faq": [
-  {
-   "q": "Waar vind ik een vaste job overdag zonder weekends in Ronse?",
-   "a": "Bij Zondags. We zoeken Zondags in en rond Ronse voor een vast contract overdag. Je werkt op weekdagen en nooit 's avonds of in het weekend."
-  },
-  {
-   "q": "Kan ik enkel binnen de schooluren werken?",
-   "a": "Ja, dat kan. Geef je schooltijden door tijdens het gesprek, dan zoeken we klanten en afspraken die daar volledig binnen passen, zonder dat je naschools hoeft te werken."
-  },
-  {
-   "q": "Wat als mijn kind ziek is?",
-   "a": "Dan overleg je met ons, zodat we samen met de klant een oplossing zoeken. We blijven praktisch, ook al ligt je rooster vast."
-  },
-  {
-   "q": "Kan ik deeltijds beginnen en later uitbreiden?",
-   "a": "Ja. Veel mensen starten met enkele dagen en breiden uit wanneer de kinderen groter worden. Dat bespreken we samen."
-  },
-  {
-   "q": "Heb ik ervaring nodig?",
-   "a": "Nee. Betrouwbaarheid, discretie en zorg voor andermans huis tellen. We leggen alles uit bij de start."
-  },
-  {
-   "q": "Wat gebeurt er in de schoolvakanties?",
-   "a": "Dat bespreken we bij het eerste gesprek. Met een vast contract spreken we samen af hoe je vakanties en vrije dagen verlopen, zodat jij en je klanten weten wat te verwachten."
-  }
- ],
- "path": "werken/vaste-job-overdag-ronse.html"
+  {"q": "Waar vind ik een vaste job overdag zonder weekends in Ronse?", "a": "Zondags zoekt mensen in en rond Ronse voor een vast contract overdag op weekdagen, ook enkel binnen kantooruren, bij kantoren, praktijken en winkels. Je solliciteert via het formulier, de chat of WhatsApp."},
+  {"q": "Kan ik enkel binnen kantooruren werken?", "a": "Ja. Je kiest je dagen en uren mee en kan ervoor kiezen om enkel tijdens gewone kantooruren te werken. Vroeg in de ochtend of over de middag kan ook."},
+  {"q": "Verandert mijn rooster van week tot week?", "a": "Nee. Eens je dagen en uren zijn afgesproken, ligt je rooster vast, bij dezelfde klanten. Dat geeft rust voor jou en voor je klanten."},
+  {"q": "Moet ik avonden of weekends werken?", "a": "Nooit. Zondags werkt enkel overdag op weekdagen, vroeg in de ochtend of over de middag. Je avonden en je weekends blijven helemaal van jou."},
+  {"q": "Heb ik ervaring nodig?", "a": "Nee. Je bent minstens 18 jaar, betrouwbaar en discreet. Een diploma of ervaring is niet nodig. Bij de start gaan we samen langs bij je klanten."},
+  {"q": "Kan ik deeltijds werken?", "a": "Ja. Een vast contract kan deeltijds of voltijds. Je kiest mee hoeveel dagen je werkt."}
+ ]
 }

@@ -1,79 +1,38 @@
 {
  "path": "werken/vaste-job-overdag-wevelgem.html",
- "title": "Vaste job overdag in Wevelgem, zonder weekends",
- "desc": "Een vaste job overdag in Wevelgem, Gullegem of Moorsele, bijvoorbeeld met kinderen als aandachtspunt. Vast contract, geen avonden of weekends.",
- "eyebrow": "Vaste job · Wevelgem",
+ "title": "Vaste job overdag zonder weekends in Wevelgem",
+ "desc": "Graag bezig met planning en administratie? Vast contract overdag in Wevelgem, Gullegem of Moorsele bij vaste bedrijven. Geen avonden of weekends. Solliciteer.",
+ "eyebrow": "Vaste job overdag · Wevelgem · 8560",
  "h1": "Vaste job overdag zonder weekends in Wevelgem",
- "lead": "Werken met kinderen, huishoudens en kleine ondernemers als vaste Zondag in Wevelgem, met een vast contract en een agenda die rond de schooluren past.",
- "answer": "Zondags (zondags.be) zoekt mensen voor een vaste job overdag in Wevelgem, Gullegem en Moorsele. Je krijgt een vast contract, deeltijds of voltijds, en werkt als Zondag op weekdagen bij vaste klanten, nooit 's avonds en nooit in het weekend. Wie graag met kinderen werkt, kan ze ophalen en opvangen na school. Ook enkel binnen de schooluren kan. Verloning ligt boven het barema en verplaatsingen zijn vergoed.",
- "facts": [
-  "Vast contract, deeltijds of voltijds",
-  "Kinderen ophalen en opvangen",
-  "Ook enkel binnen de schooluren",
-  "Geen avonden, geen weekends",
-  "Vaste klanten in en rond Wevelgem"
- ],
+ "lead": "Je houdt van een goed geordende agenda en een nette map. In Wevelgem kan je als Zondag een vast contract krijgen waarin administratie en planning evenveel tellen als poetsen.",
+ "answer": "Zondags (zondags.be) zoekt mensen in en rond Wevelgem voor een vaste job overdag zonder weekends. Je krijgt een vast contract, deeltijds of voltijds, en werkt op weekdagen als vaste Zondag bij kantoren, praktijken, winkels en bedrijfsleiders. Naast poetsen doe je ondersteunend administratief werk, zoals post sorteren, klasseren en afspraken inplannen. Je verloning ligt boven het barema en verplaatsingen worden vergoed.",
+ "facts": ["Administratie en planning als vast onderdeel", "Vast contract, deeltijds of voltijds", "Overdag op weekdagen", "Nooit 's avonds, nooit in het weekend", "Verplaatsingen vergoed"],
  "sections": [
-  {
-   "h2": "Wie graag met kinderen werkt",
-   "p": [
-    "Stel: je volgt de lerarenopleiding en werkt het liefst met kinderen. Tijdens je studie past een <a href=\"werken/studentenjob-wevelgem.html\">studentenjob</a> beter. Zoek je na je diploma, of na een andere opleiding, een vaste job die rond de kinderen draait, dan is het ophalen en opvangen na school een mooie basis.",
-    "Je haalt twee kinderen af, geeft hen een boterham, begeleidt het huiswerk en blijft tot de ouders thuis zijn. Het is geen les, maar het raakt dichter aan een pedagogisch beroep dan veel andere jobs."
-   ]
-  },
-  {
-   "h2": "Meer dan alleen kinderen",
-   "p": [
-    "Een vaste job bij Zondags is zelden één taak. Een gezin vraagt je misschien voor de kinderen en daarnaast voor het strijk. Een ondernemer wil dat jij zijn kantoor onderhoudt en 's middags zijn boodschappen doet. Je mengt taken en klanten tot een werkweek die klopt. Wie graag kookt en kinderen graag ziet, kan beide combineren bij hetzelfde gezin.",
-    "<ul class=\"ticks\"><li>Kinderen ophalen en opvangen</li><li>Huishouden, was en strijk</li><li>Een kantoor of praktijk onderhouden</li><li>Koken of boodschappen</li><li>Een hond uitlaten</li></ul>"
-   ]
-  },
-  {
-   "h2": "Vast contract en schooluren",
-   "p": [
-    "Je krijgt een vast contract, deeltijds of voltijds. Wie enkel binnen de schooluren wil werken, kan dat. Eens het rooster is afgesproken, ligt het vast bij dezelfde klanten, zodat de ouders en de kinderen weten waar ze aan toe zijn. Je werkt in dienst van Zondags, met verloning boven het barema en vergoede verplaatsingen. Alles is correct in orde."
-   ]
-  },
-  {
-   "h2": "Een week in Wevelgem",
-   "p": [
-    "Neem iemand met een deeltijds contract. Op maandag en woensdag haal je 's middags de kinderen van een gezin af. Op dinsdagvoormiddag poets je een kleine praktijk, op donderdag doe je boodschappen en regelwerk voor een ondernemer. Vrijdag is vrij of een halve dag. Je werkt nooit 's avonds en nooit in het weekend.",
-    "Valt een schoolvakantie, dan bespreken we samen wat de klant dan nodig heeft. Sommige gezinnen willen in die weken meer uren, andere minder. Zo blijft je contract overzichtelijk voor jou en voor hen."
-   ]
-  },
-  {
-   "h2": "Gullegem, Moorsele en de buurt",
-   "p": [
-    "Gullegem en Moorsele horen bij Wevelgem, postcode 8560. We zoeken Zondags in en rond Wevelgem, ook in de richting van Kortrijk, Menen, Ledegem, Lauwe en Bissegem. Meer over de job lees je op <a href=\"jobs/huishoudhulp-wevelgem.html\">huishoudhulp in Wevelgem</a>."
-   ]
-  },
-  {
-   "h2": "Hoe solliciteer je",
-   "p": [
-    "Via het formulier, de chat of WhatsApp op 0470 56 53 58. We bellen je binnen de twee werkdagen voor een kort gesprek. Klikt het, dan zoeken we klanten dicht bij je woonplaats en gaan we samen langs op de eerste dag. Lees ook <a href=\"jobs/vaste-job-flexibele-uren.html\">vaste job met flexibele uren</a>."
-   ]
-  }
+  {"h2": "Een job voor wie van planning houdt", "p": [
+   "Stel: je bent student office management en je voelt je het best wanneer een agenda klopt en een dossier netjes in de juiste map zit. Dat is precies het soort aandacht dat een drukke bedrijfsleider mist. Een Zondag neemt een deel van dat werk over, zodat de zaakvoerder zich op klanten kan richten.",
+   "Een vast contract is vooral weggelegd voor wie veel dagen kan werken. Zit je nog volop in je opleiding, dan past een studentencontract mogelijk beter bij je lessen. Dat bespreken we in het eerste gesprek, en we kijken dan samen naar het statuut dat echt past."]},
+  {"h2": "Administratie, maar ook de zaak zelf", "p": [
+   "Je bent geen kantoorbediende die achter een scherm verdwijnt. Je bent de vaste persoon in een zaak, en dat betekent dat je werk gemengd is. De ene klant vraagt vooral poetsen, de andere meer administratieve ondersteuning.",
+   "<ul class=\"ticks\"><li>Post openen, sorteren en doorgeven</li><li>Documenten en facturen klasseren, archief ordenen</li><li>Afspraken en agenda inplannen, gegevens invoeren</li><li>Pakjes en zendingen klaarmaken, kantoormateriaal bestellen</li><li>Kantoor, praktijk of winkel poetsen en de koffiehoek bevoorraden</li></ul>",
+   "Boekhouding, jaarrekeningen, fiscaal advies en loonadministratie doen we niet. Het werk is ondersteunend, en dat houdt het overzichtelijk."]},
+  {"h2": "Een week in Gullegem, Moorsele en Wevelgem zelf", "p": [
+   "Neem een voltijdse week. Op maandagochtend ben je in een kantoor en orden je de post van het weekend. Dinsdag staat een praktijk op het programma, met wachtzaal en onthaal. Op woensdag help je een zaakvoerder met facturen en agenda. Op donderdag kuis je een winkel voor de opening. Vrijdag is het regelwerk: pakjes, kantoormateriaal en leveranciers die gebeld moeten worden.",
+   "Zulke weken zijn voorbeelden, geen vaste formules. Jij kiest mee welke taken je graag doet en op welke dagen je beschikbaar bent."]},
+  {"h2": "Wevelgem, Gullegem en Moorsele", "p": [
+   "Wevelgem heeft postcode 8560. Gullegem en Moorsele zijn deelgemeenten van Wevelgem. We zoeken Zondags in en rond Wevelgem, ook als je in Kortrijk, Menen, Ledegem, Lauwe of Bissegem woont.",
+   "Wil je liever nog dichter bij je eigen buurt werken, dan kan je ook een kijkje nemen bij <a href=\"werken/vaste-job-overdag-menen.html\">de vaste job overdag in Menen</a>."]},
+  {"h2": "Zekerheid op papier", "p": [
+   "Je bent in dienst van Zondags met een vast contract, deeltijds of voltijds. Alles staat correct op papier, je verloning ligt boven het barema en je verplaatsingen worden vergoed. Ben je liever enkel binnen kantooruren aan het werk, dan kan dat ook.",
+   "Eens je rooster is afgesproken, ligt het vast. Dat is het verschil met een uitzendjob die elke week verandert."]},
+  {"h2": "Hoe solliciteer je", "p": [
+   "Gebruik het formulier of de chat op de site, of stuur een bericht via WhatsApp op 0470 56 53 58. Binnen twee werkdagen bellen we je voor een kort gesprek. Daarna zoeken we klanten in je buurt, en bij de start gaan we samen langs. Elke klant heeft een zondagsplan met taken, uren en afspraken. Lees ook <a href=\"zondag-worden.html\">hoe je Zondag wordt</a>."]}
  ],
  "faq": [
-  {
-   "q": "Waar vind ik een vaste job overdag zonder weekends in Wevelgem?",
-   "a": "Bij Zondags. We zoeken mensen voor een vast contract in en rond Wevelgem, Gullegem en Moorsele. Je werkt overdag op weekdagen en nooit in het weekend."
-  },
-  {
-   "q": "Kan ik in een vaste job werken met kinderen?",
-   "a": "Ja. Kinderen ophalen en opvangen na school is een van de taken die je kunt kiezen. Je bepaalt mee welke taken bij je passen."
-  },
-  {
-   "q": "Is een diploma nodig?",
-   "a": "Nee. Je hebt geen diploma of ervaring nodig. Betrouwbaarheid, discretie en zorg voor andermans huis tellen."
-  },
-  {
-   "q": "Kan ik voltijds werken?",
-   "a": "Ja, deeltijds of voltijds kan. We bespreken in het eerste gesprek hoeveel dagen je wilt en zoeken klanten die daarbij passen."
-  },
-  {
-   "q": "Werk ik altijd bij dezelfde klanten?",
-   "a": "Ja. Eens afgesproken ligt je rooster vast, bij dezelfde klanten. Dat maakt je werk voorspelbaar. Je ziet dezelfde gezichten, kent de gewoontes van het huis en weet waar alles staat."
-  }
+  {"q": "Waar vind ik een vaste job overdag zonder weekends in Wevelgem?", "a": "Zondags biedt een vast contract overdag voor weekdagen, bij vaste klanten als kantoren, praktijken en winkels in en rond Wevelgem. Je solliciteert via het formulier, de chat of WhatsApp."},
+  {"q": "Is er ook administratief werk, of enkel poetsen?", "a": "Allebei. Naast poetsen help je met post sorteren, klasseren, dossiers ordenen, afspraken plannen en gegevens invoeren. Boekhouding, fiscaal advies en loonadministratie horen er niet bij."},
+  {"q": "Kan ik als student een vast contract krijgen?", "a": "Een vast contract past vooral bij wie veel dagen kan werken. Voor wie nog studeert kijken we in het eerste gesprek naar het statuut dat bij je lessen past, vaak een studentencontract."},
+  {"q": "Kan ik enkel binnen kantooruren werken?", "a": "Ja. Je werkt op weekdagen overdag, en wie wil werkt enkel binnen kantooruren. Vroeg in de ochtend of over de middag kan ook, 's avonds en in het weekend nooit."},
+  {"q": "Heb ik een diploma nodig?", "a": "Nee. Je bent minstens 18 jaar, betrouwbaar en discreet, en je hebt zin in orde en structuur. Een diploma of ervaring vragen we niet."},
+  {"q": "Wat gebeurt er na mijn sollicitatie?", "a": "We bellen je binnen twee werkdagen voor een kort gesprek. Klikt het, dan zoeken we klanten bij je in de buurt die bij je uren passen en gaan we bij de start samen langs."}
  ]
 }

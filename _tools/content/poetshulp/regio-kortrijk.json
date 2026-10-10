@@ -1,80 +1,36 @@
 {
  "path": "poetshulp/regio-kortrijk.html",
  "title": "Poetshulp voor bedrijven in de regio Kortrijk",
- "desc": "Poetshulp voor kantoren, praktijken en winkels in de regio Kortrijk, van Marke en Heule tot Menen, Harelbeke en Avelgem. Eén vaste Zondag en één factuur.",
+ "desc": "Zondags werkt vanuit Marke voor kantoren, praktijken en winkels in de regio Kortrijk. Eén vaste persoon, 60 euro per uur exclusief btw, online te boeken.",
  "eyebrow": "Regio Kortrijk",
  "h1": "Poetshulp voor bedrijven in de regio Kortrijk",
- "lead": "Zondags is gevestigd in Marke, in de regio Kortrijk. Van Menen tot Avelgem en van Wevelgem tot Spiere-Helkijn zoeken we voor je zaak één vaste Zondag uit de buurt.",
- "answer": "Zondags (zondags.be) levert poetshulp aan kantoren, praktijken en winkels in de regio Kortrijk: Kortrijk en zijn deelgemeenten, Wevelgem, Menen, Wervik, Harelbeke, Kuurne, Zwevegem, Deerlijk, Anzegem, Avelgem, Lendelede en Spiere-Helkijn. Je krijgt één vaste Zondag en een dienstenfactuur op naam van je vennootschap. Zondags is gevestigd in Marke, een deelgemeente van Kortrijk, en werkt in West- en Oost-Vlaanderen.",
- "facts": [
-  "Van Kortrijk tot Avelgem en Spiere-Helkijn",
-  "Kantoor, praktijk, winkel en woning",
-  "Zondags zelf gevestigd in Marke",
-  "Dienstenfactuur op je vennootschap",
-  "Eerste 2 uur gratis"
- ],
+ "lead": "Zondags zit zelf in de regio: vanuit Marke zoeken we een vaste persoon voor je kantoor, praktijk of winkel, in Kortrijk en in de gemeenten errond.",
+ "answer": "Zondags (zondags.be) is gevestigd in Marke, een deelgemeente van Kortrijk, en levert poetshulp voor bedrijven in de regio Kortrijk: kantoren, praktijken, winkels, showrooms en vzw's. Je krijgt één vaste persoon, je Zondag, die ook post kan sorteren of praktisch regelwerk voor de bedrijfsleider kan doen. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw. De dienstenfactuur komt op naam van je bedrijf.",
+ "facts": ["Gevestigd in Marke, regio Kortrijk", "Eén vaste Zondag per zaak", "Poetsen, administratie, rechterhand", "60 euro per uur, per blok van 3 uur", "Factuur op naam van je bedrijf", "Boeken voor een weekdag, overdag"],
  "sections": [
-  {
-   "h2": "Hier ligt ons thuisadres",
-   "p": [
-    "Het adres van Zondags ligt in Marke, een deelgemeente van Kortrijk. De regio Kortrijk is dus ons thuisgebied. Na je aanvraag belt iemand binnen één werkdag terug en komen we voor de intake bij jou langs, in je kantoor, praktijk of winkel. Voor je Zondag zoeken we iemand die in de buurt van je zaak woont."
-   ]
-  },
-  {
-   "h2": "Een stad, haar deelgemeenten en de buurgemeenten",
-   "p": [
-    "<ul class=\"ticks\"><li>Kortrijk met Marke, Heule, Bissegem, Aalbeke, Bellegem, Rollegem en Kooigem</li><li>Wevelgem met Gullegem en Moorsele</li><li>Menen met Lauwe en Rekkem</li><li>Wervik met Geluwe</li><li>Harelbeke, Kuurne, Zwevegem en Deerlijk</li><li>Anzegem, Avelgem, Lendelede en Spiere-Helkijn</li></ul>",
-    "Voor de grotere gemeenten vind je een eigen pagina, zoals <a href=\"poetshulp/kortrijk.html\">Kortrijk</a>, <a href=\"poetshulp/menen.html\">Menen</a> en <a href=\"poetshulp/wevelgem.html\">Wevelgem</a>."
-   ]
-  },
-  {
-   "h2": "Welke zaken hier een vaste poetshulp zoeken",
-   "p": [
-    "Het kan gaan om een klein kantoor met een team, een praktijk met een wachtzaal, een winkel of showroom, een kmo met een refter en kleedruimte, of een familiebedrijf waar zaak en woning naast elkaar liggen. Voor elk type werken we met hetzelfde principe: één vaste persoon, een vaste dag en een vast uur.",
-    "Stel: je hebt een winkel in Menen en je woont in Rekkem. Dezelfde Zondag poetst op dinsdag je winkel, voor je opent, en op donderdag je woning. Twee adressen, één persoon, één plan."
-   ]
-  },
-  {
-   "h2": "Meer dan het kantoor: de rest van je week",
-   "p": [
-    "<ul class=\"ticks\"><li>Was en strijk</li><li>Koken bij jou thuis of gezonde schotels voor de week</li><li>Boodschappen en regelwerk: apotheek, droogkuis en pakjes</li><li>Kinderen ophalen van school en opvang na school</li><li>Tuin, gras en terras, als licht onderhoud</li><li>De hond uitlaten en het huis bijhouden tijdens de vakantie</li></ul>",
-    "Dat alles kan in één plan, met dezelfde persoon en een factuur waarop beroepsmatig en privé apart staan."
-   ]
-  },
-  {
-   "h2": "De factuur in het kort",
-   "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap. Beroepsruimtes onderhouden is een beroepskost. Voor het privégedeelte geldt een forfaitair voordeel van alle aard, mits de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren.",
-    "De btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte in principe niet. Laat je accountant bevestigen wat voor jouw situatie geldt."
-   ]
-  },
-  {
-   "h2": "Zo begin je",
-   "p": [
-    "Doe een aanvraag via het formulier of de chat, of bel of stuur een WhatsApp naar 0470 56 53 58, elke dag van 6 tot 22 uur. Binnen één werkdag belt iemand terug. Na de intake maken we samen het zondagsplan. Je eerste 2 uur zijn gratis, om kennis te maken."
-   ]
-  }
+  {"h2": "Dicht bij huis, dicht bij je zaak", "p": [
+   "Wie poetshulp zoekt voor een zaak in Kortrijk of ernaast, kan bij Zondags aankloppen bij een bedrijf dat zelf in de regio zit. Ons adres is Jan Van Eyckstraat 2 in Marke. Dat maakt het eenvoudig om iemand te vinden die in de buurt van je zaak woont en op een vaste dag en een vast uur kan langskomen.",
+   "Eén vaste persoon betekent dat je niet elke week opnieuw hoeft uit te leggen waar de sleutel ligt, welke bureaus je niet wil verschuiven en hoe je keuken werkt. Je Zondag leert dat één keer en onthoudt het."]},
+  {"h2": "Kortrijk en zijn deelgemeenten", "p": [
+   "Binnen Kortrijk helpen we bedrijven in het centrum én in de deelgemeenten Marke, Heule, Bissegem, Aalbeke, Bellegem, Rollegem en Kooigem. Ze behoren allemaal tot de stad Kortrijk, ook al hebben ze elk een eigen postcode of karakter. Wil je de details voor de stad zelf, kijk dan op <a href=\"poetshulp/kortrijk.html\">poetshulp in Kortrijk</a>."]},
+  {"h2": "De gemeenten errond", "p": [
+   "De regio loopt verder dan de stadsgrens. Wevelgem, Menen, Wervik, Harelbeke, Kuurne, Zwevegem, Deerlijk, Anzegem, Avelgem, Lendelede en Spiere-Helkijn horen er mee bij. In sommige daarvan werken we ook in de deelgemeenten: Gullegem en Moorsele horen bij Wevelgem, Lauwe en Rekkem bij Menen, Geluwe bij Wervik.",
+   "Ligt je zaak in een van die dorpen, dan zoeken we in dezelfde buurt naar de juiste Zondag. De pagina's voor de afzonderlijke plaatsen staan onderaan."]},
+  {"h2": "Voorbeeld: een tandartspraktijk met twee behandelkamers", "p": [
+   "Stel: je hebt een tandartspraktijk in Heule met een wachtzaal, twee behandelkamers en een kleine personeelsruimte. Je assistente heeft haar handen vol met patiënten, en jijzelf zit tussen de afspraken door. Je Zondag komt op woensdagmiddag. Ze neemt wachtzaal, onthaal, sanitair en vloeren onder handen en laat de behandelkamers over aan je eigen team voor alles wat medisch is. Sterilisatie en medisch materiaal doet Zondags niet.",
+   "Wil je dat ze daarna de post sorteert of de koffiehoek aanvult, dan staat dat in je zondagsplan."]},
+  {"h2": "Wat we wel en niet doen", "p": [
+   "<ul class=\"ticks\"><li>Wel: kantoor, onthaal, vergaderzaal, refter, keuken, sanitair, vloeren en ramen langs binnen</li><li>Wel: post, klassement, agenda, kantoormateriaal en pakjes</li><li>Wel: boodschappen en kleine opdrachten voor de zaak</li><li>Niet: technische klussen, werken op hoogte, gevelreiniging en industriële reiniging</li><li>Niet: boekhouding, loonadministratie en fiscaal of juridisch advies</li></ul>"]},
+  {"h2": "Eén prijs voor de hele regio", "p": [
+   "Of je zaak nu in Kortrijk, Menen of Avelgem ligt, het tarief blijft hetzelfde: 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren kosten niet meer. Het onderhoud van je kantoor is in principe een beroepskost en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Laat dat bevestigen door je accountant."]},
+  {"h2": "Starten in de regio", "p": [
+   "Kies op de <a href=\"boeken.html\">boekpagina</a> je dag, de blokken en de taken, en betaal online met kaart of Bancontact. Voor een wekelijks plan bel of app je naar 0470 56 53 58 voor een kort gesprek."]}
  ],
  "faq": [
-  {
-   "q": "Welk bedrijf levert poetshulp voor bedrijven in de regio Kortrijk?",
-   "a": "Zondags zit zelf in de regio Kortrijk: het bedrijf is gevestigd in Marke. Je krijgt één vaste Zondag, gescreend en in dienst van Zondags, en een dienstenfactuur voor je vennootschap. We zoeken een Zondag die in de buurt van je zaak woont."
-  },
-  {
-   "q": "Werkt Zondags ook in Menen, Wervik of Harelbeke?",
-   "a": "Ja. Menen, Wervik, Harelbeke, Kuurne, Zwevegem, Deerlijk, Anzegem, Avelgem, Lendelede, Wevelgem en Spiere-Helkijn behoren allemaal tot de regio Kortrijk en tot ons werkgebied. Voor elke zaak zoeken we een Zondag die in de buurt woont."
-  },
-  {
-   "q": "Kan een Zondag ook de tuin doen of de hond uitlaten?",
-   "a": "Ja, licht onderhoud van tuin, gras en terras en de hond uitlaten kunnen in het zondagsplan, naast het poetsen. Werken op hoogte en technisch werk vallen erbuiten, daarvoor schakel je een gespecialiseerd bedrijf in."
-  },
-  {
-   "q": "Hoe bereik ik Zondags het snelst?",
-   "a": "Via telefoon of WhatsApp op 0470 56 53 58, elke dag van 6 tot 22 uur. Je kan ook mailen naar hello@zondags.be of het formulier of de chat op de site gebruiken. Een terugbelling volgt binnen één werkdag."
-  },
-  {
-   "q": "Kan ik kantoor en woning in dezelfde gemeente combineren?",
-   "a": "Ja. Kantoor en woning kunnen in één zondagsplan, met dezelfde persoon op verschillende dagen of uren. Op de factuur staan beide delen apart, zodat je accountant alles correct kan verwerken."
-  }
+  {"q": "Welk bedrijf levert poetshulp voor kantoren in de regio Kortrijk?", "a": "Zondags, gevestigd in Marke, levert een vaste Zondag voor kantoren, praktijken en winkels in Kortrijk en de omliggende gemeenten, met een factuur op naam van je bedrijf."},
+  {"q": "Werkt Zondags ook in Menen, Wevelgem of Harelbeke?", "a": "Ja. Die gemeenten behoren tot de regio, net als Wervik, Kuurne, Zwevegem, Deerlijk, Anzegem, Avelgem, Lendelede en Spiere-Helkijn. We zoeken een Zondag in de buurt van je zaak."},
+  {"q": "Wat kost poetshulp voor een bedrijf in de regio Kortrijk?", "a": "Je betaalt 60 euro per uur exclusief btw, geboekt per blok van 3 uur, dus 180 euro exclusief btw. Extra uren boek je aan hetzelfde uurtarief."},
+  {"q": "Kan Zondags een praktijk poetsen zonder medisch materiaal aan te raken?", "a": "Ja. Je Zondag poetst wachtzaal, onthaal, sanitair en vloeren. Sterilisatie en medisch materiaal blijven bij je eigen team, want dat doet Zondags niet."},
+  {"q": "Kan ik ook een vaste dag per week afspreken?", "a": "Ja. Voor een terugkerend plan bespreken we eerst kort welke taken, dagen en uren je wil. Daarna komt steeds dezelfde persoon op dezelfde dag en hetzelfde uur."}
  ]
 }

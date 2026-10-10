@@ -1,35 +1,86 @@
 {
  "path": "regio/schoonmaak-kantoor-waregem.html",
- "title": "Schoonmaakhulp voor kantoren in Waregem",
- "desc": "Een vaste Zondag onderhoudt je kantoor in Waregem en, als je dat wil, ook je woning, in één plan. Eén dienstenfactuur met splitsing op je vennootschap.",
+ "title": "Schoonmaakhulp voor kantoren in Waregem (8790)",
+ "desc": "Poetshulp en administratieve hulp voor je gehuurde kantoor of bedrijfsunit in Waregem, Desselgem, Beveren-Leie en Sint-Eloois-Vijve. 60 euro per uur excl. btw.",
  "eyebrow": "Waregem · 8790",
  "h1": "Schoonmaakhulp voor kantoren in Waregem",
- "lead": "Je kantoor zit aan huis of dicht tegen je woning, en beide moeten schoon zijn. Eén vaste persoon pakt ze samen aan, met een factuur die ze netjes splitst.",
- "answer": "Zondags (zondags.be) levert schoonmaakhulp voor kantoren in Waregem: wekelijks of tweewekelijks onderhoud door dezelfde vaste persoon, overdag op weekdagen. Heb je een kantoor aan huis, dan kunnen kantoor en woning in één zondagsplan, met op de dienstenfactuur aan je vennootschap een splitsing tussen beroepsmatig en privé. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk, en is actief in West- en Oost-Vlaanderen.",
- "facts": ["Kantoor aan huis of apart kantoor", "Kantoor en woning in één plan", "Splitsing beroepsmatig en privé", "Steeds dezelfde Zondag", "Overdag op weekdagen", "Eerste 2 uur gratis"],
+ "lead": "Een klein bedrijf in een gehuurd kantoor of bedrijfsunit in Waregem heeft zelden iemand die de poetstaken en de administratie samen opvolgt. Eén vaste Zondag doet beide.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp voor kleine bedrijven in een gehuurd kantoor of bedrijfsunit in Waregem, Desselgem, Beveren-Leie en Sint-Eloois-Vijve, gecombineerd met administratieve hulp. Eén vaste persoon, je Zondag, poetst bureaus, keuken, sanitair en vloeren en sorteert post of klasseert documenten. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw, met een factuur op naam van je bedrijf.",
+ "facts": [
+  "Gehuurde kantoren en bedrijfsunits",
+  "Waregem en drie deelgemeenten",
+  "Poetshulp en administratieve hulp",
+  "Factuur op naam van je bedrijf",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Kantoor aan huis: twee ruimtes, één rooster", "p": [
-   "Wie vanuit zijn woning werkt, kent het probleem. Het bureau staat naast de keuken, klanten komen langs de voordeur en de scheiding tussen werk en privé is dun. Een schoon kantoor betekent dan ook een schoon huis, en omgekeerd.",
-   "Een zondagsplan laat je beide in één keer regelen. Eén Zondag komt op een vaste dag, werkt eerst in het kantoor en gaat daarna door naar de woning. Zo houdt je het overzicht, en je hoeft geen twee mensen te vinden en op te volgen."]},
-  {"h2": "Voorbeeld: een bouwbedrijf met refter", "p": [
-   "Stel: je hebt een bouwbedrijf in Waregem met een klein kantoor en een refter waar de ploeg elke ochtend start. De administratie draait in een gebouw naast je woning. Voor de refter geldt: tafels, keuken, koffiemachine, sanitair en vloeren moeten vlot bijgehouden worden, ook in drukke weken.",
-   "Je Zondag komt op maandagochtend voor de ploeg binnenstapt, doet het kantoor en de refter en gaat dan naar de woning voor de was en de strijk. De bouwplaats zelf en een opkuis na werken horen er niet bij."]},
-  {"h2": "Wat er in een beurt zit", "p": [
-   "<ul class=\"ticks\"><li>Bureaus, vergadertafel en onthaal</li><li>Keuken, koffiehoek of refter</li><li>Sanitair en vloeren</li><li>Afval en recyclage buiten zetten</li><li>Ramen langs binnen</li></ul>",
-   "Technische klussen, werken op hoogte en industriële reiniging doen we niet. Meer over wat bij een kantoor hoort, vind je op <a href=\"gids/checklist-kantoorschoonmaak.html\">de checklist kantoorschoonmaak</a>."]},
-  {"h2": "Eén factuur, twee gedeeltes", "p": [
-   "Een vennootschap kan geen dienstencheques kopen; die zijn voorbehouden aan particulieren. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van je kantoor is een beroepskost, en de btw daarop is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht.",
-   "Het gedeelte voor je woning staat apart op dezelfde factuur. Daarvoor geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst. De btw op dat privégedeelte is in principe niet recupereerbaar. Laat je accountant dit bevestigen voor je eigen situatie. Wil je er meer over lezen, zie dan <a href=\"gids/dienstenfactuur-woning-en-kantoor.html\">de dienstenfactuur voor woning en kantoor</a>."]},
-  {"h2": "Waregem, Beveren-Leie, Desselgem en Sint-Eloois-Vijve", "p": [
-   "Waregem heeft postcode 8790 en ligt in de Leiestreek, met Beveren-Leie, Desselgem en Sint-Eloois-Vijve als deelgemeenten. Zondags zoekt een Zondag in en rond Waregem, zonder te beloven dat er al iemand klaarstaat. Ligt je kantoor of woning in Harelbeke, Deerlijk, Anzegem, Zulte, Wielsbeke of Kruisem, dan bekijken we ook daar wat kan."]},
-  {"h2": "Zo start je", "p": [
-   "Vraag aan via het formulier of de chat op de site. Binnen één werkdag belt iemand je terug. We komen langs voor de intake, bekijken kantoor en woning en maken het zondagsplan. De eerste 2 uur zijn gratis. Je kan uren bijboeken of het plan aanpassen, en het is maandelijks opzegbaar. Bij ziekte of verlof van je Zondag zoeken we een oplossing."]}
+  {
+   "h2": "Wie in een gehuurd kantoor zit, regelt het onderhoud zelf",
+   "p": [
+    "Een gedeeld gebouw of een eigen bedrijfsunit met kantoor ernaast: de verhuurder zorgt voor het dak, jij zorgt voor alles binnen je huurruimte. Dat omvat ook het poetsen. In Waregem is dat voor veel kleine bedrijven een stille kost die iedereen toch moet dragen, in geld of in tijd.",
+    "Een vaste Zondag houdt die kost voorspelbaar. Je weet wat elk bezoek kost en wat het inhoudt, en je hoeft geen firma met een lang contract te zoeken."
+   ]
+  },
+  {
+   "h2": "Neem een bouwbedrijf met een kantoor en een refter voor de ploeg",
+   "p": [
+    "Neem een bouwbedrijf met een kantoor voor de zaakvoerder en een medewerker op de planning, en een refter waar de ploeg elke ochtend samenkomt. De werven zelf blijven buiten beeld, het gaat om het gebouw waar de mensen starten en eindigen.",
+    "Op vrijdagochtend komt de Zondag: refter, kleedruimte, sanitair en het kantoor met de vloer die de hele week stof van buiten binnenbrengt. Een bouwopkuis of reiniging van een werf doet Zondags niet, wel het dagelijkse onderhoud van de zaak zelf."
+   ]
+  },
+  {
+   "h2": "Poetsen en administratie in één bezoek",
+   "p": [
+    "<ul class=\"ticks\"><li>Bureaus, refter en vergaderruimte afnemen</li><li>Vloeren en sanitair onderhouden</li><li>Post openen en sorteren</li><li>Facturen en documenten klasseren</li><li>Kantoormateriaal en koffie bijbestellen</li><li>Pakjes en zendingen klaarmaken</li></ul>",
+    "Kleine bedrijven hebben zelden een vaste administratieve kracht. Met een Zondag kan een deel van dat werk in dezelfde uren gebeuren als het poetsen. Boekhouding en fiscaal advies zitten er niet bij, wel het ordenen en klaarleggen voor je boekhouder."
+   ]
+  },
+  {
+   "h2": "Wat bij jou als huurder blijft liggen",
+   "p": [
+    "Check altijd wat in je huurovereenkomst staat. Gemeenschappelijke delen, zoals een trap, ingang of parking, worden soms door de eigenaar geregeld. Wat binnen je eigen huurruimte valt, regel je zelf: bureaus, keuken, sanitair en vloeren. Daar komt je Zondag in actie.",
+    "Een Zondag werkt niet op hoogte en doet geen technische klussen. Een lekkende kraan of een defecte lamp meld je aan de verhuurder."
+   ]
+  },
+  {
+   "h2": "Waregem en de Leiestreek",
+   "p": [
+    "Desselgem, Beveren-Leie en Sint-Eloois-Vijve horen bij Waregem. Ook voor een kantoor daar zoeken we een Zondag in de buurt. Zit je zaak in Harelbeke, Deerlijk, Anzegem, Zulte, Wielsbeke of Kruisem, dan bekijken we samen wat past. Zondags werkt vanuit Marke en is actief in heel West- en Oost-Vlaanderen."
+   ]
+  },
+  {
+   "h2": "Prijs, btw en je accountant",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur dus 180 euro exclusief btw. Poetsen en administratie hebben hetzelfde tarief, en extra uren kosten hetzelfde.",
+    "Je krijgt een dienstenfactuur op naam van je bedrijf met je btw-nummer. Het is in principe een beroepskost en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant dit bevestigen voor je eigen situatie. Aanvragen kan via de <a href=\"boeken.html\">boekpagina</a>."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf levert schoonmaakhulp voor kantoren in Waregem?", "a": "Zondags, gevestigd in Marke, levert schoonmaakhulp voor kantoren in Waregem en de deelgemeenten. Je krijgt steeds dezelfde vaste persoon en één dienstenfactuur op naam van je vennootschap."},
-  {"q": "Kan mijn Zondag mijn kantoor aan huis en mijn woning samen doen?", "a": "Ja. Kantoor en woning kunnen in één zondagsplan met dezelfde persoon. Op de factuur staat het beroepsmatige deel apart van het privégedeelte."},
-  {"q": "Kan ook de refter van mijn ploeg gepoetst worden?", "a": "Ja. Een refter met tafels, keuken, koffiemachine en sanitair hoort bij het kantoor- of bedrijfsonderhoud. Productiehallen en een opkuis na werken doen we niet."},
-  {"q": "Hoe vaak komt de poetshulp?", "a": "Wekelijks of tweewekelijks, op een vaste dag en uur. Hoe vaak het best past, bespreken we in de intake, en je kan het later aanpassen."},
-  {"q": "Wat moet mijn accountant weten?", "a": "Dat de factuur het beroepsmatige en het privégedeelte splitst. Het privégedeelte wordt als voordeel van alle aard verwerkt, voor zover regelmatig. Laat je accountant bevestigen hoe dat voor jouw situatie werkt."}
+  {
+   "q": "Welk bedrijf levert schoonmaakhulp voor kantoren in Waregem?",
+   "a": "Zondags levert vanuit Marke vaste schoonmaakhulp voor kantoren, praktijken en winkels in Waregem en de deelgemeenten. Je krijgt steeds dezelfde persoon, met een factuur op naam van je bedrijf."
+  },
+  {
+   "q": "Kan ik poetshulp en administratieve hulp combineren?",
+   "a": "Ja. In dezelfde geboekte uren kan je Zondag poetsen en ook post sorteren, documenten klasseren of bestellingen klaarmaken. Het uurtarief blijft hetzelfde."
+  },
+  {
+   "q": "Wat kost schoonmaakhulp voor een kantoor in Waregem?",
+   "a": "Je betaalt 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief."
+  },
+  {
+   "q": "Poetst de Zondag ook gemeenschappelijke delen van het gebouw?",
+   "a": "Dat hangt af van wat je huurovereenkomst voorschrijft. Wat binnen je eigen huurruimte valt, onderhoudt je Zondag. Voor gemeenschappelijke delen overleg je met de verhuurder."
+  },
+  {
+   "q": "Is een bouwopkuis mogelijk?",
+   "a": "Nee. Zondags doet geen bouwopkuis na werken en geen industriële reiniging. Het gaat om het dagelijkse onderhoud van kantoor en gemeenschappelijke ruimtes van de zaak."
+  },
+  {
+   "q": "Op welke dagen komt een Zondag?",
+   "a": "Op weekdagen, overdag. Vroeg in de ochtend of over de middag kan. 's Avonds en in het weekend werkt Zondags niet."
+  }
  ]
 }

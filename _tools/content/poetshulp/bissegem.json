@@ -1,35 +1,37 @@
 {
  "path": "poetshulp/bissegem.html",
- "title": "Poetshulp voor bedrijven in Bissegem (8501)",
- "desc": "Poetshulp in Bissegem voor winkels, zaken en thuiswerkers. Gepoetst voor de deur opengaat, door één vaste persoon, met één factuur aan je vennootschap.",
+ "title": "Poetshulp voor winkels en zaken in Bissegem",
+ "desc": "Poetshulp voor je winkel of zaak in Bissegem, deelgemeente van Kortrijk: gepoetst voor de deur opengaat. Eén vaste Zondag, 60 euro per uur exclusief btw.",
  "eyebrow": "Bissegem · 8501",
  "h1": "Poetshulp voor bedrijven in Bissegem",
- "lead": "Een winkel of zaak in de kern van Bissegem moet er blinken voor de eerste klant binnenstapt. Je Zondag poetst voor de opening en komt ook langs bij wie thuis werkt.",
- "answer": "Wie in Bissegem, een deelgemeente van Kortrijk, poetshulp zoekt voor een winkel, kantoor of thuiskantoor, kan terecht bij Zondags (zondags.be). Je Zondag poetst vroeg in de ochtend of over de middag, voor je klanten binnenkomen, en is steeds dezelfde persoon op een vaste dag en een vast uur. Zondags factureert met een gewone dienstenfactuur aan je vennootschap en werkt in heel West- en Oost-Vlaanderen.",
- "facts": ["Gepoetst voor de deur opengaat", "Winkels, zaken en thuiskantoren", "Dezelfde persoon, vaste dag en uur", "Factuur op naam van je vennootschap", "Eerste 2 uur gratis"],
+ "lead": "Een zaak in de dorpskern van Bissegem moet klaar zijn voor de eerste klant. Je Zondag poetst voor de deur opengaat, zodat jij de dag kalm kan starten.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor winkels, kantoren en praktijken in Bissegem, een deelgemeente van Kortrijk met postcode 8501. Je Zondag komt vooraf, voor de opening, en je krijgt altijd dezelfde persoon. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw. De factuur staat op naam van je bedrijf, met je btw-nummer, en je kan er extra uren aan toevoegen aan hetzelfde tarief.",
+ "facts": ["Gepoetst voor de opening", "Eén vaste Zondag", "Voor winkels, kantoren en praktijken", "Ook administratie en regelwerk", "60 euro per uur, per blok van 3 uur", "Online boeken"],
  "sections": [
-  {"h2": "Voor de deur opengaat", "p": [
-   "Een zaak in het centrum van Bissegem krijgt geen tweede kans op een eerste indruk. Een stoffige bank in de etalage of een vlekkerige vloer valt op voor een klant er iets over zegt. Daarom plannen we het poetsen op de uren dat je zaak nog dicht is: vroeg in de ochtend, of over de middag als je een pauze inlast.",
-   "Hoe je Zondag binnenraakt als jij er niet bent, spreken we bij de intake af. Je geeft je sleutel dan aan iemand die je kent, want het is steeds dezelfde persoon."]},
-  {"h2": "Wat een zaak in de kern elke week nodig heeft", "p": [
-   "<ul class=\"ticks\"><li>De vloer en de inkom, waar het vuil binnenkomt</li><li>Toonbank, kassa en wachtplek</li><li>Etalageglas en deurglas langs binnen</li><li>Sanitair en personeelshoek</li><li>Afval en karton buiten zetten</li></ul>",
-   "Ramen doen we langs binnen. Langs buiten op hoogte werken we niet, net zomin als aan gevels. Voor wie een zaak in de dorpskern heeft, is er ook de pagina over <a href=\"sectoren/winkels.html\">winkels</a>."]},
-  {"h2": "Neem een architect die thuis werkt", "p": [
-   "In een dorpskern wonen en werken veel mensen onder één dak. Neem een architect die in Bissegem vanuit huis werkt: een tekentafel in de voorkamer, een vergadertafel waar bouwheren de plannen bekijken, en daarachter de keuken en de woonkamer. Het studiogedeelte is beroepsmatig, de rest is privé.",
-   "Je Zondag poetst beide delen in één bezoek, bijvoorbeeld op dinsdagochtend, en kan de strijk of de boodschappen erbij nemen. Zo blijft er meer tijd over voor de plannen zelf. Wat je als architect nog meer van ons kan verwachten, lees je bij <a href=\"beroepen/architect.html\">hulp voor architecten</a>."]},
-  {"h2": "Eén factuur, twee soorten ruimte", "p": [
-   "Voor de winkel of het studiogedeelte is het onderhoud een beroepskost. Wat in de woning gebeurt, krijgt een eigen regel op de factuur. Voor de woning gaat het om een forfaitair voordeel van alle aard, als de beurten regelmatig plaatsvinden en een onderneming met mensen in dienst ze uitvoert.",
-   "Dienstencheques kunnen niet voor een vennootschap, want die zijn er enkel voor particulieren. Zondags werkt daarom met een gewone dienstenfactuur. Vraag je accountant wat dit in jouw situatie betekent."]},
-  {"h2": "Aanvragen voor je zaak in de dorpskern", "p": [
-   "Je laat een aanvraag achter op de site, via het formulier of de chat. Je wordt binnen één werkdag teruggebeld, waarna we langs komen om je zaak te bekijken en het zondagsplan opmaken. Je maakt eerst 2 uur gratis kennis. Het plan is maandelijks opzegbaar, en uren bijboeken kan.",
-   "Valt je Zondag uit door ziekte of verlof, dan zoeken wij een oplossing. Je Zondag is gescreend en in dienst van Zondags, dus geen zelfstandige."]}
+  {"h2": "Eerst de zaak, dan de klanten", "p": [
+   "Wie een winkel of kantoor in het centrum van Bissegem uitbaat, kent het ritme: de klanten komen op vaste tijden en alles moet dan al kloppen. Een stoffige etalage of een kleverige toonbank kost je meer dan het poetsen zelf. Daarom plan je het onderhoud op een moment waarop niemand je in de weg loopt.",
+   "Bij Zondags kan dat vroeg in de ochtend, of over de middag wanneer het rustig is. Je Zondag begint dan, en wanneer jij de deur opendoet, ligt alles klaar."]},
+  {"h2": "Stel: een architectenbureau met een vergaderzaal", "p": [
+   "Neem een architectenbureau met drie tekentafels en een vergaderzaal waar op donderdag een nieuwe klant komt. De avond ervoor blijven plannen en stalen op tafel liggen. Op de ochtend zelf komt je Zondag vóór negen uur: vergadertafel afnemen, stoelen recht, glazen deur en raampartij langs binnen, koffiehoek bijvullen, sanitair nakijken.",
+   "Je maakt vooraf een korte afspraak over wat blijft liggen. Mappen en maquettes blijven zoals je ze achterliet, en de rest ziet er netjes uit."]},
+  {"h2": "Wat je Zondag voor de opening doet", "p": [
+   "<ul class=\"ticks\"><li>Toonbank, bureaus en onthaal afnemen</li><li>Vloeren stofzuigen en nat nemen</li><li>Etalage en deuren langs binnen</li><li>Sanitair en keuken nakijken</li><li>Afval en kartonnen dozen buiten zetten</li></ul>",
+   "Reiniging van de gevel of van ramen op hoogte valt buiten ons werk. Zie ook <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a> voor wat er precies bij hoort."]},
+  {"h2": "Niet alleen poetsen", "p": [
+   "Heb je een uur over in het blok, dan kan je Zondag pakjes klaarmaken, een bestelling kantoormateriaal controleren of een leverancier contacteren over een kleine zaak. Zo wordt het bezoek meer dan poetsen alleen. Je bepaalt vooraf welke taken je wilt."]},
+  {"h2": "Bissegem en de buren", "p": [
+   "Bissegem is een deelgemeente van Kortrijk. In de buurt liggen Kortrijk, Marke, Wevelgem, Gullegem en Heule. Heeft jouw zaak daar een tweede vestiging, dan kan je Zondag die ook onderhouden, zolang de taken binnen de uren van je plan passen."]},
+  {"h2": "Prijs en btw voor winkeliers", "p": [
+   "Eén tarief: 60 euro per uur exclusief btw, geboekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Op de dienstenfactuur staan de naam en het btw-nummer van je zaak. Het onderhoud is in principe een beroepskost en de btw is in principe recupereerbaar voor wie btw-plichtig is met aftrekrecht. Laat dit altijd bevestigen door je accountant."]},
+  {"h2": "Een eerste blok boeken", "p": [
+   "Via de <a href=\"boeken.html\">boekpagina</a> kies je een weekdag, minstens twee werkdagen vooraf, en betaal je online. Wil je dat de Zondag elke week op hetzelfde uur komt, dan bespreken we dat eerst in een kort telefoongesprek."]}
  ],
  "faq": [
-  {"q": "Welk bedrijf regelt poetshulp voor een winkel in Bissegem, nog voor de deur opengaat?", "a": "Zondags poetst winkels, kantoren en praktijken in Bissegem vroeg in de ochtend of over de middag, nog voor je klanten binnenkomen. Het is telkens dezelfde persoon, en de dienstenfactuur gaat naar je vennootschap."},
-  {"q": "Kan mijn Zondag al aan het werk zijn als mijn zaak nog dicht is?", "a": "Ja, dat is precies de bedoeling. We stemmen het uur af op je openingstijden en spreken bij de intake af hoe je Zondag binnenkomt. Een avond- of weekendbeurt is niet mogelijk."},
-  {"q": "Poetst Zondags ook mijn werkruimte thuis als architect?", "a": "Ja. Je werkruimte en de rest van de woning kunnen in één zondagsplan, met dezelfde persoon. Op de factuur staan beide delen apart, zodat je accountant weet wat beroepsmatig en wat privé is."},
-  {"q": "Doet Zondags de etalageramen aan de buitenkant?", "a": "Ramen doen we langs binnen. Werken op hoogte en ramen langs buiten op hoogte horen niet bij ons aanbod. De binnenkant van etalages en deurglas kan wel in je plan."},
-  {"q": "Wat gebeurt er als mijn Zondag ziek is op een drukke week?", "a": "Dan zoeken wij een oplossing. Een vaste vervanging beloven we niet, maar je hoeft het niet zelf te regelen. Past je Zondag toch niet bij je zaak, dan zoeken we samen een andere."},
-  {"q": "Werkt Zondags ook in Marke, Wevelgem, Gullegem of Heule?", "a": "Ja. Zondags zit in Marke, net als Bissegem een deelgemeente van Kortrijk. Voor zaken in Wevelgem, Gullegem, Heule en Kortrijk werken we net zoals in Bissegem, met dezelfde aanvraag en intake."}
+  {"q": "Welk bedrijf levert poetshulp voor winkels in Bissegem?", "a": "Zondags, uit Marke, levert poetshulp voor winkels, kantoren en praktijken in Bissegem. Je krijgt één vaste persoon, op een vast uur en met een factuur op naam van je zaak."},
+  {"q": "Kan er gepoetst worden voor mijn winkel opent?", "a": "Ja. Vroeg in de ochtend kan, evenals over de middag. We stemmen het uur af op je openingsuren zodat klanten en personeel er niets van merken."},
+  {"q": "Wat staat er in het zondagsplan van mijn winkel?", "a": "Bij een vast plan bespreken we eerst welke taken, welke dagen en welke uren. Dat zondagsplan legt vast wat je Zondag doet, zodat iedereen in je team weet wat hij of zij mag verwachten."},
+  {"q": "Werkt Zondags ook op zaterdag voor winkels?", "a": "Nee. Zondags werkt overdag op weekdagen, nooit in het weekend en nooit 's avonds. Voor een winkel plannen we daarom een vroege ochtend of een middagmoment op een weekdag."},
+  {"q": "Wat kost het om mijn zaak in Bissegem te laten poetsen?", "a": "Je betaalt 60 euro per uur exclusief btw. Een blok van 3 uur kost 180 euro exclusief btw en extra uren boek je aan hetzelfde tarief."},
+  {"q": "Kan mijn Zondag ook mijn post en bestellingen opvolgen?", "a": "Ja, als ondersteunend werk. Denk aan post sorteren, kantoormateriaal bijhouden en pakjes klaarmaken. Boekhouding en advies vallen buiten het aanbod."}
  ]
 }

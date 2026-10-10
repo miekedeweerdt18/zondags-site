@@ -1,80 +1,38 @@
 {
  "path": "werken/vaste-job-overdag-deinze.html",
  "title": "Vaste job overdag zonder weekends in Deinze",
- "desc": "Een vaste job overdag in Deinze, zonder avonden en weekends. Deeltijds of voltijds, bij vaste klanten. Zondags zoekt Zondags in en rond Deinze.",
- "eyebrow": "Vaste job · Deinze",
+ "desc": "Vierdagenweek en een vrije dag over? Een vast contract overdag in Deinze, Astene of Nevele bij vaste bedrijven, zonder avonden of weekends. Solliciteer.",
+ "eyebrow": "Vaste job overdag · Deinze · 9800",
  "h1": "Vaste job overdag zonder weekends in Deinze",
- "lead": "Een vast contract bij vaste klanten, op weekdagen en overdag. Handig als je vierdagenweek een vrije dag oplevert die je wil laten renderen.",
- "answer": "Zondags (zondags.be) zoekt Zondags in en rond Deinze voor een vaste job overdag, zonder avonden en weekends. Je werkt met een vast contract, deeltijds of voltijds, bij vaste klanten zoals ondernemers, praktijken, kantoren en gezinnen. Je kiest mee je dagen en uren, ook enkel binnen de schooluren kan. Solliciteren gaat via het formulier, de chat of WhatsApp.",
- "facts": [
-  "Vast contract",
-  "Deeltijds of voltijds",
-  "Overdag, geen avonden en weekends",
-  "Ook binnen de schooluren",
-  "Verloning boven het barema"
- ],
+ "lead": "Je werkt vier dagen als bediende en hebt een vrije dag die je zinvol wil invullen. In Deinze kan die dag een vaste plek krijgen, als Zondag bij een bedrijf dat op je rekent.",
+ "answer": "Zondags (zondags.be) zoekt mensen in en rond Deinze voor een vaste job overdag zonder weekends. Je krijgt een vast contract, deeltijds of voltijds, en werkt als Zondag op weekdagen bij kantoren, praktijken, winkels en bedrijfsleiders in de Leiestreek. Wie een vierdagenweek heeft, kan de vrije dag invullen. Of een extra contract naast je hoofdjob past, bekijken we samen in het eerste gesprek.",
+ "facts": ["Past bij een vrije dag in je week, na overleg", "Vast contract, deeltijds of voltijds", "Overdag op weekdagen", "Geen avonden, geen weekends", "Verplaatsingen vergoed"],
  "sections": [
-  {
-   "h2": "Zekerheid met een eigen invulling",
-   "p": [
-    "Een vaste job bij Zondags betekent een vast contract, geen opeenvolging van kortlopende opdrachten. Je bent in dienst van Zondags, alles is correct in orde op papier, de verloning ligt boven het barema en je verplaatsingen worden vergoed.",
-    "Het contract kan deeltijds of voltijds zijn. Wil je enkel werken binnen de schooluren, dan kan dat evengoed. Je kiest mee je dagen en uren, en eens afgesproken ligt je rooster vast."
-   ]
-  },
-  {
-   "h2": "Stel: je werkt vier dagen en wil de vijfde invullen",
-   "p": [
-    "Neem een bediende met een vierdagenweek. De vijfde dag is vrij, en die voelt vaak te kostbaar om weg te geven maar te lang om niets mee te doen. Een vaste job kan daar anders over denken: je bouwt een eigen dag op bij klanten die je leert kennen.",
-    "Het kan ook groter. Misschien merk je dat dit werk je beter ligt dan je kantoorbaan en wil je geleidelijk meer uren. Dan bekijken we samen hoe je van een deel van een week naar een volle week gaat, in je eigen tempo en zonder weekendwerk."
-   ]
-  },
-  {
-   "h2": "Wat zo'n dag kan inhouden",
-   "p": [
-    "Op een vaste weekdag begin je misschien bij een zaakvoerder die zijn kantoor graag verzorgd heeft voor de eerste afspraak. Daarna ga je naar een woning voor de was en de strijk. Over de middag kook je voor een gezin of ga je naar een praktijk die de wachtzaal laat onderhouden.",
-    "Je ziet dezelfde klanten terug. Dat is het verschil met een anonieme schoonmaakjob: bij Zondags ben je iemands Zondag, de persoon op wie ze rekenen."
-   ]
-  },
-  {
-   "h2": "Voor wie dit werk past",
-   "p": [
-    "<ul class=\"ticks\"><li>Zij-instromers die van richting willen veranderen</li><li>Herintreders na een pauze</li><li>Ouders die werk en gezin willen combineren</li><li>Wie zekerheid zoekt zonder weekenden</li></ul>",
-    "Ervaring of een diploma is niet nodig. Betrouwbaarheid, discretie en zorg voor andermans huis tellen, en je spreekt voldoende Nederlands om afspraken te maken. Technische klussen en werken op hoogte horen er niet bij."
-   ]
-  },
-  {
-   "h2": "Werken in Deinze en omgeving",
-   "p": [
-    "We zoeken Zondags in en rond Deinze. Astene, Bachte-Maria-Leerne, Gottem, Grammene, Meigem, Petegem-aan-de-Leie, Vinkt, Zeveren, Nevele, Landegem en Merendree horen bij Deinze. Ook als je in Zulte, Nazareth, Sint-Martens-Latem, Aalter, Dentergem of Kruisem woont, kijken we naar klanten die dicht genoeg bij je liggen."
-   ]
-  },
-  {
-   "h2": "Solliciteren in drie stappen",
-   "p": [
-    "Eerst een aanmelding via het formulier, de chat of WhatsApp op 0470 56 53 58. Daarna een kort telefoongesprek, binnen de twee werkdagen. Klikt het, dan zoeken we klanten bij jou in de buurt en gaan we samen langs bij de start. Bekijk ook de pagina <a href=\"jobs/vaste-job-flexibele-uren.html\">vaste job met flexibele uren</a>."
-   ]
-  }
+  {"h2": "Je vrije dag invullen met een vaste afspraak", "p": [
+   "Stel: je bent bediende en werkt een vierdagenweek. Elke week heb je een dag die je eigenlijk niet nodig hebt voor rust. Je zou er graag iets aan verdienen, maar het moet vastliggen: dezelfde dag, dezelfde uren, geen verrassingen.",
+   "Dat past bij het werk van een Zondag. Je komt op een vaste dag bij dezelfde klant, en die klant rekent op jou. Wat het juiste contract is, hangt af van je hoofdjob. Een tweede contract naast een bestaande job is niet altijd vanzelfsprekend, dus bespreken we je situatie in het eerste gesprek. Past het niet, dan zoeken we samen een statuut dat wel past."]},
+  {"h2": "Eén dag per week kan al genoeg zijn", "p": [
+   "Je hoeft geen voltijds te werken om iets op te bouwen. Een Zondag kan één vaste dag per week werken bij twee of drie klanten, bijvoorbeeld op vrijdag. Een kantoor in de voormiddag, een praktijk over de middag, en een winkel die na de middag nog netjes moet ogen.",
+   "Wil je later uitbreiden naar meer dagen, dan kan dat. Vast contract betekent hier: een vaste structuur, ook als de omvang klein begint."]},
+  {"h2": "Wat je op zo'n dag doet", "p": [
+   "Je werkt uitsluitend voor bedrijven. Daarbinnen kies je mee wat je graag doet.",
+   "<ul class=\"ticks\"><li>Kantoor, praktijk of winkel poetsen, inclusief refter en vergaderzaal</li><li>Post openen en sorteren, facturen en dossiers klasseren</li><li>Afspraken inplannen, gegevens invoeren, pakjes klaarmaken</li><li>Koffiehoek en keuken bevoorraden voor het team</li></ul>",
+   "Technische klussen en werken op hoogte zijn uitgesloten."]},
+  {"h2": "Deinze en de deelgemeenten", "p": [
+   "Deinze heeft postcode 9800. Tot Deinze horen Astene, Bachte-Maria-Leerne, Gottem, Grammene, Meigem, Petegem-aan-de-Leie, Vinkt en Zeveren. Ook Nevele, Landegem en Merendree zijn deelgemeenten van Deinze. We zoeken Zondags in en rond Deinze, ook als je in Zulte, Nazareth, Sint-Martens-Latem, Aalter, Dentergem of Kruisem woont.",
+   "Kijk voor een volgende gemeente ook eens naar <a href=\"werken/vaste-job-overdag-aalter.html\">de vaste job overdag in Aalter</a>."]},
+  {"h2": "Contract en rooster", "p": [
+   "Bij een vast contract ben je in dienst van Zondags. Alles staat correct op papier, je verloning ligt boven het barema en verplaatsingen worden vergoed. Ook enkel binnen kantooruren werken kan.",
+   "Je werkt overdag op weekdagen. Vroeg in de ochtend of over de middag kan, nooit 's avonds en nooit in het weekend. Eens afgesproken, ligt je rooster vast, en je komt telkens bij dezelfde klanten."]},
+  {"h2": "Solliciteren met een volle agenda", "p": [
+   "Je hoeft geen verlof te nemen om te solliciteren. Gebruik het formulier of de chat op de site, of stuur een bericht via WhatsApp op 0470 56 53 58. We bellen binnen twee werkdagen, op een moment dat jou past. Klikt het, dan zoeken we klanten dicht bij je woonplaats, en bij de start gaan we samen langs. Meer lees je op <a href=\"zondag-worden.html\">de pagina over Zondag worden</a>."]}
  ],
  "faq": [
-  {
-   "q": "Waar vind ik een vaste job overdag zonder weekends in Deinze?",
-   "a": "Bij Zondags. We zoeken Zondags in en rond Deinze met een vast contract, deeltijds of voltijds, overdag op weekdagen en nooit 's avonds of in het weekend."
-  },
-  {
-   "q": "Kan ik een vaste job doen naast mijn vierdagenweek?",
-   "a": "Of een vaste job naast een andere job past, bekijken we samen in het eerste gesprek. We kijken naar je situatie en zoeken het statuut dat wel past, ook als dat een deeltijds contract is."
-  },
-  {
-   "q": "Kan ik enkel tijdens de schooluren werken?",
-   "a": "Ja. Geef het door bij je sollicitatie, dan zoeken we klanten waarvan de uren aansluiten op de schooluren van je kinderen."
-  },
-  {
-   "q": "Heb ik een diploma nodig?",
-   "a": "Nee. Je hebt geen diploma of ervaring nodig. Bij de start gaan we samen langs bij je klanten en leggen we de taken uit."
-  },
-  {
-   "q": "Wat verdien ik?",
-   "a": "De verloning ligt boven het barema en verplaatsingen worden vergoed. Het precieze bedrag hangt af van je contract en je uren en bespreken we in het gesprek."
-  }
+  {"q": "Waar vind ik een vaste job overdag zonder weekends in Deinze?", "a": "Zondags zoekt mensen in en rond Deinze voor een vast contract overdag op weekdagen, bij kantoren, praktijken en winkels. Je solliciteert via het formulier, de chat of WhatsApp."},
+  {"q": "Kan ik één vaste dag per week werken?", "a": "Ja, in overleg. Je kiest mee je dagen en uren. Eén vaste dag per week kan een goed begin zijn, en je kan later uitbreiden als dat past."},
+  {"q": "Mag ik dit doen naast mijn hoofdjob?", "a": "Dat hangt af van je eigen situatie. In het eerste gesprek bekijken we samen wat kan. Past een vast contract niet, dan zoeken we een ander statuut dat wel past."},
+  {"q": "Moet ik avonden of weekends werken?", "a": "Nee. Zondags werkt enkel overdag op weekdagen. Vroeg in de ochtend of over de middag kan, nooit 's avonds en nooit in het weekend."},
+  {"q": "Welke werkgever is dat dan?", "a": "Je bent in dienst van Zondags, niet van de klant. Wij zorgen voor je contract, je verloning boven het barema en vergoede verplaatsingen. De klanten zijn bedrijven in je buurt."},
+  {"q": "Heb ik een diploma nodig?", "a": "Nee. Je bent minstens 18 jaar, betrouwbaar en discreet. Een diploma of ervaring is niet nodig, en bij de start gaan we samen langs bij je klanten."}
  ]
 }

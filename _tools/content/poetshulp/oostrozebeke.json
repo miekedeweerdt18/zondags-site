@@ -1,34 +1,86 @@
 {
  "path": "poetshulp/oostrozebeke.html",
- "title": "Poetshulp voor praktijken in Oostrozebeke, ook thuis",
- "desc": "Poetshulp voor je praktijk in Oostrozebeke: wachtzaal, consultatieruimte en sanitair, en op vraag ook je woning, met één factuur aan je vennootschap.",
+ "title": "Poetshulp voor praktijken in Oostrozebeke (8780)",
+ "desc": "Poetshulp voor kinesisten, tandartsen en andere vrije beroepen in Oostrozebeke: wachtzaal, consultatieruimte en sanitair. 60 euro per uur excl. btw.",
  "eyebrow": "Oostrozebeke · 8780",
  "h1": "Poetshulp voor bedrijven in Oostrozebeke",
- "lead": "Je patiënten zien de wachtzaal en het toilet, jij zit met de rest: de keuken, de badkamer en de was. In Oostrozebeke houdt één vaste Zondag praktijk en woning bij.",
- "answer": "Voor een praktijk in Oostrozebeke (8780) kan je terecht bij Zondags (zondags.be): één vaste persoon, je Zondag, poetst wachtzaal, consultatieruimte en sanitair en op vraag ook je woning. Praktijk en woning staan samen in één zondagsplan en apart op dezelfde dienstenfactuur aan je vennootschap. Het bedrijf zit in Marke, bij Kortrijk, en werkt in heel West- en Oost-Vlaanderen.",
- "facts": ["Wachtzaal, consultatieruimte en sanitair", "Ook je woning, in hetzelfde plan", "Voor vrije beroepen met een praktijk", "Factuur met beroepsmatig en privé apart", "Eerste 2 uur gratis"],
+ "lead": "Een praktijk in Oostrozebeke heeft een wachtzaal, een consultatieruimte en sanitair die tussen de afspraken door moeten blijven kloppen. Een vaste Zondag poetst ze net buiten de consulturen.",
+ "answer": "Zondags (zondags.be) levert poetshulp aan praktijken en andere vrije beroepen in Oostrozebeke (8780): wachtzaal, consultatieruimte, onthaal en sanitair, onderhouden door één vaste Zondag op een uur buiten de consulturen. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw. De dienstenfactuur staat op naam van je vennootschap of eenmanszaak met btw-nummer.",
+ "facts": [
+  "Praktijken en vrije beroepen",
+  "Wachtzaal, consultatieruimte, sanitair",
+  "Poetsen buiten de consulturen",
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Factuur op naam van je bedrijf"
+ ],
  "sections": [
-  {"h2": "Twee werkterreinen, één Zondag", "p": [
-   "Wie een vrij beroep uitoefent, pendelt tussen twee werelden: de praktijk waar patiënten of cliënten binnenkomen en de woning waar het gezinsleven doorgaat. Beide vragen poetswerk, maar op andere momenten en met andere eisen. De praktijk moet strak zijn voor de eerste afspraak; thuis volstaat een vast ritme in de week.",
-   "Een vaste Zondag combineert die twee. Dezelfde persoon kent je praktijk en je huis, en daardoor hoef je niets dubbel uit te leggen."]},
-  {"h2": "Een kinesitherapeut met een praktijk aan huis", "p": [
-   "Neem een kinesitherapeut die vanuit een praktijk in de eigen woning in Oostrozebeke werkt. Patiënten melden zich in de wachtzaal, krijgen behandeling in een consultatieruimte of in de oefenzaal en gebruiken het toilet. Je Zondag poetst die ruimtes: vloeren, wachtzaal, behandelruimtes, oefenzaal en sanitair. Medisch materiaal en alles wat met sterilisatie te maken heeft, blijft bij jou.",
-   "Aansluitend gaat dezelfde Zondag naar het privégedeelte van je woning: keuken, badkamer, slaapkamers en de was. Zo loopt een ochtend in de praktijk over in een opgeruimd huis. Meer over dit soort praktijken lees je bij <a href=\"sectoren/paramedische-praktijken.html\">poetshulp voor paramedische praktijken</a>."]},
-  {"h2": "Wat bij de praktijk hoort", "p": [
-   "<ul class=\"ticks\"><li>Wachtzaal en onthaal: zitjes, tafeltjes en deurklinken</li><li>Consultatieruimtes en oefenzaal: vloeren en oppervlakten</li><li>Sanitair voor patiënten en voor jezelf</li><li>Ramen en glazen deuren langs binnen</li><li>Afval en recyclage</li></ul>"]},
-  {"h2": "Oostrozebeke en de Leiestreek", "p": [
-   "Oostrozebeke (8780) ligt in de Leiestreek, met Wielsbeke, Ingelmunster en Meulebeke in de buurt. Voor je praktijk zoeken we een Zondag uit je buurt. Het overzicht van de streek staat op <a href=\"poetshulp/leiestreek.html\">poetshulp in de Leiestreek</a>."]},
-  {"h2": "Praktijk, woning en btw: wat je best bespreekt", "p": [
-   "Het onderhoud van je praktijkruimtes is een beroepskost. Voor het privégedeelte geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en uitgevoerd worden via een onderneming met mensen in dienst. Voor een vennootschap zijn er geen dienstencheques.",
-   "Bij de btw maakt het uit of je praktijk btw-vrijgesteld is. Voor een btw-vrijgestelde praktijk is die btw doorgaans niet terug te vragen, terwijl een btw-plichtige zaak met aftrekrecht dat in principe wel kan op het beroepsmatige deel, en op het privégedeelte in principe niet. Laat je accountant bevestigen hoe dit voor jouw praktijk werkt. Meer lees je bij <a href=\"vragen/btw-vrijgestelde-praktijk-poetshulp.html\">btw en poetshulp voor een vrijgestelde praktijk</a>."]},
-  {"h2": "Starten in je praktijk", "p": [
-   "Je aanvraag doe je via de chat of het formulier. Een medewerker van Zondags belt je binnen één werkdag terug. Bij de intake lopen we samen door praktijk en woning, waarna je zondagsplan op papier staat. Je eerste 2 uur betaal je niet, om kennis te maken."]}
+  {
+   "h2": "Een praktijk is een visitekaartje van de eerste minuut",
+   "p": [
+    "Wie een praktijk binnenstapt, beoordeelt de zaak al in de wachtzaal. De vloer, de glazen deur, de bank, de tijdschriftentafel en het sanitair zeggen iets over hoe zorgvuldig je werkt, nog voor je de eerste vraag stelt. Voor vrije beroepen is dat geen detail.",
+    "Tegelijk heb je tussen twee afspraken geen tijd om zelf te poetsen. Daarom werkt Zondags met één vaste persoon op een vast uur, zodat de praktijk er elke dag hetzelfde verzorgd uitziet."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een kinesitherapeut in een winkelstraat",
+   "p": [
+    "Neem een kinesitherapeut die een praktijk heeft op de gelijkvloerse verdieping van een pand in een winkelstraat. Er zijn twee behandelkamers, een wachtzaal met een paar zetels, een kleine keuken en een toilet. De eerste patiënt komt om acht uur binnen.",
+    "Je Zondag komt vroeg, ruim voor de eerste afspraak, of tijdens de middagpauze wanneer de agenda even leeg is. Ze neemt de vloeren, de oppervlakken van de behandelkamers, de wachtzaal, het sanitair en de keuken. Ze verplaatst geen toestellen en raakt geen medisch materiaal aan. Sterilisatie doet Zondags niet."
+   ]
+  },
+  {
+   "h2": "Wat in een praktijk meestal op het lijstje staat",
+   "p": [
+    "<ul class=\"ticks\"><li>Wachtzaal en onthaalbalie</li><li>Consultatieruimte: vloeren en vrije oppervlakken</li><li>Sanitair, wasbakken en kranen</li><li>Keuken en personeelshoek</li><li>Glazen deuren en ramen langs binnen</li><li>Afval en recyclage</li></ul>",
+    "Wat je praktijk speciaal vraagt, bespreken we bij de start. Een kort gesprek volstaat om taken, uren en afspraken vast te leggen in het zondagsplan."
+   ]
+  },
+  {
+   "h2": "Admin voor je praktijk: post, agenda en dossiers",
+   "p": [
+    "Vrije beroepen zitten vaak alleen met de papierwinkel. Je Zondag kan de post openen, facturen en documenten klasseren, het archief ordenen en gegevens invoeren. Ook afspraken inplannen en kantoormateriaal bijhouden kan. Boekhouding, jaarrekeningen en juridisch of fiscaal advies doet Zondags niet.",
+    "Wie dat verder wil trekken richting regelwerk, vindt meer bij <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">een rechterhand voor bedrijfsleiders</a>."
+   ]
+  },
+  {
+   "h2": "Oostrozebeke en de buurgemeenten",
+   "p": [
+    "Oostrozebeke heeft zelf geen deelgemeenten in ons plan. Werk je in Wielsbeke, Ingelmunster of Meulebeke, dan kunnen we dezelfde dienstverlening bieden. We kijken telkens naar een Zondag in de buurt, zodat het uur voor opening haalbaar is."
+   ]
+  },
+  {
+   "h2": "Prijs, btw en boeken",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, geboekt per blok van 3 uur, dus 180 euro exclusief btw. Extra uren kosten hetzelfde per uur. De factuur staat op naam van je bedrijf. Poetshulp is in principe een beroepskost. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren, een btw-plichtige zaak met aftrekrecht in principe wel. Laat je accountant dit bevestigen voor jouw situatie.",
+    "Plan je eerste blok op de <a href=\"boeken.html\">boekpagina</a>, of bel voor een terugkerend plan."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf levert poetshulp voor een praktijk aan huis in Oostrozebeke?", "a": "Zondags (zondags.be) poetst praktijk en woning met één vaste Zondag. Die is gescreend, in dienst van Zondags en komt op vaste dagen: de ene dag voor de wachtzaal en de oefenzaal, een andere dag voor de keuken en badkamer thuis."},
-  {"q": "Kan de Zondag de wachtzaal en de oefenzaal van mijn praktijk poetsen?", "a": "Ja. Wachtzaal, consultatieruimtes, oefenzaal en sanitair horen bij het werk. Medisch materiaal en alles rond sterilisatie blijft bij jou. Wat precies in het zondagsplan staat, bepalen we samen tijdens de intake."},
-  {"q": "Kan mijn woning op dezelfde factuur als mijn praktijk?", "a": "Ja, als apart privégedeelte op dezelfde dienstenfactuur. Je accountant bevestigt hoe dat voor jouw situatie werkt, onder meer voor het voordeel van alle aard en de btw."},
-  {"q": "Kan ik een andere Zondag vragen als het niet klikt?", "a": "Ja. Voelt het niet goed met je Zondag, dan kiezen we samen iemand anders. Ondertussen blijft je plan maandelijks opzegbaar, dus je zit niet vast."},
-  {"q": "Komt de Zondag ook als mijn praktijk open is?", "a": "Dat kies je zelf. Vroeg in de ochtend of over de middag kan, wanneer er weinig of geen patiënten zijn. Avonden en weekends vallen buiten onze uren."}
+  {
+   "q": "Welk bedrijf doet poetshulp voor praktijken in Oostrozebeke?",
+   "a": "Zondags uit Marke levert poetshulp aan praktijken en vrije beroepen in Oostrozebeke. Je krijgt één vaste persoon, op een vast uur buiten de consulturen, en een factuur op naam van je bedrijf."
+  },
+  {
+   "q": "Kan mijn praktijk gepoetst worden buiten de consulturen?",
+   "a": "Ja. Vroeg in de ochtend of over de middag kan, op weekdagen. Avonden en weekends werken we niet."
+  },
+  {
+   "q": "Doet Zondags ook sterilisatie of medisch materiaal?",
+   "a": "Nee. Sterilisatie en het hanteren van medisch materiaal blijven bij de praktijk. Je Zondag poetst wachtzaal, vloeren, sanitair en keuken."
+  },
+  {
+   "q": "Kan ik als btw-vrijgestelde praktijk de btw recupereren?",
+   "a": "Doorgaans niet. Bij een btw-vrijgestelde praktijk is de btw meestal een kost. Laat je accountant bevestigen hoe dit voor jouw situatie werkt."
+  },
+  {
+   "q": "Wat kost poetshulp in Oostrozebeke?",
+   "a": "Je betaalt 60 euro per uur exclusief btw. Een blok van 3 uur is 180 euro exclusief btw. Extra uren boek je aan hetzelfde tarief."
+  },
+  {
+   "q": "Hoe boek ik poetshulp in Oostrozebeke?",
+   "a": "Via de boekpagina kies je datum, aantal blokken en taken, geef je de bedrijfsgegevens in en betaal je online. Voor een vast plan bel je 0470 56 53 58."
+  }
  ]
 }

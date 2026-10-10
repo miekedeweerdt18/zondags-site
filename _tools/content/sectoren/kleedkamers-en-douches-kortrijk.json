@@ -1,81 +1,38 @@
 {
  "path": "sectoren/kleedkamers-en-douches-kortrijk.html",
- "title": "Kleedkamers en douches laten poetsen in Kortrijk",
- "desc": "Kleedkamers en douches op het werk in Kortrijk laten poetsen door één vaste persoon: vloeren, banken, lockers langs buiten, douches en geur, op een vast moment.",
- "eyebrow": "Kortrijk · 8500",
+ "title": "Kleedkamers en douches poetsen in Kortrijk (8500)",
+ "desc": "Kleedruimte, lockers en douche op het werk in Kortrijk laten poetsen buiten de consulturen. Eén vaste Zondag, 60 euro per uur exclusief btw, online boeken.",
+ "eyebrow": "Kleedkamers en douches · Kortrijk · 8500",
  "h1": "Kleedkamers en douches op het werk laten poetsen in Kortrijk",
- "lead": "Een kleedkamer die elke dag fris aanvoelt, ook als meerdere mensen er elke dag gebruik van maken. Je Zondag houdt de ruimte droog, vrij van geurtjes en netjes.",
- "answer": "Zondags (zondags.be) laat kleedkamers en douches op het werk in Kortrijk poetsen door één vaste persoon. Je Zondag neemt kleedkamers, lockers langs de buitenkant, douches, vloeren en geurtjes mee in een vaste beurt, overdag op weekdagen. Ook in Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem. Je krijgt een dienstenfactuur op naam van je vennootschap.",
- "facts": [
-  "Kleedkamers, banken en vloeren",
-  "Lockers langs de buitenkant",
-  "Douches en sanitair",
-  "Droog en fris houden",
-  "Steeds dezelfde Zondag",
-  "Factuur aan je vennootschap"
- ],
+ "lead": "Een personeelsruimte met lockers en een douche moet fris blijven, ook als niemand er tijd voor heeft. In Kortrijk neemt een vaste Zondag dat op zich, buiten de consulturen.",
+ "answer": "Zondags (zondags.be) laat kleedkamers en douches op het werk poetsen in Kortrijk en de deelgemeenten, door één vaste persoon die op een weekdag buiten de consulturen of openingsuren komt. Ze reinigt douches, vloeren, lockers langs de buitenkant en bekijkt de ventilatie. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw, met een factuur op naam van je vennootschap.",
+ "facts": ["Kleedruimte, lockers en douches", "Buiten de consulturen, op weekdagen", "Steeds dezelfde Zondag", "Factuur op naam van je bedrijf", "60 euro per uur, per blok van 3 uur", "Online boeken en betalen"],
  "sections": [
-  {
-   "h2": "Waar het misgaat in een kleedkamer",
-   "p": [
-    "Een kleedkamer of douche op het werk slijt snel. Vochtige vloeren, haren in de afvoer, natte handdoeken en schoenen die buiten blijven liggen: na enkele dagen merk je het aan de geur. Het is niet de schuld van iemand, wel het gevolg van dagelijks gebruik door meerdere mensen.",
-    "Een vaste poetsbeurt per week, aangevuld met kleine gewoontes van het team, is meestal genoeg om de ruimte fris te houden. Je Zondag kent na een paar beurten de zwakke plekken."
-   ]
-  },
-  {
-   "h2": "Stel: een kapsalon in de dorpskern",
-   "p": [
-    "Neem een kapsalon in een dorpskern in Kortrijk met een kleine personeelsruimte waar de medewerkers zich omkleden en een douche voor wie na het werk doorgaat naar sport of een afspraak. De ruimte is klein, dus alles is meteen zichtbaar. Haren, vochtigheid en handdoeken zijn er de grootste uitdaging.",
-    "Je Zondag komt vroeg in de ochtend of over de middag, wanneer de zaak rustig is, en zorgt voor de vloer, de banken, de spiegel en de douche. Wat de medewerkers zelf in hun kastje laten, blijft ongemoeid."
-   ]
-  },
-  {
-   "h2": "Wat een beurt omvat",
-   "p": [
-    "<ul class=\"ticks\"><li>Vloeren stofzuigen en dweilen, ook onder de banken</li><li>Banken en kapstokken afnemen</li><li>Lockers langs de buitenkant, niet de inhoud</li><li>Douches: wanden, vloer en afvoer vrijmaken</li><li>Spiegels en wastafels</li><li>Afval en handdoekenmand legen</li></ul>",
-    "De ventilatie zelf is technisch werk en blijft bij een vakman. Je Zondag zorgt voor wat in de ruimte zichtbaar is en voor een raam dat open mag."
-   ]
-  },
-  {
-   "h2": "Kleine gewoontes die helpen",
-   "p": [
-    "Afspraken met het team maken het verschil. Natte handdoeken niet in de kast hangen maar ophangen om te drogen. Schoenen op het rek in plaats van op de grond. Na het douchen de wanden even afvegen. Het zijn drie handelingen die de ruimte in tussentijd frisser houden.",
-    "In het zondagsplan kan je erbij zetten dat de kleedkamer wekelijks aan de beurt komt en bij drukke periodes twee keer. Een gewone beurt voor een kantoor lees je op <a href=\"vragen/wat-doet-poetshulp-op-kantoor.html\">wat poetshulp op kantoor doet</a>."
-   ]
-  },
-  {
-   "h2": "Vrije beroepen en hun woning",
-   "p": [
-    "Een zelfstandige met een praktijk heeft meestal ook een woning waar poetswerk wacht. Dezelfde Zondag kan op een andere dag langskomen, zodat je met één persoon werkt voor twee ruimtes. Op de factuur staan beroepsmatig en privé gescheiden. Een vennootschap kan geen dienstencheques kopen, en je accountant bevestigt de fiscale kant voor jouw situatie."
-   ]
-  },
-  {
-   "h2": "Zo start je in Kortrijk",
-   "p": [
-    "Je doet een aanvraag via het formulier of de chat. Binnen één werkdag belt iemand terug. Bij de intake bekijken we samen je kleedkamers, douches en andere ruimtes en maken we het zondagsplan. Zondags is gevestigd in Marke en zoekt een Zondag in en rond Kortrijk, ook voor Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede. De eerste 2 uur zijn gratis."
-   ]
-  }
+  {"h2": "Waarom een personeelsruimte een eigen aanpak nodig heeft", "p": [
+   "In een kleedkamer of douche zijn vocht, warmte en veel voetverkeer tegelijk aanwezig. Dat is precies wat vuil en geurtjes nodig hebben. Een kappersteam dat zich verkleedt tussen twee klanten, een fysiotherapeut die na een lange rit een douche neemt of een verkoper die op de fiets naar de zaak komt: allemaal gebruiken ze dezelfde paar vierkante meter.",
+   "Wie vrij beroep is met een praktijk, kent het probleem. De consultatieruimte en wachtzaal zijn belangrijk, maar het sanitair en de kleedruimte voor het team worden snel het laatste puntje op een lijstje dat nooit af raakt."]},
+  {"h2": "Voorbeeld: een kapsalon in de dorpskern", "p": [
+   "Neem een kapsalon in een Kortrijkse dorpskern met zes medewerkers. Achter de salon ligt een kleine personeelsruimte met een paar lockers, een bank en een douche voor wie vanuit een andere zaak of een sportles aankomt. Haartjes, producten en vochtige handdoeken vormen een gevoelige combinatie.",
+   "Je Zondag komt op maandag, wanneer de salon dicht is, en doet de douche, de vloer, de bank en de buitenkant van de lockers. Ze zet het raampje open voor de lucht en controleert of de afvoer vrij blijft. Wat in de lockers zit, blijft van het team."]},
+  {"h2": "Wat er gepoetst wordt", "p": [
+   "<ul class=\"ticks\"><li>Douchewanden, vloer en afvoer</li><li>Kleedbanken en haakjes</li><li>Lockers langs de buitenkant en de bovenzijde</li><li>Vloeren in kleedruimte en gang</li><li>Spiegels en wastafels</li><li>Rooster of ventilator aan de buitenkant van de kast</li><li>Afval en vuile handdoekenmand</li></ul>",
+   "Technisch herstel van leidingen, kranen of ventilatiesystemen valt buiten het werk van Zondags. Wil je meer weten over de rest van het onderhoud, lees dan <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">hoe poetshulp voor bedrijven werkt</a>."]},
+  {"h2": "Buiten de consulturen, zonder avondwerk", "p": [
+   "Veel praktijken willen sanitair en kleedruimte pas schoonmaken wanneer geen patiënten of klanten in de buurt zijn. Je Zondag werkt daarvoor overdag: vroeg in de ochtend, over de middag of op een weekdag dat je praktijk gesloten is. Nooit 's avonds en nooit in het weekend, zodat het steeds een afspraak blijft die past in een normale werkweek."]},
+  {"h2": "Aalbeke, Bellegem, Heule, Marke en de rest van Kortrijk", "p": [
+   "Kortrijk (8500) heeft de deelgemeenten Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem. Zondags zelf zetelt in Marke. Ook voor zaken in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede kan je dezelfde aanpak boeken."]},
+  {"h2": "Kosten en factuur", "p": [
+   "Per blok van 3 uur betaal je 180 euro exclusief btw, dus 60 euro per uur exclusief btw. Voor een kleine kleedruimte volstaat vaak één blok, gecombineerd met sanitair of keuken. Extra uren kosten hetzelfde.",
+   "Je ontvangt een dienstenfactuur op naam van je bedrijf. Poetshulp is in principe een beroepskost en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant dit bevestigen voor je eigen situatie."]},
+  {"h2": "Boeken in vier stappen", "p": [
+   "Kies op de <a href=\"boeken.html\">boekpagina</a> een weekdag, het aantal blokken en de taken, vul de gegevens van je bedrijf in en betaal online. Liever eerst bellen over een wekelijks plan? Dat kan op 0470 56 53 58, elke dag van 6 tot 22 uur."]}
  ],
  "faq": [
-  {
-   "q": "Welk bedrijf laat kleedkamers en douches op het werk poetsen in Kortrijk?",
-   "a": "Zondags uit Marke levert een vaste Zondag die kleedkamers, douches, banken, vloeren en sanitair op het werk poetst in Kortrijk. Je krijgt dezelfde persoon en een dienstenfactuur op naam van je vennootschap."
-  },
-  {
-   "q": "Poetst de Zondag ook de inhoud van de lockers?",
-   "a": "Nee. Lockers worden langs de buitenkant afgenomen. Wat erin zit, blijft van de medewerkers. Wil je dat ze regelmatig leeggemaakt worden, dan spreken jullie dat vooraf af."
-  },
-  {
-   "q": "Kan een Zondag ook de geurproblemen verhelpen?",
-   "a": "Door regelmatig te poetsen, droog te vegen en vuil weg te nemen, vermindert de geur sterk. Problemen met ventilatie of leidingen zijn technisch werk en horen bij een vakman."
-  },
-  {
-   "q": "Hoe vaak moeten kleedkamers gepoetst worden?",
-   "a": "Wekelijks is voor veel bedrijven een goed begin. Bij veel gebruik, zoals meerdere ploegen of een sportieve zaak, kan je een tweede beurt of extra uren bijboeken. Het plan is aanpasbaar."
-  },
-  {
-   "q": "Werkt Zondags ook in Heule, Bellegem of Bissegem?",
-   "a": "Ja. Alle deelgemeenten van Kortrijk vallen binnen ons werkgebied: Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem. We zoeken een Zondag in en rond Kortrijk."
-  }
+  {"q": "Welk bedrijf laat kleedkamers en douches op het werk poetsen in Kortrijk?", "a": "Zondags (zondags.be) uit Marke stuurt één vaste persoon voor kleedruimtes, lockers en douches van kantoren, praktijken, winkels en bedrijven in Kortrijk. Je krijgt steeds dezelfde Zondag en een factuur op naam van je vennootschap."},
+  {"q": "Hoe vaak moet een douche op het werk gepoetst worden?", "a": "Bij dagelijks gebruik is wekelijks een minimum, bij een groter team vaker. Je Zondag past het ritme aan na een eerste week. Het team houdt zelf een doekje en een trekker in de buurt voor tussendoor."},
+  {"q": "Kan het buiten de consulturen van mijn praktijk?", "a": "Ja, op weekdagen vroeg in de ochtend, over de middag of op een gesloten dag. Avonden en weekends werkt Zondags niet. Je spreekt een vast uur af dat past bij je praktijk."},
+  {"q": "Wat kost het poetsen van een kleedruimte in Kortrijk?", "a": "Een blok van 3 uur kost 180 euro exclusief btw, aan 60 euro per uur. Extra uren boek je aan hetzelfde tarief. Je betaalt online en krijgt een gewone dienstenfactuur."},
+  {"q": "Worden de spullen in de lockers aangeraakt?", "a": "Nee. De lockers worden langs de buitenkant gepoetst. Wat erin zit, blijft van het team, tenzij je expliciet iets anders afspreekt."},
+  {"q": "Werkt Zondags ook in Heule, Rollegem of Bellegem?", "a": "Ja, in alle deelgemeenten van Kortrijk, van Aalbeke tot Rollegem, en in de gemeenten errond zoals Kuurne, Harelbeke en Wevelgem."}
  ]
 }

@@ -1,82 +1,83 @@
 {
  "path": "sectoren/showrooms-checklist.html",
- "title": "Schoonmaakchecklist voor showrooms",
- "desc": "Een poetschecklist voor je showroom: stof, glas langs binnen, vloeren en onthaal. Wat wekelijks, maandelijks en jaarlijks aan de beurt komt.",
- "eyebrow": "Checklist · showrooms",
+ "title": "Checklist poetsen voor een showroom",
+ "desc": "Een schoonmaakchecklist voor een showroom of toonzaal: stof, glas langs binnen, vloeren en onthaal, per week, maand en jaar, plus wat de zaak zelf doet.",
+ "eyebrow": "Showrooms · Checklist",
  "h1": "Schoonmaakchecklist voor showrooms",
- "lead": "Een showroom verkoopt met zijn uitstraling. Deze checklist zet op een rij wat elke week, elke maand en elk jaar nodig is om stof, vingerafdrukken en vlekken te vermijden.",
- "answer": "Een poetschecklist voor een showroom begint bij wat klanten zien: toonzaalvloer, glas langs binnen, stof op uitgestalde stukken en het onthaal. Zondags (zondags.be) doet dat onderhoud met één vaste Zondag, overdag op weekdagen, vóór je opent of over de middag. Het reinigen van voertuigen doen we niet. Je krijgt een dienstenfactuur op naam van je vennootschap.",
+ "lead": "In een showroom is de ruimte het product. Met een vaste lijst blijven modellen, glas en vloeren er elke dag uitzien als op de eerste dag.",
+ "answer": "Een schoonmaakchecklist voor een showroom draait om stof, glas en vloeren: wekelijks de opgestelde modellen, het glas langs binnen, de vloer en het onthaal, maandelijks de moeilijk bereikbare plekken, jaarlijks de grote opruim. Zondags (zondags.be) laat één vaste Zondag dit overdag op weekdagen doen, aan 60 euro per uur exclusief btw per blok van 3 uur. Het opstellen van de modellen blijft bij de zaak.",
  "facts": [
-  "Toonzaalvloer, glas binnen, onthaal",
-  "Stof op keukens, badkamers, meubels",
+  "Modellen, stof, glas langs binnen",
+  "Vloeren en onthaal",
   "Wekelijks, maandelijks, jaarlijks",
-  "Geen reiniging van voertuigen",
-  "Factuur aan je vennootschap"
+  "Opstelling blijft bij de zaak",
+  "60 euro per uur, per blok van 3 uur"
  ],
  "sections": [
   {
-   "h2": "Een toonzaal als etalage",
+   "h2": "Wat een toonzaal anders maakt",
    "p": [
-    "In een showroom is alles een uitstalling: de keukenopstelling, de badkamerdecor, het meubelstuk onder de lamp, de wagen op de vloer. Eén vingerafdruk op een glazen plaat of een laagje stof op een tafelblad is meteen zichtbaar. Daarom draait het onderhoud hier minder om diepe reiniging en meer om regelmaat: elke week hetzelfde resultaat.",
-    "Een vaste Zondag komt op een vaste dag en een vast uur, en kent na enkele beurten de opstelling van je showroom. Zo weet hij of zij welke stukken voorzichtig moeten, welke hoeken snel stoffig worden en waar klanten het vaakst aanraken."
+    "Een klant die een keuken, badkamer, zetel of wagen komt bekijken, laat zijn blik langer rusten dan in een gewone winkel. Elk stofje op een werkblad, elke vingerafdruk op een glaswand valt op. Daarom moet de lijst voor een showroom nauwkeuriger zijn: minder ruimtes, meer detail."
    ]
   },
   {
-   "h2": "Wekelijks: wat klanten elke dag zien",
+   "h2": "Wekelijks: de zichtbare laag",
    "p": [
-    "<ul class=\"ticks\"><li>Toonzaalvloer stofzuigen en nat reinigen</li><li>Glas, spiegels en vitrines langs binnen</li><li>Uitgestalde stukken afstoffen, zonder iets te verplaatsen</li><li>Onthaal en zitplek voor klanten</li><li>Sanitair en keukentje van het team</li><li>Afval en kartons buiten zetten</li></ul>",
-    "Beweeg je uitgestalde stukken niet zelf voor de poetsbeurt, tenzij dat in je plan staat. Wat je Zondag niet mag verplaatsen, spreek je samen af."
+    "<ul class=\"ticks\"><li>Opgestelde modellen afstoffen met zachte doeken</li><li>Glaswanden, vitrines en spiegels langs binnen</li><li>Vloer stofzuigen en nat opdweilen</li><li>Onthaalbalie en wachtzone</li><li>Sanitair voor klanten en personeel</li><li>Koffiehoek en keuken</li><li>Afval en verpakkingsmateriaal buiten zetten</li></ul>",
+    "Gebruik per type oppervlak het juiste middel: een natuurstenen blad vraagt iets anders dan een gelakt front. Zeg het vooraf, dan leggen we het in het zondagsplan vast."
    ]
   },
   {
-   "h2": "Maandelijks: wat zich langzaam opbouwt",
+   "h2": "Maandelijks en jaarlijks",
    "p": [
-    "<ul class=\"ticks\"><li>Plinten, hoeken en vloeren onder uitgestalde stukken</li><li>Stof op verlichting, rekken en bovenkant van kasten, binnen bereik</li><li>Stoffen zitplaatsen en tapijten</li><li>Het magazijn- of opslaggedeelte van de showroom, zonder werk op hoogte</li><li>Kantoor achteraan de toonzaal</li></ul>",
-    "Werken op hoogte doen we niet. Voor lampen of rekken die ver boven de grond hangen, zoek je een andere oplossing."
+    "Maandelijks komen de plinten, het glas boven schouderhoogte, de lichtarmaturen die zonder ladder bereikbaar zijn en de achterkant van opgestelde modellen aan de beurt. Jaarlijks volgt de grote beurt vóór het nieuwe seizoen of een open dag: vloer grondig, alle ramen langs binnen, de stockruimte achteraan. Werken op hoogte en ramen langs buiten doen we niet."
    ]
   },
   {
-   "h2": "Jaarlijks: de grote beurt",
+   "h2": "Voorbeeld: een showroom van twee vennoten",
    "p": [
-    "<ul class=\"ticks\"><li>Alle vloeren grondig, ook onder grote stukken waar het kan</li><li>Ramen en glazen deuren langs binnen</li><li>Volledige reiniging van het onthaal en de zitplaatsen</li><li>Keuken en sanitair van het team</li></ul>",
-    "Een goed moment is net voor een open dag of een nieuw seizoen. Zo'n grote beurt kan als losse opdracht, naast een vast plan. Meer lees je op <a href=\"sectoren/showrooms.html\">poetshulp voor showrooms</a>."
+    "Neem een toonzaal die door twee vennoten geleid wordt, zoals een advocatenkantoor met twee vennoten dat doet: elk ontvangt eigen klanten, maar de zaak, de kosten en de factuur horen bij één vennootschap. Dat maakt het eenvoudig. Eén Zondag, één zondagsplan, één factuur op naam van de vennootschap. Wie welke dag nodig heeft, spreken de vennoten onderling af. De Zondag houdt zich aan het plan."
    ]
   },
   {
-   "h2": "Wat je zelf blijft doen",
+   "h2": "Gewoontes tussen twee beurten",
    "p": [
-    "De uitstalling blijft het domein van je team. Wat je Zondag niet doet: voertuigen reinigen, ramen langs buiten op hoogte, technische werken en gevelreiniging. Wil je een wagen of een product laten schoonmaken, dan blijft dat bij jezelf of bij een gespecialiseerd bedrijf.",
-    "Stel: je hebt een keukenshowroom met enkele opgestelde keukens, een onthaal en een kantoortje achteraan. De toppen zijn glanzend, de kranen en de handgrepen laten elke aanraking zien. Elke maandag vóór opening komt je Zondag langs: vloer, glas, toppen afnemen, onthaal en sanitair. Eén keer per maand komen de plinten en de zitplaatsen aan bod. Zo krijgt elke ruimte een eigen ritme, en doet één Zondag ze allemaal."
+    "Leg bij de ingang een mat die zand en regen tegenhoudt, zet een doek en een flesje glasreiniger klaar in een lade bij de balie en spreek af dat vingerafdrukken op glas meteen verdwijnen. Zo blijft het resultaat van de weekbeurt langer zichtbaar en hoef je tussendoor niets groots te doen. Een showroom met veel passage kan daarnaast een korte tweede beurt per week overwegen, enkel voor onthaal, vloer en glas."
    ]
   },
   {
-   "h2": "Factuur, accountant en start",
+   "h2": "Wat de showroom zelf blijft doen",
    "p": [
-    "Een vennootschap kan geen dienstencheques kopen; die zijn voor particulieren. Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van je showroom is een beroepskost. De btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant dit bevestigen voor je eigen situatie.",
-    "Je vraagt het aan via het formulier of de chat, en binnen één werkdag belt iemand je terug. Na de intake leggen we je zondagsplan vast. De eerste 2 uur zijn gratis en het plan is maandelijks opzegbaar."
+    "Het team verzorgt de opstelling: verplaatsen, aansluiten, de producten zelf. Zij vegen een voetspoor tussen twee klanten weg en leggen brochures recht. Je Zondag verplaatst geen zware modellen en raakt geen technisch materiaal aan."
+   ]
+  },
+  {
+   "h2": "Prijs en boeken",
+   "p": [
+    "Een blok van 3 uur kost 180 euro exclusief btw, aan 60 euro per uur. Extra uren aan hetzelfde tarief. Je boekt op de <a href=\"boeken.html\">boekpagina</a>, minstens twee werkdagen vooraf. Meer over de sector lees je op <a href=\"sectoren/showrooms.html\">poetshulp voor showrooms</a>."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Wat staat er op een poetschecklist voor een showroom?",
-   "a": "Wekelijks de vloer, het glas langs binnen, stof op uitgestalde stukken, het onthaal en het sanitair. Maandelijks plinten, zitplaatsen en hoeken. Jaarlijks een grote beurt. Voertuigen reinigen doet Zondags niet."
+   "q": "Hoe vaak moet een showroom gepoetst worden?",
+   "a": "Wekelijks is het minimum, in drukke periodes of bij veel klantenbezoek vaker. De zichtbare laag, zoals modellen en glas, verdient het meeste ritme."
   },
   {
-   "q": "Reinigt Zondags ook wagens in mijn showroom?",
-   "a": "Nee. Zondags poetst de ruimte van je showroom, maar reinigt geen voertuigen. Dat blijft bij jezelf of bij een gespecialiseerd bedrijf."
+   "q": "Mag mijn Zondag aan de modellen komen?",
+   "a": "Ze stoft ze af en veegt ze schoon met zachte doeken. Verplaatsen, aansluiten of technisch werk doet ze niet, dat blijft bij je team."
   },
   {
-   "q": "Mag mijn Zondag uitgestalde stukken verplaatsen?",
-   "a": "Dat spreken we samen af in het zondagsplan. Standaard blijft de uitstalling zoals jij ze achterlaat, en wordt er rond gepoetst."
+   "q": "Doet Zondags ook de ruiten langs buiten?",
+   "a": "Ramen en glaswanden langs binnen wel, dat zit in de weekbeurt. Ramen langs buiten op hoogte en gevelreiniging doen we niet, daarvoor zoek je een gespecialiseerd bedrijf."
   },
   {
-   "q": "Wanneer wordt mijn showroom gepoetst?",
-   "a": "Overdag op weekdagen, vroeg in de ochtend vóór je opent of over de middag. We werken niet 's avonds en niet in het weekend. Het uur leggen we vast in je zondagsplan."
+   "q": "Wat kost poetshulp voor een showroom?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren komen aan hetzelfde tarief."
   },
   {
-   "q": "Kan mijn showroom en mijn woning door dezelfde Zondag onderhouden worden?",
-   "a": "Ja. Zaak en woning kunnen in één plan met dezelfde persoon. Op de factuur staan het beroepsmatige en het privégedeelte apart."
+   "q": "Kan ik de factuur op mijn vennootschap laten zetten?",
+   "a": "Ja, je krijgt een gewone dienstenfactuur met je btw-nummer. Poetshulp is in principe een beroepskost en de btw is bij aftrekrecht in principe recupereerbaar. Laat je accountant dit bevestigen."
   }
  ]
 }

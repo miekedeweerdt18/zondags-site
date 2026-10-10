@@ -1,86 +1,84 @@
 {
  "path": "vragen/wie-komt-er-poetsen-bij-zondags.html",
  "title": "Wie komt er poetsen bij Zondags?",
- "desc": "Bij Zondags komen studenten vanaf 18 jaar, flexi-jobbers en mensen met een vast contract poetsen: gescreend, in dienst en steeds dezelfde persoon.",
- "eyebrow": "Vraag · Wie komt er?",
+ "desc": "Wie komt er poetsen bij Zondags? Gescreende studenten, flexi-jobbers en mensen met een vast contract, steeds dezelfde persoon in dienst van Zondags.",
+ "eyebrow": "Vraag",
  "h1": "Wie komt er poetsen bij Zondags?",
- "lead": "Wie je sleutel krijgt, wil je kennen. Daarom kom je bij Zondags niet uit bij een wisselende ploeg, maar bij één vaste medewerker die door ons gescreend is.",
- "answer": "Bij Zondags (zondags.be) komt er een Zondag: een medewerker die door Zondags gescreend is en bij Zondags in dienst is. Dat kunnen studenten vanaf 18 jaar zijn, flexi-jobbers of mensen met een vast contract. Jij krijgt steeds dezelfde persoon, op een vaste dag en een vast uur, en dus geen wisselende ploeg en geen onbekende zelfstandige.",
+ "lead": "In je zaak staat geen wisselende ploeg, maar iemand die je leert kennen. Dit weet je over de mensen die voor Zondags werken en hoe je je Zondag krijgt.",
+ "answer": "Bij Zondags (zondags.be) komt steeds dezelfde persoon in je zaak: je Zondag. Die werkt als student vanaf 18 jaar, flexi-jobber of met een vast contract, is gescreend door Zondags en in dienst van Zondags. Het is dus geen zelfstandige poetshulp. Je Zondag komt op een vaste dag en een vast uur, overdag op weekdagen, aan 60 euro per uur exclusief btw per blok van 3 uur.",
  "facts": [
-  "Gescreend door Zondags",
-  "In dienst van Zondags",
-  "Studenten vanaf 18, flexi-jobbers, vast contract",
-  "Steeds dezelfde persoon",
-  "Geen zelfstandige poetshulp"
+  "Steeds dezelfde persoon: je Zondag",
+  "Studenten vanaf 18, flexi-jobbers, vaste contracten",
+  "Gescreend en in dienst van Zondags",
+  "Vaste dag, vast uur, overdag",
+  "60 euro per uur, per blok van 3 uur"
  ],
  "sections": [
   {
-   "h2": "Eén Zondag, geen wisselende ploeg",
+   "h2": "Een Zondag, geen wisselende ploeg",
    "p": [
-    "Een Zondag is de vaste medewerker die aan jouw zaak of woning gekoppeld wordt. Jij spreekt met Zondags, en je Zondag voert uit wat in je zondagsplan staat. Doordat steeds dezelfde persoon komt, kent die je ruimtes, je gewoontes en je voorkeuren. Dat maakt het verschil met een firma waar je telkens iemand anders over de vloer krijgt."
+    "Zondags werkt met het idee dat je zaak één vaste persoon verdient. Die persoon heet je Zondag. Ze komt elke keer op dezelfde dag en hetzelfde uur, kent de ruimtes en weet wat je team belangrijk vindt. Dat is anders dan een ploeg waarbij je niet weet wie er de volgende keer voor de deur staat."
    ]
   },
   {
-   "h2": "Drie soorten profielen",
+   "h2": "Wie ze zijn",
    "p": [
-    "Zondags werkt met drie groepen mensen. Het zijn er geen drie kwaliteitsniveaus, maar drie manieren om bij ons te werken.",
-    "<ul class=\"ticks\"><li>Studenten vanaf 18 jaar, naast hun studie</li><li>Flexi-jobbers, met een flexibel statuut maar bij jou op vaste afspraken</li><li>Mensen met een vast contract bij Zondags</li></ul>",
-    "Je hoeft zelf niet te kiezen voor een profiel. Zondags zoekt de persoon die past bij je dagen, uren en zaak."
+    "<ul class=\"ticks\"><li>Studenten vanaf 18 jaar</li><li>Flexi-jobbers</li><li>Mensen met een vast contract, deeltijds of voltijds</li></ul>",
+    "Wat ze gemeen hebben, is dat ze gescreend zijn voor ze bij een zaak starten en dat ze in dienst zijn van Zondags. Je tekent dus geen contract met een zelfstandige, je werkt met een bedrijf dat de persoon in dienst heeft."
    ]
   },
   {
-   "h2": "Wat gescreend en in dienst voor jou betekent",
+   "h2": "Wat ze bij jou doen",
    "p": [
-    "Je werkt niet met een zelfstandige poetshulp, maar met een medewerker van een onderneming. Zondags is de werkgever en jouw aanspreekpunt. Je geeft je sleutel dus aan iemand die door ons is gescreend en die bij ons werkt.",
-    "Wordt je Zondag ziek of neemt die verlof, dan zoeken wij een oplossing. Een vaste vervanger voor elk moment beloven we niet, maar je hoeft zelf niemand te zoeken."
+    "Het kernwerk is poetsen van kantoor, praktijk, winkel, vergaderzaal, wachtzaal, keuken en sanitair. Daarnaast kan je Zondag administratief helpen met post sorteren, klasseren en afspraken plannen, en als rechterhand praktische dingen regelen: kantoormateriaal bijbestellen, een pakje klaarmaken of de koffiehoek bevoorraden. Technische klussen, werken op hoogte en gevelreiniging horen er niet bij."
    ]
   },
   {
-   "h2": "Waarom steeds dezelfde persoon telt",
+   "h2": "Hoe je aan je Zondag komt",
    "p": [
-    "Een kantoor of praktijk heeft gewoontes die je niet in een lijst krijgt: welke lade open mag, waar de gasten hun jas ophangen, welke ruimte je liever als laatste gepoetst ziet. Een vaste Zondag onthoudt dat. Bovendien weet je team wie er komt en wanneer, wat rust geeft bij vertrouwelijke ruimtes."
+    "Voor een vast plan bespreken we eerst in een kort gesprek wat je zoekt: taken, dagen en uren. Daarna zoeken we een Zondag die daarbij past en leggen we het zondagsplan vast. Heb je een losse behoefte, dan boek je gewoon <a href=\"boeken.html\">online</a> een blok van 3 uur; je krijgt dan een Zondag toegewezen voor die beurt.",
+    "Voor wie nog twijfelt: je kan het tempo zelf bepalen. Past het niet, dan zoeken we samen een andere Zondag."
    ]
   },
   {
-   "h2": "Wat je team over je Zondag moet weten",
+   "h2": "Een voorbeeld: een boekhoudkantoor en een vaste dinsdag",
    "p": [
-    "Vertel je team vooraf wie er komt, op welke dag en welk uur, en waar de sleutel blijft. Leg ook uit wat je Zondag wel doet en wat niet, zodat niemand opmerkingen aan de verkeerde persoon doorgeeft. Wijs in je team één vast aanspreekpunt aan dat alles aan Zondags doorgeeft, dan blijft de communicatie overzichtelijk.",
-    "Dat is vooral nuttig in een praktijk of een kantoor met vertrouwelijke ruimtes. Duidelijk afspreken welke deuren open mogen en welke dicht blijven, voorkomt vragen achteraf."
+    "Stel: je bent zaakvoerder van een klein boekhoudkantoor. Op dinsdagochtend komt dezelfde Zondag, een student die naast haar opleiding werkt. Na een paar weken weet ze welke bureaus ze moet laten staan en welke mappen tot haar taken horen. Is ze in de examens niet beschikbaar, dan zoeken wij een oplossing; een vaste vervanger beloven we niet."
    ]
   },
   {
-   "h2": "En als het niet klikt?",
+   "h2": "Vertrouwen en discretie",
    "p": [
-    "Chemie kan je niet vooraf bepalen. Past je Zondag niet bij je zaak, dan zoeken we samen een andere persoon. Zeg het gerust vroeg, zodat we tijdig kunnen bijsturen. Hoe zo'n wissel verloopt, lees je op <a href=\"vragen/van-poetshulp-wisselen.html\">van poetshulp wisselen</a>."
+    "Je geeft iemand een sleutel en toegang tot je werkplek. Daarom is het belangrijk dat je Zondag gescreend is, dat ze bij Zondags in dienst is en dat je een duidelijk aanspreekpunt hebt. Spreek zelf af wat op bureaus mag blijven liggen en welke ruimtes buiten het plan vallen."
    ]
   },
   {
-   "h2": "Zo maak je kennis met je Zondag",
+   "h2": "Wat het kost",
    "p": [
-    "Je kan je aanmelden via het formulier of de chat. Binnen één werkdag neemt iemand van Zondags telefonisch contact op, daarna komen we langs voor de intake en leggen we je zondagsplan vast. Je kan dus eerst kennismaken, want de eerste 2 uur zijn gratis. Wie zelf wil werken als Zondag, leest meer op <a href=\"zondag-worden.html\">Zondag worden</a>."
+    "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw. Extra uren boek je aan hetzelfde tarief. De factuur staat op naam van je bedrijf, met je btw-nummer."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Zijn de medewerkers van Zondags zelfstandigen?",
-   "a": "Nee. Elke Zondag is door Zondags gescreend en in dienst van Zondags. Je werkt dus niet met een zelfstandige poetshulp, maar met een medewerker van een onderneming."
+   "q": "Is de poetshulp van Zondags zelfstandig of in dienst?",
+   "a": "Je Zondag is in dienst van Zondags. Je werkt dus niet met een zelfstandige poetshulp, maar met een bedrijf dat de persoon heeft aangeworven en gescreend."
   },
   {
-   "q": "Hoe oud zijn de mensen die komen poetsen?",
-   "a": "Studenten bij Zondags zijn minstens 18 jaar. Daarnaast werken er flexi-jobbers en mensen met een vast contract. Wie bij jou komt, hangt af van je dagen, uren en zaak."
+   "q": "Komt er telkens dezelfde persoon?",
+   "a": "Bij een vast plan wel: je krijgt steeds dezelfde Zondag, op een vaste dag en een vast uur. Bij ziekte of verlof zoeken wij een oplossing, zonder dat we een vaste vervanger beloven."
   },
   {
-   "q": "Komt er altijd dezelfde persoon?",
-   "a": "Ja, steeds dezelfde Zondag, op een vaste dag en een vast uur. Alleen als je Zondag ziek is of verlof neemt, zoeken wij een oplossing voor die periode. Een vaste vervanger op elk moment kunnen we niet beloven."
+   "q": "Werken er ook studenten bij Zondags?",
+   "a": "Ja. Zondags werkt met studenten vanaf 18 jaar, flexi-jobbers en mensen met een vast contract. Allemaal zijn ze gescreend en in dienst."
   },
   {
-   "q": "Wat als de persoon niet bij mijn zaak past?",
-   "a": "Dan kiezen we samen een andere Zondag. Je hoeft niet te wachten tot het echt wringt: bespreek het vroeg, dan kunnen we sneller bijsturen. Zeg gerust wat er niet klikt, de toon, de manier van werken of iets anders, zodat de volgende keuze beter past."
+   "q": "Kan ik zelf kiezen wie er komt?",
+   "a": "Je geeft aan wat je zoekt en we stellen een Zondag voor die past. Klikt het niet, dan zoeken we samen een andere persoon."
   },
   {
-   "q": "Moet ik zelf werkgever zijn van de poetshulp?",
-   "a": "Nee. De Zondag is in dienst van Zondags. Jij ontvangt een dienstenfactuur op naam van je vennootschap en Zondags blijft de werkgever en het aanspreekpunt. Het contract en de loonadministratie van je Zondag liggen dus bij Zondags."
+   "q": "Wat doet mijn Zondag precies?",
+   "a": "Poetsen van je bedrijfsruimte, desgewenst met administratieve hulp en praktische taken voor de bedrijfsleider. Boekhouding en technische klussen horen er niet bij."
   }
  ]
 }

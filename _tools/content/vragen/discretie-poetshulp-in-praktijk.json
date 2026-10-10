@@ -1,35 +1,37 @@
 {
  "path": "vragen/discretie-poetshulp-in-praktijk.html",
- "title": "Discretie bij poetshulp in een praktijk regelen",
- "desc": "Hoe regel je discretie bij poetshulp in een praktijk? Afspraken over dossiers, kasten, sleutels en vertrouwelijke gesprekken, met één vaste persoon die je kent.",
+ "title": "Discretie bij poetshulp in een praktijk",
+ "desc": "Hoe regel je discretie bij poetshulp in een praktijk met patiëntgegevens en dossiers? Praktische afspraken over zones, documenten en gedrag.",
  "eyebrow": "Vraag",
  "h1": "Hoe regel je discretie bij poetshulp in een praktijk?",
- "lead": "In een praktijk liggen dossiers, agenda's en soms gevoelige gesprekken. Discretie regel je met duidelijke afspraken en één vaste persoon, niet met wisselende ploegen.",
- "answer": "Discretie bij poetshulp in een praktijk regel je met vaste afspraken: welke kasten en laden dicht blijven, wanneer de praktijk leeg is, wie de sleutel heeft en wat er met papieren gebeurt. Zondags (zondags.be) werkt met één vaste persoon, je Zondag, in dienst van Zondags en gescreend. Die afspraken leg je vast in het zondagsplan.",
- "facts": ["Afspraken in het zondagsplan", "Eén vaste persoon, in dienst, gescreend", "Dossiers en laden blijven dicht", "Poetsen als de praktijk leeg is", "Sleutelafspraken vooraf"],
+ "lead": "In een praktijk liggen gegevens waar niemand zonder reden aan mag komen. Met duidelijke zones en afspraken blijft je poetshulp ver van alles wat vertrouwelijk is.",
+ "answer": "Je regelt discretie in een praktijk met een scheiding tussen poetszones en vertrouwelijke zones, een clean desk na de laatste patiënt, afsluitbare kasten en een heldere afspraak over wat de poetshulp wel en niet aanraakt. Bij Zondags (zondags.be) leg je die afspraken vast in het zondagsplan van je vaste Zondag, gescreend en in dienst. Je betaalt 60 euro per uur exclusief btw, in blokken van 3 uur.",
+ "facts": ["Poetszones en vertrouwelijke zones scheiden", "Clean desk na de laatste patiënt", "Dossierkasten afgesloten", "Afspraken in het zondagsplan", "60 euro per uur, per blok van 3 uur"],
  "sections": [
-  {"h2": "Wat discretie in een praktijk betekent", "p": [
-   "In een huisartsenpraktijk, een logopediepraktijk of een kantoor van een notaris liggen gegevens van mensen die erop rekenen dat niemand ze inziet. De persoon die komt poetsen, mag die gegevens niet lezen, niet verplaatsen en niet bespreken.",
-   "Dat vraagt geen wantrouwen, enkel duidelijkheid. Als je zegt wat dicht blijft en wat open mag, weet je Zondag waar ze aan toe is."]},
-  {"h2": "Afspraken die je vastlegt", "p": [
-   "<ul class=\"ticks\"><li>Welke kasten, laden en ruimtes dicht blijven</li><li>Of dossiers en papieren altijd opgeborgen worden voor de poetsbeurt begint</li><li>Computerschermen: uitgeschakeld of vergrendeld</li><li>Wie de sleutel of de code heeft en hoe die bewaard wordt</li><li>Wat je Zondag doet als een patiënt of klant nog aanwezig is</li><li>Wie ze belt bij een vraag</li></ul>",
-   "Schrijf het kort op en bespreek het tijdens de intake. Een paar zinnen volstaan."]},
-  {"h2": "Poetsen als de praktijk leeg is", "p": [
-   "De beste discretie is er één die niet nodig is: je plant de poetsbeurt op een moment dat niemand aanwezig is. Vroeg in de ochtend voor de eerste afspraak, over de middag of op een dag dat je dicht bent. Zondags werkt overdag op weekdagen, nooit 's avonds of in het weekend.",
-   "Is de praktijk toch open, dan blijft je Zondag buiten de behandelruimte als er een gesprek bezig is."]},
-  {"h2": "Waarom één vaste persoon het verschil maakt", "p": [
-   "Bij een wisselende ploeg moet je telkens opnieuw uitleggen wat dicht blijft. Bij een vaste persoon leer je elkaar kennen. Ze weet welke kast niet open mag, welke deur dicht blijft en wanneer ze stil moet zijn. Ze is in dienst van Zondags en gescreend, dus je hebt één aanspreekpunt bij Zondags voor eventuele vragen.",
-   "Meer over de aanpak in praktijken lees je bij <a href=\"gids/checklist-praktijkschoonmaak.html\">de checklist voor praktijkschoonmaak</a>."]},
-  {"h2": "Wat Zondags niet doet en wat je zelf houdt", "p": [
-   "Sterilisatie en het reinigen van medisch materiaal doen we niet, en dossiers sorteren of archiveren ook niet. Dat blijft bij jou of je team. Je Zondag poetst de ruimtes, niet de inhoud van kasten of laden. Wat gevoelig is, berg je zelf op voor de beurt begint."]},
-  {"h2": "Hoe je begint", "p": [
-   "Je vraagt aan via het formulier of de chat. Binnen één werkdag belt iemand je terug, daarna volgt de intake in je praktijk. Daar spreken we ook de discretieafspraken af. De eerste 2 uur zijn gratis. Een vennootschap kan geen dienstencheques kopen, Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap. Laat je accountant bevestigen hoe dat voor jouw situatie werkt. Zie ook <a href=\"vragen/hygiene-afspraken-praktijk.html\">hygiëneafspraken in een praktijk</a>."]}
+  {"h2": "Discretie begint bij de inrichting", "p": [
+   "Het veiligste dossier is dat wat nooit open ligt. Een praktijk die haar vertrouwelijke zaken opbergt voor de poetsbeurt, hoeft niemand te wantrouwen. Dat begint bij de inrichting: afsluitbare kasten, een bureau zonder losse papieren en schermen die vergrendeld zijn.",
+   "De poetshulp werkt dan in een ruimte waar niets te zien valt dat niet gezien mag worden."]},
+  {"h2": "Een clean desk na de laatste patiënt", "p": [
+   "<ul class=\"ticks\"><li>Dossiers en documenten terug in de kast en afgesloten</li><li>Schermen vergrendeld of uitgeschakeld</li><li>Agenda of afsprakenlijst niet zichtbaar op het bureau</li><li>Formulieren en notities weg uit de wachtzaal en de behandelkamer</li><li>Gesloten zones duidelijk aangeduid, bijvoorbeeld met een slot</li></ul>",
+   "Maak er een vaste routine van voor je team. Hoe sneller het een gewoonte is, hoe minder je eraan moet denken, ook op drukke dagen waarop de laatste patiënt later vertrekt dan gepland."]},
+  {"h2": "Wat je poetshulp wel en niet aanraakt", "p": [
+   "Spreek duidelijk af wat bij de beurt hoort: oppervlakken afnemen, vloeren, sanitair, afval buitenzetten. En wat er niet bij hoort: kasten openen, documenten verplaatsen of bureaus van collega's doorzoeken. Zet het zwart op wit in het zondagsplan.",
+   "Bij Zondags gaat het om gescreende medewerkers in dienst, maar goede afspraken blijven je beste bescherming."]},
+  {"h2": "Een voorbeeld: een huisartsenpraktijk met twee consultatieruimtes", "p": [
+   "Stel: je hebt een huisartsenpraktijk met twee consultatieruimtes, een wachtzaal en een onthaal. Elke woensdagmiddag komt je Zondag na de laatste patiënt. De dossierkast en de medicatiekast zijn gesloten, de computers vergrendeld en de papieren afval staat in een aparte, afgesloten bak.",
+   "Je Zondag poetst, zet het afval buiten en sluit af. Wat in de kast zit, blijft in de kast."]},
+  {"h2": "Gegevens en privacywetgeving", "p": [
+   "Over de wettelijke kant van patiëntgegevens en privacy geven wij geen juridisch advies. Voor de regels die voor jouw beroep gelden, raadpleeg je je beroepsorganisatie of je eigen adviseur. Praktische afspraken in je praktijk blijven het eerste vangnet.",
+   "Meer lees je bij <a href=\"vragen/patientendossiers-en-poetshulp.html\">patiëntendossiers en poetshulp</a> en <a href=\"vragen/hygiene-afspraken-praktijk.html\">hygiëneafspraken in een praktijk</a>."]},
+  {"h2": "Prijs en eerste stap", "p": [
+   "De afspraken over discretie kosten niets extra. Je betaalt de uren die je boekt: 60 euro per uur exclusief btw, dus 180 euro exclusief btw per blok van 3 uur, met een dienstenfactuur op naam van je praktijk. Bespreek je situatie eerst via de chat of 0470 56 53 58, of boek meteen op de <a href=\"boeken.html\">boekpagina</a>."]}
  ],
  "faq": [
-  {"q": "Hoe regel je discretie bij poetshulp in een praktijk?", "a": "Leg vooraf vast welke kasten en laden dicht blijven, wanneer de praktijk leeg is en wie de sleutel heeft. Bij Zondags staan die afspraken in het zondagsplan."},
-  {"q": "Mag de poetshulp dossiers verplaatsen?", "a": "Nee. Dossiers en papieren berg je zelf op voor de beurt begint. Je Zondag poetst de ruimtes, niet de inhoud van kasten of laden."},
-  {"q": "Wie heeft de sleutel van mijn praktijk?", "a": "Alleen je vaste Zondag, volgens de afspraak die jullie samen maken. Je legt vooraf vast hoe de sleutel of code bewaard wordt."},
-  {"q": "Kan er gepoetst worden terwijl patiënten aanwezig zijn?", "a": "Liefst niet. Plan de beurt vroeg in de ochtend, over de middag of op een gesloten dag. Is de praktijk open, dan blijft je Zondag weg uit ruimtes waar een gesprek bezig is."},
-  {"q": "Is de poetshulp in dienst of zelfstandig?", "a": "In dienst van Zondags en gescreend. Zo heb je één aanspreekpunt en weet je wie er in je praktijk komt."}
+  {"q": "Hoe zorg ik voor discretie als de poetshulp in mijn praktijk komt?", "a": "Door vertrouwelijke zaken op te bergen, kasten af te sluiten en schermen te vergrendelen voor de beurt. Leg ook vast wat de poetshulp wel en niet aanraakt."},
+  {"q": "Is de poetshulp van Zondags gescreend?", "a": "Ja. Zondags werkt met medewerkers die gescreend zijn en in dienst van Zondags zijn, en je krijgt steeds dezelfde Zondag."},
+  {"q": "Komt de poetshulp aan mijn dossiers?", "a": "Niet als je dat uitdrukkelijk afspreekt. Dossierkasten blijven afgesloten en documenten horen niet bij de taken. Leg het vast in het zondagsplan."},
+  {"q": "Wat als ik toch iets vertrouwelijks laat liggen?", "a": "Meld het aan Zondags en pas de routine aan. Een clean desk na de laatste patiënt voorkomt dit, en je Zondag laat liggende documenten liggen."},
+  {"q": "Geeft Zondags juridisch advies over privacy?", "a": "Nee. Voor wat jouw beroep en de privacyregels vragen, raadpleeg je je beroepsorganisatie of eigen adviseur. Wij helpen met de praktische afspraken."},
+  {"q": "Wat kost poetshulp in een praktijk?", "a": "60 euro per uur exclusief btw, in blokken van 3 uur. Een blok kost dus 180 euro exclusief btw, met extra uren aan hetzelfde tarief."}
  ]
 }

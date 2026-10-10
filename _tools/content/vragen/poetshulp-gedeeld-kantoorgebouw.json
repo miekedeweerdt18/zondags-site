@@ -1,80 +1,78 @@
 {
  "title": "Poetshulp in een gedeeld kantoorgebouw: wie regelt wat?",
- "desc": "Wie poetst wat in een kantoorgebouw dat je met anderen deelt? Eigen ruimte, gemeenschappelijke delen en wat je met je vaste Zondag afspreekt.",
+ "desc": "Poetshulp in een gedeeld kantoorgebouw: wie poetst de gemeenschappelijke delen, wat regel je voor je eigen ruimte en hoe spreek je het af.",
  "eyebrow": "Vraag",
  "h1": "Poetshulp in een gedeeld kantoorgebouw: wie regelt wat?",
- "lead": "In een gebouw dat je met andere bedrijven deelt, ligt het onderhoud niet voor de hand. Dit is wat je zelf regelt en wat gemeenschappelijk blijft.",
- "answer": "In een gedeeld kantoorgebouw regel je zelf het onderhoud van je eigen ruimte, en blijft het onderhoud van de gemeenschappelijke delen bij het beheer van het gebouw. Zondags (zondags.be) levert één vaste Zondag voor je eigen kantoor, overdag op weekdagen. Hoe je gemeenschappelijke delen geregeld zijn, lees je in je afspraken met het gebouw. Zondags poetst die delen niet voor het gebouw.",
+ "lead": "In een gebouw met meerdere bedrijven loopt de verantwoordelijkheid dwars door elkaar. Een duidelijke grens tussen jouw ruimte en het gemeenschappelijke maakt alles eenvoudiger.",
+ "answer": "In een gedeeld kantoorgebouw poets je zelf of via je poetshulp enkel je eigen ruimte; de gemeenschappelijke delen vallen onder de beheerder of eigenaar van het gebouw, tenzij jullie iets anders afspreken. Zondags (zondags.be) levert een vaste persoon, je Zondag, voor jouw kantoor. Je boekt per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een factuur op naam van je bedrijf.",
  "facts": [
-  "Eigen ruimte: jij regelt het",
-  "Gemeenschappelijke delen: het gebouw",
-  "Vaste Zondag voor je eigen kantoor",
-  "Overdag op weekdagen",
-  "Factuur op je vennootschap"
+  "Eigen ruimte: jouw verantwoordelijkheid",
+  "Gemeenschappelijke delen: de beheerder",
+  "Afspraken over sleutel en toegang",
+  "Eén vaste Zondag voor jouw kantoor",
+  "60 euro per uur, per blok van 3 uur"
  ],
  "sections": [
   {
-   "h2": "Wat bij jou ligt en wat bij het gebouw",
+   "h2": "Eerst de grens tekenen",
    "p": [
-    "In een gedeeld gebouw heb je een eigen ruimte en deel je gangen, een trap, soms een keuken of sanitair met anderen. Het onderhoud van die gemeenschappelijke delen is meestal iets wat het gebouw of de eigenaars samen regelen. Welke afspraken er voor jouw gebouw gelden, vind je in je huurcontract, je reglement of bij degene die het gebouw beheert.",
-    "Wat altijd bij jou blijft, is je eigen kantoor. Daar kies je zelf wie komt, hoe vaak en op welk moment."
+    "In een gedeeld kantoorgebouw zijn er eigen ruimtes en gemeenschappelijke delen. Tot je eigen ruimte horen je kantoor, je vergaderzaal en eventueel je eigen sanitair of keuken. De gemeenschappelijke delen zijn de inkomhal, de trappen, de lift, de gangen en soms een gedeeld sanitair of gedeelde keuken.",
+    "Vraag aan de eigenaar of beheerder van het gebouw wie wat onderhoudt. Dat staat meestal in een reglement of in je huurovereenkomst. Welke afspraken voor jouw gebouw gelden, kunnen wij niet beoordelen; wel kunnen we met die afspraken rekening houden."
    ]
   },
   {
-   "h2": "Wat je Zondag in je eigen kantoor doet",
+   "h2": "Wat jij en je Zondag regelen",
    "p": [
-    "<ul class=\"ticks\"><li>Bureaus en vergadertafel afnemen</li><li>Je eigen vloer stofzuigen of dweilen</li><li>Je eigen keuken of koffiehoek</li><li>Je eigen sanitair, indien dat bij je ruimte hoort</li><li>Afval en recyclage van je eigen kantoor</li></ul>",
-    "Zondags poetst de gemeenschappelijke delen niet in opdracht van het gebouw. Je Zondag onderhoudt je eigen ruimte en weet welke grens daarbij hoort."
+    "<ul class=\"ticks\"><li>Je eigen kantoor, werkruimte en vergaderzaal</li><li>Je eigen sanitair en keuken, als die niet gedeeld zijn</li><li>Je afval, tot aan de plaats die het gebouw daarvoor voorziet</li><li>De ramen langs binnen van je eigen ruimte</li><li>Praktische hulp zoals post sorteren of bestellingen</li></ul>",
+    "Wat de gemeenschappelijke delen betreft, kijkt je Zondag naar wat afgesproken is. Doet het gebouw het zelf, dan blijft ze erbuiten. Is er niets afgesproken, dan bespreek je dat met de beheerder voor je haar iets vraagt."
    ]
   },
   {
-   "h2": "Hoe je het met je gebouw afspreekt",
+   "h2": "Toegang, sleutels en badges",
    "p": [
-    "Het is verstandig om een poetshulp vooraf te melden aan wie het gebouw beheert. Zo weet iedereen wie er komt en wanneer. Wat je precies moet melden, hangt af van het gebouw en je afspraken; vraag het na bij je verhuurder of beheerder.",
-    "Een vaste Zondag heeft hier een voordeel: omdat het steeds dezelfde persoon is, kent iedereen in het gebouw haar na een paar weken, en weet je Zondag zelf welke ruimtes van jou zijn."
+    "In een gedeeld gebouw komt je Zondag niet altijd zomaar binnen. Er zijn toegangsbadges, een alarm of een digitaal slot nodig. Spreek vooraf af wie wat heeft, wie het alarm uitzet en wat te doen als iets niet werkt. Zet dat alles in het zondagsplan. Zo weet iedereen wie wat bezit, en vermijd je dat je Zondag voor een gesloten deur staat.",
+    "Kondig je Zondag ook aan bij de receptie of de andere huurders als dat gebruikelijk is. Dat voorkomt vragen en misverstanden."
    ]
   },
   {
-   "h2": "Wat als de gemeenschappelijke keuken of het sanitair gedeeld is",
+   "h2": "Gedeelde sanitair of keuken",
    "p": [
-    "Soms deel je een keuken of sanitair met een ander bedrijf. Dan is het goed om samen af te spreken wie dat poetst en wanneer. Je kan de kosten delen, of één van jullie neemt het op zich. Dat is een afspraak tussen jullie bedrijven, niet iets wat Zondags beslist.",
-    "Wij kunnen meedenken over wat in jouw plan past. Het blijft jullie keuze welke delen onder jouw dienst vallen en welke niet."
+    "Bij een gedeelde keuken of een gedeeld sanitair wordt het ingewikkelder. Als alle huurders er samen gebruik van maken, kan het gebouw het onderhoud regelen. Spreken jullie liever zelf iets af, bijvoorbeeld dat één huurder de gedeelde ruimte laat doen, dan bespreek je dat eerst onderling met de beheerder. Zondags boekt en factureert steeds op naam van één bedrijf, en dat bedrijf draagt de kost."
    ]
   },
   {
-   "h2": "Facturatie en fiscale nuance",
+   "h2": "Voorbeeld: drie bedrijven op één verdieping",
    "p": [
-    "Een vennootschap kan geen dienstencheques kopen; die zijn voor particulieren. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van beroepsruimtes is een beroepskost. Wil je ook je woning laten doen, dan splitst de factuur beroepsmatig en privé. Voor het privégedeelte geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst.",
-    "Laat je accountant bevestigen hoe dit voor jouw situatie werkt."
+    "Neem drie kleine bedrijven op één verdieping, met een gedeelde hal en een gedeeld sanitair. De beheerder laat de hal poetsen. Eén van de drie bedrijven huurt Zondags in voor haar eigen kantoor, op dinsdag. Het gedeelde sanitair wordt apart geregeld. Zo blijft de taakverdeling helder, en weet iedereen bij wie hij moet zijn."
    ]
   },
   {
-   "h2": "Zo start je",
+   "h2": "Prijs en boeken",
    "p": [
-    "Vraag aan via het formulier of de chat. Binnen één werkdag belt iemand je terug. In de intake bekijken we je ruimte, wat bij jou hoort en wat bij het gebouw, en maken we samen het zondagsplan. De eerste 2 uur zijn gratis. Meer over de algemene aanpak lees je op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a> en <a href=\"sectoren/coworkings.html\">poetshulp voor coworkings</a>."
+    "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Een factuur komt op naam van je bedrijf. Boeken doe je online op de <a href=\"boeken.html\">boekpagina</a>. Meer over de start lees je in <a href=\"vragen/hoe-snel-start-poetshulp.html\">hoe snel start poetshulp</a>, en over het delen van sleutels bij <a href=\"vragen/sleutel-en-alarm-poetshulp-kantoor.html\">sleutel en alarm</a>."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Wie poetst de gemeenschappelijke delen van een gedeeld kantoorgebouw?",
-   "a": "Dat regelt meestal het gebouw of de eigenaars samen. Vraag het na bij je verhuurder of beheerder. Zondags poetst die delen niet in opdracht van het gebouw."
+   "q": "Wie poetst de gemeenschappelijke delen van een kantoorgebouw?",
+   "a": "Meestal de eigenaar of beheerder van het gebouw. Check je reglement of huurovereenkomst. Zondags werkt in jouw eigen ruimte, tenzij je iets anders afspreekt met het gebouw."
   },
   {
-   "q": "Kan mijn Zondag enkel mijn eigen kantoor doen?",
-   "a": "Ja. Je Zondag onderhoudt je eigen ruimte: bureaus, vloer, keuken of koffiehoek, en sanitair als dat bij je ruimte hoort."
+   "q": "Kan Zondags het gedeelde sanitair doen?",
+   "a": "Alleen als dat met de beheerder en de andere huurders is afgesproken. Zondags factureert steeds op naam van één bedrijf, dat de kosten draagt."
   },
   {
-   "q": "Moet ik mijn poetshulp melden aan het gebouw?",
-   "a": "Dat is verstandig. Wat je precies moet melden, hangt af van je gebouw en je afspraken. Vraag het na bij je verhuurder of beheerder."
+   "q": "Hoe geef ik mijn Zondag toegang in een gedeeld gebouw?",
+   "a": "Via badge, sleutel of code. Spreek vooraf af wie wat heeft en zet het in het zondagsplan, zodat de Zondag nooit voor een gesloten deur staat."
   },
   {
-   "q": "Wat als ik een keuken deel met een ander bedrijf?",
-   "a": "Spreek samen af wie wat poetst. Dat is een afspraak tussen jullie bedrijven. Je Zondag onderhoudt wat in jouw plan staat."
+   "q": "Moet ik de beheerder verwittigen als er poetshulp komt?",
+   "a": "Dat hangt af van je gebouw. Vaak is een melding aan de receptie of beheerder gebruikelijk. Vraag het na, dan voorkom je misverstanden."
   },
   {
-   "q": "Kan ik overdag laten poetsen in een gedeeld gebouw?",
-   "a": "Ja. Zondags werkt overdag op weekdagen, vroeg in de ochtend of over de middag. Nooit 's avonds of in het weekend."
+   "q": "Wat kost poetshulp voor één kantoor in een gedeeld gebouw?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief."
   }
  ],
  "path": "vragen/poetshulp-gedeeld-kantoorgebouw.html"

@@ -1,84 +1,81 @@
 {
  "path": "vragen/wat-staat-op-dienstenfactuur-poetshulp.html",
  "title": "Wat staat er op een dienstenfactuur voor poetshulp?",
- "desc": "Wat staat er op een dienstenfactuur voor poetshulp, hoe wordt beroepsmatig en privé gesplitst en wat laat je door je accountant nakijken? Een heldere uitleg.",
+ "desc": "Wat staat er op een dienstenfactuur voor poetshulp? De gegevens, de omschrijving van de uren, de btw en wat je controleert, plus wat Zondags op de factuur zet.",
  "eyebrow": "Vraag",
  "h1": "Wat staat er op een dienstenfactuur voor poetshulp?",
- "lead": "Een dienstenfactuur is de papieren kant van je poetshulp. Wie weet wat erop hoort, kan ze snel controleren en doorgeven aan de boekhouder.",
- "answer": "Een dienstenfactuur voor poetshulp bevat de naam van je vennootschap, een omschrijving van de uitgevoerde diensten en de periode waarop ze slaan. Bij Zondags (zondags.be) staan het beroepsmatige deel (kantoor, praktijk of winkel) en het privégedeelte (je woning) apart. Een vennootschap koopt geen dienstencheques. Laat je accountant bevestigen hoe je de factuur boekt.",
+ "lead": "Op een dienstenfactuur staan wie levert, wie betaalt, wat er geleverd werd, voor welke uren en tegen welke prijs, met de btw apart. Controleer vooral je eigen bedrijfsgegevens en de omschrijving.",
+ "answer": "Een dienstenfactuur voor poetshulp noemt de gegevens en btw-nummers van leverancier en klant, een factuurnummer en datum, een omschrijving van de dienst, het aantal uren of blokken, het tarief, het bedrag exclusief btw, de btw en het totaal. Zondags (zondags.be) maakt de factuur op naam van je bedrijf op: 60 euro per uur exclusief btw, per blok van 3 uur.",
  "facts": [
-  "Op naam van je vennootschap",
-  "Omschrijving van de diensten",
-  "Beroepsmatig en privé apart",
-  "Geen dienstencheques voor vennootschappen",
-  "Accountant bevestigt de boeking"
+  "Gegevens en btw-nummer van beide partijen",
+  "Factuurnummer, datum en omschrijving",
+  "Uren of blokken, tarief en bedrag",
+  "Btw apart en het totaal",
+  "60 euro per uur, per blok van 3 uur"
  ],
  "sections": [
   {
-   "h2": "De basis van elke dienstenfactuur",
+   "h2": "De vaste onderdelen van de factuur",
    "p": [
-    "Een dienstenfactuur is een gewone factuur voor geleverde diensten. Je herkent er de gebruikelijke gegevens in: wie factureert, wie betaalt, wanneer, en waarvoor. Voor een vennootschap staat de factuur op naam van die vennootschap, niet op naam van de zaakvoerder persoonlijk.",
-    "Dat verschilt van dienstencheques, die enkel voor particulieren zijn. Een vennootschap kan ze niet kopen.",
-    "Voor je boekhouding betekent dat vooral één ding: de factuur is bewijs van een kost die bij je zaak hoort. Bewaar ze dus samen met je andere aankoopfacturen en geef ze door volgens de afspraken met je boekhouder."
+    "<ul class=\"ticks\"><li>Naam, adres en btw-nummer van de leverancier</li><li>Naam, adres en btw-nummer van jouw bedrijf</li><li>Factuurnummer en factuurdatum</li><li>Omschrijving van de dienst en de periode</li><li>Het aantal uren of blokken en het tarief</li><li>Het bedrag exclusief btw, de btw en het totaal</li><li>De betaalwijze of betalingstermijn</li></ul>",
+    "Voor de precieze wettelijke vermeldingen kijk je best naar de regels van de FOD Financiën of vraag je het aan je accountant."
    ]
   },
   {
-   "h2": "Wat je er normaal op terugvindt",
+   "h2": "Een voorbeeld van een duidelijke omschrijving",
    "p": [
-    "<ul class=\"ticks\"><li>De naam en het adres van je vennootschap</li><li>De naam en het adres van Zondags</li><li>De datum en de periode van de prestaties</li><li>Een omschrijving van de diensten</li><li>De uren of de afgesproken prestaties</li><li>Het totaal, met de btw zoals de regels voorschrijven</li></ul>",
-    "Bij Zondags worden de diensten omschreven als werk van Zondags, op de ruimtes waar ze uitgevoerd werden.",
-    "Heb je een losse opdracht gehad, zoals een grote poetsbeurt, dan staat die apart omschreven, zodat ze niet verward raakt met het vaste ritme."
+    "Stel: je hebt een kantoor met zes werkplekken en je boekt twee blokken. Een bruikbare omschrijving luidt dan: poetshulp voor het kantoor, twee blokken van 3 uur, dinsdag en vrijdag, tarief per uur, bedrag per blok, totaal exclusief btw. Zo kan je boekhouder de factuur meteen koppelen aan je boeking."
    ]
   },
   {
-   "h2": "Beroepsmatig en privé apart",
+   "h2": "Waarom je gegevens ertoe doen",
    "p": [
-    "Laat je zowel je kantoor als je woning poetsen, dan staan die twee delen apart op de factuur. Het deel voor kantoor, praktijk of winkel is het beroepsmatige deel. Het deel voor de woning is het privégedeelte.",
-    "Die splitsing helpt je boekhouder. Hij boekt het ene deel als beroepskost en verwerkt het andere deel als voordeel van alle aard.",
-    "Voorbeeld: een kinesitherapeut laat de praktijk en de woning door dezelfde Zondag poetsen. Op de factuur staan twee delen, elk met de eigen uren of prestaties. De boekhouder hoeft niet te gokken welk deel waarheen gaat."
+    "Klopt de naam van je bedrijf of je btw-nummer niet, dan kan je boekhouder de factuur niet goed verwerken en kan het gesprek over aftrek ingewikkelder worden. Controleer die twee velden bij de eerste factuur en vraag een correctie voor je betaalt.",
+    "Een factuur op naam van je bedrijf is ook nodig om de kost correct in je boekhouding te zetten."
    ]
   },
   {
-   "h2": "Wat je accountant bevestigt",
+   "h2": "De btw op de factuur",
    "p": [
-    "Het onderhoud van beroepsruimtes is een beroepskost. Voor het privégedeelte geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst. Btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte in principe niet. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren.",
-    "Dat zijn algemene principes, geen persoonlijk advies. Laat je accountant bevestigen hoe het voor jouw situatie werkt."
+    "Op de factuur staat het bedrag exclusief btw en de btw apart. Voor een btw-plichtige zaak met aftrekrecht is die btw in principe recupereerbaar. Een btw-vrijgestelde praktijk kan ze doorgaans niet terugvragen. Poetshulp voor de zaak is in principe een beroepskost.",
+    "Laat je accountant dit bevestigen voor je eigen situatie."
    ]
   },
   {
-   "h2": "Hoe je de factuur controleert",
+   "h2": "Controleer de factuur in drie stappen",
    "p": [
-    "Loop vier vragen na. Klopt de naam van je vennootschap? Staat de periode erop? Zijn de omschrijvingen duidelijk genoeg om te weten wat er gedaan werd? Staan beroepsmatig en privé apart?",
-    "Staat er iets dat je niet begrijpt, vraag dan uitleg bij Zondags of bij je accountant. Hoe vroeger je het vraagt, hoe makkelijker het opgelost raakt. Meer lees je op <a href=\"gids/dienstenfactuur-woning-en-kantoor.html\">dienstenfactuur voor woning en kantoor</a> en <a href=\"vragen/poetshulp-met-contract-en-factuur.html\">poetshulp met contract en factuur</a>."
+    "Kijk eerst of de naam en het btw-nummer van je bedrijf kloppen. Tel daarna het aantal uren of blokken na met je boeking. Controleer ten slotte of het tarief en het bedrag exclusief btw overeenkomen met wat je afsprak. Bij een afwijking vraag je een correctie voor je betaalt, zodat je boekhouding meteen klopt.",
+    "Bewaar de factuur samen met de bevestiging van je boeking. Als je accountant later een vraag heeft, vindt hij beide documenten op één plaats."
    ]
   },
   {
-   "h2": "Hoe je start",
+   "h2": "Wat Zondags op de factuur zet",
    "p": [
-    "Vraag aan via het formulier of de chat. Binnen één werkdag belt iemand terug, daarna volgen de intake en het zondagsplan. Op prijzen gaan we hier niet in: die zijn op maat, na een kort gesprek. De eerste 2 uur zijn gratis en je kan maandelijks opzeggen."
+    "Je boekt online op de <a href=\"boeken.html\">boekpagina</a> en geeft de naam en het btw-nummer van je bedrijf in. Je krijgt een dienstenfactuur op die naam met het tarief van 60 euro per uur exclusief btw. Een blok van 3 uur is 180 euro exclusief btw. Extra uren staan aan dezelfde 60 euro per uur.",
+    "Je betaalt online met kaart of Bancontact via Stripe, zodat betaling en factuur samenhangen."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Wat staat er op een dienstenfactuur voor poetshulp?",
-   "a": "De naam van je vennootschap, een omschrijving van de diensten, de periode en de uren of afgesproken prestaties. Bij Zondags staan beroepsmatig en privé apart, als je kantoor en woning laat poetsen."
+   "q": "Is een dienstenfactuur anders dan een gewone factuur?",
+   "a": "Het is een gewone factuur voor een dienst in plaats van goederen. Ze bevat dezelfde basisgegevens, met een omschrijving van de geleverde dienst."
   },
   {
-   "q": "Op wiens naam staat de factuur?",
-   "a": "Op naam van je vennootschap, niet op naam van de zaakvoerder persoonlijk. Zo hoort het onderhoud van beroepsruimtes bij de kosten van je zaak."
+   "q": "Staat mijn btw-nummer op de factuur van Zondags?",
+   "a": "Ja. Je geeft het bij het online boeken in, samen met de naam van je bedrijf, en de factuur wordt daarop opgemaakt."
   },
   {
-   "q": "Kan ik dienstencheques gebruiken voor mijn kantoor?",
-   "a": "Nee. Een vennootschap kan geen dienstencheques kopen, die zijn er enkel voor particulieren. Zondags werkt met een gewone dienstenfactuur."
+   "q": "Hoe zie ik hoeveel uren er werden gefactureerd?",
+   "a": "Op de factuur staan het aantal blokken en eventuele extra uren, met het tarief van 60 euro per uur exclusief btw."
   },
   {
-   "q": "Kan ik de btw terugvragen?",
-   "a": "Op het beroepsmatige deel in principe wel voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte in principe niet. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Laat je accountant het bevestigen."
+   "q": "Kan ik de btw op de factuur aftrekken?",
+   "a": "In principe ja voor een btw-plichtige zaak met aftrekrecht; een vrijgestelde praktijk meestal niet. Je accountant bevestigt wat voor jou geldt."
   },
   {
-   "q": "Waarom staat de woning apart op de factuur?",
-   "a": "Omdat het privégedeelte anders wordt verwerkt dan het beroepsdeel. Zo kan je accountant het ene als beroepskost boeken en het andere als voordeel van alle aard verwerken."
+   "q": "Hoe betaal ik de factuur?",
+   "a": "Bij het online boeken betaal je meteen met kaart of Bancontact via Stripe. Voor grotere afspraken stemmen we de betaling af."
   }
  ]
 }

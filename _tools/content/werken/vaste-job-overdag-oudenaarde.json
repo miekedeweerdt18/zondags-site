@@ -1,79 +1,38 @@
 {
  "path": "werken/vaste-job-overdag-oudenaarde.html",
- "title": "Vaste job overdag in Oudenaarde, zonder weekends",
- "desc": "Herintreden in Oudenaarde na jaren thuis: vaste job overdag met vast contract, deeltijds of voltijds, zonder avonden en weekends. Solliciteer bij Zondags.",
- "eyebrow": "Vaste job · Oudenaarde",
+ "title": "Vaste job overdag zonder weekends in Oudenaarde",
+ "desc": "Herintreden na een pauze? Een vast contract overdag in Oudenaarde en omgeving, bij vaste bedrijven, met rustige start, vaste uren en geen weekends.",
+ "eyebrow": "Vaste job overdag · Oudenaarde · 9700",
  "h1": "Vaste job overdag zonder weekends in Oudenaarde",
- "lead": "Na enkele jaren thuis bij de kinderen weer aan de slag, rustig en met vaste uren. In Oudenaarde kan dat met een vast contract, overdag en zonder weekends.",
- "answer": "Zondags (zondags.be) zoekt mensen voor een vaste job overdag in Oudenaarde en de deelgemeenten, in de Vlaamse Ardennen. Je krijgt een vast contract, deeltijds of voltijds, en werkt als Zondag op weekdagen bij vaste klanten, nooit 's avonds en nooit in het weekend. Ook enkel binnen de schooluren kan. Voor herintreders, zij-instromers en ouders is dit een zachte instap. Verloning ligt boven het barema.",
- "facts": [
-  "Vast contract, deeltijds of voltijds",
-  "Voor herintreders en ouders",
-  "Ook enkel binnen de schooluren",
-  "Overdag, nooit in het weekend",
-  "Begeleiding bij de start"
- ],
+ "lead": "Na enkele jaren pauze weer aan de slag, zonder meteen in het diepe te springen. In Oudenaarde start je als Zondag bij vaste klanten en met iemand die de eerste dagen mee langsgaat.",
+ "answer": "Zondags (zondags.be) zoekt mensen in en rond Oudenaarde voor een vaste job overdag zonder weekends, ook voor herintreders na een pauze. Je krijgt een vast contract, deeltijds of voltijds, en werkt als Zondag op weekdagen bij kantoren, praktijken, winkels en bedrijfsleiders in de Vlaamse Ardennen. Bij de start gaan we samen langs bij je klanten. Een diploma of ervaring is niet nodig.",
+ "facts": ["Open voor herintreders na een pauze", "Samen langs bij je klanten bij de start", "Vast contract, deeltijds of voltijds", "Overdag op weekdagen", "Geen avonden, geen weekends"],
  "sections": [
-  {
-   "h2": "Weer beginnen na jaren thuis",
-   "p": [
-    "Stel: je bent een herintreder die enkele jaren thuis was bij de kinderen. Je CV oogt leeg en je vraagt je af of je nog zo vlot kunt starten als vroeger. Dat is een heel gewone twijfel, en hij verdwijnt vaak sneller dan je denkt.",
-    "Bij Zondags tellen geen kaders of lange sollicitaties. We vragen of je betrouwbaar bent, discreet, en of je zorg draagt voor andermans huis. Dat heb je thuis al jaren bewezen.",
-    "Wat er wel verandert, is de omgeving. Je werkt niet meer voor je eigen gezin maar voor andere mensen, die op je rekenen. Dat voelt in het begin even nieuw, maar de afspraken zijn duidelijk en je hoeft niets zelf uit te vogelen."
-   ]
-  },
-  {
-   "h2": "Een zachte start",
-   "p": [
-    "We beginnen niet met een volle week. Je kiest zelf hoeveel dagen je werkt, ook enkel binnen de schooluren van je kinderen. Bij de start gaan we samen langs bij je eerste klanten, zodat je weet wat er verwacht wordt. Elke klant heeft een zondagsplan met taken, uren en afspraken.",
-    "Wil je later meer uren, dan bekijken we dat samen. Zoek je eerst enkel een bijverdienste, lees dan <a href=\"werken/flexi-job-oudenaarde.html\">flexi-job of bijverdienen in Oudenaarde</a>."
-   ]
-  },
-  {
-   "h2": "Wat een vast contract inhoudt",
-   "p": [
-    "<ul class=\"ticks\"><li>Een vast contract, deeltijds of voltijds</li><li>Een rooster dat vastligt bij dezelfde klanten</li><li>Verloning boven het barema</li><li>Verplaatsingen vergoed</li><li>Geen avonden en geen weekends</li></ul>"
-   ]
-  },
-  {
-   "h2": "Een week voor een herintreder",
-   "p": [
-    "Neem iemand die van acht tot kwart voor drie werkt, binnen de schooluren dus. Op maandag strijk je bij een gezin en doe je de was. Op dinsdag poets je het kantoor van een ondernemer. Woensdag blijft vrij of wordt een halve dag. Op donderdag kook je schotels voor de week bij een koppel, en vrijdag doe je boodschappen en regelwerk. Je bent thuis voor de kinderen uit school komen, en je weekend blijft vrij."
-   ]
-  },
-  {
-   "h2": "Oudenaarde en de Vlaamse Ardennen",
-   "p": [
-    "Oudenaarde heeft postcode 9700. Bevere, Edelare, Eine, Ename, Heurne, Leupegem, Mater, Melden, Mullem, Nederename, Volkegem en Welden horen er allemaal bij. We zoeken Zondags in en rond Oudenaarde, ook richting Kruisem, Wortegem-Petegem, Kluisbergen en Ronse. We kijken naar klanten dicht bij je huis. Lees ook <a href=\"jobs/huishoudhulp-oudenaarde.html\">huishoudhulp in Oudenaarde</a>."
-   ]
-  },
-  {
-   "h2": "Zo solliciteer je",
-   "p": [
-    "Meld je aan via het formulier, de chat of WhatsApp op 0470 56 53 58. We bellen je binnen de twee werkdagen voor een kort gesprek. Bij de start gaan we samen langs. Heb je vragen over herintreden, lees dan eerst <a href=\"zondag-worden.html\">hoe je Zondag wordt</a>."
-   ]
-  }
+  {"h2": "Stel: je hebt een paar jaar niet gewerkt", "p": [
+   "Neem iemand die enkele jaren een pauze nam en nu terug wil. De twijfels zijn bekend: ben ik nog mee, wat wordt er van mij verwacht, en past een werkritme nog in mijn leven? Een job waarin je kleine, duidelijke taken krijgt, is dan een zachte landing.",
+   "Bij Zondags hoef je niet alles al te kunnen. Je leert de klant kennen, je krijgt een zondagsplan met wat er moet gebeuren en je werkt in je eigen tempo naar een vaste routine."]},
+  {"h2": "Een rustige start", "p": [
+   "Wanneer je begint, gaan we samen langs bij je klanten. Je ziet waar het materiaal staat, je maakt kennis met de zaakvoerder en je weet wat er van je verwacht wordt. Pas daarna werk je alleen.",
+   "Je begint niet noodzakelijk met een volle week. Wie na een pauze rustig wil opbouwen, start deeltijds en breidt uit wanneer het goed voelt. Dat bespreken we in het eerste gesprek."]},
+  {"h2": "Wat het werk inhoudt", "p": [
+   "Je werkt voor bedrijven, en dat is een duidelijk kader. Je kiest mee wat je graag doet.",
+   "<ul class=\"ticks\"><li>Poetsen van kantoor, praktijk, winkel, refter en vergaderzaal</li><li>Administratieve hulp: post sorteren, klasseren, dossiers ordenen</li><li>Afspraken inplannen en gegevens invoeren</li><li>Regelwerk voor een drukke bedrijfsleider, zoals pakjes en kantoormateriaal</li></ul>",
+   "Geen technische klussen en geen werken op hoogte."]},
+  {"h2": "Vaste dagen, vast contract", "p": [
+   "Je bent in dienst van Zondags met een vast contract. Je werkt deeltijds of voltijds, en ook enkel binnen kantooruren kan. Alles staat correct op papier, je verloning ligt boven het barema en je verplaatsingen worden vergoed.",
+   "Je werkt overdag op weekdagen. Vroeg in de ochtend of over de middag kan, nooit 's avonds en nooit in het weekend. Eens je rooster is afgesproken, ligt het vast, en je komt telkens bij dezelfde klanten. Lees ook onze tips voor <a href=\"jobs/herintreden-na-een-pauze.html\">herintreden na een pauze</a>."]},
+  {"h2": "Van Ename tot Welden: de deelgemeenten", "p": [
+   "Oudenaarde heeft postcode 9700. Tot de stad horen Bevere, Edelare, Eine, Ename, Heurne, Leupegem, Mater, Melden, Mullem, Nederename, Volkegem en Welden. We zoeken Zondags in en rond Oudenaarde, ook als je in Kruisem, Wortegem-Petegem, Kluisbergen of Ronse woont.",
+   "Dat is handig omdat je woonplaats in de Vlaamse Ardennen bepaalt bij welke klanten we je koppelen. Kort reizen houdt de dag lichter. Kijk ook eens naar <a href=\"werken/vaste-job-overdag-ronse.html\">de vaste job overdag in Ronse</a>."]},
+  {"h2": "Hoe je solliciteert", "p": [
+   "Stuur het formulier in, start de chat of stuur een bericht via WhatsApp op 0470 56 53 58. Binnen twee werkdagen bellen we je. Wees gerust: je hoeft geen cv vol ervaring te hebben. Een gesprek over wat je graag doet en wanneer je kan werken, volstaat. Meer over de rol lees je op <a href=\"zondag-worden.html\">de pagina over Zondag worden</a>."]}
  ],
  "faq": [
-  {
-   "q": "Waar vind ik een vaste job overdag zonder weekends in Oudenaarde?",
-   "a": "Bij Zondags. We zoeken mensen voor een vast contract in en rond Oudenaarde. Je werkt overdag op weekdagen bij vaste klanten en nooit in het weekend."
-  },
-  {
-   "q": "Kan ik herintreden zonder recente werkervaring?",
-   "a": "Ja. Je hebt geen diploma of recente ervaring nodig. We starten rustig en gaan bij het begin samen langs bij je klanten."
-  },
-  {
-   "q": "Kan ik enkel werken terwijl mijn kinderen op school zijn?",
-   "a": "Ja. Enkel binnen de schooluren kan. Je geeft je uren door en we zoeken klanten die daar bij passen."
-  },
-  {
-   "q": "Is deeltijds werken mogelijk met een vast contract?",
-   "a": "Ja. Je kiest mee hoeveel dagen je werkt. Deeltijds en voltijds kan, in overleg tijdens het eerste gesprek."
-  },
-  {
-   "q": "Wat verdien ik als vaste medewerker?",
-   "a": "Je verloning ligt boven het barema en je verplaatsingen worden vergoed. Bedragen noemen we niet vooraf op de website. Je bespreekt ze in het gesprek."
-  }
+  {"q": "Waar vind ik een vaste job overdag zonder weekends in Oudenaarde?", "a": "Zondags zoekt mensen in en rond Oudenaarde voor een vast contract overdag op weekdagen, bij kantoren, praktijken en winkels. Je solliciteert via het formulier, de chat of WhatsApp."},
+  {"q": "Kan ik herintreden na enkele jaren pauze?", "a": "Ja. Herintreders zijn welkom. Je hebt geen diploma of ervaring nodig, en bij de start gaan we samen langs bij je klanten zodat je weet wat er van je verwacht wordt."},
+  {"q": "Moet ik meteen voltijds werken?", "a": "Nee. Een vast contract kan deeltijds of voltijds. Wie rustig wil opbouwen, kan deeltijds starten en later uitbreiden. Dat bespreken we in het eerste gesprek."},
+  {"q": "Werk ik 's avonds of in het weekend?", "a": "Nooit. Je werkt overdag op weekdagen, vroeg in de ochtend of over de middag. Je weekends en avonden blijven van jou."},
+  {"q": "Wat verdien ik en worden mijn verplaatsingen vergoed?", "a": "Je verloning ligt boven het barema en je verplaatsingen worden vergoed. Over bedragen praten we in het gesprek. Alles staat correct op papier, want je bent in dienst van Zondags."},
+  {"q": "Hoe snel hoor ik iets na mijn sollicitatie?", "a": "We bellen je binnen twee werkdagen voor een kort gesprek. Klikt het, dan zoeken we klanten dicht bij je woonplaats die bij je uren passen."}
  ]
 }

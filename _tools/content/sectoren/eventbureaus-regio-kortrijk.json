@@ -1,81 +1,37 @@
 {
  "path": "sectoren/eventbureaus-regio-kortrijk.html",
- "title": "Poetshulp voor eventbureaus in Kortrijk en omgeving",
- "desc": "Poetshulp voor het kantoor, de ontvangstruimte, opslag en keuken van je eventbureau in Kortrijk en omgeving, door één vaste persoon op weekdagen.",
- "eyebrow": "Eventbureaus · regio Kortrijk",
+ "title": "Poetshulp voor eventbureaus rond Kortrijk",
+ "desc": "Eventbureaus in Kortrijk en omgeving krijgen een vaste Zondag voor kantoor, ontvangstruimte, opslag, keuken en sanitair. 60 euro per uur excl. btw.",
+ "eyebrow": "Kortrijk en omgeving",
  "h1": "Poetshulp voor eventbureaus in Kortrijk en omgeving",
- "lead": "Een eventbureau staat in het weekend op het veld, maar het kantoor draait van maandag tot vrijdag. Een vaste Zondag houdt dat kantoor verzorgd, zonder weekendwerk.",
- "answer": "Zondags (zondags.be) onderhoudt kantoor, ontvangstruimte, keuken en sanitair van eventbureaus in Kortrijk en de deelgemeenten Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem. Eén vaste persoon, je Zondag, houdt ook het opgeslagen materiaal netjes toegankelijk. Een opkuis van events in het weekend doet Zondags niet. De factuur komt op naam van je vennootschap.",
- "facts": [
-  "Kortrijk, deelgemeenten, buurgemeenten",
-  "Kantoor en ontvangstruimte",
-  "Opslag netjes houden",
-  "Geen events in het weekend",
-  "Factuur aan je vennootschap"
- ],
+ "lead": "Een eventbureau in de regio Kortrijk werkt op andere uren dan de rest van de week. Een vaste Zondag zorgt dat het kantoor tussen twee projecten toch op orde is.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor eventbureaus in Kortrijk, de deelgemeenten en de buurgemeenten Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede. Je Zondag onderhoudt kantoor, ontvangstruimte, keuken en sanitair, houdt de opslag netjes en helpt met pakjes en kantoormateriaal. Opkuis van events in het weekend zit er niet bij. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw.",
+ "facts": ["Kantoor, ontvangstruimte, keuken, sanitair", "Opslag netjes houden", "Geen opkuis van weekendevents", "Kortrijk en buurgemeenten", "60 euro per uur, per blok van 3 uur", "Factuur op naam van je vennootschap"],
  "sections": [
-  {
-   "h2": "Een kantoor dat tussen events wordt gebruikt",
-   "p": [
-    "Een eventbureau werkt in pieken. Voor een groot evenement is het kantoor vol met planners, boekingen en materiaal; erna is het even leeg. Tussen die pieken hoort het kantoor er toch fris bij te liggen, vooral wanneer klanten voor een kennismaking langskomen.",
-    "Een vaste Zondag komt op weekdagen, dus precies wanneer je team aan het plannen is of net tussen twee events zit. Weekendprojecten en opkuis van events horen niet bij ons werk."
-   ]
-  },
-  {
-   "h2": "Voorbeeld: een pop-up voor een kapsalon in een dorpskern",
-   "p": [
-    "Neem een eventbureau dat een pop-up bouwt voor een kapsalon in een dorpskern. Het materiaal ligt dagen in het magazijn: bakens, tafels, banners en kisten. Het kantoor wisselt tussen de planningstafel en de ontvangstruimte waar de klant de ontwerpen bekijkt.",
-    "Je Zondag begint met de ontvangstruimte en de vergadertafel, dan het kantoor, de keuken en het sanitair. In de opslag werkt ze enkel rond wat staat: vloer vrijhouden, stof van vlakke oppervlakken, geen verplaatsing van kisten zonder afspraak."
-   ]
-  },
-  {
-   "h2": "Wat een eventbureau in de week nodig heeft",
-   "p": [
-    "<ul class=\"ticks\"><li>Ontvangstruimte en vergadertafel voor klantbezoek</li><li>Planningsbureaus en werkruimtes</li><li>Keuken en koffiehoek, vooral na intensieve weken</li><li>Sanitair met aanvulling</li><li>Opslag: gangpaden vrij, vlakke oppervlakken afgenomen</li><li>Ramen langs binnen</li></ul>"
-   ]
-  },
-  {
-   "h2": "Kortrijk, de deelgemeenten en de buurgemeenten",
-   "p": [
-    "Je bureau kan in de stad zitten of in een deelgemeente. Voor Kortrijk zelf zoeken we een Zondag in de buurt, ook in Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem. Zondags is zelf gevestigd in Marke.",
-    "Buiten Kortrijk werken we in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede. Meer over onze aanpak in de stad lees je op <a href=\"poetshulp/kortrijk.html\">poetshulp in Kortrijk</a>."
-   ]
-  },
-  {
-   "h2": "Planning rond je events",
-   "p": [
-    "Je geeft je Zondag een vast ritme: bijvoorbeeld de maandagochtend voor de week begint, of de woensdagmiddag tussen twee voorbereidingen. Na een groot evenement kan je een extra beurt bijboeken op een weekdag. Tijdens drukke weken kan je het plan lichter maken, in kalme weken terug opbouwen.",
-    "Het zondagsplan is maandelijks opzegbaar en aanpasbaar."
-   ]
-  },
-  {
-   "h2": "Facturatie en starten",
-   "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Je krijgt een gewone dienstenfactuur op naam van je vennootschap. Onderhoud van beroepsruimtes is een beroepskost. Laat je accountant bevestigen hoe dit en eventuele btw-recuperatie voor jouw situatie werken.",
-    "Starten gaat via het formulier of de chat. Binnen één werkdag belt iemand terug, daarna volgen de intake en het zondagsplan. De eerste 2 uur zijn gratis."
-   ]
-  }
+  {"h2": "Wanneer de agenda van het bureau tegen je werkt", "p": [
+   "Een eventbureau werkt naar een datum toe en laat tussendoor van alles liggen. Zijn de weken voor een groot evenement vol, dan krijgt het eigen kantoor geen aandacht meer. Dozen blijven op de vloer, koffiebekers in de spoelbak, en de ontvangstruimte wordt een extra opslagplaats.",
+   "Een vaste Zondag houdt dat bij. Ze komt overdag op een weekdag, ook in de weken waarin jij zelf amper op kantoor bent."]},
+  {"h2": "Wat je Zondag in jouw bureau doet", "p": [
+   "<ul class=\"ticks\"><li>Ontvangstruimte en vergadertafel klaarzetten</li><li>Kantoor, keuken en sanitair poetsen</li><li>Vloer van de opslag vrijmaken, rekken afnemen</li><li>Pakjes en leveringen aannemen en sorteren</li><li>Koffiehoek en kantoormateriaal bevoorraden</li><li>De zaak klaarzetten voor een klantenbezoek</li></ul>",
+   "De zaak klaarzetten voor een klantenbezoek hoort bij de rechterhandtaken. Meer daarover lees je bij <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">rechterhand voor bedrijfsleiders</a>."]},
+  {"h2": "Wat niet kan", "p": [
+   "Een Zondag werkt niet in het weekend en niet 's avonds, dus zij ruimt geen feestzaal of locatie op na een event. Ze sjouwt ook geen zware kisten en werkt niet op hoogte. De opkuis van het event zelf blijft bij jouw ploeg, bij de locatie of bij een gespecialiseerd bedrijf."]},
+  {"h2": "Een kapsalon in de dorpskern als vergelijking", "p": [
+   "Neem een kapsalon in de dorpskern van een deelgemeente. De zaak is klein, de ruimte wordt veel bezocht en de eigenares heeft geen tijd om tussen twee afspraken door te poetsen. Haar Zondag komt aan het begin van de week, zet de zaak klaar en neemt ook de pakjes aan.",
+   "Voor een eventbureau werkt hetzelfde. De ontvangstruimte is het visitekaartje, en zij moet er elke maandag even goed uitzien als de week ervoor."]},
+  {"h2": "Waar we je zoeken", "p": [
+   "Zondags werkt vanuit Marke, een deelgemeente van Kortrijk. We zoeken een Zondag voor je eventbureau in Kortrijk en in Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem. Ligt je zaak in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem of Lendelede, dan kijken we mee. Een checklist met alle zones vind je op <a href=\"sectoren/eventbureaus-checklist.html\">de checklist voor eventbureaus</a>."]},
+  {"h2": "Prijs en factuur", "p": [
+   "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan dezelfde 60 euro per uur. De dienstenfactuur staat op naam van je vennootschap. Dit is in principe een beroepskost; laat je accountant bevestigen hoe dat voor jouw situatie werkt."]},
+  {"h2": "Zo start je", "p": [
+   "Op de <a href=\"boeken.html\">boekpagina</a> kies je een weekdag, het aantal blokken en de taken, en je betaalt online. Voor een vast plan, bijvoorbeeld elke week, laat je een terugbelverzoek achter. Dan leggen we samen het zondagsplan vast."]}
  ],
  "faq": [
-  {
-   "q": "Welk bedrijf levert poetshulp aan eventbureaus in Kortrijk?",
-   "a": "Zondags uit Marke levert een vaste persoon voor kantoor, ontvangstruimte, keuken en sanitair van eventbureaus in Kortrijk en omgeving, met een factuur op naam van je vennootschap."
-  },
-  {
-   "q": "Poetsen jullie ook na events in het weekend?",
-   "a": "Nee. Zondags werkt overdag op weekdagen, nooit in de avond en nooit in het weekend. Een opkuis van events in het weekend maakt geen deel uit van ons aanbod."
-  },
-  {
-   "q": "Kan mijn Zondag het opgeslagen materiaal beheren?",
-   "a": "Nee, het beheer van materiaal blijft bij je team. Je Zondag houdt de ruimte netjes, houdt gangpaden vrij en neemt vlakke oppervlakken af."
-  },
-  {
-   "q": "Werkt Zondags ook buiten Kortrijk?",
-   "a": "Ja, in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede, en in heel West- en Oost-Vlaanderen."
-  },
-  {
-   "q": "Kan het plan variëren met mijn eventkalender?",
-   "a": "Ja. Uren bijboeken of afbouwen kan, en het zondagsplan is maandelijks opzegbaar. Voor losse opdrachten kan je ook een extra beurt vragen."
-  }
+  {"q": "Welk bedrijf levert poetshulp voor eventbureaus in Kortrijk?", "a": "Zondags, vanuit Marke. Je krijgt een vaste Zondag voor kantoor, ontvangstruimte, keuken en sanitair, met een factuur op naam van je vennootschap."},
+  {"q": "Kan Zondags een event of locatie opkuisen?", "a": "Nee. Zondags werkt overdag op weekdagen en doet geen opkuis van events of feestzalen. Het gaat om het kantoor en de opslag van het bureau zelf."},
+  {"q": "Wat kost een Zondag voor een eventbureau?", "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief."},
+  {"q": "Neemt mijn Zondag ook pakjes en leveringen aan?", "a": "Ja. Pakjes aannemen, sorteren en klaarmaken horen bij de rechterhandtaken, net als kantoormateriaal bestellen en de koffiehoek bevoorraden."},
+  {"q": "Werkt Zondags ook in Wevelgem of Menen?", "a": "Ja, in de buurgemeenten van Kortrijk zoals Wevelgem, Menen, Harelbeke, Kuurne, Zwevegem en Lendelede, en in de deelgemeenten van Kortrijk."},
+  {"q": "Hoe snel kan een Zondag starten?", "a": "Boeken kan voor een weekdag, minstens twee werkdagen vooraf. Voor een vast ritme bespreken we eerst in een kort gesprek de taken, dagen en uren."}
  ]
 }

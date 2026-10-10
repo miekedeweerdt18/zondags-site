@@ -1,34 +1,92 @@
 {
  "path": "regio/schoonmaak-kantoor-wervik.html",
- "title": "Schoonmaakhulp voor kantoren in Wervik",
- "desc": "Een vaste persoon poetst je kantoor of toonzaal in Wervik en Geluwe voor de deur opengaat. Overdag op weekdagen, met één factuur op je vennootschap.",
+ "title": "Schoonmaakhulp voor kantoren in Wervik (8940)",
+ "desc": "Schoonmaakhulp voor winkels, toonzalen en kantoren in Wervik en Geluwe. Poetsen voor de deur opengaat, door één vaste persoon. 60 euro per uur exclusief btw.",
  "eyebrow": "Wervik · 8940",
  "h1": "Schoonmaakhulp voor kantoren in Wervik",
- "lead": "Wie in het centrum van Wervik een zaak heeft, wil dat alles blinkt wanneer de eerste klant binnenkomt. Een vaste Zondag poetst vroeg, zodat jij open kunt gaan met een rustig hoofd.",
- "answer": "Zondags (zondags.be) levert schoonmaakhulp voor kantoren in Wervik, postcode 8940, en in Geluwe, dat bij Wervik hoort. Eén vaste persoon, je Zondag, onderhoudt wekelijks of tweewekelijks bureaus, vergaderruimte, keuken, sanitair en vloeren en zet het afval buiten. Overdag op weekdagen, vaak vroeg in de ochtend voor de zaak opengaat. Je krijgt één dienstenfactuur op naam van je vennootschap.",
- "facts": ["Poetsen voor de zaak opengaat", "Kantoor en toonzaal in het centrum", "Wekelijks of tweewekelijks", "Dezelfde vaste Zondag", "Factuur aan je vennootschap"],
+ "lead": "Een zaak in het centrum van Wervik moet klaar zijn voor de eerste klant over de drempel stapt. Een vaste Zondag poetst voor de deur opengaat, zodat jij kan beginnen aan je dag.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp voor kantoren, toonzalen en winkels in Wervik en Geluwe. Eén vaste persoon, je Zondag, poetst wekelijks of tweewekelijks overdag op een weekdag, desgewenst vroeg in de ochtend vóór je opent. Ze doet vloeren, toonruimte, kantoor, keuken en sanitair. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw, met een factuur op naam van je bedrijf.",
+ "facts": [
+  "Zaken in het centrum van Wervik",
+  "Ook Geluwe",
+  "Poetsen vóór je opent",
+  "Factuur op naam van je bedrijf",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Een zaak in het centrum, een vroeg begin", "p": [
-   "In een dorpskern of stadscentrum is de voordeur ook het uithangbord. Passanten kijken binnen, klanten wandelen zonder afspraak binnen en een afgewassen vloer of een stoffige toog valt meteen op. Daarom plannen veel zaken in Wervik hun poetsbeurt voor de openingsuren.",
-   "Een Zondag begint dan vroeg in de ochtend, op een uur dat je samen vastlegt. Zo is het kantoor of de toonzaal klaar voor het eerste telefoontje, en niemand van je team hoeft nog stofzuiger of emmer te zien."]},
-  {"h2": "Voorbeeld: een interieurzaak met een toonzaal", "p": [
-   "Stel: je hebt een interieurzaak in Wervik met een toonzaal vooraan en een kantoor achteraan. In de toonzaal staan salons, tafels en stalen. De vloeren moeten glanzen, de glazen oppervlakken moeten schoon zijn en het sanitair voor klanten moet er netjes bijliggen.",
-   "Je Zondag begint met de toonzaal, gaat dan naar het kantoor met bureaus en vergaderhoek en sluit af met keuken en sanitair. Meubelstukken die je zelf wilt verplaatsen of opstellen, laat je liever in handen van je eigen team. Het gaat om onderhoud, niet om inrichting."]},
-  {"h2": "Wat je Zondag in je kantoor doet", "p": [
-   "<ul class=\"ticks\"><li>Bureaus, vergadertafel en onthaal afnemen</li><li>Vloeren stofzuigen en dweilen</li><li>Keuken en koffiehoek onderhouden</li><li>Sanitair schoonmaken en aanvullen</li><li>Ramen en glazen deuren langs binnen</li><li>Afval en recyclage buitenzetten</li></ul>",
-   "Wil je voor een toonzaal of onthaal extra aandacht op glas, dan spreken we dat af in het zondagsplan. Specialistische reiniging, werk op hoogte en gevelreiniging doen we niet. Meer uitleg vind je op <a href=\"regio/schoonmaak-kantoor-kortrijk.html\">schoonmaakhulp voor kantoren in Kortrijk</a>."]},
-  {"h2": "Zaak en woning bij dezelfde persoon", "p": [
-   "Dezelfde Zondag kan ook je woning in Wervik of Geluwe poetsen, de was en strijk doen of een weekschotel koken. Je hebt dan één aanspreekpunt, één kennismaking en één plan. Op de factuur staan het beroepsmatige en het privégedeelte apart.",
-   "Een vennootschap kan geen dienstencheques kopen, dat kan enkel een particulier. Het onderhoud van je kantoor is een beroepskost; voor het privégedeelte kan een voordeel van alle aard gelden. Je accountant bevestigt wat voor jouw situatie klopt."]},
-  {"h2": "Wervik, Geluwe en de omgeving", "p": [
-   "We zoeken een Zondag in en rond Wervik, ook voor Geluwe, een deelgemeente van Wervik. Zaken in Menen, Zonnebeke of Ieper kunnen eveneens een aanvraag indienen. Wervik behoort tot de regio Kortrijk.",
-   "Je vult het formulier in of chat met ons. Binnen één werkdag belt iemand terug. Daarna volgt de intake op je kantoor, waar we samen je zondagsplan maken. De eerste 2 uur zijn gratis, en we beloven niet dat er al iemand klaarstaat."]}
+  {
+   "h2": "Poetsen voor de deur opengaat",
+   "p": [
+    "In een dorpskern of stadscentrum weten klanten vaak al uit het straatbeeld hoe een zaak werkt. Een voordeur met vegen, een vloer vol voetafdrukken of een toonbank waar nog het vorige dagverslag op ligt, valt meteen op. Daarom is het moment van poetsen even belangrijk als het poetsen zelf.",
+    "Met een vroege afspraak werkt je Zondag in een lege zaak. Geen klanten in de weg, geen team dat moet wachten. Als jij of je personeel binnenkomt, ruikt en ziet alles er fris uit en kan de dag gewoon beginnen."
+   ]
+  },
+  {
+   "h2": "Neem een interieurzaak met een toonzaal",
+   "p": [
+    "Neem een interieurzaak met een toonzaal: gordijnen, meubels en verlichting in opstelling, vlak bij een winkelstraat in Wervik. Stof zet zich snel af op platte oppervlakken en glas, en elke vlek op de vloer valt op tussen het meubilair. Op een vaste ochtend komt de Zondag langs voor de toonzaal, het kantoor achteraan, het sanitair en de keuken.",
+    "Wat verplaatst moet worden, bespreek je één keer. Je Zondag onthoudt dat, zodat de opstelling blijft staan zoals jij ze bedoeld hebt."
+   ]
+  },
+  {
+   "h2": "Wat er in een toonzaal en kantoor aan bod komt",
+   "p": [
+    "<ul class=\"ticks\"><li>Toonbank, balie en toonmeubilair afnemen</li><li>Vloeren stofzuigen en nat dweilen</li><li>Etalageruiten en glazen deuren langs binnen</li><li>Kantoor, bureaus en vergadertafel</li><li>Keuken, personeelsruimte en sanitair</li><li>Afval en karton buiten zetten</li></ul>",
+    "Ramen langs buiten op hoogte en gevelwerk doet Zondags niet. De gewone onderhoudsbeurt voor een winkel of toonzaal is wel precies wat je Zondag doet."
+   ]
+  },
+  {
+   "h2": "Meer handen voor wat blijft liggen",
+   "p": [
+    "In een kleine zaak in Wervik doet de zaakvoerder alles zelf: de klanten ontvangen, de leveranciers bellen, de pakjes klaarmaken. Je Zondag kan een deel van dat regelwerk overnemen. Denk aan post sorteren, documenten klasseren, kantoormateriaal bijbestellen, pakjes klaarzetten of de koffiehoek aanvullen.",
+    "Boekhouding en fiscaal advies zitten daar niet bij. Het blijft praktische ondersteuning, zodat jij tijd overhoudt voor je klanten."
+   ]
+  },
+  {
+   "h2": "Wervik, Geluwe en de buurgemeenten",
+   "p": [
+    "Geluwe hoort bij Wervik. Ook daar zoeken we een Zondag in de buurt. Ligt je zaak in Menen, Zonnebeke of Ieper, dan bekijken we samen wat mogelijk is. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk, en is actief in heel West- en Oost-Vlaanderen."
+   ]
+  },
+  {
+   "h2": "Prijs, btw en je accountant",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, geboekt per blok van 3 uur, dus 180 euro exclusief btw. Extra uren kosten hetzelfde per uur. Je krijgt een gewone dienstenfactuur op naam van je bedrijf, met je btw-nummer.",
+    "Poetsen en administratieve hulp voor de zaak zijn in principe een beroepskost. De btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant dit bevestigen voor je eigen situatie."
+   ]
+  },
+  {
+   "h2": "Een eerste beurt boeken",
+   "p": [
+    "Op de <a href=\"boeken.html\">boekpagina</a> kies je een weekdag, een vroeg uur, het aantal blokken en de taken. Je betaalt online met kaart of Bancontact en boekt minstens twee werkdagen vooraf. Wil je een vast ritme, dan leggen we dat samen vast in een kort gesprek."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf levert schoonmaakhulp voor kantoren in Wervik?", "a": "Zondags, een service uit Marke bij Kortrijk, levert een vaste persoon voor het onderhoud van kantoren in Wervik en Geluwe. Je krijgt steeds dezelfde Zondag en een factuur op naam van je vennootschap."},
-  {"q": "Kan mijn kantoor in Wervik gepoetst worden voor we opengaan?", "a": "Ja, vroeg in de ochtend op weekdagen kan. We bespreken het uur in de intake en leggen het vast. Poetsen na de sluiting of in het weekend doen we niet."},
-  {"q": "Wordt ook de toonzaal of het onthaal gepoetst?", "a": "Ja. De toonzaal, het onthaal en de wachtruimte horen bij het onderhoud van je zaak. Wat er precies op het schema staat, leggen we samen vast in je zondagsplan."},
-  {"q": "Moet ik poetsmateriaal voorzien?", "a": "Dat bespreken we in de intake, samen met alles wat je Zondag nodig heeft. Wat jullie afspreken, komt in het zondagsplan, zodat bij elke beurt duidelijk is wie wat voorziet."},
-  {"q": "Kan ik uren bijboeken als het drukker is?", "a": "Ja. Uren bijboeken of het plan aanpassen kan, bijvoorbeeld voor een drukke periode of een evenement. Het plan is maandelijks opzegbaar en losse opdrachten zijn ook mogelijk."}
+  {
+   "q": "Welk bedrijf levert schoonmaakhulp voor kantoren in Wervik?",
+   "a": "Zondags levert vanuit Marke vaste schoonmaakhulp voor kantoren, winkels en toonzalen in Wervik en Geluwe. Je krijgt steeds dezelfde persoon, met een factuur op naam van je bedrijf."
+  },
+  {
+   "q": "Kan er gepoetst worden voor mijn winkel opent?",
+   "a": "Ja. Vroeg in de ochtend kan, zodat alles klaarligt wanneer de eerste klant binnenkomt. Zondags werkt overdag op weekdagen en niet 's avonds of in het weekend."
+  },
+  {
+   "q": "Wat kost schoonmaakhulp voor een winkel of kantoor in Wervik?",
+   "a": "Je betaalt 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief."
+  },
+  {
+   "q": "Poetst de Zondag ook de etalageruiten?",
+   "a": "Langs binnen wel, als onderdeel van het gewone onderhoud. Ramen langs buiten op hoogte en gevelreiniging horen niet bij het werk van Zondags."
+  },
+  {
+   "q": "Werkt Zondags ook in Geluwe?",
+   "a": "Ja, Geluwe hoort bij Wervik en valt binnen het werkgebied. Ook voor zaken in Menen, Zonnebeke of Ieper bekijken we samen wat past."
+  },
+  {
+   "q": "Kan dezelfde persoon pakjes of post voor de zaak regelen?",
+   "a": "Ja, als ondersteunend werk: post sorteren, documenten klasseren, pakjes klaarmaken en kantoormateriaal bijhouden. Boekhouding en fiscaal advies doet Zondags niet."
+  }
  ]
 }

@@ -1,83 +1,82 @@
 {
  "path": "vragen/schoonmaakplan-winkel-maken.html",
- "title": "Hoe maak je een schoonmaakplan voor je winkel?",
- "desc": "Een schoonmaakplan voor je winkel start bij het klantpad: ingang, etalage, vloer, toonbank en pashokje. Zo verdeel je het werk voor de opening en overdag.",
+ "title": "Een schoonmaakplan voor je winkel maken",
+ "desc": "Zo maak je een schoonmaakplan voor je winkel: zones, ritme en taakverdeling tussen je team en een vaste hulp, met een voorbeeld en de prijs.",
  "eyebrow": "Vraag",
  "h1": "Hoe maak je een schoonmaakplan voor je winkel?",
- "lead": "In een winkel beoordeelt de klant je zaak bij de eerste stap binnen. Een schoonmaakplan begint daarom bij het klantpad: wat ziet, voelt en ruikt de klant het eerst?",
- "answer": "Een schoonmaakplan voor je winkel maak je door te vertrekken van het pad van je klant, van etalage en ingang tot toonbank en pashokje, en per zone de taken, het moment en de uitvoerder vast te leggen. Zondags (zondags.be) poetst winkels op weekdagen, overdag, vroeg in de ochtend of over de middag, en neemt jouw plan mee in het zondagsplan.",
+ "lead": "Een goed plan voor je winkel past op één blad en zegt per zone wat er gebeurt, hoe vaak en door wie. Zo ligt de zaak er netjes bij zonder dat het poetsen je hele week opeet.",
+ "answer": "Een schoonmaakplan voor je winkel verdeelt de zaak in zones, koppelt aan elke zone een taak en een ritme, en noteert wie wat doet: je team tussendoor, de vaste hulp wekelijks. Zondags (zondags.be) werkt zo'n plan samen met je uit en voert het uit met één vaste persoon, overdag op weekdagen, aan 60 euro per uur exclusief btw per blok van 3 uur.",
  "facts": [
-  "Vertrek van het klantpad",
-  "Voor de opening, overdag en bij sluiting",
-  "Etalage en ramen langs binnen",
-  "Zaterdag zelf bijhouden, weekdagen door Zondags",
-  "Zondagsplan voor je winkel"
+  "Eerst een rondgang, dan een plan",
+  "Zones, taken en ritme op één blad",
+  "Team doet dagelijks, Zondag wekelijks",
+  "Een vaste persoon voert het uit",
+  "60 euro per uur, per blok van 3 uur"
  ],
  "sections": [
   {
-   "h2": "Begin bij het klantpad",
+   "h2": "Begin met een rondgang als klant",
    "p": [
-    "Loop je winkel binnen zoals een klant. Wat valt het eerst op, en wat blijft hangen? Noteer de zones in de volgorde waarin een klant ze ziet.",
-    "<ul class=\"ticks\"><li>Ingang en mat, deur en glas</li><li>Etalage langs binnen</li><li>Vloer en looppaden</li><li>Schappen, rekken en displays</li><li>Toonbank en kassa</li><li>Pashokjes en spiegels</li><li>Sanitair voor klanten en personeel</li></ul>"
+    "Loop je winkel binnen alsof het de eerste keer is. Waar kijkt een klant naartoe, wat raakt hij aan en waar blijft zijn blik hangen? Een vlek op de vloer bij de ingang weegt zwaarder dan een stoffige plank in het magazijn. Noteer alles wat je opvalt, het liefst met een foto.",
+    "Die rondgang is de basis van je plan. Je ziet meteen welke plekken elke dag aandacht vragen en welke een keer per week volstaan."
    ]
   },
   {
-   "h2": "Voor de opening, overdag en bij sluiting",
+   "h2": "Verdeel de winkel in zones",
    "p": [
-    "Een winkel kent drie momenten. Voor de opening poetst je Zondag de vloer, de toonbank, het glas en het sanitair, en leegt de afvalbakken. Overdag houdt je team natte plekken, vingerafdrukken en pashokjes bij. Na sluiting werkt Zondags niet, want 's avonds en in het weekend zijn we er niet. Het sluitingsritueel, zoals afval en kassa, doet je team zelf."
+    "<ul class=\"ticks\"><li>De ingang en de vloer van de verkoopruimte</li><li>De toonbank, de kassa en de betaalterminal</li><li>Rekken, schappen en tafels met producten</li><li>De etalage en de glazen deuren langs binnen</li><li>Paskamers of een proefruimte, als je die hebt</li><li>De personeelsruimte met keuken en frigo</li><li>Het sanitair en de opslag achteraan</li></ul>",
+    "Geef elke zone een eigen regel in je plan. Hoe concreter de zone, hoe minder discussie er later is over wat wel en niet gedaan werd."
    ]
   },
   {
-   "h2": "Wat in een winkel anders is dan op kantoor",
+   "h2": "Kies per zone een ritme",
    "p": [
-    "Er lopen meer mensen binnen, en dat zie je op de vloer, de toonbank en het glas. Stof zet zich af op schappen en producten, en natte schoenen laten een spoor achter bij regenweer. Producten verplaatsen of afstoffen gebeurt in overleg met jou. Verkoop je voeding, dan gelden er eigen hygiënevoorschriften die je zelf opvolgt."
+    "Werk met drie momenten. Wat dagelijks moet, doet het team zelf in de marge van de openingsuren: de kassa afnemen, afval wegzetten, een snelle veeg bij de ingang. Wat wekelijks hoort, geef je aan je vaste hulp: de vloeren grondig, het sanitair, de keuken, de glazen deuren. En wat maandelijks volstaat, zet je in een aparte lijst, bijvoorbeeld de onderkant van de rekken of de hoeken van het magazijn.",
+    "Schrijf bij elke taak ook het moment. Een winkel poets je het best wanneer er weinig volk is of net voor de opening."
    ]
   },
   {
-   "h2": "Etalage, ramen en glas",
+   "h2": "Een voorbeeld: een kledingboetiek met twee medewerkers",
    "p": [
-    "Je Zondag doet de ramen en het glas langs binnen, ook aan de etalage. Het inrichten van de etalage blijft bij jou. Gevelreiniging en ramen langs buiten op hoogte doen we niet. Een glazen deur met vingerafdrukken valt bij een winkel sneller op dan bij een kantoor, dus plan die in je dagelijkse ronde."
+    "Neem een boetiek met een kleine verkoopruimte, twee paskamers en een achterkamer waar de collectie hangt. Het team neemt elke dag de toonbank en de spiegels af en zet het afval weg. Elke dinsdagochtend komt een vaste Zondag: ze doet de vloeren, de paskamers, het sanitair en de keuken, en neemt de koffiehoek mee.",
+    "Komt er een nieuwe collectie of een uitverkoop, dan boek je een extra blok in dezelfde week. Het basisplan blijft hetzelfde, alleen de uren schuiven mee."
    ]
   },
   {
-   "h2": "Voorbeeld: een kledingboetiek met twee pashokjes",
+   "h2": "Wat je beter niet in het plan zet",
    "p": [
-    "Neem een kledingboetiek die op zaterdag open is. Op maandagochtend, voor de opening, poetst je Zondag de vloer, de pashokjes en spiegels, de toonbank, het glas aan de binnenkant van de etalage en het sanitair. Overdag wrijft je team spiegels en kassa bij, en op zaterdagavond zet iemand het afval klaar. In de drukke weken voor de feestdagen plan je een extra beurt midden in de week."
+    "Plan geen taken die bij een winkel niet horen of niet veilig zijn. Werken op hoogte, gevelreiniging en ramen langs buiten op hoogte laat je aan een gespecialiseerd bedrijf. Zondags doet die niet; de etalage en de ramen langs binnen horen er wel bij.",
+    "Zet ook geen onmogelijke ambities op papier. Een plan dat elke dag alles belooft, wordt na twee weken genegeerd."
    ]
   },
   {
-   "h2": "Het plan vastleggen en bijsturen",
+   "h2": "Hoe Zondags het plan uitvoert",
    "p": [
-    "Zet het plan op papier en hang het op een plek in de winkel waar het team het ziet. Controleer na enkele weken wat klopt, en pas aan: een extra beurt in een drukke periode, een taak die vaker moet. Wil je ook het kantoor- of het woningdeel van je zaak vastleggen, kijk dan bij <a href=\"vragen/schoonmaakplan-kantoor-maken.html\">een schoonmaakplan voor je kantoor</a>."
-   ]
-  },
-  {
-   "h2": "Hoe Zondags dit aanpakt",
-   "p": [
-    "Tijdens de intake ter plaatse lopen we samen door je winkel en leggen we je plan vast: welke zones, welke taken, welk moment. Dat wordt je zondagsplan, met steeds dezelfde Zondag op een vaste dag en uur. Meer over wat we voor winkels doen, lees je bij <a href=\"sectoren/winkels.html\">poetshulp voor winkels en boetieks</a>."
+    "Voor een vast ritme leggen we samen het zondagsplan vast: welke taken, welke dagen, welke uren. Je Zondag komt steeds op hetzelfde moment, kent jouw winkel en volgt het plan. Wil je eerst iets proberen, dan kan je een blok van 3 uur <a href=\"boeken.html\">online boeken</a> aan 60 euro per uur exclusief btw, dat is 180 euro exclusief btw.",
+    "Je krijgt een dienstenfactuur op naam van je bedrijf. Het onderhoud van je winkel is in principe een beroepskost; laat je accountant dit bevestigen voor je eigen situatie."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Kan mijn winkel gepoetst worden voor de opening?",
-   "a": "Ja. Zondags werkt op weekdagen, overdag, vroeg in de ochtend of over de middag. Zo kan je winkel klaar zijn wanneer de eerste klant binnenkomt. 's Avonds en in het weekend werkt Zondags niet."
+   "q": "Hoe vaak moet je een winkel schoonmaken?",
+   "a": "Dat hangt af van het aantal klanten en van wat je verkoopt. Vloer, kassa en sanitair vragen vaak dagelijks of wekelijks aandacht, rekken en hoeken volstaan meestal maandelijks. Noteer het ritme per zone en pas het na enkele weken aan."
   },
   {
-   "q": "Wat als mijn winkel op zaterdag open is?",
-   "a": "Dan poetst je Zondag op een weekdag en houdt je team de zaterdag zelf bij: natte plekken, glas, afval. Zondags werkt niet in het weekend."
+   "q": "Wie moet het schoonmaakplan van een winkel opvolgen?",
+   "a": "Wijs één persoon aan, bijvoorbeeld de winkelverantwoordelijke. Hij of zij controleert of de dagelijkse taken gebeuren en spreekt de vaste hulp aan. Zo hangt het plan niet af van wie er toevallig werkt."
   },
   {
-   "q": "Wie doet mijn etalage?",
-   "a": "Je Zondag doet de ramen en het glas langs binnen. Het inrichten van de etalage blijft bij jou. Gevelreiniging en ramen langs buiten op hoogte doet Zondags niet."
+   "q": "Kan Zondags mijn winkel poetsen voor de opening?",
+   "a": "Zondags werkt overdag op weekdagen. Vroeg in de ochtend of over de middag kan, 's avonds en in het weekend niet. Zo bepaal je samen een moment dat past bij je openingsuren."
   },
   {
-   "q": "Moet een winkel vaker gepoetst worden dan een kantoor?",
-   "a": "Vaak wel, omdat er meer bezoekers binnenkomen, vooral op de vloer, de toonbank en het glas. Hoe vaak, hangt af van je klantenstroom. Begin met een vast wekelijks ritme en stel bij."
+   "q": "Wat kost een vaste hulp voor mijn winkel?",
+   "a": "Je betaalt 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw per blok, en extra uren boek je aan hetzelfde tarief."
   },
   {
-   "q": "Kan mijn woning in hetzelfde plan als mijn winkel?",
-   "a": "Ja. Winkel en woning kunnen in één plan, met dezelfde Zondag. Op de factuur staan het beroepsmatige en het privégedeelte apart. Laat je accountant bevestigen hoe dat voor jouw situatie werkt."
+   "q": "Hoe boek ik dit voor mijn winkel?",
+   "a": "Kies op de boekpagina je datum, het aantal blokken en de taken, geef de naam en het btw-nummer van je bedrijf en betaal online. Voor een vast ritme laat je een terugbelverzoek achter."
   }
  ]
 }

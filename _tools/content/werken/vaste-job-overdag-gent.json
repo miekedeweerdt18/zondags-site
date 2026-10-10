@@ -1,79 +1,38 @@
 {
  "path": "werken/vaste-job-overdag-gent.html",
  "title": "Vaste job overdag zonder weekends in Gent",
- "desc": "Een vaste job overdag in Gent en de deelgemeenten, na je studies of studentenleven. Vast contract, deeltijds of voltijds, zonder avonden of weekends.",
- "eyebrow": "Vaste job · Gent",
+ "desc": "Op kot in Gent en in de vakanties extra werken? Dan past vooral een studentencontract. Ontdek de vaste job overdag zonder weekends bij vaste bedrijven.",
+ "eyebrow": "Vaste job overdag · Gent · 9000",
  "h1": "Vaste job overdag zonder weekends in Gent",
- "lead": "Van kotstudent met vakantiejob naar een vaste job overdag in Gent: met een vast contract, uren die vastliggen en een weekend dat gewoon vrij blijft.",
- "answer": "Zondags (zondags.be) zoekt mensen voor een vaste job overdag in Gent en de deelgemeenten. Je krijgt een vast contract, deeltijds of voltijds, en werkt als Zondag op weekdagen bij vaste klanten, nooit 's avonds en nooit in het weekend. Wie al als student bij ons werkte, of op kot zat en in de vakanties werkte, kan na de studies doorstromen. Verloning ligt boven het barema en verplaatsingen zijn vergoed.",
- "facts": [
-  "Vast contract, deeltijds of voltijds",
-  "Doorstroom na je studies mogelijk",
-  "Overdag op weekdagen",
-  "Nooit 's avonds of in het weekend",
-  "Vaste klanten in en rond Gent"
- ],
+ "lead": "Je zit op kot in Gent en wil in de vakanties extra werken. Wat je zoekt is misschien geen vast contract, maar de job zelf is overdag, op weekdagen en bij vaste klanten.",
+ "answer": "Zondags (zondags.be) zoekt mensen in en rond Gent voor werk overdag op weekdagen, zonder avonden en weekends. Een vast contract, deeltijds of voltijds, past vooral bij wie het hele jaar beschikbaar is. Een student die vooral in de vakanties werkt, past meestal beter in een studentencontract. Dat bekijken we samen in het eerste gesprek. Je werkt als Zondag voor kantoren, praktijken, winkels en bedrijfsleiders.",
+ "facts": ["Vast contract of studentencontract, na overleg", "Overdag op weekdagen", "Geen avonden, geen weekends", "Vanaf 18 jaar, geen diploma nodig", "Verloning boven het barema"],
  "sections": [
-  {
-   "h2": "Van vakantiejob naar vaste job",
-   "p": [
-    "Stel: je bent een student die op kot zit en in de vakanties extra wil werken. Die vakantiejob bestaat bij Zondags als <a href=\"werken/studentenjob-gent.html\">studentenjob in Gent</a>. Maar wat gebeurt er als je afstudeert en nog steeds niet weet waar je naartoe wilt?",
-    "Dan bestaat er een tweede stap: een vast contract. Je kent dan al het werk, je klanten en de manier waarop we plannen. Wij zien dat als een logisch vervolg, maar het blijft een keuze die jij maakt.",
-    "Wie nog twijfelt, bespreekt dat gewoon in het eerste gesprek. Niemand wordt gehaast. In het gesprek bekijken we samen welke vorm op dat moment past bij jouw situatie en je plannen."
-   ]
-  },
-  {
-   "h2": "Wat vast betekent",
-   "p": [
-    "<ul class=\"ticks\"><li>Een vast contract, deeltijds of voltijds</li><li>Een vast rooster bij dezelfde klanten</li><li>Overdag op weekdagen, nooit 's avonds of in het weekend</li><li>Verloning boven het barema</li><li>Verplaatsingen vergoed</li></ul>",
-    "Je werkt in dienst van Zondags, alles correct op papier."
-   ]
-  },
-  {
-   "h2": "Voor wie is deze job nog meer",
-   "p": [
-    "Niet alleen voor afgestudeerden. Ook voor zij-instromers die van sector veranderen, herintreders na een pauze, ouders die binnen de schooluren willen werken en mensen die gewoon een rustige, voorspelbare job zoeken. Je hebt geen diploma of ervaring nodig. Betrouwbaarheid, discretie en zorg voor andermans huis tellen, en je spreekt voldoende Nederlands om afspraken te maken."
-   ]
-  },
-  {
-   "h2": "Een voorbeeldweek in Gent",
-   "p": [
-    "Neem iemand met een voltijds contract. Op maandag poets je het kantoor van een ondernemer en doe je zijn boodschappen. Dinsdag ben je bij een gezin voor was en strijk, woensdagvoormiddag kook je gezonde schotels voor de week, en woensdagnamiddag haal je kinderen op van school. Donderdag staat een praktijk op het programma. Vrijdag ruim je de woning van de ondernemer op. Elke avond en elk weekend zijn vrij."
-   ]
-  },
-  {
-   "h2": "Gent, Mariakerke, Oostakker en de rest",
-   "p": [
-    "Gent heeft postcode 9000. Afsnee, Drongen, Gentbrugge, Ledeberg, Mariakerke, Oostakker, Sint-Amandsberg, Sint-Denijs-Westrem, Wondelgem en Zwijnaarde horen er allemaal bij. We zoeken Zondags in en rond Gent, ook in Merelbeke, De Pinte, Sint-Martens-Latem, Destelbergen, Lochristi en Evergem. We kijken telkens naar klanten dicht bij je woonplaats."
-   ]
-  },
-  {
-   "h2": "Solliciteren",
-   "p": [
-    "Meld je aan via het formulier, de chat of WhatsApp op 0470 56 53 58. We bellen je binnen de twee werkdagen voor een kort gesprek. Klikt het, dan zoeken we klanten die passen bij je uren en gaan we samen langs bij de start. Lees ook <a href=\"zondag-worden.html\">hoe je Zondag wordt</a>."
-   ]
-  }
+  {"h2": "Stel: je zit op kot en wil in de vakanties werken", "p": [
+   "Neem een student in Gent die op kot zit. Tijdens het jaar zijn de lessen en blokperiodes zwaar, maar in de vakanties heeft ze weken vrij. Ze wil dan graag bijverdienen, liefst overdag en zonder avond- of weekendwerk.",
+   "Een vast contract is eerder bedoeld voor iemand die het hele jaar een vast aantal dagen kan werken. Voor een student die vooral in de vakanties beschikbaar is, past meestal een studentencontract beter. Je volgt dan zelf je urensaldo op via Student@work. We zeggen het eerlijk, zodat je niet verkeerd begint."]},
+  {"h2": "Wat een Zondag in Gent doet", "p": [
+   "Je werkt voor bedrijven die dezelfde persoon op dezelfde dag willen zien. Denk aan een advocatenkantoor, een tandartspraktijk, een kledingwinkel of een zaakvoerder met een volle agenda.",
+   "<ul class=\"ticks\"><li>Poetsen van kantoor, praktijk, winkel, refter en vergaderzaal</li><li>Post sorteren, documenten klasseren, gegevens invoeren</li><li>Afspraken plannen en pakjes klaarmaken</li><li>Koffiehoek en keuken bevoorraden, kantoormateriaal bestellen</li></ul>",
+   "Geen technisch werk en geen werken op hoogte. Elke klant heeft een zondagsplan met de taken en de uren."]},
+  {"h2": "Een vakantieweek als voorbeeld", "p": [
+   "Stel: het is juli en je werkt vier dagen. Op maandag ga je bij een kantoor langs, op dinsdag bij een praktijk, op donderdag bij een winkel en op vrijdag help je een zaakvoerder met post en agenda. Woensdag houd je vrij voor je eigen plannen.",
+   "Je kiest mee welke dagen en welke uren. Eens afgesproken, ligt je rooster vast en kom je steeds bij dezelfde klanten. Dat is anders dan een uitzendjob die elke week wisselt."]},
+  {"h2": "Gent en de deelgemeenten", "p": [
+   "Gent heeft postcode 9000. Tot de stad horen Afsnee, Drongen, Gentbrugge, Ledeberg, Mariakerke, Oostakker, Sint-Amandsberg, Sint-Denijs-Westrem, Wondelgem en Zwijnaarde. We zoeken Zondags in en rond Gent, en dat omvat ook Merelbeke, De Pinte, Sint-Martens-Latem, Destelbergen, Lochristi en Evergem.",
+   "Woon je in de vakantie weer bij familie in een andere gemeente, dan kunnen we klanten zoeken dicht bij die plek. Een voorbeeld is <a href=\"werken/vaste-job-overdag-merelbeke.html\">de vaste job overdag in Merelbeke</a>."]},
+  {"h2": "Vanaf wanneer en voor wie", "p": [
+   "Je bent minstens 18 jaar. Een diploma of ervaring is niet nodig. Betrouwbaarheid, discretie en zin in orde en structuur tellen, en je spreekt voldoende Nederlands om afspraken te maken.",
+   "Wil je na je studies een vaste plek, dan kan een vast contract later alsnog, deeltijds of voltijds. Voor flexibele uren kijk je ook op <a href=\"jobs/werken-met-flexibele-uren.html\">werken met flexibele uren</a>."]},
+  {"h2": "Zo solliciteer je", "p": [
+   "Gebruik het formulier of de chat op de site, of stuur een bericht via WhatsApp op 0470 56 53 58. Binnen twee werkdagen bellen we je voor een kort gesprek. We bespreken wanneer je beschikbaar bent en welk statuut past. Klikt het, dan zoeken we klanten dicht bij je kot of je ouderlijke plek, en bij de start gaan we samen langs."]}
  ],
  "faq": [
-  {
-   "q": "Waar vind ik een vaste job overdag zonder weekends in Gent?",
-   "a": "Bij Zondags. We zoeken mensen voor een vast contract in en rond Gent en de deelgemeenten. Je werkt overdag op weekdagen bij vaste klanten en nooit in het weekend."
-  },
-  {
-   "q": "Kan ik na mijn studies doorstromen naar een vast contract?",
-   "a": "Dat bespreken we in het gesprek. Wie al als student werkte, kent het werk al, maar ook nieuwe kandidaten zijn welkom. We beloven niets vooraf."
-  },
-  {
-   "q": "Kan ik ook deeltijds vast werken?",
-   "a": "Ja. Deeltijds en voltijds kunnen allebei, ook enkel binnen de schooluren. Je kiest mee hoeveel dagen je werkt."
-  },
-  {
-   "q": "Moet ik in Gent wonen om er te werken?",
-   "a": "Nee. We zoeken klanten dicht bij je woonplaats, ook in de gemeenten rond Gent. Verplaatsingen worden vergoed."
-  },
-  {
-   "q": "Heb ik een diploma nodig?",
-   "a": "Nee. Een diploma of ervaring is niet nodig. Betrouwbaarheid, discretie en zorg voor andermans huis tellen."
-  }
+  {"q": "Waar vind ik een vaste job overdag zonder weekends in Gent?", "a": "Zondags zoekt mensen in en rond Gent voor werk overdag op weekdagen bij kantoren, praktijken en winkels. Je solliciteert via het formulier, de chat of WhatsApp en we bespreken het statuut samen."},
+  {"q": "Past een vast contract bij een student?", "a": "Soms, maar vaker past een studentencontract beter, zeker als je vooral in de vakanties werkt. In het eerste gesprek bekijken we wat bij jou past en hoe je je urensaldo opvolgt."},
+  {"q": "Kan ik enkel in de vakanties werken?", "a": "Dat kan, in overleg. Je kiest mee je dagen en uren. We stemmen af met wat bij je klanten past, zodat je rooster vastligt wanneer je werkt."},
+  {"q": "Moet ik avond- of weekendwerk doen?", "a": "Nee. Je werkt overdag op weekdagen. Vroeg in de ochtend of over de middag kan, maar nooit 's avonds en nooit in het weekend."},
+  {"q": "Moet ik een diploma of ervaring hebben?", "a": "Nee. Je bent minstens 18 jaar en betrouwbaar. Bij de start gaan we samen langs bij je klanten en leggen we de taken uit."},
+  {"q": "Worden mijn verplaatsingen vergoed?", "a": "Ja. Je verplaatsingen worden vergoed en je verloning ligt boven het barema. Alles staat correct op papier, want je bent in dienst van Zondags."}
  ]
 }

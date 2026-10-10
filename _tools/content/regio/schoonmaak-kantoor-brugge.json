@@ -1,35 +1,87 @@
 {
- "path": "regio/schoonmaak-kantoor-brugge.html",
  "title": "Schoonmaakhulp voor kantoren in Brugge (8000)",
- "desc": "Schoonmaakhulp voor je kantoor aan huis of bedrijfskantoor in Brugge. Eén vaste persoon, kantoor en woning in één plan, en één factuur op je vennootschap.",
+ "desc": "Poetshulp en administratieve hulp voor je verhuurde kantoor of bedrijfsunit in Brugge, door één vaste persoon. 60 euro per uur exclusief btw, online boeken.",
  "eyebrow": "Brugge · 8000",
  "h1": "Schoonmaakhulp voor kantoren in Brugge",
- "lead": "Werk je vanuit een kantoor aan huis in Brugge, dan loopt werk en privé vaak door elkaar. Eén vaste persoon kan beide ruimtes bijhouden, met een factuur die ze netjes scheidt.",
- "answer": "Zondags (zondags.be) levert schoonmaakhulp voor kantoren in Brugge en de deelgemeenten. Je krijgt één vaste persoon, je Zondag, die wekelijks of tweewekelijks overdag op een weekdag je bureaus, vergaderruimte, keuken, sanitair en vloeren onderhoudt. Wie vanuit huis werkt, kan het kantoor en de woning in één zondagsplan laten opnemen. De factuur staat op naam van je vennootschap en splitst het beroepsmatige en het privégedeelte.",
- "facts": ["Kantoren in Brugge en deelgemeenten", "Wekelijks of tweewekelijks", "Kantoor en woning in één plan", "Factuur op je vennootschap", "Eerste 2 uur gratis"],
+ "lead": "Voor kleine bedrijven in een verhuurd kantoor of bedrijfsunit in Brugge: één vaste persoon die poetst en ook de administratieve losse eindjes aanpakt. 60 euro per uur exclusief btw.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp voor kantoren in Brugge, met de mogelijkheid om poetshulp en administratieve hulp te combineren in één blok. Je vaste Zondag onderhoudt wekelijks of tweewekelijks bureaus, vergaderruimte, keuken en sanitair, en sorteert desgewenst de post of klasseert documenten. Je betaalt 60 euro per uur exclusief btw, boekt online per blok van 3 uur en krijgt een factuur op naam van je bedrijf.",
+ "facts": [
+  "Poetsen en administratie in één blok",
+  "Dezelfde vaste persoon",
+  "Ook voor verhuurde kantoren en units",
+  "Factuur op naam van je bedrijf",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Een kantoor aan huis heeft twee kanten", "p": [
-   "Neem een logopediste die haar praktijk aan huis heeft in Sint-Michiels. Haar werkkamer is ook de gang waar de kinderen hun jas ophangen. De wachtruimte is een hoekje in de woonkamer. Zodra er cliënten op het programma staan, moet dat hoekje er anders bijliggen dan op een zondagavond.",
-   "Zo zien veel zelfstandigen en zaakvoerders in Brugge hun week. Een kantoor aan huis vraagt een ander ritme dan een gewone woning, en een andere aanpak dan een groot bedrijfspand. Daarom werkt Zondags met één vaste persoon die beide kanten leert kennen."]},
-  {"h2": "Wat er in het kantoordeel gepoetst wordt", "p": [
-   "<ul class=\"ticks\"><li>Bureau, kasten en vergadertafel afnemen</li><li>Vloeren stofzuigen en nat dweilen</li><li>Keukenhoek of koffiepunt schoonhouden</li><li>Toilet en lavabo, met papier en zeep aangevuld</li><li>Glazen deuren en ramen langs binnen</li><li>Afval en papier buiten zetten</li></ul>",
-   "Ramen langs buiten op hoogte, gevelwerk en industriële reiniging doen we niet. Voor het gewone onderhoud van een kantoor is dat ook niet nodig."]},
-  {"h2": "Dezelfde Zondag voor het huis", "p": [
-   "Laat je ook de woning meenemen, dan gebeurt dat in hetzelfde zondagsplan. Op maandag het kantoor, op donderdag de woonkamer, de slaapkamers, de was en de strijk. Wie wil, voegt een kookmoment of de boodschappen toe.",
-   "Dat voelt eenvoudig en het is ook praktisch: je hoeft maar één persoon uit te leggen waar de sleutel ligt, welke kamer privé blijft en waar de bureaus niet verschoven mogen worden."]},
-  {"h2": "Factuur, kantoorkost en je accountant", "p": [
-   "Een vennootschap kan geen dienstencheques kopen. Zondags rekent daarom met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van het kantoor is een beroepskost. Het gedeelte voor de woning staat apart op de factuur en valt in principe onder het forfaitaire voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren.",
-   "Btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte niet. Laat je accountant dit bevestigen voor je eigen situatie. Meer uitleg vind je in <a href=\"gids/dienstenfactuur-woning-en-kantoor.html\">de gids over de dienstenfactuur voor woning en kantoor</a>."]},
-  {"h2": "Van Sint-Andries tot Lissewege", "p": [
-   "Brugge bestaat uit meer dan het centrum. We zoeken een Zondag voor je kantoor in Assebroek, Dudzele, Koolkerke, Lissewege, Sint-Andries, Sint-Kruis, Sint-Michiels en Zeebrugge, deelgemeenten die bij Brugge horen. Zit je kantoor in Oostkamp, Zedelgem, Beernem, Damme of Jabbeke, dan bekijken we samen of we je kunnen helpen. Wie vanuit een andere regio werkt, leest meer op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."]},
-  {"h2": "Starten in vier stappen", "p": [
-   "Je vraagt aan via het formulier of de chat. Binnen één werkdag belt iemand je terug. Daarna komen we langs voor een intake, waar we kantoor en woning bekijken en je zondagsplan opmaken. Dan start je Zondag. De eerste 2 uur zijn gratis, het plan blijft maandelijks opzegbaar."]}
+  {
+   "h2": "Eén persoon voor twee soorten werk",
+   "p": [
+    "Een klein bedrijf in een verhuurd kantoor of een bedrijfsunit heeft zelden een facilitair team. De zaakvoerder regelt alles zelf, tot en met de keuken en de papierstapels. In Brugge zijn er veel van die kleine structuren: een consultancy met drie mensen, een designstudio, een praktijk met een gedeelde onthaalbalie.",
+    "Het idee achter Zondags is eenvoudig. Eén vaste persoon komt op een vaste dag, poetst eerst de ruimte en neemt daarna de administratieve klusjes mee die blijven liggen. Je hoeft niet twee leveranciers te coördineren en niemand moet telkens uitleg krijgen."
+   ]
+  },
+  {
+   "h2": "Neem een logopediste met een groepspraktijk",
+   "p": [
+    "Stel: je bent logopediste en je deelt een praktijk met twee collega's. Er is een wachtruimte, drie behandelkamers en een kleine keuken. Je Zondag poetst op een vast moment, bijvoorbeeld op dinsdagochtend voor de eerste afspraak, en gebruikt het tweede uur om de afsprakenboeken bij te werken en de post te sorteren.",
+    "Zo blijft de praktijk er verzorgd uitzien en komt de administratie niet in de avond bij jou terecht. Medisch materiaal en sterilisatie blijven bij jullie, wij doen de ruimtes en het sanitair."
+   ]
+  },
+  {
+   "h2": "Wat de poetsbeurt omvat",
+   "p": [
+    "<ul class=\"ticks\"><li>Bureaus, balie en vergadertafel afnemen</li><li>Wachtruimte en behandelkamers op orde brengen</li><li>Keuken, koffiehoek en frigo reinigen</li><li>Sanitair onderhouden</li><li>Vloeren stofzuigen en dweilen</li><li>Afval en recyclage sorteren en buiten zetten</li></ul>",
+    "Technische klussen, werken op hoogte en gevelreiniging horen er niet bij. Wat je eventueel aan de verhuurder moet melden, blijft aan jou."
+   ]
+  },
+  {
+   "h2": "De administratieve kant",
+   "p": [
+    "Administratief werk is ondersteunend. Je Zondag kan post openen en sorteren, facturen en documenten klasseren, een archiefkast ordenen, afspraken in de agenda zetten, gegevens invoeren of pakjes klaarmaken voor verzending. Boekhouding, jaarrekeningen, loonadministratie en juridisch of fiscaal advies vallen buiten het werk.",
+    "Per blok bepaal je zelf hoe je de uren verdeelt. Een voorbeeld: twee uur poetsen en een uur administratie, of net andersom in een rustige week."
+   ]
+  },
+  {
+   "h2": "Brugge en de deelgemeenten",
+   "p": [
+    "Naast het centrum zoeken we een Zondag in Assebroek, Dudzele, Koolkerke, Lissewege, Sint-Andries, Sint-Kruis, Sint-Michiels en Zeebrugge, allemaal deelgemeenten van Brugge. Ligt je kantoor in Oostkamp, Zedelgem, Beernem, Damme of Jabbeke, dan boek je op dezelfde manier."
+   ]
+  },
+  {
+   "h2": "Prijs en boekhoudkundig",
+   "p": [
+    "Het tarief is 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw per blok, en extra uren kosten hetzelfde. Je ontvangt een dienstenfactuur op naam van je bedrijf. Poetshulp en administratieve hulp zijn in principe een beroepskost, en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant dit bevestigen voor jouw situatie."
+   ]
+  },
+  {
+   "h2": "Eerste stappen",
+   "p": [
+    "Kies op de <a href=\"boeken.html\">boekpagina</a> een weekdag, het aantal blokken en de taken, en betaal online. Voor een wekelijks plan bellen we eerst even samen en stellen we je zondagsplan op. Voor meer achtergrond lees je <a href=\"poetshulp/brugge.html\">poetshulp voor bedrijven in Brugge</a>."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf levert schoonmaakhulp voor kantoren in Brugge?", "a": "Zondags levert vanuit Marke vaste schoonmaakhulp voor kantoren, praktijken en winkels in Brugge en de deelgemeenten. Je krijgt steeds dezelfde persoon op een vaste dag en een vast uur, met een factuur op naam van je vennootschap."},
-  {"q": "Kan mijn kantoor aan huis en mijn woning door dezelfde persoon gepoetst worden?", "a": "Ja. Je kan beide ruimtes in één zondagsplan laten opnemen, met dezelfde Zondag. De factuur splitst het beroepsmatige en het privégedeelte, zodat je boekhouder het correct kan verwerken."},
-  {"q": "Kan ik als zelfstandige in Brugge dienstencheques gebruiken voor mijn kantoor?", "a": "Een vennootschap kan geen dienstencheques kopen, die zijn er enkel voor particulieren. Bij Zondags krijg je een gewone dienstenfactuur. Vraag je accountant wat dit voor jouw situatie betekent."},
-  {"q": "Hoe vaak komt de schoonmaakhulp naar mijn kantoor?", "a": "Dat bepaal je zelf: wekelijks of tweewekelijks is gebruikelijk. Zondags werkt overdag op weekdagen, nooit 's avonds of in het weekend. Uren bijboeken of het plan aanpassen kan altijd."},
-  {"q": "Wat als mijn Zondag ziek is?", "a": "Bij ziekte of verlof zoeken wij een oplossing, een vaste vervanging beloven we niet. Klikt het niet met je Zondag, dan zoeken we samen een andere persoon die beter past."}
- ]
+  {
+   "q": "Welk bedrijf doet kantoorpoets in Brugge?",
+   "a": "Zondags levert vanuit Marke vaste poetshulp aan kantoren, praktijken en bedrijfsunits in Brugge. Je krijgt dezelfde persoon, op een vaste dag en een vast uur."
+  },
+  {
+   "q": "Kan ik poetshulp en administratieve hulp combineren?",
+   "a": "Ja. In hetzelfde blok van 3 uur kan je Zondag poetsen en daarna post sorteren, documenten klasseren of afspraken inplannen. Jij bepaalt de verdeling van de uren."
+  },
+  {
+   "q": "Mag Zondags poetsen in een gehuurd kantoor of bedrijfsunit?",
+   "a": "Ja, wij poetsen de ruimte die jij huurt, zoals bureaus, keuken en sanitair. Gemeenschappelijke delen van het gebouw regel je met de verhuurder."
+  },
+  {
+   "q": "Wat kost schoonmaakhulp voor een kantoor in Brugge?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, geboekt per blok van 3 uur. Dat is 180 euro exclusief btw per blok, met extra uren aan hetzelfde tarief."
+  },
+  {
+   "q": "Werkt Zondags ook in Sint-Andries of Zeebrugge?",
+   "a": "Ja, ook in Sint-Andries, Zeebrugge en de andere deelgemeenten van Brugge zoeken we een Zondag in de buurt van jouw zaak."
+  }
+ ],
+ "path": "regio/schoonmaak-kantoor-brugge.html"
 }

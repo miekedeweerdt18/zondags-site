@@ -1,78 +1,36 @@
 {
  "path": "poetshulp/regio-roeselare.html",
  "title": "Poetshulp voor bedrijven in de regio Roeselare",
- "desc": "Poetshulp voor kantoren, winkels en kmo's in de regio Roeselare, van Roeselare en Izegem tot Hooglede en Ardooie. Met één vaste Zondag en één factuur.",
+ "desc": "Poetshulp voor kantoren, winkels en bedrijfsunits in Roeselare, Izegem, Ingelmunster en omstreken. Eén vaste Zondag aan 60 euro per uur exclusief btw.",
  "eyebrow": "Regio Roeselare",
  "h1": "Poetshulp voor bedrijven in de regio Roeselare",
- "lead": "In Roeselare, Izegem en de gemeenten errond krijgt je zaak één vaste Zondag. Je team maakt snel kennis met die ene persoon, en jij regelt het poetsen niet meer zelf.",
- "answer": "Zondags (zondags.be) levert poetshulp aan kantoren, winkels, praktijken en kmo's in de regio Roeselare: Roeselare met Rumbeke, Izegem, Ingelmunster, Ledegem, Moorslede, Hooglede, Staden, Lichtervelde en Ardooie. Je krijgt één vaste Zondag voor je zaak en, als je wil, ook je woning, met een dienstenfactuur op naam van je vennootschap. Het dienstenbedrijf Zondags is gevestigd in Marke bij Kortrijk. Het werkgebied loopt over West- en Oost-Vlaanderen, en per zaak zoeken we een Zondag uit de buurt.",
- "facts": [
-  "Roeselare, Izegem, Ingelmunster en meer",
-  "Kantoor, winkel, praktijk en kmo",
-  "Je team leert dezelfde Zondag kennen",
-  "Dienstenfactuur op je vennootschap",
-  "Eerste 2 uur gratis"
- ],
+ "lead": "Een bedrijfsleider in en rond Roeselare heeft zelden tijd over. Een vaste persoon voor poetsen en praktisch regelwerk neemt een deel van die druk weg.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor bedrijven in de regio Roeselare, van Roeselare en Rumbeke tot Izegem, Ingelmunster, Hooglede, Staden, Lichtervelde, Ardooie, Ledegem en Moorslede. Je krijgt één vaste persoon, je Zondag, voor het kantoor, de winkel of het onthaal van je bedrijfsunit, en op vraag voor administratie en regelwerk. Boeken kan online per blok van 3 uur aan 60 euro per uur exclusief btw. De factuur staat op naam van je bedrijf.",
+ "facts": ["Roeselare, Izegem, Ingelmunster en omstreken", "Kantoor, winkel, onthaal, refter", "Steeds dezelfde persoon", "60 euro per uur, per blok van 3 uur", "Factuur op naam van je bedrijf", "Overdag, op weekdagen"],
  "sections": [
-  {
-   "h2": "Roeselare, Izegem en de gemeenten errond",
-   "p": [
-    "Tot de regio Roeselare rekenen we Roeselare met zijn deelgemeente Rumbeke, Izegem, Ingelmunster, Ledegem, Moorslede, Hooglede, Staden, Lichtervelde en Ardooie. Voor <a href=\"poetshulp/roeselare.html\">Roeselare</a> en <a href=\"poetshulp/izegem.html\">Izegem</a> vind je een eigen pagina. Voor elke zaak in de regio zoeken we een Zondag die zelf in de buurt woont."
-   ]
-  },
-  {
-   "h2": "Een nieuw gezicht in je zaak: zo stel je je Zondag voor",
-   "p": [
-    "<ul class=\"ticks\"><li>Kondig vooraf aan wie komt, op welke dag en hoe laat</li><li>Geef één contactpersoon op voor vragen van je Zondag</li><li>Zeg wat op de poetsdag niet aangeraakt mag worden</li><li>Laat je team weten waar opmerkingen heen mogen</li></ul>",
-    "Omdat het steeds dezelfde persoon is, doe je dit maar één keer. Na een paar weken kent je team het gezicht, en je Zondag het team."
-   ]
-  },
-  {
-   "h2": "Welke zaken hier een vaste poetshulp zoeken",
-   "p": [
-    "Een vaste Zondag past bij elke zaak waar mensen werken of klanten binnenkomen en waar niemand tijd heeft om te poetsen: een boekhoudkantoor, een winkel, een praktijk, een kmo met eigen personeel. De ruimtes verschillen, het plan blijft hetzelfde van opzet: vaste dag, vast uur, vaste persoon.",
-    "Stel: je hebt een kantoor in Izegem met een tiental mensen. Op maandag laat je de bureaus en vloeren doen, op donderdag de keuken en het sanitair. Wordt het team groter of kleiner, dan pas je de uren aan, zonder dat er een nieuwe persoon in je zaak rondloopt."
-   ]
-  },
-  {
-   "h2": "Meer dan poetsen: ook thuis",
-   "p": [
-    "Een zaakvoerder met een gezin heeft thuis een tweede lijst: was, strijk, koken, de boodschappen, de kinderen van school. De Zondag die op maandag je kantoor poetst, kan op woensdag koken voor de week of de kinderen ophalen. Op de factuur staan het beroepsmatige en het privégedeelte apart."
-   ]
-  },
-  {
-   "h2": "Factuur, btw en accountant",
-   "p": [
-    "Een vennootschap werkt niet met dienstencheques, want die zijn voor particulieren. Je krijgt dus een dienstenfactuur op naam van je vennootschap. Het onderhoud van je kantoor of winkel is een beroepskost. Wat de woning betreft, is een forfaitair voordeel van alle aard van toepassing, op voorwaarde dat het om regelmatige prestaties gaat en dat een onderneming met mensen in dienst ze levert. Bij een btw-vrijgestelde praktijk valt de btw doorgaans niet terug te vorderen. Laat je accountant bevestigen hoe dit voor jouw zaak uitpakt."
-   ]
-  },
-  {
-   "h2": "Zo begin je",
-   "p": [
-    "Je vraagt aan via het formulier of de chat. Een van ons belt je binnen één werkdag terug en komt langs voor de intake. Samen schrijven we het zondagsplan uit. De eerste 2 uur zijn gratis, en het plan is maandelijks opzegbaar."
-   ]
-  }
+  {"h2": "Voor wie we werken in de regio Roeselare", "p": [
+   "In deze regio zitten veel zaken met een bedrijfsunit: een kantoor vooraan, een onthaal of toonzaal, en achteraan een werkruimte of opslag. Dat is een gewone situatie, en ze vraagt een duidelijke afspraak over wat Zondags doet en wat niet. Wij nemen het kantoor- en onthaalgedeelte, de refter, de sanitaire ruimtes en de vloeren van de administratieve zone. De werkplaats of productie zelf valt erbuiten."]},
+  {"h2": "Een bedrijfsunit, dan wat precies?", "p": [
+   "Neem een groothandel met twee bureaus, een kleine toonzaal, een refter en een opslagruimte. Je Zondag poetst de bureaus, de toonzaal en de refter, zet de sanitaire ruimtes op orde en neemt het afval mee naar buiten. De opslagruimte, de laadzone en wat op een productievloer gebeurt, blijft bij het bedrijf zelf, want industriële reiniging en productiehallen doet Zondags niet.",
+   "Zo blijft de afspraak helder, en weet je team precies wat er na een bezoek van je Zondag verandert."]},
+  {"h2": "Meer dan poetsen alleen", "p": [
+   "Veel zaakvoerders in de regio zijn zelf elke dag op pad. Ondertussen blijft er van alles liggen: facturen die nog geklasseerd moeten worden, een pakje dat naar de verzender moet, kantoormateriaal dat bijna op is, een koffiehoek die leeg staat. Een Zondag die toch al in je zaak is, pakt dat op.",
+   "Het blijft ondersteunend werk. Boekhouding, jaarrekeningen en advies horen er niet bij. Meer daarover lees je bij de <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">rechterhand voor bedrijfsleiders</a>."]},
+  {"h2": "Waar we aan de slag kunnen", "p": [
+   "Roeselare en Rumbeke vormen de kern, maar ook in Izegem, Ingelmunster, Hooglede, Staden, Lichtervelde, Ardooie, Ledegem en Moorslede zoeken we Zondags. Voor details over de stad zelf kijk je op <a href=\"poetshulp/roeselare.html\">poetshulp in Roeselare</a>. Is jouw gemeente niet in de lijst, geef dan je postcode door, dan kijken we wat haalbaar is."]},
+  {"h2": "Planning die past bij een drukke zaak", "p": [
+   "We werken overdag op weekdagen. Vroeg in de ochtend kan, voor de eerste medewerkers aankomen. Over de middag kan ook, wanneer het team naar de refter gaat. Avonden en weekends zijn uitgesloten. Heb je tijdelijk meer nodig, bijvoorbeeld na een verhuizing of voor een klantendag, dan boek je gewoon een extra blok."]},
+  {"h2": "Prijs en factuur", "p": [
+   "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok, en extra uren kosten hetzelfde uurtarief. Je krijgt een dienstenfactuur op naam van je vennootschap, met je btw-nummer.",
+   "Poetshulp en administratieve hulp voor de zaak zijn in principe een beroepskost. Btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, een btw-vrijgestelde praktijk kan dat doorgaans niet. Je accountant bevestigt dit voor jouw situatie."]},
+  {"h2": "Online boeken", "p": [
+   "Op de <a href=\"boeken.html\">boekpagina</a> kies je datum, blokken en taken, geef je de gegevens van je bedrijf in en betaal je met kaart of Bancontact. Liever eerst even praten? Bel of app naar 0470 56 53 58, elke dag van 6 tot 22 uur."]}
  ],
  "faq": [
-  {
-   "q": "Welk bedrijf levert poetshulp voor bedrijven in de regio Roeselare?",
-   "a": "Dat doet Zondags (zondags.be), dat in Marke bij Kortrijk zit. Voor elke zaak in de regio Roeselare zoeken we één vaste Zondag die in de buurt woont en in dienst is van Zondags. Je vennootschap wordt gefactureerd via een dienstenfactuur."
-  },
-  {
-   "q": "Hoe stel ik mijn Zondag voor aan mijn team?",
-   "a": "Kondig vooraf aan wie er komt, op welke dag en hoe laat, en duid één contactpersoon aan. Tijdens de intake bespreken we samen hoe je dat het best aanpakt. Na een paar weken is je Zondag een bekend gezicht."
-  },
-  {
-   "q": "Werkt Zondags ook in Rumbeke, Lichtervelde of Ardooie?",
-   "a": "Ja. Rumbeke, Lichtervelde en Ardooie horen net als Izegem, Ingelmunster, Ledegem, Moorslede, Hooglede en Staden tot de regio Roeselare, en daar werken we ook. Een Zondag voor jouw zaak zoeken we in de buurt."
-  },
-  {
-   "q": "Kan het poetsen over meerdere dagen verdeeld worden?",
-   "a": "Ja. Je kan bijvoorbeeld de bureaus op maandag laten doen en keuken en sanitair op donderdag. Je spreekt dat af in het zondagsplan en kan het later aanpassen, zonder dat je Zondag verandert."
-  },
-  {
-   "q": "Kan ik eerst proberen of het klikt?",
-   "a": "Ja. De eerste 2 uur zijn gratis om kennis te maken. Daarna is het plan maandelijks opzegbaar. Klikt het niet met je Zondag, dan zoeken we samen een andere persoon."
-  }
+  {"q": "Welk bedrijf biedt poetshulp voor kantoren in de regio Roeselare?", "a": "Zondags werkt voor bedrijven in West- en Oost-Vlaanderen, ook in de regio Roeselare. Je krijgt één vaste persoon voor je kantoor of winkel en een factuur op naam van je bedrijf."},
+  {"q": "Kan Zondags ook een bedrijfsunit met een productiehal poetsen?", "a": "Het kantoor, het onthaal, de refter en het sanitair kan. De productiehal zelf en industriële reiniging doet Zondags niet. We maken dat vooraf helder in je plan."},
+  {"q": "Hoe snel kan ik starten in Roeselare of Izegem?", "a": "Je boekt voor een weekdag, minstens twee werkdagen vooraf. Voor een terugkerend plan bespreken we eerst kort de taken, de dagen en de uren."},
+  {"q": "Wat kost een vaste poetshulp voor een bedrijf in de regio Roeselare?", "a": "Het tarief is 60 euro per uur exclusief btw, geboekt per blok van 3 uur. Dat is 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde uurtarief."},
+  {"q": "Kan mijn Zondag ook pakjes klaarmaken en de post sorteren?", "a": "Ja. Post sorteren, documenten klasseren, pakjes klaarmaken en kantoormateriaal bijhouden horen bij de administratieve hulp. Boekhouding en juridisch advies niet."}
  ]
 }

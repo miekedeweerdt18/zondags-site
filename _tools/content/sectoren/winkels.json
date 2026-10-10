@@ -1,33 +1,40 @@
 {
  "path": "sectoren/winkels.html",
- "title": "Poetshulp voor winkels en boetieks, voor de opening",
- "desc": "Poetshulp voor winkels en boetieks: winkelvloer, paskamers, toonbank en stockruimte, vroeg in de ochtend voor de opening, door één vaste Zondag.",
+ "title": "Poetshulp voor winkels en boetieks voor de opening",
+ "desc": "Poetshulp voor je winkel of boetiek: winkelvloer, paskamers, toonbank, etalage langs binnen en stockruimte, klaar voor de opening. 60 euro per uur excl. btw.",
  "eyebrow": "Winkels en boetieks",
  "h1": "Poetshulp voor winkels en boetieks",
- "lead": "Een klant beslist snel of een winkel hem aanspreekt. Je Zondag poetst voor de opening, zodat vloer, paskamers en toonbank klaarstaan wanneer de deur opengaat.",
- "answer": "Een winkel of boetiek in West- of Oost-Vlaanderen laat bij Zondags (zondags.be) de winkelvloer, paskamers, toonbank, etalage langs binnen en stockruimte poetsen door één vaste persoon, vroeg in de ochtend voor de opening. Een beurt valt altijd op een weekdag, nooit 's avonds en nooit in het weekend. De dienstenfactuur gaat naar je vennootschap, met de woning van de zaakvoerder als aparte regel.",
- "facts": ["Poetsen vroeg in de ochtend, voor de opening", "Winkelvloer, paskamers en toonbank", "Etalage langs binnen, stockruimte", "Weekdag naar keuze, niet in het weekend", "Eerste 2 uur gratis"],
+ "lead": "De eerste klant van de dag beoordeelt je winkel binnen enkele seconden. Een vaste Zondag zorgt dat vloer, paskamers en toonbank klaar zijn voor je opent, aan 60 euro per uur exclusief btw.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor winkels en boetieks: één vaste persoon, je Zondag, die voor de opening de winkelvloer, de paskamers, de toonbank, de etalage langs binnen en de stockruimte verzorgt. Ze helpt desgewenst ook met pakjes en bestellingen. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw, met een dienstenfactuur op naam van je zaak.",
+ "facts": ["Winkelvloer, paskamers, toonbank", "Etalage langs binnen, stockruimte", "Poetsen voor de opening", "Steeds dezelfde Zondag", "60 euro per uur, per blok van 3 uur", "Online boeken en betalen"],
  "sections": [
-  {"h2": "Poetsen voor de opening, zodat niemand het merkt", "p": [
-   "Het beste moment om een winkel te poetsen is wanneer er geen klanten zijn. Vroeg in de ochtend kan je Zondag binnen zijn voor je de deur opent: de vloer gedaan, de toonbank afgenomen, de paskamers in orde. Je team begint de dag met een winkel die al klaarstaat en hoeft niet eerst zelf te vegen."]},
-  {"h2": "Zone per zone door de winkel", "p": [
-   "<ul class=\"ticks\"><li>Winkelvloer: stofzuigen en dweilen, ook onder rekken waar het kan</li><li>Toonbank en de omgeving van de kassa afnemen</li><li>Paskamers: vloer, spiegels, haken en gordijn of deur</li><li>Etalage langs binnen: het glas en de vloer van de etalage</li><li>Stockruimte: vloer vegen, stof afnemen, afval buiten zetten</li><li>Sanitair voor klanten en personeel</li></ul>",
-   "De kassa, het geld en de voorraad zelf blijven bij jou. Je Zondag poetst de ruimte, niet je boekhouding."]},
-  {"h2": "De etalage: langs binnen wel, langs buiten op hoogte niet", "p": [
-   "De etalage is je uithangbord, dus ook het glas langs binnen telt. Je Zondag neemt het af, vult geen stukken bij en verplaatst de inrichting niet. De opstelling blijft van jou. Ramen langs buiten op hoogte horen niet bij het zondagsplan."]},
-  {"h2": "Kies de weekdag die bij je winkel past", "p": [
-   "Is zaterdag je drukste dag, dan laat je poetsen liefst op vrijdagvoormiddag, zodat het weekend begint met een verse winkel. Ben je op maandag gesloten, dan is dat een goede kandidaat: geen klanten, alle tijd. Een kleine boetiek met één medewerker vraagt een ander ritme dan een grote kledingzaak met meerdere paskamers. Welk ritme bij jou past, bekijken we samen. Hulp bij een schema vind je ook bij <a href=\"vragen/schoonmaakplan-winkel-maken.html\">een schoonmaakplan voor je winkel</a>."]},
-  {"h2": "Drukke periodes: solden, nieuwe collecties en feestdagen", "p": [
-   "In drukke weken lopen er meer klanten binnen en gaan er meer kleren door de paskamers. Je boekt dan tijdelijk extra uren bij of laat een grote beurt als losse opdracht doen. Na de drukte val je terug op je gewone ritme."]},
-  {"h2": "Winkel en woning op één factuur", "p": [
-   "Je factuur heeft twee kanten. De winkel is beroepsmatig: wat je daar laat poetsen, boek je als beroepskost, en de btw daarop kan een btw-plichtige winkel met aftrekrecht in principe terugvragen. De woning van de zaakvoerder is privé, in principe zonder btw-aftrek, maar met een forfaitair voordeel van alle aard wanneer het werk regelmatig gebeurt via een onderneming met personeel in dienst. Dienstencheques vallen weg, want een vennootschap kan ze niet kopen. Je accountant bevestigt wat bij jouw winkel hoort.",
-   "Een winkelier begint met een bericht via het formulier of de chat, en binnen één werkdag volgt een telefoontje. Bij de intake in je winkel lopen we over de vloer, kijken we in de paskamers en de stock en leggen we samen je zondagsplan vast."]}
+  {"h2": "Een winkel wordt gepoetst op het moment dat niemand kijkt", "p": [
+   "Wie een winkel runt, heeft twee soorten uren: de uren dat klanten binnenkomen en de uren eromheen. Het eerste is waar je geld verdient, het tweede is waar de verzorging gebeurt. In veel zaken schuift dat tweede stuk naar avond en weekend, en precies dan werkt Zondags niet.",
+   "Wel komt je Zondag vroeg in de ochtend, voor het slot van de deur gaat, of over de middag als het stil is. De winkel is dan netjes zodra je de eerste klant verwelkomt, zonder dat jij er een zaterdagavond voor kwijt bent."]},
+  {"h2": "De zones die in een winkel het meest opvallen", "p": [
+   "<ul class=\"ticks\"><li>Winkelvloer en ingang, ook onder en rond de rekken</li><li>Paskamers: spiegels, bankje, haakjes en vloer</li><li>Toonbank en kassazone</li><li>Etalageraam en glazen deuren langs binnen</li><li>Stockruimte: vloer en toegankelijke planken</li><li>Personeelshoek met keuken en sanitair</li><li>Afval en kartonnen dozen buiten zetten</li></ul>",
+   "Ramen langs buiten op hoogte, gevels en luifels vallen buiten het werk. Etalage langs binnen wel."]},
+  {"h2": "Paskamers: klein, maar de plek waar klanten beslissen", "p": [
+   "Een klant die in een paskamer staat, kijkt langer naar de spiegel dan jij ooit zal doen. Stofvlokken in de hoek, vingerafdrukken op het glas of een achtergebleven hanger vallen meteen op. Je Zondag neemt de paskamers elke beurt systematisch af, van boven naar onder.",
+   "Een kleine gewoonte van je team helpt: kledingstukken die de dag door in de paskamer blijven hangen, gaan op het einde van de dag terug op de rek. Dan blijft het blok voor het eigenlijke poetswerk."]},
+  {"h2": "Neem een kledingboetiek met seizoensstock", "p": [
+   "Stel: je hebt een boetiek met een winkelvloer, twee paskamers en een kleine stockruimte. Elke week komt er nieuwe collectie binnen en blijven er dozen staan. Op woensdagochtend voor de opening poetst je Zondag de vloer, doet de paskamers en de toonbank, en zet de lege dozen opgevouwen bij het karton.",
+   "In de weken van de uitverkoop of de nieuwe collectie boek je er een tweede blok bij. Dat doe je gewoon op de boekpagina, zonder je plan te wijzigen."]},
+  {"h2": "Pakjes, bestellingen en administratie", "p": [
+   "Een winkelier heeft zelden een secretariaat. Je Zondag kan pakjes voor webbestellingen klaarmaken, pakjes ophalen, kantoormateriaal bijbestellen en de factuurmappen klasseren. Dat is ondersteunend werk: geen boekhouding, geen fiscaal advies.",
+   "Meer over die kant van het werk lees je bij <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">een rechterhand voor bedrijfsleiders</a>."]},
+  {"h2": "Prijs en factuur voor je zaak", "p": [
+   "Je betaalt 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw, en extra uren gaan aan hetzelfde tarief. De factuur staat op naam van je zaak of vennootschap met btw-nummer.",
+   "Het onderhoud van een winkel is in principe een beroepskost. Voor de btw geldt: recupereerbaar voor een btw-plichtige zaak met aftrekrecht, in principe. Laat je accountant bevestigen hoe dat voor jouw winkel werkt."]},
+  {"h2": "Eerste beurt boeken", "p": [
+   "Op de <a href=\"boeken.html\">boekpagina</a> kies je een weekdag, het aantal blokken en de taken. Boeken kan minstens twee werkdagen vooraf. Wil je een vaste week-op-week afspraak, bel dan of laat een terugbelverzoek achter, dan leggen we samen het zondagsplan vast."]}
  ],
  "faq": [
-  {"q": "Kan mijn winkel gepoetst worden voor de opening?", "a": "Ja. Vroeg in de ochtend kan, zodat alles klaarstaat wanneer je de deur opent. Het precieze uur leggen we vast bij de intake, afgestemd op je openingsuren."},
-  {"q": "Poetst mijn Zondag ook de paskamers?", "a": "Ja. Vloer, spiegels, haken en de afwerking rond het gordijn of de deur horen bij de beurt. Kleren die klanten in de paskamer achterlieten, hangt je team zelf terug."},
-  {"q": "Doet Zondags mijn etalage ook langs buiten?", "a": "Het glas langs binnen hoort bij de beurt, samen met de vloer van de etalage. Buitenramen op hoogte en gevelreiniging doen we niet. Je opstelling blijft zoals jij ze zette."},
-  {"q": "Kan mijn Zondag op zaterdag komen, mijn drukste dag?", "a": "Nee. Zondags werkt nooit in het weekend en nooit 's avonds. De beurt valt op een weekdag, bij een drukke zaterdag liefst op vrijdagvoormiddag, zodat je drukste dag met een verse winkel begint."},
-  {"q": "Wat doet mijn Zondag in de stockruimte?", "a": "Vloer vegen, stof afnemen en afval of karton buiten zetten. Orde in de voorraad zelf, zoals het rangschikken van dozen, blijft bij je team. Je Zondag werkt rond wat er staat en verschuift niets."}
+  {"q": "Kan de poetshulp mijn winkel poetsen voor de opening?", "a": "Ja. Vroeg in de ochtend kan, zolang het een weekdag is. Je kiest het uur samen met je Zondag, zodat de winkel klaar is wanneer je de deur opendoet."},
+  {"q": "Worden de ramen van mijn winkel ook gewassen?", "a": "Ramen en glazen deuren langs binnen horen erbij. Ramen langs buiten op hoogte en gevelreiniging doet Zondags niet."},
+  {"q": "Kan Zondags ook op zaterdag of in het weekend poetsen in mijn winkel?", "a": "Nee, we werken enkel overdag op weekdagen. Ben je op zaterdag open, dan poetsen we bijvoorbeeld op vrijdag, zodat de winkel er het weekend netjes bijligt."},
+  {"q": "Wat kost poetshulp voor een boetiek?", "a": "60 euro per uur exclusief btw, geboekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Heb je meer tijd nodig, dan boek je extra uren aan hetzelfde tarief."},
+  {"q": "Kan mijn Zondag ook webshoppakjes klaarmaken?", "a": "Ja, als ondersteunende taak. Je Zondag kan pakjes inpakken en klaarzetten voor verzending. Spreek vooraf af hoe je producten verpakt moeten worden."},
+  {"q": "Krijg ik elke keer dezelfde persoon in mijn winkel?", "a": "Ja, dat is de bedoeling. Bij een terugkerend plan komt steeds dezelfde Zondag op dezelfde dag en hetzelfde uur. Bij ziekte of verlof zoeken wij een oplossing."}
  ]
 }

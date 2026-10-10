@@ -1,36 +1,92 @@
 {
  "path": "regio/schoonmaak-winkel-oudenaarde.html",
  "title": "Schoonmaakhulp voor winkels in Oudenaarde (9700)",
- "desc": "Een vaste Zondag voor winkelvloer, paskamers, toonbank, etalage langs binnen en sanitair in Oudenaarde, ook voor kmo's met refter en kleedruimte.",
+ "desc": "Schoonmaakhulp voor winkels, praktijken en kmo's in Oudenaarde en deelgemeenten als Ename, Eine en Mater. 60 euro per uur excl. btw, online te boeken.",
  "eyebrow": "Oudenaarde · 9700",
  "h1": "Schoonmaakhulp voor winkels in Oudenaarde",
- "lead": "Winkels en kmo's in Oudenaarde en de Vlaamse Ardennen die elke week verzorgd willen openen, krijgen een vaste Zondag die komt voor de klanten dat doen.",
- "answer": "Zondags (zondags.be) zoekt in Oudenaarde een vaste Zondag voor winkels: winkelvloer, paskamers, toonbank, etalage langs binnen, stockruimte en sanitair, op weekdagen en voor de winkel opengaat. Ook kmo's met een refter, kleedruimte en sanitair voor de ploeg horen erbij. Je krijgt een dienstenfactuur op naam van je vennootschap, met één vaste persoon voor al je adressen.",
- "facts": ["Winkelvloer, paskamers, toonbank", "Kmo's met refter en kleedruimte", "Poetsen voor opening", "Steeds dezelfde Zondag", "Factuur op je vennootschap"],
+ "lead": "Een winkel of praktijk in Oudenaarde die er elke ochtend uitziet alsof er net gepoetst is, omdat dat ook zo is. Eén vaste persoon, elke week hetzelfde moment.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp voor winkels in Oudenaarde (9700) en de deelgemeenten, van Bevere tot Welden. Eén vaste persoon, je Zondag, poetst winkelvloer, paskamers, toonbank, etalage langs binnen, stockruimte en sanitair voor de winkel opengaat. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een factuur op naam van je vennootschap. Alleen overdag, op weekdagen.",
+ "facts": [
+  "Winkelvloer, paskamers en toonbank",
+  "Ook refter, kleedruimte en sanitair",
+  "Praktijken en kmo's",
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Een winkel die elke ochtend klaarligt", "p": [
-   "In Oudenaarde en de omliggende deelgemeenten zoals Eine, Ename, Heurne of Mater zitten winkels van alle slag: kleine boetieks, speciaalzaken, familiebedrijven. Wat ze delen is het moment van de waarheid bij het openen van de deur. Dan moet de vloer schoon zijn en de toonbank leeg en glanzend.",
-   "Een vaste Zondag komt op een vast moment voor die openingsuren. Dezelfde persoon, elke week, die je winkel leert kennen: waar de stock staat, welke rekken breekbaar zijn en wat jij niet verplaatst wilt zien."]},
-  {"h2": "De checklist van een winkelbeurt", "p": [
-   "<ul class=\"ticks\"><li>Winkelvloer stofzuigen of dweilen</li><li>Toonbank, kassa en pinbetaaltoestel afnemen</li><li>Paskamers opruimen en poetsen</li><li>Etalage en glazen deuren langs binnen</li><li>Stockruimte vrij van stof</li><li>Sanitair en personeelsruimte</li></ul>",
-   "Gevelreiniging en ramen langs buiten op hoogte horen er niet bij. De etalage doen we langs binnen."]},
-  {"h2": "Kmo's met een refter, kleedruimte en sanitair voor de ploeg", "p": [
-   "Niet elke zaak in Oudenaarde is een winkel. Een kmo met een ploeg heeft een refter, een kleedruimte en sanitair die elke week een beurt nodig hebben. Een vaste Zondag neemt die ruimtes in hetzelfde plan, op een dag dat de ploeg niet in de weg loopt.",
-   "Productiehallen, industriële reiniging en bouwopkuis na werken vallen buiten wat Zondags doet. Het gaat om de gewone onderhoudsruimtes."]},
-  {"h2": "Voorbeeld: een tandartspraktijk met twee behandelkamers", "p": [
-   "Stel: je hebt een tandartspraktijk met twee behandelkamers en een kleine wachtzaal, vlak bij het centrum. Je Zondag komt over de middag en onderhoudt wachtzaal, onthaal, vloeren en sanitair. Hygiëne en ontsmetting van je vakgereedschap, sterilisatie en medisch materiaal blijven bij de praktijk.",
-   "Zo zie je dat hetzelfde principe voor een winkel en voor een praktijk werkt: een vaste persoon, een vast uur en een duidelijk afgebakend plan."]},
-  {"h2": "Factuur en je accountant", "p": [
-   "Een vennootschap kan geen dienstencheques kopen. Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van je winkel is een beroepskost. Laat je ook je woning poetsen, dan staat dat apart op de factuur, als forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Laat je accountant bevestigen hoe dat voor jouw situatie werkt."]},
-  {"h2": "Starten in Oudenaarde", "p": [
-   "Je vraagt een gesprek aan via het formulier of de chat. Binnen één werkdag belt iemand terug, daarna volgt de intake in je winkel. Zondags zoekt een Zondag in en rond Oudenaarde, ook in Kruisem, Wortegem-Petegem, Kluisbergen en Ronse. We beloven niet dat er al iemand klaarstaat, wel dat we zoeken naar iemand die past. De eerste 2 uur zijn gratis."]}
+  {
+   "h2": "Winkels in het centrum van Oudenaarde",
+   "p": [
+    "Oudenaarde heeft een levendig centrum, en veel winkeliers beginnen hun dag met een gevoel dat de klant elk moment kan binnenstappen. Dat maakt de eerste uren kostbaar. Een Zondag werkt in die uren, vooraleer de deur opengaat, zodat jij niets van het poetsen merkt behalve het resultaat.",
+    "De beurt volgt een vast patroon dat je samen met je Zondag opstelt. De ene week ligt de nadruk op de vloer en de paskamers, de andere week op de stockruimte en het sanitair. Zo blijft alles in beweging zonder dat je elke week hetzelfde moet uitleggen."
+   ]
+  },
+  {
+   "h2": "Een rondje door de zaak",
+   "p": [
+    "<ul class=\"ticks\"><li>Verkoopvloer en looppaden, inclusief hoeken</li><li>Paskamers en spiegels</li><li>Toonbank en betaalterminal afnemen</li><li>Etalage langs binnen</li><li>Stockruimte en personeelshoek</li><li>Sanitair, keukenhoek en afval</li></ul>",
+    "Wat niet bij het werk hoort: ramen langs buiten op hoogte, gevelreiniging en technische herstellingen."
+   ]
+  },
+  {
+   "h2": "Stel: een tandartspraktijk met twee behandelkamers",
+   "p": [
+    "Neem een tandartspraktijk in Oudenaarde met twee behandelkamers, een wachtzaal en een kleine keuken. De zaak draait op een nauw schema, en de wachtzaal moet fris ogen voor de eerste patiënt. De behandelkamers zelf zijn een delicate zaak: sterilisatie, instrumenten en medisch materiaal blijven bij het eigen team.",
+    "Je Zondag werkt wat daarbuiten ligt. Wachtzaal, onthaal, vloeren, personeelskeuken en sanitair, op een vaste ochtend voor de praktijk opent. Zo blijft het team bezig met patiënten en hoeft de assistente niet na een lange dag nog een dweil vast te nemen."
+   ]
+  },
+  {
+   "h2": "Refter, kleedruimte en sanitair voor de ploeg",
+   "p": [
+    "Een kmo met een werkploeg heeft meer nodig dan een gepoetst kantoor. Er is een refter waar mensen lunchen, een kleedruimte met kasten en sanitair dat dagelijks intens gebruikt wordt. Die ruimtes zijn snel de plek waar gemor ontstaat als het er niet fris ruikt.",
+    "Een Zondag neemt die ruimtes mee in haar ronde, naast het kantoor van de zaakvoerder. Productiehallen en werkplaatsen blijven buiten het pakket, daar is industriële reiniging voor nodig."
+   ]
+  },
+  {
+   "h2": "Eén persoon, ook voor administratie",
+   "p": [
+    "Bij elke zaak blijven kleine taken liggen. Een Zondag kan de post openen en sorteren, facturen en documenten klasseren, een zending klaarmaken of een bestelling van kantoorbenodigdheden plaatsen. Lees meer bij <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">de rechterhand voor bedrijfsleiders</a>. Fiscale of boekhoudkundige taken zijn er niet bij."
+   ]
+  },
+  {
+   "h2": "Van Bevere tot Welden",
+   "p": [
+    "Bevere, Edelare, Eine, Ename, Heurne, Leupegem, Mater, Melden, Mullem, Nederename, Volkegem en Welden horen bij Oudenaarde. In de Vlaamse Ardennen zoeken we per zaak een Zondag in de buurt. Voor zaken in Kruisem, Wortegem-Petegem, Kluisbergen of Ronse kan je evengoed een Zondag boeken."
+   ]
+  },
+  {
+   "h2": "Tarief en boeken",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, geboekt per blok van 3 uur. Dat is 180 euro exclusief btw per blok, en extra uren kosten hetzelfde per uur. Je factuur staat op naam van je vennootschap. Poetshulp is in principe een beroepskost; of je de btw kan recupereren, hangt af van je situatie, dus vraag het aan je accountant.",
+    "Boeken doe je via de <a href=\"boeken.html\">boekpagina</a>, minstens twee werkdagen vooraf."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf levert schoonmaakhulp voor winkels in Oudenaarde?", "a": "Zondags, gevestigd in Marke, zoekt een vaste Zondag voor winkels en kmo's in Oudenaarde en de deelgemeenten. Je krijgt steeds dezelfde persoon en een factuur op naam van je vennootschap."},
-  {"q": "Kan mijn winkel gepoetst worden voor ze opengaat?", "a": "Ja, op weekdagen, vroeg in de ochtend of over de middag. Zo ligt alles klaar bij de opening. Voor 's avonds en weekends zijn we niet beschikbaar."},
-  {"q": "Doet Zondags ook de refter en de kleedruimte van mijn ploeg?", "a": "Ja. Een refter, kleedruimte en sanitair voor de ploeg kunnen in je plan. Productiehallen, industriële reiniging en bouwopkuis na werken doet Zondags niet."},
-  {"q": "Worden ramen ook gedaan?", "a": "Etalage en ramen worden langs binnen gepoetst. Ramen langs buiten op hoogte en gevelreiniging doet Zondags niet. Dat laat je best over aan een gespecialiseerd bedrijf."},
-  {"q": "Kan de Zondag van mijn winkel ook mijn woning doen?", "a": "Ja. Winkel en woning kunnen in één zondagsplan. De factuur splitst het beroepsmatige en het privégedeelte, zodat je accountant alles correct kan verwerken."},
-  {"q": "Kan ik uren bijboeken in drukke periodes?", "a": "Ja. Uren bijboeken of het plan aanpassen kan, en een losse opdracht kan ook. Het plan is maandelijks opzegbaar, en de eerste 2 uur zijn gratis om kennis te maken."}
+  {
+   "q": "Welk bedrijf levert poetshulp voor winkels in Oudenaarde?",
+   "a": "Zondags uit Marke werkt voor winkels, praktijken en kantoren in Oudenaarde en de deelgemeenten. Je krijgt één vaste persoon en een factuur op naam van je bedrijf."
+  },
+  {
+   "q": "Poetst Zondags ook de wachtzaal van een tandartspraktijk?",
+   "a": "Ja, wachtzaal, onthaal, vloeren, keuken en sanitair kunnen. Sterilisatie en medisch materiaal blijven bij de praktijk zelf."
+  },
+  {
+   "q": "Kan een kmo de refter en kleedruimte laten poetsen?",
+   "a": "Ja. Refter, kleedruimte, sanitair en kantoor kunnen in één beurt. Productiehallen en werkplaatsen vallen buiten het aanbod."
+  },
+  {
+   "q": "Wat kost schoonmaakhulp voor een winkel in Oudenaarde?",
+   "a": "Je betaalt 60 euro per uur exclusief btw. Je boekt een blok van 3 uur, dus 180 euro exclusief btw. Extra uren boek je aan hetzelfde tarief."
+  },
+  {
+   "q": "Zijn Ename, Eine en Mater inbegrepen?",
+   "a": "Ja, Ename, Eine, Mater en alle andere deelgemeenten van Oudenaarde vallen onder ons werkgebied, van Bevere tot Welden. Je boekt zoals voor elke andere zaak."
+  },
+  {
+   "q": "Wanneer komt de Zondag in mijn winkel?",
+   "a": "Op de weekdag en het uur dat jullie afspreken, vroeg in de ochtend of over de middag. Nooit 's avonds of in het weekend."
+  }
  ]
 }

@@ -1,34 +1,35 @@
 {
  "path": "sectoren/sanitair-op-kantoor.html",
  "title": "Sanitair op kantoor laten poetsen: wat en hoe vaak",
- "desc": "Hoe vaak laat je het sanitair op kantoor poetsen en wat hoort erbij? Toiletten, lavabo's, spiegels, zeep en papier: zo houd je het in orde met een vaste Zondag.",
+ "desc": "Sanitair op kantoor laten poetsen: toiletten, lavabo's, spiegels, papier en zeep aanvullen en vloeren. Eén vaste persoon, 60 euro per uur exclusief btw.",
  "eyebrow": "Sanitair",
  "h1": "Sanitair op kantoor laten poetsen",
- "lead": "Het sanitair is de ruimte waar bezoekers en collega's je kantoor het meest op beoordelen. Een vaste ronde, een vaste dag en een paar afspraken houden het in orde.",
- "answer": "Zondags (zondags.be) levert poetshulp voor het sanitair op kantoor: één vaste persoon, je Zondag, voor toiletten, lavabo's, spiegels, vloeren en het aanvullen van papier en zeep, volgens een vaste regelmaat, overdag op weekdagen. Herstellingen, zoals een lek of een verstopte afvoer, doet Zondags niet. Je ontvangt één gewone dienstenfactuur voor het hele kantoor, op naam van je vennootschap.",
- "facts": ["Toiletten, lavabo's, spiegels en vloeren", "Papier en zeep aanvullen", "Vaste regelmaat, vaste dag", "Herstellingen blijven voor een vakman", "Factuur aan je vennootschap"],
+ "lead": "Het sanitair vertelt bezoekers meer over je zaak dan je denkt. Eén vaste Zondag poetst toiletten, lavabo's en spiegels en vult papier en zeep aan, op een vast ritme.",
+ "answer": "Zondags (zondags.be) laat het sanitair van een kantoor, praktijk of winkel poetsen door één vaste persoon, je Zondag: toiletten, lavabo's, spiegels, vloeren, en het aanvullen van papier en zeep. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je bedrijf. Technische herstellingen aan sanitair doet Zondags niet.",
+ "facts": ["Toiletten, lavabo's, spiegels, vloeren", "Papier en zeep aanvullen", "Vast ritme, steeds dezelfde Zondag", "Geen technische herstellingen", "60 euro per uur, per blok van 3 uur", "Online boeken en betalen"],
  "sections": [
-  {"h2": "Waarom je kantoor op het sanitair beoordeeld wordt", "p": [
-   "Een klant praat zelden over je bureau, maar onthoudt wel het sanitair. Een toilet dat er verzorgd uitziet, laat zien dat een bedrijf aandacht heeft voor details. Een geurtje, een lege zeepdispenser of een natte vloer vertelt het omgekeerde. Ook je eigen team gebruikt die ruimte elke dag meermaals en merkt elk verschil."]},
-  {"h2": "Wat bij een volledige sanitairbeurt hoort", "p": [
-   "<ul class=\"ticks\"><li>Toiletten: pot, bril, de ruimte erachter en de buitenkant van de stortbak</li><li>Lavabo's en kranen, ontdaan van kalk en zeepresten</li><li>Spiegels en tegels rond de lavabo</li><li>Papier, handdoekjes en zeep aanvullen uit je voorraad</li><li>Vloeren, plinten en deurklinken</li><li>Prullenbakken leegmaken en een nieuw zakje plaatsen</li></ul>"]},
-  {"h2": "Hoe vaak? Een richtlijn per soort kantoor", "p": [
-   "Heb je een klein team zonder bezoekers, dan volstaat een vaste beurt per week, met een korte controle door je team tussendoor. Komen er elke dag klanten of kandidaten langs, dan laat je het sanitair vaker poetsen, in een ritme dat past bij de passage.",
-   "Je kan het plan bijsturen. Merk je na een paar weken dat het sanitair er tegen het einde van de week niet meer netjes uitziet, dan boek je een extra beurt."]},
-  {"h2": "Papier en zeep: wie houdt de voorraad bij?", "p": [
-   "Je Zondag vult de dispensers aan uit je voorraad en meldt wanneer iets bijna op is. Het bijkopen regel je zelf. Een kleine reserve in een kast bij het sanitair zorgt ervoor dat er nooit een lege rol hangt, ook niet op de dag dat je Zondag er niet is."]},
-  {"h2": "Kleine gewoontes tussen twee beurten", "p": [
-   "Je team kan veel doen met weinig moeite: doortrekken en de bril neerlaten, een gemorste plas water opvegen, een volle prullenbak meteen leegmaken en bij een lege rol direct een nieuwe hangen. Een raampje of ventilatie die openstaat, helpt tegen geurtjes. Zo ziet het sanitair er ook netjes uit op de dagen dat niemand poetst."]},
-  {"h2": "Wat je Zondag meldt en niet herstelt", "p": [
-   "Een lek onder de lavabo, een verstopte afvoer, een stortbak die blijft lopen of een kraan die druppelt: je Zondag ziet het als eerste en meldt het aan jou. Herstellen is technisch werk en dat doet Zondags niet. Zo kan een loodgieter op tijd langskomen, voor het een groter probleem wordt."]},
-  {"h2": "Eén Zondag, één factuur", "p": [
-   "Het sanitair krijgt dezelfde vaste persoon als de rest van je kantoor. Het onderhoud is een beroepskost op een gewone dienstenfactuur op naam van je vennootschap. Een btw-plichtige zaak met aftrekrecht kan de btw op het zakelijke deel in principe recupereren. Voor een btw-vrijgestelde praktijk geldt dat doorgaans niet. Laat je accountant bevestigen hoe het voor jou zit. De eerste 2 uur zijn gratis, zodat je het verschil in je sanitair zelf ziet."]}
+  {"h2": "Waarom het sanitair opvalt", "p": [
+   "Een bezoeker beoordeelt een zaak niet alleen op de vergadering of het gesprek. Een toilet dat net niet fris is, of een lavabo zonder zeep, blijft hangen. Voor een kantoor, praktijk of winkel is dat een verschil dat niemand uitspreekt, maar iedereen onthoudt.",
+   "Tegelijk is sanitair het deel van de poets dat niemand graag zelf doet. Het blijft liggen tot een medewerker erover begint. Dat is het moment om het uit handen te geven."]},
+  {"h2": "De vaste handelingen", "p": [
+   "<ul class=\"ticks\"><li>Toiletpot, bril, spoelknop en achterkant reinigen</li><li>Lavabo's en kranen ontkalken en drogen</li><li>Spiegels en tegels afnemen</li><li>Papier, zeep en handdoeken aanvullen</li><li>Vloer vegen en dweilen</li><li>Afvalbakje leegmaken en een nieuwe zak plaatsen</li></ul>",
+   "Alles wat met leidingen, afvoer of herstelling te maken heeft, blijft voor een loodgieter. Verstopte afvoeren of lekkende kranen meld je aan je Zondag, die ze dan doorgeeft aan wie het regelt."]},
+  {"h2": "Regelmaat telt meer dan intensiteit", "p": [
+   "Een sanitair dat één keer per week grondig wordt aangepakt, ziet er na drie dagen anders uit dan na twee uur. Voor kleine teams volstaat een wekelijks bezoek. Heb je klanten of patiënten die het sanitair ook gebruiken, dan voeg je een tweede bezoek toe of leg je een kort ritme vast: sanitair in elk bezoek, vloeren en tegels om de week grondiger.",
+   "Een apart soort moment is het begin van de maand. Dan loont een extra blok om kalk, voegen en ventilatieroosters op ooghoogte aan te pakken."]},
+  {"h2": "Kleine afspraken met het team", "p": [
+   "Een paar gewoontes helpen. Sluit de bril, trek door, gooi niets weg dat niet in de pedaalemmer hoort. Meld het als zeep of papier bijna op is. Zo blijft het sanitair langer fris tussen twee beurten.",
+   "Je Zondag kan een voorraadlijst bijhouden en bestellen wanneer iets opraakt, zodat er nooit zonder papier gezeten wordt. Voor de refter geldt hetzelfde plan: lees er meer over bij <a href=\"sectoren/refter-en-bedrijfskeuken.html\">poetshulp voor de refter en de bedrijfskeuken</a>."]},
+  {"h2": "Prijs, factuur en btw", "p": [
+   "Je betaalt 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dat is 180 euro exclusief btw, en extra uren kosten hetzelfde per uur. De factuur staat op naam van je bedrijf, met btw-nummer. Poetshulp is in principe een beroepskost. De btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, en een btw-vrijgestelde praktijk kan ze doorgaans niet recupereren. Laat je accountant dit bevestigen."]},
+  {"h2": "Hoe je het regelt", "p": [
+   "Kies op de <a href=\"boeken.html\">boekpagina</a> een weekdag en het aantal blokken. Noteer bij de taken dat sanitair prioriteit heeft, vul het btw-nummer in en betaal online."]}
  ],
  "faq": [
-  {"q": "Hoe vaak moet het sanitair op kantoor gepoetst worden?", "a": "Dat hangt af van het aantal mensen en bezoekers. Een klein team zonder klanten volstaat met een vaste beurt per week. Bij veel passage is vaker nodig. Je stuurt het plan bij als je merkt dat het sanitair er tussen twee beurten te slecht uitziet."},
-  {"q": "Wie vult papier en zeep aan op kantoor?", "a": "Je Zondag vult de dispensers aan uit je voorraad en meldt wanneer iets bijna op is. Het bijkopen regel je zelf. Een kleine reserve in een kast bij het sanitair helpt."},
-  {"q": "Wat doet een poetshulp precies in het sanitair?", "a": "Toiletten, lavabo's, kranen, spiegels, tegels en vloeren, plus papier en zeep aanvullen en de prullenbakken leegmaken. Je Zondag volgt een vaste volgorde, zodat er niets vergeten wordt."},
-  {"q": "Kan een poetshulp een verstopte wc of een lekkende kraan herstellen?", "a": "Nee. Dat is technisch werk en dat doet Zondags niet. Je Zondag meldt het aan jou, zodat een loodgieter of je technische dienst het kan oplossen voor het erger wordt."},
-  {"q": "Moet het sanitair voor bezoekers vaker gepoetst worden?", "a": "Meestal wel. Een toilet dat door klanten of kandidaten gebruikt wordt, valt sneller op dan een toilet voor een klein team. Plan een vaste beurt en een extra beurt in drukke weken."}
+  {"q": "Hoe vaak moet het sanitair op kantoor gepoetst worden?", "a": "Voor een klein team volstaat een wekelijks bezoek. Gebruiken ook klanten of patiënten het sanitair, dan zijn twee bezoeken per week verstandiger."},
+  {"q": "Vult Zondags ook papier en zeep aan?", "a": "Ja. Papier, zeep en handdoeken aanvullen is vaste taak per bezoek. Je Zondag kan ook een voorraadlijst bijhouden en bijbestellen binnen de afspraken."},
+  {"q": "Doet Zondags ook herstellingen aan lekkende kranen?", "a": "Nee, technische werken doen we niet. Je Zondag meldt een probleem aan jou, zodat jij een loodgieter kan bellen."},
+  {"q": "Wat kost het sanitair laten poetsen?", "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw. Sanitair is vaak maar een deel van het blok, naast de andere taken."},
+  {"q": "Kan ik alleen het sanitair laten poetsen?", "a": "Ja, je kiest de taken zelf. Het minimum is één blok van 3 uur, waarin je kan combineren met refter, vloeren en andere ruimtes."}
  ]
 }

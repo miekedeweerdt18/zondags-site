@@ -1,83 +1,85 @@
 {
+ "path": "sectoren/reisbureaus-checklist.html",
  "title": "Schoonmaakchecklist voor reisbureaus",
- "desc": "Wat in een reisbureau wekelijks, maandelijks en jaarlijks aan de beurt komt: onthaal, klantentafels, folders, vitrines, keuken en sanitair.",
- "eyebrow": "Checklist reisbureau",
+ "desc": "Een praktische lijst voor het winkelkantoor van je reisbureau: onthaal, klantentafels, folderrekken, vitrines, keuken en sanitair, per week, maand en jaar.",
+ "eyebrow": "Checklist · Reisbureaus",
  "h1": "Schoonmaakchecklist voor reisbureaus",
- "lead": "Een reisbureau leeft van de eerste indruk. Deze checklist toont wat per week, per maand en per jaar aan de beurt komt, en wat je zelf blijft doen.",
- "answer": "Een reisbureau heeft een vast poetsritme nodig voor onthaal, klantentafels, folderrekken, vitrines, keuken en sanitair. Zondags (zondags.be) levert één vaste Zondag die dat wekelijks doet, overdag op weekdagen. Deze checklist verdeelt de taken over wekelijks, maandelijks en jaarlijks, en toont wat je team zelf blijft doen.",
+ "lead": "Wie een droomreis boekt, wil dat al vanaf de eerste stap voelen. Deze lijst helpt je winkelkantoor te onderhouden, van folderrek tot koffiehoek.",
+ "answer": "Zondags (zondags.be) onderhoudt reisbureaus als winkelkantoor: onthaal, klantentafels, folderrekken, vitrines, keuken en sanitair. Eén vaste Zondag volgt een lijst met wekelijkse, maandelijkse en jaarlijkse taken. De folders zelf en de dossiers van reizigers blijven bij je team. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een factuur op naam van je vennootschap.",
  "facts": [
-  "Wekelijks, maandelijks, jaarlijks",
   "Onthaal, klantentafels en folderrekken",
   "Vitrines, keuken en sanitair",
-  "Wat de zaak zelf doet",
-  "Vaste Zondag, vast moment"
+  "Reisdossiers blijven bij je team",
+  "Wekelijks, maandelijks, jaarlijks",
+  "60 euro per uur, per blok van 3 uur"
  ],
  "sections": [
   {
-   "h2": "Waarom een reisbureau een eigen checklist nodig heeft",
+   "h2": "Een winkel met papier, glas en veel handen",
    "p": [
-    "In een winkelkantoor met onthaal komen klanten lang binnen. Ze zitten aan een tafel, bladeren door folders en praten over hun droomvakantie. Dat gaat gepaard met veel contact: handen op de tafels, op de folders, op de deurklink. De ruimte moet dus gezellig en verzorgd zijn.",
-    "Met één vaste persoon wordt dat overzichtelijk. De taken staan op een lijst, de volgorde ligt vast en elke beurt volgt hetzelfde stramien.",
-    "Een vaste Zondag leert ook de rustige en drukke momenten van je bureau kennen. Na de boekingspieken, wanneer er meer klanten en meer papier in de zaak zijn, weet die persoon waar het meest aandacht naartoe moet."
+    "Een reisbureau verschilt van een gewone winkel. Er komen mensen om te kijken, maar vooral om te zitten en te praten, soms een uur lang. Folders gaan van hand tot hand, tafels worden volgeschreven en de koffie staat nooit ver weg.",
+    "Daardoor hoopt het vuil zich op de plekken op waar klant en medewerker elkaar ontmoeten: de klantentafels, de stoelen en het onthaal. Daarop is deze checklist gebouwd."
    ]
   },
   {
-   "h2": "Wekelijks: de basis van elke beurt",
+   "h2": "Wekelijks: het ritme van de zaak",
    "p": [
-    "<ul class=\"ticks\"><li>Vloer van het onthaal en de winkelruimte</li><li>Klantentafels en stoelen afnemen</li><li>Balies en bureaus van de medewerkers</li><li>Folderrekken stofvrij maken, folders niet verplaatsen</li><li>Glazen deuren en de binnenkant van de etalage</li><li>Keuken, koffiehoek en sanitair</li><li>Afval en papier buiten zetten</li></ul>",
-    "Het zijn de taken waar klanten het snelst iets van opmerken. Een wekelijkse beurt voorkomt dat het zich opstapelt."
+    "<ul class=\"ticks\"><li>Klantentafels en stoelen afnemen, inclusief leuningen</li><li>Folderrekken stofvrij maken en netjes rechtzetten</li><li>Balie, toetsenborden, telefoons en pinautomaat afnemen</li><li>Vitrines en glazen deuren langs binnen</li><li>Vloer stofzuigen en dweilen, met aandacht voor de ingang</li><li>Keuken, koffiemachine en sanitair</li><li>Papier en karton naar de recyclage</li></ul>",
+    "Zet bij het onthaal gerust een korte lijst met de volgorde van de ronde. Zo verandert een nieuwe invaller niets aan het resultaat."
    ]
   },
   {
-   "h2": "Maandelijks en jaarlijks: de diepere ronde",
+   "h2": "Maandelijks: wat achter de folders ligt",
    "p": [
-    "Per maand komt er een ronde bij die dieper gaat: plinten en hoeken, achter de balie en onder de tafels, kasten van binnen en de berging. Ook vitrines en wandrekken worden dan grondig afgenomen.",
-    "Eén of twee keer per jaar plan je een grote beurt, bijvoorbeeld vóór het seizoen waarin veel klanten komen boeken, of na de feestdagen. Dat kan als losse opdracht, naast je vaste plan. Ook de ramen langs binnen worden dan grondiger gedaan."
+    "Aan het einde van de maand lopen de rekken leeg en de oude folders stapelen zich op. Dat is het moment om de rekken helemaal leeg te maken, af te nemen en weer te vullen, de plinten en deurkaders mee te nemen, de bureaustoelen schoon te maken en de wandkaarten of posters af te stoffen. Ook de koelkast in de keuken krijgt dan een beurt."
    ]
   },
   {
-   "h2": "Wat je team zelf blijft doen",
+   "h2": "Jaarlijks: voor het hoogseizoen",
    "p": [
-    "Je Zondag ordent geen folders, zet geen reisgegevens recht en raakt geen documenten of computers aan. Het team houdt zelf de bureaus vrij, ruimt papieren op en bewaart persoonlijke dossiers van klanten op de afgesproken plek.",
-    "De uitstalling van de folders blijft jullie taak. Je Zondag stofzuigt en neemt af rond de rekken. Welke afspraken je hierover wilt, leg je vast in het zondagsplan, zodat niemand achteraf verrast is."
+    "Voor de drukke maanden waarin iedereen een reis wil boeken, loont een grote beurt: ramen langs binnen, tapijt of vloer grondig, alle stoelen, de berging met nieuwe folders. Zo start je het seizoen met een zaak die er fris uitziet. Een extra blok boek je gewoon bij aan hetzelfde tarief."
    ]
   },
   {
-   "h2": "Voorbeeld: een interieurzaak met een toonzaal",
+   "h2": "Wat het team zelf blijft doen",
    "p": [
-    "Een interieurzaak en een reisbureau lijken op elkaar: klanten die rustig rondkijken en een toonzaal die onberispelijk moet zijn. Stel dat je een interieurzaak hebt met een toonzaal en een kleine adviesruimte. De checklist is dezelfde: vloer, tafels, vitrines, onthaal, sanitair, en een grotere beurt voor een nieuwe collectie.",
-    "Bij een reisbureau komt er geen collectie binnen, maar een nieuwe brochure per seizoen. De ritmes verschillen, de structuur van de lijst blijft."
+    "Reisdossiers, paspoortkopieën en boekingsgegevens blijven jouw zaak, net als het uitzoeken van nieuwe folders en het vullen van de vitrine met actuele aanbiedingen. Vraag je Zondag om rond je bureaus te werken en niets te verplaatsen op de werkplek, dan doet ze dat.",
+    "Wil je ook administratieve steun, dan kan je Zondag post sorteren, documenten klasseren, kantoormateriaal bestellen of pakjes klaarmaken. Dat blijft ondersteunend: geen boekhouding en geen fiscaal advies."
    ]
   },
   {
-   "h2": "Factuur en start",
+   "h2": "Voorbeeld: een interieurzaak met een toonzaal als buur",
    "p": [
-    "Een vennootschap kan geen dienstencheques kopen; die zijn voor particulieren. Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van je reisbureau is een beroepskost. Laat je accountant bevestigen hoe dat in jouw situatie werkt.",
-    "Vraag aan via het formulier of de chat. Binnen één werkdag belt iemand je terug, daarna volgt de intake en het zondagsplan. De eerste 2 uur zijn gratis. Meer algemeen vind je op <a href=\"sectoren/reisbureaus.html\">poetshulp voor reisbureaus</a> en <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."
+    "Neem een interieurzaak met een toonzaal in dezelfde winkelstraat. Wat daar stof is op meubels, is bij jou papier op tafel. De Zondag van de interieurzaak werkt rond collecties, jouw Zondag werkt rond folders en dossiers. Beide zaken hebben een andere lijst, maar dezelfde afspraak: een vaste dag, een vast uur en dezelfde persoon. Meer over onze aanpak voor reisbureaus lees je op <a href=\"sectoren/reisbureaus.html\">poetshulp voor reisbureaus</a>."
+   ]
+  },
+  {
+   "h2": "Prijs en boeken",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw per blok. Op de <a href=\"boeken.html\">boekpagina</a> kies je de dag en de taken en betaal je online. Het onderhoud van je winkelkantoor is in principe een beroepskost. Laat je accountant bevestigen wat voor je eigen situatie geldt."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Wat hoort in een schoonmaakchecklist voor een reisbureau?",
-   "a": "Onthaal, klantentafels, folderrekken, vitrines, balies, keuken en sanitair, wekelijks. Maandelijks plinten, kasten en hoeken. Jaarlijks een grote beurt. De details leg je vast in je zondagsplan."
+   "q": "Wat hoort er bij een schoonmaakbeurt van een reisbureau?",
+   "a": "Onthaal, klantentafels, folderrekken, vitrines, keuken en sanitair. De dossiers en folders zelf blijven bij je team."
   },
   {
    "q": "Hoe vaak moet een reisbureau gepoetst worden?",
-   "a": "De meeste winkelkantoren kiezen wekelijks. In een drukke zaak kan een tweede beurt nuttig zijn, in een rustige zaak volstaat tweewekelijks. Je past het aan na enkele weken."
+   "a": "Dat hangt af van het aantal bezoekers. In het eerste gesprek stellen we een ritme voor, vaak wekelijks, met grotere beurten op momenten die jij kiest."
   },
   {
-   "q": "Raakt de poetshulp mijn folders en dossiers aan?",
-   "a": "Nee. Je Zondag werkt rond folders, dossiers en computers. Het team houdt die zelf op orde."
+   "q": "Mag mijn Zondag aan de bureaus van mijn medewerkers komen?",
+   "a": "Alleen als je dat uitdrukkelijk afspreekt. Standaard werkt ze rond de bureaus en raakt ze documenten en computers niet aan."
   },
   {
-   "q": "Kan het poetsen voor de opening gebeuren?",
-   "a": "Ja. Overdag op weekdagen, vroeg in de ochtend of over de middag. Zondags werkt nooit 's avonds of in het weekend."
+   "q": "Kan er buiten de openingsuren gepoetst worden?",
+   "a": "Ja, vroeg in de ochtend of over de middag, steeds op weekdagen. 's Avonds en in het weekend werken we niet."
   },
   {
-   "q": "Kan een grote jaarlijkse beurt als losse opdracht?",
-   "a": "Ja. Losse opdrachten zoals een grote poetsbeurt zijn mogelijk, naast of zonder vast plan. Je spreekt de datum af op een weekdag overdag."
+   "q": "Kan mijn Zondag ook pakjes en post voor het reisbureau regelen?",
+   "a": "Ja. Post sorteren, pakjes klaarmaken, documenten klasseren en kantoormateriaal bijhouden horen bij de ondersteunende taken van je Zondag."
   }
- ],
- "path": "sectoren/reisbureaus-checklist.html"
+ ]
 }

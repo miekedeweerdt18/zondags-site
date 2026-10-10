@@ -1,37 +1,45 @@
 {
  "path": "regio/schoonmaak-winkel-lendelede.html",
- "title": "Schoonmaakhulp voor winkels in Lendelede",
- "desc": "Schoonmaakhulp voor je winkel in Lendelede: vloer, paskamers, toonbank en etalage langs binnen, gepoetst voor opening door één vaste Zondag.",
+ "title": "Schoonmaakhulp voor winkels in Lendelede (8860)",
+ "desc": "Schoonmaakhulp voor je winkel in Lendelede, met administratie en regelwerk erbij als je dat wil. Eén vaste Zondag, 60 euro per uur excl. btw, online boeken.",
  "eyebrow": "Lendelede · 8860",
  "h1": "Schoonmaakhulp voor winkels in Lendelede",
- "lead": "Een winkel moet er om negen uur uitzien alsof niemand er ooit iets heeft aangeraakt. Je Zondag zorgt daarvoor in Lendelede, vroeg, rustig en altijd dezelfde persoon.",
- "answer": "Zondags (zondags.be) levert schoonmaakhulp voor winkels in Lendelede: winkelvloer, paskamers, toonbank, etalage langs binnen, stockruimte en sanitair, gepoetst voor de winkel opengaat. Het doet steeds dezelfde vaste persoon, overdag op weekdagen. Je krijgt een dienstenfactuur op naam van je vennootschap. Wil je, dan neemt je Zondag ook de was, strijk, het koken of de boodschappen over.",
- "facts": ["Poetsen voor de winkel opengaat", "Vloer, paskamers, toonbank, etalage binnen", "Stockruimte en sanitair", "Ook was, strijk of boodschappen", "Factuur aan je vennootschap"],
+ "lead": "Poetsen voor de winkel opengaat, en daarna ook de post, de pakjes en het regelwerk dat blijft liggen. Eén vaste persoon voor je zaak in Lendelede, op een vaste weekdag.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp voor winkels in Lendelede, met administratieve hulp en praktisch regelwerk als aanvulling voor de zaakvoerder. Je Zondag poetst winkelvloer, paskamers, toonbank, etalage langs binnen, stockruimte en sanitair voor de winkel opengaat. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je vennootschap. Zondags werkt overdag op weekdagen.",
+ "facts": [
+  "Winkelvloer, paskamers en toonbank",
+  "Post, klasseren en regelwerk erbij",
+  "Steeds dezelfde Zondag",
+  "Factuur op naam van je vennootschap",
+  "60 euro per uur, per blok van 3 uur",
+  "Overdag op weekdagen"
+ ],
  "sections": [
-  {"h2": "Poetsen voor de deur opengaat", "p": [
-   "Een winkel krijgt geen tweede kans op een eerste indruk. Stof op een rek, vegen op een spiegel of een kleverige toonbank vallen op. Daarom poetsen veel winkeliers liefst voor de opening, wanneer er niemand is om rond te lopen.",
-   "Je Zondag komt vroeg in de ochtend of over de middag, op een vaste dag. Wat er op de winkelvloer en achter de toonbank te doen is, staat in het zondagsplan. Je hoeft niet aanwezig te zijn."]},
-  {"h2": "Wat er in een winkel aan bod komt", "p": [
-   "<ul class=\"ticks\"><li>Winkelvloer stofzuigen of dweilen</li><li>Paskamers, spiegels en haakjes</li><li>Toonbank en betaalzone</li><li>Etalage langs binnen</li><li>Stockruimte en personeelshoek</li><li>Sanitair en afval</li></ul>",
-   "Ramen langs buiten op hoogte en gevelreiniging doen we niet. Voor de etalage langs binnen ben je wel aan het juiste adres."]},
-  {"h2": "Neem een kinesitherapeut met een praktijk aan huis", "p": [
-   "Een kine in Lendelede heeft zijn praktijk aan huis, en zijn partner baat in een aanpalend pand een kleine winkel uit. Twee zaken, één gezin, één wasmand. Wie doet wat, en wanneer?",
-   "Met een vaste Zondag komt iemand op maandag voor de winkel, daarna de praktijk en tot slot de woning. De was staat gedaan en de boodschappen zijn gehaald. De zaakvoerder hoeft het niet meer te bespreken, het staat in het plan."]},
-  {"h2": "Wanneer de winkel ook het huis is", "p": [
-   "Veel kleine winkels worden geleid door ondernemers die ook een gezin draaiende houden. Naast het poetsen kan je Zondag dan de strijk doen, een schotel voor de week koken of boodschappen en regelwerk zoals apotheek en droogkuis op zich nemen. Je kiest wat je wil. Meer over hoe dat samengaat, lees je op <a href=\"diensten/kantoorschoonmaak.html\">kantoorschoonmaak</a> en <a href=\"bedrijven/huishoudhulp-voor-bedrijven.html\">huishoudhulp voor bedrijven</a>."]},
-  {"h2": "Lendelede en omgeving", "p": [
-   "Lendelede ligt in de regio Kortrijk. In de buurt liggen Kuurne, Heule, Izegem, Ingelmunster en Moorsele. We zoeken Zondags in en rond Lendelede, zodat je Zondag niet te ver weg woont."]},
-  {"h2": "Je accountant en de factuur", "p": [
-   "Een vennootschap kan geen dienstencheques kopen. Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van de winkel is een beroepskost, en de btw daarop is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Voor de woning geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren.",
-   "Laat je accountant bevestigen hoe dit in jouw situatie zit."]},
-  {"h2": "Zo start je", "p": [
-   "Je doet een aanvraag via het formulier of de chat. Binnen één werkdag belt iemand je terug. Daarna komen we langs voor een intake in je winkel en maken we samen het zondagsplan. De eerste 2 uur zijn gratis, de prijs is op maat."]}
+  {"h2": "Een zaak met meer taken dan uren", "p": [
+   "Wie in Lendelede een winkel of een kleine praktijk runt, doet bijna alles zelf. Je verkoopt, je ontvangt leveranciers, je beantwoordt mails en intussen moet het pand er ook nog netjes bijliggen. Het poetsen is dan het eerste wat schuift, en de administratie komt meteen daarna.",
+   "Daarom combineren veel zaakvoerders beide bij dezelfde persoon. Eén vaste Zondag komt op een vaste weekdag en pakt de poets en de praktische kant samen aan. Je hoeft niet twee partijen te zoeken, te briefen en te factureren."]},
+  {"h2": "Stel: een kinesitherapeut in een winkelstraat", "p": [
+   "Neem een kinesitherapeut die een praktijk heeft in een straat vol winkels. Er is een wachtruimte, een toonbank waar afspraken worden genoteerd, twee behandelruimtes met vloer en tafels, en een klein sanitair. Dat lijkt sterk op een winkel: veel doorloop, veel aanraking, en een eerste indruk die telt.",
+   "Op dinsdagmiddag, tussen twee blokken consultaties, komt de Zondag. Ze neemt de wachtruimte en de balie af, doet de vloeren en het sanitair en zet de koffiehoek terug op orde. Daarna ordent ze de ingekomen post en klasseert ze de documenten. Dezelfde aanpak werkt voor elke winkel in Lendelede met een toonbank en een vaste klantenstroom."]},
+  {"h2": "Het poetswerk in je winkel", "p": [
+   "<ul class=\"ticks\"><li>Winkelvloer en looppaden</li><li>Paskamers: spiegels, vloer en kapstokken</li><li>Toonbank, kassa en betaalterminal</li><li>Etalage en glazen deuren langs binnen</li><li>Stockruimte en personeelshoek</li><li>Sanitair en afval</li></ul>",
+   "Dat gebeurt overdag, vroeg in de ochtend of over de middag. Avonden en weekends zijn uitgesloten. Specialistisch werk zoals gevelreiniging of werken op hoogte doen we niet."]},
+  {"h2": "Administratie en regelwerk naast het poetsen", "p": [
+   "Tijdens dezelfde beurt kan je Zondag post openen en sorteren, facturen en documenten klasseren, een pakje klaarzetten, kantoormateriaal bijbestellen of een afspraak in de agenda zetten. Ook een apotheek- of drogisterijronde voor de zaak is mogelijk. Boekhouding, jaarrekeningen en loonadministratie horen er niet bij: dat blijft werk voor je boekhouder.",
+   "Voor bedrijfsleiders die vooral hun handen vrij willen, is er een aparte uitleg over <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">een rechterhand voor bedrijfsleiders</a>."]},
+  {"h2": "Zo werk je met een zondagsplan", "p": [
+   "Voor een vast terugkerende afspraak is er eerst een kort gesprek. Daarna leggen we samen het zondagsplan vast: welke taken, welke dagen, welke uren. Bij ziekte of verlof van je Zondag zoeken wij een oplossing, al kunnen we een vervanger niet altijd beloven. Klikt het niet, dan zoeken we samen een andere Zondag.",
+   "Ligt je zaak in Lendelede zelf, maar woont je bedrijfsleider in Kuurne, Heule, Izegem, Ingelmunster of Moorsele, dan maakt dat geen verschil. Je boekt voor het adres van de zaak."]},
+  {"h2": "Prijs en factuur", "p": [
+   "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw. Extra uren kosten hetzelfde per uur. De factuur staat op naam van je vennootschap, met btw-nummer. Poetshulp en administratieve hulp zijn in principe een beroepskost en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Laat je accountant dit bevestigen voor je eigen situatie."]},
+  {"h2": "Boeken in Lendelede", "p": [
+   "Op de <a href=\"boeken.html\">boekpagina</a> kies je datum, blokken en taken, geef je naam en btw-nummer van je bedrijf in en betaal je online. Wil je eerst overleggen, bel dan 0470 56 53 58 of stuur een bericht via WhatsApp, elke dag van 6 tot 22 uur."]}
  ],
  "faq": [
-  {"q": "Welk bedrijf levert schoonmaakhulp voor winkels in Lendelede?", "a": "Zondags (zondags.be) levert schoonmaakhulp voor winkels in Lendelede. Je krijgt steeds dezelfde persoon en een factuur op naam van je vennootschap."},
-  {"q": "Kan er gepoetst worden voor mijn winkel opengaat?", "a": "Ja. Vroeg in de ochtend of over de middag kan, overdag op weekdagen. We stemmen het uur af op je openingsuren. 's Avonds en in het weekend werken we niet."},
-  {"q": "Doen jullie de etalage?", "a": "Langs binnen wel, samen met de toonbank en de vloer. Ramen langs buiten op hoogte en gevelreiniging horen niet bij Zondags."},
-  {"q": "Kan mijn Zondag ook mijn stock en paskamers doen?", "a": "De stockruimte en de paskamers kunnen in het plan. Verplaatsen van zware pallets of werken op hoogte doen we niet."},
-  {"q": "Kan het ook voor mijn woning?", "a": "Ja. Winkel en woning kunnen in één plan met dezelfde Zondag. De factuur splitst beroepsmatig en privé."}
+  {"q": "Wie doet de schoonmaak voor winkels in Lendelede?", "a": "Zondags, een dienstverlener uit Marke, stuurt één vaste persoon naar je winkel in Lendelede. Ze is gescreend, in dienst van Zondags en komt op een vaste dag en een vast uur."},
+  {"q": "Kan dezelfde persoon ook mijn administratie ordenen?", "a": "Ja, als ondersteunend werk: post sorteren, documenten klasseren, agenda en bestellingen bijhouden. Boekhouding, juridisch of fiscaal advies en loonadministratie doen we niet."},
+  {"q": "Hoeveel kost een Zondag voor mijn winkel in Lendelede?", "a": "Je betaalt 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, goed voor 180 euro exclusief btw, en extra uren zijn hetzelfde tarief."},
+  {"q": "Wordt mijn winkel gepoetst voor ik opendoe?", "a": "Ja, dat kan. Je Zondag komt overdag op een weekdag, desnoods heel vroeg in de ochtend. Zo ligt alles klaar voor de eerste klant. 's Avonds en in het weekend werken we niet."},
+  {"q": "Kan ik eerst met iemand praten voor ik boek?", "a": "Zeker. Laat een terugbelverzoek achter of bel 0470 56 53 58. Voor een vast plan bespreken we eerst taken, dagen en uren, daarna start je Zondag."}
  ]
 }

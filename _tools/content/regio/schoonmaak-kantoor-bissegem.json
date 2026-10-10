@@ -1,81 +1,92 @@
 {
- "path": "regio/schoonmaak-kantoor-bissegem.html",
  "title": "Schoonmaakhulp voor kantoren in Bissegem (8501)",
- "desc": "Vaste schoonmaakhulp voor je kantoor of showroom in Bissegem, deelgemeente van Kortrijk. Eén Zondag, steeds dezelfde persoon, één factuur op je vennootschap.",
- "eyebrow": "Kantoor · Bissegem · 8501",
+ "desc": "Schoonmaakhulp voor kantoren met een showroom of ontvangstruimte in Bissegem. Eén vaste persoon, 60 euro per uur exclusief btw, online per blok van 3 uur.",
+ "eyebrow": "Bissegem · 8501",
  "h1": "Schoonmaakhulp voor kantoren in Bissegem",
- "lead": "Bissegem is een deelgemeente van Kortrijk met veel bedrijven die klanten ontvangen. Eén vaste Zondag houdt je kantoor of showroom verzorgd, elke week op hetzelfde moment.",
- "answer": "Zondags (zondags.be) levert schoonmaakhulp voor kantoren in Bissegem, een deelgemeente van Kortrijk met postcode 8501. Een vaste Zondag onderhoudt bureaus, vergaderruimte, keuken, sanitair en vloeren, en ook een showroom of ontvangstruimte waar klanten binnenstappen. Dat gebeurt overdag op weekdagen, steeds door dezelfde persoon. De factuur gaat naar je vennootschap.",
+ "lead": "Als klanten bij jou binnenstappen, begint de eerste indruk bij de ontvangstruimte. Zondags zorgt in Bissegem voor een kantoor en showroom die er elke week verzorgd bijliggen.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp voor kantoren in Bissegem, een deelgemeente van Kortrijk met postcode 8501. Een vaste persoon, je Zondag, onderhoudt overdag op een weekdag je bureaus, ontvangstruimte of showroom, keuken, sanitair en vloeren, wekelijks of tweewekelijks. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw. De dienstenfactuur komt op naam van je vennootschap, met je btw-nummer.",
  "facts": [
-  "Deelgemeente van Kortrijk",
-  "Kantoor, showroom en ontvangstruimte",
-  "Steeds dezelfde persoon",
-  "Overdag op weekdagen",
-  "Eerste 2 uur gratis"
+  "Kantoren met showroom in Bissegem",
+  "Ontvangstruimte en onthaal inbegrepen",
+  "Steeds dezelfde vaste persoon",
+  "Factuur op naam van je vennootschap",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
  ],
  "sections": [
   {
-   "h2": "Bissegem hoort bij Kortrijk",
+   "h2": "Waar klanten binnenkomen, telt elke vlek",
    "p": [
-    "Bissegem is een deelgemeente van Kortrijk, met postcode 8501. Zondags zelf zit in Marke, ook een deelgemeente van Kortrijk, en werkt dus vlak in de buurt. Toch maken we geen vaste belofte over wie er beschikbaar is: we zoeken telkens iemand die bij jouw dag en uur past.",
-    "Voor kantoren in Bissegem betekent dat een vaste Zondag die de plek leert kennen: waar de sleutel hangt, hoe de keuken in elkaar zit en welke ruimtes extra aandacht vragen.",
-    "Wil je weten hoe een week er concreet uitziet? Je Zondag komt op de afgesproken dag, werkt de lijst uit het zondagsplan af en laat het kantoor achter zoals jij het wilt aantreffen. Wijzigt er iets, een nieuwe collega of een extra vergaderruimte, dan passen we het plan aan."
+    "Heb je in Bissegem een kantoor met een showroom of een ontvangstruimte, dan wordt je ruimte op twee manieren beoordeeld: door het team dat er werkt en door de klant die er voor het eerst binnenkomt. Die laatste kijkt niet naar je rekeningen, wel naar de vloer, de balie, de glazen deur en het toilet.",
+    "Een vaste Zondag houdt die zichtbare plekken op niveau. Ze kent de volgorde die voor jouw zaak werkt, begint bij de ruimte waar bezoek komt en eindigt bij de plekken die alleen het team ziet."
    ]
   },
   {
-   "h2": "Als klanten binnenstappen in je showroom",
+   "h2": "Neem een landbouwbedrijf met een bureau aan de hoeve",
    "p": [
-    "Heb je een showroom of een ontvangstruimte, dan is stof zichtbaarder dan op een bureau. Glazen vitrines, een gladde vloer en een verzorgde balie bepalen de indruk. Je Zondag neemt die ruimtes mee in het weekplan, naast het gewone kantoorwerk.",
-    "<ul class=\"ticks\"><li>Vloeren en ingangsmatten</li><li>Glas en spiegels langs binnen</li><li>Balie, zitplekken en tafels</li><li>Bureaus en vergaderruimte</li><li>Keuken en sanitair</li></ul>",
-    "Een klein gebaar van je team tussendoor, zoals koffiekopjes in de vaatwasser zetten, maakt de wekelijkse beurt nog effectiever."
+    "Neem een landbouwvennootschap met een bureau op de hoeve. Hier komen leveranciers, een handelaar of de boekhouder over de vloer, vaak met stevig schoeisel. Het bureau zelf is een gewone werkruimte, maar het stof en de modder die van de erf worden binnengebracht, laten zich niet negeren.",
+    "De Zondag van dat bedrijf komt op een vaste ochtend, nadat de eerste ronde buiten voorbij is. Ze veegt en dweilt de vloeren, neemt het bureau af, reinigt de refter en het sanitair en zet het afval buiten. Het werk blijft beperkt tot de werkruimtes binnen. Stallen en machinehallen horen er niet bij."
    ]
   },
   {
-   "h2": "Voorbeeld: een landbouwbedrijf met een bureau aan de hoeve",
+   "h2": "Een weekritme voor een kantoor met bezoek",
    "p": [
-    "Neem een landbouwbedrijf met een bureau aan de hoeve en een kleine ontvangstruimte voor leveranciers en klanten. Het bureau is klein, maar bezoekers zien het wel. Een Zondag die elke week langskomt, zorgt dat de ruimte aangenaam blijft ondanks het werk buiten.",
-    "Hoeve en gezin lopen daar vaak in elkaar over. Wil je dat de woning ook mee wordt onderhouden, dan kan dat in hetzelfde zondagsplan, met de scheiding tussen beroeps en privé op de factuur."
+    "<ul class=\"ticks\"><li>Onthaal, balie en wachtzone afnemen</li><li>Showroom of toonzaal stofvrij houden</li><li>Vloeren stofzuigen en dweilen</li><li>Vergaderruimte klaarzetten voor een afspraak</li><li>Keuken en sanitair reinigen</li><li>Glazen deuren en ramen langs binnen</li></ul>",
+    "Heb je op dinsdag een klantenbezoek, dan kan de Zondag daar de planning rond bouwen. Zo ligt alles klaar als de eerste gast aankomt."
    ]
   },
   {
-   "h2": "Bissegem en de buren",
+   "h2": "Ook het regelwerk rond je ontvangst",
    "p": [
-    "Rond Bissegem liggen Kortrijk zelf, Marke, Wevelgem, Gullegem en Heule. Heeft je kantoor een adres in een van die plaatsen, dan bekijken we ook daar de mogelijkheden. Een overzicht voor de hele stad vind je op <a href=\"poetshulp/kortrijk.html\">poetshulp in Kortrijk</a>."
+    "Wie klanten ontvangt, heeft meer praktisch werk dan het lijkt. Er is koffie en water nodig, de kantoorbenodigdheden raken op en pakjes die klaarstaan moeten tijdig weg. Je Zondag kan de koffiehoek bevoorraden, kantoormateriaal bijhouden, post sorteren en pakjes klaarmaken.",
+    "Boekhouding en advies blijven buiten het aanbod. Het gaat om ondersteunend werk. Een overzicht lees je bij <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">een rechterhand voor bedrijfsleiders</a>."
    ]
   },
   {
-   "h2": "Wat niet kan",
+   "h2": "Bissegem en de buurt",
    "p": [
-    "Gevelreiniging, werken op hoogte, productiehallen en industriële reiniging doen we niet. Technische herstellingen evenmin. We beperken ons bewust tot het onderhoud van kantoren, praktijken, winkels en woningen."
+    "Bissegem hoort bij Kortrijk. Voor kantoren in Bissegem, Marke, Heule, Gullegem of Wevelgem zoeken we een Zondag die in de buurt woont, zodat een vast tijdstip in de week haalbaar blijft, ook vroeg in de ochtend voor je team binnenkomt."
    ]
   },
   {
-   "h2": "Facturatie met een accountantscheck",
+   "h2": "Kosten en boekhouding",
    "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Zondags werkt met een dienstenfactuur op naam van je vennootschap, en het onderhoud van beroepsruimtes is een beroepskost. De btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte niet. Laat je accountant dit bevestigen voor je eigen situatie. Starten kan na een aanvraag, een terugbelmoment binnen één werkdag en een intake. De eerste 2 uur zijn gratis."
+    "Een blok van 3 uur kost 180 euro exclusief btw, dat is 60 euro per uur. Heb je extra uren nodig, dan betaal je dezelfde 60 euro per uur. Er bestaat één pakket.",
+    "Je betaalt online en krijgt een factuur op naam van je vennootschap. Voor een zaak met aftrekrecht is de btw in principe recupereerbaar, en het onderhoud is in principe een beroepskost. Laat je accountant dit nakijken voor je eigen situatie."
+   ]
+  },
+  {
+   "h2": "Je eerste bezoek boeken",
+   "p": [
+    "Op de <a href=\"boeken.html\">boekpagina</a> kies je dag, het aantal blokken en de taken. Voor een vast ritme spreken we eerst even af, en leggen we samen een zondagsplan vast met taken, dagen en uren."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Welk bedrijf levert schoonmaakhulp voor kantoren in Bissegem?",
-   "a": "Zondags (zondags.be) levert vanuit Marke vaste schoonmaakhulp voor kantoren in Bissegem, een deelgemeente van Kortrijk. Je krijgt steeds dezelfde Zondag en een factuur op naam van je vennootschap."
+   "q": "Wie poetst kantoren met een showroom in Bissegem?",
+   "a": "Zondags, vanuit Marke, een deelgemeente van Kortrijk. Je krijgt één vaste persoon die je kantoor, ontvangstruimte en showroom op een vaste dag onderhoudt."
   },
   {
-   "q": "Kan Zondags ook mijn showroom in Bissegem poetsen?",
-   "a": "Ja. Showroom en ontvangstruimte horen bij het onderhoud van beroepsruimtes: vloeren, glas langs binnen, balie en sanitair."
+   "q": "Wat kost schoonmaakhulp voor een kantoor in Bissegem?",
+   "a": "60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw, en extra uren zijn aan hetzelfde uurtarief."
   },
   {
-   "q": "Is Bissegem apart van Kortrijk?",
-   "a": "Bissegem is een deelgemeente van Kortrijk met postcode 8501. Voor ons valt het onder Kortrijk, en we werken er op dezelfde manier als in de rest van de stad."
+   "q": "Kan de poetshulp komen voor ik klanten ontvang?",
+   "a": "Ja. Vroeg in de ochtend of over de middag kan, zodat de ontvangstruimte klaarligt voor het eerste bezoek. Avonden en weekends zijn uitgesloten."
   },
   {
-   "q": "Hoe snel kan een Zondag starten?",
-   "a": "Na je aanvraag bellen we binnen één werkdag terug en plannen we de intake. Wanneer je Zondag kan starten, hangt af van de dagen en uren die je zoekt."
+   "q": "Reinigt Zondags ook stallen of loodsen?",
+   "a": "Nee. Zondags werkt in kantoren, praktijken, winkels en showrooms. Industriële reiniging, productiehallen en technische klussen horen er niet bij."
   },
   {
-   "q": "Kan ik tussentijds opzeggen?",
-   "a": "Ja, maandelijks. Je kan ook uren bijboeken of het plan aanpassen wanneer je zaak verandert."
+   "q": "Kan mijn Zondag ook de koffiehoek aanvullen?",
+   "a": "Ja. Ze kan de koffiehoek en keuken bevoorraden met spullen die jij zelf kiest, kantoormateriaal bijhouden en pakjes klaarmaken."
+  },
+  {
+   "q": "Is dezelfde persoon elke week aanwezig?",
+   "a": "Ja, dat is het uitgangspunt: een vaste Zondag op een vaste dag en een vast uur. Is ze ziek of met verlof, dan zoeken we een oplossing."
   }
- ]
+ ],
+ "path": "regio/schoonmaak-kantoor-bissegem.html"
 }

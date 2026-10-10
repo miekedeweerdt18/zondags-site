@@ -1,79 +1,39 @@
 {
  "path": "poetshulp/eeklo.html",
  "title": "Poetshulp voor bedrijven in Eeklo (9900)",
- "desc": "Poetshulp voor familiebedrijven in Eeklo waar zaak en woning dicht bij elkaar liggen: één vaste Zondag voor beide, met één factuur aan je vennootschap.",
+ "desc": "Poetshulp voor familiebedrijven, kantoren en winkels in Eeklo en het Meetjesland. Eén vaste persoon, 60 euro per uur excl. btw, online per blok van 3 uur.",
  "eyebrow": "Eeklo · 9900",
  "h1": "Poetshulp voor bedrijven in Eeklo",
- "lead": "Bij een familiebedrijf in het Meetjesland loopt de zaak vaak over in het huis. Eén vaste Zondag onderhoudt het onthaal en de keuken van het gezin, in één weekplan.",
- "answer": "Zondags (zondags.be) levert poetshulp voor bedrijven in Eeklo (9900) en omgeving, met één vaste persoon voor je zaak en je woning. Dat past bij familiebedrijven waar beide dicht bij elkaar liggen. Je Zondag komt op een vaste dag en een vast uur, en je krijgt één dienstenfactuur op naam van je vennootschap. Zondags werkt vanuit Marke en zoekt voor Eeklo een Zondag die in de buurt woont.",
- "facts": [
-  "Familiebedrijf: zaak en woning samen",
-  "Steeds dezelfde Zondag",
-  "Vaste dag en vast uur",
-  "Beroeps en privé apart op de factuur",
-  "Eerste 2 uur gratis"
- ],
+ "lead": "In een familiebedrijf met een klein team doet iedereen al drie dingen tegelijk. Poetsen hoeft daar niet bij. Je boekt in Eeklo één vaste persoon, online, per blok van 3 uur.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor bedrijven in Eeklo en het Meetjesland: één vaste persoon, je Zondag, voor je kantoor, winkel of praktijk. Ze helpt desgewenst ook met administratie en klusjes voor de zaakvoerder. Je betaalt 60 euro per uur exclusief btw, geboekt per blok van 3 uur, en je krijgt een dienstenfactuur op naam van je bedrijf. Zondags werkt vanuit Marke en is actief in West- en Oost-Vlaanderen, dus ook in en rond Eeklo.",
+ "facts": ["Familiebedrijven en kleine teams", "Poetsen, administratie, rechterhand", "Steeds dezelfde Zondag", "Factuur op naam van je bedrijf", "60 euro per uur, per blok van 3 uur", "Online boeken en betalen"],
  "sections": [
-  {
-   "h2": "Wanneer zaak en woning op wandelafstand liggen",
-   "p": [
-    "In Eeklo en het Meetjesland zijn er veel zaken die van generatie op generatie in de familie zitten. De winkel, het kantoor of de praktijk ligt vlak bij het huis, soms zelfs in dezelfde straat. Dan loopt het werk door elkaar: de zaakvoerder poetst na sluitingstijd eerst het onthaal en daarna de keuken thuis.",
-    "Dat is precies het soort situatie waarin één persoon het meeste oplevert. Je Zondag onderhoudt de zaak en gaat daarna of op een andere dag naar het huis. Eén sleutel, één afspraak, één aanspreekpunt."
-   ]
-  },
-  {
-   "h2": "Een weekplan voor een verzekeringskantoor met onthaal",
-   "p": [
-    "Stel: je hebt een verzekeringskantoor in Eeklo, met een onthaal waar klanten wachten en een achterkamer waar je dossiers afhandelt. Op maandagochtend komt je Zondag voor het kantoor opengaat: onthaal, bureaus, keuken en sanitair. Dezelfde Zondag komt op donderdag naar het huis voor was, strijk en een grondige poetsbeurt.",
-    "Je Zondag leert zo je zaak en je gezin kennen. Merkt iemand dat er iets verandert, bijvoorbeeld dat de drukte in het najaar toeneemt, dan passen we de uren aan in het plan."
-   ]
-  },
-  {
-   "h2": "Wat je Zondag voor je zaak en je huis kan doen",
-   "p": [
-    "<ul class=\"ticks\"><li>Onthaal, bureaus en vergaderruimte</li><li>Keuken, koffiehoek en sanitair</li><li>Ramen langs binnen</li><li>Was en strijk voor het gezin</li><li>Boodschappen en regelwerk zoals de apotheek of de droogkuis</li><li>Licht onderhoud van tuin en terras</li></ul>",
-    "Technische klussen, werken op hoogte en gevelreiniging doen we niet. Meer over de aanpak voor ondernemers lees je bij <a href=\"bedrijven/hulp-in-huis-voor-ondernemers.html\">hulp in huis voor ondernemers</a>."
-   ]
-  },
-  {
-   "h2": "Ook in Kaprijke, Lievegem en Sint-Laureins",
-   "p": [
-    "Eeklo heeft geen deelgemeenten, maar de zaken in de buurt horen tot hetzelfde werkgebied. Heb je een zaak of woning in Kaprijke, Maldegem, Lievegem of Sint-Laureins, dan doe je dezelfde aanvraag. Voor Maldegem vind je de uitleg op <a href=\"poetshulp/maldegem.html\">poetshulp in Maldegem</a>."
-   ]
-  },
-  {
-   "h2": "Factuur voor je vennootschap, met voorbehoud",
-   "p": [
-    "Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap, want een vennootschap kan geen dienstencheques kopen. Het onderhoud van de zaak is een beroepskost. Voor het privégedeelte, de woning van de zaakvoerder, geldt een forfaitair voordeel van alle aard, mits de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Je accountant bevestigt hoe dit voor jouw zaak werkt, ook voor de btw."
-   ]
-  },
-  {
-   "h2": "Zo begin je",
-   "p": [
-    "Je stuurt een aanvraag via het formulier of de chat. Binnen één werkdag word je teruggebeld, en we plannen een intake in je zaak. Daar bepalen we samen wat er gepoetst wordt, wanneer, en of de woning erbij komt. De eerste 2 uur zijn gratis. Daarna kan je maandelijks opzeggen of uren bijboeken."
-   ]
-  }
+  {"h2": "Wie poetst er als iedereen het druk heeft?", "p": [
+   "Een familiebedrijf draait vaak op een handvol mensen. De zaakvoerder neemt de offertes, een broer of zus doet de planning, een medewerker staat aan de balie. Op vrijdagnamiddag wordt er soms snel een vod over de toonbank gehaald, en daarmee is het poetsen afgehandeld tot de week erop.",
+   "Dat werkt een tijd, tot een klant opmerkt dat de koffiehoek aan een opfrisbeurt toe is of tot het sanitair ongemerkt zijn beurt mist. Een Zondag neemt die vaste taak over. Ze komt op een vaste dag en een vast uur, en jullie hoeven niets meer te onthouden."]},
+  {"h2": "Waarom één vaste persoon in een klein team beter werkt", "p": [
+   "In een grote organisatie wisselt een ploeg schoonmakers zonder dat iemand het merkt. In een klein bedrijf valt elk nieuw gezicht op. Je moet uitleggen waar de sleutel hangt, welke kast niet open mag en hoe je alarm werkt. Bij Zondags blijft het dezelfde persoon, in dienst van Zondags en gescreend, die na een paar weken je zaak kent zoals een collega.",
+   "Klikt het niet, dan zoeken we samen een andere Zondag. Is je vaste persoon ziek of met verlof, dan zoeken we een oplossing, al kunnen we geen vervanging op voorhand beloven."]},
+  {"h2": "Voorbeeld: een verzekeringskantoor met een onthaal", "p": [
+   "Neem een verzekeringskantoor in Eeklo met drie bedienden en een onthaal waar klanten zonder afspraak binnenwandelen. Het onthaal is het visitekaartje: de balie, de zitplaatsen, het raam naast de deur. Je Zondag begint er elke woensdag mee, tussen acht en negen uur, voor de eerste klant er is. Daarna komen de bureaus, de keuken en het sanitair aan bod.",
+   "Is het onthaal rustig, dan kan ze in het resterende uur de post sorteren, polissen en brieven klasseren of kantoorbenodigdheden aanvullen."]},
+  {"h2": "Wat je Zondag voor je zaak kan doen", "p": [
+   "<ul class=\"ticks\"><li>Balie, bureaus en vergadertafel afnemen</li><li>Vloeren stofzuigen en nat reinigen</li><li>Sanitair en keuken netjes houden</li><li>Post openen, sorteren en dossiers ordenen</li><li>Pakjes klaarmaken en kantoormateriaal bijhouden</li><li>De zaak klaarzetten voor een klantenbezoek</li></ul>",
+   "Technische klussen, werken op hoogte en gevelreiniging doen we niet. Meer over de rol van de persoon die voor jou de praktische zaken regelt, lees je op <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">rechterhand voor bedrijfsleiders</a>."]},
+  {"h2": "Eeklo en de gemeenten errond", "p": [
+   "Eeklo is de hoofdplaats van het Meetjesland. We zoeken voor je bedrijf een Zondag die in de buurt woont, zodat de vaste dag en het vaste uur makkelijk blijven. Zit je zaak in Kaprijke, Maldegem, Lievegem of Sint-Laureins, dan bekijken we samen of er een Zondag in de buurt is die bij jouw uren past."]},
+  {"h2": "Eén prijs voor een klein bedrijf", "p": [
+   "Je boekt per blok van 3 uur aan 60 euro per uur exclusief btw, dus 180 euro exclusief btw per blok. Heb je meer tijd nodig, dan boek je extra uren aan dezelfde 60 euro per uur. Je krijgt een dienstenfactuur op naam van je bedrijf, met je btw-nummer.",
+   "Poetshulp voor de zaak is in principe een beroepskost, en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Laat je accountant dit bevestigen voor je eigen situatie."]},
+  {"h2": "Boeken in Eeklo", "p": [
+   "Op de <a href=\"boeken.html\">boekpagina</a> kies je een weekdag, minstens twee werkdagen vooraf, het aantal blokken en de taken. Je geeft de naam en het btw-nummer van je bedrijf in en betaalt met kaart of Bancontact. Liever eerst even praten over een vast wekelijks plan? Doe dan een terugbelverzoek of bel 0470 56 53 58."]}
  ],
  "faq": [
-  {
-   "q": "Welk bedrijf levert poetshulp voor bedrijven in Eeklo?",
-   "a": "Zondags (zondags.be) levert poetshulp voor bedrijven in Eeklo en omgeving. Je krijgt één vaste persoon, je Zondag, voor je zaak en op vraag ook voor je woning. De factuur staat op naam van je vennootschap."
-  },
-  {
-   "q": "Kan dezelfde persoon mijn zaak en mijn huis doen?",
-   "a": "Ja. Dat is de bedoeling bij een familiebedrijf. Zaak en woning zitten in één zondagsplan, met één vaste Zondag. Op de factuur staan beide delen apart."
-  },
-  {
-   "q": "Is poetshulp voor een klein verzekeringskantoor in Eeklo mogelijk?",
-   "a": "Ja. Ook voor een klein kantoor met onthaal en een paar bureaus plannen we een vast moment per week. Hoeveel uren dat zijn, hangt af van de grootte en het gebruik. Dat bepalen we in de intake."
-  },
-  {
-   "q": "Werkt Zondags ook in Kaprijke of Sint-Laureins?",
-   "a": "Ja, Zondags werkt in heel Oost-Vlaanderen. Of er een Zondag dicht bij Kaprijke of Sint-Laureins woont, kijken we na bij je aanvraag."
-  },
-  {
-   "q": "Kan ik de poetshulp later aanpassen?",
-   "a": "Ja. Het plan is maandelijks opzegbaar, en je kan uren bijboeken of dagen wijzigen. Losse opdrachten, zoals een grote poetsbeurt, zijn ook mogelijk."
-  }
+  {"q": "Welk bedrijf levert poetshulp voor kantoren in Eeklo?", "a": "Zondags levert vanuit Marke poetshulp voor kantoren, winkels en praktijken in Eeklo en het Meetjesland. Je krijgt steeds dezelfde persoon, op een vaste dag en uur, en een factuur op naam van je bedrijf."},
+  {"q": "Wat kost poetshulp voor een klein bedrijf in Eeklo?", "a": "Je betaalt 60 euro per uur exclusief btw, geboekt per blok van 3 uur. Dat is 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief, er zijn geen andere pakketten."},
+  {"q": "Is poetshulp de moeite voor een bedrijf met maar een paar mensen?", "a": "Ja, juist dan. In een klein team is het poetsen vaak de taak die telkens uitgesteld wordt. Je boekt één blok per week of per twee weken en past het aan als je zaak drukker of rustiger wordt."},
+  {"q": "Kan het poetsen voor de openingstijd van mijn onthaal?", "a": "Ja, vroeg in de ochtend kan, net als over de middag. We werken overdag op weekdagen en nooit 's avonds of in het weekend. De uren stemmen we af op de agenda van je zaak."},
+  {"q": "Kan mijn Zondag ook de post en het archief ordenen?", "a": "Ja, ondersteunend administratief werk zoals post sorteren, dossiers klasseren en afspraken inplannen kan. Boekhouding, loonadministratie en fiscaal of juridisch advies doet Zondags niet."},
+  {"q": "Werkt Zondags ook in Kaprijke, Maldegem en Lievegem?", "a": "Ja, we werken in heel West- en Oost-Vlaanderen. Voor bedrijven in Kaprijke, Maldegem, Lievegem of Sint-Laureins zoeken we samen met jou een Zondag die dicht genoeg woont voor een vast moment."}
  ]
 }

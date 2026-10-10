@@ -112,26 +112,26 @@ PLAATSEN = [
 ]
 
 ANGLES = [
- "vrije beroepen met een praktijk (wachtzaal, consultatieruimte, sanitair) en daarnaast hun woning",
+ "vrije beroepen met een praktijk (wachtzaal, consultatieruimte, sanitair) die buiten de consulturen gepoetst wil worden",
  "kleine kantoren met een team van een handvol tot vijftien mensen: bureaus, keuken of refter, sanitair",
- "ondernemers met een kantoor aan huis: kantoor en woning in één plan, met splitsing op de factuur",
+ "kleine bedrijven in een verhuurd kantoor of bedrijfsunit die poetshulp en administratieve hulp willen combineren",
  "winkels en zaken in de dorpskern of het centrum: poetsen voor de deur opengaat",
- "familiebedrijven waar zaak en woning dicht bij elkaar liggen",
+ "familiebedrijven met een klein team waar niemand tijd heeft om te poetsen",
  "starters en jonge vennootschappen die hun eerste kantoor of praktijk inrichten",
- "zaakvoerders die veel onderweg zijn: kantoor en huis lopen door terwijl zij weg zijn",
+ "bedrijfsleiders die veel onderweg zijn en een rechterhand zoeken die het kantoor en het regelwerk laat doorlopen",
  "praktijken en kantoren die liefst vroeg in de ochtend of over de middag laten poetsen, buiten de drukte",
  "bedrijven met een showroom of ontvangstruimte waar klanten binnenstappen",
- "land- en tuinbouwbedrijven met een vennootschap: bureau, refter en woning",
- "bedrijven die naast het poetsen ook de was en strijk, het koken of de boodschappen willen uitbesteden",
+ "landbouwbedrijven met een vennootschap: bureau, refter en kleedruimte",
+ "bedrijven die naast het poetsen ook administratie, post en regelwerk willen uitbesteden",
  "kmo's met een refter, kleedruimte en sanitair voor de ploeg",
 ]
 SCEN = [
- "een kinesitherapeut met een praktijk aan huis", "een accountantskantoor met zes medewerkers", "een kapsalon in de dorpskern",
- "een architect die thuis werkt", "een bouwbedrijf met een kantoor en een refter voor de ploeg", "een tandartspraktijk met twee behandelkamers",
- "een IT-consultant met een thuiskantoor", "een notariskantoor met een wachtzaal", "een groepspraktijk van huisartsen",
+ "een kinesitherapeut met een praktijk in een winkelstraat", "een accountantskantoor met zes medewerkers", "een kapsalon in de dorpskern",
+ "een architectenbureau met een vergaderzaal", "een bouwbedrijf met een kantoor en een refter voor de ploeg", "een tandartspraktijk met twee behandelkamers",
+ "een IT-consultant met een kantoor voor vijf mensen", "een notariskantoor met een wachtzaal", "een groepspraktijk van huisartsen",
  "een showroom met keukens of badkamers", "een landbouwbedrijf met een bureau aan de hoeve", "een webshop met een klein magazijn",
  "een advocatenkantoor met twee vennoten", "een opticien in een winkelstraat", "een verzekeringskantoor met een onthaal",
- "een interieurzaak met een toonzaal", "een logopediste met een praktijk aan huis", "een transportfirma met een chauffeursruimte",
+ "een interieurzaak met een toonzaal", "een logopediste met een groepspraktijk", "een transportfirma met een chauffeursruimte",
 ]
 
 def city_pages():
@@ -207,9 +207,9 @@ SECTOREN = [
  ("fitness-en-yogastudios","Poetshulp voor fitness- en yogastudio's","zalen, matten en toestellen afnemen, kleedkamers en douches, onthaal (overdag, tussen de lessen of in de daluren)"),
  ("vzw","Poetshulp voor vzw's en verenigingen","secretariaat, ontmoetingsruimte, keuken, sanitair, factuur op naam van de vzw"),
  ("webshops","Poetshulp voor webshops met kantoor en magazijn","kantoor, inpakruimte, refter en sanitair van een webshop (licht onderhoud van het magazijn, geen industriële vloermachines)"),
- ("familiebedrijven","Poetshulp voor familiebedrijven","familiebedrijven waar zaak en woning dicht bij elkaar liggen: kantoor, refter en de woning van de zaakvoerders in één plan"),
- ("landbouwbedrijven","Huishoudhulp en poetshulp voor landbouwbedrijven","land- en tuinbouwbedrijven met een vennootschap: bureau aan de hoeve, refter, woning, was en koken in drukke seizoenen (geen stallen of serres)"),
- ("installateurs","Poetshulp voor installateurs en technische bedrijven","elektriciens, loodgieters, HVAC-installateurs: kantoor, onthaal, refter en kleedruimte, en de woning van de zaakvoerder (geen technische werken)"),
+ ("familiebedrijven","Poetshulp voor familiebedrijven","familiebedrijven met een klein team waar niemand tijd heeft om te poetsen: kantoor, refter en de woning van de zaakvoerders in één plan"),
+ ("landbouwbedrijven","Poetshulp voor landbouwbedrijven","landbouwbedrijven met een vennootschap: bureau aan de hoeve, refter en kleedruimte in drukke seizoenen (geen stallen of serres)"),
+ ("installateurs","Poetshulp voor installateurs en technische bedrijven","elektriciens, loodgieters, HVAC-installateurs: kantoor, onthaal, refter en kleedruimte (geen technische werken)"),
  ("interimkantoren","Poetshulp voor interimkantoren","kantoor met veel bezoekers: onthaal, gesprekshoeken, sanitair, keuken"),
  ("drukkerijen","Poetshulp voor drukkerijen","kantoor, onthaal en toonruimte, refter en sanitair van een drukkerij (niet de drukmachines of productieruimte)"),
  ("eventbureaus","Poetshulp voor eventbureaus","kantoor en ontvangstruimte, opslag van materiaal netjes houden, keuken en sanitair (geen opkuis van events in het weekend)"),
@@ -299,12 +299,12 @@ K_SOORT = [
 ]
 K_PERSONA = [
  "een student verpleegkunde met lessen vooral in de voormiddag", "een student die op kot zit en in de vakanties extra wil werken",
- "een masterstudent met twee vrije namiddagen per week", "een student lerarenopleiding die graag met kinderen werkt",
- "een bediende met een vierdagenweek die de vrije dag wil invullen", "een gepensioneerde die graag kookt en een paar voormiddagen wil werken",
+ "een masterstudent met twee vrije namiddagen per week", "een student office management die graag met planning en administratie bezig is",
+ "een bediende met een vierdagenweek die de vrije dag wil invullen", "een gepensioneerde die een paar voormiddagen per week wil werken",
  "een zelfstandige in bijberoep die vaste uren zoekt", "een ploegarbeider met vrije voormiddagen in bepaalde weken",
- "een mama of papa die wil werken binnen de schooluren", "een herintreder na enkele jaren thuis bij de kinderen",
+ "een mama of papa die wil werken binnen de schooluren", "een herintreder na enkele jaren pauze",
  "een zij-instromer uit de horeca die geen avonden en weekends meer wil", "iemand uit de winkelsector die een rooster zonder zaterdagen zoekt",
- "iemand die graag buiten werkt en de tuin en het terras wil doen", "iemand die van strijken en orde houdt",
+ "iemand die graag actief bezig is en liever niet de hele dag achter een bureau zit", "iemand die van orde en structuur houdt",
 ]
 def candidate_pages():
     PL = {p[0]: p for p in PLAATSEN}

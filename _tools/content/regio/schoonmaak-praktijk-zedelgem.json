@@ -1,34 +1,85 @@
 {
  "path": "regio/schoonmaak-praktijk-zedelgem.html",
  "title": "Schoonmaakhulp voor praktijken in Zedelgem (8210)",
- "desc": "Poetsen in je praktijk of kantoor in Zedelgem, Loppem, Aartrijke of Veldegem, vroeg in de ochtend of over de middag. Eén vaste Zondag, één factuur.",
- "eyebrow": "Praktijk · Zedelgem · 8210",
+ "desc": "Schoonmaakhulp voor je praktijk of kantoor in Zedelgem, vroeg in de ochtend of over de middag. Eén vaste persoon, 60 euro per uur excl. btw, online boeken.",
+ "eyebrow": "Praktijken · Zedelgem · 8210",
  "h1": "Schoonmaakhulp voor praktijken in Zedelgem",
- "lead": "De rustigste momenten van een praktijk zijn vaak net voor de eerste afspraak of tijdens de middag. Precies dan komt je vaste Zondag langs, zodat patiënten en collega's er niets van merken.",
- "answer": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken en kantoren in Zedelgem, Aartrijke, Loppem en Veldegem. Je Zondag poetst vroeg in de ochtend of over de middag, buiten de drukte, steeds op hetzelfde moment van de week. Sterilisatie en medisch materiaal blijven bij de praktijk. Je krijgt een dienstenfactuur op naam van je vennootschap.",
- "facts": ["Vroeg in de ochtend of over de middag", "Buiten de drukte van patiënten", "Steeds dezelfde persoon", "Praktijk en woning in één plan", "Eerste 2 uur gratis"],
+ "lead": "Poetsen op de momenten dat je praktijk of kantoor in Zedelgem het rustigst is: vroeg in de ochtend of over de middag. Eén vaste persoon, 60 euro per uur exclusief btw, online te boeken.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken en kleine kantoren in Zedelgem, Aartrijke, Loppem en Veldegem. Je Zondag komt op een vast moment, bij voorkeur vroeg in de ochtend of over de middag, en onderhoudt wachtzaal, onthaal, consultatieruimtes, sanitair en keuken. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en ontvangt een dienstenfactuur op naam van je zaak. Sterilisatie en medisch materiaal vallen buiten het werk.",
+ "facts": [
+  "Vroeg in de ochtend of over de middag",
+  "Wachtzaal, consultatie, sanitair",
+  "Steeds dezelfde Zondag",
+  "Geen sterilisatie of medisch materiaal",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Poetsen als niemand je in de weg loopt", "p": [
-   "Een praktijk met een volle agenda heeft geen ruimte voor stofzuigers in de wachtzaal. Een kantoor met een team dat tot laat doorwerkt evenmin. Het beste moment om te poetsen ligt dus meestal vóór het begin van de dag of net in de middagpauze. Beide momenten kunnen bij Zondags, zolang het overdag op een weekdag is.",
-   "Wie liever geen patiënten of klanten tegenkomt tussen de emmers, kiest een vroeg uur. Wie 's ochtends zelf al in de praktijk staat, kiest de middag. Dat bespreken we bij de intake en we noteren het in je zondagsplan."]},
-  {"h2": "Voorbeeld: een accountantskantoor met zes medewerkers", "p": [
-   "Neem een accountantskantoor met zes medewerkers. Het team begint stipt, de telefoon gaat vroeg en de vergaderruimte wordt vaak gebruikt. Een Zondag die vlak voor de start komt, vindt een leeg kantoor: bureaus worden afgenomen, de keuken wordt opgeruimd, het sanitair en de vloeren krijgen een beurt.",
-   "In drukke periodes, zoals rond de aangiftes, kan je tijdelijk een extra moment bijboeken. Zodra het rustiger wordt, schakel je terug. Het plan blijft flexibel, de persoon blijft dezelfde."]},
-  {"h2": "Wat er in een praktijk gepoetst wordt", "p": [
-   "<ul class=\"ticks\"><li>Wachtzaal en onthaal, met tafels en zitplekken</li><li>Consultatie- en behandelruimtes</li><li>Sanitair, lavabo's en spiegels</li><li>Keuken of personeelsruimte</li><li>Glazen deuren en ramen langs binnen</li><li>Afval en recyclage klaarzetten</li></ul>",
-   "Sterilisatie en medisch materiaal doen we niet. Ook werken op hoogte en technische herstellingen horen er niet bij."]},
-  {"h2": "Zedelgem en de deelgemeenten", "p": [
-   "Zedelgem heeft postcode 8210 en bestaat uit Aartrijke, Loppem en Veldegem. Liggen je praktijk of kantoor in een van die dorpen, dan zoeken we een Zondag in en rond die dorpen. Ook voor Brugge, Oostkamp, Torhout, Jabbeke en Ichtegem bekijken we de mogelijkheden. We maken geen beloftes over wie er al beschikbaar is, wel over de manier waarop we zoeken: naar iemand die bij je uren en je zaak past."]},
-  {"h2": "Zaak en woning door dezelfde persoon", "p": [
-   "Veel zelfstandigen willen niet twee verschillende mensen over de vloer hebben. Daarom kan je Zondag de praktijk poetsen en daarna ook de woning, met was, strijk of boodschappen erbij. Op de factuur staan de twee delen apart. Zie ook <a href=\"bedrijven/hulp-in-huis-voor-ondernemers.html\">hulp in huis voor ondernemers</a>."]},
-  {"h2": "Kosten, btw en je accountant", "p": [
-   "Een vennootschap kan geen dienstencheques kopen. Zondags werkt met een dienstenfactuur op naam van je vennootschap, en het onderhoud van beroepsruimtes is een beroepskost. Voor de woning geldt een forfaitair voordeel van alle aard, mits regelmatige prestaties via een onderneming met mensen in dienst. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Laat je accountant dit bevestigen voor jouw situatie."]}
+  {
+   "h2": "Het beste moment om te poetsen is wanneer niemand er is",
+   "p": [
+    "Een praktijk of kantoor wordt het liefst gepoetst zonder dat iemand het merkt. Dat kan op twee momenten: vroeg in de ochtend, voordat het eerste telefoontje binnenkomt, en over de middag, wanneer het team naar buiten trekt of de deur even dicht gaat. Beide kunnen bij Zondags. Avonden en weekends niet, het werk gebeurt altijd overdag op weekdagen.",
+    "Voor ondernemers in Zedelgem is dat handig, want veel praktijken werken met vaste consulturen en korte pauzes. Wie de vloer wil laten doen in de middagpauze, spreekt dat één keer af. Daarna komt dezelfde persoon elke week op hetzelfde uur."
+   ]
+  },
+  {
+   "h2": "Welke ruimtes ze onderhoudt",
+   "p": [
+    "<ul class=\"ticks\"><li>Wachtzaal met zitplaatsen, tafel en vloer</li><li>Onthaalbalie en de ingang</li><li>Bureaus en consultatieruimtes, zonder papieren te verschuiven</li><li>Sanitair, met zeep en papier aangevuld</li><li>Keuken en koffiehoek van het team</li><li>Afval en papier voor de ophaling klaarzetten</li></ul>",
+    "Zondags doet geen sterilisatie en reinigt geen medisch materiaal. Ook technische klussen, werken op hoogte en gevelreiniging staan niet op de lijst. Het gaat om het regelmatige onderhoud van een gewone praktijkruimte."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een accountantskantoor met zes medewerkers",
+   "p": [
+    "Stel: je hebt een accountantskantoor in Zedelgem met zes medewerkers. Elke woensdag komt je Zondag om half acht, een uur voor het team binnenkomt. Bureaus worden afgenomen, de vergaderruimte klaargezet, de keuken en het sanitair gedaan, de vloeren aangepakt.",
+    "Zit er na de rondgang nog tijd over, dan gebruikt ze die voor ondersteunend werk: de binnengekomen post sorteren, dossiers terugzetten in het archief, een zending voor een cliënt klaarmaken. Aan de cijfers zelf komt ze niet, boekhouding hoort bij jullie."
+   ]
+  },
+  {
+   "h2": "Ook in Aartrijke, Loppem en Veldegem",
+   "p": [
+    "Aartrijke, Loppem en Veldegem zijn deelgemeenten van Zedelgem. We zoeken je Zondag in de buurt van je praktijk, zodat er geen lange verplaatsing in het rooster zit. Werk je in Brugge, Oostkamp, Torhout, Jabbeke of Ichtegem, dan helpt Zondags je in de regio Brugge op dezelfde manier."
+   ]
+  },
+  {
+   "h2": "Eén tarief en een factuur voor de vennootschap",
+   "p": [
+    "De prijs is 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, goed voor 180 euro exclusief btw, en voegt indien nodig extra uren toe aan hetzelfde uurtarief. Er zijn geen aparte formules, dus wat je op de boekpagina ziet, is wat je betaalt.",
+    "De factuur komt op naam van je vennootschap, met btw-nummer. Het onderhoud van een praktijk is in principe een beroepskost, en de btw is in principe recupereerbaar voor een zaak met aftrekrecht. Een btw-vrijgestelde zorgverlener kan de btw doorgaans niet recupereren. Laat je accountant bevestigen wat voor jouw situatie geldt."
+   ]
+  },
+  {
+   "h2": "Boeken in drie stappen",
+   "p": [
+    "Eerst kies je op de <a href=\"boeken.html\">boekpagina</a> de datum, het aantal blokken en de taken. Dan vul je de naam en het btw-nummer van je zaak in. Tot slot betaal je met kaart of Bancontact. Boeken kan voor weekdagen, minstens twee werkdagen vooraf. Een vast weekplan bespreken we eerst in een kort telefoongesprek."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf poetst praktijken in Zedelgem vroeg in de ochtend?", "a": "Zondags (zondags.be) laat een vaste Zondag vroeg in de ochtend of over de middag langskomen bij praktijken en kantoren in Zedelgem, Loppem, Aartrijke en Veldegem. Altijd overdag op weekdagen."},
-  {"q": "Kan er ook 's avonds gepoetst worden na de laatste patiënt?", "a": "Nee. Zondags werkt nooit 's avonds en nooit in het weekend. Vroeg in de ochtend of over de middag is wel mogelijk."},
-  {"q": "Hoe weet ik dat dezelfde persoon blijft komen?", "a": "Je Zondag is steeds dezelfde persoon, op een vaste dag en een vast uur, en is gescreend en in dienst van Zondags. Bij ziekte of verlof zoeken wij een oplossing, zonder dat we een vervanger vooraf beloven."},
-  {"q": "Doet Zondags ook de woning van de zaakvoerder?", "a": "Ja, als je dat wilt. Praktijk en woning kunnen in één zondagsplan, met één factuur waarop beide delen apart staan."},
-  {"q": "Wat kost schoonmaakhulp voor een praktijk?", "a": "Dat bepalen we op maat, na een kort gesprek. De eerste 2 uur zijn gratis, zodat je kan kennismaken voor je beslist. Het plan is maandelijks opzegbaar."}
+  {
+   "q": "Welk bedrijf poetst praktijken in Zedelgem vroeg in de ochtend?",
+   "a": "Zondags, gevestigd in Marke, stuurt een vaste Zondag naar praktijken en kantoren in Zedelgem. Vroeg in de ochtend of over de middag kan, zodat het poetsen buiten de drukte valt."
+  },
+  {
+   "q": "Kan ik zelf kiezen op welk uur mijn Zondag komt?",
+   "a": "Ja, binnen kantooruren op weekdagen. Je spreekt een vaste dag en een vast uur af, en eens dat vastligt, blijft het elke week hetzelfde."
+  },
+  {
+   "q": "Hoeveel kost een poetsbeurt voor een praktijk in Zedelgem?",
+   "a": "Een blok van 3 uur kost 180 euro exclusief btw, dus 60 euro per uur. Extra uren boek je aan hetzelfde tarief."
+  },
+  {
+   "q": "Wat als mijn vaste Zondag ziek is?",
+   "a": "Dan zoeken wij een oplossing, al kunnen we geen vervanging op dezelfde dag beloven. Klikt het op lange termijn niet, dan zoeken we samen een andere Zondag."
+  },
+  {
+   "q": "Mag mijn Zondag in consultatieruimtes werken als er dossiers liggen?",
+   "a": "Je Zondag werkt discreet en verschuift geen papieren. Wat niet aangeraakt mag worden, spreek je vooraf af. Medisch materiaal en sterilisatie blijven bij jou."
+  },
+  {
+   "q": "Kan ik schoonmaakhulp en administratieve hulp combineren?",
+   "a": "Ja. Dezelfde persoon kan binnen één blok poetsen en ondersteunend werk doen, zoals post sorteren, klasseren en afspraken inplannen."
+  }
  ]
 }

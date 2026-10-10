@@ -1,35 +1,80 @@
 {
- "path": "regio/schoonmaak-praktijk-ardooie.html",
- "title": "Schoonmaakhulp voor praktijken in Ardooie (8850)",
- "desc": "Schoonmaakhulp voor praktijken en zaken in Ardooie en Koolskamp: wachtzaal, behandelruimte en sanitair gepoetst vóór de deur opengaat, door één vaste Zondag.",
+ "title": "Schoonmaakhulp voor praktijken in Ardooie",
+ "desc": "Schoonmaakhulp voor je praktijk of zaak in Ardooie en Koolskamp: één vaste Zondag, poetsen voor de deur opengaat, 60 euro per uur exclusief btw.",
  "eyebrow": "Ardooie · 8850",
  "h1": "Schoonmaakhulp voor praktijken in Ardooie",
- "lead": "In een dorpskern zoals Ardooie ziet iedereen wanneer je praktijk of zaak er slordig bijligt. Een vaste Zondag zorgt dat alles klaar is voor de eerste cliënt of klant binnenstapt.",
- "answer": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken in Ardooie en Koolskamp. Een vaste persoon, je Zondag, poetst wachtzaal, onthaal, consultatie- en behandelruimtes en sanitair op een vast moment overdag op weekdagen, bij voorkeur voor de praktijk opent. Sterilisatie en medisch materiaal blijven bij jou of je team. Je ontvangt een dienstenfactuur op naam van je vennootschap.",
- "facts": ["Praktijken en zaken in Ardooie", "Gepoetst voor de deur opengaat", "Geen sterilisatie of medisch materiaal", "Dezelfde Zondag elke keer", "Factuur aan je vennootschap"],
+ "lead": "Een praktijk in de dorpskern van Ardooie moet er al blinken voor de eerste cliënt binnenkomt. Een vaste Zondag poetst vroeg in de ochtend, zodat jij gewoon kan starten.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken in Ardooie en Koolskamp: wachtzaal, onthaal, consultatie- en behandelruimtes en sanitair. Steeds dezelfde persoon komt op een vaste weekdag, liefst voor de praktijk opengaat. Sterilisatie en medisch materiaal blijven bij de praktijk zelf. Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, en krijgt een dienstenfactuur op naam van je vennootschap.",
+ "facts": [
+  "Wachtzaal, onthaal, behandelruimtes",
+  "Poetsen voor de deur opengaat",
+  "Geen sterilisatie of medisch materiaal",
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Een praktijk in het hart van het dorp", "p": [
-   "Een huisarts, tandarts, kinesist of dierenarts in Ardooie werkt dicht bij de mensen. Patiënten kennen elkaar, zien elkaar in de wachtzaal en vertellen elkaar hoe het er bij jou uitziet. Een nette, rustige ruimte is dus meer dan poetswerk, het is deel van hoe je praktijk overkomt.",
-   "Daarom werkt Zondags niet met wisselende ploegen maar met één persoon. Je Zondag leert je ruimtes kennen, weet welke deur altijd dicht moet en welke stoel steeds verschoven wordt."]},
-  {"h2": "Wat er gepoetst wordt", "p": [
-   "<ul class=\"ticks\"><li>Wachtzaal: zitjes, tafeltjes, vloer en deurklinken</li><li>Onthaal en balie</li><li>Consultatie- en behandelruimtes: oppervlakken, vloer, lavabo</li><li>Sanitair voor patiënten en team</li><li>Keukentje en personeelshoek</li><li>Ingangsmat en glazen deuren langs binnen</li></ul>",
-   "Wat niet gebeurt: sterilisatie, het reinigen van medisch materiaal en werken die technische kennis vragen. Die taken blijven in jouw handen of die van je team."]},
-  {"h2": "Poetsen voor de deur opengaat", "p": [
-   "Stel: je hebt een webshop met een klein magazijn naast je praktijk of onder hetzelfde dak, in een van de dorpsstraten. Dan is de ochtend je drukste moment. Je Zondag komt vroeg of net in de middagpauze, zodat bij het openen alles klaar staat.",
-   "Beide ruimtes, het magazijnhoekje en de praktijk, kunnen in één plan. Overdag op weekdagen, nooit 's avonds en nooit in het weekend."]},
-  {"h2": "Dorpskern, Koolskamp en omliggende gemeenten", "p": [
-   "Ardooie heeft Koolskamp als deelgemeente en ligt tussen Roeselare, Izegem, Lichtervelde, Pittem en Meulebeke. Voor zaken in die streek zoeken we een Zondag die kort bij je werkplek woont. Zo valt de planning gemakkelijk samen met je openingsuren. Meer over onze aanpak vind je bij <a href=\"gids/checklist-praktijkschoonmaak.html\">de checklist voor praktijkschoonmaak</a>."]},
-  {"h2": "Factuur en fiscale controle", "p": [
-   "Een vennootschap kan geen dienstencheques kopen, die zijn er enkel voor particulieren. Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van je praktijk is een beroepskost. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren, een btw-plichtige zaak met aftrekrecht in principe wel op het beroepsmatige deel.",
-   "Je kan je woning in hetzelfde plan laten opnemen, met een afzonderlijk privégedeelte. Laat je accountant bevestigen hoe dit voor jouw situatie werkt. Meer over <a href=\"vragen/btw-vrijgestelde-praktijk-poetshulp.html\">poetshulp voor een btw-vrijgestelde praktijk</a>."]},
-  {"h2": "Hoe je start", "p": [
-   "Vraag aan via het formulier of de chat. Binnen één werkdag bellen we je terug en komen we langs voor de intake. De eerste 2 uur zijn gratis. Het plan is maandelijks opzegbaar."]}
+  {
+   "h2": "Poetsen voor de eerste cliënt binnenkomt",
+   "p": [
+    "In een dorpskern zoals die van Ardooie ligt een praktijk vaak tussen een bakker, een bank en een kapper. Cliënten stappen binnen zonder omweg, en de eerste indruk wordt gemaakt in de wachtzaal. Als daar nog een stofspoor op de vensterbank ligt of een volle vuilnisbak staat, valt dat meteen op.",
+    "Daarom werkt een Zondag liefst voor de openingsuren. Vroeg in de ochtend kan, net zoals over de middag. Op weekdagen, overdag, nooit 's avonds en nooit in het weekend. Zo ligt alles klaar wanneer jij de deur opendoet."
+   ]
+  },
+  {
+   "h2": "Wat er in een praktijk gepoetst wordt",
+   "p": [
+    "<ul class=\"ticks\"><li>Wachtzaal: stoelen, tafeltjes, vensterbanken en vloer</li><li>Onthaal en balie, ook de deurklinken en het glas</li><li>Consultatie- en behandelruimtes: bureau, behandeltafel en vloer afnemen</li><li>Sanitair: toilet, lavabo, spiegel en zeepdispenser</li><li>Afval en recyclage leegmaken en buiten zetten</li></ul>",
+    "Sterilisatie, instrumenten en alles wat met medisch materiaal te maken heeft, blijven bij jou of je team. Dat is geen werk voor een Zondag. Wat wel en niet op de lijst staat, leggen we vast in het zondagsplan."
+   ]
+  },
+  {
+   "h2": "Neem een webshop met een klein magazijn in hetzelfde pand",
+   "p": [
+    "Neem een pand in Ardooie waar beneden een webshop zijn pakjes klaarzet in een klein magazijn, en boven een vrij beroep een praktijkruimte huurt. Twee zaken, één gang, één toilet. Zonder vaste afspraak wordt het sanitair een discussiepunt en blijft de wachtzaal een tweede keuze.",
+    "Met een Zondag spreek je een vaste ochtend af. Eerst de praktijk, dan het gemeenschappelijke sanitair, daarna de bureauruimte van de webshop. De webshophouder kan dezelfde persoon ook vragen om pakjes en zendingen klaar te maken en de post te sorteren. Dat is administratieve hulp, geen boekhouding."
+   ]
+  },
+  {
+   "h2": "Ardooie, Koolskamp en de buurgemeenten",
+   "p": [
+    "Koolskamp hoort bij Ardooie. Voor beide kernen zoeken we Zondags die dichtbij wonen, zodat je Zondag vlot en op tijd bij je praktijk is. Ligt je zaak in Roeselare, Izegem, Lichtervelde, Pittem of Meulebeke, dan werken we ook daar. Heb je meerdere zaken in de streek, bekijk dan ook onze pagina voor <a href=\"poetshulp/ardooie.html\">poetshulp voor bedrijven in Ardooie</a>."
+   ]
+  },
+  {
+   "h2": "Factuur, btw en je accountant",
+   "p": [
+    "Je krijgt een gewone dienstenfactuur op naam van je vennootschap, met je btw-nummer. Het onderhoud van een praktijk is in principe een beroepskost. Een btw-plichtige zaak met aftrekrecht kan de btw in principe recupereren, een btw-vrijgestelde praktijk doorgaans niet. Laat je accountant dit bevestigen voor jouw situatie."
+   ]
+  },
+  {
+   "h2": "Prijs en eerste afspraak",
+   "p": [
+    "Je boekt op de <a href=\"boeken.html\">boekpagina</a> een blok van 3 uur: 180 euro exclusief btw, dus 60 euro per uur. Meer tijd nodig, dan voeg je uren toe aan hetzelfde tarief. Boeken kan voor weekdagen, minstens twee werkdagen vooraf. Wil je een vast ritme, bijvoorbeeld elke week, laat dan een terugbelverzoek achter."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf kan mijn praktijk in Ardooie laten poetsen?", "a": "Zondags, gevestigd in Marke, levert vaste schoonmaakhulp voor praktijken, kantoren en winkels in Ardooie en Koolskamp. Je krijgt telkens dezelfde persoon, op een vaste dag en uur."},
-  {"q": "Kan er gepoetst worden voor mijn praktijk opent?", "a": "Ja, vroeg in de ochtend kan. Ook over de middag is mogelijk als dat beter past bij je agenda. 's Avonds en in het weekend werken we nooit."},
-  {"q": "Maakt Zondags ook medisch materiaal schoon?", "a": "Nee. Sterilisatie en reiniging van medisch materiaal doen we niet. Je Zondag poetst de ruimtes zelf: wachtzaal, onthaal, behandelkamers en sanitair."},
-  {"q": "Hoe zit het met discretie in een praktijk?", "a": "Je Zondag werkt discreet en gaat niet in dossiers of laden. Afspraken over wat open blijft en wat dicht blijft leggen we samen vast in het zondagsplan."},
-  {"q": "Kan mijn woning ook in het plan?", "a": "Ja, dezelfde Zondag kan op een andere dag je woning doen. Op de factuur staan het beroepsmatige en het privégedeelte apart."}
- ]
+  {
+   "q": "Welk bedrijf levert schoonmaakhulp voor praktijken in Ardooie?",
+   "a": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken en andere zaken in Ardooie en Koolskamp. Je krijgt steeds dezelfde persoon en een factuur op naam van je vennootschap."
+  },
+  {
+   "q": "Kan mijn praktijk in Ardooie vroeg in de ochtend gepoetst worden?",
+   "a": "Ja, vroeg in de ochtend of over de middag kan, op weekdagen. Zo is de wachtzaal klaar voor je eerste cliënt. 's Avonds en in het weekend werken we niet."
+  },
+  {
+   "q": "Poetst een Zondag ook behandelmateriaal of instrumenten?",
+   "a": "Nee. Sterilisatie, instrumenten en medisch materiaal blijven bij de praktijk zelf. Een Zondag poetst wachtzaal, onthaal, consultatieruimtes en sanitair."
+  },
+  {
+   "q": "Kan de Zondag ook pakjes of post voor mijn webshop behandelen?",
+   "a": "Ja, als ondersteunend werk: post openen en sorteren, pakjes en zendingen klaarmaken, kantoorbenodigdheden bijhouden. Boekhouding en fiscaal of juridisch advies horen daar niet bij."
+  },
+  {
+   "q": "Wat kost schoonmaakhulp voor een praktijk in Ardooie?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief."
+  }
+ ],
+ "path": "regio/schoonmaak-praktijk-ardooie.html"
 }

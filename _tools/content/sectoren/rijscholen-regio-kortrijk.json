@@ -1,81 +1,91 @@
 {
  "path": "sectoren/rijscholen-regio-kortrijk.html",
- "title": "Poetshulp voor rijscholen in Kortrijk en omgeving",
- "desc": "Poetshulp voor rijscholen in Kortrijk, Marke en de deelgemeenten: kantoor, onthaal, theorielokaal en sanitair door een vaste Zondag. Geen lesvoertuigen.",
- "eyebrow": "Rijscholen · Kortrijk",
+ "title": "Poetshulp voor rijscholen rond Kortrijk",
+ "desc": "Rijscholen in Kortrijk en omgeving krijgen een vaste Zondag voor kantoor, onthaal, theorielokaal en sanitair. 60 euro per uur excl. btw, online te boeken.",
+ "eyebrow": "Kortrijk en omgeving",
  "h1": "Poetshulp voor rijscholen in Kortrijk en omgeving",
- "lead": "Een rijschool heeft een kantoor, een onthaal en een theorielokaal waar leerlingen komen en gaan. Een vaste Zondag houdt dat bij, zonder dat jij zelf nog de emmer pakt.",
- "answer": "Zondags (zondags.be), gevestigd in Marke, levert poetshulp voor rijscholen in Kortrijk en omgeving: kantoor met onthaal, theorielokaal en sanitair, door dezelfde vaste persoon, overdag op weekdagen. Lesvoertuigen worden niet gereinigd. Je krijgt een dienstenfactuur op naam van je vennootschap en de eerste twee uur zijn gratis.",
+ "lead": "Een rijschool in de regio Kortrijk wil dat cursisten een nette balie, een frisse les en een proper sanitair vinden. Eén vaste Zondag zorgt daarvoor, overdag op weekdagen.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor rijscholen in Kortrijk, de deelgemeenten en de buurgemeenten Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede. Je vaste Zondag poetst kantoor, onthaal, theorielokaal en sanitair. Lesvoertuigen vallen erbuiten. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je vennootschap.",
  "facts": [
   "Kantoor, onthaal, theorielokaal, sanitair",
-  "Geen reiniging van lesvoertuigen",
-  "Overdag op weekdagen",
-  "Kortrijk, Marke en de deelgemeenten",
-  "Eerste 2 uur gratis"
+  "Geen lesvoertuigen",
+  "Kortrijk, deelgemeenten, buurgemeenten",
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Factuur op naam van je vennootschap"
  ],
  "sections": [
   {
-   "h2": "Wat een rijschool nodig heeft",
+   "h2": "Een rijschool in de regio: korte lessen, veel verkeer",
    "p": [
-    "Een rijschool combineert een klein kantoor met een lokaal waar de theorie wordt gegeven. Leerlingen komen binnen voor hun inschrijving, wachten op hun les en gebruiken het toilet. Er liggen folders op de toog, er staan stoelen en er zijn sporen van natte schoenen.",
-    "Je Zondag komt op een vaste dag. Ze begint bij het onthaal, gaat door het theorielokaal en eindigt bij het sanitair. Voertuigen blijven buiten het plan, want reiniging van voertuigen doen we niet."
+    "Rond Kortrijk liggen er rijscholen in het centrum, in een deelgemeente of in een buurgemeente. Overal geldt hetzelfde: cursisten komen en gaan, het theorielokaal wordt in blokken gebruikt en het onthaal hoort bij elke aanmelding even verzorgd te zijn.",
+    "De instructeur of zaakvoerder staat vaak zelf op de baan. Voor de ruimtes binnen is er dan weinig tijd. Een vaste Zondag neemt die tijd voor haar rekening."
+   ]
+  },
+  {
+   "h2": "Een tandartspraktijk als vergelijking",
+   "p": [
+    "Neem een tandartspraktijk met twee behandelkamers. De Zondag poetst er de wachtzaal, het sanitair en het onthaal, en houdt zich verre van de behandelkamers zelf. Het medische deel blijft bij het team.",
+    "Een rijschool heeft dezelfde splitsing. De lesvoertuigen en de sleutels blijven van het team. De Zondag verzorgt de ruimtes waar cursisten wachten, leren en de handen wassen."
+   ]
+  },
+  {
+   "h2": "Wat je Zondag in je rijschool doet",
+   "p": [
+    "<ul class=\"ticks\"><li>Onthaal, balie en wachtstoelen</li><li>Theorielokaal: tafels, stoelen, scherm en vloer</li><li>Kantoor en inschrijvingen op orde</li><li>Sanitair voor cursisten en team</li><li>Koffiehoek of automaat bijvullen</li><li>Post, formulieren en dossiers klasseren</li></ul>",
+    "Een vast lijstje per week vind je op <a href=\"sectoren/rijscholen-checklist.html\">de checklist voor rijscholen</a>."
    ]
   },
   {
    "h2": "Wanneer er gepoetst wordt",
    "p": [
-    "Stel: je leidt een rijschool met een kantoor en een theorielokaal. Je lessen lopen 's avonds en in het weekend, wanneer cursisten vrij zijn. Poetsen gebeurt dan overdag op weekdagen, in de uren waarop het lokaal vrij is, bijvoorbeeld vroeg in de ochtend of over de middag. Zo zijn lokaal en kantoor klaar voor de cursisten van de volgende lesavond.",
-    "Zondags zelf werkt nooit 's avonds en niet in het weekend. Dat past dus bij een rijschool met avondlessen: wij komen overdag, jouw lessen volgen daarna."
+    "Overdag, op weekdagen. Vroeg in de ochtend kan, voor de eerste cursisten, en over de middag ook. Geef je theorielessen in de avond, dan is het lokaal toch klaar, want de Zondag poetst eerder die dag. Zondags zelf werkt nooit 's avonds en nooit in het weekend. Na een drukke examenweek boek je een extra blok."
    ]
   },
   {
-   "h2": "De ronde in een rijschool",
+   "h2": "Regio: stad, deelgemeenten en buren",
    "p": [
-    "<ul class=\"ticks\"><li>Onthaal en toog</li><li>Kantoor en bureaus</li><li>Theorielokaal: tafels, stoelen, vloer, bord</li><li>Wachtruimte of zithoek</li><li>Sanitair</li><li>Keuken of koffiehoek</li><li>Afval en recyclage</li></ul>",
-    "Lesmateriaal, examendossiers en alles wat vertrouwelijk is, blijft waar jij het liet liggen."
+    "Zondags is gevestigd in Marke, dat bij Kortrijk hoort. Voor jouw rijschool zoeken we een Zondag die dichtbij woont, ongeacht of je kantoor in de binnenstad ligt of in Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke of Rollegem. Zit je net buiten de stad, in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem of Lendelede, dan is dat evengoed bespreekbaar. Een overzicht van de basisaanpak lees je bij <a href=\"poetshulp/kortrijk.html\">poetshulp voor bedrijven in Kortrijk</a>."
    ]
   },
   {
-   "h2": "In Kortrijk, Marke en de deelgemeenten",
+   "h2": "Kostprijs en boekhouding",
    "p": [
-    "Zondags zit in Marke, een deelgemeente van Kortrijk. We werken in Kortrijk (8500) en in Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem, die allemaal bij Kortrijk horen. Ook in de buurgemeenten Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede bekijken we wat mogelijk is.",
-    "Heeft je rijschool meerdere lokalen of een tweede vestiging in de buurt, dan kunnen die in hetzelfde plan, met dezelfde vaste persoon."
+    "Het uurtarief is 60 euro exclusief btw. Je neemt telkens een blok van 3 uur, goed voor 180 euro exclusief btw, en extra uren rekenen we tegen hetzelfde uurtarief aan. De factuur komt op naam van je vennootschap, met je btw-nummer.",
+    "Die kost is in principe een beroepskost, en de btw is in principe aftrekbaar voor een btw-plichtige zaak. Vraag je accountant om dit voor jouw situatie te bevestigen."
    ]
   },
   {
-   "h2": "Een rijschool met een tandartspraktijk als buur",
+   "h2": "Aan de slag",
    "p": [
-    "Neem een rijschool die een gebouw deelt met een tandartspraktijk met twee behandelkamers. De Zondag kan een gedeeld sanitair of onthaal bijhouden voor beide, op voorwaarde dat jullie afspreken wie wat betaalt en op welke factuur. Elk bedrijf krijgt dan een eigen dienstenfactuur op naam van de eigen vennootschap."
-   ]
-  },
-  {
-   "h2": "Facturatie en start",
-   "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Zondags werkt met een gewone dienstenfactuur. Het onderhoud van beroepsruimtes is een beroepskost. Btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant dit bevestigen.",
-    "Je vraagt aan via het formulier of de chat. Binnen één werkdag belt iemand terug, daarna volgen de intake en het zondagsplan. Zie ook <a href=\"poetshulp/kortrijk.html\">poetshulp voor bedrijven in Kortrijk</a> en <a href=\"sectoren/rijscholen.html\">poetshulp voor rijscholen</a>."
+    "Kies op de <a href=\"boeken.html\">boekpagina</a> een weekdag, het aantal blokken en de taken, en betaal online. Wil je een vast wekelijks moment, laat dan een terugbelverzoek achter. Dan zoeken we samen uit welke taken, dagen en uren bij je lesrooster passen."
    ]
   }
  ],
  "faq": [
   {
    "q": "Welk bedrijf levert poetshulp voor rijscholen in Kortrijk?",
-   "a": "Zondags levert vanuit Marke poetshulp voor rijscholen in Kortrijk en omgeving: kantoor, onthaal, theorielokaal en sanitair, door een vaste persoon, met een factuur op naam van je vennootschap."
+   "a": "Zondags, vanuit Marke. Je krijgt een vaste Zondag voor onthaal, kantoor, theorielokaal en sanitair, met een factuur op naam van je vennootschap."
   },
   {
-   "q": "Worden lesvoertuigen ook gereinigd?",
-   "a": "Nee. Reiniging van voertuigen valt buiten het werk van Zondags. We onderhouden het kantoor, het onthaal, het theorielokaal en het sanitair."
+   "q": "Reinigt Zondags ook lesvoertuigen?",
+   "a": "Nee. Reiniging van voertuigen valt buiten het aanbod. Zondags werkt in de ruimtes binnen: kantoor, onthaal, theorielokaal en sanitair."
   },
   {
-   "q": "Kan er gepoetst worden terwijl de rijschool 's avonds lessen geeft?",
-   "a": "Wij werken overdag op weekdagen, nooit 's avonds en niet in het weekend. De poetsbeurt gebeurt dus in de daguren, zodat het lokaal klaar is voor de lessen daarna."
+   "q": "Wat kost poetshulp voor een rijschool?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief."
   },
   {
-   "q": "Werkt Zondags ook in Heule, Bellegem of Rollegem?",
-   "a": "Ja. Die horen bij Kortrijk, net als Aalbeke, Bissegem, Kooigem en Marke. Ook in Kuurne, Harelbeke, Wevelgem en Menen bekijken we wat kan."
+   "q": "Kan er gepoetst worden terwijl cursisten les volgen?",
+   "a": "Dat stem je af. Vroeg in de ochtend of over de middag kan, wanneer er weinig cursisten zijn. 's Avonds en in het weekend werkt Zondags niet."
   },
   {
-   "q": "Hoe start ik met poetshulp voor mijn rijschool?",
-   "a": "Je vraagt aan via het formulier of de chat. Binnen één werkdag belt iemand terug, daarna volgt de intake en maken we samen het zondagsplan. De eerste twee uur zijn gratis."
+   "q": "Werkt Zondags ook in Harelbeke of Wevelgem?",
+   "a": "Ja, in de buurgemeenten van Kortrijk zoals Harelbeke, Wevelgem, Kuurne, Menen, Zwevegem en Lendelede, en in alle deelgemeenten van Kortrijk."
+  },
+  {
+   "q": "Hoe snel kan een Zondag starten?",
+   "a": "Boeken kan voor een weekdag, minstens twee werkdagen vooraf. Voor een vast ritme bespreken we eerst in een kort gesprek de taken, dagen en uren."
   }
  ]
 }

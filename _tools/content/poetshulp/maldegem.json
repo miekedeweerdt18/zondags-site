@@ -1,84 +1,39 @@
 {
  "path": "poetshulp/maldegem.html",
  "title": "Poetshulp voor bedrijven in Maldegem (9990)",
- "desc": "Poetshulp voor land- en tuinbouwbedrijven in Maldegem, Adegem en Middelburg: bureau, refter en woning door één vaste Zondag, met factuur aan je vennootschap.",
+ "desc": "Poetshulp voor landbouwbedrijven met een vennootschap, architecten en kantoren in Maldegem. Eén vaste persoon, 60 euro per uur excl. btw, per blok van 3 uur.",
  "eyebrow": "Maldegem · 9990",
  "h1": "Poetshulp voor bedrijven in Maldegem",
- "lead": "Op een land- of tuinbouwbedrijf draait alles rond de hoeve: het bureau, de refter en het woonhuis. Eén vaste Zondag houdt het binnenwerk bij, op een afgesproken weekdag.",
- "answer": "Zondags (zondags.be) levert poetshulp voor bedrijven in Maldegem (9990), Adegem en Middelburg, onder meer voor land- en tuinbouwbedrijven met een vennootschap. Je Zondag onderhoudt het bureau, de refter en op vraag de woning, op een vaste dag en een vast uur. Je krijgt één dienstenfactuur op naam van je vennootschap. Zondags werkt vanuit Marke en zoekt voor Maldegem een Zondag die dicht bij je bedrijf woont.",
- "facts": [
-  "Bureau, refter en woning",
-  "Land- en tuinbouwbedrijven",
-  "Steeds dezelfde Zondag",
-  "Overdag, op weekdagen",
-  "Factuur aan je vennootschap",
-  "Eerste 2 uur gratis"
- ],
+ "lead": "Een landbouwbedrijf met een vennootschap heeft een bureau, een refter en een kleedruimte die elke dag gebruikt worden. Je boekt in Maldegem één vaste persoon, online, per blok van 3 uur.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor bedrijven in Maldegem, Adegem en Middelburg: één vaste persoon, je Zondag, voor bureau, refter, kleedruimte en sanitair van je zaak. Ook kantoren en architectenbureaus kunnen terecht. Op vraag helpt ze met administratie en praktische klusjes voor de bedrijfsleider. Je betaalt 60 euro per uur exclusief btw, geboekt per blok van 3 uur, en je krijgt een dienstenfactuur op naam van je vennootschap. Zondags werkt vanuit Marke.",
+ "facts": ["Landbouwbedrijf, kantoor of bureau", "Bureau, refter en kleedruimte", "Steeds dezelfde Zondag", "Factuur op naam van je vennootschap", "60 euro per uur, per blok van 3 uur", "Online boeken en betalen"],
  "sections": [
-  {
-   "h2": "Het binnenwerk op een bedrijf met een hoeve",
-   "p": [
-    "Wie in Maldegem een land- of tuinbouwbedrijf runt, heeft vaak een bureau voor de administratie, een refter of keuken waar seizoenarbeiders of de ploeg pauzeren en een woonhuis op hetzelfde erf. Het buitenwerk laat zich niet uitstellen, dus het binnenwerk schuift telkens naar achter.",
-    "Je Zondag neemt dat binnenwerk over. Het gaat om bureau, refter, sanitair en woonhuis. De stal, de loods en de velden blijven voor jezelf; die doen we niet."
-   ]
-  },
-  {
-   "h2": "Wat een Zondag op zo'n bedrijf doet",
-   "p": [
-    "<ul class=\"ticks\"><li>Bureau met dossiers en boekhoudmappen afstoffen en de vloer doen</li><li>Refter en keuken voor de ploeg</li><li>Sanitair en kleedruimte</li><li>Woonhuis: poetsen, was en strijk</li><li>Boodschappen en regelwerk, bijvoorbeeld de apotheek of pakjes</li><li>Ramen langs binnen</li></ul>",
-    "Industriële reiniging, het schoonmaken van stallen of loodsen en werken op hoogte vallen erbuiten. Dat het huis en het bureau samen in één plan zitten, is wel mogelijk. Op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a> staat het volledige aanbod."
-   ]
-  },
-  {
-   "h2": "Voorbeeld: een architect die thuis werkt",
-   "p": [
-    "Neem een architect met een eigen vennootschap die vanuit huis werkt, op een perceel net buiten het centrum van Maldegem. Het bureau ligt boven, de maquettes en plannen staan op tafels, en klanten komen op afspraak langs. Je Zondag komt op maandag: bureau en vergadertafel stofvrij, keuken, sanitair, vloeren. Daarna het woonhuis: was, strijk en poetsen.",
-    "Omdat het één adres is, is het ook één plan. Op de factuur splitsen we het beroepsmatige en het privégedeelte, zodat je accountant weet wat waar hoort."
-   ]
-  },
-  {
-   "h2": "In Adegem en Middelburg, en in de buurt",
-   "p": [
-    "Maldegem heeft de deelgemeenten Adegem en Middelburg. Een Zondag zoeken we in dezelfde buurt als je bedrijf. Ligt je zaak in Eeklo, Aalter, Sint-Laureins of Beernem, dan kan je evengoed een aanvraag indienen. Voor de buurgemeente Eeklo lees je meer op <a href=\"poetshulp/eeklo.html\">poetshulp in Eeklo</a>."
-   ]
-  },
-  {
-   "h2": "Hoe de factuur werkt",
-   "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Zondags werkt met een dienstenfactuur op naam van de vennootschap. Het onderhoud van het bureau en de refter is een beroepskost. De poetsbeurten in de woning van de zaakvoerder vallen onder het privégedeelte, met een forfaitair voordeel van alle aard als de prestaties regelmatig zijn en via een onderneming met mensen in dienst verlopen. Laat je accountant dit bevestigen voor je situatie."
-   ]
-  },
-  {
-   "h2": "Starten gaat in vier stappen",
-   "p": [
-    "Je stuurt een aanvraag via het formulier of de chat. Binnen één werkdag belt iemand terug. We komen langs voor de intake en maken samen het zondagsplan op. Daarna start je Zondag, en de eerste 2 uur zijn gratis om kennis te maken. Past het niet, dan zoeken we samen een andere Zondag."
-   ]
-  }
+  {"h2": "Een landbouwbedrijf met een vennootschap is ook een werkplek", "p": [
+   "Wie een landbouwbedrijf in een vennootschap runt, heeft naast de buitenwerking ook een werkplek met een bureau, een boekhoudmap en meestal een lokaal waar de medewerkers pauzeren. Dat gedeelte krijgt de minste aandacht, terwijl het elke dag gebruikt wordt: de refter na de pauze, de kleedruimte na een natte of vuile werkdag, het sanitair bij elk wisselmoment.",
+   "Dat is het werk dat een Zondag overneemt. Het gaat om de vaste, binnenruimtes van je zaak. De stallen, de machinehallen en alles wat met de productie zelf te maken heeft, blijven buiten haar taak, evenals industriële reiniging."]},
+  {"h2": "Een vaste dag en een vast uur", "p": [
+   "Op een landbouwbedrijf volgt de dag het seizoen en het weer, niet de agenda. Daarom spreken we een moment af dat bij jouw ritme past: vroeg in de ochtend, voor de eerste ploeg binnen komt, of over de middag, wanneer het bureau toch leeg is. Eens afgesproken, ligt dat vast, en je Zondag staat op dat moment aan de deur.",
+   "Het is steeds dezelfde persoon, in dienst van Zondags en gescreend. Ze leert snel welke vloer extra aandacht nodig heeft en welke ruimte altijd het eerst vuil wordt."]},
+  {"h2": "Voorbeeld: een architectenbureau met een vergaderzaal", "p": [
+   "Neem een architectenbureau in Maldegem met vier tekenaars en een vergaderzaal waar bouwheren plannen komen bespreken. Voor een bespreking moeten de tafel, de stoelen en de glazen wand netjes zijn, en de keuken ernaast ook. Je Zondag komt op donderdagochtend, zet de vergaderzaal klaar, neemt de tekentafels af en houdt de koffiehoek aangevuld.",
+   "Staat er een belangrijk klantenbezoek op de agenda, dan boek je een extra blok, en laat je haar de zaak klaarzetten voor die dag."]},
+  {"h2": "Wat er in je bedrijf aan bod kan komen", "p": [
+   "<ul class=\"ticks\"><li>Bureau, archiefruimte en vergaderzaal</li><li>Refter en keuken met frigo en koffiehoek</li><li>Kleedruimte: banken, kastjes en vloer</li><li>Sanitair en wasplaatsen</li><li>Post sorteren en dossiers klasseren</li><li>Kantoormateriaal en koffiehoek bevoorraden</li></ul>",
+   "Boekhouding, fiscaal advies en loonadministratie horen er niet bij, ook niet als de papieren van je vennootschap op het bureau liggen. Het gaat om ondersteunend werk. Wat een rechterhand nog meer voor je kan opnemen, lees je op <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">rechterhand voor bedrijfsleiders</a>."]},
+  {"h2": "Adegem, Middelburg en de buurgemeenten", "p": [
+   "Maldegem is een gemeente met onder meer Adegem en Middelburg. Ook daar zoeken we voor jouw zaak een Zondag die dichtbij woont. Zit je bedrijf in Eeklo, Aalter, Sint-Laureins of Beernem, dan bekijken we samen of een vaste Zondag past bij jouw uren."]},
+  {"h2": "Prijs en factuur voor je vennootschap", "p": [
+   "Je boekt per blok van 3 uur aan 60 euro per uur exclusief btw, dus 180 euro exclusief btw per blok. Extra uren boek je aan dezelfde 60 euro per uur. De factuur is een gewone dienstenfactuur op naam van je vennootschap, met je btw-nummer.",
+   "Poetshulp voor de zaak is in principe een beroepskost. Of je de btw kan recupereren, hangt af van je situatie: een btw-plichtige zaak met aftrekrecht in principe wel, een btw-vrijgestelde zaak doorgaans niet. Laat je accountant dit bevestigen voor je eigen situatie."]},
+  {"h2": "Boeken in Maldegem", "p": [
+   "Kies op de <a href=\"boeken.html\">boekpagina</a> een weekdag, minstens twee werkdagen vooraf, het aantal blokken en de taken. Je geeft de naam en het btw-nummer van je bedrijf in en betaalt online. Voor een vast terugkerend plan doe je een terugbelverzoek, en bespreken we samen welke taken, dagen en uren er in het zondagsplan komen."]}
  ],
  "faq": [
-  {
-   "q": "Welk bedrijf levert poetshulp voor bedrijven in Maldegem?",
-   "a": "Zondags (zondags.be) levert poetshulp voor bedrijven in Maldegem, Adegem en Middelburg, met één vaste persoon per bedrijf. Je krijgt een dienstenfactuur op naam van je vennootschap. Zondags zit in Marke en zoekt een Zondag in jouw buurt."
-  },
-  {
-   "q": "Poetst Zondags ook stallen of loodsen op een landbouwbedrijf?",
-   "a": "Nee. Stallen, loodsen en industriële reiniging doen we niet. Het gaat om het binnenwerk: bureau, refter, sanitair en het woonhuis."
-  },
-  {
-   "q": "Kan ik mijn bureau en mijn woonhuis in één plan laten onderhouden?",
-   "a": "Ja. Beide kunnen in één zondagsplan met dezelfde persoon. Op de factuur staan het beroepsmatige en het privégedeelte apart."
-  },
-  {
-   "q": "Kan de poetshulp komen als ik zelf op het veld sta?",
-   "a": "Ja. Je Zondag werkt overdag op weekdagen, ook als jij niet thuis bent. Hoe je sleutel of toegang geregeld wordt, spreken we af tijdens de intake."
-  },
-  {
-   "q": "Wat als mijn Zondag ziek is?",
-   "a": "Dan zoeken wij een oplossing. Een vaste vervanger op dezelfde dag beloven we niet, maar we regelen het samen met je."
-  },
-  {
-   "q": "Werkt Zondags ook in Beernem of Aalter?",
-   "a": "Ja, Zondags is actief in Oost- en West-Vlaanderen. Of er een Zondag dicht bij jouw bedrijf woont, bekijken we bij je aanvraag."
-  }
+  {"q": "Welk bedrijf levert poetshulp voor bedrijven in Maldegem?", "a": "Zondags levert vanuit Marke poetshulp voor landbouwbedrijven met een vennootschap, kantoren en bureaus in Maldegem, Adegem en Middelburg. Je krijgt steeds dezelfde persoon en een factuur op naam van je bedrijf."},
+  {"q": "Wat kost poetshulp voor een landbouwbedrijf in Maldegem?", "a": "Je betaalt 60 euro per uur exclusief btw, geboekt per blok van 3 uur. Dat is 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief, andere pakketten zijn er niet."},
+  {"q": "Worden ook de stallen en machinehallen gepoetst?", "a": "Nee. Zondags poetst de binnenruimtes van je zaak: bureau, refter, kleedruimte, keuken en sanitair. Productiehallen en industriële reiniging vallen erbuiten."},
+  {"q": "Kan het poetsen vroeg in de ochtend gebeuren?", "a": "Ja, vroeg in de ochtend kan, net als over de middag. We werken overdag op weekdagen en nooit 's avonds of in het weekend. Het uur stemmen we af op het ritme van je bedrijf."},
+  {"q": "Kan mijn Zondag ook administratief werk doen?", "a": "Ja, ondersteunend werk zoals post openen, documenten klasseren, dossiers ordenen en afspraken plannen. Boekhouding, jaarrekeningen en loonadministratie doet Zondags niet."},
+  {"q": "Werkt Zondags ook in Adegem en Middelburg?", "a": "Ja, beide deelen van Maldegem horen bij ons werkgebied. We zoeken voor jouw bedrijf een Zondag die in de buurt woont, zodat de vaste dag en het vaste uur makkelijk blijven."}
  ]
 }

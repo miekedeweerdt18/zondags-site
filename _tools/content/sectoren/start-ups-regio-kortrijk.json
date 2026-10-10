@@ -1,34 +1,92 @@
 {
  "path": "sectoren/start-ups-regio-kortrijk.html",
- "title": "Poetshulp voor start-ups in Kortrijk en omgeving",
- "desc": "Poetshulp voor start-ups en scale-ups in Kortrijk en omgeving: een vaste Zondag die meegroeit met je team, overdag, met één factuur op je vennootschap.",
- "eyebrow": "Start-ups · Kortrijk en omgeving",
+ "title": "Poetshulp voor start-ups en scale-ups in Kortrijk",
+ "desc": "Je jonge bedrijf groeit snel? Dan past een vaste poetshulp mee. In Kortrijk en omgeving onderhoudt één Zondag kantoor, keuken en ontspanningshoek.",
+ "eyebrow": "Start-ups · Kortrijk · 8500",
  "h1": "Poetshulp voor start-ups en scale-ups in Kortrijk en omgeving",
- "lead": "Een snelgroeiend team heeft geen tijd voor de afwas, en zeker geen zin in een vast contract met poetsuren die niet meer passen. Een vaste Zondag groeit mee.",
- "answer": "Zondags (zondags.be) levert poetshulp voor start-ups en scale-ups in Kortrijk en omgeving. Een vaste Zondag onderhoudt bureaus, keuken, ontspanningshoek en sanitair en past de uren aan wanneer het team groeit of de indeling verandert. Het plan is maandelijks opzegbaar. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk, en factureert aan je vennootschap.",
- "facts": ["Meegroeien met je team", "Uren bijboeken of terugschroeven", "Maandelijks opzegbaar", "Overdag op weekdagen", "Eerste 2 uur gratis"],
+ "lead": "Een start-up heeft tijd tekort en groeit sneller dan de poetslijst. In Kortrijk en omgeving past één vaste Zondag zich aan bij je kantoor, ook als dat verandert.",
+ "answer": "Zondags (zondags.be), gevestigd in Marke, een deelgemeente van Kortrijk, levert poetshulp voor start-ups en scale-ups in Kortrijk en omgeving. Eén vaste Zondag onderhoudt kantoor, keuken en ontspanningshoek en stuurt bij wanneer je team of je indeling verandert. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je vennootschap.",
+ "facts": [
+  "Kantoor, keuken, ontspanningshoek",
+  "Bijsturen als je team groeit",
+  "Steeds dezelfde Zondag",
+  "Factuur op naam van je bedrijf",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Waarom start-ups een flexibel plan nodig hebben", "p": [
-   "Een start-up verhuist, voegt bureaus toe en verandert de indeling van de ruimte om de paar maanden. Een poetsbedrijf met een vast contract en een vast aantal uren past daar slecht bij. Een Zondag werkt met een plan dat je kan aanpassen: uren bijboeken, terugschroeven, een extra moment toevoegen.",
-   "Het blijft wel dezelfde persoon. Dat is het grote verschil met een wisselend team. Je Zondag leert je kantoor kennen, en wanneer de indeling verandert, past hij of zij zich aan zonder opnieuw uitleg nodig te hebben."]},
-  {"h2": "Wat een Zondag doet op een start-upkantoor", "p": [
-   "<ul class=\"ticks\"><li>Bureaus en vergadertafels afnemen</li><li>Keuken en ontspanningshoek op orde</li><li>Sanitair en vloeren</li><li>Afval en recyclage klaarzetten</li><li>Ramen en glazen wanden langs binnen</li></ul>",
-   "Wat de ontspanningshoek betreft: een tafelvoetbal of zitzak laat zich gemakkelijk afnemen. Elektronica en apparaten blijven door het team zelf beheerd."]},
-  {"h2": "Voorbeeld: een groepspraktijk van huisartsen", "p": [
-   "Een groepspraktijk van huisartsen klinkt anders dan een start-up, maar de dynamiek is dezelfde. Er komt een nieuwe collega bij, een extra consultatieruimte en een grotere wachtzaal. Het poetsplan van vorig jaar past niet meer.",
-   "Neem een start-up die een verdieping erbij huurt: ook daar verandert alles. Een vaste Zondag kan het aantal uren verhogen, de volgorde van de ruimtes aanpassen en in het weekplan opnemen wat nieuw is, zonder nieuwe afspraken met iemand die je nog niet kent."]},
-  {"h2": "Kortrijk, de deelgemeenten en de buren", "p": [
-   "Je team zit in Kortrijk, in Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke of Rollegem? Dan zoeken we een Zondag in de buurt. Ligt je kantoor in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem of Lendelede, dan kijken we ook daar. We beloven geen beschikbaarheid vooraf, we zoeken samen na je aanvraag. Meer over de stad zelf lees je op <a href=\"poetshulp/kortrijk.html\">poetshulp in Kortrijk</a>."]},
-  {"h2": "Als oprichters ook thuis hulp willen", "p": [
-   "Veel oprichters werken meer dan ze thuis zijn. Dezelfde Zondag kan daarom ook de woning doen: was, strijk, boodschappen of een gezonde schotel voor de week. Op de factuur staan het beroepsmatige en het privégedeelte apart. Zie <a href=\"bedrijven/hulp-in-huis-voor-ondernemers.html\">hulp in huis voor ondernemers</a>."]},
-  {"h2": "Facturatie en starten", "p": [
-   "Een vennootschap kan geen dienstencheques kopen. Zondags factureert met een dienstenfactuur op naam van je vennootschap, en het onderhoud van beroepsruimtes is een beroepskost. Voor het privégedeelte geldt een forfaitair voordeel van alle aard, mits regelmatige prestaties. Laat je accountant dit bevestigen voor je eigen situatie. Je start met een aanvraag, een terugbelmoment binnen één werkdag en een intake. De eerste 2 uur zijn gratis."]}
+  {
+   "h2": "Groei zonder poetsstress",
+   "p": [
+    "Wie een jong bedrijf bouwt, besteedt zijn uren aan klanten, producten en financiering. De afwas na de lunch, de volle vuilnisbak en de vergaderruimte met koffiekringen komen daar ergens onderaan. Toch is het kantoor het eerste wat een investeerder, kandidaat of klant van je zaak ziet.",
+    "Een vaste Zondag neemt dat op zich. Ze komt op een vaste dag, onderhoudt wat je bepaalt en laat de rest met rust. Naarmate je team groeit, boek je meer uren of meer blokken, zonder dat er telkens iets nieuws opgezet moet worden."
+   ]
+  },
+  {
+   "h2": "Een vast moment in een veranderend kantoor",
+   "p": [
+    "In een start-up wisselt de indeling vaker dan in een gevestigd bedrijf. Daarom bespreken we in het eerste gesprek niet alleen wat er nu gepoetst moet worden, maar ook wat er over drie maanden anders kan zijn. Je Zondag past het plan aan wanneer er een bureau bijkomt, een ruimte verhuist of een vergaderhoek wordt ingericht.",
+    "Een lijst voor wekelijks, maandelijks en jaarlijks onderhoud vind je in de <a href=\"sectoren/start-ups-checklist.html\">schoonmaakchecklist voor start-ups en scale-ups</a>."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een groepspraktijk van huisartsen als buur",
+   "p": [
+    "Neem een groepspraktijk van huisartsen in hetzelfde gebouw. De praktijk heeft een vaste openingsregeling, patiënten in de wachtzaal en een stabiel ritme. Jouw start-up heeft meer flexibiliteit, je team komt en gaat. Dat verschil zie je terug in het plan.",
+    "Bij de praktijk ligt het poetsmoment vast rond de consultaties. Bij jou kies je een dag waarop de meeste mensen aanwezig zijn, zodat de Zondag ziet wat er echt gebruikt wordt, of net een dag waarop er weinig volk is."
+   ]
+  },
+  {
+   "h2": "Wat je Zondag voor je kan doen",
+   "p": [
+    "<ul class=\"ticks\"><li>Werkplekken, vloeren en vergaderruimte</li><li>Keuken, koffiemachine en ontspanningshoek</li><li>Sanitair en onthaal</li><li>Post en pakjes verwerken</li><li>Kantoormateriaal en koffie bijhouden</li><li>Het kantoor klaarzetten voor een klantenbezoek</li></ul>",
+    "Voor de drukke bedrijfsleider zit het echte winstpunt meestal in die laatste lijnen. Meer over die rol lees je op <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">rechterhand voor bedrijfsleiders</a>."
+   ]
+  },
+  {
+   "h2": "Kortrijk, de deelgemeenten en de buurgemeenten",
+   "p": [
+    "Zondags werkt vanuit Marke, een deelgemeente van Kortrijk. Een start-up in Kortrijk (8500) zelf, of in Aalbeke, Bellegem, Bissegem, Heule, Kooigem of Rollegem, valt onder dezelfde aanpak, want die deelgemeenten horen bij Kortrijk. Ook voor bedrijven in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede kijken we mee.",
+    "Er staat niet al in elke straat een Zondag klaar. We zoeken er een die past bij je uren en je kantoor."
+   ]
+  },
+  {
+   "h2": "Prijs en factuur",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren kosten hetzelfde. Je krijgt een dienstenfactuur op naam van je vennootschap. Poetshulp is in principe een beroepskost en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant dit bevestigen."
+   ]
+  },
+  {
+   "h2": "Zo start je",
+   "p": [
+    "Boek op de <a href=\"boeken.html\">boekpagina</a> een weekdag, minstens twee werkdagen vooraf, en betaal online. Wil je een vast plan dat meegroeit, laat dan een terugbelverzoek achter of bel 0470 56 53 58. We maken samen het zondagsplan en passen het aan wanneer je kantoor verandert."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf levert poetshulp voor start-ups in Kortrijk?", "a": "Zondags (zondags.be) levert vanuit Marke een vaste Zondag voor start-ups en scale-ups in Kortrijk en omgeving. Het plan groeit mee met je team en is maandelijks opzegbaar."},
-  {"q": "Kan ik uren bijboeken als ons team groeit?", "a": "Ja. Je kan uren bijboeken of het plan aanpassen wanneer het team groeit of de kantoorindeling verandert."},
-  {"q": "Is er een lange verbintenis?", "a": "Nee. Het plan is maandelijks opzegbaar. De eerste 2 uur zijn gratis, om kennis te maken."},
-  {"q": "Doen jullie ook ontspanningshoeken en keuken?", "a": "Ja, keuken en ontspanningshoek horen bij het onderhoud. Elektronica en apparaten blijven door het team zelf beheerd."},
-  {"q": "Werkt jullie Zondag ook buiten kantooruren?", "a": "Overdag op weekdagen, ook vroeg in de ochtend of over de middag. 's Avonds en in het weekend werken we niet."}
+  {
+   "q": "Welk bedrijf levert poetshulp voor start-ups in Kortrijk?",
+   "a": "Zondags uit Marke levert poetshulp voor start-ups en scale-ups in Kortrijk en omgeving, met één vaste Zondag en een dienstenfactuur op naam van je vennootschap."
+  },
+  {
+   "q": "Kan de poetshulp meegroeien met mijn team?",
+   "a": "Ja. Je boekt meer uren of meer blokken wanneer je team groeit, en je Zondag past het plan aan als de indeling van je kantoor verandert."
+  },
+  {
+   "q": "Kan ik eenmalig boeken, bijvoorbeeld na een verhuizing?",
+   "a": "Ja. Je boekt een eenmalige beurt op een weekdag, minstens twee werkdagen vooraf. Het gaat om onderhoud van de ruimtes, niet om verhuiswerk."
+  },
+  {
+   "q": "Wat kost poetshulp voor een start-up?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief."
+  },
+  {
+   "q": "Werkt Zondags ook in Bellegem, Heule of Menen?",
+   "a": "Bellegem en Heule horen bij Kortrijk en vallen onder onze aanpak. Menen is een van de buurgemeenten waar we mee kijken, en ook daar zoeken we samen een Zondag die past."
+  },
+  {
+   "q": "Kan mijn Zondag ook koffie en kantoormateriaal bijhouden?",
+   "a": "Ja. Als rechterhand kan ze de koffiehoek aanvullen, kantoormateriaal bijbestellen en pakjes klaarmaken, naast het poetswerk."
+  }
  ]
 }

@@ -1,88 +1,89 @@
 {
  "path": "sectoren/familiebedrijven-regio-kortrijk.html",
- "title": "Poetshulp voor familiebedrijven, regio Kortrijk",
- "desc": "Poetshulp voor familiebedrijven in Kortrijk en omgeving: kantoor, refter en woning van de zaakvoerders in één plan met één vaste Zondag.",
- "eyebrow": "Kortrijk · Familiebedrijven",
+ "title": "Poetshulp voor familiebedrijven in Kortrijk",
+ "desc": "Een vaste Zondag voor kantoor en refter van je familiebedrijf in Kortrijk, de deelgemeenten en de buurgemeenten. Online boeken, 60 euro per uur exclusief btw.",
+ "eyebrow": "Familiebedrijven · Kortrijk 8500",
  "h1": "Poetshulp voor familiebedrijven in Kortrijk en omgeving",
- "lead": "In een familiebedrijf lopen zaak en gezin door elkaar. Eén vaste persoon voor kantoor, refter en woning maakt het eenvoudiger voor iedereen.",
- "answer": "Zondags (zondags.be) levert poetshulp voor familiebedrijven in Kortrijk en omgeving. Eén vaste Zondag poetst het kantoor, de refter en de woning van de zaakvoerders in één plan, overdag op weekdagen. Op de factuur op naam van de vennootschap staan het beroepsmatige en het privégedeelte apart. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk.",
+ "lead": "Een familiebedrijf in Kortrijk of de buurt waar de zaakvoerders hun tijd steken in klanten en niet in stofzuigers. Je vaste Zondag neemt het onderhoud over.",
+ "answer": "Zondags (zondags.be) onderhoudt familiebedrijven in Kortrijk en omgeving met één vaste persoon: kantoor, onthaal, refter en sanitair. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk, op weekdagen overdag. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een factuur op naam van de vennootschap.",
  "facts": [
-  "Kantoor, refter en woning in één plan",
-  "Dezelfde vaste Zondag",
-  "Overdag op weekdagen",
-  "Factuur splitst beroepsmatig en privé",
-  "Eerste 2 uur gratis"
+  "Kortrijk, deelgemeenten en buurgemeenten",
+  "Kantoor, onthaal, refter en sanitair",
+  "Steeds dezelfde Zondag",
+  "Factuur op naam van de vennootschap",
+  "60 euro per uur, per blok van 3 uur"
  ],
  "sections": [
   {
-   "h2": "Zaak en woning liggen dicht bij elkaar",
+   "h2": "Familiebedrijven in de regio Kortrijk kennen elk hoekje van hun zaak",
    "p": [
-    "In familiebedrijven rond Kortrijk ligt de zaak vaak naast of op het erf van de woning. Dat is praktisch, maar het betekent ook dat de poetshulp van de zaak en van thuis vaak door twee verschillende mensen wordt gedaan, of door niemand.",
-    "Met Zondags regel je het met één persoon en één afspraak. Dat scheelt overleg, sleutels en facturen."
+    "Een bedrijf dat al jaren in de familie zit, heeft vaak zijn eigen gewoontes: een vaste plek voor de koffie, een kast die niemand opent en een refter waar het hele team op vrijdag samen eet. Een nieuwe poetshulp die telkens anders is, past daar slecht in.",
+    "Daarom werkt een vaste Zondag beter. Ze komt op een afgesproken dag, leert die gewoontes kennen en respecteert ze. Op den duur weet ze wat je bedoelt met een korte opmerking."
    ]
   },
   {
-   "h2": "Wie in de familie wat doet",
+   "h2": "Hoe het werkt",
    "p": [
-    "Bij een tandartspraktijk met twee behandelkamers die gerund wordt door een koppel, is er vaak een duidelijke verdeling: de ene zorgt voor de praktijk, de andere voor het gezin. Stel: de wachtzaal en de behandelkamers krijgen op maandagochtend hun beurt, de woning op donderdag.",
-    "Een Zondag past zich aan die verdeling aan. Je kiest welke dag voor welke ruimte, en je kan het later bijsturen."
+    "Je boekt een eerste blok op de <a href=\"boeken.html\">boekpagina</a>, voor een weekdag en minstens twee werkdagen vooraf. Wil je een vast ritme, dan spreken we eerst kort af welke taken, dagen en uren passen en leggen we dat vast in het zondagsplan. Klikt het niet met je Zondag, dan zoeken we samen een andere."
    ]
   },
   {
-   "h2": "Een voorbeeld van een week",
+   "h2": "Overdag, wanneer het rustig is",
    "p": [
-    "<ul class=\"ticks\"><li>Maandag: wachtzaal, onthaal en behandelkamers</li><li>Woensdag: kantoor en refter voor de medewerkers</li><li>Donderdag: de woning, met was en strijk</li><li>Vrijdag: boodschappen of een schotel voor het weekend</li></ul>"
+    "Zondags werkt overdag, op weekdagen. Vroeg in de ochtend is voor veel familiebedrijven het meest praktisch: het team komt binnen in een opgeruimd kantoor. Over de middag kan ook, bijvoorbeeld wanneer de werkploeg buiten is. Avonden en weekends zijn uitgesloten."
    ]
   },
   {
-   "h2": "Kortrijk, de deelgemeenten en de buurgemeenten",
+   "h2": "Kortrijk en de deelgemeenten",
    "p": [
-    "Kortrijk heeft postcode 8500. Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem horen bij Kortrijk. Zondags is gevestigd in Marke. We zoeken ook Zondags in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede. Daardoor woont je Zondag meestal in de buurt en kan een vast uur makkelijk gehouden worden. Meer lees je op <a href=\"poetshulp/kortrijk.html\">poetshulp in Kortrijk</a>."
+    "We zijn actief in Kortrijk, postcode 8500, en in de deelgemeenten Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem. Ligt je zaak langs een steenweg, in een bedrijfsunit of in een dorpskern, dan blijft het principe gelijk: een vaste dag en een vaste persoon."
    ]
   },
   {
-   "h2": "Wanneer er gepoetst wordt",
+   "h2": "In de buurgemeenten",
    "p": [
-    "Overdag op weekdagen: vroeg in de ochtend of over de middag. Nooit 's avonds en nooit in het weekend. Past dat niet bij je ritme, dan bespreken we een andere dag of een ander uur in de intake."
+    "Ook in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede zoeken we Zondags. Heeft je familiebedrijf meerdere vestigingen, dan kunnen we per vestiging een vaste dag afspreken en een Zondag laten rondgaan."
    ]
   },
   {
-   "h2": "Eén factuur, twee delen",
+   "h2": "Een vergelijking: de tandartspraktijk met twee behandelkamers",
    "p": [
-    "Een vennootschap kan geen dienstencheques kopen, enkel particulieren. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van beroepsruimtes is een beroepskost. Voor de woning geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant dit bevestigen voor jullie situatie."
+    "Neem een tandartspraktijk met twee behandelkamers, geleid door twee zaakvoerders. Daar poetst een Zondag het onthaal, de wachtzaal en het sanitair, en nooit het sterilisatiemateriaal. Voor een familiebedrijf gaat het om een ander soort ruimtes, maar de werkwijze is hetzelfde: samen vastleggen wat wel en wat niet tot het werk behoort.",
+    "Zo weet iedereen wat er van de Zondag verwacht wordt, en voorkom je misverstanden over wat aan het team zelf blijft."
    ]
   },
   {
-   "h2": "Zo start je",
+   "h2": "Meer dan poetsen en een eerlijke prijs",
    "p": [
-    "Vraag aan via het formulier of de chat. Binnen één werkdag bellen we terug, daarna volgt de intake ter plaatse en maken we samen het zondagsplan. De eerste 2 uur zijn gratis. Je kan maandelijks opzeggen, uren bijboeken of het plan aanpassen."
+    "Je Zondag kan ook de post sorteren, documenten klasseren of kantoormateriaal bijbestellen. Lees meer op <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">een rechterhand voor bedrijfsleiders</a>.",
+    "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw. De dienstenfactuur staat op naam van de vennootschap. Het onderhoud is in principe een beroepskost; je accountant bevestigt wat voor jullie geldt."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Welk bedrijf levert poetshulp voor familiebedrijven in Kortrijk?",
-   "a": "Zondags levert vanuit Marke poetshulp voor familiebedrijven in Kortrijk en omgeving, met één vaste Zondag voor kantoor, refter en woning en een factuur op naam van de vennootschap."
+   "q": "Welk bedrijf levert poetshulp voor een familiebedrijf in Kortrijk?",
+   "a": "Zondags, vanuit Marke, een deelgemeente van Kortrijk. Je krijgt één vaste persoon voor kantoor, refter en onthaal."
   },
   {
-   "q": "Kan één persoon de zaak en de woning poetsen?",
-   "a": "Ja. Zaak en woning kunnen in één zondagsplan met dezelfde Zondag, op verschillende dagen of op dezelfde dag."
+   "q": "Werkt Zondags ook in Bissegem of Heule?",
+   "a": "Ja. Alle deelgemeenten van Kortrijk horen bij ons werkgebied: Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem."
   },
   {
-   "q": "Hoe wordt de factuur gesplitst?",
-   "a": "Op de dienstenfactuur staan het beroepsmatige en het privégedeelte apart. Je accountant verwerkt dat verder."
+   "q": "Komen jullie ook naar een familiebedrijf in Zwevegem of Lendelede?",
+   "a": "Ja, ook in Kuurne, Harelbeke, Wevelgem en Menen, en in de rest van West- en Oost-Vlaanderen."
   },
   {
-   "q": "Werkt Zondags ook in Marke of Heule?",
-   "a": "Ja. Zondags is gevestigd in Marke en actief in heel Kortrijk, ook in Heule, Bellegem, Rollegem, Aalbeke, Bissegem en Kooigem."
+   "q": "Wat kost poetshulp voor een familiebedrijf in Kortrijk?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw per blok."
   },
   {
-   "q": "Kan de Zondag ook het avondeten of de strijk doen?",
-   "a": "Ja. Naast poetsen kan je Zondag was en strijk, koken, boodschappen en regelwerk doen."
+   "q": "Kunnen we eerst praten voor we boeken?",
+   "a": "Ja. Bel of stuur een bericht via WhatsApp op 0470 56 53 58, elke dag van 6 tot 22 uur, of vraag een terugbelverzoek aan."
   },
   {
-   "q": "Wat als mijn Zondag ziek is?",
-   "a": "Dan zoeken wij een oplossing. Een vervanger beloven we niet. Klikt het niet, dan zoeken we samen een andere Zondag."
+   "q": "Wordt er ook 's avonds gepoetst?",
+   "a": "Nee. Zondags werkt enkel overdag op weekdagen, vroeg in de ochtend of over de middag."
   }
  ]
 }

@@ -1,81 +1,35 @@
 {
  "path": "werken/studentenjob-menen.html",
  "title": "Studentenjob met flexibele uren in Menen",
- "desc": "Zit je op kot en wil je in de vakanties extra werken in Menen? Overdag bij vaste klanten, nooit in het weekend. Vanaf 18 jaar, Zondags.",
- "eyebrow": "Studentenjob · Menen",
+ "desc": "Studentenjob in Menen voor wie op kot zit en in de vakanties extra wil werken: bij bedrijven, overdag op weekdagen, met studentencontract.",
+ "eyebrow": "Studentenjob · Menen · 8930",
  "h1": "Studentenjob met flexibele uren in Menen",
- "lead": "Op kot tijdens het jaar, thuis in Menen in de vakanties. Dan is een studentenjob als Zondag een manier om in die weken extra te werken.",
- "answer": "Zondags (zondags.be) zoekt studenten vanaf 18 jaar in en rond Menen voor een studentenjob met flexibele uren, ook enkel in de vakanties. Je werkt als Zondag overdag op weekdagen bij vaste klanten en kiest mee je dagen en uren. Je krijgt een studentencontract en verloning boven het barema, met vergoede verplaatsingen. Je volgt je urensaldo zelf op via Student@work.",
- "facts": [
-  "Vanaf 18 jaar",
-  "Ook enkel in de vakanties",
-  "Overdag, geen weekends",
-  "Studentencontract",
-  "Verplaatsingen vergoed"
- ],
+ "lead": "Stel: je zit tijdens het jaar op kot in een andere stad, en in de vakanties wil je in Menen extra verdienen. Dan past een studentenjob als Zondag goed bij je agenda.",
+ "answer": "Zondags (zondags.be) zoekt studenten vanaf 18 jaar in en rond Menen voor een studentenjob met flexibele uren. Je werkt als Zondag overdag op weekdagen bij bedrijven zoals kantoren, praktijken en winkels, en doet poetswerk, administratieve hulp of praktisch regelwerk. Je kan vooral in de vakanties werken, of tijdens het jaar op vaste momenten. Je krijgt een studentencontract, en je verplaatsingen worden vergoed.",
+ "facts": ["Vanaf 18 jaar", "Ook enkel in de vakanties", "Studentencontract via Student@work", "Overdag op weekdagen", "Klanten zijn bedrijven in en rond Menen", "Verplaatsingen vergoed"],
  "sections": [
-  {
-   "h2": "Stel: je zit op kot",
-   "p": [
-    "Stel: je zit tijdens het academiejaar op kot en je komt in de vakanties terug naar Menen. Dan heb je tijd, en je wil die benutten. Je wil geen job waarin je eerst weken moet inwerken om dan af te haken wanneer de lessen weer starten.",
-    "Bij Zondags kan je enkel in de vakantiemaanden werken. We zoeken klanten die precies dan hulp nodig hebben, zoals gezinnen met kinderen thuis of ondernemers die zelf op vakantie gaan."
-   ]
-  },
-  {
-   "h2": "Een week in de vakantie",
-   "p": [
-    "Neem een week in de zomer. Op maandag poets je het huis van een gezin en doe je de was. Op dinsdag en donderdag haal je kinderen op van de opvang en maak je een maaltijd klaar. Op woensdag ga je boodschappen doen voor een ondernemer en houd je de woning bij.",
-    "Je werkt telkens bij dezelfde klanten en op dezelfde dagen. In het weekend en 's avonds blijft je vrije tijd gewoon van jou, ook als je in de vakantie extra werkt."
-   ]
-  },
-  {
-   "h2": "Als je terug op kot zit",
-   "p": [
-    "Ga je terug naar je kot, dan stopt het niet per se. Je kan afspreken dat je tijdens het jaar af en toe op een vrije weekdag werkt, of tijdens een lange pauze. Dat beslis je samen met ons en met je klanten. Zo vermijd je dat je klanten telkens wisselen.",
-    "We vragen niet meer dan wat je kan.",
-    "Zo blijft de vakantiejob een aangenaam deel van je zomer, en geen verplichting die je overal achtervolgt."
-   ]
-  },
-  {
-   "h2": "Het werk zelf",
-   "p": [
-    "<ul class=\"ticks\"><li>Huishouden en poetsen</li><li>Was en strijk</li><li>Koken en boodschappen</li><li>Kinderen ophalen en opvangen</li><li>Hond uitlaten en licht tuinwerk</li></ul>",
-    "Je kiest mee wat je graag doet. Technische klussen en werken op hoogte horen er niet bij. Een diploma of ervaring is niet nodig, wel betrouwbaarheid en zorg voor andermans huis."
-   ]
-  },
-  {
-   "h2": "In Menen, Lauwe en Rekkem",
-   "p": [
-    "We zoeken Zondags in en rond Menen (8930). Lauwe en Rekkem zijn deelgemeenten van Menen. Woon je in Wevelgem, Wervik of Geluwe, dan zoeken we klanten dicht bij je thuis. Een overzicht van het werk staat op <a href=\"jobs/huishoudhulp-menen.html\">huishoudhulp in Menen</a>."
-   ]
-  },
-  {
-   "h2": "Solliciteren",
-   "p": [
-    "Vul het formulier in, chat met ons of app naar 0470 56 53 58. We bellen je binnen de twee werkdagen. Klikt het, dan zoeken we klanten die bij je vakanties passen en gaan we bij de start samen langs. Lees ook <a href=\"jobs/studentenjob-flexibele-uren.html\">studentenjob met flexibele uren</a>."
-   ]
-  }
+  {"h2": "Werken in Menen terwijl je elders studeert", "p": [
+   "Veel studenten wonen in de weken van het academiejaar op kot en komen alleen terug op vaste momenten. Dan is een bijbaan met wekelijkse verplichtingen onmogelijk. Bij Zondags spreken we daarom af wat jij kan: enkel in de zomer, enkel in de kerst- en paasvakantie, of op een paar vaste weekdagen als je toch in de buurt bent.",
+   "Ben je tijdens het jaar niet in Menen, dan laten we dat zo. Je krijgt geen uren opgedrongen, en je rooster ligt vast op de momenten die je zelf kiest."]},
+  {"h2": "Een vakantieplanning als voorbeeld", "p": [
+   "Neem een student die in juli en augustus terug is. De ene week werkt ze vier voormiddagen, de volgende week twee volledige dagen. Bij een kantoor poetst ze de vergaderzaal en de refter, bij een praktijk onderhoudt ze de wachtzaal en bij een zaakvoerder zet ze pakjes klaar.",
+   "Omdat ze de klanten kent, is de overgang van week naar week eenvoudig. Dat is het voordeel van steeds dezelfde plek: je weet waar het materiaal staat en wat de klant verwacht."]},
+  {"h2": "Taken en klanten", "p": [
+   "Je klanten zijn altijd bedrijven: kantoren, praktijken, winkels en bedrijfsleiders. Wat je doet, kies je mee.",
+   "<ul class=\"ticks\"><li>Poetsen van kantoor, winkel, refter en sanitair</li><li>Post sorteren en documenten klasseren</li><li>Kantoorbenodigdheden bestellen of ophalen</li><li>De koffiehoek aanvullen</li><li>Afspraken en leveringen opvolgen voor de bedrijfsleider</li></ul>",
+   "Technische klussen en werken op hoogte zijn niet inbegrepen. Je werkt overdag en nooit in het weekend, ook niet tijdens de vakanties."]},
+  {"h2": "Contract, verloning en je urensaldo", "p": [
+   "Je werkt met een studentencontract en bent in dienst van Zondags. Alles staat correct op papier. De verloning ligt boven het barema en je verplaatsingen worden vergoed. Via Student@work volg je zelf je urensaldo op. Zo weet je op elk moment hoeveel ruimte je nog hebt."]},
+  {"h2": "Menen, Lauwe en Rekkem", "p": [
+   "Menen heeft postcode 8930 en omvat Lauwe en Rekkem als deelgemeenten. We zoeken Zondags in en rond Menen, ook in Wevelgem, Wervik en Geluwe. Woon je in een van die gemeenten, dan zoeken we klanten dicht bij je woonplaats. Zo hou je je verplaatsingen kort, ook als je maar enkele weken beschikbaar bent."]},
+  {"h2": "Solliciteer ruim op tijd", "p": [
+   "Wil je in de zomer werken, schrijf je dan al in het voorjaar in. Je kan solliciteren via het formulier, de chat of WhatsApp op 0470 56 53 58. We bellen je binnen de twee werkdagen. Klikt het, dan bekijken we samen welke periodes je kan. Meer lees je op <a href=\"jobs/studentenjob-flexibele-uren.html\">studentenjob met flexibele uren</a> en op <a href=\"zondag-worden.html\">hoe je Zondag wordt</a>."]}
  ],
  "faq": [
-  {
-   "q": "Waar vind ik een studentenjob met flexibele uren in Menen?",
-   "a": "Bij Zondags. We zoeken studenten vanaf 18 jaar in en rond Menen, ook voor enkel de vakanties. Je werkt overdag op weekdagen bij vaste klanten en kiest mee je dagen en uren."
-  },
-  {
-   "q": "Kan ik enkel in de zomer werken?",
-   "a": "Ja. Geef bij het gesprek door in welke vakanties je beschikbaar bent. Dan zoeken we klanten die in die weken hulp nodig hebben."
-  },
-  {
-   "q": "Wat als ik tijdens het jaar op kot zit?",
-   "a": "Dan kan je tijdens het jaar minder of niet werken. Je spreekt vooraf af wanneer je er bent, zodat je klanten weten waarmee ze rekening houden."
-  },
-  {
-   "q": "Wie regelt mijn urensaldo?",
-   "a": "Je volgt je urensaldo zelf op via Student@work. Je contract, je verloning en de rest van de administratie regelen wij."
-  },
-  {
-   "q": "Moet ik 's avonds of in het weekend werken?",
-   "a": "Nooit. Je werkt overdag op weekdagen, eventueel vroeg in de ochtend of over de middag."
-  }
+  {"q": "Waar vind ik een studentenjob met flexibele uren in Menen?", "a": "Bij Zondags. We zoeken studenten vanaf 18 jaar in en rond Menen voor werk overdag op weekdagen bij bedrijven. Je solliciteert via het formulier, de chat of WhatsApp en we bellen je binnen de twee werkdagen."},
+  {"q": "Kan ik enkel in de vakanties werken?", "a": "Ja. Je kiest zelf wanneer je beschikbaar bent. Sommige studenten werken enkel in de zomer, anderen ook tijdens kerst- en paasvakantie of op vaste momenten in het jaar."},
+  {"q": "Wat als ik tijdens het jaar op kot zit?", "a": "Dan plannen we je niet in op momenten dat je er niet bent. Je kiest samen met ons wanneer je in Menen kan zijn, en je rooster blijft vast op die momenten."},
+  {"q": "Werk ik voor bedrijven of voor mensen?", "a": "Altijd voor bedrijven: kantoren, praktijken, winkels en bedrijfsleiders in en rond Menen. Je werkt overdag in een bedrijfsruimte."},
+  {"q": "Hoe weet ik hoeveel ik nog mag werken als student?", "a": "Je volgt zelf je urensaldo op via Student@work. Zo kan je op elk moment zien hoeveel ruimte je nog hebt."}
  ]
 }

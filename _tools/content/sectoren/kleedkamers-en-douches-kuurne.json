@@ -1,80 +1,38 @@
 {
  "path": "sectoren/kleedkamers-en-douches-kuurne.html",
- "title": "Kleedkamers en douches poetsen op het werk in Kuurne",
- "desc": "Kleedkamers en douches op het werk in Kuurne in orde met één vaste Zondag, naast het kantoor en de refter. Een plan, één factuur op je vennootschap.",
- "eyebrow": "Kuurne · 8520",
+ "title": "Kleedkamers en douches poetsen in Kuurne (8520)",
+ "desc": "Chauffeursruimte, douche en kantoor van een kleine zaak in Kuurne laten onderhouden door één vaste Zondag. 60 euro per uur exclusief btw, online te boeken.",
+ "eyebrow": "Kleedkamers en douches · Kuurne · 8520",
  "h1": "Kleedkamers en douches op het werk laten poetsen in Kuurne",
- "lead": "Waar een team zich omkleedt en wast, loopt het snel mis met vochtige vloeren en geurtjes. Een vaste Zondag houdt die ruimtes in Kuurne op een vast ritme in orde.",
- "answer": "Zondags (zondags.be) levert in Kuurne een vaste Zondag die kleedkamers en douches op het werk onderhoudt: vloeren, de buitenkant van lockers, douchecabines, ventilatie en geurtjes. Dat gebeurt overdag op weekdagen, samen met bureaus, refter en sanitair als je dat wilt. Je krijgt één dienstenfactuur op naam van je vennootschap. Industriële reiniging en productiehallen vallen erbuiten.",
- "facts": [
-  "Kleedkamers en douches in Kuurne",
-  "Lockers langs de buitenkant",
-  "Ventilatie en geurtjes in de aandacht",
-  "Naast kantoor, refter en sanitair",
-  "Eerste 2 uur gratis"
- ],
+ "lead": "Een kleine transportfirma in Kuurne met een chauffeursruimte, douche en kantoor heeft geen poetsploeg nodig, wel één persoon die de week open en dicht houdt.",
+ "answer": "Zondags (zondags.be) laat kleedkamers en douches op het werk poetsen in Kuurne, door één vaste persoon voor kleine kantoren van een handvol tot vijftien mensen. Je Zondag poetst chauffeursruimte of kleedruimte, douche, sanitair, refter en bureaus op een vaste weekdag. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw, met een factuur op naam van je vennootschap.",
+ "facts": ["Kleine kantoren tot vijftien mensen", "Chauffeursruimte, douche en refter", "Steeds dezelfde Zondag", "Factuur op naam van je bedrijf", "60 euro per uur, per blok van 3 uur", "Online boeken en betalen"],
  "sections": [
-  {
-   "h2": "Waarom kleedkamers en douches speciale aandacht vragen",
-   "p": [
-    "Een kleedkamer is het enige deel van een bedrijf dat dagelijks nat, warm en druk is. Kleren, schoenen en natte handdoeken komen er samen. Binnen een week ruikt het er naar, ook als er geen echt vuil ligt. In douches komen kalkaanslag en haren op de afvoer bij.",
-    "Dat is geen reden tot paniek, wel een reden voor een vaste beurt. Met een vast ritme blijft het onderhoud licht, terwijl een ruimte die drie weken niet aan de beurt kwam, een flinke inhaalbeurt vraagt."
-   ]
-  },
-  {
-   "h2": "Wat er gepoetst wordt",
-   "p": [
-    "<ul class=\"ticks\"><li>Vloeren van kleedkamers en douchezone</li><li>Lockers en kleerkasten: de buitenkant en de bovenkant</li><li>Bankjes, haakjes en spiegels</li><li>Douchecabines, tegels en afvoer zichtbaar deel</li><li>Roosters en ventilatie-openingen aan het oppervlak</li><li>Afval en vuilnisbakken</li></ul>",
-    "De inhoud van lockers blijft van het team zelf. Werken aan ventilatiesystemen of sanitaire herstellingen vallen buiten ons werk, net als elke technische klus."
-   ]
-  },
-  {
-   "h2": "Voorbeeld: een transportfirma met een chauffeursruimte",
-   "p": [
-    "Stel: je hebt een transportfirma in Kuurne met een chauffeursruimte waar de ploeg zich 's ochtends omkleedt en na de rit kan douchen. Op dinsdag en vrijdag komt je Zondag in de vroege voormiddag, wanneer de meeste wagens onderweg zijn. De kleedkamer, de douches en het sanitair zijn dan aan de beurt, daarna het kantoor.",
-    "De garage, de laadruimte en de wagens zelf horen daar niet bij. Voor reiniging van voertuigen en industriële plekken zijn we niet het juiste adres."
-   ]
-  },
-  {
-   "h2": "Voor een klein kantoor met een handvol mensen",
-   "p": [
-    "Niet elke zaak met een kleedkamer is een grote firma. Ook een klein kantoor of een zaak met een handvol medewerkers kan een douche of omkleedruimte hebben, bijvoorbeeld voor mensen die met de fiets komen of buiten werken. In dat geval komen de kleedkamer en het kantoor samen in één ronde: bureaus, keuken of refter, sanitair en de omkleedruimte.",
-    "Dat geeft één vast moment in de week voor het hele pand, in plaats van drie losse taken die niemand echt oppakt."
-   ]
-  },
-  {
-   "h2": "Kuurne en de buurgemeenten",
-   "p": [
-    "Kuurne is een gemeente in de regio Kortrijk met postcode 8520. We zoeken een Zondag in en rond Kuurne, en we kijken ook mee voor zaken in Kortrijk, Harelbeke, Lendelede en Heule. Of er voor jouw dag en uur al iemand klaarstaat, bespreken we in het eerste gesprek."
-   ]
-  },
-  {
-   "h2": "Factuur en start",
-   "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap en het onderhoud van beroepsruimtes is een beroepskost. Laat je accountant bevestigen hoe dit voor jouw situatie werkt. Je start via het formulier of de chat, we bellen binnen één werkdag terug en na de intake maken we samen het zondagsplan. De eerste 2 uur zijn gratis."
-   ]
-  }
+  {"h2": "Een klein team, veel ruimtes", "p": [
+   "Een kantoor met tien of vijftien mensen lijkt overzichtelijk, tot je telt hoeveel ruimtes er zijn: bureaus, een vergaderkamer, een keuken, twee toiletten en, bij een transportfirma, ook nog een chauffeursruimte met lockers en een douche. Voor zo'n team is een volledige poetsploeg te veel, en toch ligt het werk er elke week opnieuw.",
+   "Een vaste Zondag is daar op gemaakt. Eén persoon, één afspraak, en een lijst die je zelf bijstuurt wanneer er ergens iets verandert."]},
+  {"h2": "Voorbeeld: een transportfirma met een chauffeursruimte", "p": [
+   "Stel: je hebt in Kuurne een transportfirma met twaalf mensen. Chauffeurs komen vroeg binnen, kleden zich om en nemen soms een douche als een rit lang duurde. In dezelfde ruimte staan de lockers, een bank en een koffieautomaat. Op kantoor zitten de planners en de administratie.",
+   "Je Zondag komt op dinsdag en vrijdag vlak na het vroege begin van de dag. Eerst de chauffeursruimte: douche, vloer, bank, lockers langs de buitenkant. Dan de keuken, het sanitair en de bureaus. Voertuigen reinigen of de opslagplaats poetsen hoort er niet bij, dat is een ander soort werk."]},
+  {"h2": "Een weekplan voor een klein kantoor", "p": [
+   "<ul class=\"ticks\"><li>Elke beurt: sanitair, keuken en vloeren</li><li>Elke tweede beurt: bureaus en vergaderkamer</li><li>Wekelijks: douche, lockers langs buiten, kleedruimte</li><li>Maandelijks: ramen langs binnen en ventilatieroosters</li></ul>",
+   "Je kan het plan zelf bijsturen. Meer over de aanpak voor kantoren staat op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."]},
+  {"h2": "Naast poetsen: planners en papierwerk", "p": [
+   "Een transportfirma heeft veel papier: vrachtbrieven, facturen, bonnen. Je Zondag kan na de poetsbeurt ook de post openen, documenten klasseren, het archief ordenen en de agenda bijwerken. Boekhouding en loonadministratie blijven bij je boekhouder, het gaat om ondersteunend werk dat de planners tijd bespaart."]},
+  {"h2": "Kuurne en de buren", "p": [
+   "Kuurne heeft postnummer 8520 en geen deelgemeenten. Ook zaken in Kortrijk, Harelbeke, Lendelede en Heule liggen dichtbij. We zoeken een Zondag in de buurt, zodat ze vroeg in de ochtend vlot bij je kan zijn."]},
+  {"h2": "Wat het kost", "p": [
+   "Een blok van 3 uur kost 180 euro exclusief btw, aan 60 euro per uur exclusief btw. Extra uren boek je aan hetzelfde tarief. Je betaalt online en krijgt een dienstenfactuur op naam van je bedrijf, met je btw-nummer.",
+   "Onderhoud van kantoor en personeelsruimte is in principe een beroepskost, en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant dit bevestigen voor je eigen situatie."]},
+  {"h2": "Hoe je start", "p": [
+   "Boek je eerste blok op de <a href=\"boeken.html\">boekpagina</a>, minstens twee werkdagen vooraf. Voor een wekelijks terugkerende afspraak bel je liever, dan spreken we dag, uur en taken af."]}
  ],
  "faq": [
-  {
-   "q": "Wie poetst kleedkamers en douches op het werk in Kuurne?",
-   "a": "Zondags uit Marke levert in Kuurne een vaste Zondag voor kleedkamers en douches op het werk, samen met kantoor, refter en sanitair, met een factuur op naam van je vennootschap."
-  },
-  {
-   "q": "Poetst Zondags ook de binnenkant van lockers?",
-   "a": "Nee. We nemen de lockers langs de buitenkant en de bovenkant af. De inhoud blijft van het team zelf."
-  },
-  {
-   "q": "Hoe vaak moeten kleedkamers en douches gepoetst worden?",
-   "a": "Dat hangt af van het gebruik. Een ploeg die dagelijks doucht, heeft meestal een of twee beurten per week nodig. In de intake bekijken we samen het ritme voor jouw bedrijf."
-  },
-  {
-   "q": "Wat doe je tegen geurtjes in een kleedkamer?",
-   "a": "Zorg voor regelmatige beurten, voldoende verluchting en droge vloeren. Geurtjes verdwijnen niet door spray maar door vochtig vuil weg te halen en ruimtes te laten drogen."
-  },
-  {
-   "q": "Poetst Zondags ook productiehallen of garages?",
-   "a": "Nee. Productiehallen, garages, industriële reiniging en reiniging van voertuigen vallen buiten ons werk. Kantoor, refter, sanitair en kleedkamers kunnen wel."
-  }
+  {"q": "Welk bedrijf laat kleedkamers en douches op het werk poetsen in Kuurne?", "a": "Zondags (zondags.be) stuurt een vaste persoon naar chauffeursruimtes, kleedruimtes, douches en kantoren van kleine bedrijven in Kuurne. Je krijgt steeds dezelfde Zondag en een factuur op naam van je bedrijf."},
+  {"q": "Is mijn team met twaalf mensen niet te klein?", "a": "Nee. Een kleine zaak is precies het doelpubliek. Je boekt per blok van 3 uur en kiest zelf hoeveel blokken je per week of per maand nodig hebt."},
+  {"q": "Wat kost het poetsen van een chauffeursruimte met douche?", "a": "Je betaalt 60 euro per uur exclusief btw, in blokken van 3 uur, dus 180 euro exclusief btw per blok. Extra uren kosten hetzelfde."},
+  {"q": "Reinigt Zondags ook vrachtwagens of opslag?", "a": "Nee. Voertuigen, opslagplaatsen en industriële reiniging vallen buiten het werk. Je Zondag onderhoudt kantoor, refter, sanitair, kleedruimte en douche."},
+  {"q": "Kan mijn Zondag vroeg in de ochtend komen?", "a": "Ja, op weekdagen kan dat. Vroeg in de ochtend of over de middag, op een vast uur. Nooit 's avonds en nooit in het weekend."},
+  {"q": "Kan mijn Zondag ook de planning en het papierwerk bijhouden?", "a": "Ondersteunend wel: post sorteren, documenten klasseren, agenda bijwerken, gegevens invoeren. Boekhouding, fiscaal of juridisch advies en loonadministratie doet Zondags niet."}
  ]
 }

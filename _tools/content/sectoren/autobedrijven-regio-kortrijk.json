@@ -1,84 +1,92 @@
 {
+ "path": "sectoren/autobedrijven-regio-kortrijk.html",
+ "title": "Poetshulp voor garages en autobedrijven in Kortrijk",
+ "desc": "Showroom, verkoopkantoor, wachtruimte en sanitair van je garage of autobedrijf in Kortrijk en omgeving, onderhouden door één vaste Zondag.",
+ "eyebrow": "Autobedrijven · Kortrijk · 8500",
+ "h1": "Poetshulp voor garages en autobedrijven in Kortrijk en omgeving",
+ "lead": "Je verkoopt en herstelt wagens, en je klant verwacht een showroom die klopt. In Kortrijk en omgeving houdt één vaste Zondag de klantenzones in orde.",
+ "answer": "Zondags (zondags.be), gevestigd in Marke, een deelgemeente van Kortrijk, levert poetshulp voor garages en autobedrijven in Kortrijk en omgeving. Eén vaste Zondag onderhoudt showroom, verkoopkantoor, klantenonthaal, wachtruimte en sanitair, overdag op weekdagen. De werkplaats en het reinigen van wagens horen er niet bij. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een factuur op naam van je vennootschap.",
+ "facts": [
+  "Showroom, verkoopkantoor, wachtruimte",
+  "Klantenonthaal en sanitair",
+  "Geen werkplaats of wagens",
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
  "sections": [
   {
-   "h2": "Waar een garage poetshulp nodig heeft",
+   "h2": "Het eerste wat een klant ziet",
    "p": [
-    "Een garage heeft twee werelden. Achteraan is de werkplaats, met olie, gereedschap en banden. Vooraan staat de showroom, met glanzende wagens, een balie, een zitgedeelte en een koffiemachine. Alleen de voorkant bepaalt hoe klanten je zaak ervaren voor ze een woord hebben gewisseld.",
-    "Die voorkant onderhouden we. Voor de werkplaats, het wassen van wagens of de reiniging van vloeren vol olie zoek je een gespecialiseerd bedrijf. Dat zeggen we meteen, zodat je weet waar we staan."
+    "Een klant die je garage binnenstapt, loopt eerst door de showroom of langs de balie. De werkplaats ziet hij pas later, en vaak helemaal niet. Dat betekent dat de zones voor klanten het gezicht van je bedrijf zijn, ook als de technische kant ongemeen goed in orde is.",
+    "Een vaste Zondag houdt die zones op peil. Dezelfde persoon, op dezelfde dag en hetzelfde uur, met dezelfde aandacht voor glas, vloer en sanitair. Jij concentreert je op verkoop en herstellingen."
    ]
   },
   {
-   "h2": "Wat een Zondag in de showroom doet",
+   "h2": "Wat er aan bod komt",
    "p": [
-    "<ul class=\"ticks\"><li>Vloer van de showroom stofzuigen of dweilen<li>Balie en verkoopkantoor afnemen<li>Wachtruimte: stoelen, tafeltjes, koffiehoek<li>Glazen wanden en deuren langs binnen<li>Sanitair voor klanten en personeel<li>Personeelskeuken of refter</li></ul>",
-    "De wagens zelf blijven ongemoeid, behalve dat je Zondag er voorzichtig omheen werkt. Wat je liever niet verplaatst ziet, wijs je aan bij de intake."
+    "<ul class=\"ticks\"><li>Showroom: vloer en glazen wanden</li><li>Verkoopkantoor en vergadertafel</li><li>Klantenonthaal en balie</li><li>Wachtruimte en koffiehoek</li><li>Sanitair voor klanten en personeel</li><li>Afval en recyclage buiten zetten</li></ul>",
+    "De werkplaats, de reiniging van wagens en alles wat met olie of banden te maken heeft, vallen erbuiten. Een lijst per week, maand en jaar staat in de <a href=\"sectoren/autobedrijven-checklist.html\">schoonmaakchecklist voor garages en autobedrijven</a>."
    ]
   },
   {
-   "h2": "Voorbeeld: een kapsalon in de dorpskern als vergelijking",
+   "h2": "Voorbeeld: een kapsalon in de dorpskern",
    "p": [
-    "Neem een kapsalon in een dorpskern: klein, dicht bij de klant, met een vaste openingstijd waarvoor alles klaar moet zijn. Een garage is groter en ziet er anders uit, maar de logica is dezelfde. Wie klanten ontvangt, wil dat de ruimte er voor de openingstijd klaar uitziet. Daarom komt je Zondag vroeg in de ochtend, voor het onthaal bemand wordt, en niet in de middagdrukte."
+    "Neem een kapsalon in de dorpskern van een deelgemeente als Heule of Bellegem. Elke klant ziet er de hele tijd de zaak: de stoelen, de spiegels, de wachtruimte. Het gevoel van verzorging is er het product.",
+    "Voor een garage speelt hetzelfde, op een andere schaal. De klant kijkt naar de showroom, de balie en het toilet voor hij op je technische kwaliteit oordeelt. Beide bedrijven hebben dus baat bij een vast, voorspelbaar poetsmoment."
    ]
   },
   {
-   "h2": "Wanneer er gepoetst wordt",
+   "h2": "Wanneer het werk gebeurt",
    "p": [
-    "Een garage heeft zijn drukste momenten bij het ophalen en afleveren van wagens. Poetsen doen we dus vroeg in de ochtend of over de middag, op weekdagen. 's Avonds en in het weekend werken we niet. In een drukke maand, zoals bij een nieuw model of een open deur, kan je extra uren boeken of een losse opdracht aanvragen."
+    "Zondags werkt overdag op weekdagen, nooit 's avonds en nooit in het weekend. Voor een garage past vroeg in de ochtend vaak het best: de showroom is leeg en klaar op het moment dat de eerste klant binnenkomt. Over de middag kan ook, als het in de werkplaats even rustig is."
    ]
   },
   {
    "h2": "Kortrijk, de deelgemeenten en de buurgemeenten",
    "p": [
-    "Zondags is gevestigd in Marke, een deelgemeente van Kortrijk. We werken in Kortrijk en in Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem. Ook voor garages in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede zoeken we een Zondag in en rond die gemeenten. Alle details over de stad vind je op <a href=\"poetshulp/kortrijk.html\">poetshulp in Kortrijk</a>, en de algemene sectorpagina staat op <a href=\"sectoren/autobedrijven.html\">poetshulp voor autobedrijven</a>."
+    "Vanuit Marke, een deelgemeente van Kortrijk, bedienen we garages in Kortrijk (8500) en in Aalbeke, Bellegem, Bissegem, Heule, Kooigem en Rollegem. Die deelgemeenten horen bij Kortrijk. Autobedrijven in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede kunnen ook een aanvraag doen.",
+    "Of er al een Zondag in jouw straat woont, weten we pas na je aanvraag. Samen zoeken we iemand die bij je uren past. Een overzicht van de regio vind je op <a href=\"poetshulp/kortrijk.html\">poetshulp voor bedrijven in Kortrijk</a>."
    ]
   },
   {
-   "h2": "Zaak en woning in één plan",
+   "h2": "Tarief en administratie",
    "p": [
-    "Veel garagisten wonen vlak naast hun zaak. Je Zondag kan dan ook je woning doen, met één vaste persoon voor twee adressen. Op de factuur staan beroepsmatig en privé apart. Een vennootschap kan geen dienstencheques kopen. Het onderhoud van beroepsruimtes is een beroepskost. Laat je accountant bevestigen hoe je het boekt en wat de btw betekent."
+    "Eén tarief, geen verrassingen: 60 euro per uur exclusief btw. Een blok duurt 3 uur en kost dus 180 euro exclusief btw. Heb je een extra uur nodig, dan tel je er 60 euro exclusief btw bij. De dienstenfactuur komt op naam van je vennootschap.",
+    "De zorg voor je showroom noemen boekhouders in principe een beroepskost. Een btw-plichtige zaak met aftrekrecht kan de btw in principe recupereren. Vraag het toch even aan je accountant."
    ]
   },
   {
-   "h2": "Starten",
+   "h2": "Aan de slag",
    "p": [
-    "Je vraagt een gesprek aan, we bellen binnen één werkdag terug, komen langs voor de intake en maken samen het zondagsplan op. De eerste 2 uur zijn gratis."
+    "Ga naar de <a href=\"boeken.html\">boekpagina</a>, kies een weekdag minstens twee werkdagen vooraf en betaal met kaart of Bancontact. Een vast plan start met een telefoontje: laat een terugbelverzoek achter of bel 0470 56 53 58, en samen bepalen we de taken, de dagen en de uren."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Welk bedrijf doet poetshulp voor garages in Kortrijk?",
-   "a": "Zondags (zondags.be) uit Marke levert een vaste poetshulp voor showroom, verkoopkantoor, wachtruimte en sanitair van garages en autobedrijven in Kortrijk en omgeving. De werkplaats en wagens vallen erbuiten."
+   "q": "Welk bedrijf levert poetshulp voor garages in Kortrijk?",
+   "a": "Zondags uit Marke levert poetshulp voor de showroom, het verkoopkantoor, de wachtruimte en het sanitair van garages en autobedrijven in Kortrijk en omgeving."
   },
   {
-   "q": "Poetsen jullie ook de werkplaats?",
-   "a": "Nee. Werkplaatsen, productiehallen en het reinigen van voertuigen doen we niet. Wij onderhouden de ruimtes waar klanten en kantoorpersoneel komen."
+   "q": "Poetst Zondags ook de werkplaats of de wagens?",
+   "a": "Nee. De werkplaats en het reinigen van wagens vallen buiten het werk van Zondags. Het gaat om de ruimtes voor klanten en personeel."
   },
   {
-   "q": "Kan er vroeg in de ochtend gepoetst worden?",
-   "a": "Ja. Op weekdagen kan het vroeg in de ochtend of over de middag. 's Avonds en in het weekend werken we niet."
+   "q": "Kan de showroom gepoetst worden voor de eerste klant?",
+   "a": "Ja. Vroeg in de ochtend kan, overdag op weekdagen. Zondags werkt nooit 's avonds en nooit in het weekend."
   },
   {
-   "q": "Kan mijn Zondag ook mijn woning onderhouden?",
-   "a": "Ja, in hetzelfde zondagsplan. De factuur splitst het beroepsmatige en het privégedeelte, en je accountant bevestigt de verwerking voor jouw situatie."
+   "q": "Wat kost poetshulp voor een garage?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief."
   },
   {
-   "q": "Wat als mijn Zondag ziek of op verlof is?",
-   "a": "Dan zoeken wij een oplossing. Een vervanger beloven we niet op voorhand, maar we nemen contact op en bekijken samen hoe je showroom verzorgd blijft."
+   "q": "Werkt Zondags ook in Wevelgem of Harelbeke?",
+   "a": "Ja, we kijken ook mee voor garages in Wevelgem en Harelbeke, naast Kuurne, Menen, Zwevegem en Lendelede."
+  },
+  {
+   "q": "Kan mijn Zondag ook de post en afspraken opvolgen?",
+   "a": "Ja, ondersteunend: post sorteren, documenten klasseren, afspraken opvolgen en kantoormateriaal bijhouden. Boekhouding en fiscaal of juridisch advies horen er niet bij."
   }
- ],
- "path": "sectoren/autobedrijven-regio-kortrijk.html",
- "title": "Poetshulp voor garages en autobedrijven rond Kortrijk",
- "desc": "Poetshulp voor showroom, verkoopkantoor en wachtruimte van garages in Kortrijk en omgeving. Eén vaste persoon, buiten de werkplaats, met één factuur.",
- "eyebrow": "Garages · Regio Kortrijk",
- "h1": "Poetshulp voor garages en autobedrijven in Kortrijk en omgeving",
- "lead": "Een garage verkoopt vertrouwen, en dat begint in de showroom en de wachtruimte. Zondags zorgt in Kortrijk en omgeving voor het deel van je zaak waar klanten staan.",
- "answer": "Zondags (zondags.be) levert poetshulp voor garages en autobedrijven in Kortrijk, de deelgemeenten en de buurgemeenten. Je Zondag onderhoudt de showroom, het verkoopkantoor, het klantenonthaal, de wachtruimte en het sanitair, op een vaste weekdag. De werkplaats en de wagens vallen erbuiten. Je krijgt één dienstenfactuur op naam van je vennootschap.",
- "facts": [
-  "Showroom en verkoopkantoor",
-  "Klantenonthaal en wachtruimte",
-  "Geen werkplaats, geen wagens",
-  "Vaste persoon, vaste dag",
-  "Eerste 2 uur gratis"
  ]
 }

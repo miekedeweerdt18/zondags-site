@@ -1,83 +1,81 @@
 {
+ "path": "vragen/btw-op-poetshulp-voor-bedrijven.html",
+ "title": "Btw op poetshulp: wat moet je als bedrijf weten?",
+ "desc": "Btw op poetshulp voor bedrijven: drie vragen die bepalen of je de btw kan recupereren, wat een dienstenfactuur toont en wat je aan je accountant voorlegt.",
+ "eyebrow": "Vraag",
+ "h1": "Btw op poetshulp: wat moet je als bedrijf weten?",
+ "lead": "De poetsfirma rekent btw aan, jij beslist samen met je accountant wat je ervan terugkrijgt. Dat hangt af van je btw-regime: ben je btw-plichtig, heb je aftrekrecht, of ben je vrijgesteld?",
+ "answer": "Op poetshulp rekent de leverancier btw aan, en voor een btw-plichtige zaak met aftrekrecht is die in principe recupereerbaar. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Zondags (zondags.be) rekent 60 euro per uur exclusief btw, per blok van 3 uur, en factureert op naam van je bedrijf met btw-nummer. Laat je accountant je situatie bevestigen.",
+ "facts": [
+  "Btw-plichtig met aftrekrecht: in principe recupereerbaar",
+  "Vrijgesteld: doorgaans niet",
+  "Gemengd gebruik: accountant bepaalt",
+  "Factuur op naam van je bedrijf",
+  "60 euro per uur, per blok van 3 uur"
+ ],
  "sections": [
   {
-   "h2": "Waarom de vraag niet voor elk bedrijf hetzelfde is",
+   "h2": "Drie vragen die alles bepalen",
    "p": [
-    "Btw hangt af van wie je bent. Een btw-plichtige zaak met aftrekrecht doet andere dingen met de btw dan een vrijgestelde praktijk. Daarbovenop gaat het over de vraag of de poetshulp bij de zaak hoort of bij de woning van de zaakvoerder. Wij geven hier de algemene lijn en geen advies op maat, want dat vraagt kennis van jouw dossier."
+    "<ul class=\"ticks\"><li>Ben ik btw-plichtig voor mijn prestaties?</li><li>Heb ik recht op aftrek van de btw op mijn kosten?</li><li>Gebruik ik de poetshulp enkel voor mijn zaak of ook anders?</li></ul>",
+    "Je antwoorden bepalen of je de btw terugkrijgt, deels terugkrijgt of als kost draagt. Je accountant kent je regime en kan ze meteen beantwoorden."
    ]
   },
   {
-   "h2": "Het beroepsmatige deel",
+   "h2": "Als je btw-plichtig bent met aftrekrecht",
    "p": [
-    "Het onderhoud van beroepsruimtes, zoals een kantoor, een winkel of een praktijk, is een beroepskost. Voor een btw-plichtige zaak met aftrekrecht is de btw op dat deel in principe recupereerbaar. Dat betekent dat je ze in je aangifte kan opnemen. Of dat ook in jouw situatie opgaat, hangt af van je activiteiten en van de manier waarop je de btw behandelt."
+    "Voor een winkel, een adviesbureau of een showroom die btw int op haar verkopen en diensten, is de btw op poetshulp voor de zaak in principe recupereerbaar. Je verwerkt de factuur in je btw-aangifte zoals andere kosten. De kost voor jouw bedrijf is dan het bedrag exclusief btw.",
+    "Vergelijk offertes daarom altijd exclusief btw. Pas daarna zie je wat je werkelijk draagt."
    ]
   },
   {
-   "h2": "Het privégedeelte",
+   "h2": "Als je vrijgesteld bent of gemengd werkt",
    "p": [
-    "Laat je ook je woning poetsen, dan is dat geen beroepskost. De btw op het privégedeelte is in principe niet recupereerbaar. Voor het privégedeelte geldt bovendien een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst. Daarom splitst Zondags de factuur: beroepsmatig en privé staan apart. Meer uitleg vind je in de gids <a href=\"gids/btw-huishoudelijke-diensten.html\">btw op huishoudelijke diensten</a>."
+    "Een btw-vrijgestelde praktijk int geen btw op haar prestaties en kan de btw op haar kosten doorgaans niet terugvragen. Dan telt de btw mee in de kost. Heb je een mix van vrijgestelde en btw-plichtige activiteiten, dan kan slechts een deel aftrekbaar zijn, volgens een verdeling die je accountant bepaalt.",
+    "Een voorbeeld: stel dat een kantoor deels adviseert met btw en deels diensten levert zonder btw. Dan hoort de poetsfactuur bij beide en wordt ze verdeeld."
    ]
   },
   {
-   "h2": "Een btw-vrijgestelde praktijk",
+   "h2": "Wat de factuur moet tonen",
    "p": [
-    "Een btw-vrijgestelde praktijk, bijvoorbeeld van sommige zorgverleners, kan de btw op poetshulp doorgaans niet recupereren. De btw is dan een kost zoals alle andere. Lees meer in <a href=\"vragen/btw-vrijgestelde-praktijk-poetshulp.html\">btw-vrijgestelde praktijk en poetshulp</a>. Of dat ook voor jouw praktijk geldt, bevestigt je accountant."
+    "Je factuur moet op naam van je bedrijf staan, met je btw-nummer, en de btw apart tonen. Zonder die gegevens kan je boekhouder de btw niet correct verwerken. Controleer het bij de eerste factuur."
    ]
   },
   {
-   "h2": "Waarom dienstencheques geen optie zijn",
+   "h2": "Veelgemaakte vergissingen",
    "p": [
-    "Je kan als vennootschap geen dienstencheques kopen, want die zijn voorbehouden aan particulieren. Daarom werkt Zondags met een gewone dienstenfactuur op naam van je vennootschap. Dat is ook de reden waarom btw op die factuur een vraag wordt, die bij dienstencheques niet speelt."
+    "<ul class=\"ticks\"><li>Een offerte met btw vergelijken met een offerte zonder btw</li><li>Aannemen dat alle btw altijd aftrekbaar is, ook als je vrijgesteld bent</li><li>De factuur laten opmaken op naam van een persoon in plaats van het bedrijf</li><li>Het btw-nummer vergeten bij het boeken</li></ul>",
+    "Elk van die fouten kost later tijd om te herstellen. Een korte controle bij de eerste boeking voorkomt ze allemaal."
    ]
   },
   {
-   "h2": "Zo bereid je het gesprek met je accountant voor",
+   "h2": "Hoe Zondags factureert",
    "p": [
-    "<ul class=\"ticks\"><li>Noteer of je zaak btw-plichtig is of vrijgesteld<li>Noteer welke ruimtes gepoetst worden: zaak, woning of beide<li>Vraag of het voordeel van alle aard voor het privégedeelte van toepassing is<li>Laat de factuur zien en vraag hoe je ze boekt<li>Vraag wat er verandert als je plan uitbreidt</li></ul>",
-    "Doe dit voor je start, zodat je geen verrassingen krijgt."
-   ]
-  },
-  {
-   "h2": "Hoe je start",
-   "p": [
-    "Je dient een aanvraag in via het formulier of de chat, we bellen binnen één werkdag terug, komen langs voor de intake en maken samen het zondagsplan. Op de factuur komt het beroepsmatige en het privégedeelte apart. De eerste 2 uur zijn gratis. Laat je accountant bevestigen hoe dit voor je eigen situatie werkt."
+    "Je geeft bij het boeken de naam en het btw-nummer van je bedrijf. De factuur toont 60 euro per uur exclusief btw. Een blok van 3 uur is 180 euro exclusief btw, extra uren staan aan dezelfde 60 euro per uur. Poetshulp en administratieve hulp voor de zaak zijn in principe een beroepskost.",
+    "Laat je accountant dit bevestigen voor je eigen situatie. Boeken doe je via de <a href=\"boeken.html\">boekpagina</a>."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Kan ik de btw op poetshulp voor mijn bedrijf recupereren?",
-   "a": "In principe op het beroepsmatige deel, voor een btw-plichtige zaak met aftrekrecht. Op het privégedeelte in principe niet. Laat je accountant dit bevestigen voor je eigen situatie."
+   "q": "Betaal ik btw op poetshulp voor mijn bedrijf?",
+   "a": "Ja, de leverancier rekent btw aan op de factuur. Of je ze kan terugvragen, hangt af van je btw-regime en je aftrekrecht."
   },
   {
-   "q": "Wat als mijn praktijk btw-vrijgesteld is?",
-   "a": "Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Je accountant bevestigt wat in jouw geval geldt."
+   "q": "Kan ik de btw op poetshulp recupereren?",
+   "a": "In principe wel als btw-plichtige zaak met aftrekrecht. Een btw-vrijgestelde praktijk meestal niet. Je accountant bevestigt wat voor jou geldt."
   },
   {
-   "q": "Hoe zit het met de woning van de zaakvoerder?",
-   "a": "Dat is een privégedeelte. De btw is in principe niet recupereerbaar en er geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren."
+   "q": "Waarom staat de prijs exclusief btw?",
+   "a": "Omdat zakelijke klanten meestal exclusief btw rekenen. Zo kan je prijzen eerlijk vergelijken, ook als de btw verschillend wordt behandeld."
   },
   {
-   "q": "Kan ik als vennootschap dienstencheques gebruiken?",
-   "a": "Nee. Een vennootschap kan geen dienstencheques kopen, enkel particulieren. Zondags werkt daarom met een gewone dienstenfactuur op naam van je vennootschap."
+   "q": "Wat als ik de poetshulp gedeeltelijk anders gebruik?",
+   "a": "Dan moet je accountant bekijken welk deel zakelijk is en hoe je de btw verdeelt. Bespreek dit voor de eerste factuur."
   },
   {
-   "q": "Staat de btw apart op de factuur van Zondags?",
-   "a": "Je krijgt een gewone dienstenfactuur. Beroepsmatig en privé staan apart, zodat je accountant het correct kan verwerken. Voor de verwerking in jouw situatie vraag je altijd je accountant."
+   "q": "Moet mijn btw-nummer op de factuur staan?",
+   "a": "Ja. Bij Zondags geef je het in bij het online boeken en komt het op de dienstenfactuur."
   }
- ],
- "path": "vragen/btw-op-poetshulp-voor-bedrijven.html",
- "title": "Btw op poetshulp: wat moet je als bedrijf weten?",
- "desc": "Btw op poetshulp voor je bedrijf: wat in principe recupereerbaar is, wat voor een btw-vrijgestelde praktijk geldt en waarom je accountant beslist.",
- "eyebrow": "Vraag",
- "h1": "Btw op poetshulp: wat moet je als bedrijf weten?",
- "lead": "Of je de btw op poetshulp kan recupereren, hangt af van je zaak en van wat er precies gepoetst wordt. Dit is de algemene lijn, zonder bedragen en zonder belofte.",
- "answer": "Op de factuur voor poetshulp staat btw, en of je die kan recupereren hangt af van je situatie. In principe is de btw op het beroepsmatige deel recupereerbaar voor een btw-plichtige zaak met aftrekrecht, en op het privégedeelte niet. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Zondags (zondags.be) splitst de factuur, en je accountant bevestigt wat voor jou geldt.",
- "facts": [
-  "Btw-plichtige zaak: beroepsdeel in principe recupereerbaar",
-  "Privégedeelte in principe niet",
-  "Btw-vrijgestelde praktijk: doorgaans niet",
-  "Factuur splitst beroepsmatig en privé",
-  "Accountant bevestigt altijd"
  ]
 }

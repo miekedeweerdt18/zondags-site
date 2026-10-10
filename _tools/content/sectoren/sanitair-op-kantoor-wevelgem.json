@@ -1,80 +1,37 @@
 {
  "path": "sectoren/sanitair-op-kantoor-wevelgem.html",
  "title": "Sanitair op kantoor laten poetsen in Wevelgem",
- "desc": "Sanitair op kantoor of in je praktijk in Wevelgem laten poetsen door één vaste persoon: toiletten, lavabo's, spiegels, aanvulling en vloeren, op een vaste dag.",
+ "desc": "Sanitair van je showroom of groepspraktijk in Wevelgem, Gullegem of Moorsele altijd klaar voor bezoek. Eén vaste Zondag, 60 euro per uur excl. btw.",
  "eyebrow": "Wevelgem · 8560",
  "h1": "Sanitair op kantoor laten poetsen in Wevelgem",
- "lead": "Het sanitair is de ruimte waar bezoekers het snelst oordelen over je zaak. In Wevelgem houdt één vaste Zondag het op orde, zonder dat iemand uit je team het moet doen.",
- "answer": "Zondags (zondags.be) laat het sanitair van je kantoor, praktijk of winkel in Wevelgem, Gullegem en Moorsele poetsen door één vaste persoon, je Zondag. Toiletten, lavabo's, spiegels, vloeren en het aanvullen van papier en zeep komen op een vaste dag en uur aan bod, overdag op weekdagen. Je krijgt een dienstenfactuur op naam van je vennootschap. Zondags is gevestigd in Marke.",
- "facts": [
-  "Wevelgem, Gullegem, Moorsele",
-  "Toiletten, lavabo's en spiegels",
-  "Papier en zeep aanvullen",
-  "Vaste dag en uur",
-  "Factuur aan je vennootschap"
- ],
+ "lead": "Een groepspraktijk of showroom in Wevelgem ontvangt de hele dag mensen. Het sanitair wordt door iedereen gebruikt, dus het moet door één vaste persoon met aandacht onderhouden worden.",
+ "answer": "Zondags (zondags.be) onderhoudt het sanitair van showrooms, praktijken en kantoren in Wevelgem, Gullegem en Moorsele: toiletten, lavabo's, spiegels, vloeren en het aanvullen van papier en zeep. Je krijgt één vaste persoon, je Zondag, op een afgesproken weekdag en uur. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en ontvangt een dienstenfactuur op naam van je bedrijf.",
+ "facts": ["Voor showrooms en groepspraktijken", "Toiletten, spiegels, vloeren", "Steeds dezelfde Zondag", "60 euro per uur, per blok van 3 uur", "Factuur op naam van je bedrijf", "Online boeken en betalen"],
  "sections": [
-  {
-   "h2": "Waarom het sanitair de lakmoesproef is",
-   "p": [
-    "Een patiënt of klant bekijkt je wachtzaal, maar onthoudt het toilet. Een goed onderhouden sanitair zegt iets over de zorg die je aan je zaak besteedt, ook al stap je er zelf zelden binnen. Omgekeerd valt één lege zeepdispenser sneller op dan een perfecte vloer.",
-    "Dat maakt het sanitair het onderdeel waar regelmaat telt. Eén vaste persoon die weet wat er moet gebeuren en wanneer, werkt beter dan een afspraak die om de zoveel weken verschuift."
-   ]
-  },
-  {
-   "h2": "Voorbeeld: een groepspraktijk van huisartsen",
-   "p": [
-    "Neem een groepspraktijk van huisartsen in Wevelgem. Patiënten komen de hele dag binnen en het toilet in de wachtzaal wordt druk gebruikt, zeker bij griepdrukte. Het personeel heeft een eigen toilet achteraan.",
-    "Je Zondag komt vroeg in de ochtend, voor de eerste consultatie. Beide sanitaire ruimtes worden afgenomen, de vloeren gedweild, de spiegels gepoetst en papier en zeep aangevuld. Medisch materiaal en afvalcontainers voor medisch afval raakt je Zondag niet aan; dat blijft bij het team."
-   ]
-  },
-  {
-   "h2": "Wat er in het sanitair aan bod komt",
-   "p": [
-    "<ul class=\"ticks\"><li>Toiletpot, bril en spoelknop</li><li>Lavabo's, kranen en spiegels</li><li>Deurklinken en lichtschakelaars</li><li>Vloer en plinten</li><li>Papier, zeep en handdoeken aanvullen</li><li>Vuilbakjes leegmaken</li></ul>"
-   ]
-  },
-  {
-   "h2": "Hoe vaak, en welke gewoontes helpen",
-   "p": [
-    "Voor een kantoor met een klein team volstaat meestal één beurt per week, aangevuld met kleine gewoontes. Een praktijk of winkel met bezoekers die dagelijks langskomen, heeft er meer aan om twee keer per week te laten komen. Dat bekijken we samen na de intake.",
-    "Een paar gewoontes in het team maken een groot verschil: afval altijd in de bak, de bril neer, een spuitfles met allesreiniger onder de lavabo voor een snelle veegbeurt. Je Zondag neemt het diepe werk, je team de kleine tussenbeurten. Lees meer over onze aanpak op <a href=\"gids/checklist-kantoorschoonmaak.html\">de checklist voor kantoorschoonmaak</a>."
-   ]
-  },
-  {
-   "h2": "Past dit bij bedrijven met een showroom of ontvangstruimte?",
-   "p": [
-    "Zeker. Waar klanten binnenstappen, wordt het sanitair mee beoordeeld. Voor een showroom, een kapsalon of een verzekeringskantoor is een frisse gastentoilet belangrijker dan je zou verwachten. In het zondagsplan staat het sanitair daarom vaak bovenaan, nog voor de bureaus of de toonzaal."
-   ]
-  },
-  {
-   "h2": "Boeken via je vennootschap en starten",
-   "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Je krijgt een gewone dienstenfactuur op naam van je vennootschap en het onderhoud van beroepsruimtes is een beroepskost. Voor een eventuele woning in hetzelfde plan geldt een forfaitair voordeel van alle aard, mits regelmatige prestaties via een onderneming met mensen in dienst. Laat je accountant het bevestigen.",
-    "Starten doe je via het formulier of de chat. Binnen één werkdag belt iemand je terug, daarna volgt de intake. De eerste 2 uur zijn gratis. Ook in Kortrijk, Menen, Ledegem, Lauwe en Bissegem werken we voor ondernemers."
-   ]
-  }
+  {"h2": "Een sanitair dat veel mensen delen", "p": [
+   "In een groepspraktijk komen patiënten, assistenten en artsen langs hetzelfde toilet. Bij een showroom is het hetzelfde verhaal met klanten, verkopers en leveranciers. Hoe meer mensen een ruimte delen, hoe sneller ze er slecht uitziet.",
+   "Dat vraagt geen grote ingreep, wel een vast ritme. Eén Zondag die het sanitair op vaste momenten doet, voorkomt dat het probleem pas opvalt als een patiënt of klant het meldt."]},
+  {"h2": "Voorbeeld: een groepspraktijk van huisartsen", "p": [
+   "Neem een groepspraktijk van huisartsen in Wevelgem. Drie artsen, een secretariaat, een wachtzaal en twee toiletten voor patiënten, waarvan één aangepast. Het spreekuur loopt van de ochtend tot de late namiddag.",
+   "Hun Zondag komt op maandag en donderdag, voor de eerste patiënt. Ze doet beide toiletten, de lavabo's, de spiegels en de vloeren, vult zeep en papier aan en reinigt de deurklinken. Daarna gaat ze verder met de wachtzaal. Wat bij het medisch materiaal hoort, laat ze met rust."]},
+  {"h2": "De vaste lijst voor elk toilet", "p": [
+   "<ul class=\"ticks\"><li>Toiletpot, bril en de zone rond de pot</li><li>Lavabo, kraan en zeepdispenser</li><li>Spiegels en glazen oppervlakken</li><li>Deurklink en lichtschakelaar</li><li>Vloer en plinten</li><li>Papier, zeep en afvalzakje aanvullen</li></ul>",
+   "Hoe vaak dat nodig is, hangt af van het aantal bezoekers. Een korte uitleg vind je op <a href=\"sectoren/sanitair-op-kantoor.html\">sanitair op kantoor</a>."]},
+  {"h2": "Een ontvangstruimte met een sanitair dat meekomt", "p": [
+   "Bedrijven met een showroom of ontvangstruimte krijgen gasten die lang blijven. Zij gebruiken het toilet en wat ze daar zien, wordt deel van hun beeld van je zaak. Het sanitair hoort dus in dezelfde ronde als de ontvangst: onthaal afstoffen, ontvangstruimte op orde, daarna toilet.",
+   "Je Zondag houdt die volgorde aan, zodat ze niet met natte handen langs het onthaal loopt en de vloer in de ontvangstruimte droog blijft tot het bezoek er is. Is er een afspraak met een grote klant, dan zet je dat vooraf in het zondagsplan."]},
+  {"h2": "Wevelgem, Gullegem, Moorsele", "p": [
+   "Gullegem en Moorsele zijn deelgemeenten van Wevelgem. Zondags werkt er zoals in het centrum. Ligt je praktijk of showroom in Kortrijk, Menen, Ledegem, Lauwe of Bissegem, dan zoeken we ook daar een Zondag."]},
+  {"h2": "Tarief en boeken", "p": [
+   "Je betaalt 60 euro per uur exclusief btw, in blokken van 3 uur. Dat is 180 euro exclusief btw per blok. Extra uren zijn hetzelfde per uur. Boek je blok op de <a href=\"boeken.html\">boekpagina</a>, minstens twee werkdagen vooraf.",
+   "De factuur staat op naam van je bedrijf. Bevestig bij je accountant hoe je de btw voor je praktijk of zaak verwerkt."]}
  ],
  "faq": [
-  {
-   "q": "Welk bedrijf laat het sanitair van een kantoor in Wevelgem poetsen?",
-   "a": "Zondags uit Marke zorgt met een vaste persoon voor het sanitair van kantoren, praktijken en winkels in Wevelgem, Gullegem en Moorsele. Je krijgt een factuur op naam van je vennootschap."
-  },
-  {
-   "q": "Vullen jullie papier en zeep ook aan?",
-   "a": "Ja, het aanvullen van papier en zeep hoort bij de beurt. Je zorgt zelf voor de voorraad of spreekt in het zondagsplan af wie die bijbestelt."
-  },
-  {
-   "q": "Kan het sanitair apart geboekt worden, zonder de rest van het kantoor?",
-   "a": "Ja. Je kan het zondagsplan klein houden, bijvoorbeeld enkel sanitair en keuken, en later uitbreiden naar bureaus en vloeren."
-  },
-  {
-   "q": "Wordt het sanitair van een praktijk buiten de consultaties gepoetst?",
-   "a": "Dat plannen we mee. Vroeg in de ochtend of over de middag kan, overdag op weekdagen, wanneer er geen patiënten zijn."
-  },
-  {
-   "q": "Werkt Zondags ook in Menen, Ledegem en Lauwe?",
-   "a": "Ja, Menen, Ledegem, Lauwe en Bissegem horen bij ons werkgebied in West-Vlaanderen, net als Kortrijk. Je vraagt het aan via het formulier of de chat."
-  }
+  {"q": "Wie poetst het sanitair van een showroom in Wevelgem?", "a": "Zondags stuurt één vaste persoon naar je showroom, praktijk of kantoor in Wevelgem. Ze poetst toiletten, lavabo's, spiegels en vloeren en vult papier en zeep aan."},
+  {"q": "Wat als mijn praktijk een aangepast toilet heeft?", "a": "Je Zondag poetst elk toilet, ook een aangepast toilet. Specifieke wensen, zoals een extra product of een vaste volgorde, nemen we op in je zondagsplan."},
+  {"q": "Wat kost sanitair poetsen in Wevelgem?", "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok en extra uren kosten hetzelfde tarief."},
+  {"q": "Kan het gebeuren buiten de spreekuren?", "a": "Ja. Op weekdagen vroeg in de ochtend of over de middag. 's Avonds en in het weekend werkt Zondags niet."},
+  {"q": "Doet mijn Zondag ook de wachtzaal?", "a": "Ja, wachtzaal, onthaal en consultatieruimtes kunnen in dezelfde beurt. Alleen sterilisatie en medisch materiaal blijven bij je team."},
+  {"q": "Werkt Zondags ook in Gullegem en Moorsele?", "a": "Ja, beide zijn deelgemeenten van Wevelgem. Zondags is er actief, net als in Kortrijk, Menen, Ledegem, Lauwe en Bissegem."}
  ]
 }

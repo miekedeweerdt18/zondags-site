@@ -1,93 +1,84 @@
 {
  "path": "sectoren/kmo-checklist.html",
- "title": "Schoonmaakchecklist voor kmo's",
- "desc": "Schoonmaakchecklist voor kmo's met kantoor, refter, kleedruimte en sanitair: wat wekelijks, maandelijks en jaarlijks aan bod komt en wat je zelf doet.",
- "eyebrow": "Checklist · kmo's",
+ "title": "Checklist poetsen voor een kmo",
+ "desc": "Een praktische schoonmaakchecklist voor een kmo met kantoor, refter en sanitair naast een atelier of magazijn: wekelijks, maandelijks, jaarlijks.",
+ "eyebrow": "Kmo's · Checklist",
  "h1": "Schoonmaakchecklist voor kmo's",
- "lead": "Een kmo met kantoor, refter en kleedruimte naast een atelier of magazijn heeft veel ruimtes en weinig vrije handen. Deze checklist toont wat wanneer aan de beurt komt.",
- "answer": "Een schoonmaakchecklist voor een kmo verdeelt het werk in wekelijks (kantoor, refter, sanitair, vloeren), maandelijks (kleedruimte, glazen wanden, gedeelde apparaten) en jaarlijks (grondige beurten als losse opdracht). Zondags (zondags.be) voert dat uit met één vaste Zondag, overdag op weekdagen, voor het kantoor en de refter, niet voor de industriële reiniging van productiehallen.",
+ "lead": "Een kmo heeft vaak meerdere soorten ruimtes onder één dak. Met een checklist per ruimte zie je meteen wat je Zondag doet en wat bij de zaak zelf blijft.",
+ "answer": "Voor een kmo werkt een checklist per ruimte het best: kantoor, vergaderzaal, refter, kleedruimte en sanitair krijgen elk hun eigen wekelijkse, maandelijkse en jaarlijkse taken. Zondags (zondags.be) laat één vaste Zondag die lijst overdag op weekdagen afwerken, aan 60 euro per uur exclusief btw per blok van 3 uur. Het atelier, het magazijn en industriële reiniging van productiehallen vallen buiten het werk.",
  "facts": [
-  "Wekelijks, maandelijks en jaarlijks",
+  "Checklist per ruimte",
   "Kantoor, refter, kleedruimte, sanitair",
-  "Geen industriële reiniging van hallen",
-  "Eén vaste Zondag",
-  "Wat de zaak zelf doet",
-  "Factuur op je vennootschap"
+  "Atelier en magazijn blijven buiten",
+  "Wekelijks, maandelijks, jaarlijks",
+  "60 euro per uur, per blok van 3 uur"
  ],
  "sections": [
   {
-   "h2": "Waarvoor een checklist dient in een kmo",
+   "h2": "Begin met het onderscheid tussen werkplek en bedrijfsruimte",
    "p": [
-    "Een kmo heeft zelden één ruimte. Er is een kantoor, een refter, een kleedruimte voor de ploeg, een sanitair blok en naast dat alles een atelier of magazijn. Wie dat laat poetsen, wil vooral weten: wat gebeurt er elke week, wat een keer per maand en wat een keer per jaar? Zonder lijst blijft de hoek in de refter drie maanden liggen.",
-    "Zondags poetst het kantoor, de refter, de kleedruimte en het sanitair. De werkplaats, het magazijn en industriële reiniging van productiehallen vallen erbuiten. Dat is geen beperking maar een grens, zodat jouw plan overeenkomt met wat één vaste persoon kan doen."
+    "Een kmo met een atelier of magazijn heeft twee werelden: de productie of opslag, en de ruimtes errond waar mensen werken, eten en zich omkleden. Zondags doet die tweede wereld. Productiehallen, machines en industriële reiniging horen er niet bij. Door dat onderscheid op papier te zetten, vermijd je discussies later."
    ]
   },
   {
-   "h2": "Wekelijks",
+   "h2": "Wekelijks: de ruimtes waar mensen komen",
    "p": [
-    "<ul class=\"ticks\"><li>Bureaus afnemen, vuilnisbakken leegmaken</li><li>Vergaderruimte op orde zetten</li><li>Refter en keuken: tafels, aanrecht, frigo-oppervlakken</li><li>Sanitair en kleedruimte-sanitair poetsen</li><li>Vloeren in kantoor, gang en refter</li><li>Afval en recyclage buiten zetten</li></ul>",
-    "Dit is het gewone ritme van je Zondag, bijvoorbeeld op dinsdagochtend. Zo weet je team dat het de dag ervoor best de koffiekopjes in de keuken zet."
+    "<ul class=\"ticks\"><li>Kantoor: bureaus, vloer en afval</li><li>Vergaderzaal: tafel, stoelen, whiteboard en glas</li><li>Onthaal en gang tot aan de deur van het atelier</li><li>Refter en keuken: tafels, aanrecht, microgolf, frigo-buitenkant</li><li>Sanitair en kleedruimte: wasbakken, toiletten, vloer, bijvullen</li><li>Afval en recyclage naar de container brengen</li></ul>",
+    "Zorg dat de kleedruimte op de dag van de beurt vrij van persoonlijke spullen ligt. Dat versnelt het werk en vermijdt vragen over wat weg mag."
    ]
   },
   {
-   "h2": "Maandelijks",
+   "h2": "Maandelijks en jaarlijks",
    "p": [
-    "<ul class=\"ticks\"><li>Kleedruimte: banken, kastjes aan de buitenkant, vloer</li><li>Glazen wanden en binnendeuren grondiger</li><li>Gedeelde apparaten aan de buitenkant: koffiemachine, microgolf</li><li>Plinten, deurklinken en lichtschakelaars</li><li>Hoeken en plekken waar stof zich ophoopt</li></ul>",
-    "Maandelijks komt het gedeelte dat je wekelijks niet haalt. Je spreekt in het zondagsplan af in welke week welk onderdeel aan de beurt komt."
+    "Maandelijks kan je Zondag dieper gaan op plekken die in de weekbeurt overgeslagen worden: de bovenkant van kastjes in de refter, de roosters van lockers, de plinten in de gang, de binnenkant van de frigo. Jaarlijks plan je een grote beurt voor de ramen langs binnen, de vergaderzaal grondig en de archiefruimte.",
+    "Gebruik de jaarlijkse beurt ook om de lijst zelf te herzien. Is er een nieuwe ruimte bijgekomen, een extra afdeling of een groter team? Dan verschuiven de blokken."
    ]
   },
   {
-   "h2": "Jaarlijks",
+   "h2": "Voorbeeld: een architectenbureau met een vergaderzaal",
    "p": [
-    "Eén of twee keer per jaar is een grondige beurt zinvol: ramen langs binnen, grote vloerbeurt, kasten leegmaken en afnemen, na een verbouwing of voor een opendeur. Dat kan als losse opdracht, naast je vaste plan. Ramen langs buiten op hoogte, gevelreiniging en werken op hoogte doen we niet.",
-    "Voor wie weinig tijd heeft, is het handig om die grote beurten in een vaste maand te plannen, bijvoorbeeld in de rustigste periode van je zaak. Lees meer in <a href=\"sectoren/voorjaarspoets-kantoor.html\">de voorjaarspoets voor je kantoor</a>."
+    "Neem een architectenbureau, een kmo met acht bureaus, een vergaderzaal waar klanten en bouwheren plannen bekijken, en een kleine bibliotheek met stalen. De vergaderzaal moet elke ochtend klaar zijn: tafel afgenomen, glaswand zonder vlekken, stoelen op hun plaats. Je Zondag begint daar, gaat dan door naar de bureaus en eindigt met keuken en sanitair. Plankenrekken met stalen blijven op hun plaats, die staan in jouw volgorde."
    ]
   },
   {
-   "h2": "Wat de zaak zelf blijft doen",
+   "h2": "Wat de kmo zelf blijft doen",
    "p": [
-    "Elke zaak heeft dingen die niet door een Zondag gedaan worden: gereedschap schoonmaken, het atelier en het magazijn, machines en productiemiddelen, de inventaris. Ook technische problemen, zoals een lek of een defect licht, blijven bij jou of je technicus.",
-    "Met enkele gewoontes in het team ligt de basis er al: kopjes in de keuken, afval in de bakken en kleedkastjes leeg als je ze niet meer gebruikt."
+    "Het team ruimt het eigen werkmateriaal op, ook machines en gereedschap in het atelier. Gemorste olie, stof van productie en afval uit het magazijn blijven bij de zaak, want dat vraagt specifieke middelen en afspraken. Je Zondag zorgt voor de ruimtes errond."
    ]
   },
   {
-   "h2": "Voorbeeld: een kmo met een atelier en een klein kantoor",
+   "h2": "Meer dan poetsen",
    "p": [
-    "Neem een kmo met een atelier voor maatwerk, een kantoor voor vier mensen, een refter en een kleedruimte. De zaakvoerder wil dat het kantoor en de refter elke week verzorgd zijn, dat de kleedruimte maandelijks grondig gaat en dat er twee keer per jaar een grote beurt komt.",
-    "Dat past in één zondagsplan met één vaste persoon. De woning van de zaakvoerder kan er ook bij, en op de factuur staat dat apart. Een vennootschap kan geen dienstencheques kopen, dus Zondags werkt met een dienstenfactuur op naam van de vennootschap. Het onderhoud van beroepsruimtes is een beroepskost; voor het privégedeelte geldt een forfaitair voordeel van alle aard, mits regelmatige prestaties via een onderneming met mensen in dienst. Laat je accountant dit bevestigen voor jouw situatie."
+    "Veel kmo-zaakvoerders hebben een lijst van praktische klusjes die blijven liggen. Je Zondag kan de post openen en sorteren, facturen klasseren, pakjes klaarmaken of de koffiehoek bevoorraden. Dat is ondersteunend werk, geen boekhouding. Meer daarover lees je op <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">een rechterhand voor bedrijfsleiders</a>."
    ]
   },
   {
-   "h2": "Zo start je",
+   "h2": "Prijs en boeken",
    "p": [
-    "Je doet een aanvraag via het formulier of de chat. Binnen één werkdag belt iemand terug, daarna komt de intake en leggen jullie samen het zondagsplan vast. De eerste 2 uur zijn gratis. Zie ook <a href=\"sectoren/kmo.html\">poetshulp voor kmo's</a> en <a href=\"gids/checklist-kantoorschoonmaak.html\">checklist voor kantoorschoonmaak</a>."
+    "Een blok van 3 uur kost 180 euro exclusief btw, aan 60 euro per uur. Extra uren boek je aan hetzelfde tarief. Je betaalt online via de <a href=\"boeken.html\">boekpagina</a> en krijgt een factuur op naam van je vennootschap. Meer over de sector lees je op <a href=\"sectoren/kmo.html\">poetshulp voor kmo's</a>."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Wat staat er op een schoonmaakchecklist voor een kmo?",
-   "a": "Wekelijks kantoor, refter, sanitair en vloeren, maandelijks de kleedruimte, glazen wanden en gedeelde apparaten, en jaarlijks een grondige beurt als losse opdracht."
+   "q": "Wat poets een kmo wekelijks?",
+   "a": "Kantoor, vergaderzaal, onthaal, refter, kleedruimte en sanitair, plus het afval. Het atelier en het magazijn zelf blijven bij de zaak."
   },
   {
-   "q": "Poetst Zondags ook het atelier of magazijn?",
-   "a": "Nee. Het atelier, het magazijn en industriële reiniging van productiehallen vallen buiten wat Zondags doet. We poetsen kantoor, refter, kleedruimte en sanitair."
+   "q": "Doet Zondags ook productiehallen?",
+   "a": "Nee. Industriële reiniging van productiehallen en machines valt buiten het werk van Zondags. We beperken ons tot kantoor, refter, kleedruimte, sanitair en vergelijkbare ruimtes."
   },
   {
-   "q": "Hoe vaak moet de refter gepoetst worden?",
-   "a": "Wekelijks is gebruikelijk, bij een groot team vaker. We bepalen dat samen in de intake en je kan het later aanpassen."
+   "q": "Hoe lang duurt een beurt voor een kmo?",
+   "a": "Dat hangt af van het aantal ruimtes en het aantal mensen. Je boekt per blok van 3 uur en voegt extra uren toe aan 60 euro per uur exclusief btw. Na een of twee beurten weet je de ideale duur."
   },
   {
-   "q": "Kan een grote beurt per jaar als losse opdracht?",
-   "a": "Ja. Een grondige beurt, bijvoorbeeld in je rustigste periode, kan naast je vaste plan als losse opdracht."
+   "q": "Kan ik de lijst aanpassen?",
+   "a": "Ja. In het kennismakingsgesprek leggen we je zondagsplan vast, met taken, dagen en uren. Wil je na een maand iets wijzigen, dan passen we het plan aan."
   },
   {
-   "q": "Kan mijn woning er ook bij?",
-   "a": "Ja. Kantoor en woning kunnen in één plan met dezelfde persoon. De factuur splitst beroepsmatig en privé."
-  },
-  {
-   "q": "Is het onderhoud van een kmo een beroepskost?",
-   "a": "Het onderhoud van beroepsruimtes is een beroepskost. Laat je accountant bevestigen hoe btw en eventuele privédelen voor jouw situatie werken."
+   "q": "Is de factuur voor mijn vennootschap bruikbaar bij de boekhouding?",
+   "a": "Je krijgt een gewone dienstenfactuur met je btw-nummer. Poetshulp is in principe een beroepskost en de btw is bij aftrekrecht in principe recupereerbaar. Laat je accountant dit bevestigen voor jouw situatie."
   }
  ]
 }

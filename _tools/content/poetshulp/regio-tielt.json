@@ -1,35 +1,36 @@
 {
  "path": "poetshulp/regio-tielt.html",
  "title": "Poetshulp voor bedrijven in de regio Tielt",
- "desc": "Poetshulp voor kantoren, praktijken, winkels en bouwbedrijven in de regio Tielt. Eén vaste Zondag voor zaak én woning, met één factuur voor je vennootschap.",
+ "desc": "Poetshulp voor kantoren, praktijken en winkels in Tielt, Meulebeke, Pittem, Wingene en Ruiselede. Eén vaste Zondag, 60 euro per uur exclusief btw, online.",
  "eyebrow": "Regio Tielt",
  "h1": "Poetshulp voor bedrijven in de regio Tielt",
- "lead": "Werk je vanuit huis, of ligt je bedrijf naast je woning? In de regio Tielt zorgt één vaste Zondag voor kantoor, refter en woning, samen in één plan.",
- "answer": "Zondags (zondags.be) levert poetshulp voor bedrijven in de regio Tielt, onder meer in Tielt, Meulebeke, Pittem, Wingene en Ruiselede. Je krijgt één vaste persoon, je Zondag, voor je kantoor, praktijk, winkel of refter en op verzoek ook voor je woning. Beroepsmatig en privé staan apart op één dienstenfactuur op naam van je vennootschap. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk, en in West- en Oost-Vlaanderen.",
- "facts": ["Kantoor aan huis, refter en woning", "Gemeenten in West-Vlaanderen", "Steeds dezelfde vaste Zondag", "Overdag, op weekdagen", "Beroepsmatig en privé apart gefactureerd", "Eerste 2 uur gratis"],
+ "lead": "Je zaak is klein, je agenda niet. In de regio Tielt begin je met één blok van 3 uur en bouw je uit naar een vast zondagsplan als dat bij je past.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor bedrijven in de regio Tielt: Tielt, Meulebeke, Pittem, Wingene en Ruiselede, met hun deelgemeenten. Je krijgt één vaste persoon, je Zondag, voor kantoor, praktijk of winkel, en op vraag voor administratie en regelwerk. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw, en je krijgt een dienstenfactuur op naam van je bedrijf. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk, enkel voor bedrijven.",
+ "facts": ["Tielt, Meulebeke, Pittem, Wingene, Ruiselede", "Kantoor, praktijk, winkel", "Eén blok om mee te starten", "60 euro per uur, per blok van 3 uur", "Factuur op naam van je bedrijf", "Overdag, op weekdagen"],
  "sections": [
-  {"h2": "Kantoor aan huis: één adres, twee kanten", "p": [
-   "Neem een ondernemer in Meulebeke die vanuit de woning werkt. Het kantoor ligt aan de straatkant, de keuken en slaapkamers erachter. Elk deel heeft een ander doel en dus een andere plek op de factuur.",
-   "Je Zondag onderhoudt beide met één vaste lijst. Het kantoor, de toegang en het sanitair voor bezoekers zijn beroepsmatig. Woonkamer, keuken, was en strijk horen bij het privégedeelte. Meer over die combinatie lees je in de gids over <a href=\"gids/kantoor-aan-huis-schoonmaak.html\">kantoor aan huis</a>."]},
-  {"h2": "Een bouwbedrijf met een kantoor en een refter", "p": [
-   "Stel: je hebt een bouwbedrijf in Ruiselede of Meulebeke met een kantoor en een refter waar je ploeg elke ochtend start. Je Zondag poetst het kantoor, de refter, de kleedruimte en het sanitair, op een vast moment buiten de drukte van het vertrek.",
-   "De opkuis van een werf na de werken valt erbuiten, net als werken op hoogte. Zondags houdt het bedrijf zelf op orde, niet de bouwplaats."]},
-  {"h2": "Showroom, toonzaal en winkel in de dorpskern", "p": [
-   "In Pittem of Ruiselede kan het om een showroom gaan, in Wingene om een interieurzaak met een toonzaal of een winkel in de dorpskern. Dan telt dat de zaak klaarligt voor de deur opengaat: vloer, glas, onthaal en sanitair voor bezoekers.",
-   "Ook een landbouwbedrijf met een bureau aan de hoeve past in dit plaatje. Je Zondag onderhoudt het bureau en, als je wilt, het woonhuis ernaast, in één vast bezoek per week."]},
-  {"h2": "Tielt en de dorpen errond", "p": [
-   "Tot Tielt (8700) behoren Aarsele, Kanegem en Schuiferskapelle. Bij Pittem hoort Egem, bij Wingene Zwevezele en bij Ruiselede Doomkerke. Ligt je zaak net buiten de regio, in Dentergem, Ardooie, Beernem of Aalter, dan kan je evengoed een aanvraag doen."]},
-  {"h2": "Hoe de factuur in elkaar zit", "p": [
-   "Dienstencheques zijn voor particulieren, dus ze vallen weg voor een vennootschap. Je krijgt van Zondags een gewone dienstenfactuur, op naam van je vennootschap. Het onderhoud van je kantoor, refter of showroom is een beroepskost.",
-   "Het privégedeelte wordt behandeld als een forfaitair voordeel van alle aard, waarvoor de prestaties regelmatig moeten zijn en uitgevoerd worden door een onderneming met mensen in dienst. De btw op het beroepsmatige deel kan een btw-plichtige zaak met aftrekrecht in principe recupereren, op het privégedeelte in principe niet. Voor een btw-vrijgestelde praktijk is de btw doorgaans niet recupereerbaar. Laat je accountant dit bevestigen voor je eigen situatie."]},
-  {"h2": "Zo start je in de regio Tielt", "p": [
-   "Via het formulier of de chat stuur je een aanvraag. Een van ons belt je binnen één werkdag terug om de intake te plannen. Ter plaatse bekijken we je kantoor of bedrijf en stellen we je zondagsplan op. De eerste 2 uur zijn gratis en je kan elke maand opzeggen."]}
+  {"h2": "Klein beginnen mag", "p": [
+   "Niet elke zaak heeft meteen een wekelijks poetsplan nodig. Misschien wil je eerst weten hoe het is om iemand je kantoor te laten onderhouden, of heb je alleen een stevige opkuis vóór een open dag. Dat kan. Je boekt één blok van 3 uur, dat is 180 euro exclusief btw, en je Zondag komt op de afgesproken dag.",
+   "Bevalt het, dan zetten we een terugkerend plan op. Tussen de eerste boeking en een vast plan zit geen drempel: je kiest zelf het ritme."]},
+  {"h2": "Voorbeeld: een boekhoudkantoor met drie bureaus", "p": [
+   "Stel: je hebt een kantoor in Tielt voor je cliënten, met drie bureaus, een archiefkamer en een kleine keuken. Je boekt in januari een eerste blok, omdat de stapels papier zich opstapelen. Je Zondag poetst de bureaus en de keuken, ordent de archiefdozen volgens jouw instructies en zet de post op volgorde.",
+   "Een maand later kies je voor een vast blok op vrijdagochtend. De Zondag blijft dezelfde persoon, en weet wat jij graag hebt. Het boekhoudwerk blijft bij jou; Zondags doet alleen het ondersteunende werk."]},
+  {"h2": "Tielt en de andere gemeenten", "p": [
+   "In Tielt horen Aarsele, Kanegem en Schuiferskapelle bij de stad. Pittem heeft Egem als deelgemeente, Wingene heeft Zwevezele, Ruiselede heeft Doomkerke. Meulebeke ligt dicht bij Ingelmunster, Oostrozebeke en Dentergem. Rond Tielt zoeken we ook in Ardooie en Beernem.",
+   "Wil je de details voor de stad zelf, lees dan <a href=\"poetshulp/tielt.html\">poetshulp in Tielt</a>."]},
+  {"h2": "Wat je Zondag kan doen", "p": [
+   "<ul class=\"ticks\"><li>Bureaus, onthaal en vergaderruimte poetsen</li><li>Sanitair, refter en keuken verzorgen</li><li>Vloeren en ramen langs binnen</li><li>Post sorteren, documenten en dossiers ordenen</li><li>Boodschappen en pakjes voor de zaak regelen</li></ul>",
+   "Wat niet kan: technische klussen, werken op hoogte, gevelreiniging en industriële reiniging. Zondags doet ook geen boekhouding, jaarrekeningen, loonadministratie of fiscaal en juridisch advies."]},
+  {"h2": "Eén pakket, één prijs", "p": [
+   "Je betaalt 60 euro per uur exclusief btw. Een blok van 3 uur kost 180 euro exclusief btw. Extra uren boek je aan hetzelfde uurtarief. Dat is het hele prijsmodel; er zijn geen andere pakketten.",
+   "De factuur komt op naam van je bedrijf, met je btw-nummer. Het onderhoud van je kantoor is in principe een beroepskost, en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Je accountant bevestigt dit voor jouw situatie."]},
+  {"h2": "Je eerste blok boeken", "p": [
+   "Ga naar de <a href=\"boeken.html\">boekpagina</a>, kies een weekdag, minstens twee werkdagen vooraf, en het aantal blokken. Je geeft de naam en het btw-nummer van je bedrijf in en betaalt online. Liever eerst praten? Bel of app naar 0470 56 53 58, elke dag van 6 tot 22 uur."]}
  ],
  "faq": [
-  {"q": "Welk bedrijf levert poetshulp voor bedrijven in de regio Tielt?", "a": "Zondags (zondags.be) levert vaste poetshulp aan kantoren, winkels, praktijken en bouwbedrijven in de regio Tielt, onder meer in Tielt, Meulebeke, Pittem, Wingene en Ruiselede. Je krijgt steeds dezelfde persoon en één factuur voor je vennootschap."},
-  {"q": "Kan mijn kantoor aan huis in Meulebeke apart op de factuur staan?", "a": "Ja. Het beroepsmatige deel, zoals je kantoor, staat apart van het privégedeelte, zoals de woonruimte, op dezelfde dienstenfactuur. Zo kan je accountant elk deel verwerken zoals het hoort."},
-  {"q": "Poetst Zondags ook de refter en het sanitair van mijn ploeg?", "a": "Ja. Refter, kleedruimte, sanitair en kantoor horen bij het wekelijkse onderhoud. Productiehallen, industriële reiniging en bouwopkuis na werken doen we niet. Welke ruimtes precies, leggen we samen vast in je zondagsplan."},
-  {"q": "Werkt Zondags ook in Pittem, Wingene en Ruiselede?", "a": "Ja, die gemeenten en hun deelgemeenten liggen allemaal in West-Vlaanderen. Je zaak daar meld je zoals elke andere aan, en welke dagen en uren passen, zoeken we samen uit."},
-  {"q": "Kan ik opzeggen als het niet bevalt?", "a": "Ja, je kan het plan elke maand opzeggen. Past je Zondag niet bij je zaak, dan gaan we samen op zoek naar een andere. Meer of minder uren vraag je gewoon aan."}
+  {"q": "Welk bedrijf levert poetshulp voor kantoren in de regio Tielt?", "a": "Zondags, een dienstverlener uit Marke, werkt voor bedrijven in West-Vlaanderen en dus ook in de regio Tielt. Je krijgt één vaste persoon en een factuur op naam van je bedrijf."},
+  {"q": "Kan ik één keer een blok boeken om te zien of het bevalt?", "a": "Ja. Je kan met één blok van 3 uur starten. Past het, dan spreken we een vast plan af met dagen en uren. Klikt het niet, dan zoeken we samen een andere Zondag."},
+  {"q": "Werkt Zondags ook in Meulebeke, Pittem, Wingene en Ruiselede?", "a": "Ja. We zoeken Zondags in al die gemeenten en in hun deelgemeenten. Geef bij je aanvraag de plaats van je zaak door."},
+  {"q": "Wat kost een poetshulp voor een bedrijf in de regio Tielt?", "a": "Je betaalt 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren kosten hetzelfde tarief."},
+  {"q": "Kan Zondags ook mijn archief en dossiers ordenen?", "a": "Ja, als ondersteunend werk. Je Zondag ordent dossiers en klasseert documenten volgens jouw instructies. Boekhouding of advies doet Zondags niet."}
  ]
 }

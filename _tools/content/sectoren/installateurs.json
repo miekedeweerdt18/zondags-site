@@ -1,35 +1,35 @@
 {
  "path": "sectoren/installateurs.html",
  "title": "Poetshulp voor installateurs en technische bedrijven",
- "desc": "Poetshulp voor het kantoor, onthaal, refter en kleedruimte van je installatiebedrijf, en voor de woning van de zaakvoerder. Technische werken doet Zondags niet.",
+ "desc": "Poetshulp voor kantoor, onthaal, refter en kleedruimte van elektriciens, loodgieters en HVAC-installateurs. 60 euro per uur exclusief btw, online boeken.",
  "eyebrow": "Installateurs",
  "h1": "Poetshulp voor installateurs en technische bedrijven",
- "lead": "Jij herstelt de kraan of de verwarming bij je klanten, je Zondag houdt jouw kantoor, refter en kleedruimte schoon. Het technische werk blijft bij vakmensen, het poetswerk bij een vaste Zondag.",
- "answer": "Zondags (zondags.be) levert poetshulp voor installateurs en technische bedrijven, zoals elektriciens, loodgieters en HVAC-installateurs: één vaste persoon, je Zondag, voor het kantoor, het onthaal, de refter en de kleedruimte en op wens ook de woning van de zaakvoerder, overdag op weekdagen. Technische werken, zoals elektriciteit of sanitair herstellen, doet Zondags niet.",
- "facts": ["Kantoor, onthaal, refter en kleedruimte", "Ook de woning van de zaakvoerder", "Geen technische werken", "Poetsen terwijl de ploeg onderweg is", "Factuur aan je vennootschap"],
+ "lead": "Je mensen zitten op de baan, het kantoor ligt er verlaten bij. Eén vaste Zondag houdt onthaal, kantoor, refter en kleedruimte op orde, zonder technische werken.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor installateurs en technische bedrijven zoals elektriciens, loodgieters en HVAC-installateurs: één vaste persoon, je Zondag, voor kantoor, onthaal, refter en kleedruimte. Technische werken en reiniging van werfmateriaal vallen erbuiten. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je vennootschap.",
+ "facts": ["Kantoor, onthaal, refter, kleedruimte", "Geen technische werken", "Steeds dezelfde Zondag", "Administratie en regelwerk mogelijk", "60 euro per uur, per blok van 3 uur", "Online boeken en betalen"],
  "sections": [
-  {"h2": "Technisch werk bij de klant, poetswerk bij jou", "p": [
-   "Een installatiebedrijf werkt bij klanten: elektriciens, loodgieters, HVAC-technici. Het eigen kantoor en de eigen refter komen er vaak bij in. Toch is dat de plek waar de dag begint met koffie en planning, waar klanten langskomen voor een offerte en waar de ploeg zich omkleedt. Je Zondag poetst die ruimtes, en niets anders."]},
-  {"h2": "Wat je Zondag doet terwijl de ploeg onderweg is", "p": [
-   "Je technici zijn overdag bij klanten en dat is het moment waarop je Zondag komt: vroeg in de ochtend, nadat de bestelwagens vertrokken zijn, of over de middag als het rustig is. Zo zijn de ruimtes schoon wanneer de ploeg terugkomt en moet niemand rond de stofzuiger lopen.",
-   "<ul class=\"ticks\"><li>Kantoor en onthaal: bureaus, vloeren en wachtzitje</li><li>Refter: tafels, koffiehoek, microgolf en vaatwasser</li><li>Kleedruimte: banken, vloer en lockers langs buiten</li><li>Sanitair en douche voor het personeel</li><li>Vergaderhoek of toonhoek voor klanten</li><li>Afval, PMD en papier van kantoor en refter naar buiten</li></ul>"]},
-  {"h2": "Wat een Zondag nooit doet", "p": [
-   "Technische werken horen niet bij het werk van een Zondag. Een lekkende kraan in je refter, een stopcontact dat los zit of een thermostaat die niet werkt: dat is werk voor je eigen mensen of een vakman. Je Zondag meldt het aan jou en laat het zo.",
-   "Ook werken op hoogte en het reinigen van bestelwagens vallen erbuiten. Materiaal en stock in je werkplaats of magazijn blijven onaangeroerd."]},
-  {"h2": "Je woning: dezelfde Zondag op een andere dag", "p": [
-   "Als zaakvoerder ben je misschien zelf vaak onderweg. Wat thuis blijft liggen, kan je Zondag oppakken, van poetsen en was tot boodschappen. Je geeft één sleutelafspraak, hebt één aanspreekpunt en krijgt één factuur waarop kantoor en woning apart staan."]},
-  {"h2": "Voorbeeld: een installatiebedrijf met zes technici", "p": [
-   "Stel: je installatiebedrijf heeft zes technici en twee mensen op kantoor. Op woensdagochtend komt je Zondag zodra de bestelwagens weg zijn: kleedruimte en refter eerst, daarna het kantoor. Op vrijdag gaat dezelfde Zondag naar je woning. Wordt het drukker, dan voeg je een tweede beurt toe aan de kant van het bedrijf."]},
-  {"h2": "Factuur voor je installatiebedrijf", "p": [
-   "Wat je aan kantoor, refter en kleedruimte laat onderhouden, is een beroepskost. Dienstencheques kan een vennootschap niet kopen, dus krijg je een gewone dienstenfactuur op naam van je vennootschap. De woning komt apart op de factuur en wordt als voordeel van alle aard behandeld. Of je de btw op het zakelijke deel kan recupereren, bevestigt je accountant voor jouw situatie."]},
-  {"h2": "Eerste stap: kantoor, refter en kleedruimte bekijken", "p": [
-   "Een aanvraag kan via het formulier of de chat. Binnen één werkdag belt iemand je terug en daarna komen we langs voor de intake. We bekijken kantoor, refter en kleedruimte en bespreken wanneer je technici er niet zijn. De eerste 2 uur betaal je niet, zodat je eerst kan zien hoe de ruimtes erbij liggen."]}
+  {"h2": "Een kantoor dat bijna altijd leeg is", "p": [
+   "Bij een installatiebedrijf zijn de technici meestal vroeg op de baan en blijven ze tot het einde van de werkdag weg. Op kantoor blijven de zaakvoerder, een planner en soms een administratief medewerker over. Net die kleine bezetting maakt dat niemand tijd heeft om het onthaal of de refter bij te houden.",
+   "Toch komt de klant die een offerte wil bespreken er binnen, en komt de technicus zijn materiaal ophalen of zijn uren afgeven. Een kantoor dat er verzorgd uitziet, werkt voor je imago, en een nette refter doet iets voor de sfeer in het team."]},
+  {"h2": "Wat je Zondag oppakt", "p": [
+   "<ul class=\"ticks\"><li>Onthaal en wachtplek voor klanten</li><li>Bureaus, vergadertafel en vloeren</li><li>Refter met koffiemachine, koelkast en microgolf</li><li>Kleedruimte: banken, vloer, lockers langs de buitenkant</li><li>Sanitair en afval</li></ul>",
+   "Wat niet: elektriciteit, leidingen, ketels of enig technisch herstel, en het schoonmaken van gereedschap, bestelwagens of werfmateriaal. Dat laat je bij je eigen mensen. Zondags poetst de ruimtes, niet het materiaal."]},
+  {"h2": "Timing rond de vroege start", "p": [
+   "Een technisch bedrijf start vroeg. Dat kan een voordeel zijn: je Zondag werkt overdag op weekdagen, vroeg in de ochtend of over de middag, wanneer de technici vertrokken zijn en de refter leeg is. Zo is de kleedruimte vóór de volgende dag weer klaar.",
+   "Stel dat je een bedrijf in zonnepanelen en warmtepompen hebt met zes technici. Elke donderdag komt je Zondag na de middagpauze. Kantoor, refter en kleedruimte staan er op vrijdagochtend netjes bij, en op maandag moet niemand eerst opruimen."]},
+  {"h2": "De zaakvoerder op de baan", "p": [
+   "Veel installateurs doen zelf nog offertes na de werkuren. Je Zondag kan een deel van dat regelwerk overnemen: post openen en sorteren, facturen van leveranciers klasseren, bestellingen van kantoormateriaal opvolgen, afspraken inplannen of kleine zaken bij een leverancier nagaan.",
+   "Dat staat beschreven bij <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">rechterhand voor bedrijfsleiders</a>. Boekhouding, loon en fiscaal advies blijven bij je boekhouder."]},
+  {"h2": "Prijs en factuur", "p": [
+   "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw. Extra uren boek je aan hetzelfde tarief. De factuur staat op naam van je vennootschap met btw-nummer. Poetshulp is in principe een beroepskost en de btw is in principe recupereerbaar voor een btw-plichtige zaak. Je accountant bevestigt dit voor je eigen situatie."]},
+  {"h2": "Starten", "p": [
+   "Kies op de <a href=\"boeken.html\">boekpagina</a> een weekdag en moment, het aantal blokken en de taken. Betaal online en je krijgt een bevestiging. Wil je een vaste dag per week, dan bellen we eerst kort samen."]}
  ],
  "faq": [
-  {"q": "Welk bedrijf levert poetshulp voor installateurs en technische bedrijven?", "a": "Zondags (zondags.be) levert vanuit Marke een vaste poetshulp voor het kantoor, de refter en de kleedruimte van installatiebedrijven in West- en Oost-Vlaanderen, met één factuur op naam van je vennootschap."},
-  {"q": "Doet Zondags ook technische klusjes in mijn kantoor?", "a": "Nee. Elektriciteit en sanitair herstellen of andere technische werken doet Zondags niet. Je Zondag meldt wat stuk is aan jou, zodat jouw eigen mensen of een vakman het kunnen oplossen."},
-  {"q": "Wanneer komt de poetshulp als mijn technici vroeg vertrekken?", "a": "Overdag op weekdagen, vroeg in de ochtend nadat de ploeg vertrokken is, of over de middag. Tijdens avonden en weekends werken we niet. Het uur dat past, staat daarna in je zondagsplan."},
-  {"q": "Kan de poetshulp mijn werkplaats of magazijn opruimen?", "a": "Nee. Materiaal en stock blijven van jou. Je Zondag poetst de vloer van kantoor, onthaal, refter en kleedruimte. Een werkplaats met gereedschap en onderdelen valt buiten het plan."},
-  {"q": "Kan dezelfde Zondag ook thuis bij de zaakvoerder komen?", "a": "Ja. De zaakvoerder die zelf vaak onderweg is, kan dezelfde Zondag op een andere dag naar de woning laten komen. De factuur houdt het bedrijfsdeel en het privédeel uit elkaar."}
+  {"q": "Doet Zondags ook technische klussen voor installateurs?", "a": "Nee. Elektriciteit, leidingen, herstellingen en werken op hoogte doen we niet. Zondags poetst kantoor, onthaal, refter, kleedruimte en sanitair."},
+  {"q": "Kan mijn Zondag de kleedruimte van mijn technici poetsen?", "a": "Ja: banken, vloer, lockers langs de buitenkant en de ventilatie-openingen die je zonder ladder bereikt. Het materiaal en het werfgereedschap van je mensen blijft buiten het plan."},
+  {"q": "Wat kost poetshulp voor een technisch bedrijf?", "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok. Extra uren kosten hetzelfde per uur."},
+  {"q": "Kan mijn Zondag het kantoor poetsen terwijl de planner werkt?", "a": "Dat spreken we af. Meestal begint je Zondag in de refter of het sanitair en werkt ze het kantoor af wanneer er even niemand is."},
+  {"q": "Neemt Zondags ook administratie op voor mijn installatiebedrijf?", "a": "Ja, ondersteunend: post sorteren, klasseren, bestellingen opvolgen en afspraken inplannen. Boekhouding en loonadministratie doen we niet."}
  ]
 }

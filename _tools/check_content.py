@@ -15,7 +15,8 @@ MAX_LINKS = 4
 BANNED = [
  (r'—', 'em-dash'), (r'–', 'en-dash'), (r'!', 'uitroepteken'), (r'ontzorg', 'ontzorgen'), (r'totaaloplossing', 'totaaloplossing'),
  (r'een echte mens', 'een echte mens'), (r'poetsvrouw', 'poetsvrouw'), (r'kuisvrouw', 'kuisvrouw'), (r'huishoudster', 'huishoudster'),
- (r'\buw\b', 'u-vorm (uw)'), (r'\bUw\b', 'u-vorm (Uw)'), (r'(?<![\w-])[uU](?![\w-])', 'u-vorm (u)'), (r'€|\beuro\b|\bEUR\b', 'prijs/euro'),
+ (r'\buw\b', 'u-vorm (uw)'), (r'\bUw\b', 'u-vorm (Uw)'), (r'(?<![\w-])[uU](?![\w-])', 'u-vorm (u)'), (r'€|\bEUR\b', 'euroteken'), (r'(?<!60 )(?<!180 )\beuro\b', 'ander bedrag dan 60 of 180 euro'), (r'\bgratis\b|\bkorting|\bproefuren', 'gratis of korting (bestaat niet)'),
+ (r'(?i)particulier|\bgezin|kinder|opvang|au.?pair|oppas|\bthuis|aan huis|\bwoning|\bprivé|huishoud|\bkookt?\b|\bkoken\b|kookhulp|\bhond|\btuin|strijk|dienstencheque|voordeel van alle aard|vieruur|schoolpoort', 'geen zakelijke klant (enkel bedrijven)'),
  (r'\d+\s*(%|procent)', 'percentage'), (r'Claude|Anthropic|ChatGPT|Cowork|\bAI\b|kunstmatige intelligentie|OpenAI', 'AI-vermelding'),
  (r'gegarandeerd|garantie|garanderen', 'garantiebelofte'), (r'gecertificeerd|ISO[ -]?\d|ecolabel|keurmerk', 'certificaatclaim'),
  (r'verzekerd|verzekering dekt', 'verzekeringsclaim'), (r'\bhuishouder\b', 'huishouder'), (r'zwart werk|zwartwerk', None),
@@ -32,6 +33,11 @@ def existing_targets():
         t.add(r)
         if r.endswith('index.html'): t.add(r[:-10])
     t |= set(PLAN.keys())
+    try:
+        sys.path.insert(0, os.path.join(ROOT, '_tools')); import geo_pillars
+        t |= {p['path'] for p in geo_pillars.PILLARS}
+    except Exception: pass
+    t |= {'boeken.html'}
     t |= {os.path.dirname(p) + '/' for p in PLAN}
     return t
 
@@ -98,6 +104,7 @@ def check(f, d, targets, sh_all, sh_site):
     alltext = ' '.join([d.get('title', ''), d.get('desc', ''), d.get('eyebrow', ''), ' '.join(fa if isinstance(fa, list) else []), text_of(d)])
     for pat, name in BANNED:
         if name is None: continue
+        if name.startswith('geen zakelijke') and rel == 'vragen/werkt-zondags-enkel-voor-bedrijven.html': pat = r'(?i)\bgezin|kinder|opvang|au.?pair|oppas|\bthuis|aan huis|\bwoning|\bprivé|huishoud|\bkookt?\b|\bkoken\b|\bhond|\btuin|strijk|dienstencheque|voordeel van alle aard|vieruur'
         m = re.search(pat, re.sub(r'<[^>]+>', ' ', alltext))
         if m: errs.append(f'verboden: {name} ("{alltext[max(0, m.start() - 30):m.end() + 30]}")' if False else f'verboden: {name} -> "{m.group(0)}"')
     stripped = ALLOWED_TAGS.sub('', alltext)
@@ -107,7 +114,7 @@ def check(f, d, targets, sh_all, sh_site):
     for l in links:
         if l.startswith(('http', '/', '#', '../')) or l not in targets: errs.append(f'link bestaat niet of niet relatief vanaf de root: {l}')
     nums = set(re.findall(r'\b\d[\d.,]*\b', re.sub(r'<[^>]+>', ' ', text_of(d))))
-    okn = {'2', '18', '0470', '56', '53', '58', '6', '22', '281.20', '281'} | {p.get('postcode', '') for p in PLAN.values()}
+    okn = {'60', '180', '3', '24', '18', '0470', '56', '53', '58', '6', '22'} | {p.get('postcode', '') for p in PLAN.values()}
     weird = [n for n in nums if n not in okn]
     if weird: warns.append('getallen (controleer of ze kloppen, verzin geen cijfers): ' + ', '.join(sorted(weird)[:8]))
     w = len(words(text_of(d)))

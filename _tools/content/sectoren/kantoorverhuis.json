@@ -1,34 +1,93 @@
 {
  "path": "sectoren/kantoorverhuis.html",
- "title": "Poetshulp bij een kantoorverhuis: nieuw en oud kantoor",
- "desc": "Poetshulp bij een kantoorverhuis: het nieuwe kantoor poetsen voor de verhuis, het oude erna, als losse opdracht. Daarna eventueel een vaste Zondag.",
+ "title": "Poetshulp bij een kantoorverhuis",
+ "desc": "Poetshulp bij een kantoorverhuis: het nieuwe kantoor schoon voor de dozen, het oude netjes erna. Per blok van 3 uur, 60 euro per uur exclusief btw.",
  "eyebrow": "Kantoorverhuis",
  "h1": "Poetshulp bij een kantoorverhuis",
- "lead": "Bij een verhuis zijn er twee kantoren om schoon te krijgen: het nieuwe voor je intrek, het oude voor je de sleutel teruggeeft. Dat kan als losse opdracht, daarna eventueel in een vast plan.",
- "answer": "Zondags (zondags.be) poetst bij een kantoorverhuis het nieuwe kantoor vóór de verhuis en het oude kantoor erna, als losse opdracht op weekdagen overdag. Daarna kan je Zondag het nieuwe kantoor in een vast zondagsplan blijven onderhouden. Een bouwopkuis na verbouwingswerken doet Zondags niet. De poetsopdracht staat op een gewone dienstenfactuur aan je vennootschap.",
- "facts": ["Nieuw kantoor poetsen vóór de verhuis", "Oud kantoor poetsen erna", "Losse opdracht op een weekdag", "Daarna eventueel een vast plan", "Factuur aan je vennootschap"],
+ "lead": "Een verhuis vraagt al genoeg van je team. Zondags poetst het nieuwe kantoor voordat de dozen binnenkomen en het oude kantoor nadat het leeg is, met één vaste persoon.",
+ "answer": "Zondags (zondags.be) poetst bij een kantoorverhuis het nieuwe kantoor voor de verhuis en het oude kantoor erna, als losse opdracht op een weekdag. Je Zondag is van de eerste tot de laatste beurt dezelfde persoon. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je bedrijf. Het verhuizen zelf, met sjouwen en transport, doet Zondags niet. Na de verhuis kan dezelfde persoon doorgaan in een vast wekelijks plan.",
+ "facts": [
+  "Nieuw kantoor schoon voor de eerste doos",
+  "Oud kantoor leeg en netjes erna",
+  "Dezelfde Zondag voor beide locaties",
+  "Losse opdracht, daarna eventueel een vast plan",
+  "60 euro per uur, per blok van 3 uur",
+  "Factuur op naam van je bedrijf"
+ ],
  "sections": [
-  {"h2": "Twee kantoren, één planning", "p": [
-   "Een verhuis loopt over een paar weken en poetsen is een van de dingen die vaak te laat op de lijst komt. Het nieuwe kantoor moet schoon zijn voor de meubels binnenkomen, het oude moet leeg en netjes zijn voor je de sleutels teruggeeft. Wie beide pas in de laatste week regelt, loopt vast tussen het inpakken, de IT en de verhuizers. Zet het poetsen daarom vroeg op de planning, met één vaste Zondag voor beide kantoren."]},
-  {"h2": "Het nieuwe kantoor: poetsen voor de meubels binnenkomen", "p": [
-   "Zolang het nieuwe kantoor leeg is, bereik je alles. Eens de meubels staan, is dat veel moeilijker. Plan de beurt op een werkdag voor de verhuis, na de laatste werkman en vóór de verhuizers. Is er verbouwd, dan is een bouwopkuis na de werken geen werk voor Zondags: die laat je eerst door de aannemer afronden.",
-   "<ul class=\"ticks\"><li>Vloeren en plinten, ook onder de ramen</li><li>Vensterbanken en ramen langs binnen</li><li>Kasten en lades langs binnen, voor je ze vult</li><li>Sanitair en keuken, voor ze in gebruik komen</li><li>Deuren, deurklinken en lichtschakelaars</li><li>Radiatoren langs buiten, voor zover binnen handbereik</li></ul>"]},
-  {"h2": "Het oude kantoor: leeg en netjes terug", "p": [
-   "Na de verhuis staat het oude kantoor leeg, met sporen van meubels, stof in de hoeken en een keuken die nog gebruikt werd. Je Zondag komt op de eerstvolgende werkdag nadat alles weg is: vloeren, plinten, ramen langs binnen, kasten die blijven staan, sanitair en keuken.",
-   "Wat de verhuurder verwacht bij oplevering, kijk je vooraf na in je huurovereenkomst of de plaatsbeschrijving. Neem die lijst mee naar de intake, dan houden we er rekening mee."]},
-  {"h2": "Timing op weekdagen", "p": [
-   "Wij werken overdag op weekdagen. Verhuis je op vrijdag of in het weekend, dan is het nieuwe kantoor uiterlijk donderdag aan de beurt en het oude op de eerste werkdag erna, meestal de maandag. Verhuis je midden in de week, dan komt het nieuwe kantoor de dag ervoor aan bod."]},
-  {"h2": "Een losse opdracht, of meteen een vast plan", "p": [
-   "Voor beide kantoren werkt Zondags als losse opdracht: een grote poetsbeurt op afgesproken dagen. Wil je daarna een vaste Zondag in het nieuwe kantoor, dan zetten we het om in een zondagsplan, met dezelfde persoon, een vaste dag en een vast uur. De eerste 2 uur zijn gratis, om kennis te maken."]},
-  {"h2": "Voorbeeld, factuur en eerste stap", "p": [
-   "Stel: je kantoor met tien werkplekken verhuist op vrijdag. Op woensdag en donderdag poetst je Zondag het nieuwe kantoor leeg: vloeren, ramen, kasten, sanitair en keuken. Op maandag volgt het oude kantoor. In de week erna begint dezelfde Zondag in het nieuwe kantoor met een vast moment per week.",
-   "De factuur komt op naam van je vennootschap, als gewone dienstenfactuur. Je accountant bevestigt hoe je dat boekt en wat de btw betreft. Je vraagt het aan via het formulier of de chat, en binnen één werkdag belt iemand je terug."]}
+  {
+   "h2": "Twee poetsbeurten, twee momenten",
+   "p": [
+    "Bij een kantoorverhuis zijn er eigenlijk twee schoonmaakmomenten die elk hun eigen timing hebben. Het nieuwe kantoor poets je liefst vóór je meubels en dozen binnenkomen, want een lege ruimte is op een paar uur tijd grondig te doen. Het oude kantoor poets je nadat de laatste kast de deur uit is, wanneer je eindelijk overal bij kan.",
+    "Een externe vaste persoon neemt dat deel van de planning uit je handen, zonder dat je telkens opnieuw moet uitleggen waar het om gaat."
+   ]
+  },
+  {
+   "h2": "Het nieuwe kantoor: schoon voor de eerste doos",
+   "p": [
+    "Een nieuw pand is zelden zo proper als het eruitziet. Er ligt bouwstof op de vensterbanken, de keuken is stoffig en de vloeren dragen sporen van de vorige gebruiker.",
+    "<ul class=\"ticks\"><li>Vloeren en plinten in alle lokalen</li><li>Keuken, kasten en frigo van binnen en van buiten</li><li>Sanitair en spiegels</li><li>Bureaus, kasten en archiefruimte stofvrij maken</li><li>Ramen en glazen deuren langs binnen</li><li>Onthaal en vergaderzaal klaarzetten</li></ul>",
+    "Bouwopkuis na werken door aannemers valt buiten wat Zondags doet. Het gaat om een opgeleverde ruimte die een grondige eerste beurt nodig heeft."
+   ]
+  },
+  {
+   "h2": "Het oude kantoor: leeg en netjes achterlaten",
+   "p": [
+    "Als je huurt, verwacht je verhuurder meestal dat je het pand in een bepaalde staat achterlaat. Wat dat inhoudt, lees je in je huurovereenkomst. Zondags geeft daar geen advies over, maar zorgt wel voor de poetsbeurt zelf: vloeren, sanitair, keuken, lege kasten, ramen langs binnen en het laatste afval.",
+    "Herstelwerk aan muren, schilderwerk of technische ingrepen horen er niet bij. Gebeurt je verhuis in het weekend, dan poets je het oude kantoor op de eerstvolgende weekdag."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een adviesbureau van acht mensen",
+   "p": [
+    "Stel: je hebt een adviesbureau met acht mensen dat op vrijdag verhuist. Op dinsdag komt je Zondag in het nieuwe kantoor voor een eerste grondige beurt, zodat de bureaus en de keuken op woensdag al klaar zijn voor het uitpakken. Op maandag erna poetst dezelfde persoon het oude kantoor, nu volledig leeg."
+   ]
+  },
+  {
+   "h2": "Administratie en regelwerk rond de verhuis",
+   "p": [
+    "Een verhuis laat kleine klussen na. Dozen met dossiers moeten opnieuw geklasseerd worden, de post komt tijdelijk op twee adressen aan en de koffiehoek is leeg. Je Zondag kan het archief ordenen, de post sorteren, bestellingen van kantoorbenodigdheden opvolgen en de keuken bevoorraden.",
+    "Boekhouding of juridische opvolging hoort daar niet bij. Meer lees je bij <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">een rechterhand voor bedrijfsleiders</a>."
+   ]
+  },
+  {
+   "h2": "Daarna eventueel een vast plan",
+   "p": [
+    "Een losse opdracht bij een verhuis is vaak het begin van iets duurzaams. Je Zondag kent nu je nieuwe pand. Wil je het kantoor ook nadien netjes houden, dan leggen we in een kort gesprek een zondagsplan vast: welke taken, dagen en uren. Een idee vind je in de <a href=\"sectoren/checklist-wekelijkse-kantoorpoets.html\">checklist voor de wekelijkse kantoorpoets</a>.",
+    "Elk blok duurt 3 uur en kost 60 euro per uur exclusief btw, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief. Poetshulp en administratieve hulp voor de zaak zijn in principe een beroepskost, maar laat je accountant dit bevestigen voor je eigen situatie."
+   ]
+  },
+  {
+   "h2": "Zo boek je voor de verhuis",
+   "p": [
+    "Kies op de <a href=\"boeken.html\">boekpagina</a> de datum van elke beurt, het aantal blokken en de taken. Boeken kan minstens twee werkdagen vooraf. Liever eerst praten? Bel of stuur een WhatsApp naar 0470 56 53 58, elke dag van 6 tot 22 uur."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Wanneer poets je het nieuwe kantoor bij een verhuis?", "a": "Zo vroeg mogelijk, wanneer het kantoor leeg is: na de laatste werkman en vóór de verhuizers en de meubels binnenkomen. Dan kom je overal bij. Plan die beurt op een werkdag, want Zondags werkt overdag op weekdagen."},
-  {"q": "Kan Zondags het oude kantoor poetsen na de verhuis?", "a": "Ja, op de eerstvolgende werkdag nadat alles weg is. Vloeren, ramen langs binnen, sanitair en keuken horen erbij. Wat de verhuurder verwacht, kijk je vooraf na in je huurovereenkomst of plaatsbeschrijving."},
-  {"q": "Poetst Zondags ook na verbouwingswerken in het nieuwe kantoor?", "a": "Nee. Een bouwopkuis na werken doet Zondags niet. Is er verbouwd, dan rondt eerst de aannemer het werk en de opkuis af. Daarna komt je Zondag voor de grote poetsbeurt."},
-  {"q": "Kan een losse opdracht overgaan in een vast plan?", "a": "Ja. Na de verhuis kan je Zondag het nieuwe kantoor blijven onderhouden, op een vaste dag en een vast uur. Het plan is maandelijks opzegbaar en je kan uren bijboeken of het plan aanpassen."},
-  {"q": "Werkt Zondags in het weekend bij een verhuis?", "a": "Nee. Zondags werkt overdag op weekdagen, nooit 's avonds en nooit in het weekend. Verhuis je op vrijdag of in het weekend, dan plannen we het nieuwe kantoor op een werkdag ervoor en het oude op de werkdag erna."}
+  {
+   "q": "Poetst Zondags het oude en het nieuwe kantoor bij een verhuis?",
+   "a": "Ja, als twee losse opdrachten. Het nieuwe kantoor poets je voor de verhuis, het oude nadat het leeg is. Dezelfde Zondag kan beide beurten doen. Het verhuizen zelf valt buiten wat Zondags doet."
+  },
+  {
+   "q": "Wat kost de poetshulp bij een kantoorverhuis?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, geboekt per blok van 3 uur. Dat is 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief."
+  },
+  {
+   "q": "Kan het ook tijdens het weekend van de verhuis?",
+   "a": "Nee. Zondags werkt overdag op weekdagen, nooit 's avonds of in het weekend. Verhuis je in het weekend, dan plan je de beurt in het oude kantoor op de eerstvolgende weekdag."
+  },
+  {
+   "q": "Hoe snel kan ik de poetshulp boeken?",
+   "a": "Online boeken kan voor een weekdag, minstens twee werkdagen vooraf. Vraag het aan zodra je verhuisdatum vaststaat, zeker voor twee beurten."
+  },
+  {
+   "q": "Neemt Zondags ook bouwstof van aannemers weg?",
+   "a": "Een grondige eerste beurt in een opgeleverd pand kan. De bouwopkuis door aannemers na werken doet Zondags niet."
+  },
+  {
+   "q": "Kan mijn Zondag na de verhuis blijven komen?",
+   "a": "Ja. Na een kort gesprek leggen we samen een vast plan vast met taken, dagen en uren. Je krijgt steeds dezelfde persoon en een factuur op naam van je bedrijf."
+  }
  ]
 }

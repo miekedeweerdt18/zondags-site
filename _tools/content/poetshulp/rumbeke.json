@@ -1,33 +1,84 @@
 {
- "path": "poetshulp/rumbeke.html",
- "title": "Poetshulp voor kleine kantoren en praktijken in Rumbeke",
- "desc": "Poetshulp voor je kleine kantoor of praktijk in Rumbeke, deelgemeente van Roeselare. Bureaus, keuken en sanitair in orde door één vaste Zondag, op factuur.",
+ "title": "Poetshulp voor bedrijven in Rumbeke (8800)",
+ "desc": "Poetshulp voor praktijken en kleine kantoren in Rumbeke, een deelgemeente van Roeselare. Eén vaste persoon, 60 euro per uur excl. btw, per blok van 3 uur.",
  "eyebrow": "Rumbeke · 8800",
  "h1": "Poetshulp voor bedrijven in Rumbeke",
- "lead": "Een team van een handvol tot vijftien mensen heeft geen schoonmaakploeg nodig, wel iemand die weet waar alles staat. In Rumbeke is dat je vaste Zondag.",
- "answer": "Rumbeke is een deelgemeente van Roeselare met postcode 8800. Een klein kantoor of een praktijk daar, van een handvol tot vijftien mensen, kan bij Zondags (zondags.be) één vaste Zondag aanvragen voor bureaus, keuken of refter en sanitair, op een vast uur. Zondags factureert aan je vennootschap, via een gewone dienstenfactuur. Het werkgebied van Zondags is West- en Oost-Vlaanderen.",
- "facts": ["Kleine kantoren, van een handvol tot vijftien mensen", "Bureaus, keuken of refter en sanitair", "Rumbeke is een deelgemeente van Roeselare", "Vaste Zondag op een vast uur", "Eerste 2 uur gratis"],
+ "lead": "Een praktijk of klein kantoor in Rumbeke, deelgemeente van Roeselare, heeft geen poetsploeg nodig maar één betrouwbare persoon. Dat is je Zondag, op een vaste dag en een vast uur.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor praktijken en kleine kantoren in Rumbeke, een deelgemeente van Roeselare met postcode 8800. Eén vaste persoon, je Zondag, onderhoudt bureaus, behandelkamers, keuken en sanitair en neemt op vraag ook administratie over. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je bedrijf. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk, en is actief in West- en Oost-Vlaanderen.",
+ "facts": [
+  "Praktijken en kleine kantoren",
+  "Bureaus, behandelkamers, keuken",
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Factuur op naam van je bedrijf",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Rumbeke, deelgemeente van Roeselare", "p": [
-   "Rumbeke hoort bij Roeselare en deelt de postcode 8800. In de buurt liggen Oekene, Beveren, Ardooie en Izegem. Zit je zaak in Rumbeke, dan gaan we na welke Zondag in de buurt woont. Over de stad zelf en de andere deelgemeenten lees je meer bij <a href=\"poetshulp/roeselare.html\">poetshulp in Roeselare</a>."]},
-  {"h2": "Een klein team, een vast ritme", "p": [
-   "Met vijf, tien of vijftien mensen op kantoor zijn het telkens dezelfde plekken die als eerste vuil worden: de keuken, de refter, het toilet en de bureaus waar gegeten wordt. Dat is te veel om tussendoor zelf op te lossen en te weinig voor een grote firma.",
-   "<ul class=\"ticks\"><li>Bureaus en vergadertafel afnemen</li><li>Keuken of refter: tafels, koffiehoek en frigo</li><li>Sanitair en vloeren</li><li>Vuilnisbakken leegmaken en afval buiten zetten</li></ul>"]},
-  {"h2": "Wie doet wat in een tandartspraktijk?", "p": [
-   "Neem een tandartspraktijk met twee behandelkamers, een wachtzaal en een klein onthaal. Daar heeft iedereen zijn eigen terrein. De tandarts en de assistenten houden zelf alles bij wat met zorg te maken heeft, zoals sterilisatie en medisch materiaal. Je Zondag neemt de rest: wachtzaal, onthaal, vloeren, sanitair en de teamkeuken. Wat in de behandelkamers precies tot het werk behoort, leg je samen met ons vast.",
-   "Zo'n praktijk start vroeg. Komt je Zondag nog voor de eerste patiënt, dan begint het team in een opgeruimd gebouw. Over afspraken rond hygiëne in een praktijk lees je meer bij <a href=\"vragen/hygiene-afspraken-praktijk.html\">hygiëneafspraken met je poetshulp</a>."]},
-  {"h2": "De vaste beurt, niet elke handeling", "p": [
-   "Een Zondag neemt de vaste beurt over, niet elke handeling van elke dag. Wie de eigen mok afwast of het eigen bureau opruimt, blijft dat zelf doen. Wat je team zelf houdt en wat naar je Zondag gaat, leg je vast in het zondagsplan, zodat niemand moet raden. Groeit het team toch van vijf naar twaalf, dan boek je uren bij en blijft het plan maandelijks opzegbaar."]},
-  {"h2": "Dienstenfactuur op naam van je vennootschap", "p": [
-   "Poetshulp voor een kantoor of praktijk telt als beroepskost. Voor een btw-plichtige zaak met aftrekrecht is de btw erop in principe recupereerbaar, terwijl een btw-vrijgestelde praktijk die btw doorgaans niet kan terugvragen. Dienstencheques zijn niet voor vennootschappen bedoeld. Laat je accountant bevestigen wat dit voor jouw situatie betekent."]},
-  {"h2": "Wanneer en hoe je start", "p": [
-   "Het formulier of de chat is de eerste stap. Binnen één werkdag belt iemand je terug om het plan te bespreken, en daarna komen we langs voor de intake. Je eerste 2 uur met je Zondag zijn gratis."]}
+  {
+   "h2": "Klein bedrijf, vaste afspraak",
+   "p": [
+    "In Rumbeke zitten kantoren en praktijken waar een team van enkele mensen samenwerkt: een boekhoudkantoor, een architect, een tandarts met assistente. Zo'n team heeft geen aparte poetsfunctie en wil die ook niet creëren. Toch moeten bureaus, keuken en sanitair elke week aan de beurt komen, en moet iemand de bak met afval op de juiste dag buiten zetten.",
+    "Je Zondag is daarvoor de oplossing: één persoon die komt op een afgesproken weekdag en een afgesproken uur, alle taken kent en jou het nadenken bespaart."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een tandartspraktijk met twee behandelkamers",
+   "p": [
+    "Neem een tandartspraktijk in Rumbeke met twee behandelkamers, een wachtzaal, een kleine keuken en één toilet voor patiënten. Het medische deel, het steriliseren van instrumenten en het reinigen van behandelstoelen, blijft bij de praktijk zelf. Wat je Zondag overneemt is de rest: wachtzaal, vloeren, balie, keuken, sanitair en afval.",
+    "Ze komt over de middag, wanneer de afspraken even stilvallen, of vroeg in de ochtend. Vooraf spreken jullie af welke kamers binnen haar werk vallen en welke niet. Dat staat in het zondagsplan, zodat er nooit twijfel is over wie wat doet."
+   ]
+  },
+  {
+   "h2": "Wat een Zondag in een kleine praktijk of kantoor doet",
+   "p": [
+    "<ul class=\"ticks\"><li>Wachtzaal, balie en onthaal netjes houden</li><li>Vloeren in alle ruimtes, ook de gang</li><li>Keuken en frigo schoonmaken</li><li>Sanitair voor team en bezoekers</li><li>Bureaus afnemen en prullenmanden legen</li><li>Afval en papier naar de containers</li></ul>",
+    "Een goed overzicht van de aanpak vind je op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."
+   ]
+  },
+  {
+   "h2": "Rumbeke hoort bij Roeselare",
+   "p": [
+    "Rumbeke is een deelgemeente van Roeselare en heeft dezelfde postcode, 8800. Zondags werkt in beide, en ook in de nabije Oekene, Beveren, Ardooie en Izegem. Zoek je info voor het centrum van de stad, kijk dan op <a href=\"poetshulp/roeselare.html\">de pagina voor Roeselare</a>."
+   ]
+  },
+  {
+   "h2": "Administratie voor een klein team",
+   "p": [
+    "Kleine kantoren missen vaak de uren om hun papierwerk bij te houden. Je Zondag kan post sorteren, facturen en dossiers klasseren, een archief ordenen, kantoormateriaal bestellen en afspraken in de agenda plannen. Ze doet geen boekhouding en geeft geen fiscaal of juridisch advies."
+   ]
+  },
+  {
+   "h2": "Prijs en boeken",
+   "p": [
+    "Een blok van drie uur kost 180 euro exclusief btw, extra uren 60 euro per uur. De factuur is op naam van je bedrijf en in principe een beroepskost. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren, een btw-plichtige zaak met aftrekrecht in principe wel. Laat je accountant dit bevestigen. Boeken doe je op <a href=\"boeken.html\">de boekpagina</a>."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf biedt poetshulp voor een klein kantoor in Rumbeke?", "a": "Zondags (zondags.be). Voor een klein kantoor in Rumbeke komt één vaste Zondag, in dienst van Zondags en op een vast uur. De rekening is een dienstenfactuur, geen dienstencheque."},
-  {"q": "Is Rumbeke een aparte gemeente?", "a": "Nee, Rumbeke is een deelgemeente van Roeselare en heeft postcode 8800. Voor je aanvraag maakt dat niets uit: Zondags werkt in West- en Oost-Vlaanderen en zoekt een Zondag in je buurt."},
-  {"q": "Hoe vaak komt de poetshulp bij een kantoor van tien mensen?", "a": "Dat spreken we af tijdens de intake, op basis van je team en je ruimtes. Je kan starten met een vaste wekelijkse beurt en uren bijboeken wanneer het team groter wordt."},
-  {"q": "Mag de poetshulp van mijn tandartspraktijk ook het medisch materiaal reinigen?", "a": "Nee. Sterilisatie en medisch materiaal blijven bij je eigen team. Je Zondag poetst de wachtzaal, het onthaal, de vloeren en het sanitair, en wat in de behandelkamers kan, bespreken we tijdens de intake."},
-  {"q": "Kan ik klein beginnen en later uitbreiden?", "a": "Ja. Je start met 2 gratis uren om kennis te maken, en daarna boek je uren bij als het team groeit. Opzeggen kan elke maand."}
- ]
+  {
+   "q": "Welk bedrijf doet poetshulp voor praktijken in Rumbeke?",
+   "a": "Zondags doet poetshulp voor praktijken en kleine kantoren in Rumbeke, een deelgemeente van Roeselare. Je krijgt één vaste persoon in dienst van Zondags en een factuur op naam van je bedrijf."
+  },
+  {
+   "q": "Is Rumbeke een aparte plaats of hoort het bij Roeselare?",
+   "a": "Rumbeke is een deelgemeente van Roeselare, met dezelfde postcode 8800. Het aanbod van Zondags geldt voor beide."
+  },
+  {
+   "q": "Reinigt een Zondag ook de behandelstoel van de tandarts?",
+   "a": "Nee. Steriliseren en reinigen van medisch materiaal en behandelstoelen blijft bij de praktijk. Je Zondag poetst wachtzaal, vloeren, keuken, sanitair en andere ruimtes."
+  },
+  {
+   "q": "Wat kost het in Rumbeke?",
+   "a": "60 euro per uur exclusief btw, geboekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren kosten hetzelfde per uur."
+  },
+  {
+   "q": "Welke dag en welk uur komt de Zondag?",
+   "a": "Op de weekdag en het uur dat jij kiest, vroeg in de ochtend of over de middag. Eens afgesproken blijft dat vast. 's Avonds en in het weekend werken we niet."
+  },
+  {
+   "q": "Kan ik de Zondag proberen voor ik me vastleg?",
+   "a": "Je kan een blok van 3 uur boeken en zien hoe het loopt. Klikt het niet met je Zondag, dan zoeken we samen een andere persoon."
+  }
+ ],
+ "path": "poetshulp/rumbeke.html"
 }

@@ -1,80 +1,37 @@
 {
- "title": "Vaste job overdag in Gavere naast je bediendejob",
- "desc": "Bediende met een vierdagenweek en een vrije dag over? Vaste job overdag in Gavere bij Zondags, zonder avonden en weekends. Solliciteer vandaag.",
- "eyebrow": "Vaste job overdag · Gavere",
+ "path": "werken/vaste-job-overdag-gavere.html",
+ "title": "Vaste job overdag zonder weekends in Gavere",
+ "desc": "Werk je een vierdagenweek en wil je je vrije dag zinvol invullen? Een vaste job overdag in Gavere en omgeving, zonder weekends. Solliciteer bij Zondags.",
+ "eyebrow": "Vaste job · Gavere · 9890",
  "h1": "Vaste job overdag zonder weekends in Gavere",
- "lead": "Een vierdagenweek laat je een vrije dag over. In Gavere kan je die vullen met een vast deeltijds contract bij Zondags, of de overstap helemaal maken.",
- "answer": "Zondags (zondags.be) zoekt mensen in en rond Gavere voor een vaste job overdag op weekdagen, zonder avonden en weekends. Je krijgt een vast contract, deeltijds of voltijds, en werkt bij vaste klanten. Dat past bij wie een vrije dag wil invullen, bij herintreders en bij zij-instromers. Verloning boven het barema, verplaatsingen vergoed.",
- "facts": [
-  "Deeltijds of voltijds vast contract",
-  "Ook voor een vrije dag per week",
-  "Overdag op weekdagen",
-  "Nooit 's avonds of in het weekend",
-  "Verplaatsingen vergoed"
- ],
+ "lead": "Je werkt als bediende een vierdagenweek en je vijfde dag blijft onbenut. In Gavere kan je die invullen met vaste klanten, overdag en zonder weekends.",
+ "answer": "Zondags (zondags.be) zoekt in Gavere en de Vlaamse Ardennen mensen voor een vast contract overdag, zonder avonden en weekends. Het werk bestaat uit poetsen, administratieve hulp en praktische ondersteuning bij bedrijven zoals kantoren, praktijken en winkels. Combineer je dit met een andere job, bijvoorbeeld een vierdagenweek, dan bekijken we in het eerste gesprek of dat in jouw situatie past. Je kiest mee je dag en je uren.",
+ "facts": ["Vast contract, ook deeltijds", "Overdag op weekdagen", "Geen avonden, geen weekends", "Verloning boven het barema", "Verplaatsingen vergoed", "Dagen en uren kies je mee"],
  "sections": [
-  {
-   "h2": "Stel: je werkt vier dagen als bediende",
-   "p": [
-    "Stel dat je werkgever je een vierdagenweek geeft, en je zo elke week een dag overhoudt. Een dag die je niet graag leeg laat, maar ook niet in een druk weekendrooster wil duwen.",
-    "Een deeltijds contract bij Zondags kan een vaste invulling geven aan die dag. Of je bouwt, stap voor stap, meer uren op en ruilt je bediendejob uiteindelijk voor een nieuwe richting."
-   ]
-  },
-  {
-   "h2": "Hoe een gewone werkdag verloopt",
-   "p": [
-    "Je begint bij een klant op een afgesproken uur, bijvoorbeeld in de voormiddag. Je poetst, doet een was, strijkt of kookt. Dan ga je door naar een tweede klant of rond je dag af.",
-    "De klant heeft een zondagsplan met taken, uren en afspraken, zodat je weet wat verwacht wordt. Je werkt alleen in een huis of kantoor, in een rustig tempo.",
-    "Wie van een kantoor komt, merkt het verschil snel. Geen vergaderingen en geen mailbox die ademt in je nek, maar een lijst taken die je een voor een afvinkt, in je eigen volgorde. Dat past goed bij mensen die graag zien wat ze gedaan hebben."
-   ]
-  },
-  {
-   "h2": "Een voorbeeld van een vaste dag",
-   "p": [
-    "Neem je vrije vrijdag. 's Ochtends ben je bij een gezin voor de was en het strijk. Rond de middag haal je boodschappen voor een zelfstandige, en in de namiddag poets je zijn praktijk. Je bent vroeg klaar, en je weekend begint op tijd."
-   ]
-  },
-  {
-   "h2": "Wat een vaste job inhoudt",
-   "p": [
-    "Een vast contract bij Zondags, deeltijds of voltijds. Je dagen en uren kies je mee, en eens afgesproken ligt het rooster vast bij dezelfde klanten. Je verloning ligt boven het barema, verplaatsingen krijg je vergoed, en alles is correct geregeld.",
-    "Het kan ook zijn dat je na een tijd meer uren wil, omdat het bevalt. Dan breiden we uit in overleg met jou en de klanten. Voor wie van sector wisselt, is er ook <a href=\"jobs/afwisselende-job.html\">een pagina over afwisselend werk</a>."
-   ]
-  },
-  {
-   "h2": "Gavere en de deelgemeenten",
-   "p": [
-    "Gavere heeft postcode 9890. Asper, Baaigem, Dikkelvenne, Semmerzake en Vurste behoren tot Gavere. We zoeken Zondags in en rond Gavere, ook richting Nazareth, Kruisem, Zwalm en Merelbeke. Woon je net buiten Gavere, dan kijken we naar klanten die dicht bij je thuis liggen, zodat je dag niet in de wagen verdwijnt."
-   ]
-  },
-  {
-   "h2": "Solliciteren",
-   "p": [
-    "Gebruik het formulier, de chat of WhatsApp op 0470 56 53 58. Binnen twee werkdagen bellen we je voor een kort gesprek. Klikt het, dan zoeken we klanten die bij je dag en je woonplaats passen. Meer info vind je bij <a href=\"zondag-worden.html\">Zondag worden</a>."
-   ]
-  }
+  {"h2": "Een vrije dag die iets oplevert", "p": [
+   "Stel: je bent bediende en je werkgever laat je een vierdagenweek doen. Op vrijdag ben je vrij. Zo'n dag is bedoeld om op adem te komen, maar na een paar maanden weet je misschien wat je ermee wil doen: iets extra's opbouwen, zonder dat je weekends of avonden opoffert.",
+   "Een deeltijds vast contract als Zondag is dan een mogelijkheid. Je werkt een vaste dag per week, op hetzelfde uur, bij dezelfde klanten. Dat geeft een rustig ritme dat bij je hoofdjob past."]},
+  {"h2": "Past dit naast je hoofdjob?", "p": [
+   "Of een tweede job mogelijk is, hangt af van je eigen situatie, zoals je contract bij je huidige werkgever. Dat kunnen wij niet vooraf voor jou beslissen. In het eerste gesprek bekijken we samen wat kan en welk statuut past. Past het niet, dan zoeken we samen een andere oplossing.",
+   "Daarom raden we aan eerst even je eigen afspraken na te kijken, en dan gerust te bellen. Een vrijblijvend gesprek kost je niets."]},
+  {"h2": "Wat je op je vrije dag doet", "p": [
+   "Neem een vrijdag. Je begint vroeg in een kantoor met bureaus en vergaderzaal. Tegen de middag sorteer je de post van een praktijk en klasseer je documenten. Aan het einde van de dag zet je een winkel klaar voor het weekend en haal je kantoormateriaal af voor een zaakvoerder.",
+   "<ul class=\"ticks\"><li>Poetsen: kantoor, praktijk, winkel, refter, sanitair</li><li>Administratie: post, klasseren, gegevens invoeren, agenda</li><li>Rechterhand: pakjes, bestellingen, koffiehoek bevoorraden</li></ul>"]},
+  {"h2": "Wat je zelf in handen houdt", "p": [
+   "Je bepaalt mee welke dag je werkt en op welk uur je begint. Vroeg in de ochtend of over de middag kan. Avonden en weekends nooit. Is je vrije dag niet elke week dezelfde, dan zeg je dat vooraf, zodat we een rooster kiezen dat niet telkens verschuift.",
+   "Je bent in dienst van Zondags, met alles correct in orde op papier. De verloning ligt boven het barema en je verplaatsingen worden vergoed."]},
+  {"h2": "Gavere, Asper en de Vlaamse Ardennen", "p": [
+   "We zoeken Zondags in Gavere (9890) en in de deelgemeenten Asper, Baaigem, Dikkelvenne, Semmerzake en Vurste. Woon je in Nazareth, Kruisem, Zwalm of Merelbeke, dan zoeken we klanten dicht bij je woonplaats. We hebben geen vaste vacature bij een bepaald adres, we zoeken mensen in de streek en stemmen af op jouw dag.",
+   "Je buur in Nazareth leest misschien <a href=\"werken/vaste-job-overdag-nazareth.html\">de vaste job in Nazareth</a>."]},
+  {"h2": "Hoe solliciteer je?", "p": [
+   "Vul het formulier in, chat met ons of stuur een WhatsApp naar 0470 56 53 58. We bellen je binnen de twee werkdagen. Klikt het, dan zoeken we klanten die passen bij je vrije dag en gaan we bij de start samen langs. Elke klant krijgt een zondagsplan met taken, uren en afspraken. Meer over de job lees je op <a href=\"zondag-worden.html\">zondag worden</a>."]}
  ],
  "faq": [
-  {
-   "q": "Is er een vaste job overdag zonder weekends in Gavere?",
-   "a": "Zondags zoekt mensen in en rond Gavere voor een vaste job overdag op weekdagen. Je krijgt een vast contract, deeltijds of voltijds. Avonden en weekends zijn er niet."
-  },
-  {
-   "q": "Kan ik de vrije dag van mijn vierdagenweek invullen?",
-   "a": "Dat kan, als er klanten zijn die op die dag hulp zoeken. We bespreken in het eerste gesprek welk contract en welke uren passen."
-  },
-  {
-   "q": "Mag ik naast mijn bediendejob een vast contract hebben?",
-   "a": "Dat hangt af van je situatie en van wat je werkgever toelaat. Bespreek het eerst met hen. In het gesprek kijken we samen wat kan."
-  },
-  {
-   "q": "Kan ik later meer uren krijgen?",
-   "a": "Ja, uren bijboeken of het plan aanpassen kan, in overleg met jou en de klant."
-  },
-  {
-   "q": "Moet ik ervaring hebben?",
-   "a": "Nee. Betrouwbaarheid en zorg voor andermans huis tellen. We gaan bij de start samen langs bij je klanten."
-  }
- ],
- "path": "werken/vaste-job-overdag-gavere.html"
+  {"q": "Waar vind ik een vaste job overdag zonder weekends in Gavere?", "a": "Bij Zondags kan je solliciteren voor een vast contract overdag in en rond Gavere. Je werkt op weekdagen bij bedrijven als klant. Neem contact op via het formulier, de chat of WhatsApp, dan bellen we je binnen de twee werkdagen."},
+  {"q": "Kan ik één dag per week werken naast mijn hoofdjob?", "a": "Dat hangt af van je eigen situatie, onder meer van je contract bij je huidige werkgever. We bekijken het samen in het eerste gesprek. Past het niet, dan zoeken we een ander statuut dat wel past."},
+  {"q": "Moet ik een bepaalde dag kiezen?", "a": "Je kiest mee je dag en je uur, altijd overdag op een weekdag. Eens afgesproken ligt je rooster vast, zodat klanten en jij weten waar je aan toe bent."},
+  {"q": "Wat voor werk is het?", "a": "Poetsen van kantoren, praktijken en winkels, administratieve hulp zoals post sorteren en klasseren, en praktisch regelwerk voor een drukke bedrijfsleider. Technische klussen en werken op hoogte doen we niet."},
+  {"q": "Heb ik ervaring nodig?", "a": "Nee. Je hebt geen diploma of ervaring nodig, wel betrouwbaarheid, discretie en zin in orde. Je bent minstens 18 jaar en spreekt voldoende Nederlands."},
+  {"q": "Wie betaalt mijn verplaatsing?", "a": "Zondags vergoedt je verplaatsingen naar je klanten. We zoeken klanten dicht bij je woonplaats, zodat die verplaatsingen kort blijven."}
+ ]
 }

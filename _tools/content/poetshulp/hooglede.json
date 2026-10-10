@@ -1,35 +1,84 @@
 {
- "path": "poetshulp/hooglede.html",
- "title": "Poetshulp voor drukke zaakvoerders in Hooglede (8830)",
- "desc": "Poetshulp voor kantoor en huis in Hooglede en Gits, ook als je zelf onderweg bent. Eén vaste Zondag met een vaste dag, en één factuur aan je vennootschap.",
+ "title": "Poetshulp voor bedrijven in Hooglede (8830)",
+ "desc": "Poetshulp en een rechterhand voor bedrijfsleiders in Hooglede en Gits: kantoor, post en regelwerk. 60 euro per uur excl. btw, online per blok van 3 uur.",
  "eyebrow": "Hooglede · 8830",
  "h1": "Poetshulp voor bedrijven in Hooglede",
- "lead": "Je zit bij klanten, op de baan of in een vergadering terwijl je kantoor en je huis gewoon doorlopen. Een vaste Zondag houdt beide op orde, ook als jij er niet bent.",
- "answer": "Ben je zaakvoerder in Hooglede of Gits (8830) en vaak onderweg, dan houdt een vaste Zondag van Zondags (zondags.be) je kantoor en op vraag ook je woning op orde, op een vaste dag en een vast uur. Je hoeft er zelf niet bij te zijn. Eén dienstenfactuur aan je vennootschap dekt beide. De thuisbasis van Zondags is Marke, het werkgebied loopt over West- en Oost-Vlaanderen.",
- "facts": ["Kantoor en woning lopen door als jij onderweg bent", "Dezelfde Zondag met een vaste dag en vast uur", "Hooglede en Gits, postcode 8830", "Eén factuur op naam van je vennootschap", "Eerste 2 uur gratis"],
+ "lead": "Zit je als bedrijfsleider in Hooglede vaker bij klanten dan op kantoor? Je vaste Zondag houdt de zaak op orde en pakt het regelwerk op dat anders blijft liggen.",
+ "answer": "Zondags (zondags.be) biedt in Hooglede en Gits een vaste persoon voor bedrijfsleiders die veel onderweg zijn. Je Zondag poetst het kantoor en is tegelijk een rechterhand voor het regelwerk: post, documenten, bestellingen, kleine boodschappen voor de zaak en afspraken. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je bedrijf. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk.",
+ "facts": [
+  "Voor bedrijfsleiders die veel onderweg zijn",
+  "Kantoor poetsen en regelwerk",
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Factuur op naam van je bedrijf",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Je bent weg, de zaak draait door", "p": [
-   "Wie veel onderweg is, laat twee adressen achter: het kantoor en het huis. Op dinsdag zit je bij een klant, op donderdag in een vergadering, en ondertussen blijven bureaus, keuken en wasmand gewoon vuil worden. Een vaste Zondag lost dat op zonder dat jij er een agenda voor hoeft vrij te maken.",
-   "Dat werkt omdat dezelfde persoon op een vast moment komt, je ruimtes kent en weet wat je belangrijk vindt. Je legt het één keer uit tijdens de intake, in plaats van elke week opnieuw."]},
-  {"h2": "Twee vennoten, één kantoor, allebei onderweg", "p": [
-   "Stel: je hebt een advocatenkantoor in Hooglede met twee vennoten. De ene zit op dinsdag de hele dag bij cliënten, de andere is in vergadering. Het kantoor moet toch netjes zijn: bureaus zonder koffiekringen, een opgeruimde vergaderkamer en een onthaal dat klaarstaat. Je Zondag komt op een vast uur, ook als beide vennoten weg zijn.",
-   "Dossiers zijn vertrouwelijk. Spreek vooraf af welke kasten en bureaus ongemoeid blijven en wat blijft liggen. Hoe je dat aanpakt, lees je op <a href=\"vragen/vertrouwelijke-documenten-poetshulp.html\">vertrouwelijke documenten en poetshulp</a>."]},
-  {"h2": "Ook thuis loopt het door", "p": [
-   "Wie voor het kantoor een Zondag vastlegt, kan dezelfde persoon op een andere dag naar de woning laten gaan. Dan gaat het om poetsen, was en strijk, een gekookte schotel of de boodschappen, en om regelwerk zoals de apotheek of de droogkuis. Zo staat je huis op orde voor je weer binnenwandelt."]},
-  {"h2": "Afspraken voor als jij er niet bent", "p": [
-   "<ul class=\"ticks\"><li>Hoe je Zondag binnenkomt en wie de sleutel heeft</li><li>Welke ruimtes of kasten niet aangeraakt worden</li><li>Wat je na een beurt graag wilt weten</li><li>Wie je Zondag kan bereiken als er iets onverwachts is</li></ul>",
-   "Dat noteren we in je zondagsplan. Is je Zondag een tijd afwezig door ziekte of verlof, dan zoeken wij een oplossing."]},
-  {"h2": "Hooglede, Gits en de buurgemeenten", "p": [
-   "Gits is een deelgemeente van Hooglede (8830). Roeselare, Staden, Lichtervelde en Kortemark liggen in de buurt, en ook voor die gemeenten kan je een aanvraag doen. Telkens zoeken we een Zondag uit de buurt van je zaak."]},
-  {"h2": "Facturen en eerste stap", "p": [
-   "Je betaalt via een gewone dienstenfactuur op naam van je vennootschap, want dienstencheques zijn voor particulieren. Het kantoor onderhouden telt als beroepskost. Voor het deel dat je woning betreft, geldt een forfaitair voordeel van alle aard als de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Laat je accountant bevestigen wat hiervan voor jou geldt.",
-   "Je start met een bericht via het formulier of de chat. Binnen één werkdag belt iemand je terug, en de eerste 2 uur zijn gratis."]}
+  {
+   "h2": "Een kantoor dat verder draait terwijl jij weg bent",
+   "p": [
+    "Wie veel op verplaatsing is, merkt het pas bij terugkomst: de post ligt er nog, de koffie is op, een leverancier heeft teruggebeld en niemand heeft het genoteerd. Het kantoor is niet echt slecht, het ligt alleen stil op de momenten dat jij het nodig hebt. Daarom is een persoon die er elke week is meer waard dan een poetsbeurt alleen.",
+    "Je Zondag zorgt dat het kantoor bij je terugkomst klaarstaat om in te werken. Ze poetst, ordent en pakt op wat blijft liggen, volgens een lijst die jullie samen hebben opgesteld."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een advocatenkantoor met twee vennoten",
+   "p": [
+    "Neem een advocatenkantoor in Hooglede met twee vennoten die om beurten in de rechtbank en bij cliënten zitten. Er is een onthaalruimte, een vergaderkamer voor gesprekken en twee werkkamers vol dossiers. Discretie is voor dit kantoor belangrijker dan snelheid.",
+    "Je Zondag komt op een vaste voormiddag, wanneer beide vennoten weg zijn. Ze poetst de ruimtes en laat dossiers en documenten ongemoeid liggen. Daarna opent ze de post, sorteert die per vennoot, bestelt kantoormateriaal en zet afspraken in de gedeelde agenda. Juridisch werk of inhoudelijke dossiervoorbereiding doet ze niet."
+   ]
+  },
+  {
+   "h2": "Wat je als bedrijfsleider kan uitbesteden",
+   "p": [
+    "<ul class=\"ticks\"><li>Post openen en sorteren per persoon</li><li>Documenten en facturen klasseren, archief ordenen</li><li>Afspraken en agenda opvolgen</li><li>Een boodschap voor de zaak, zoals kantoormateriaal of een pakje afhalen</li><li>Een leverancier contacteren voor een kleine zaak</li><li>De koffiehoek en keuken bevoorraden</li><li>Het kantoor klaarzetten voor een klantenbezoek</li></ul>",
+    "Hoe die rechterhand in de praktijk werkt, lees je op <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">de pagina over een rechterhand voor bedrijfsleiders</a>."
+   ]
+  },
+  {
+   "h2": "Wat je niet uitbesteedt",
+   "p": [
+    "Boekhouding, jaarrekeningen, loonadministratie en fiscaal of juridisch advies horen er niet bij. Technische klussen, werken op hoogte en gevelreiniging ook niet. Je Zondag is ondersteuning, geen vervanging van je boekhouder of adviseur."
+   ]
+  },
+  {
+   "h2": "Hooglede, Gits en de gemeenten errond",
+   "p": [
+    "Hooglede heeft postcode 8830. Gits is een deelgemeente van Hooglede en valt onder hetzelfde aanbod. Zit je zaak in Roeselare, Staden, Lichtervelde of Kortemark, dan zoeken we ook daar een Zondag. Meer over de stad Roeselare lees je op <a href=\"poetshulp/roeselare.html\">de pagina voor Roeselare</a>."
+   ]
+  },
+  {
+   "h2": "Prijs, btw en boeken",
+   "p": [
+    "Een blok van drie uur kost 180 euro exclusief btw, extra uren 60 euro per uur. De factuur staat op naam van je vennootschap. Dit is in principe een beroepskost en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant dit bevestigen. Online boeken doe je op <a href=\"boeken.html\">de boekpagina</a>."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf regelt poetshulp voor het kantoor van een drukke zaakvoerder in Hooglede?", "a": "Zondags (zondags.be). Je Zondag komt op een vaste dag en een vast uur, ook als jij bij klanten zit, en onderhoudt je kantoor in Hooglede of Gits. Je betaalt één dienstenfactuur aan je vennootschap."},
-  {"q": "Moet ik zelf aanwezig zijn wanneer de Zondag komt?", "a": "Dat is niet nodig als je dat zo afspreekt. Tijdens de intake leggen we vast hoe je Zondag binnenkomt en wat bij jou blijft liggen. Zo loopt het ook op dagen dat je weg bent."},
-  {"q": "Kan één Zondag mijn kantoor en mijn huis doen?", "a": "Ja, in één zondagsplan. Het beroepsmatige en het privégedeelte krijgen elk hun eigen regel op de factuur. Zo heb je één aanspreekpunt voor beide adressen."},
-  {"q": "Hoe zit het met vertrouwelijke dossiers op ons kantoor?", "a": "Leg tijdens de intake vast welke kasten en bureaus ongemoeid blijven. Je Zondag is gescreend en in dienst van Zondags, en het is steeds dezelfde persoon die je sleutel gebruikt."},
-  {"q": "Wat als mijn Zondag ziek is terwijl ik weg ben?", "a": "Bij ziekte of verlof zoeken wij een oplossing en laten we jou weten wat er in die periode mogelijk is. Je hoort het van ons, ook als je op dat moment onderweg bent."}
- ]
+  {
+   "q": "Welk bedrijf doet poetshulp en regelwerk voor bedrijfsleiders in Hooglede?",
+   "a": "Zondags doet poetshulp en ondersteunend regelwerk voor bedrijfsleiders in Hooglede en Gits. Je krijgt één vaste persoon in dienst van Zondags en een factuur op naam van je bedrijf."
+  },
+  {
+   "q": "Kan de Zondag werken als ik niet op kantoor ben?",
+   "a": "Ja. Sleutel, alarm en afspraken regel je vooraf in het zondagsplan, zodat je Zondag op het afgesproken moment zelfstandig binnen kan."
+  },
+  {
+   "q": "Blijven vertrouwelijke dossiers veilig?",
+   "a": "Je Zondag werkt discreet en laat dossiers liggen waar ze liggen, tenzij jij haar vraagt ze te klasseren. Afspraken over wat ze wel en niet aanraakt leg je vast in het plan."
+  },
+  {
+   "q": "Wat kost het in Hooglede?",
+   "a": "60 euro per uur exclusief btw, geboekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren kosten hetzelfde per uur."
+  },
+  {
+   "q": "Werkt Zondags ook in Gits?",
+   "a": "Ja. Gits is een deelgemeente van Hooglede en valt onder hetzelfde aanbod, met dezelfde prijs en dezelfde vaste Zondag."
+  },
+  {
+   "q": "Welke taken kan een Zondag niet overnemen?",
+   "a": "Boekhouding, jaarrekeningen, loonadministratie, juridisch en fiscaal advies, technische klussen en werken op hoogte. Wel poetsen, ordenen en praktisch regelwerk voor de zaak."
+  }
+ ],
+ "path": "poetshulp/hooglede.html"
 }

@@ -1,82 +1,38 @@
 {
+ "path": "werken/vaste-job-overdag-zottegem.html",
  "title": "Vaste job overdag zonder weekends in Zottegem",
- "desc": "Vast contract overdag in Zottegem en de deelgemeenten, deeltijds of voltijds, zonder avonden en weekends. Ook voor gepensioneerden die graag koken. Zondags.",
- "eyebrow": "Vaste job · Zottegem",
+ "desc": "Gepensioneerd en een paar voormiddagen per week aan de slag? Lees wat bij Zondags kan in Zottegem, Elene of Strijpen, bij vaste bedrijven, zonder weekends.",
+ "eyebrow": "Vaste job overdag · Zottegem · 9620",
  "h1": "Vaste job overdag zonder weekends in Zottegem",
- "lead": "Kook je graag en wil je dat een paar voormiddagen per week doen, met een contract waar je op kan rekenen? In Zottegem kan je als Zondag je dagen vullen met keuken, huis en gezin.",
- "answer": "Zondags (zondags.be) zoekt Zondags in en rond Zottegem voor een vaste job overdag: een vast contract, deeltijds of voltijds, op weekdagen bij vaste klanten, nooit 's avonds of in het weekend. Het kan ook enkel in de voormiddag of binnen de schooluren. Je kiest mee je dagen en uren. De verloning ligt boven het barema en je verplaatsingen worden vergoed.",
- "facts": [
-  "Vast contract",
-  "Deeltijds of voltijds",
-  "Nooit 's avonds of in het weekend",
-  "Dagen kies je mee",
-  "Verloning boven het barema"
- ],
+ "lead": "Je bent met pensioen en zoekt een vaste afspraak voor een paar voormiddagen per week. Bij Zondags in Zottegem kijken we eerst naar jouw situatie en dan pas naar het contract.",
+ "answer": "Zondags (zondags.be) zoekt mensen in en rond Zottegem voor werk overdag op weekdagen, zonder avonden en weekends. Je werkt als Zondag bij kantoren, praktijken, winkels en bedrijfsleiders in de Vlaamse Ardennen. Of een gepensioneerde een vast contract, een ander statuut of een beperkte bijverdienste kan hebben, hangt af van de eigen situatie. Dat bekijken we samen in het eerste gesprek.",
+ "facts": ["Een paar voormiddagen per week kan", "Statuut in overleg met jou", "Overdag op weekdagen", "Geen avonden, geen weekends", "Verplaatsingen vergoed"],
  "sections": [
-  {
-   "h2": "Stel: je bent gepensioneerd en kookt graag",
-   "p": [
-    "Je hebt een volledig werkleven achter de rug en je kookt nog altijd met plezier. Drie voormiddagen per week bij vaste klanten, waarin je een warme maaltijd klaarzet of gezonde schotels voor de hele week bereidt, lijkt je een mooie invulling. Je wil geen weekends of avonden en je wil weten waar je aan toe bent.",
-    "Een vast contract geeft je die rust. Hoe dat precies past bij je pensioenstatuut, bekijken we samen in het eerste gesprek. Past het niet, dan zoeken we samen een ander statuut dat wel past."
-   ]
-  },
-  {
-   "h2": "Een week als Zondag in de keuken en daarbuiten",
-   "p": [
-    "Maandag kook je bij een ondernemersgezin voor de komende dagen. Dinsdag doe je boodschappen en haal je een pakje op bij de apotheek. Donderdag koop je in en bereid je de maaltijden voor een praktijk die van de lunch een rustpunt wil maken. De uren en dagen liggen vast, zodat jij en de klant weten waar jullie aan toe zijn."
-   ]
-  },
-  {
-   "h2": "Wat zit er in je contract?",
-   "p": [
-    "<ul class=\"ticks\"><li>Vast contract, in dienst van Zondags</li><li>Deeltijds of voltijds, ook enkel voormiddagen</li><li>Verloning boven het barema</li><li>Verplaatsingen vergoed</li><li>Vaste klanten, vaste dagen</li><li>Begeleiding bij de start</li></ul>"
-   ]
-  },
-  {
-   "h2": "Wat een Zondag doet",
-   "p": [
-    "Koken staat bij jou voorop, maar een klant heeft meer nodig dan een maaltijd. Je kan ook poetsen, wassen en strijken, boodschappen doen, de hond uitlaten of kinderen ophalen. Je kiest wat je graag doet. Technisch werk en werken op hoogte doen we niet.",
-    "Bij Zondags ben je geen anonieme hulp. Je bent iemands Zondag, de vaste persoon op wie een gezin of ondernemer rekent."
-   ]
-  },
-  {
-   "h2": "Van Oombergen tot Grotenberge",
-   "p": [
-    "Zottegem (9620) kent deelgemeenten als Elene, Erwetegem, Godveerdegem, Grotenberge, Leeuwergem, Oombergen, Strijpen en Velzeke-Ruddershove. Ze horen bij Zottegem. Woon je in Zwalm, Oosterzele, Herzele of Brakel, dan zoeken we klanten dicht bij jou. Een korte weg naar je eerste klant maakt je week een stuk rustiger. Lees ook over een <a href=\"jobs/vaste-job-flexibele-uren.html\">vaste job met flexibele uren</a>."
-   ]
-  },
-  {
-   "h2": "Zo solliciteer je",
-   "p": [
-    "Meld je aan via het formulier, de chat of WhatsApp op 0470 56 53 58. We bellen binnen de twee werkdagen voor een kort gesprek. Klikt het, dan zoeken we klanten die passen bij je dagen en wat je graag doet. Bij de start gaan we samen langs. Elke klant heeft een zondagsplan met de taken, de uren en de afspraken."
-   ]
-  }
+  {"h2": "Stel: je bent met pensioen en wil nog bezig blijven", "p": [
+   "Neem iemand die de carrière heeft afgerond maar niet wil dat de dagen te stil worden. Een paar voormiddagen per week in een kantoor of praktijk, met een duidelijke taak en collega's die je groeten, kan een fijn ritme geven.",
+   "Let wel op één ding: wat je mag bijverdienen en onder welk statuut, hangt af van je pensioen en je eigen situatie. Wij beloven daarom niets vooraf. In het eerste gesprek kijken we samen wat kan. Past een vast contract niet, dan zoeken we een ander statuut dat wel past."]},
+  {"h2": "Hoe een voormiddag eruitziet", "p": [
+   "Neem dinsdag en vrijdag, van vroeg in de ochtend tot de middag. Op dinsdag poets je een kantoor voor het team toekomt en sorteer je de post. Op vrijdag zet je een praktijk klaar, ruim je de wachtzaal op en ga je kantoormateriaal halen voor de zaakvoerder.",
+   "Het is werk met een begin en een einde. Je komt, je doet wat afgesproken is, en je gaat tevreden naar buiten."]},
+  {"h2": "Wat je bij de klant doet", "p": [
+   "Je werkt uitsluitend voor bedrijven. Je kiest mee wat je graag doet en wat je liever laat.",
+   "<ul class=\"ticks\"><li>Kantoor, praktijk of winkel netjes houden</li><li>Post openen en sorteren, documenten klasseren</li><li>Afspraken in de agenda zetten, dossiers ordenen</li><li>Boodschappen en pakjes voor de zaak, de koffiehoek vullen</li></ul>",
+   "Zwaar of technisch werk zit er niet in en je werkt nooit op hoogte. Dat houdt de job vol te houden."]},
+  {"h2": "Zottegem en de deelgemeenten", "p": [
+   "Zottegem heeft postcode 9620. Elene, Erwetegem, Godveerdegem, Grotenberge, Leeuwergem, Oombergen, Strijpen en Velzeke-Ruddershove zijn deelgemeenten van Zottegem. We zoeken Zondags in en rond Zottegem, ook als je in Zwalm, Oosterzele, Herzele of Brakel woont.",
+   "Dicht bij je eigen buurt werken scheelt tijd en moeite. Wie liever iets anders ziet, vindt misschien iets in <a href=\"werken/vaste-job-overdag-oudenaarde.html\">de vaste job overdag in Oudenaarde</a>."]},
+  {"h2": "Wat je van ons mag verwachten", "p": [
+   "Je bent in dienst van Zondags, correct op papier. Je verloning ligt boven het barema en je verplaatsingen worden vergoed. Eens je dagen en uren zijn afgesproken, liggen ze vast, bij dezelfde klanten.",
+   "Je werkt overdag op weekdagen, vroeg in de ochtend of over de middag. Avonden en weekends blijven helemaal van jou."]},
+  {"h2": "De eerste stap", "p": [
+   "Je gebruikt het formulier of de chat op de site, of je stuurt een bericht via WhatsApp naar 0470 56 53 58. Binnen twee werkdagen bellen we je voor een gesprek. Een diploma of ervaring is niet nodig; betrouwbaarheid en discretie tellen. Bij de start gaan we samen langs bij je klanten. Meer over de rol lees je op <a href=\"zondag-worden.html\">de pagina over Zondag worden</a>."]}
  ],
  "faq": [
-  {
-   "q": "Waar vind ik een vaste job overdag zonder weekends in Zottegem?",
-   "a": "Bij Zondags. We zoeken Zondags in en rond Zottegem voor een vast contract overdag, deeltijds of voltijds, nooit 's avonds of in het weekend."
-  },
-  {
-   "q": "Kan ik na mijn pensioen nog vast werken?",
-   "a": "Dat hangt af van je eigen situatie en je pensioenstatuut. We bekijken het samen in het eerste gesprek, en zoeken een statuut dat wel past als het zo niet kan."
-  },
-  {
-   "q": "Kan ik enkel in de voormiddag werken?",
-   "a": "Ja. Je kiest mee je dagen en uren. Enkel voormiddagen, enkel binnen de schooluren of een volle week: het kan allemaal, zolang het overdag op weekdagen is."
-  },
-  {
-   "q": "Moet ik professioneel kunnen koken?",
-   "a": "Nee. Je zorgt voor eenvoudige, gezonde maaltijden en volgt de wensen van de klant, die in het zondagsplan staan. Een diploma is niet nodig."
-  },
-  {
-   "q": "Wat verdien ik?",
-   "a": "De verloning ligt boven het barema en je verplaatsingen worden vergoed. Het precieze loon bespreken we in het gesprek, omdat het afhangt van je situatie."
-  },
-  {
-   "q": "Werk ik bij dezelfde klanten elke week?",
-   "a": "Ja. Eens je dagen en uren zijn afgesproken, ligt je rooster vast bij dezelfde klanten. Zo ken je de keuken, de gewoontes en de wensen, en dat maakt koken en werken vlotter."
-  }
- ],
- "path": "werken/vaste-job-overdag-zottegem.html"
+  {"q": "Waar vind ik een vaste job overdag zonder weekends in Zottegem?", "a": "Zondags zoekt mensen in en rond Zottegem voor werk overdag op weekdagen bij kantoren, praktijken en winkels. Je solliciteert via het formulier, de chat of WhatsApp."},
+  {"q": "Mag ik als gepensioneerde bijverdienen bij Zondags?", "a": "Dat hangt af van je eigen situatie en je pensioen. We beloven daarom niets vooraf. In het eerste gesprek bekijken we samen wat kan en welk statuut past."},
+  {"q": "Kan ik enkel een paar voormiddagen werken?", "a": "Ja, in overleg. Je kiest mee je dagen en uren. Eens afgesproken, ligt je rooster vast bij dezelfde klanten."},
+  {"q": "Is het werk zwaar?", "a": "Het is licht tot matig werk binnen bedrijven. Werken op hoogte en technische klussen horen er niet bij. Je kiest mee welke taken je doet."},
+  {"q": "Moet ik een computer kunnen gebruiken?", "a": "Voor administratief werk is wat computervaardigheid handig, maar je kiest zelf of je dat wil doen. Poetsen en regelwerk kan ook zonder."},
+  {"q": "Worden mijn verplaatsingen vergoed?", "a": "Ja. Verplaatsingen worden vergoed en je verloning ligt boven het barema. Alles staat correct op papier."}
+ ]
 }

@@ -1,76 +1,93 @@
 {
- "title": "Checklist: je kantoor ordelijk tussen twee beurten",
- "desc": "Kleine gewoontes van je team die de poetsbeurt makkelijker maken: bureaus, keuken, vergaderruimte en sanitair. Een praktische checklist voor kantoren.",
- "eyebrow": "Checklist",
+ "path": "sectoren/checklist-kantoor-ordelijk-tussen-twee-beurten.html",
+ "title": "Checklist: kantoor ordelijk tussen twee poetsbeurten",
+ "desc": "Kleine gewoontes van je team houden het kantoor netjes tussen twee poetsbeurten. Lijsten per moment van de dag en per week, zodat je Zondag sneller klaar is.",
+ "eyebrow": "Checklist · Kantoor",
  "h1": "Checklist: je kantoor ordelijk houden tussen twee poetsbeurten",
- "lead": "Een poetsbeurt werkt het best wanneer het team ertussenin een paar vaste gewoontes heeft. Deze checklist vat ze samen, per ruimte en per moment.",
- "answer": "Een kantoor blijft tussen twee poetsbeurten ordelijk als het team een paar kleine gewoontes aanhoudt: bureaus leegmaken bij vertrek, de keuken zelf afwassen, afval dagelijks buiten zetten en de vergaderruimte klaarzetten. Zondags (zondags.be) levert de vaste Zondag die het grote onderhoud doet. Hoe vaker het team de basis bijhoudt, hoe sneller de beurt is afgerond.",
+ "lead": "Een poetsbeurt werkt het best wanneer het team er een paar eenvoudige gewoontes naast zet. Deze checklist toont welke, per moment van de dag en per week.",
+ "answer": "Je houdt een kantoor ordelijk tussen twee poetsbeurten met kleine gewoontes: bureaus leeg achterlaten, de keuken zelf opruimen, de frigo wekelijks nakijken en afval op vaste plaatsen verzamelen. Zondags (zondags.be) stuurt één vaste Zondag, overdag op weekdagen, aan 60 euro per uur exclusief btw per blok van 3 uur. Hoe minder er rondslingert, hoe meer tijd je Zondag overhoudt voor sanitair, vloeren en de details.",
  "facts": [
-  "Gewoontes per ruimte en per moment",
-  "Wat het team zelf doet",
-  "Wat je Zondag overneemt",
-  "Geschikt voor kleine kantoren",
-  "Vooraf bespreken in het zondagsplan"
+  "Gewoontes van het team, geen extra werk",
+  "Lege bureaus poetsen sneller",
+  "Vaste Zondag, vast uur",
+  "Overdag op weekdagen",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken kan"
  ],
  "sections": [
   {
-   "h2": "Waarom gewoontes tussen de beurten zo veel uitmaken",
+   "h2": "Waarom je team een deel van het werk doet",
    "p": [
-    "Een poetshulp die op een volle bureau moet werken, verliest tijd met opruimen in plaats van poetsen. Kranten, koffiekopjes, losse papieren en laders op het blad betekenen dat er niet goed kan worden afgenomen en dat sommige oppervlakken blijven liggen.",
-    "Daarom helpt het als elk teamlid zijn eigen werkplek vrij houdt. Dat vraagt een paar minuten per dag en maakt van de poetsbeurt het gewone onderhoud dat het hoort te zijn."
+    "Neem een kantoor met acht bureaus waar je Zondag elke woensdag komt. Als elk bureau vol mappen, kopjes en losse blaadjes ligt, gaat een groot deel van de tijd naar opruimen en niet naar poetsen. Je betaalt dan voor het wegzetten van spullen, terwijl je Zondag liever de vloer, het sanitair en de keuken grondig doet.",
+    "Het goede nieuws is dat de gewoontes klein zijn. Ze kosten je team enkele minuten per dag en maken van elke poetsbeurt een betere beurt."
    ]
   },
   {
-   "h2": "Dagelijks: de basis die het team zelf doet",
+   "h2": "Bij het begin van de werkdag",
    "p": [
-    "<ul class=\"ticks\"><li>Bureau leegmaken voor je vertrekt: papieren in een bak, kopjes naar de keuken</li><li>Je eigen koffiekop afwassen of in de vaatwasser zetten</li><li>Etensresten en glas meteen weggooien</li><li>Vuilnisbak onderaan het bureau legen als hij vol zit</li><li>Gemorst wat meteen opruimen</li></ul>",
-    "Niets daarvan is veel werk. Samen zorgt het ervoor dat het kantoor er 's ochtends normaal bijligt, ook als het een drukke dag was.",
-    "Een kleine tip voor wie vaak bezoek ontvangt: zet bij het onthaal een bakje voor gebruikte kopjes. Zo komt er niets op de vergadertafel te staan dat daar niet hoort."
+    "<ul class=\"ticks\"><li>Zet de ramen even open en loop de vergaderzaal na op achtergebleven spullen</li><li>Leg de post op één vaste plaats in plaats van op elk bureau</li><li>Zet de koffiemachine aan en spoel de kannen van gisteren na</li></ul>",
+    "Dit lijkt triviaal, maar het voorkomt dat de dag begint met een rommelige ontvangst. Een onthaal waar twee dozen en een stapel brieven liggen, nodigt niemand uit."
    ]
   },
   {
-   "h2": "Wekelijks: wat je team kan voorbereiden",
+   "h2": "Tijdens de dag: opruimen wat je zelf gebruikt",
    "p": [
-    "Voor de poetsbeurt zelf kan het team iets klaarzetten. Kabels en laders van de grond, kasten niet volzetten tot onder het bureau, stoelen aanschuiven en het archief niet op de vloer laten staan. In de keuken helpt het om de frigo eens per week leeg te maken van wat over datum is.",
-    "In de vergaderruimte zet je na elke vergadering de stoelen recht, wis je het whiteboard en neem je je eigen glazen mee. Zo is de ruimte klaar voor de volgende, en moet je Zondag er niet eerst rondgaan."
+    "Spreek met je team af dat iedereen opruimt wat hij of zij zelf gebruikt. Een glas of beker naar de keuken, een map terug op de plank, een afgewerkte vergaderzaal meteen leeg achterlaten. Wie een vergadering leidt, controleert bij het buitengaan of de tafel vrij is.",
+    "Een tip uit de praktijk: hang bij de koffiehoek een klein bordje met wat in de vaatwasser mag en wat niet. Een vaatwasser die ongeordend wordt volgeladen, is een van de meest voorkomende ergernissen in kleine kantoren."
    ]
   },
   {
-   "h2": "Wat je Zondag overneemt",
+   "h2": "Op het einde van de dag",
    "p": [
-    "Je Zondag neemt de taken over die tijd vragen en regelmaat: bureaus afnemen, vloeren, sanitair, keuken, vergaderruimte, afval en recyclage buiten zetten, en ramen langs binnen. Specialistisch werk zoals werken op hoogte of gevelreiniging doen we niet.",
-    "Welke taak wekelijks gebeurt en welke om de twee weken, leggen we samen vast in het zondagsplan. Meer over de aanpak lees je op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>. Wil je een uitgebreid schema per ruimte, kijk dan op <a href=\"gids/checklist-kantoorschoonmaak.html\">de checklist kantoorschoonmaak</a>."
+    "<ul class=\"ticks\"><li>Bureaus leeg achterlaten: laptop dicht, papieren in een la of bak</li><li>Eigen beker en bord naar de keuken brengen</li><li>Prullenbak onder het bureau leegmaken in het grote afvalvat</li><li>Stoelen aanschuiven, zodat de vloer vrij ligt</li></ul>",
+    "Lege bureaus zijn de grootste tijdwinst voor je Zondag. Wat vrij ligt, wordt afgenomen. Wat vol ligt, wordt overgeslagen of verschoven, en dat is niet wat je wilt."
    ]
   },
   {
-   "h2": "Zo maak je er een teamafspraak van",
+   "h2": "Eén keer per week: de frigo en de gemeenschappelijke plekken",
    "p": [
-    "Een lijst werkt alleen als iedereen ze kent. Bespreek de gewoontes in een korte teamvergadering, hang ze op in de keuken en laat de zaakvoerder het voorbeeld geven. Een afspraak die niemand hoeft te controleren, blijft het langst staan.",
-    "Heb je een kleine vennootschap, dan is het onderhoud van je kantoor een beroepskost. Laat je accountant bevestigen hoe je het in je boekhouding verwerkt, en vraag in de intake gerust naar een eerste kennismaking van 2 gratis uren."
+    "Spreek een vaste dag af, bijvoorbeeld donderdag, waarop het team de frigo nakijkt. Wat over datum is, gaat weg, wat gemorst is, wordt afgeveegd. Doe dit liefst de dag voor je Zondag komt, zodat die de plank nog kan afnemen.",
+    "Wie het wil, zet een mapje of bak voor losse documenten in de vergaderzaal. Alles wat daar belandt, kan je Zondag ordenen volgens je afspraak, als onderdeel van de administratieve hulp."
+   ]
+  },
+  {
+   "h2": "Wat je Zondag oppakt, en wat bij het team blijft",
+   "p": [
+    "Je Zondag poetst bureaus, onthaal, keuken, refter, sanitair en vloeren, en neemt ramen en glazen deuren langs binnen mee. Persoonlijke spullen verplaatst ze niet zomaar, en dossiers laat ze liggen waar ze liggen, tenzij je het anders afspreekt.",
+    "Wat bij het team blijft: de eigen computer en het toetsenbord uitzetten, vertrouwelijke papieren opbergen en de frigo leegmaken van persoonlijke etenswaren. Zo weet iedereen waar zijn of haar verantwoordelijkheid ophoudt."
+   ]
+  },
+  {
+   "h2": "Hoe je het afspreekt en boekt",
+   "p": [
+    "Bespreek de gewoontes in een korte teamvergadering en zet ze op één blad. Bij een vast terugkerend plan leggen we samen het zondagsplan vast: welke taken, welke dagen, welke uren. Je boekt via de <a href=\"boeken.html\">boekpagina</a> per blok van 3 uur, dus 180 euro exclusief btw per blok, met extra uren aan dezelfde 60 euro per uur. Meer over het wekelijkse onderhoud staat op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Wat kan mijn team doen om het kantoor ordelijk te houden?",
-   "a": "Elk teamlid maakt zijn bureau leeg bij vertrek, wast zijn eigen kopje af, gooit afval meteen weg en zet na een vergadering de ruimte klaar. Dat zijn kleine gewoontes met groot effect."
+   "q": "Hoe houd ik mijn kantoor netjes tussen twee poetsbeurten?",
+   "a": "Laat bureaus leeg achter, ruim de keuken zelf op, verzamel afval op vaste plaatsen en kijk wekelijks de frigo na. Die kleine gewoontes houden de ruimte verzorgd en maken elke poetsbeurt efficiënter."
   },
   {
-   "q": "Welke taken laat ik best aan de poetshulp over?",
-   "a": "Bureaus afnemen, vloeren, sanitair, keuken, vergaderruimte, afval buiten zetten en ramen langs binnen. Dat is het regelmatige onderhoud dat tijd vraagt en dat je Zondag overneemt."
+   "q": "Moet mijn team zelf opruimen als er een poetshulp komt?",
+   "a": "Een beetje wel. Als bureaus en keuken vrij zijn, kan je Zondag grondig poetsen. Het team ruimt zijn eigen spullen op, de Zondag doet het eigenlijke schoonmaakwerk."
   },
   {
-   "q": "Hoe vaak moet een klein kantoor gepoetst worden?",
-   "a": "Dat hangt af van het aantal mensen en bezoekers. Veel kleine kantoren kiezen wekelijks of tweewekelijks. Je bespreekt dat in het intakegesprek en past het plan later aan."
+   "q": "Wat kost een vaste poetsbeurt voor een klein kantoor?",
+   "a": "Je betaalt 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief."
   },
   {
-   "q": "Moet mijn team het kantoor opruimen voor de poetsbeurt?",
-   "a": "Het helpt als bureaus vrij zijn en de grond leeg. Je poetshulp werkt dan sneller en grondiger en moet geen spullen verplaatsen die van anderen zijn."
+   "q": "Raakt mijn Zondag persoonlijke spullen of dossiers aan?",
+   "a": "Niet zonder afspraak. Persoonlijke spullen en dossiers blijven liggen waar ze liggen, tenzij je samen met je Zondag iets anders vastlegt in het zondagsplan."
   },
   {
-   "q": "Wat als mijn team slordig blijft?",
-   "a": "Dan kan het zondagsplan wat meer tijd bevatten, of kies je voor een extra beurt. Je kan uren bijboeken of het plan aanpassen wanneer je team verandert."
+   "q": "Kan mijn Zondag het opruimen van documenten overnemen?",
+   "a": "Ja, als administratieve hulp: documenten klasseren en dossiers ordenen. Dat is ondersteunend werk. Boekhouding of fiscaal en juridisch advies hoort er niet bij."
+  },
+  {
+   "q": "Wanneer komt de Zondag en kan dat na sluitingstijd?",
+   "a": "Zondags werkt overdag op weekdagen. Vroeg in de ochtend of over de middag kan. 's Avonds en in het weekend werken we niet."
   }
- ],
- "path": "sectoren/checklist-kantoor-ordelijk-tussen-twee-beurten.html"
+ ]
 }

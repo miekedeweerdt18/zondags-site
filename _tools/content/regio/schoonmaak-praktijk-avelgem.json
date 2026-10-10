@@ -1,81 +1,37 @@
 {
  "path": "regio/schoonmaak-praktijk-avelgem.html",
  "title": "Schoonmaakhulp voor praktijken in Avelgem (8580)",
- "desc": "Eerste praktijk of kantoor ingericht in Avelgem? Eén vaste Zondag houdt het onderhoud bij, met een factuur aan je jonge vennootschap.",
+ "desc": "Start je zaak in Avelgem? Laat een vaste Zondag je eerste kantoor, praktijk of toonzaal onderhouden. Online boeken per blok van 3 uur, 60 euro per uur.",
  "eyebrow": "Avelgem · 8580",
  "h1": "Schoonmaakhulp voor praktijken in Avelgem",
- "lead": "Je richt je eerste praktijk of kantoor in Avelgem in en wil dat het er vanaf dag één verzorgd uitziet. Eén vaste persoon neemt het onderhoud over.",
- "answer": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken en kantoren in Avelgem, Bossuit, Kerkhove, Outrijve en Waarmaarde. Je krijgt één vaste persoon, je Zondag, op een vaste dag en uur, overdag op weekdagen. Voor starters is er geen verplichte lange binding: het plan is maandelijks opzegbaar. De factuur staat op naam van je vennootschap. Zondags is gevestigd in Marke.",
- "facts": [
-  "Starters en jonge vennootschappen",
-  "Avelgem en deelgemeenten",
-  "Maandelijks opzegbaar",
-  "Eerste 2 uur gratis",
-  "Factuur aan je vennootschap"
- ],
+ "lead": "Een jonge vennootschap in Avelgem heeft zelden tijd voor poetsen. Met een vaste Zondag voor je eerste kantoor of praktijk start je op een nette, rustige manier.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken, kantoren en toonzalen in Avelgem en de deelgemeenten Bossuit, Kerkhove, Outrijve en Waarmaarde. Eén vaste persoon, je Zondag, onderhoudt de nieuwe ruimte vanaf de eerste weken. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een factuur op naam van je vennootschap.",
+ "facts": ["Voor starters en jonge vennootschappen", "Praktijk, kantoor en toonzaal", "Bossuit, Kerkhove, Outrijve, Waarmaarde", "Steeds dezelfde Zondag", "60 euro per uur, per blok van 3 uur", "Online boeken en betalen"],
  "sections": [
-  {
-   "h2": "Een startende zaak heeft geen tijd voor poetsen",
-   "p": [
-    "Wie net een praktijk of kantoor opent, doet alles zelf: de inrichting, de website, de eerste klanten, de boekhouding. Poetsen sluipt er dan bij in, tot je merkt dat je zaterdagavond met een stofzuiger rondloopt. Dat is geen goed gebruik van je tijd.",
-    "Met één vaste Zondag leg je dat eenmalig vast. Je beslist hoe vaak, op welke dag en wat er gebeurt, en daarna komt het gewoon in orde zonder dat je eraan hoeft te denken."
-   ]
-  },
-  {
-   "h2": "Voorbeeld: een interieurzaak met een toonzaal",
-   "p": [
-    "Neem een jonge vennootschap in Avelgem die een interieurzaak opent. De toonzaal heeft glazen oppervlakken, stalen, een paar showmeubels en een kleine ontvangsthoek. Een klant die binnenstapt, merkt elk spoor van stof of een vlekkerig raam.",
-    "Je Zondag komt vlak voor de opening of over de middag. Eerst de toonzaal en de vloer, dan de ontvangsthoek, het kantoor achteraan en het sanitair. Fragiele stalen of showmeubels verplaats je zelf, zodat er niets beschadigd raakt. Ramen worden langs binnen gedaan."
-   ]
-  },
-  {
-   "h2": "Wat een startende praktijk concreet nodig heeft",
-   "p": [
-    "<ul class=\"ticks\"><li>Wachtzaal en onthaal in orde voor de eerste patiënt of klant</li><li>Behandel- of consultatiekamer afgenomen, zonder aan medisch materiaal te komen</li><li>Sanitair met aanvulling van papier en zeep</li><li>Kleine keuken of koffiehoek</li><li>Vloeren, ingangsmat en deurklinken</li></ul>",
-    "Sterilisatie en medisch materiaal laat je bij jezelf, dat doen we niet. Voor al het andere ben je aan het juiste adres."
-   ]
-  },
-  {
-   "h2": "Flexibel opschalen naarmate de zaak groeit",
-   "p": [
-    "Begin je met één dag per twee weken, dan kan je later uren bijboeken. Komt er een medewerker bij, een extra consultatiekamer of een groter team, dan past je Zondag het plan mee aan. Het zondagsplan is geen contract voor jaren, maar een afspraak die je maandelijks kan opzeggen.",
-    "Een grote poetsbeurt bij de start, vóór de verhuis of vlak na de inrichting, kan als losse opdracht. Meer voorbeelden vind je bij <a href=\"gids/checklist-praktijkschoonmaak.html\">checklist voor praktijkschoonmaak</a>."
-   ]
-  },
-  {
-   "h2": "Boeken via je vennootschap",
-   "p": [
-    "Als jonge vennootschap koop je geen dienstencheques; die zijn er enkel voor particulieren. Je krijgt een gewone dienstenfactuur. Onderhoud van beroepsruimtes is een beroepskost. Woon je boven je praktijk of vlak ernaast, dan kan de woning mee in het plan, met een splitsing tussen beroepsmatig en privé op de factuur.",
-    "Voor dat privégedeelte geldt een forfaitair voordeel van alle aard, mits het regelmatig gebeurt via een onderneming met mensen in dienst. Over de btw geldt in principe dat je die op het beroepsmatige deel kan recupereren als je een aftrekrecht hebt. Laat je accountant dit bevestigen."
-   ]
-  },
-  {
-   "h2": "Zo start je in Avelgem",
-   "p": [
-    "Vraag het aan via het formulier of de chat, we bellen je binnen één werkdag terug en komen langs voor de intake. De eerste 2 uur zijn gratis. Dichtbij werken we ook in Zwevegem, Anzegem, Spiere-Helkijn en Kluisbergen."
-   ]
-  }
+  {"h2": "Je eerste zaak inrichten en meteen goed starten", "p": [
+   "Een nieuwe praktijk of een eerste kantoor vraagt veel aandacht: meubilair, software, een website, de eerste klanten. Wat je dan het minst wil is dat je zaterdag besteedt aan het sanitair. Nochtans is een ruimte die er meteen verzorgd uitziet, de eenvoudigste manier om vertrouwen te winnen bij nieuwe klanten.",
+   "Daarom is het zinvol het poetswerk van dag één uit te besteden. Zo ontstaat er geen gewoonte dat de zaakvoerder zelf het sanitair doet, een gewoonte die later moeilijk om te draaien is."]},
+  {"h2": "Neem een interieurzaak met een toonzaal", "p": [
+   "Stel: twee oud-collega's starten samen een interieurzaak in Avelgem. Ze richten een toonzaal in met stalen, een kleine vergaderhoek en een achterkamer voor administratie. De toonzaal moet er elke ochtend uitzien als een catalogus, want klanten komen om te zien hoe iets aanvoelt.",
+   "Eén Zondag komt op een vaste dag, neemt de toonzaal, de vloer en het sanitair onder handen en zet de vergaderhoek klaar voor het eerstvolgende klantgesprek. De oprichters richten zich op verkoop."]},
+  {"h2": "Wat de eerste maanden nodig zijn", "p": [
+   "<ul class=\"ticks\"><li>Onthaal en toonzaal of wachtzaal</li><li>Bureaus, vergaderhoek of consultatieruimte</li><li>Sanitair en keuken</li><li>Vloeren en glazen deuren langs binnen</li><li>Afval en recyclage</li><li>Post, klassement en bestellingen</li></ul>",
+   "Sterilisatie, medisch materiaal en technische klussen vallen erbuiten. Wil je weten hoe de brede aanpak eruitziet, lees dan <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."]},
+  {"h2": "Een vast plan dat meegroeit", "p": [
+   "Een starter weet nog niet hoeveel tijd het onderhoud kost. Begin daarom met één blok per week en pas het plan bij zodra je team groeit of je meer klantenbezoek krijgt. Extra uren boek je aan hetzelfde tarief, er is geen nieuw contract nodig.",
+   "Zit er administratie bij die je zelf laat liggen, dan kan je Zondag die in dezelfde uren oppakken: post sorteren, facturen klasseren, kantoormateriaal bestellen."]},
+  {"h2": "Kosten, factuur en je accountant", "p": [
+   "Het tarief bedraagt 60 euro per uur exclusief btw. Een blok van 3 uur kost dus 180 euro exclusief btw. De factuur is een dienstenfactuur op naam van je vennootschap, met btw-nummer.",
+   "Onderhoud van beroepsruimtes is in principe een beroepskost, en btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Een btw-vrijgestelde praktijk kan dat doorgaans niet. Je accountant helpt je bij de keuze die bij jouw situatie past."]},
+  {"h2": "Van Avelgem naar Zwevegem, Anzegem en Kluisbergen", "p": [
+   "Zondags werkt vanuit Marke, een deelgemeente van Kortrijk, en zoekt Zondags in Avelgem en omstreken, zoals Zwevegem, Anzegem, Spiere-Helkijn en Kluisbergen. Boek je eerste blok op de <a href=\"boeken.html\">boekpagina</a>, minstens twee werkdagen vooraf."]}
  ],
  "faq": [
-  {
-   "q": "Welk bedrijf levert schoonmaakhulp voor praktijken in Avelgem?",
-   "a": "Zondags uit Marke levert een vaste Zondag voor praktijken en kantoren in Avelgem en de deelgemeenten Bossuit, Kerkhove, Outrijve en Waarmaarde, met een factuur op naam van je vennootschap."
-  },
-  {
-   "q": "Is dit ook interessant voor een starter met één dag per week?",
-   "a": "Ja. Je start klein, bijvoorbeeld één vaste beurt, en boekt later uren bij. Maandelijks opzeggen kan, dus je zit niet vast."
-  },
-  {
-   "q": "Doen jullie ook een grote poetsbeurt bij de verhuis naar een nieuwe praktijk?",
-   "a": "Ja, losse opdrachten zoals een grote poetsbeurt of een verhuis zijn mogelijk. Een opkuis na bouwwerken doen we niet."
-  },
-  {
-   "q": "Werkt Zondags ook in Spiere-Helkijn of Kluisbergen?",
-   "a": "Ja. Naast Zwevegem en Anzegem werken we ook in Spiere-Helkijn en Kluisbergen, in West-Vlaanderen."
-  },
-  {
-   "q": "Hoe snel kan mijn Zondag starten?",
-   "a": "Na je aanvraag bellen we binnen één werkdag. Het exacte startmoment hangt af van de dagen en uren die je zoekt; dat bespreken we in het eerste gesprek."
-  }
+  {"q": "Welk bedrijf onderhoudt een nieuwe praktijk in Avelgem?", "a": "Zondags uit Marke. Je krijgt één vaste persoon voor je nieuwe zaak, op een vast moment, en een factuur op naam van je vennootschap."},
+  {"q": "Is poetshulp ook interessant voor een jonge vennootschap?", "a": "Ja. Je betaalt alleen de uren die je boekt, per blok van 3 uur, en je kan het plan aanpassen naarmate je zaak groeit."},
+  {"q": "Kan mijn Zondag ook de toonzaal klaarzetten voor klantenbezoek?", "a": "Ja. Naast poetsen kan je Zondag de vergaderhoek klaarzetten, de koffiehoek aanvullen en materiaal klaarleggen voor een afspraak."},
+  {"q": "Werkt Zondags ook in Kerkhove, Bossuit of Waarmaarde?", "a": "Ja, alle deelgemeenten van Avelgem, dus ook Outrijve, vallen onder het werkgebied van Zondags. Je boekt online op dezelfde manier en betaalt hetzelfde tarief als elders."},
+  {"q": "Wat kost een Zondag in Avelgem?", "a": "Je betaalt 60 euro per uur exclusief btw, geboekt per blok van 3 uur, dus 180 euro exclusief btw. Extra uren boek je aan hetzelfde tarief."},
+  {"q": "Kan ik beginnen met één blok en later uitbreiden?", "a": "Ja. Je boekt een eerste blok online en schaalt later op naar een vast terugkerend plan, na een kort gesprek over taken, dagen en uren."}
  ]
 }

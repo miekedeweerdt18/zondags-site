@@ -1,33 +1,85 @@
 {
  "path": "vragen/goede-poetshulp-voor-kantoor-vinden.html",
  "title": "Hoe vind je een goede poetshulp voor je kantoor?",
- "desc": "Een goede poetshulp voor je kantoor vind je in vijf stappen: taken bepalen, aanbieder kiezen, vragen stellen, proefdraaien en bijsturen. Zo pak je het aan.",
+ "desc": "Waar let je op bij een poetshulp voor je kantoor? Zes criteria, vragen voor het eerste gesprek en hoe Zondags het aanpakt met één vaste persoon.",
  "eyebrow": "Vraag",
  "h1": "Hoe vind je een goede poetshulp voor je kantoor?",
- "lead": "Een goede poetshulp herken je niet aan een mooie folder, maar aan afspraken die kloppen en aan hoe het er na een paar weken bij ligt. Dit zijn vijf stappen.",
- "answer": "Een goede poetshulp voor je kantoor vind je door eerst je taken en uren op te schrijven, dan een aanbieder te kiezen, de juiste vragen te stellen en een proefperiode te draaien. Zondags (zondags.be) werkt met één vaste persoon in dienst van Zondags, op een vaste dag en uur. De eerste 2 uur zijn gratis, zodat je zelf ziet of het klikt voor je beslist.",
- "facts": ["Vijf stappen, van lijst tot proefperiode", "Eerst je taken en uren op papier", "Vraag naar vervanging bij ziekte of verlof", "Loop de eerste keer mee door de ruimtes", "Eerste 2 uur bij Zondags gratis"],
+ "lead": "Een goede poetshulp herken je niet aan een mooie folder, maar aan vaste afspraken, een vast gezicht en een heldere factuur. Zo ga je er als bedrijfsleider mee aan de slag.",
+ "answer": "Een goede poetshulp voor je kantoor is iemand die vaak terugkomt, je zaak leert kennen, afspraken nakomt en een duidelijke factuur op naam van je bedrijf bezorgt. Zondags (zondags.be) werkt daarom met één vaste persoon, je Zondag, op een vaste dag en een vast uur. Ze is gescreend en in dienst van Zondags. Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, en je boekt online via de boekpagina.",
+ "facts": [
+  "Zes criteria om aanbieders te vergelijken",
+  "Vaste persoon boven wisselende ploeg",
+  "Duidelijke prijs, factuur op naam van het bedrijf",
+  "60 euro per uur, per blok van 3 uur",
+  "Klikt het niet, dan zoeken we een andere Zondag"
+ ],
  "sections": [
-  {"h2": "Stap één: schrijf op wat je nodig hebt", "p": [
-   "Zonder lijst vergelijk je appels met peren. Noteer wat er moet gebeuren en wanneer.",
-   "<ul class=\"ticks\"><li>Welke ruimtes er zijn en hoeveel mensen ze gebruiken</li><li>Welke taken wekelijks nodig zijn en welke maar af en toe</li><li>Welke dag en welk uur past, vroeg in de ochtend of over de middag</li><li>Welke ruimtes of kasten vertrouwelijk zijn</li><li>Of je woning mee moet in hetzelfde plan</li></ul>",
-   "Hoeveel tijd dat samen vraagt, lees je bij <a href=\"vragen/hoeveel-uur-poetshulp-kantoor.html\">hoeveel uur poetshulp een kantoor nodig heeft</a>."]},
-  {"h2": "Stap twee: kies het type aanbieder", "p": [
-   "Je kiest tussen een zelfstandige, een schoonmaakbedrijf met ploegen en een dienstverlener met een vaste medewerker in dienst. Een zelfstandige is persoonlijk, maar bij ziekte of verlof valt de beurt weg. Een ploeg is breed inzetbaar, maar het gezicht wisselt. Een vaste medewerker in dienst combineert continuïteit met een onderneming die planning en factuur regelt. De gids <a href=\"gids/zelfstandige-poetshulp-of-firma.html\">zelfstandige poetshulp of firma</a> legt het verschil verder uit."]},
-  {"h2": "Stap drie: stel vragen over continuïteit en administratie", "p": [
-   "De vragen die ertoe doen, gaan over continuïteit (komt er steeds dezelfde persoon?), afwezigheid (wat bij ziekte of verlof?), administratie (krijg ik een factuur op naam van mijn zaak?) en grenzen (wat doen jullie niet?). Een lijst met uitleg vind je bij <a href=\"vragen/vragen-aan-poetsfirma.html\">vragen aan een poetsfirma</a>."]},
-  {"h2": "Stap vier: draai proef en kijk zelf mee", "p": [
-   "Loop de eerste keer mee door je ruimtes en toon wat belangrijk is. Kijk na elke beurt kort of de afspraken gevolgd zijn: staat alles op zijn plaats, zijn de hoekjes gedaan, is het sanitair in orde? Een goede poetshulp stelt zelf vragen als iets onduidelijk is en meldt wat opvalt, zoals een kapotte lamp of een lekkende kraan."]},
-  {"h2": "Signalen dat het niet goed zit", "p": [
-   "<ul class=\"ticks\"><li>Elke week een ander gezicht aan de deur</li><li>Een offerte zonder dat iemand je ruimte heeft gezien</li><li>Geen duidelijk antwoord over ziekte of verlof</li><li>Geen factuur op naam van je zaak</li><li>Een lange binding zonder kennismaking vooraf</li></ul>"]},
-  {"h2": "Hoe Zondags dit aanpakt", "p": [
-   "Zondags komt altijd langs voor een intake ter plaatse en bekijkt je ruimtes voor er iets wordt vastgelegd. Samen stellen we het zondagsplan op. Je Zondag is gescreend en in dienst van Zondags, en komt steeds op dezelfde dag en hetzelfde uur. De eerste 2 uur zijn gratis. Het plan is maandelijks opzegbaar, en klikt het niet, dan zoeken we samen een andere Zondag."]}
+  {
+   "h2": "Begin bij wat je zelf nodig hebt",
+   "p": [
+    "Voor je aanbieders vergelijkt, schrijf je op wat er gepoetst moet worden en wanneer. Een kantoor met een wachtzaal en een vergaderzaal vraagt iets anders dan een winkel die voor opening piekfijn moet zijn. Noteer ook wat je team zelf blijft doen, zoals de bureaus leegmaken of de frigo bijhouden.",
+    "Met die lijst kan elke aanbieder je een gerichte vraag stellen en jij een gerichte vraag terug. Zonder lijst krijg je vooral algemene antwoorden."
+   ]
+  },
+  {
+   "h2": "Zes criteria die echt verschil maken",
+   "p": [
+    "<ul class=\"ticks\"><li>Een vaste persoon, zodat uitleg niet elke keer opnieuw moet</li><li>Een afgesproken dag en uur, in plaats van een wisselend moment</li><li>Een duidelijk takenpakket dat je kan nalezen</li><li>Een prijs per uur die je zonder rekenwerk begrijpt</li><li>Een factuur op naam van je bedrijf, met je btw-nummer</li><li>Een werkwijze voor als de vaste persoon ziek is of verlof neemt</li></ul>",
+    "Wie op deze zes punten helder antwoordt, werkt meestal ook helder in je kantoor. Wie vaag blijft over prijs of vervanging, laat je later zelf de gaten dichten."
+   ]
+  },
+  {
+   "h2": "Vragen voor het eerste gesprek",
+   "p": [
+    "Vraag wie er concreet bij jou langskomt, en of dat telkens dezelfde is. Vraag of die persoon in dienst is van het bedrijf of als zelfstandige werkt. Vraag wat er gebeurt als iets niet naar wens is, en hoe lang je moet wachten op een antwoord. Een goede aanbieder noemt ook wat hij niet doet.",
+    "Bij Zondags is dat helder: geen werken op hoogte, geen gevelreiniging, geen industriële reiniging en geen technische klussen. De hulp blijft binnen de muren van een gewoon kantoor, praktijk of winkel."
+   ]
+  },
+  {
+   "h2": "Test het met een eerste blok",
+   "p": [
+    "De zekerste manier om te weten of een poetshulp past, is ze aan het werk zien. Boek een eerste blok van 3 uur en kijk na afloop naar de resultaten: de bureaus, de keuken, het sanitair, de vloeren. Bespreek meteen wat beter kan.",
+    "Klikt het niet met je Zondag, dan zoeken we samen een andere persoon."
+   ]
+  },
+  {
+   "h2": "Hoe Zondags dit invult",
+   "p": [
+    "Je Zondag komt op een vaste dag en een vast uur, vroeg in de ochtend of over de middag. Wil je dat ze meer doet dan poetsen, dan kan ze ook de post sorteren, documenten klasseren, afspraken plannen of kantoormateriaal bestellen. Boekhouding en juridisch advies horen daar niet bij.",
+    "Je betaalt 60 euro per uur exclusief btw. Een blok van 3 uur is dus 180 euro exclusief btw, en extra uren boek je aan hetzelfde tarief. Op de <a href=\"boeken.html\">boekpagina</a> kies je datum, taken en het aantal blokken en betaal je online."
+   ]
+  },
+  {
+   "h2": "Een laatste controle: de administratie",
+   "p": [
+    "Vraag de offerte of het tarief op papier, met de vermelding exclusief btw. Bewaar de factuur bij je andere bedrijfskosten. Poetshulp voor de zaak is in principe een beroepskost, maar laat je accountant bevestigen wat voor jouw situatie geldt."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Hoe lang duurt het voor ik weet of een poetshulp bij me past?", "a": "Meestal na enkele beurten. Kijk of het kantoor er elke keer op dezelfde manier bijligt, of afspraken gevolgd worden en of er vragen komen als iets onduidelijk is. Bij Zondags zijn de eerste 2 uur gratis, en klikt het niet, dan zoeken we samen een andere Zondag."},
-  {"q": "Moet ik zelf aanwezig zijn bij de eerste poetsbeurt?", "a": "Handig is het wel: je loopt samen door de ruimtes en toont wat belangrijk is. Daarna kan je Zondag op een vast moment zelfstandig werken met een afgesproken sleutel. Bij Zondags gebeurt die rondgang tijdens de intake ter plaatse."},
-  {"q": "Wat is een goed teken in een eerste gesprek?", "a": "Dat de aanbieder je ruimte wil zien voor er iets wordt afgesproken, doorvraagt naar je gewoontes en eerlijk zegt wat niet kan. Zondags zegt vooraf wat buiten het aanbod valt, zoals gevelreiniging of werken op hoogte."},
-  {"q": "Kan ik een poetshulp eerst proberen?", "a": "Bij Zondags kan dat: de eerste 2 uur zijn gratis, om kennis te maken, en het plan is maandelijks opzegbaar. Bij andere aanbieders vraag je vooraf of er een proefperiode of een minimumduur is."},
-  {"q": "Wat als mijn poetshulp ziek wordt of met verlof gaat?", "a": "Vraag dat vooraf aan elke aanbieder. Bij een zelfstandige valt de beurt meestal weg. Bij Zondags zoeken wij bij ziekte of verlof een oplossing; een vervanger op exact dezelfde dag kunnen we niet altijd toezeggen."}
+  {
+   "q": "Waar let ik op bij een poetshulp voor mijn kantoor?",
+   "a": "Let op een vaste persoon, een vast moment, een helder takenpakket, een begrijpelijke prijs, een factuur op naam van je bedrijf en een plan voor ziekte of verlof. Die zes punten zeggen meer dan een mooie presentatie."
+  },
+  {
+   "q": "Moet ik zelf een poetshulp zoeken of kan een bedrijf dat doen?",
+   "a": "Beide kan. Zoek je zelf iemand, dan regel je contract en loon zelf. Bij Zondags is je Zondag in dienst van Zondags en krijg je gewoon een factuur."
+  },
+  {
+   "q": "Hoe weet ik of een poetshulp bij mijn zaak past?",
+   "a": "Boek een eerste blok en bekijk de resultaten. Past de persoon niet bij de sfeer of de aanpak van je zaak, dan kan je bij Zondags vragen om een andere Zondag."
+  },
+  {
+   "q": "Wat kost een goede poetshulp voor een kantoor?",
+   "a": "Bij Zondags is dat 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw per blok, en extra uren zijn hetzelfde tarief."
+  },
+  {
+   "q": "Kan ik online een poetshulp voor mijn kantoor boeken?",
+   "a": "Ja. Op de boekpagina kies je een weekdag, het aantal blokken en de taken. Je geeft de naam en het btw-nummer van je bedrijf op en betaalt met kaart of Bancontact."
+  },
+  {
+   "q": "Wat als de poetshulp niet komt opdagen?",
+   "a": "Bij ziekte of verlof van je Zondag zoeken wij een oplossing. Een vaste vervanger kunnen we niet beloven, maar je hoort van ons en we bekijken samen wat kan."
+  }
  ]
 }

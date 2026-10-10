@@ -1,92 +1,35 @@
 {
  "path": "sectoren/checklist-wekelijkse-praktijkpoets.html",
- "title": "Checklist voor de wekelijkse poetsbeurt van je praktijk",
- "desc": "Een bruikbare checklist voor de wekelijkse poetsbeurt van je praktijk: wachtzaal, onthaal, consultatieruimtes en sanitair, en wat bij de praktijk blijft.",
- "eyebrow": "Checklist",
+ "title": "Checklist wekelijkse poetsbeurt van je praktijk",
+ "desc": "Wat komt er wekelijks aan bod in wachtzaal, onthaal, behandelruimtes en sanitair van je praktijk, en wat blijft bij het team? Vaste Zondag, 60 euro per uur.",
+ "eyebrow": "Checklist · Praktijk",
  "h1": "Checklist voor de wekelijkse poetsbeurt van je praktijk",
- "lead": "Een praktijk die elke week dezelfde ronde krijgt, ziet er elke maandag even verzorgd uit. Gebruik deze lijst om je eigen poetsbeurt vast te leggen, of om ze door een vaste Zondag te laten doen.",
- "answer": "Een wekelijkse poetsbeurt voor een praktijk omvat wachtzaal, onthaal, consultatie- en behandelruimtes, sanitair, vloeren en afval. Instrumenten, sterilisatie en medisch materiaal blijven bij de praktijk zelf. Zondags (zondags.be) laat die ronde elke week doen door dezelfde vaste persoon, overdag op weekdagen, met een dienstenfactuur op naam van je vennootschap. Gebruik de lijst hieronder als basis voor je zondagsplan.",
- "facts": [
-  "Wachtzaal, onthaal, consultatieruimtes",
-  "Sanitair, vloeren en afval",
-  "Instrumenten blijven bij de praktijk",
-  "Vaste Zondag, vaste dag",
-  "Eerste 2 uur gratis"
- ],
+ "lead": "In een praktijk telt de eerste indruk van de wachtzaal evenveel als de behandelkamer. Deze lijst scheidt het poetswerk van wat altijd bij je eigen team hoort.",
+ "answer": "Bij de wekelijkse poetsbeurt van een praktijk komen wachtzaal, onthaal, consultatie- en behandelruimtes, sanitair, vloeren en afval aan bod. Instrumenten, medisch materiaal en alles wat patiëntgebonden is, blijft bij het team. Zondags (zondags.be) stuurt daarvoor één vaste persoon, je Zondag, op een vaste weekdag en een vast uur. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw, met een factuur op naam van je vennootschap.",
+ "facts": ["Wachtzaal, onthaal en behandelruimtes", "Medisch materiaal blijft bij je team", "Steeds dezelfde Zondag", "Overdag op weekdagen", "60 euro per uur, per blok van 3 uur", "Factuur op naam van je vennootschap"],
  "sections": [
-  {
-   "h2": "Hoe je de lijst gebruikt",
-   "p": [
-    "Loop de lijst één keer door met je eigen praktijk voor ogen en schrap wat niet past. Wat overblijft, is je vaste ronde. Een vaste ronde is het verschil tussen een praktijk die er soms goed uitziet en een die er altijd goed uitziet.",
-    "Hang de lijst op in de personeelsruimte of geef ze mee aan je Zondag. Zo weet iedereen wat er wekelijks gebeurt en wat tussendoor door het team gedaan moet worden."
-   ]
-  },
-  {
-   "h2": "Wachtzaal en onthaal",
-   "p": [
-    "<ul class=\"ticks\"><li>Stoelen, armleuningen en tafeltjes afnemen</li><li>Tijdschriften en folders netjes leggen en verouderde weghalen</li><li>Balie en computerscherm van stof ontdoen</li><li>Vloer stofzuigen en dweilen</li><li>Glazen deuren en ramen langs binnen</li><li>Vuilnisbak legen</li></ul>"
-   ]
-  },
-  {
-   "h2": "Consultatie- en behandelruimtes",
-   "p": [
-    "<ul class=\"ticks\"><li>Oppervlakken en meubilair afnemen</li><li>Vloer en plinten</li><li>Lavabo en kranen</li><li>Spiegels en handdoekhouders</li><li>Prullenbak legen en nieuwe zak plaatsen</li></ul>",
-    "Een behandeltafel of onderzoeksbank reinigen volgens de voorschriften van je beroep blijft bij de praktijk. Je Zondag poetst de ruimte errond."
-   ]
-  },
-  {
-   "h2": "Sanitair en keuken",
-   "p": [
-    "<ul class=\"ticks\"><li>Toilet, lavabo en spiegel</li><li>Papier, zeep en handdoeken aanvullen</li><li>Vloeren en afvoerputjes</li><li>Keukenblad, koffiemachine en frigo-deur</li><li>Vaatwasser leegmaken of laten draaien</li></ul>"
-   ]
-  },
-  {
-   "h2": "Wat bij de praktijk blijft",
-   "p": [
-    "Zondags doet geen sterilisatie en reinigt geen medisch materiaal of instrumenten. Dat blijft een taak van de praktijk zelf. Ook werken op hoogte, gevelreiniging en technische klussen horen er niet bij. Spreek met je Zondag af waar de grens ligt, zodat niemand twijfelt wat er wel of niet aangeraakt wordt.",
-    "Meer over de volledige aanpak lees je op <a href=\"diensten/praktijkschoonmaak.html\">praktijkschoonmaak</a>."
-   ]
-  },
-  {
-   "h2": "Eén keer per maand en één keer per jaar",
-   "p": [
-    "Niet alles hoeft wekelijks. Plaats een paar taken in een maandritme, zoals radiatoren en lamphouders afnemen, en een paar in een jaarritme, zoals het grondig reinigen van de wachtzaal. Een Zondag kan die extra beurten inplannen binnen je zondagsplan, of je boekt een losse opdracht voor een grote poetsbeurt."
-   ]
-  },
-  {
-   "h2": "Zondags erbij",
-   "p": [
-    "Je Zondag komt overdag op weekdagen, vroeg in de ochtend of over de middag, op een vaste dag. Een vennootschap kan geen dienstencheques kopen. Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap, waarop het beroepsmatige deel gescheiden staat van een eventueel privégedeelte. Laat je accountant bevestigen hoe dit voor jouw situatie werkt.",
-    "Aanvragen kan via het formulier of de chat. Binnen één werkdag belt iemand je terug. De eerste 2 uur zijn gratis."
-   ]
-  },
-  {
-   "h2": "Een korte gewoonte voor je team",
-   "p": [
-    "Tussen twee wekelijkse beurten kan je team veel opvangen. Laat iedereen na een consultatie de tafel afnemen, een volle prullenbak meteen vervangen en een lege zeepdispenser melden. Zo blijft de ronde van je Zondag een aanvulling, en geen inhaalbeweging. Je past de lijst aan wanneer je praktijk groeit of er een ruimte bijkomt."
-   ]
-  }
+  {"h2": "Twee kringen: wat de Zondag doet en wat bij jou blijft", "p": [
+   "Een praktijk heeft twee soorten werk. Het ene is gewoon poetswerk: oppervlakken, vloeren, sanitair, afval. Het andere raakt de kern van je beroep: instrumenten, medisch materiaal, steriele zaken, dossiers en alles wat met een patiënt of cliënt te maken heeft. Zondags neemt het eerste over en raakt het tweede niet aan. Sterilisatie en het hanteren van medisch materiaal vallen buiten onze opdracht.",
+   "Spreek die grens vooraf af en zet ze op papier in het zondagsplan van je praktijk. Dan weet je Zondag precies wat op een werkblad mag verplaatst worden en wat niet."]},
+  {"h2": "Wachtzaal en onthaal", "p": [
+   "<ul class=\"ticks\"><li>Zitjes, leuningen en tafeltjes afgenomen</li><li>Oude tijdschriften en folders weggehaald, de rest netjes gelegd</li><li>Balie, pennen en betaalterminal oppervlakkig afgenomen</li><li>Ingangsmat, vloer en glazen deur langs binnen gereinigd</li></ul>",
+   "Meer over een frisse wachtruimte staat in de <a href=\"sectoren/checklist-frisse-wachtzaal.html\">aparte checklist voor de wachtzaal</a>."]},
+  {"h2": "Consultatie- en behandelruimtes", "p": [
+   "<ul class=\"ticks\"><li>Werkvlakken, tafels en kasten aan de buitenkant afgenomen</li><li>Behandeltafel of stoel gereinigd met het product dat jij voorschrijft</li><li>Lavabo, kraan en zeepdispenser gepoetst en aangevuld</li><li>Vloer gestofzuigd en gedweild, prullenmand geleegd</li></ul>",
+   "Heb je voor de behandeltafel of de stoel een eigen reinigingsmiddel of protocol, leg dan het product klaar en beschrijf de werkwijze één keer. Je Zondag volgt het daarna elke week op dezelfde manier."]},
+  {"h2": "Sanitair en personeelsruimte", "p": [
+   "Toiletten voor patiënten verdienen de meeste aandacht, want die worden gezien. Toilet, lavabo, spiegel en vloer gaan bij elke beurt aan de beurt, en zeep, handdoekjes en toiletpapier worden aangevuld. In de personeelsruimte volstaan koffiehoek, tafel, frigo aan de buitenkant en vloer."]},
+  {"h2": "Afval en wat tussendoor gebeurt", "p": [
+   "Gewoon restafval en papier zet je Zondag buiten op de dag van de ophaling. Medisch afval of materiaal dat apart verwerkt moet worden, blijft bij je team. Tussen twee beurten zorgt jouw team voor de kleine dingen: een gemorste vloeistof opdweilen, een gebruikte beker weghalen, na elke patiënt het eigen werkblad herstellen."]},
+  {"h2": "Planning, kost en facturatie", "p": [
+   "Vroeg in de ochtend of tijdens de middagpauze kan, zodat de beurt niet samenvalt met afspraken. Je betaalt 60 euro per uur exclusief btw en boekt per blok van 3 uur, dus 180 euro exclusief btw. Een vaste, terugkerende beurt bespreek je eerst in een kort gesprek. Wil je eerst proeven met een enkele beurt, dan boek je die rechtstreeks op de <a href=\"boeken.html\">boekpagina</a>.",
+   "Je krijgt een factuur op naam van je vennootschap. Of je de btw kan recupereren, hangt af van je situatie: een btw-vrijgestelde praktijk kan dat doorgaans niet. Laat je accountant dit bevestigen."]}
  ],
  "faq": [
-  {
-   "q": "Wat hoort er in een wekelijkse poetsbeurt van een praktijk?",
-   "a": "Wachtzaal, onthaal, consultatie- en behandelruimtes, sanitair, keuken, vloeren en afval. Instrumenten, sterilisatie en medisch materiaal blijven bij de praktijk zelf."
-  },
-  {
-   "q": "Kan Zondags mijn praktijk wekelijks laten poetsen?",
-   "a": "Ja. Zondags (zondags.be) stuurt dezelfde vaste persoon op een vaste dag, overdag op weekdagen. Je kan ook kiezen voor een tweewekelijks ritme."
-  },
-  {
-   "q": "Wordt medisch materiaal gereinigd door een Zondag?",
-   "a": "Nee. Sterilisatie en reiniging van medisch materiaal en instrumenten doet Zondags niet. Dat blijft bij de praktijk."
-  },
-  {
-   "q": "Hoe vaak moet een praktijk gepoetst worden?",
-   "a": "Dat hangt af van het aantal cliënten en de soort praktijk. Voor veel praktijken is wekelijks een goed vertrekpunt, met af en toe een grotere beurt."
-  },
-  {
-   "q": "Hoe wordt dit gefactureerd?",
-   "a": "Met een dienstenfactuur op naam van je vennootschap. Een vennootschap kan geen dienstencheques kopen. Laat je accountant bevestigen hoe je dit verwerkt."
-  }
+  {"q": "Wat hoort er bij de wekelijkse poetsbeurt van een praktijk?", "a": "Wachtzaal, onthaal, consultatie- en behandelruimtes, sanitair, personeelsruimte, vloeren en gewoon afval. Instrumenten en medisch materiaal blijven bij je eigen team."},
+  {"q": "Raakt de poetshulp medisch materiaal of instrumenten aan?", "a": "Nee. Sterilisatie en medisch materiaal vallen buiten onze opdracht. Je Zondag poetst oppervlakken en ruimtes en laat alles wat bij je beroep hoort, staan waar het ligt."},
+  {"q": "Hoe gaat de poetshulp om met patiëntgegevens?", "a": "Dossiers en documenten met patiëntgegevens blijven opgeborgen. Spreek vooraf af welke kasten dicht blijven, zodat je Zondag er niet aan komt tijdens het poetsen."},
+  {"q": "Wanneer komt de poetshulp in een praktijk?", "a": "Overdag op weekdagen, vroeg in de ochtend of over de middag. 's Avonds en in het weekend werkt Zondags niet. Het uur stem je af op je afspraken."},
+  {"q": "Wat kost een wekelijkse poetsbeurt voor een praktijk?", "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief."}
  ]
 }

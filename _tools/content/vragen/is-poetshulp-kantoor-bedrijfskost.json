@@ -1,87 +1,81 @@
 {
  "path": "vragen/is-poetshulp-kantoor-bedrijfskost.html",
  "title": "Is poetshulp voor je kantoor een bedrijfskost?",
- "desc": "Is poetshulp voor je kantoor een bedrijfskost? Het onderhoud van beroepsruimtes is een beroepskost. Zo ligt het bij je vennootschap, met je accountant.",
+ "desc": "Is poetshulp voor je kantoor een bedrijfskost? In principe wel, als het om je zaak gaat. Wat je bijhoudt, wat je accountant bevestigt en hoe Zondags factureert.",
  "eyebrow": "Vraag",
  "h1": "Is poetshulp voor je kantoor een bedrijfskost?",
- "lead": "Meestal wel, als het gaat om het onderhoud van je beroepsruimtes. Voor je woning ligt het anders. Je accountant bevestigt hoe het in jouw situatie zit.",
- "answer": "Het onderhoud van beroepsruimtes zoals een kantoor, praktijk of winkel is een beroepskost. Een vennootschap kan geen dienstencheques kopen, want die zijn voor particulieren, dus je werkt met een gewone dienstenfactuur op naam van je vennootschap. Zondags (zondags.be) factureert zo. Laat je accountant bevestigen hoe dit voor jouw eigen situatie werkt.",
+ "lead": "In principe wel, wanneer de poetshulp het kantoor of de praktijk van je zaak onderhoudt en de factuur op naam van je bedrijf staat. Je accountant bevestigt hoe dat voor jouw situatie werkt.",
+ "answer": "Poetshulp voor het kantoor van je zaak is in principe een beroepskost: het onderhoud van een ruimte die je voor je activiteit gebruikt. Zorg voor een factuur op naam van je bedrijf met btw-nummer en een duidelijke omschrijving. Zondags (zondags.be) factureert zo, aan 60 euro per uur exclusief btw, per blok van 3 uur. Laat je accountant bevestigen wat voor jou geldt.",
  "facts": [
-  "Onderhoud van beroepsruimtes is een beroepskost",
-  "Geen dienstencheques voor een vennootschap",
-  "Dienstenfactuur op naam van de vennootschap",
-  "Privégedeelte apart",
-  "Accountant bevestigt altijd"
+  "Onderhoud van het kantoor: in principe beroepskost",
+  "Factuur op naam van je bedrijf",
+  "Betaal via de zakelijke rekening",
+  "Accountant bevestigt jouw situatie",
+  "60 euro per uur, per blok van 3 uur"
  ],
  "sections": [
   {
-   "h2": "Kantoor: een beroepskost",
+   "h2": "Het principe achter een beroepskost",
    "p": [
-    "Wie een kantoor laat poetsen om er te kunnen werken en klanten te ontvangen, doet dat voor de zaak. Daarom wordt het onderhoud van beroepsruimtes als een beroepskost beschouwd. Dat geldt voor een kantoor, een praktijk, een winkel of een toonzaal.",
-    "Houd wel je factuur bij en let erop dat ze op naam van je vennootschap staat. Dat maakt het voor je accountant eenvoudig."
+    "Een kost wordt in de regel als beroepskost gezien wanneer je hem maakt om inkomsten te verwerven of te behouden. Het kantoor, de praktijk of de winkel waar je werkt hoort bij je activiteit. Het onderhoud ervan, zoals poetsen, valt daar meestal onder.",
+    "Of een bepaalde kost in jouw dossier aanvaard wordt, blijft een beoordeling van je boekhouder of accountant."
    ]
   },
   {
-   "h2": "Waarom dienstencheques niet kunnen",
+   "h2": "Wat je bijhoudt om dat te onderbouwen",
    "p": [
-    "Dienstencheques zijn voorbehouden aan particulieren. Een vennootschap kan ze niet kopen. Een zaakvoerder die thuis dienstencheques gebruikt, doet dat als privépersoon voor de eigen woning.",
-    "Voor je kantoor werk je dus met een gewone dienstenfactuur. Zondags werkt zo: je krijgt een factuur op naam van je vennootschap voor de gepresteerde diensten."
+    "<ul class=\"ticks\"><li>Een factuur op naam van je bedrijf, met btw-nummer</li><li>Een omschrijving die zegt dat het om onderhoud van het kantoor gaat</li><li>Betaling vanaf de zakelijke rekening</li><li>Een eenvoudig overzicht van de afgesproken taken en uren</li></ul>",
+    "Met die vier stukken kan je boekhouder de kost zonder vragen opnemen."
    ]
   },
   {
-   "h2": "En wat met je woning?",
+   "h2": "Een voorbeeld: een adviesbureau met zes werkplekken",
    "p": [
-    "Laat je ook je woning poetsen via een onderneming, dan is dat een privégedeelte. Daarvoor geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst. Op de factuur van Zondags staat het beroepsmatige en het privégedeelte apart, zodat je accountant ze correct kan verwerken.",
-    "Meer over die combinatie lees je op <a href=\"gids/huishoudhulp-via-vennootschap.html\">huishoudhulp via je vennootschap</a>."
+    "Stel: je hebt een adviesbureau in een vennootschap, met zes werkplekken en een vergaderzaal. Elke week komt een Zondag voor drie uur. De factuur vermeldt poetshulp voor het kantoor, het aantal blokken en het bedrag exclusief btw. Je boekhouder boekt ze onder onderhoud van het kantoor."
    ]
   },
   {
-   "h2": "Een voorbeeld uit de praktijk",
+   "h2": "Wanneer het genuanceerd wordt",
    "p": [
-    "Stel: je hebt een vennootschap met een kantoor en een woning, en dezelfde Zondag komt op dinsdag voor beide. De factuur van die maand heeft twee regels: het kantoor als beroepsmatig deel en de woning als privégedeelte. Jij bezorgt de factuur aan je boekhouder, die weet welke regel waar thuishoort.",
-    "Zo vermijd je dat je achteraf moet uitzoeken wat welk uur was. Een duidelijke splitsing vanaf de eerste factuur spaart tijd, ook bij een controle."
+    "Wordt een ruimte gedeeld met iets anders dan je activiteit, dan kan een verdeling nodig zijn. Ook als de btw niet volledig aftrekbaar is, zoals bij een vrijgestelde praktijk, speelt dat in je cijfers. Dat zijn punten voor je accountant, niet voor een poetsfirma.",
+    "Wat je zeker niet doet: kosten opnemen die niet bij de zaak horen. Hou zakelijk en niet-zakelijk strikt uit elkaar."
    ]
   },
   {
-   "h2": "Btw in het kort",
+   "h2": "Beroepskost of niet: drie signalen",
    "p": [
-    "Op het beroepsmatige deel is de btw in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Op het privégedeelte in principe niet. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Dat zijn algemene principes: elke situatie heeft eigen nuances."
+    "Drie dingen helpen je boekhouder snel: de ruimte wordt effectief voor je zaak gebruikt, de dienst dient het onderhoud van die ruimte, en de betaling gebeurt door het bedrijf. Zijn die drie op orde, dan is de boeking in de regel eenvoudig. Twijfel je over een deel, bijvoorbeeld een ruimte die ook iets anders dient, leg het dan voor aan je accountant voor je het boekt.",
+    "Zo voorkom je dat je later een kost moet corrigeren."
    ]
   },
   {
-   "h2": "Wat je zelf kan voorbereiden",
+   "h2": "Zondags en je boekhouding",
    "p": [
-    "<ul class=\"ticks\"><li>Een factuur op naam van je vennootschap vragen</li><li>Kantoor en woning laten splitsen op de factuur</li><li>Het zondagsplan bewaren, met taken en uren</li><li>Je accountant de factuur voorleggen voor je het aanneemt</li></ul>",
-    "Zo heb je alles bij de hand wanneer je accountant vragen heeft."
-   ]
-  },
-  {
-   "h2": "Hoe Zondags dat aanpakt",
-   "p": [
-    "Je vraagt aan via het formulier of de chat. Binnen één werkdag belt iemand je terug. Daarna komen we langs voor de intake, waar we samen het zondagsplan opmaken met de taken en de uren. De eerste 2 uur zijn gratis. De prijs is op maat, maandelijks opzegbaar. Je Zondag is steeds dezelfde persoon, in dienst van Zondags, overdag op weekdagen."
+    "Zondags werkt enkel voor bedrijven. Je krijgt een dienstenfactuur op naam van je zaak, aan 60 euro per uur exclusief btw. Een blok van 3 uur is 180 euro exclusief btw. De btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, een vrijgestelde praktijk kan ze doorgaans niet recupereren.",
+    "Je boekt op de <a href=\"boeken.html\">boekpagina</a> en geeft de gegevens van je bedrijf mee."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Is poetshulp voor een kantoor een bedrijfskost?",
-   "a": "Het onderhoud van beroepsruimtes zoals een kantoor is een beroepskost. Laat je accountant bevestigen hoe dat voor jouw vennootschap en situatie werkt."
+   "q": "Is poetshulp aftrekbaar voor mijn bedrijf?",
+   "a": "In principe is het onderhoud van het kantoor van je zaak een beroepskost. Je accountant bevestigt of en hoe dat voor jouw situatie geldt."
   },
   {
-   "q": "Kan mijn vennootschap dienstencheques kopen?",
-   "a": "Nee. Dienstencheques zijn enkel voor particulieren. Een vennootschap werkt met een gewone dienstenfactuur, zoals Zondags die op naam van je vennootschap uitschrijft."
+   "q": "Wat heb ik nodig om de kost te boeken?",
+   "a": "Een factuur op naam van je bedrijf met btw-nummer, een duidelijke omschrijving en een betaling vanaf de zakelijke rekening."
   },
   {
-   "q": "Kan ik mijn woning en kantoor op één factuur zetten?",
-   "a": "Ja. Zondags splitst het beroepsmatige en het privégedeelte op één factuur. Voor het privégedeelte geldt een forfaitair voordeel van alle aard. Je accountant bevestigt hoe je het verwerkt."
+   "q": "Geldt dat ook voor een eenmanszaak?",
+   "a": "Dat hangt af van je vorm en je situatie. Zondags werkt voor bedrijven, ook voor vrije beroepen met een vennootschap. Je accountant bevestigt de boekhoudkundige kant."
   },
   {
-   "q": "Is de btw op poetshulp recupereerbaar?",
-   "a": "Op het beroepsmatige deel in principe wel voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte niet. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren."
+   "q": "Is de btw ook aftrekbaar?",
+   "a": "Voor een btw-plichtige zaak met aftrekrecht in principe wel. Een vrijgestelde praktijk kan ze doorgaans niet recupereren."
   },
   {
-   "q": "Wie bevestigt de fiscale kant?",
-   "a": "Je accountant. Zondags geeft algemene uitleg, maar jouw situatie verschilt. Leg de factuur en het zondagsplan voor aan je accountant."
+   "q": "Staat de poetshulp apart op de factuur?",
+   "a": "Ja. De omschrijving toont poetshulp, het aantal blokken en het tarief van 60 euro per uur exclusief btw."
   }
  ]
 }

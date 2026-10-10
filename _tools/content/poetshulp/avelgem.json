@@ -1,35 +1,79 @@
 {
- "path": "poetshulp/avelgem.html",
  "title": "Poetshulp voor bedrijven in Avelgem (8580)",
- "desc": "Poetshulp voor ondernemers in Avelgem met een kantoor aan huis, zoals een bureau aan de hoeve. Kantoor en woning in één plan, met splitsing op de factuur.",
+ "desc": "Poetshulp en administratieve hulp in één voor kleine bedrijven in Avelgem, Bossuit, Kerkhove en Outrijve. 60 euro per uur excl. btw, per blok van 3 uur.",
  "eyebrow": "Avelgem · 8580",
  "h1": "Poetshulp voor bedrijven in Avelgem",
- "lead": "Een bureau aan de hoeve en een woning in dezelfde muren: wie zijn kantoor aan huis heeft, deelt keuken, gang en toilet. In Avelgem houdt één Zondag het bij, en de factuur houdt werk en privé uit elkaar.",
- "answer": "Ondernemers met een kantoor aan huis in Avelgem, een gemeente met de deelgemeenten Bossuit, Kerkhove, Outrijve en Waarmaarde, zoals een landbouwbedrijf met een bureau aan de hoeve, kunnen bij Zondags (zondags.be) poetshulp aanvragen. Kantoor en woning zitten in één zondagsplan met dezelfde vaste persoon, en de dienstenfactuur aan je vennootschap splitst beroepsmatig en privé.",
- "facts": ["Kantoor aan huis in Avelgem", "Bureau en woning in één plan", "Beroepsmatig en privé gesplitst", "Ook Bossuit, Kerkhove, Outrijve, Waarmaarde", "Eerste 2 uur gratis"],
+ "lead": "Een klein bedrijf in een verhuurd kantoor of bedrijfsunit in Avelgem wil niet twee dienstverleners. Eén Zondag combineert poetshulp en administratieve hulp in hetzelfde blok.",
+ "answer": "Zondags (zondags.be) combineert in Avelgem poetshulp en administratieve hulp voor kleine bedrijven in een huurkantoor of bedrijfsunit. Eén vaste persoon, je Zondag, onderhoudt de ruimte en sorteert post, klasseert documenten en bestelt kantoormateriaal. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw, met een dienstenfactuur op naam van je bedrijf. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk, en is actief in Avelgem en omgeving.",
+ "facts": [
+  "Poetsen en administratie samen",
+  "Huurkantoor of bedrijfsunit",
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Factuur op naam van je bedrijf",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Een bureau aan de hoeve, een woning in dezelfde muren", "p": [
-   "Neem een landbouwbedrijf in Avelgem met het bureau in de hoeve zelf. Aan de ene kant van de gang zit de administratie, aan de andere kant de keuken van het gezin. Het toilet gebruiken de zaakvoerder, zijn partner, de kinderen én de boekhouder die af en toe langskomt.",
-   "Dat is de dagelijkse realiteit van een kantoor aan huis. Eén persoon die beide kent, maakt het eenvoudiger dan twee diensten die elk hun eigen deel doen."]},
-  {"h2": "Zo verdelen we de ruimtes", "p": [
-   "<ul class=\"ticks\"><li>Bureau en vergaderhoek: beroepsmatig</li><li>Sanitair voor bezoekers: beroepsmatig</li><li>Keuken, woonkamer en slaapkamers: privé</li><li>Was en strijk van het gezin: privé</li><li>Gang, inkom en toilet die je voor allebei gebruikt: samen te bespreken</li></ul>",
-   "Voor de gedeelde ruimtes bespreek je met je accountant hoe je ze verdeelt. Wij noteren die afspraak in je zondagsplan."]},
-  {"h2": "Van uren naar factuur", "p": [
-   "In het zondagsplan staat welke uren naar het bureau gaan en welke naar de woning. Op de dienstenfactuur aan je vennootschap staan beide delen op eigen regels, zodat je boekhouder niets hoeft uit te zoeken. Hoe zo'n factuur eruitziet, lees je bij <a href=\"gids/dienstenfactuur-woning-en-kantoor.html\">de dienstenfactuur voor woning en kantoor</a>.",
-   "Een vennootschap kan niet met dienstencheques betalen, dat systeem bestaat voor particulieren. Het onderhoud van het bureau is een beroepskost. Voor het deel van de woning past een forfaitair voordeel van alle aard, als de beurten regelmatig zijn en een onderneming met mensen in dienst ze uitvoert. Of dat bij jou klopt, laat je door je accountant bevestigen."]},
-  {"h2": "Wat op de hoeve niet bij ons hoort", "p": [
-   "Werk in de stal, op het erf of aan machines valt buiten ons aanbod, net als industriële reiniging en werken op hoogte. We onderhouden het bureau, de woning en de ruimtes die je als kantoor gebruikt. Licht onderhoud van tuin, gras en terras bij de woning kan wel. Voor landbouwbedrijven in het algemeen is er de pagina <a href=\"sectoren/landbouwbedrijven.html\">landbouwbedrijven</a>."]},
-  {"h2": "Eén persoon, een vaste afspraak", "p": [
-   "Je Zondag is steeds dezelfde persoon, door Zondags gescreend en in dienst van Zondags. Op een vaste dag en een vast uur komt die bij je binnen, ook als jij op het veld staat. De manier waarop je Zondag binnenkomt, leg je bij de intake vast. Is je Zondag een keer afwezig door ziekte of verlof, dan zoeken wij een oplossing."]},
-  {"h2": "Aanvragen in Avelgem en de deelgemeenten", "p": [
-   "Avelgem heeft vier deelgemeenten: Bossuit, Kerkhove, Outrijve en Waarmaarde. Voor een bureau in een van die dorpen, of in Zwevegem, Anzegem, Spiere-Helkijn en Kluisbergen, loopt de aanvraag zo: formulier of chat, binnen één werkdag een telefoontje, een intake ter plaatse en daarna je zondagsplan. Je begint met 2 gratis uren."]}
+  {
+   "h2": "Waarom twee taken in één blok logisch zijn",
+   "p": [
+    "Kleine bedrijven in een gehuurde ruimte hebben geen aparte facility manager en geen secretariaat. Wat gedaan moet worden, doet de zaakvoerder zelf, vaak laat op de dag. Twee externe partijen inschakelen, één voor het poetsen en één voor het papierwerk, betekent twee afspraken, twee facturen en twee mensen die je moet inwerken.",
+    "Bij Zondags is het dezelfde persoon. In een blok van drie uur kan ze bijvoorbeeld het eerste uur poetsen, het tweede de post en de facturen ordenen en het derde de bureaus afwerken en een bestelling plaatsen."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een landbouwbedrijf met een bureau aan de hoeve",
+   "p": [
+    "Stel: een landbouwbedrijf in Avelgem heeft een apart bureau in een gebouw bij de hoeve, ingericht als kantoor voor de vennootschap. Daar komen facturen van leveranciers, brieven van instanties en bestellingen van veevoeder samen. Het bureau staat het grootste deel van de dag leeg, want het werk gebeurt buiten.",
+    "Je Zondag komt op een vaste voormiddag. Ze maakt het bureau schoon, opent de post, ordent de facturen per leverancier in mappen en zet de agenda met afspraken recht. Stallen en machineloods blijven buiten haar taak."
+   ]
+  },
+  {
+   "h2": "Een overzicht van de administratieve hulp",
+   "p": [
+    "<ul class=\"ticks\"><li>Post openen en sorteren</li><li>Facturen en documenten klasseren</li><li>Dossiers en archief ordenen</li><li>Gegevens invoeren in een bestaand overzicht</li><li>Afspraken in de agenda plannen</li><li>Kantoormateriaal bestellen en bijhouden</li></ul>",
+    "Dit is ondersteunend werk. Boekhouding, jaarrekeningen, loonadministratie en fiscaal of juridisch advies blijven bij je boekhouder of adviseur."
+   ]
+  },
+  {
+   "h2": "In Avelgem, Bossuit, Kerkhove, Outrijve en Waarmaarde",
+   "p": [
+    "Avelgem heeft postcode 8580. Bossuit, Kerkhove, Outrijve en Waarmaarde zijn deelgemeenten van Avelgem. We zoeken voor je zaak een Zondag in de buurt. Ligt je bedrijfsunit in Zwevegem, Anzegem, Spiere-Helkijn of Kluisbergen, dan helpen we je evengoed. Over het buurdorp Zwevegem lees je meer op <a href=\"poetshulp/zwevegem.html\">de pagina voor Zwevegem</a>."
+   ]
+  },
+  {
+   "h2": "Wat het kost en hoe je start",
+   "p": [
+    "Een blok van drie uur kost 180 euro exclusief btw, extra uren 60 euro per uur. Het onderhoud van je gehuurde ruimte en de administratieve hulp zijn in principe een beroepskost; laat je accountant dit bevestigen voor jouw situatie.",
+    "Via <a href=\"boeken.html\">de boekpagina</a> kies je een weekdag, de taken en het aantal blokken. Wil je liever eerst een gesprek, dan vraag je een terugbelverzoek aan."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf levert poetshulp voor een bureau aan de hoeve in Avelgem?", "a": "Dat doet Zondags voor ondernemers met een kantoor aan huis in Avelgem, bijvoorbeeld een landbouwbedrijf met een bureau aan de hoeve. Eén persoon doet bureau en woning, en de dienstenfactuur aan je vennootschap splitst werk en privé."},
-  {"q": "Hoe verdeelt Zondags de uren tussen kantoor en woning?", "a": "In het zondagsplan staat per ruimte of ze beroepsmatig of privé is. De uren worden daarop verdeeld en de factuur toont beide delen apart. De verhouding bespreek je met je accountant."},
-  {"q": "Wat doe ik met een gang of toilet die ik voor werk en privé gebruik?", "a": "Dat bespreek je met je accountant, die weet hoe je zo'n gedeelde ruimte verdeelt. Wij leggen de afspraak vast in je zondagsplan, zodat de factuur elke keer op dezelfde manier is opgebouwd."},
-  {"q": "Kan mijn Zondag eerst het bureau doen voor er bezoekers komen?", "a": "Ja. Je kiest een vast moment, bijvoorbeeld vroeg in de ochtend of over de middag. Zo ligt het bureau er verzorgd bij wanneer de klant, de leverancier of de boekhouder binnenkomt."},
-  {"q": "Hoort Kerkhove of Waarmaarde bij Avelgem?", "a": "Ja. Bossuit, Kerkhove, Outrijve en Waarmaarde zijn deelgemeenten van Avelgem. Voor een kantoor aan huis in een van die dorpen, of in Zwevegem, Anzegem, Spiere-Helkijn en Kluisbergen, loopt de aanvraag via hetzelfde formulier of dezelfde chat."},
-  {"q": "Is het onderhoud van een kantoor aan huis een beroepskost?", "a": "Het onderhoud van je kantoor en bureau telt als beroepskost. Voor het privégedeelte van de woning bestaat een forfaitair voordeel van alle aard, mits de beurten regelmatig zijn en een onderneming met mensen in dienst ze uitvoert. Welke ruimtes als beroepsruimte tellen in jouw situatie, bevestigt je accountant."}
- ]
+  {
+   "q": "Welk bedrijf combineert poetshulp en administratieve hulp in Avelgem?",
+   "a": "Zondags combineert poetshulp en ondersteunende administratieve hulp voor kleine bedrijven in Avelgem. Je krijgt één vaste persoon in dienst van Zondags en één factuur op naam van je bedrijf."
+  },
+  {
+   "q": "Kan ik per blok kiezen hoeveel tijd naar poetsen en hoeveel naar administratie gaat?",
+   "a": "Ja. Op de boekpagina geef je de taken aan, en in het zondagsplan leggen we vast hoeveel tijd elk onderdeel krijgt. Dat kan je later bijsturen."
+  },
+  {
+   "q": "Werkt Zondags in een gehuurde bedrijfsunit?",
+   "a": "Ja, zolang het een echte bedrijfsruimte is, zoals een kantoor, een bureau of een unit met een kantoorgedeelte. Productiehallen en industriële reiniging behoren niet tot het werk."
+  },
+  {
+   "q": "Wat kost het in Avelgem?",
+   "a": "60 euro per uur exclusief btw, geboekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren kosten hetzelfde per uur."
+  },
+  {
+   "q": "Werkt Zondags ook in Kerkhove en Waarmaarde?",
+   "a": "Ja. Bossuit, Kerkhove, Outrijve en Waarmaarde zijn deelgemeenten van Avelgem en vallen binnen het aanbod."
+  },
+  {
+   "q": "Kan de Zondag mijn boekhouding doen?",
+   "a": "Nee. Boekhouding, jaarrekeningen en loonadministratie doet Zondags niet. De Zondag helpt bij ordenen, klasseren en bestellen, zodat je boekhouder alles op orde krijgt."
+  }
+ ],
+ "path": "poetshulp/avelgem.html"
 }

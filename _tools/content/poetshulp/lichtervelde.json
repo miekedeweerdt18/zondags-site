@@ -1,33 +1,86 @@
 {
  "path": "poetshulp/lichtervelde.html",
- "title": "Poetshulp voor familiebedrijven in Lichtervelde (8810)",
- "desc": "Poetshulp voor familiebedrijven, kantoren en praktijken in Lichtervelde. Zaak en woning in één plan, één vaste Zondag en één factuur aan je vennootschap.",
+ "title": "Poetshulp voor bedrijven in Lichtervelde (8810)",
+ "desc": "Poetshulp in Lichtervelde voor familiebedrijven en praktijken: één vaste Zondag, op een vast uur. 60 euro per uur excl. btw, online per blok van 3 uur.",
  "eyebrow": "Lichtervelde · 8810",
  "h1": "Poetshulp voor bedrijven in Lichtervelde",
- "lead": "Als zaak en woning bijna aan elkaar grenzen, wil je niet twee poetsploegen en twee facturen. In Lichtervelde regelt één vaste Zondag beide kanten.",
- "answer": "Liggen zaak en woning in Lichtervelde (8810) dicht bij elkaar, dan kan één vaste Zondag van Zondags (zondags.be) beide onderhouden, in hetzelfde zondagsplan. Dat geldt voor familiebedrijven, kantoren en praktijken. Op de dienstenfactuur aan je vennootschap staan het beroepsmatige en het privégedeelte apart. Vanuit Marke, een deelgemeente van Kortrijk, bedient Zondags bedrijven in West- en Oost-Vlaanderen.",
- "facts": ["Familiebedrijven, kantoren en praktijken", "Zaak en woning in één zondagsplan", "Beroepsmatig en privé apart op de factuur", "Steeds dezelfde Zondag", "Eerste 2 uur gratis"],
+ "lead": "In een familiebedrijf met een klein team doet iedereen al drie dingen tegelijk. Poetsen komt dan als laatste, tot het opvalt. In Lichtervelde neemt een vaste Zondag dat werk over.",
+ "answer": "Zondags (zondags.be) levert poetshulp aan bedrijven in Lichtervelde (8810): één vaste persoon, je Zondag, die kantoor, praktijk, winkel of refter onderhoudt op een vaste weekdag en een vast uur. Dat past bij familiebedrijven met een klein team en bij praktijken zoals een groepspraktijk van huisartsen. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je bedrijf.",
+ "facts": [
+  "Familiebedrijven en kleine teams",
+  "Ook groepspraktijken met een wachtzaal",
+  "Postcode 8810, Lichtervelde",
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Als werk en thuis naast elkaar liggen", "p": [
-   "In een familiebedrijf is de grens tussen zaak en woning dun. Het kantoor ligt achter het huis, de refter grenst aan de keuken en de zaakvoerder loopt op een middag van de ene deur naar de andere. Wie daar wil poetsen, heeft baat bij iemand die beide kent en weet wat bij de zaak hoort en wat privé is.",
-   "Dat is het idee van een vaste Zondag: één gezicht voor allebei de kanten, op vaste dagen, met afspraken die je maar één keer hoeft te maken."]},
-  {"h2": "Een groepspraktijk met een arts die naast de praktijk woont", "p": [
-   "Stel: je hebt een groepspraktijk van huisartsen in Lichtervelde, en een van de artsen woont vlak bij de praktijk. Er is een gedeelde wachtzaal, een onthaal, een paar consultatieruimtes, sanitair en een teamkeuken. Alles wat met medisch materiaal en sterilisatie te maken heeft, blijft bij het team. De rest is voor je Zondag: wachtzaal, onthaal, vloeren, sanitair en teamkeuken.",
-   "Op een andere weekdag komt dezelfde Zondag bij die arts thuis voor het huishouden. Meer over praktijken met meerdere zorgverleners lees je bij <a href=\"sectoren/groepspraktijken.html\">poetshulp voor groepspraktijken</a>."]},
-  {"h2": "Twee kolommen in één plan", "p": [
-   "Op je zondagsplan staan twee delen. Voor de zaak: bureaus of consultatieruimtes, wachtzaal, onthaal, refter of teamkeuken, sanitair en vloeren. Voor thuis: poetsen, was en strijk, koken of schotels voor de week, boodschappen en regelwerk zoals de apotheek of de droogkuis. Werkt er een partner of een kind mee in de zaak, dan kijken we samen wie wat nodig heeft."]},
-  {"h2": "Lichtervelde en de gemeenten errond", "p": [
-   "Lichtervelde heeft postcode 8810. In de buurt liggen Torhout, Ardooie, Hooglede en Roeselare, in de regio Roeselare. Voor een zaak in Lichtervelde zoeken we een Zondag die dichtbij woont, zodat de vaste dagen voor zaak en woning haalbaar blijven. Alles over de aanpak voor deze bedrijven vind je op <a href=\"sectoren/familiebedrijven.html\">poetshulp voor familiebedrijven</a>."]},
-  {"h2": "Wat staat waar op de factuur?", "p": [
-   "Zaak en woning kunnen samen in één plan, maar op papier blijven ze gescheiden. Je krijgt een dienstenfactuur op naam van de vennootschap met het beroepsmatige deel en het privégedeelte apart. Wat je aan onderhoud van kantoor of praktijk uitgeeft, is een beroepskost. Het privégedeelte telt als forfaitair voordeel van alle aard, mits de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Een vennootschap werkt met een dienstenfactuur, niet met dienstencheques. De btw-kant hangt af van je situatie, dus laat je accountant dit bevestigen."]},
-  {"h2": "Van aanvraag tot intake", "p": [
-   "Je begint met een bericht via het formulier of de chat. Binnen één werkdag volgt een telefoontje en daarna een intake bij je thuis of in de praktijk. De eerste 2 uur zijn gratis, zodat je kan voelen of het klikt."]}
+  {
+   "h2": "Wanneer niemand tijd heeft om te poetsen",
+   "p": [
+    "Een familiebedrijf draait op een handvol mensen die elkaar goed kennen. De ene doet de klanten, de andere de planning, een derde de facturen. Het gebouw onderhouden valt tussen de plooien, en dan springt iemand in met een emmer op een moment dat hij of zij beter iets anders deed.",
+    "Zondags neemt dat stuk volledig weg. Je krijgt één vaste persoon met een vaste dag en een vast uur, geen wisselende ploeg. Na een paar weken weet je Zondag waar alles staat, wat jullie belangrijk vinden en waar een bureau liever met rust gelaten wordt."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een groepspraktijk van huisartsen",
+   "p": [
+    "Neem een groepspraktijk met meerdere artsen, een secretariaat en een wachtzaal die de hele dag in gebruik is. De wachtzaal, de consultatieruimtes, de balie en het sanitair moeten er elke ochtend onberispelijk uitzien, maar het personeel heeft er geen minuut voor.",
+    "Je Zondag komt vroeg, voor de eerste patiënt binnenkomt, of over de middag wanneer de consulten even stilvallen. Ze neemt de wachtzaal, de bureaus en de keuken van het team, zet het afval klaar en maakt wasbakken en kranen schoon. Alles wat medisch materiaal betreft blijft bij de praktijk zelf: sterilisatie en het hanteren van medische middelen doen we niet."
+   ]
+  },
+  {
+   "h2": "Wat er standaard bij hoort",
+   "p": [
+    "<ul class=\"ticks\"><li>Bureaus, balie en onthaal</li><li>Wachtzaal en vergaderhoek</li><li>Keuken, koffiehoek en refter</li><li>Sanitair en vloeren</li><li>Ramen en glazen deuren langs binnen</li><li>Afval sorteren en buiten zetten</li></ul>",
+    "Werken op hoogte, gevelreiniging en industriële reiniging vallen erbuiten. Wil je weten hoe het geheel in elkaar zit, lees dan <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."
+   ]
+  },
+  {
+   "h2": "Naast het poetsen: de losse eindjes van de zaak",
+   "p": [
+    "Bij kleine teams blijven de klusjes liggen die niemand echt toebehoren. Een pakje dat nog naar de post moet, een stapel documenten zonder map, een bestelling kantoormateriaal die bijna op is. Je Zondag kan die dingen oppakken, op afspraak en binnen de uren die je boekt.",
+    "Dat blijft ondersteunend werk. Boekhouding, jaarrekeningen, loonadministratie en juridisch advies horen er niet bij."
+   ]
+  },
+  {
+   "h2": "Torhout, Ardooie, Hooglede en Roeselare in de buurt",
+   "p": [
+    "Lichtervelde heeft geen deelgemeenten, dus ons plan draait om het dorp zelf. Zit je zaak net over de grens, in Torhout, Ardooie, Hooglede of Roeselare, dan bekijken we samen welke Zondag het best aansluit bij jouw dag en uur."
+   ]
+  },
+  {
+   "h2": "Prijs en facturatie",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw en boekt per blok van 3 uur, dus 180 euro exclusief btw. Extra uren kosten hetzelfde per uur. Er is maar één pakket. De factuur staat op naam van je bedrijf, met je btw-nummer. Poetshulp is in principe een beroepskost; of je de btw kan recupereren, hangt af van je situatie. Laat je accountant dat bevestigen.",
+    "Je plant alles op de <a href=\"boeken.html\">boekpagina</a>. Voor een vast terugkerend plan kan je ook bellen of een terugbelverzoek doen."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf levert poetshulp voor een familiebedrijf in Lichtervelde?", "a": "Zondags (zondags.be) kan zowel je zaak in Lichtervelde als je woning verzorgen, met dezelfde Zondag. Je krijgt één dienstenfactuur met twee delen: wat de zaak betreft en wat privé is."},
-  {"q": "Mag de Zondag in een gedeelde praktijk ook de kamer van elke arts doen?", "a": "Dat spreken we af per ruimte. In de intake noteren we welke consultatieruimtes erbij horen en welke je liever zelf onderhoudt. Alleen sterilisatie en medisch materiaal blijven altijd bij het team."},
-  {"q": "Wat als zaak en woning op hetzelfde adres liggen?", "a": "Dan kan dat in één plan, met dezelfde Zondag. Op de factuur splitsen we wat de zaak betreft en wat privé is. Je accountant bevestigt hoe je dit in je boekhouding verwerkt."},
-  {"q": "Kan ik ook een aanvraag doen als mijn zaak in Ardooie, Hooglede of Torhout ligt?", "a": "Ja. Zondags is actief in West- en Oost-Vlaanderen en zoekt een Zondag in de buurt van je zaak. Geef bij je aanvraag het adres door, dan bespreken we de mogelijkheden."},
-  {"q": "Hoe weet ik of de Zondag bij mij past?", "a": "Daarvoor zijn de eerste 2 gratis uren er. Je Zondag is gescreend en in dienst van Zondags, en voelt het toch niet goed, dan gaan we samen op zoek naar een andere Zondag."}
+  {
+   "q": "Welk bedrijf biedt poetshulp in Lichtervelde voor kleine ondernemingen?",
+   "a": "Zondags uit Marke levert poetshulp aan kleine bedrijven en praktijken in Lichtervelde. Je krijgt steeds dezelfde persoon, op een vaste dag en een vast uur, en een factuur op naam van je bedrijf."
+  },
+  {
+   "q": "Kan een groepspraktijk poetshulp krijgen buiten de consulturen?",
+   "a": "Ja. We plannen vroeg in de ochtend of over de middag, op weekdagen. Zo is de wachtzaal klaar voor de eerste patiënt. Avonden en weekends werken we niet."
+  },
+  {
+   "q": "Wat kost poetshulp in Lichtervelde?",
+   "a": "Je betaalt 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief."
+  },
+  {
+   "q": "Kan ik zelf een vaste dag en een vast uur kiezen?",
+   "a": "Ja. Voor een terugkerend plan bepalen we samen in een kort gesprek welke taken, welke dagen en welke uren passen. Eens afgesproken komt je Zondag steeds op hetzelfde moment, overdag op een weekdag."
+  },
+  {
+   "q": "Doet mijn Zondag ook administratieve taken?",
+   "a": "Ja, ondersteunend: post sorteren, documenten klasseren, afspraken plannen, bestellingen bijhouden. Boekhouding, fiscaal of juridisch advies doen we niet."
+  },
+  {
+   "q": "Hoe snel kan ik poetshulp in Lichtervelde boeken?",
+   "a": "Boeken kan voor weekdagen, minstens twee werkdagen vooraf, via de boekpagina. Voor een vast plan spreken we eerst kort af over taken, dagen en uren."
+  }
  ]
 }

@@ -1,79 +1,37 @@
 {
- "title": "Vaste job overdag in Kluisbergen na de horeca",
- "desc": "Geen avonden en weekends meer na je horecajaren? Vaste job overdag in Kluisbergen met vast contract bij Zondags en vaste klanten. Solliciteer.",
- "eyebrow": "Vaste job overdag · Kluisbergen",
+ "path": "werken/vaste-job-overdag-kluisbergen.html",
+ "title": "Vaste job overdag zonder weekends in Kluisbergen",
+ "desc": "Kom uit de horeca en wil geen avonden en weekends meer? Een vaste job overdag in Kluisbergen en omgeving bij vaste klanten. Solliciteer bij Zondags.",
+ "eyebrow": "Vaste job · Kluisbergen · 9690",
  "h1": "Vaste job overdag zonder weekends in Kluisbergen",
- "lead": "Je kent de zaal, de pas en de zondagsdienst. In Kluisbergen kan je overstappen naar een vast contract met vaste klanten, overdag en zonder weekends.",
- "answer": "Zondags (zondags.be) zoekt mensen in en rond Kluisbergen voor een vaste job overdag op weekdagen. Je krijgt een vast contract, deeltijds of voltijds, en werkt als Zondag bij vaste klanten. Ook wie uit de horeca komt en geen avonden en weekends meer wil, is welkom. Je verloning ligt boven het barema en verplaatsingen worden vergoed.",
- "facts": [
-  "Voor zij-instromers uit de horeca",
-  "Vast contract",
-  "Overdag op weekdagen",
-  "Nooit 's avonds of in het weekend",
-  "Verplaatsingen vergoed"
- ],
+ "lead": "Je hebt jaren in de horeca gewerkt en wil niet langer elke avond en elk weekend inzetten. In Kluisbergen kan je overstappen naar een vast contract overdag als Zondag.",
+ "answer": "Zondags (zondags.be) zoekt in Kluisbergen en de Vlaamse Ardennen zij-instromers voor een vast contract overdag, zonder avonden en weekends. Als Zondag werk je bij vaste klanten, dat zijn kantoren, praktijken, winkels en bedrijfsleiders, met poetsen, administratieve hulp en praktisch regelwerk. Je mag deeltijds of voltijds kiezen, je kiest mee je dagen en uren en je krijgt verloning boven het barema. Ervaring in de horeca is een voordeel, maar geen voorwaarde.",
+ "facts": ["Vast contract, deeltijds of voltijds", "Voor zij-instromers", "Overdag, nooit 's avonds of in het weekend", "Verloning boven het barema", "Verplaatsingen vergoed"],
  "sections": [
-  {
-   "h2": "Stel: je stapt over uit de horeca",
-   "p": [
-    "Stel dat je jaren in de horeca werkte. Je werkte precies wanneer anderen vrij waren: etentjes, feesten, zondagmiddagen. Je kent het tempo en de verwachtingen, en je weet dat je meer kan dan je ooit op een cv zette.",
-    "Nu wil je een vaste plek in een week die klopt. Dezelfde mensen, dezelfde dagen, en thuis voor het avondeten."
-   ]
-  },
-  {
-   "h2": "Wat je meeneemt",
-   "p": [
-    "Horeca leert je netjes werken, snel schakelen en gastvrij zijn. Een klant die zijn huis of kantoor aan je toevertrouwt, vraagt datzelfde, in een rustiger tempo. Je kan dus ook koken, tafels dekken of een keuken op orde zetten als de klant dat vraagt.",
-    "Je mag ook iets totaal anders doen. We verplichten je niet tot koken.",
-    "Wat veel zij-instromers uit de horeca verrast, is de rust. Geen tickets die aan de pas blijven hangen en geen volle zaal om half een, wel een klant die je naam kent en een lijstje dat voor jouw komst is klaargelegd. Je kan je aandacht echt bij je werk houden."
-   ]
-  },
-  {
-   "h2": "Een voorbeeld van een vaste week",
-   "p": [
-    "Op maandag poets je het huis van een gezin. Op dinsdag maak je schotels voor de week bij een zaakvoerder. Woensdag doe je boodschappen en regelwerk. Op donderdag onderhoud je een kleine praktijk en op vrijdag zit je weer bij de eerste klant voor de strijk. Rond de middag of in de namiddag ben je klaar. Het weekend houd je voor jezelf. Dat is voor wie jaren van weekend weinig zag, vaak het grootste verschil."
-   ]
-  },
-  {
-   "h2": "Contract, rooster en verloning",
-   "p": [
-    "Een vast contract bij Zondags, deeltijds of voltijds. Je kiest mee je dagen en uren, en eens afgesproken ligt het vast. Verloning boven het barema en verplaatsingen vergoed, alles correct op papier. Lees ook <a href=\"jobs/vaste-job-flexibele-uren.html\">alles over de vaste job</a>."
-   ]
-  },
-  {
-   "h2": "Kluisbergen, de deelgemeenten en de buren",
-   "p": [
-    "Kluisbergen heeft postcode 9690 en bestaat uit onder meer Berchem, Kwaremont, Ruien en Zulzeke. We zoeken Zondags in en rond Kluisbergen, ook richting Avelgem, Oudenaarde, Ronse en Anzegem. Woon je net buiten de gemeente, dan kijken we naar klanten die dichter bij je thuis liggen, zodat je niet nodeloos op de baan zit. Een goed beeld van het werk geeft ook <a href=\"jobs/huishoudhulp-avelgem.html\">huishoudhulp in Avelgem</a>."
-   ]
-  },
-  {
-   "h2": "Solliciteren",
-   "p": [
-    "Gebruik het formulier, de chat of WhatsApp op 0470 56 53 58. We bellen binnen twee werkdagen voor een kort gesprek. Klikt het, dan zoeken we klanten dicht bij je woonplaats. Bij de start gaan we samen langs en krijgt elke klant een zondagsplan met taken, uren en afspraken."
-   ]
-  }
+  {"h2": "Van horeca naar vaste dagen", "p": [
+   "Neem iemand die jaren in een restaurant of café werkte. Gasten ontvangen, tempo maken, alles klaar hebben voor de volgende service. Dat leert je veel, maar het kost ook: je vrije dagen vallen op maandag, je weekends zijn werkdagen en je avonden zijn verdwenen. Wie dat beu is, zoekt vooral rust in zijn agenda.",
+   "Als zij-instromer neem je mee wat je al kan. Je werkt netjes, je let op details, je blijft kalm als het druk wordt. Bij Zondags krijg je dat vertaald naar werk in kantoren, praktijken en winkels, overdag en op weekdagen."]},
+  {"h2": "Wat je uit de horeca meebrengt", "p": [
+   "<ul class=\"ticks\"><li>Gevoel voor orde: een ruimte klaarzetten voor gasten wordt een kantoor of winkel klaarzetten voor klanten</li><li>Discretie in andermans zaak</li><li>Tempo en overzicht bij praktische klusjes</li><li>Klantgericht denken, ook als de klant niet in de ruimte is</li></ul>",
+   "Een diploma of ervaring in poetsen of administratie heb je niet nodig. We leggen het werk uit en gaan bij de start samen langs bij je klanten."]},
+  {"h2": "Een week met vaste klanten", "p": [
+   "Stel: je kiest voor een voltijdse week. Op maandag ben je vroeg in een kantoor, op dinsdag in een praktijk met een wachtzaal en een paar consultatieruimtes. Woensdag werk je bij een winkelier, donderdag help je een bedrijfsleider met post, pakjes en bestellingen, en vrijdag sluit je af met een tweede kantoor.",
+   "Je ziet telkens dezelfde mensen. In de horeca wisselde je voortdurend van gasten; hier bouw je een vertrouwensband op met een paar vaste klanten."]},
+  {"h2": "Contract en afspraken", "p": [
+   "Je tekent een vast contract bij Zondags, deeltijds of voltijds, met alles correct in orde op papier. De verloning ligt boven het barema en je verplaatsingen worden vergoed. Je kiest mee je dagen en uren. Vroeg in de ochtend of over de middag kan, avonden en weekends nooit.",
+   "Technische klussen en werken op hoogte horen er niet bij, en je werkt enkel voor bedrijven."]},
+  {"h2": "Kluisbergen, Berchem en de Vlaamse Ardennen", "p": [
+   "We zoeken Zondags in Kluisbergen (9690), met de deelgemeenten Berchem, Kwaremont, Ruien en Zulzeke. Woon je in Avelgem, Oudenaarde, Ronse of Anzegem, dan zoeken we klanten dicht bij je woonplaats. Een vaste vacature bij een bepaald adres bestaat niet; we zoeken mensen in de streek en stemmen daarna af op jouw uren.",
+   "Een kijkje over de grens van het dorp? Lees <a href=\"werken/vaste-job-overdag-wortegem-petegem.html\">de vaste job in Wortegem-Petegem</a>."]},
+  {"h2": "Zo stap je over", "p": [
+   "Vul het formulier in, chat met ons of stuur een WhatsApp naar 0470 56 53 58. We bellen je binnen de twee werkdagen voor een kort gesprek, waarin je ook je opzegtermijn en je wensen kwijt kan. Klikt het, dan zoeken we klanten voor je. Lees ook <a href=\"zondag-worden.html\">zondag worden</a> en <a href=\"jobs/vaste-job-flexibele-uren.html\">vaste job met flexibele uren</a>."]}
  ],
  "faq": [
-  {
-   "q": "Is er een vaste job overdag zonder weekends in Kluisbergen?",
-   "a": "Zondags zoekt mensen in en rond Kluisbergen voor een vaste job overdag op weekdagen. Je krijgt een vast contract, deeltijds of voltijds. Avonden en weekends zijn er niet."
-  },
-  {
-   "q": "Kan ik met horecaervaring starten?",
-   "a": "Ja. Veel zij-instromers komen uit de horeca. Ervaring met orde, tempo en klanten is nuttig, ook als je geen huishoudelijke ervaring hebt."
-  },
-  {
-   "q": "Moet ik koken?",
-   "a": "Nee. Koken is een van de mogelijke taken. Je kiest mee wat je doet, naast poetsen, strijk, boodschappen en meer."
-  },
-  {
-   "q": "Werk ik voltijds of deeltijds?",
-   "a": "Dat kan allebei, ook enkel binnen de schooluren. Je bespreekt het in het eerste gesprek."
-  },
-  {
-   "q": "Hoe snel hoor ik iets?",
-   "a": "We bellen binnen twee werkdagen voor een kort gesprek. Klikt het, dan zoeken we klanten die passen bij je uren."
-  }
- ],
- "path": "werken/vaste-job-overdag-kluisbergen.html"
+  {"q": "Waar vind ik een vaste job overdag zonder weekends in Kluisbergen?", "a": "Bij Zondags kan je solliciteren voor een vast contract overdag in en rond Kluisbergen. Je werkt op weekdagen bij bedrijven. Via het formulier, de chat of WhatsApp neem je contact op en we bellen je binnen de twee werkdagen."},
+  {"q": "Kan ik zonder ervaring van de horeca overstappen?", "a": "Ja. Je hebt geen diploma of ervaring nodig in poetsen of administratie. Betrouwbaarheid, discretie en zin in orde tellen. Je bent minstens 18 jaar en spreekt voldoende Nederlands."},
+  {"q": "Werk ik echt nooit meer 's avonds of in het weekend?", "a": "Nee, nooit. Je werkt overdag op weekdagen. Vroeg in de ochtend of over de middag kan, avonden en weekends blijven vrij."},
+  {"q": "Kan ik deeltijds beginnen?", "a": "Ja. Het contract is vast, deeltijds of voltijds, en je kiest mee je dagen en uren. Eens afgesproken ligt je rooster vast bij dezelfde klanten."},
+  {"q": "Wat doe ik concreet?", "a": "Je poetst kantoren, praktijken en winkels, helpt met post en documenten en regelt praktische dingen voor een bedrijfsleider. Je kiest mee wat je graag doet."},
+  {"q": "Wie zijn mijn klanten?", "a": "Altijd bedrijven in de buurt, zoals kantoren, praktijken, winkels en bedrijfsleiders. Elke klant heeft een zondagsplan met taken, uren en afspraken."}
+ ]
 }

@@ -1,81 +1,39 @@
 {
  "path": "vragen/niet-tevreden-over-de-schoonmaak.html",
- "title": "Wat als je niet tevreden bent over de schoonmaak?",
- "desc": "Niet tevreden over de schoonmaak? Zeg het concreet, leg het vast in het plan en bekijk of een andere aanpak of een andere Zondag past. Zo pak je het aan.",
+ "title": "Niet tevreden over de schoonmaak van je kantoor?",
+ "desc": "Wat doe je als de schoonmaak op kantoor tegenvalt? Eerst vaststellen wat schort, dan bespreken, bijsturen en zo nodig wisselen. Zo pak je het rustig aan.",
  "eyebrow": "Vraag",
  "h1": "Wat doe je als je niet tevreden bent over de schoonmaak?",
- "lead": "Zeg het snel en concreet, liefst met een voorbeeld. Meestal zit het probleem in een afspraak die niet duidelijk genoeg stond, niet in de persoon.",
- "answer": "Als je niet tevreden bent over de schoonmaak, benoem je concreet wat je mist, laat je het zien op de plek zelf en pas je samen het plan aan. Bij Zondags (zondags.be) kan je plan aangepast worden, en klikt het niet met je Zondag, dan zoeken we samen een andere Zondag. Het plan is maandelijks opzegbaar.",
- "facts": [
-  "Concreet benoemen, liefst ter plaatse",
-  "Eerst het plan aanpassen",
-  "Klikt het niet, een andere Zondag",
-  "Maandelijks opzegbaar",
-  "Meteen contact met Zondags"
- ],
+ "lead": "Tegenvallende schoonmaak los je zelden op met één boze mail. Je stelt eerst vast wat precies schort, bespreekt het met de persoon zelf en stuurt bij.",
+ "answer": "Wie niet tevreden is over de schoonmaak, benoemt eerst concreet wat er mist, bespreekt dat met de uitvoerder en vergelijkt het met wat was afgesproken. Bij Zondags (zondags.be) loopt dat via het zondagsplan: de taken, de dag en het uur liggen vast bij één vaste persoon. Volstaat bijsturen niet, dan zoeken we samen een andere Zondag. Je boekt per blok van 3 uur aan 60 euro per uur exclusief btw, dus een slechte match kost je geen lang contract.",
+ "facts": ["Eerst concreet benoemen wat schort", "Vergelijk met het zondagsplan", "Bespreek het met dezelfde persoon", "Klikt het niet: een andere Zondag", "60 euro per uur, per blok van 3 uur", "Geen lang contract nodig"],
  "sections": [
-  {
-   "h2": "Begin met één concreet voorbeeld",
-   "p": [
-    "Wie ontevreden is, zegt vaak \"het is niet proper genoeg\". Dat is een gevoel, geen afspraak. Een concreet voorbeeld werkt beter: de plinten in de wachtzaal, de rand van de koffiemachine, de hoek achter de deur. Neem een foto, of wijs het aan wanneer je Zondag er is.",
-    "Zo kan je Zondag zien wat jij ziet. En vaak is het antwoord eenvoudiger dan verwacht: het stond niet in het plan, of het was niet duidelijk hoe jij het wilt."
-   ]
-  },
-  {
-   "h2": "Kijk eerst in het zondagsplan",
-   "p": [
-    "Het zondagsplan beschrijft wat er gebeurt, hoe vaak en op welke dag en uur. Controleer of wat je mist erin staat. Staat het er niet in, dan is het geen slecht werk maar een gat in de afspraak. Staat het er wel in, dan bespreek je dat gewoon met je Zondag.",
-    "<ul class=\"ticks\"><li>Staat de taak in het zondagsplan</li><li>Is de frequentie genoeg voor jouw gebruik</li><li>Is er genoeg tijd voor wat je verwacht</li><li>Heb je het aan je Zondag gezegd, of enkel gedacht</li></ul>"
-   ]
-  },
-  {
-   "h2": "Bespreek het met je Zondag, daarna met Zondags",
-   "p": [
-    "Een goede Zondag wil weten wat beter kan. Zeg het vriendelijk en concreet, bij voorkeur op de plek zelf. Verandert er na een gesprek niets, neem dan contact met ons op via telefoon of WhatsApp op 0470 56 53 58, elke dag van 6 tot 22 uur, of via het formulier of de chat. We bekijken samen wat er mis loopt.",
-    "Soms past het plan niet meer bij wat je nodig hebt. Uren bijboeken of het plan aanpassen kan. Meer over het kwaliteitsgesprek lees je op <a href=\"vragen/kwaliteit-schoonmaak-controleren.html\">kwaliteit van de schoonmaak controleren</a>."
-   ]
-  },
-  {
-   "h2": "Als het niet klikt",
-   "p": [
-    "Soms ligt het niet aan het plan of aan een taak, maar aan de samenwerking. Dat is menselijk. Klikt het niet tussen jou en je Zondag, dan zoeken we samen een andere Zondag. Dat gebeurt zonder dat je opnieuw moet beginnen: we hebben je zondagsplan al.",
-    "Wil je weten hoe wisselen werkt, lees dan <a href=\"vragen/van-poetshulp-wisselen.html\">van poetshulp wisselen</a>."
-   ]
-  },
-  {
-   "h2": "Voorbeeld: een tandartspraktijk met twee behandelkamers",
-   "p": [
-    "Neem een tandartspraktijk met twee behandelkamers. De tandarts merkt dat het sanitair niet altijd goed gedaan is. Ze neemt een foto en bespreekt het met haar Zondag: gaat het om de tijd of om de volgorde? Blijkt de beurt te kort voor sanitair én behandelkamers, dan boekt ze een half uur bij.",
-    "Wat bij de praktijk blijft, blijft bij de praktijk: sterilisatie, medisch materiaal en de ontsmetting van vakgereedschap. De Zondag onderhoudt de ruimtes."
-   ]
-  },
-  {
-   "h2": "Als je wil stoppen",
-   "p": [
-    "Een plan is maandelijks opzegbaar. Je zit nergens aan vast voor een lange periode. Wil je stoppen of van aanpak veranderen, laat het ons dan weten, dan zoeken we samen wat het best past."
-   ]
-  }
+  {"h2": "Begin met een vaststelling, niet met een gevoel", "p": [
+   "\"Het is niet proper genoeg\" is een gevoel waar niemand mee aan de slag kan. \"De vloer van de vergaderzaal is de laatste drie keer niet gedweild\" is een vaststelling. Loop daarom eerst zelf rond op een moment dat je rustig kan kijken, en schrijf op wat je ziet: waar, hoe vaak en sinds wanneer.",
+   "Eén vlek op een glazen deur na een drukke dag is pech. Dezelfde hoek die al weken stof vasthoudt, is een patroon."]},
+  {"h2": "Controleer eerst of de afspraak zelf duidelijk was", "p": [
+   "Een groot deel van de ontevredenheid komt voort uit verschillende verwachtingen. Jij denkt aan de koelkast in de refter, de ander aan de bureaus en de vloer. Haal erbij wat vooraf is afgesproken en vergelijk het punt voor punt met wat je ziet.",
+   "<ul class=\"ticks\"><li>Staat de taak er wel in, of ging je ervan uit dat ze vanzelf werd meegenomen?</li><li>Is het aantal uren realistisch voor de oppervlakte en het aantal mensen?</li><li>Is er iets veranderd sinds de start, zoals een groter team of een extra lokaal?</li><li>Weet de uitvoerder waar het materiaal staat en welke ruimtes je prioritair vindt?</li></ul>",
+   "Blijkt de afspraak vaag, dan is het antwoord een betere afspraak, geen verwijt."]},
+  {"h2": "Spreek de persoon zelf aan, kort en feitelijk", "p": [
+   "Heb je één vaste persoon in je zaak, dan kan je het gesprek rechtstreeks voeren, bij voorkeur bij het begin of einde van een bezoek.",
+   "Begin met wat goed loopt, noem dan twee of drie concrete punten en vraag wat er voor nodig is om die vast te krijgen. Soms hoor je dat een product op is of dat de tijd te krap was. Dat los je meteen op."]},
+  {"h2": "Geef bijsturing een kans, maar met een datum", "p": [
+   "Spreek af wanneer je opnieuw kijkt, bijvoorbeeld na twee bezoeken. Zo weet iedereen dat het geen eindeloos gesprek wordt. Past de tijd niet bij de taken, dan kan je het plan aanpassen: een taak schrappen, een extra blok boeken of het uur verschuiven naar een rustiger moment.",
+   "Merk je na die periode geen verbetering, dan ligt het waarschijnlijk niet aan een detail. Een andere persoon met een andere manier van werken is dan een eerlijker antwoord dan blijven aandringen."]},
+  {"h2": "Hoe Zondags met ontevredenheid omgaat", "p": [
+   "Je Zondag werkt volgens een zondagsplan: welke taken, welke dagen, welke uren. Dat plan is je referentiepunt. Loopt er iets mis, dan bel je, stuur je een bericht via WhatsApp op 0470 56 53 58 of laat je het weten via de chat op de site. Daar stellen we eerst vragen: was het plan duidelijk, ontbrak er materiaal, is de situatie veranderd?",
+   "Klikt het ondanks bijsturing niet, dan zoeken we samen een andere Zondag. Je zit niet vast aan een persoon die niet bij je zaak past. Omdat je per blok van 3 uur boekt, aan 60 euro per uur exclusief btw, blijft ook de financiële kant overzichtelijk. Een nieuwe afspraak maak je online op de <a href=\"boeken.html\">boekpagina</a>."]},
+  {"h2": "Wat je beter niet doet", "p": [
+   "Wacht niet tot de irritatie groot is. Bespreek het ook niet in het bijzijn van collega's of klanten, en pas je verwachtingen niet stilzwijgend aan door het zelf te herdoen. Dan weet niemand dat er iets mis was.",
+   "Verwacht van een wekelijkse beurt ook geen intensieve opkuis. Wil je zoiets, plan het dan bewust als apart blok."]}
  ],
  "faq": [
-  {
-   "q": "Wat doe ik als ik niet tevreden ben over de schoonmaak van mijn kantoor?",
-   "a": "Benoem concreet wat je mist, liefst met een foto of ter plaatse, controleer of het in het zondagsplan staat en bespreek het met je Zondag. Verandert er niets, neem dan contact met Zondags op."
-  },
-  {
-   "q": "Kan ik van Zondag veranderen?",
-   "a": "Ja. Klikt het niet, dan zoeken we samen een andere Zondag. Je zondagsplan blijft gelden, zodat je niet van nul begint."
-  },
-  {
-   "q": "Waar meld ik een probleem met de poetshulp?",
-   "a": "Bij je Zondag zelf, en als dat niets oplevert bij Zondags: telefoon of WhatsApp 0470 56 53 58, elke dag van 6 tot 22 uur, via het formulier of via de chat op de site."
-  },
-  {
-   "q": "Kan ik opzeggen als het niet lukt?",
-   "a": "Ja, het plan is maandelijks opzegbaar. Liefst bekijken we eerst samen of een aangepast plan of een andere Zondag de oplossing is."
-  },
-  {
-   "q": "Wat als mijn Zondag ziek is en de beurt uitvalt?",
-   "a": "Bij ziekte of verlof van je Zondag zoeken wij een oplossing, maar we beloven geen vaste vervanger."
-  }
+  {"q": "Hoe zeg ik dat ik niet tevreden ben zonder iemand te kwetsen?", "a": "Begin met wat goed gaat, noem twee of drie concrete punten en vraag wat nodig is om ze op te lossen. Praat over de taak, niet over de persoon, en spreek af wanneer je opnieuw kijkt."},
+  {"q": "Hoe lang geef ik een poetshulp de tijd om te verbeteren?", "a": "Twee of drie bezoeken is meestal genoeg om te zien of bijsturen werkt. Spreek die termijn vooraf af, zodat beide kanten weten waar ze aan toe zijn."},
+  {"q": "Kan ik bij Zondags van persoon wisselen?", "a": "Ja. Klikt het niet, dan zoeken we samen een andere Zondag die beter bij je zaak past. Je krijgt opnieuw één vaste persoon, met dezelfde dag en hetzelfde uur als dat kan."},
+  {"q": "Wat als mijn Zondag een taak niet kent?", "a": "Dan leg je die taak uit en schrijf je ze in het zondagsplan. Zo ligt ze vast voor de volgende bezoeken en moet je niet telkens herhalen wat je verwacht."},
+  {"q": "Moet ik een lang contract opzeggen als het niet werkt?", "a": "Bij Zondags boek je per blok van 3 uur aan 60 euro per uur exclusief btw. Er is geen lang contract dat je vastzet, dus je kan rustig bijsturen of van Zondag wisselen."},
+  {"q": "Is het normaal dat de eerste bezoeken wat zoeken zijn?", "a": "Ja. Een nieuwe persoon moet je lokalen, je materiaal en je gewoontes leren kennen. Geef een korte rondleiding en een lijst, dan loopt het na een paar bezoeken meestal vlot."}
  ]
 }

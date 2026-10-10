@@ -1,36 +1,84 @@
 {
- "path": "poetshulp/izegem.html",
- "title": "Poetshulp voor bedrijven in Izegem, ook was en strijk",
- "desc": "Poetshulp voor je kapsalon, kantoor of praktijk in Izegem, Emelgem en Kachtem. Dezelfde Zondag kan ook de was, het strijkwerk of de boodschappen doen.",
+ "title": "Poetshulp voor bedrijven in Izegem (8870)",
+ "desc": "Poetshulp, administratie, post en regelwerk uitbesteden in Izegem, Emelgem en Kachtem. Eén vaste persoon, 60 euro per uur excl. btw, per blok van 3 uur.",
  "eyebrow": "Izegem · 8870",
  "h1": "Poetshulp voor bedrijven in Izegem",
- "lead": "Een zaak in Izegem die elke ochtend klaarligt, en thuis een strijkmand die niet blijft groeien. Eén vaste Zondag neemt allebei van je over, op één factuur.",
- "answer": "Een salon, kantoor, praktijk of winkel in Izegem, Emelgem of Kachtem laten poetsen en thuis de was, de strijk, het koken en de boodschappen uit handen geven: bij Zondags (zondags.be) kan dat met één vaste Zondag. Alles staat in één zondagsplan en op één dienstenfactuur aan je vennootschap. Het bedrijf zit in Marke bij Kortrijk en werkt in West- en Oost-Vlaanderen.",
- "facts": ["Poetsen voor kapsalon, kantoor, praktijk of winkel", "Was, strijk, koken en boodschappen in hetzelfde plan", "Dezelfde Zondag, vaste dag en vast uur", "Eén dienstenfactuur op naam van je vennootschap", "Eerste 2 uur gratis, maandelijks opzegbaar"],
+ "lead": "Bedrijven in Izegem die naast het poetsen ook de administratie, de post en het regelwerk willen uitbesteden, vinden dat bij één vaste persoon: hun Zondag.",
+ "answer": "Zondags (zondags.be) levert in Izegem, Emelgem en Kachtem een vaste persoon voor bedrijven die naast poetshulp ook administratie, post en regelwerk willen uitbesteden. Je Zondag poetst de zaak en neemt ondersteunende taken op, zoals documenten klasseren, kantoormateriaal bestellen en afspraken plannen. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je bedrijf. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk.",
+ "facts": [
+  "Poetsen, administratie, post en regelwerk",
+  "Eén vaste persoon voor alles",
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Factuur op naam van je bedrijf",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Wat je naast het poetsen liever uit handen geeft", "p": [
-   "Een zaak runnen in Izegem betekent dat je werkdag zelden stopt aan de deur van je kantoor of winkel. Thuis wachten de wasmand, de strijkplank en de vraag wat er vanavond op tafel komt. Zondags kijkt daarom verder dan het poetsen alleen. Je Zondag onderhoudt je zaak en neemt, als je dat wilt, ook de was en strijk, het koken en de boodschappen van thuis mee.",
-   "Je kiest zelf hoeveel je erbij neemt. Beginnen met het poetsen en later een taak toevoegen kan evengoed als alles in één keer regelen."]},
-  {"h2": "Een kapsalon in de kern van Izegem", "p": [
-   "Denk aan een kapsalon in de kern van Izegem. Voor de eerste klant moet er heel wat gebeuren: de wasbakken blinken, de spiegels zijn streeploos en het haar ligt niet meer op de vloer. Je Zondag komt op een vaste ochtend, vlak voor de deur opengaat, en rondt dat af. Ook de handdoeken worden gewassen, gedroogd en netjes gestapeld.",
-   "Op een andere dag van de week gaat dezelfde Zondag naar je woning. Daar wordt de strijk weggewerkt die blijft liggen en komen er een paar gezonde schotels in de frigo, zodat je na een lange werkdag niet meer hoeft te koken. Eén persoon, twee adressen, één plan."]},
-  {"h2": "Taken die je in één plan combineert", "p": [
-   "<ul class=\"ticks\"><li>Salon, kantoor, praktijk of winkel poetsen</li><li>Handdoeken en de was van thuis wassen, drogen en strijken</li><li>Koken bij jou thuis of schotels voor de week klaarzetten</li><li>Boodschappen voor zaak en gezin</li><li>Regelwerk zoals apotheek, droogkuis en pakjes</li></ul>",
-   "Technische herstellingen, werken op hoogte en gevelreiniging horen er niet bij. Wat een salon van ons mag verwachten, staat uitgewerkt bij <a href=\"sectoren/kapsalons.html\">poetshulp voor kapsalons</a>."]},
-  {"h2": "Emelgem, Kachtem en daarbuiten", "p": [
-   "Emelgem en Kachtem horen bij Izegem (8870), en wie net over de grens zit, in Roeselare, Ingelmunster, Lendelede, Ledegem of Ardooie, kan ook een aanvraag doen. Voor elk van die adressen zoeken we een Zondag die in de buurt woont. De hele streek staat op <a href=\"poetshulp/regio-roeselare.html\">poetshulp in de regio Roeselare</a>."]},
-  {"h2": "Eén factuur voor zaak en thuis", "p": [
-   "Dienstencheques zijn er voor particulieren; je vennootschap kan ze niet kopen. Zondags stuurt daarom een gewone dienstenfactuur op naam van je vennootschap. Het poetsen van je salon of kantoor is een beroepskost.",
-   "Laat je ook thuis helpen met de was, het koken of de boodschappen, dan staat dat deel apart op dezelfde factuur. Voor dat privégedeelte geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst verlopen. Laat je accountant bevestigen hoe dat voor jouw zaak uitpakt."]},
-  {"h2": "Eerste gesprek, eerste beurt", "p": [
-   "Een aanvraag doe je via het formulier of de chat. Binnen één werkdag belt iemand van ons je terug, daarna komen we langs voor de intake en leggen we samen je zondagsplan vast. Wie wil, begint met 2 gratis uren om kennis te maken. Daarna blijft het plan maandelijks opzegbaar en kan je uren bijboeken."]}
+  {
+   "h2": "Eén dag per week waarop alles rechtgezet wordt",
+   "p": [
+    "Veel ondernemers in Izegem hebben dezelfde klacht: de dag loopt over met klanten en belletjes, en op vrijdagavond staat een stapel op het bureau die al een week wacht. Een deel daarvan is poetsen, een deel is papier, een deel is een boodschap voor de zaak die nergens in de agenda past.",
+    "Dat de drie door één persoon worden gedaan, maakt het werkbaar. Je Zondag komt op een vaste dag, werkt een lijst af die jullie samen opstelden en laat de zaak achter zoals jij het zou doen als je tijd had."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een kapsalon in de dorpskern",
+   "p": [
+    "Neem een kapsalon in het hart van Izegem, met vier stoelen, een wasbak, een kleine keuken achteraan en een toonbank met producten. Het salon is open op de dagen dat de meeste mensen werken, en de eigenares kan niet halverwege een knipbeurt naar de apotheek.",
+    "Op maandag, wanneer het salon dicht is, komt haar Zondag. Ze poetst de vloeren en wasbakken, zet de kappersstoelen en spiegels recht, doet het sanitair en de keuken. Daarna bestelt ze het ontbrekende kantoormateriaal, klasseert de facturen van leveranciers en zet de agenda van de week recht. Het kleuren en knippen blijft uiteraard bij het team. Voor kapsalons is er ook <a href=\"sectoren/kapsalons.html\">een aparte pagina</a>."
+   ]
+  },
+  {
+   "h2": "Wat je allemaal in één blok kan stoppen",
+   "p": [
+    "<ul class=\"ticks\"><li>Poetsen: vloeren, sanitair, keuken, onthaal</li><li>Administratie: post, facturen, dossiers, archief</li><li>Afspraken en agenda opvolgen</li><li>Boodschappen voor de zaak, zoals apotheek of drogisterij</li><li>Koffiehoek en keuken bevoorraden</li><li>Pakjes ophalen of klaarmaken</li></ul>",
+    "Niet inbegrepen: boekhouding, jaarrekeningen, loonadministratie en fiscaal of juridisch advies."
+   ]
+  },
+  {
+   "h2": "Een rekensom die je zelf kan maken",
+   "p": [
+    "Reken eens uit wat een uur van jouw eigen tijd bij een klant waard is, en zet daar 60 euro exclusief btw voor een uur Zondag naast. Zolang je uur aan klanten meer waard is dan het uur dat je aan papierwerk besteedt, loont het om dat papierwerk door iemand anders te laten doen. Meer lees je op <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">rechterhand voor bedrijfsleiders</a>."
+   ]
+  },
+  {
+   "h2": "Izegem, Emelgem, Kachtem en de buurt",
+   "p": [
+    "Izegem heeft postcode 8870. Emelgem en Kachtem zijn deelgemeenten van Izegem. Zit je zaak in Roeselare, Ingelmunster, Lendelede, Ledegem of Ardooie, dan helpen we je evengoed. Voor Roeselare is er <a href=\"poetshulp/roeselare.html\">een eigen pagina</a>."
+   ]
+  },
+  {
+   "h2": "Factuur, btw en boeken",
+   "p": [
+    "Een blok van drie uur kost 180 euro exclusief btw, extra uren kosten 60 euro per uur. De factuur staat op naam van je bedrijf. Poetsen en administratieve hulp zijn in principe een beroepskost. Laat je accountant dit bevestigen. Boeken doe je op <a href=\"boeken.html\">de boekpagina</a>."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf levert poetshulp voor een kapsalon of kantoor in Izegem?", "a": "Dat kan Zondags (zondags.be): je krijgt één vaste Zondag die je salon, kantoor, praktijk of winkel poetst en op vraag ook thuis de was, het strijkwerk of het koken doet. Die persoon is gescreend en in dienst van Zondags, en alles staat op één dienstenfactuur aan je vennootschap."},
-  {"q": "Kan dezelfde persoon ook de was en strijk van thuis doen?", "a": "Ja. De was en strijk kan in hetzelfde zondagsplan als het poetsen van je zaak, op een vaste dag en een vast uur. Je bepaalt zelf welke taken je erbij wilt en je kan het plan later aanpassen."},
-  {"q": "Kan een Zondag ook koken of boodschappen doen voor mijn gezin?", "a": "Ja. Je Zondag kan bij jou thuis koken of gezonde schotels voor de week klaarzetten, en boodschappen of regelwerk zoals de apotheek, de droogkuis en pakjes meenemen. Dat gebeurt overdag op weekdagen, nooit 's avonds of in het weekend."},
-  {"q": "Wanneer kan de Zondag in mijn salon aan de slag?", "a": "Overdag, op weekdagen. Vroeg in de ochtend kan, nog voor je eerste klant binnenkomt, en over de middag ook. Een avond- of weekendbeurt bieden we niet aan. Dag en uur leggen we vast tijdens de intake."},
-  {"q": "Werkt Zondags ook in Emelgem en Kachtem?", "a": "Ja. Emelgem en Kachtem horen bij Izegem, dus een aanvraag voor daar verloopt net zo. Ook voor zaken in Roeselare, Ingelmunster, Lendelede, Ledegem of Ardooie kan je een aanvraag doen; telkens zoeken we een Zondag in de buurt."},
-  {"q": "Zit ik lang vast aan een plan?", "a": "Nee. Het zondagsplan is maandelijks opzegbaar. Voelt het niet goed met je Zondag, dan zoeken we samen iemand anders. De prijs maken we op maat na een kort gesprek, en met 2 gratis uren leer je elkaar kennen."}
- ]
+  {
+   "q": "Welk bedrijf doet poetshulp en administratie in Izegem?",
+   "a": "Zondags doet poetshulp en ondersteunende administratieve hulp voor bedrijven in Izegem, Emelgem en Kachtem. Je krijgt één vaste persoon in dienst van Zondags en een factuur op naam van je bedrijf."
+  },
+  {
+   "q": "Welke administratieve taken kan een Zondag overnemen?",
+   "a": "Post openen en sorteren, facturen en documenten klasseren, een archief ordenen, afspraken plannen en kantoormateriaal bestellen. Boekhouding en loonadministratie horen er niet bij."
+  },
+  {
+   "q": "Kan mijn Zondag ook een boodschap voor de zaak doen?",
+   "a": "Ja, bijvoorbeeld naar de apotheek of drogisterij voor de zaak, kantoormateriaal kopen of een pakje ophalen. Dat kost evengoed 60 euro per uur exclusief btw."
+  },
+  {
+   "q": "Hoe verdeel ik de uren tussen poetsen en administratie?",
+   "a": "Dat leggen we vast in het zondagsplan. Je kiest welke taken in welk blok vallen en je kan dat later aanpassen als de zaak verandert."
+  },
+  {
+   "q": "Werkt Zondags ook in Emelgem en Kachtem?",
+   "a": "Ja. Emelgem en Kachtem zijn deelgemeenten van Izegem en vallen onder hetzelfde aanbod, met dezelfde prijs en werkwijze."
+  },
+  {
+   "q": "Hoe boek ik een Zondag in Izegem?",
+   "a": "Via de boekpagina kies je een weekdag, het aantal blokken en de taken, en betaal je online. Voor een vast plan bel je of vraag je een terugbelverzoek aan."
+  }
+ ],
+ "path": "poetshulp/izegem.html"
 }

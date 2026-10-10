@@ -1,79 +1,37 @@
 {
  "path": "werken/vaste-job-overdag-brugge.html",
- "title": "Vaste job overdag met tuin en terras in Brugge",
- "desc": "Een vaste job overdag in Brugge, met licht werk in tuin en op terras naast huishouden. Vast contract, geen avonden of weekends. Solliciteer bij Zondags.",
- "eyebrow": "Vaste job · Brugge",
+ "title": "Vaste job overdag zonder weekends in Brugge",
+ "desc": "Liever actief bezig dan de hele dag aan een bureau? Een vast contract overdag in Brugge, Sint-Kruis of Assebroek bij vaste bedrijven. Geen weekends.",
+ "eyebrow": "Vaste job overdag · Brugge · 8000",
  "h1": "Vaste job overdag zonder weekends in Brugge",
- "lead": "Wie liever buiten is dan binnen vindt in Brugge een vaste job overdag waarin tuin en terras een vast deel van de week zijn, naast ander werk bij klanten.",
- "answer": "Zondags (zondags.be) zoekt mensen voor een vaste job overdag in Brugge en de deelgemeenten. Je krijgt een vast contract, deeltijds of voltijds, en werkt als Zondag op weekdagen bij vaste klanten, nooit 's avonds en nooit in het weekend. Wie graag buiten werkt, kan licht onderhoud van tuin en terras kiezen, aangevuld met huishouden. Verloning ligt boven het barema en verplaatsingen zijn vergoed.",
- "facts": [
-  "Vast contract, deeltijds of voltijds",
-  "Licht onderhoud van tuin en terras",
-  "Aangevuld met huishoudelijk werk",
-  "Overdag, nooit in het weekend",
-  "Vaste klanten rond Brugge"
- ],
+ "lead": "Je zit liever in beweging dan acht uur op dezelfde stoel. Als Zondag in Brugge wissel je van plek, van taak en van klant, binnen een rooster dat vastligt en je weekends vrij laat.",
+ "answer": "Zondags (zondags.be) zoekt mensen in en rond Brugge voor een vaste job overdag zonder weekends, voor wie graag actief bezig is. Je krijgt een vast contract, deeltijds of voltijds, en werkt als Zondag op weekdagen bij kantoren, praktijken, winkels en bedrijfsleiders in de regio Brugge. Je wisselt poetsen, regelwerk en lichte administratie af. Verloning ligt boven het barema en verplaatsingen worden vergoed.",
+ "facts": ["Afwisseling, geen dag achter een bureau", "Vast contract, deeltijds of voltijds", "Overdag op weekdagen", "Geen avonden, geen weekends", "Verplaatsingen vergoed"],
  "sections": [
-  {
-   "h2": "Een vaste job die buiten begint",
-   "p": [
-    "Stel: je bent iemand die graag buiten werkt. Tuin en terras zijn jouw ding, het kantoorleven niet. Een vaste job in Brugge betekent dan: een eigen week met gras, borders en terrassen, bij klanten die je kent.",
-    "Je krijgt wel een eerlijk beeld. Een tuin is seizoenswerk en een heel jaar enkel buiten werken is zelden haalbaar. Daarom combineren veel Zondags tuinwerk met huishouden of boodschappen, zodat de week gevuld blijft en je rooster stabiel."
-   ]
-  },
-  {
-   "h2": "Waar buitenwerk ophoudt",
-   "p": [
-    "We doen licht onderhoud van tuin en terras. Gras maaien, vegen, snoeien van kleine struiken, het terras reinigen met een bezem en een emmer. Bomen kappen, werken op hoogte, gevelreiniging en tuinaanleg doen we niet.",
-    "Wat je binnen doet, kies je mee: poetsen, strijk, was, een hond uitlaten of een kantoor onderhouden. Niemand moet iets doen waar hij of zij een hekel aan heeft."
-   ]
-  },
-  {
-   "h2": "Een voorbeeldweek in het voorjaar",
-   "p": [
-    "Neem iemand met een voltijds contract. Op maandag onderhoud je de tuin van een gezin in Sint-Michiels. Op dinsdag veeg je het terras van een praktijk en poets je binnen. Woensdag ben je bij een ander gezin voor was en strijk, donderdag verzorg je de planten van een kantoor en doe je boodschappen, en vrijdag eindig je met een kleine tuin in Assebroek. Vroeg beginnen of over de middag kan, nooit 's avonds."
-   ]
-  },
-  {
-   "h2": "Vast contract en voorwaarden",
-   "p": [
-    "Je werkt in dienst van Zondags met een vast contract, deeltijds of voltijds, en alles staat correct op papier. Je rooster ligt vast bij dezelfde klanten. Verloning ligt boven het barema, en verplaatsingen zijn vergoed. Een diploma of ervaring is niet nodig. Heb je een groene vinger, dan is dat mooi meegenomen.",
-    "Bij de start gaan we samen langs bij je eerste klant, zodat je ziet wat de klant graag heeft en welk materiaal er in de schuur of de keuken staat."
-   ]
-  },
-  {
-   "h2": "Brugge, Sint-Andries en de andere deelgemeenten",
-   "p": [
-    "Brugge heeft postcode 8000. Assebroek, Dudzele, Koolkerke, Lissewege, Sint-Andries, Sint-Kruis, Sint-Michiels en Zeebrugge horen erbij. We zoeken Zondags in en rond Brugge, ook in Oostkamp, Zedelgem, Beernem, Damme en Jabbeke."
-   ]
-  },
-  {
-   "h2": "Solliciteren",
-   "p": [
-    "Meld je aan via het formulier, de chat of WhatsApp op 0470 56 53 58. Binnen de twee werkdagen bellen we je voor een kort gesprek. Klikt het, dan zoeken we klanten dicht bij je woonplaats en gaan we samen langs op de eerste dag. Eerst meer weten? Lees <a href=\"jobs/vaste-job-flexibele-uren.html\">vaste job met flexibele uren</a>."
-   ]
-  }
+  {"h2": "Een job waarin je beweegt", "p": [
+   "Stel: je wordt onrustig na twee uur aan een bureau. Je wil iets doen met je handen, je benen, een lijstje dat je afvinkt. Dan is een job als Zondag een logische keuze. Een kantoor poetsen, een winkel klaarzetten, een pakje ophalen: elke taak is concreet en je ziet meteen resultaat.",
+   "Dat betekent niet dat het enkel poetsen is. Wie wil, mengt het met wat administratief werk. Je kiest zelf de verhouding, en die kan per klant verschillen."]},
+  {"h2": "Een voorbeeldweek in Brugge", "p": [
+   "Neem een voltijdse week. Maandag onderhoud je een tandartspraktijk met wachtzaal en onthaal. Dinsdag zet je een boetiek klaar voor de openingsuren en vul je de koffiehoek bij. Woensdag ga je langs bij een kantoor en ruim je vergaderzaal en refter op. Donderdag haal je voor een zaakvoerder kantoormateriaal en een pakje op. Vrijdag sorteer je de post en ruim je een archief.",
+   "Zo loop je door een week zonder dat het saai wordt, en tegelijk weet je altijd waar je naartoe gaat."]},
+  {"h2": "Wat het werk niet is", "p": [
+   "Je werkt licht en veilig. Werken op hoogte, gevelreiniging, technische klussen en industriële reiniging horen er niet bij, en je werkt uitsluitend voor bedrijven.",
+   "<ul class=\"ticks\"><li>Wel: kantoor, praktijk, winkel, refter, vergaderzaal</li><li>Wel: post, klassement, afspraken, kantoormateriaal</li><li>Wel: boodschappen en pakjes voor de zaak</li><li>Niet: technisch werk en werken op hoogte</li></ul>"]},
+  {"h2": "Assebroek, Sint-Kruis, Zeebrugge en de rest", "p": [
+   "Brugge heeft postcode 8000. De deelgemeenten zijn Assebroek, Dudzele, Koolkerke, Lissewege, Sint-Andries, Sint-Kruis, Sint-Michiels en Zeebrugge. We zoeken Zondags in en rond Brugge, ook als je in Oostkamp, Zedelgem, Beernem, Damme of Jabbeke woont.",
+   "Hoe verder je klanten van elkaar liggen, hoe meer verplaatsingen je maakt. Daarom koppelen we je aan klanten die dicht bij je liggen, en je verplaatsingen worden vergoed. Een alternatief in de buurt is <a href=\"werken/vaste-job-overdag-oostkamp.html\">de vaste job overdag in Oostkamp</a>."]},
+  {"h2": "Je contract en je rooster", "p": [
+   "Je bent in dienst van Zondags met een vast contract, deeltijds of voltijds. Ook enkel binnen kantooruren werken kan. Je verloning ligt boven het barema en alles staat correct op papier.",
+   "Je werkt overdag op weekdagen. Vroeg in de ochtend of over de middag kan, nooit 's avonds en nooit in het weekend. Eens je dagen en uren zijn afgesproken, ligt je rooster vast bij dezelfde klanten."]},
+  {"h2": "Hoe solliciteren werkt", "p": [
+   "Je gebruikt het formulier of de chat op de site, of je stuurt een bericht via WhatsApp op 0470 56 53 58. We bellen binnen twee werkdagen voor een kort gesprek over wat je graag doet. Klikt het, dan zoeken we klanten bij je in de buurt, en bij de start gaan we samen langs. Elke klant heeft een zondagsplan met taken, uren en afspraken. Alles over de rol vind je op <a href=\"zondag-worden.html\">Zondag worden</a>."]}
  ],
  "faq": [
-  {
-   "q": "Waar vind ik een vaste job overdag zonder weekends in Brugge?",
-   "a": "Bij Zondags. We zoeken mensen voor een vast contract in en rond Brugge en de deelgemeenten. Je werkt overdag op weekdagen bij vaste klanten en nooit in het weekend."
-  },
-  {
-   "q": "Kan ik in een vaste job vooral buiten werken?",
-   "a": "Licht onderhoud van tuin en terras kan een groot deel van je week zijn, aangevuld met binnenwerk. We beloven geen volledige buitenweek, want tuinwerk is seizoensgebonden."
-  },
-  {
-   "q": "Welk tuinwerk doen jullie niet?",
-   "a": "Geen bomen kappen, geen werken op hoogte, geen gevelreiniging en geen grote tuinaanleg. We doen licht onderhoud zoals gras, vegen, planten en terras."
-  },
-  {
-   "q": "Heb ik groene vingers of een diploma nodig?",
-   "a": "Nee. Je hebt geen diploma nodig. Een groene vinger is een pluspunt. Betrouwbaarheid en zorg voor andermans huis tellen vooral."
-  },
-  {
-   "q": "Kan ik deeltijds werken in Brugge?",
-   "a": "Ja. Deeltijds en voltijds kunnen allebei. Je kiest mee hoeveel dagen je werkt, ook enkel binnen de schooluren."
-  }
+  {"q": "Waar vind ik een vaste job overdag zonder weekends in Brugge?", "a": "Bij Zondags kan je solliciteren voor een vast contract overdag op weekdagen, bij kantoren, praktijken en winkels in Brugge en omgeving. Je gebruikt het formulier, de chat of WhatsApp."},
+  {"q": "Zit ik de hele dag achter een bureau?", "a": "Nee. Je wisselt af tussen poetsen, regelwerk en lichte administratie en je wisselt ook van plek en klant. Zo blijft het werk beweeglijk. Je kiest mee wat je graag doet."},
+  {"q": "Moet ik ervaring hebben?", "a": "Nee. Je bent minstens 18 jaar, betrouwbaar en discreet. Een diploma of ervaring is niet nodig. Bij de start gaan we samen langs bij je klanten."},
+  {"q": "Werk ik ook op hoogte of met technische klussen?", "a": "Nee. Werken op hoogte, gevelreiniging en technische klussen doen we niet. Je werkt licht en veilig, uitsluitend voor bedrijven."},
+  {"q": "Kan ik deeltijds werken?", "a": "Ja. Een vast contract kan deeltijds of voltijds, en ook enkel binnen kantooruren. Je kiest mee je dagen en uren."},
+  {"q": "Worden mijn verplaatsingen vergoed?", "a": "Ja. Je verplaatsingen worden vergoed en je verloning ligt boven het barema. Daarom koppelen we je bij voorkeur aan klanten dicht bij je woonplaats."}
  ]
 }

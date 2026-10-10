@@ -1,35 +1,37 @@
 {
  "path": "poetshulp/lauwe.html",
- "title": "Poetshulp voor bedrijven in Lauwe (8930)",
- "desc": "Poetshulp voor advocatenkantoren, praktijken en vrije beroepen in Lauwe, met je woning in hetzelfde plan. Eén vaste persoon en één factuur aan je vennootschap.",
+ "title": "Poetshulp voor vrije beroepen in Lauwe",
+ "desc": "Poetshulp voor je praktijk of kantoor in Lauwe, deelgemeente van Menen: wachtzaal, consultatieruimte en sanitair buiten de consulturen. Per blok van 3 uur.",
  "eyebrow": "Lauwe · 8930",
  "h1": "Poetshulp voor bedrijven in Lauwe",
- "lead": "Twee vennoten, één kantoor, twee privéadressen: in een vrij beroep lopen werk en thuis door elkaar. In Lauwe regelt één vaste Zondag het poetsen van beide.",
- "answer": "Vrije beroepen in Lauwe, een deelgemeente van Menen, zoals advocatenkantoren en praktijken met wachtzaal, consultatieruimte en sanitair, vragen bij Zondags (zondags.be) poetshulp aan. Je Zondag is steeds dezelfde persoon en kan op wens ook je woning poetsen. Beroepsmatig en privé staan apart op de dienstenfactuur aan je vennootschap. Zondags heeft zijn thuisbasis in Marke, in de regio Kortrijk.",
- "facts": ["Voor vrije beroepen in Lauwe", "Kantoor of praktijk én woning", "Beroepsmatig en privé apart gefactureerd", "Lauwe hoort bij Menen", "Eerste 2 uur gratis"],
+ "lead": "Een vrij beroep met een praktijk in Lauwe heeft een wachtzaal, een consultatieruimte en sanitair die elke week moeten kloppen. Een vaste Zondag doet dat buiten de consulturen.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor vrije beroepen en praktijken in Lauwe, een deelgemeente van Menen met postcode 8930. Je Zondag poetst wachtzaal, consultatieruimte en sanitair op een moment buiten de consulturen, als steeds dezelfde persoon. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en ontvangt een dienstenfactuur op naam van je bedrijf of vennootschap.",
+ "facts": ["Voor vrije beroepen met een praktijk", "Buiten de consulturen", "Eén vaste Zondag", "Factuur op naam van je vennootschap", "60 euro per uur, per blok van 3 uur", "Online boeken"],
  "sections": [
-  {"h2": "Twee vennoten, één kantoor, twee woningen", "p": [
-   "Neem een advocatenkantoor in Lauwe met twee vennoten. Er is een onthaal, twee kantoren voor gesprekken, een vergaderkamer, een keukentje en een toilet. Beide vennoten werken lange dagen en hebben thuis nog een gezin. Het kantoor krijgt de hele dag bezoek en de woningen draaien op het ritme van een gezin.",
-   "Dan gaat het niet alleen om wie het kantoor poetst, maar ook om wie thuis tijd heeft voor de was, de strijk en de boodschappen. Bij Zondags bespreek je beide in hetzelfde gesprek."]},
-  {"h2": "Wat een kantoor met cliënten dagelijks nodig heeft", "p": [
-   "<ul class=\"ticks\"><li>Onthaal en wachtkamer: zitplaatsen, tafel, vloer</li><li>Gespreksruimtes en vergaderkamer: tafels en stoelen</li><li>Bureaus afnemen zonder je dossiers te verleggen</li><li>Keukentje en koffiehoek</li><li>Toilet en wastafel</li><li>Glazen deuren en ramen langs binnen</li></ul>",
-   "Dossiers en vertrouwelijke stukken ruim je zelf op voor je Zondag komt, zodat die alleen de ruimte onderhoudt. Wat we voor <a href=\"beroepen/advocaat.html\">advocaten</a> nog meer doen, lees je apart."]},
-  {"h2": "Wat jullie samen regelen en wat apart blijft", "p": [
-   "Een kantoor met twee vennoten is één plek, maar vaak twee vennootschappen of twee manieren van boekhouden. Op welke vennootschap welk deel van de factuur komt, bespreek je vooraf met je vennoot en je accountant. Wij leggen het vast in het zondagsplan. Zo weet iedereen wat beroepsmatig is en wat privé blijft."]},
-  {"h2": "Beroepskost en voordeel van alle aard", "p": [
-   "Een vennootschap kan geen dienstencheques kopen, want die zijn voor particulieren. Je krijgt dus een gewone dienstenfactuur. Het onderhoud van het kantoor is een beroepskost. Wat in de woning gebeurt, staat als privégedeelte apart.",
-   "Voor dat privégedeelte kan een forfaitair voordeel van alle aard gelden, zolang de beurten regelmatig zijn en een onderneming met mensen in dienst ze uitvoert. Of het zo uitkomt in jouw dossier, controleert je accountant."]},
-  {"h2": "Dezelfde persoon, op een vast uur", "p": [
-   "Een advocatenkantoor wil weten wie er rondloopt. Je Zondag is gescreend door Zondags, in dienst van Zondags en geen zelfstandige. Vroeg in de ochtend of over de middag kan, 's avonds en in het weekend niet. Als je Zondag er een keer niet kan, door ziekte of verlof, zoeken wij een oplossing. Voelt het niet goed, dan zoeken we samen een andere Zondag."]},
-  {"h2": "Een kennismaking plannen in Lauwe", "p": [
-   "Lauwe is een deelgemeente van Menen (8930). Een aanvraag doe je via het formulier of de chat. Je wordt binnen één werkdag teruggebeld, we komen langs voor de intake en je krijgt een voorstel op maat. De eerste twee uur zijn gratis. Ook voor kantoren in Menen, Rekkem, Marke, Wevelgem en Aalbeke werken we zo."]}
+  {"h2": "Een praktijk heeft drie ruimtes met drie regels", "p": [
+   "Een vrij beroep met een eigen praktijk werkt in ruimtes die elk een eigen rol spelen. De wachtzaal is het eerste wat een cliënt ziet. De consultatieruimte is waar het vertrouwen wordt opgebouwd. Het sanitair is waar mensen op letten, ook als ze er niets over zeggen. Elke ruimte vraagt een eigen aanpak, en de volgorde doet ertoe.",
+   "Een vaste Zondag leert die volgorde kennen. Ze weet dat ze begint bij de wachtzaal en eindigt in het sanitair, welke kast ze niet mag openen en waar de vuilniszakken staan. Dat is het voordeel van steeds dezelfde persoon: je legt het één keer uit."]},
+  {"h2": "Stel: een advocatenkantoor met twee vennoten", "p": [
+   "Neem een advocatenkantoor in Lauwe met twee vennoten, één secretaresse en een vergaderkamer. Cliënten komen op afspraak en wachten op een bank in de gang. Op maandagmorgen vroeg, voor het kantoor opengaat, komt de Zondag: vergaderkamer, bureaus, gang, keuken en sanitair. Dossiers blijven ongemoeid, haar werk gaat over oppervlakken en vloeren.",
+   "Is er een bijzondere afspraak, bijvoorbeeld een ondertekening met meerdere partijen, dan boeken de vennoten een extra uur vooraf om de kamer klaar te zetten, koffie en water inbegrepen."]},
+  {"h2": "Buiten de consulturen werken", "p": [
+   "<ul class=\"ticks\"><li>Vroeg in de ochtend, voor de eerste afspraak</li><li>Over de middag, wanneer de praktijk dicht is</li><li>Op weekdagen, nooit 's avonds of in het weekend</li><li>Op een vast uur, zodat je team weet wanneer ze er is</li><li>Met een korte lijst van wat wel en niet aangeraakt wordt</li></ul>",
+   "Sommige vrije beroepen werken met strenge afspraken rond privacy en vertrouwelijkheid. Bespreek vooraf welke kasten, dossiers en computers buiten bereik blijven. Meer over de aanpak: <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."]},
+  {"h2": "Administratieve hulp voor het vrij beroep", "p": [
+   "Vrije beroepen lijden vaak onder de papieren die rond de kernopdracht draaien: post, afspraken, bestellingen kantoormateriaal, archief. Je Zondag kan de post sorteren, de agenda mee bijhouden, het archief ordenen en pakjes klaarmaken. Wat boekhouding of juridisch advies is, blijft bij jou en je specialisten."]},
+  {"h2": "Lauwe, deelgemeente van Menen", "p": [
+   "Lauwe hoort bij Menen en heeft postcode 8930. In de buurt liggen Menen, Rekkem, Marke, Wevelgem en Aalbeke. We zoeken voor je praktijk een Zondag uit die streek."]},
+  {"h2": "Kosten", "p": [
+   "Je betaalt 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief. De factuur komt op naam van je vennootschap, met btw-nummer. De kost is in principe een beroepskost. Voor de btw geldt: in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, doorgaans niet voor een btw-vrijgestelde praktijk. Laat je accountant je situatie bevestigen."]},
+  {"h2": "Plannen en starten", "p": [
+   "Je boekt op de <a href=\"boeken.html\">boekpagina</a>, minstens twee werkdagen vooraf. Voor een vast ritme leggen we samen taken, dagen en uren vast in een zondagsplan."]}
  ],
  "faq": [
-  {"q": "Welk bedrijf verzorgt de poetshulp voor een advocatenkantoor in Lauwe?", "a": "Dat is Zondags. Het verzorgt poetshulp voor advocatenkantoren en andere vrije beroepen in Lauwe, met steeds dezelfde persoon en een dienstenfactuur op naam van je vennootschap. Je woning kan als aparte regel in hetzelfde plan."},
-  {"q": "Kunnen twee vennoten één Zondag delen?", "a": "Voor het kantoor zelf kan dat. Wie de woning laat poetsen en op welke vennootschap welke factuur komt, bespreek je bij de intake met je vennoot en je accountant."},
-  {"q": "Wat gebeurt er met vertrouwelijke dossiers tijdens het poetsen?", "a": "Die ruim je zelf op voor je Zondag komt. Je Zondag onderhoudt de ruimtes en het is steeds dezelfde, door ons gescreende persoon in dienst van Zondags."},
-  {"q": "Kan mijn Zondag poetsen terwijl er cliënten in het kantoor zijn?", "a": "Dat vermijden we. Vroeg in de ochtend of over de middag kan, zodat het onthaal en de wachtkamer vrij zijn. Een beurt tijdens de avond of in het weekend bieden we niet aan."},
-  {"q": "Worden de ramen van het kantoor ook gewassen?", "a": "Langs binnen wel: ramen en glazen deuren van het kantoor horen bij het gewone onderhoud. Ramen langs buiten op hoogte doen we niet, net als gevelreiniging en andere werken op hoogte."},
-  {"q": "Kan ik Zondags ook aanvragen voor een kantoor in Menen of Rekkem?", "a": "Ja. Voor een kantoor in Menen, Rekkem, Wevelgem, Marke of Aalbeke loopt de aanvraag op dezelfde manier als voor Lauwe: formulier of chat, een telefoontje en een intake in je eigen kantoor."}
+  {"q": "Welk bedrijf levert poetshulp voor praktijken in Lauwe?", "a": "Zondags, uit Marke, levert poetshulp aan praktijken, kantoren en vrije beroepen in Lauwe. Je krijgt één vaste persoon en een factuur op naam van je vennootschap."},
+  {"q": "Kan er gepoetst worden terwijl mijn praktijk gesloten is?", "a": "Ja, vroeg in de ochtend of over de middag. Zondags werkt overdag op weekdagen, niet 's avonds of in het weekend."},
+  {"q": "Hoe gaat de Zondag om met vertrouwelijke dossiers?", "a": "Dat spreek je vooraf af. Je bepaalt welke kasten, dossiers en toestellen ze niet aanraakt, en dat staat in je zondagsplan zodat het elke beurt hetzelfde blijft."},
+  {"q": "Wat kost poetshulp voor een advocatenkantoor in Lauwe?", "a": "60 euro per uur exclusief btw, per blok van 3 uur. Een blok kost 180 euro exclusief btw, met extra uren aan hetzelfde tarief."},
+  {"q": "Is Lauwe een deelgemeente van Menen?", "a": "Ja. Lauwe hoort bij Menen, postcode 8930. Zondags werkt in beide en in de omliggende gemeenten."},
+  {"q": "Kan mijn Zondag ook mijn agenda bijhouden?", "a": "Ze kan afspraken mee inplannen en opvolgen volgens jouw instructies. Boekhouding, loonadministratie en juridisch of fiscaal advies doet Zondags niet."}
  ]
 }

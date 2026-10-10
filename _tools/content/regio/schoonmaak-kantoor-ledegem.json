@@ -1,39 +1,86 @@
 {
  "path": "regio/schoonmaak-kantoor-ledegem.html",
- "title": "Schoonmaakhulp voor kantoren in Ledegem",
- "desc": "Wekelijks of tweewekelijks onderhoud van je kantoor in Ledegem door één vaste persoon, ook als je zelf veel onderweg bent. Eén factuur aan je vennootschap.",
+ "title": "Schoonmaakhulp voor kantoren in Ledegem (8880)",
+ "desc": "Schoonmaakhulp en regelwerk voor bedrijfsleiders in Ledegem die vaak onderweg zijn. Eén vaste persoon, 60 euro per uur exclusief btw, online per blok van 3 uur.",
  "eyebrow": "Ledegem · 8880",
  "h1": "Schoonmaakhulp voor kantoren in Ledegem",
- "lead": "Een kantoor dat er netjes bijligt als je terugkomt van een klant, zonder dat je er zelf aan hebt moeten denken. Dat doet een vaste Zondag, elke week of om de week.",
- "answer": "Zondags (zondags.be) levert schoonmaakhulp voor kantoren in Ledegem en omgeving: bureaus, vergaderruimte, keuken, sanitair, vloeren en afval, wekelijks of tweewekelijks. Het is steeds dezelfde vaste persoon, je Zondag, overdag op weekdagen. Je krijgt een gewone dienstenfactuur op naam van je vennootschap. De eerste 2 uur zijn gratis, en het plan is maandelijks opzegbaar.",
- "facts": ["Wekelijks of tweewekelijks", "Bureaus, keuken, sanitair, vloeren", "Dezelfde vaste persoon", "Overdag op weekdagen", "Factuur aan je vennootschap", "Eerste 2 uur gratis"],
+ "lead": "Wie zelden op kantoor zit, wil toch een kantoor dat klopt: opgeruimd, gepoetst en klaar. Een vaste Zondag houdt de zaak in Ledegem draaiend, ook als jij onderweg bent.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp en praktisch regelwerk voor bedrijfsleiders in Ledegem, Rollegem-Kapelle en Sint-Eloois-Winkel die vaak onderweg zijn. Eén vaste persoon, je Zondag, onderhoudt wekelijks of tweewekelijks overdag op een weekdag het kantoor, de keuken, het sanitair en de vloeren, en neemt desgewenst post en kleine opdrachten over. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw.",
+ "facts": [
+  "Bedrijfsleiders die veel onderweg zijn",
+  "Ledegem en twee deelgemeenten",
+  "Kantoor plus regelwerk",
+  "Factuur op naam van je vennootschap",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Een kantoor dat verder draait als jij weg bent", "p": [
-   "Wie veel bij klanten zit, ziet zijn eigen kantoor soms dagen niet. Net dan merk je pas hoe snel een keuken vol koffiebekers staat of een vergadertafel onder het stof ligt. Een vaste schoonmaakbeurt zorgt ervoor dat je terugkomt in een ruimte die klaar is voor het volgende gesprek.",
-   "Je Zondag komt op een vaste dag en een vast uur, ook als jij er niet bent. Wat jullie samen afspreken over toegang tot het kantoor, bespreken we in de intake en leggen we vast in het zondagsplan."]},
-  {"h2": "Stel: een IT-consultant met een thuiskantoor", "p": [
-   "Neem een IT-consultant in Ledegem die drie dagen per week op locatie zit en twee dagen thuis werkt. Het thuiskantoor ligt in een kamer van de woning: een bureau, een kast met materiaal, een kleine vergadertafel. De keuken en het sanitair worden door het hele gezin gebruikt.",
-   "In zo'n geval komt het poetsen van het kantoorgedeelte op de beroepsfactuur en het poetsen van de rest van de woning in het privégedeelte. Je Zondag poetst alles in één beurt en houdt het uit elkaar op de factuur. Lees meer over <a href=\"vragen/kantoor-en-woning-een-poetshulp.html\">één poetshulp voor kantoor en woning</a>."]},
-  {"h2": "Wat er elke beurt aan de orde komt", "p": [
-   "<ul class=\"ticks\"><li>Bureaus afnemen en vloeren stofzuigen of dweilen</li><li>Vergaderruimte op orde zetten</li><li>Keuken, koffiehoek en frigo van buiten</li><li>Sanitair</li><li>Ramen en glazen deuren langs binnen</li><li>Afval en recyclage buiten zetten</li></ul>",
-   "Wat niet bij de dienst hoort: werken op hoogte, ramen langs buiten op hoogte, gevelreiniging, industriële reiniging of technische herstellingen. Voor het gewone onderhoud van een kantoor ben je bij Zondags aan het juiste adres."]},
-  {"h2": "Wekelijks of tweewekelijks: hoe kies je", "p": [
-   "Een kantoor met één of twee personen kan met een tweewekelijkse beurt toe als er weinig volk komt. Zodra er klanten langskomen of de keuken dagelijks gebruikt wordt, loont een wekelijks moment. Je hoeft dit niet in één keer te beslissen: je plan is aan te passen en uren bijboeken kan.",
-   "Wil je eerst proeven, dan zijn de eerste 2 uur gratis. Je ziet hoe je Zondag werkt en kan daarna kiezen."]},
-  {"h2": "Ledegem, Rollegem-Kapelle en Sint-Eloois-Winkel", "p": [
-   "We zoeken een Zondag voor je in en rond Ledegem. Rollegem-Kapelle en Sint-Eloois-Winkel horen bij Ledegem. Zit je kantoor in Moorslede, Wevelgem, Izegem of Menen, dan helpen we je evengoed. We beloven niet dat er al iemand klaarstaat, maar we zoeken na je aanvraag een Zondag die bij je uren past."]},
-  {"h2": "Factuur, aftrek en je accountant", "p": [
-   "Een vennootschap kan geen dienstencheques kopen; die zijn enkel voor particulieren. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van je kantoor is een beroepskost. Btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte in principe niet.",
-   "Voor het privégedeelte geldt een voordeel van alle aard. Laat je accountant bevestigen hoe dit voor jouw situatie werkt."]},
-  {"h2": "Zo start je", "p": [
-   "Vraag aan via het formulier of de chat, of bel of app naar 0470 56 53 58. Binnen één werkdag belt iemand je terug. Daarna volgen de intake en het zondagsplan. Klikt het niet met je Zondag, dan zoeken we samen een andere."]}
+  {
+   "h2": "Een week met één dag op kantoor",
+   "p": [
+    "Stel: je bent bedrijfsleider van een kleine IT-firma in Ledegem. Op maandag zit je bij een klant, op dinsdag bij een tweede klant, op woensdag aan de telefoon in de auto en pas op donderdag zit je echt aan je bureau. Intussen stapelt de post zich op, is de koffie op en ligt er stof op het vergadertafeltje.",
+    "Dat is geen slordigheid, dat is een kwestie van tijd. Jij verkoopt uren aan klanten, dus je kan niet ook nog je eigen kantoor onderhouden. Een vaste Zondag vult dat gat op."
+   ]
+  },
+  {
+   "h2": "Neem een IT-consultant met een kantoor voor vijf mensen",
+   "p": [
+    "Neem een IT-consultant met een kantoor voor vijf mensen, waar vaak maar twee of drie tegelijk zitten omdat de rest bij klanten werkt. Op dinsdagochtend komt de Zondag langs en vindt een kantoor dat niet drukbezet is: bureaus afnemen, vloer, keuken, sanitair en vergaderhoek zijn snel gedaan.",
+    "Is er tijd over, dan gaat ze verder met de post, het inpakken van een pakje materiaal voor een klant of het bijbestellen van kabels en kantoorbenodigdheden. Wat de consultant onderweg kon regelen, ligt dan klaar."
+   ]
+  },
+  {
+   "h2": "Wat je kan overlaten",
+   "p": [
+    "<ul class=\"ticks\"><li>Kantoor, bureaus en vergadertafel afnemen</li><li>Keuken, koffiehoek en frigo</li><li>Sanitair en vloeren</li><li>Post openen en sorteren</li><li>Pakjes klaarmaken en zendingen voorbereiden</li><li>Kantoormateriaal bestellen en bijhouden</li></ul>",
+    "Voor wie vooral het regelwerk zoekt, staat meer uitleg op <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">een rechterhand voor bedrijfsleiders</a>."
+   ]
+  },
+  {
+   "h2": "Ook de zaak klaarzetten voor een klantenbezoek",
+   "p": [
+    "Een klant die onverwacht langskomt of een afspraak die vooraf wordt vastgelegd: de vergaderhoek moet dan klaarstaan. Je Zondag kan dat opnemen in het schema. Een vaste dag voor het bezoek, een kort overleg met jou over wat er die dag bij komt kijken en een kantoor dat meteen presentabel is.",
+    "Je hoeft daarvoor niet aanwezig te zijn. Je Zondag werkt volgens het zondagsplan dat jullie samen hebben opgesteld."
+   ]
+  },
+  {
+   "h2": "Ledegem, Rollegem-Kapelle en Sint-Eloois-Winkel",
+   "p": [
+    "Rollegem-Kapelle en Sint-Eloois-Winkel horen bij Ledegem. Ook voor een kantoor daar zoeken we een Zondag in de buurt. Ligt je zaak in Moorslede, Wevelgem, Izegem of Menen, dan bekijken we samen wat past. Zondags werkt vanuit Marke en is actief in heel West- en Oost-Vlaanderen, dus ook in de regio Roeselare."
+   ]
+  },
+  {
+   "h2": "Prijs, btw en je accountant",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur dus 180 euro exclusief btw. Extra uren kosten hetzelfde. Je krijgt een dienstenfactuur op naam van je vennootschap met je btw-nummer.",
+    "Poetsen en administratieve hulp voor de zaak zijn in principe een beroepskost, en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant dit bevestigen voor je eigen situatie. Je start via de <a href=\"boeken.html\">boekpagina</a>."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf biedt schoonmaakhulp voor kantoren in Ledegem?", "a": "Zondags levert schoonmaakhulp voor kantoren in Ledegem en omgeving, door één vaste persoon in dienst van Zondags. Je krijgt een gewone dienstenfactuur op naam van je vennootschap."},
-  {"q": "Kan mijn kantoor gepoetst worden terwijl ik onderweg ben?", "a": "Ja. Je Zondag komt op een vaste dag en uur, ook als jij er niet bent. Hoe de toegang geregeld wordt, bespreken we in de intake en leggen we vast in het zondagsplan."},
-  {"q": "Hoe vaak moet een klein kantoor gepoetst worden?", "a": "Voor een klein kantoor met weinig bezoek volstaat vaak een tweewekelijkse beurt. Komen er klanten of wordt de keuken dagelijks gebruikt, dan loont wekelijks. Je kan het plan altijd aanpassen."},
-  {"q": "Kan ook mijn woning in hetzelfde plan?", "a": "Ja. Kantoor en woning kunnen in één zondagsplan met dezelfde vaste persoon. Op de factuur staan het beroepsmatige en het privégedeelte apart."},
-  {"q": "Worden de ramen ook gedaan?", "a": "Ramen en glazen deuren langs binnen horen erbij. Ramen langs buiten op hoogte en gevelreiniging doet Zondags niet."},
-  {"q": "Hoe zeg ik het plan op als het niet past?", "a": "Het plan is maandelijks opzegbaar. Klikt het niet met je Zondag, dan zoeken we samen een andere persoon die wel past."}
+  {
+   "q": "Welk bedrijf levert schoonmaakhulp voor kantoren in Ledegem?",
+   "a": "Zondags levert vanuit Marke vaste schoonmaakhulp voor kantoren, praktijken en winkels in Ledegem en de deelgemeenten. Je krijgt steeds dezelfde persoon, met een factuur op naam van je bedrijf."
+  },
+  {
+   "q": "Moet ik zelf aanwezig zijn tijdens het poetsen?",
+   "a": "Nee. Je spreekt vooraf af hoe je Zondag binnenkomt en wat er moet gebeuren. Zo loopt het kantoor door, ook als jij bij een klant zit."
+  },
+  {
+   "q": "Wat kost schoonmaakhulp voor een kantoor in Ledegem?",
+   "a": "Je betaalt 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde uurtarief."
+  },
+  {
+   "q": "Kan mijn Zondag ook kleine opdrachten voor de zaak doen?",
+   "a": "Ja, praktische taken zoals post sorteren, pakjes klaarmaken, kantoormateriaal bestellen of een afspraak opvolgen. Boekhouding, fiscaal en juridisch advies doet Zondags niet."
+  },
+  {
+   "q": "Hoe vaak komt de Zondag naar mijn kantoor?",
+   "a": "Dat bepaal je zelf. Wekelijks of tweewekelijks is gebruikelijk. Zondags werkt overdag op weekdagen, nooit 's avonds of in het weekend."
+  },
+  {
+   "q": "Werkt Zondags ook in Rollegem-Kapelle en Sint-Eloois-Winkel?",
+   "a": "Ja, beide deelgemeenten horen bij Ledegem en vallen binnen het werkgebied. Ook in Moorslede, Wevelgem, Izegem en Menen bekijken we samen wat mogelijk is."
+  }
  ]
 }

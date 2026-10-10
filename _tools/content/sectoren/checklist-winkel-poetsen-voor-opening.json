@@ -1,78 +1,32 @@
 {
  "path": "sectoren/checklist-winkel-poetsen-voor-opening.html",
  "title": "Checklist: je winkel poetsen voor de opening",
- "desc": "Een praktische checklist om je winkel te poetsen voor de opening: vloer, paskamers, toonbank, etalage, stock en sanitair, in de juiste volgorde.",
+ "desc": "In welke volgorde en hoe lang vooraf poets je een winkel voor de opening: vloer, paskamers, toonbank, etalage, stock en sanitair. Boek een Zondag online.",
  "eyebrow": "Checklist · Winkel",
  "h1": "Checklist: je winkel poetsen voor de opening",
- "lead": "Een goede volgorde bespaart tijd en voorkomt dat je twee keer hetzelfde doet. Zo poets je je winkel van boven naar beneden en van achter naar voor.",
- "answer": "Poets je winkel in deze volgorde: eerst stock en achterzaal, dan sanitair, daarna toonbank en rekken, paskamers en etalage langs binnen, en als laatste de vloer van achter naar voor. Begin ruim vóór de opening. Zondags (zondags.be) laat een vaste Zondag dit overdag op weekdagen doen, zodat je winkel klaar is wanneer je de deur opendoet.",
- "facts": [
-  "Van achter naar voor",
-  "Vloer als laatste",
-  "Etalage langs binnen",
-  "Ruim voor de opening beginnen",
-  "Eerste 2 uur gratis"
- ],
+ "lead": "Een winkel poets je in een bepaalde volgorde, anders loop je je eigen werk kapot. Hier staat de volgorde, de timing vooraf en wat je zelf best niet uit handen geeft.",
+ "answer": "Een winkel poets je voor de opening van boven naar onder en van achter naar voor: eerst stock en achterruimtes, dan paskamers, toonbank en etalage langs binnen, en als laatste de vloer en de ingang. Zondags (zondags.be) laat dit doen door één vaste persoon, je Zondag, op een weekdag vlak voor je opent of in een rustig moment. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw.",
+ "facts": ["Vaste volgorde, van achter naar voor", "Etalage enkel langs binnen", "Vroeg in de ochtend of over de middag", "60 euro per uur, per blok van 3 uur", "Steeds dezelfde Zondag", "Online boeken en betalen"],
  "sections": [
-  {
-   "h2": "Het principe: van hoog naar laag, van achter naar voor",
-   "p": [
-    "Stof valt naar beneden en vuil wordt meegenomen door voetstappen. Wie de vloer eerst doet en daarna de rekken afneemt, doet de vloer opnieuw. Daarom begin je bij de plekken die klanten niet zien, werk je naar de winkelvloer toe en sluit je af met de vloer zelf, richting de deur."
-   ]
-  },
-  {
-   "h2": "De checklist in volgorde",
-   "p": [
-    "<ul class=\"ticks\"><li>Stockruimte en achterzaal: vlot houden, afval en karton buiten zetten</li><li>Sanitair: toiletten, lavabo's, spiegels, papier en zeep aanvullen</li><li>Personeelshoek en keuken: tafel afnemen, frigo kijken</li><li>Rekken, schappen en vitrines: stof afnemen</li><li>Toonbank en kassa-omgeving: afnemen, pinautomaat schoonmaken</li><li>Paskamers: spiegels, haken en vloer</li><li>Etalage langs binnen: glas en vensterbank</li><li>Winkelvloer: stofzuigen of dweilen van achter naar de deur</li><li>Ingang en mat: als laatste</li></ul>",
-    "Pas de lijst aan je winkel aan. Heb je geen paskamers of geen stockruimte, dan schrap je die regels. Heb je een koelvitrine of een demonstratiehoek, dan voeg je die toe op de plek waar ze logisch in de route passen."
-   ]
-  },
-  {
-   "h2": "Hoe lang vooraf beginnen",
-   "p": [
-    "Hou een ruime marge, zodat je niet tijdens het poetsen al klanten binnenlaat. Wie een Zondag laat komen, spreekt een vroeg uur af, zodat alles klaar is voor de opening. Hoe lang het duurt, hangt af van de grootte van je winkel en het aantal paskamers. Dat bekijken we samen bij de intake.",
-    "Wie voor het eerst een vast poetsmoment invoert, doet er goed aan de eerste weken kort te noteren hoe lang elke stap duurt. Zo leg je een realistisch plan vast, voor jezelf of voor je Zondag."
-   ]
-  },
-  {
-   "h2": "Wat je zelf blijft doen",
-   "p": [
-    "Het inrichten van de winkel blijft bij jou: de producten schikken, prijsetiketten controleren en de etalagepoppen aankleden. Je Zondag poetst eromheen en laat de presentatie ongemoeid, tenzij je iets anders afspreekt. Ramen langs buiten op hoogte en gevelreiniging doen we niet."
-   ]
-  },
-  {
-   "h2": "Kleine gewoontes tussen twee beurten",
-   "p": [
-    "Een natte doek aan de toonbank, een bezem bij de ingang en een afvalbakje bij de paskamer helpen je tussendoor. Veeg bij het sluiten kort de vloer aan de kassa. Dat kost enkele minuten en spaart de volgende ochtend tijd."
-   ]
-  },
-  {
-   "h2": "Hoe Zondags past",
-   "p": [
-    "Zondags levert een vaste Zondag die op een vast moment in de week komt, steeds dezelfde persoon. Ook de woning van de zaakvoerder kan in hetzelfde plan, met een gesplitste factuur op naam van de vennootschap. Een vennootschap kan geen dienstencheques kopen, en het onderhoud van beroepsruimtes is een beroepskost. Laat je accountant de fiscale kant bevestigen. Meer vind je op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>. De eerste 2 uur zijn gratis."
-   ]
-  }
+  {"h2": "De volgorde die werkt", "p": [
+   "De regel is eenvoudig: stof valt naar beneden en voetstappen komen binnen langs de deur. Wie begint met de vloer, mag daarna opnieuw beginnen. Werk dus in deze volgorde:",
+   "<ul class=\"ticks\"><li>Stock en achterruimte: rekken afnemen, dozen stapelen, afval weg</li><li>Sanitair en personeelsruimte</li><li>Paskamers: spiegels, haken, bankje, vloer</li><li>Schappen, rekken en toonbank</li><li>Etalage langs binnen en glazen deur</li><li>Vloer van achter naar de ingang, ingangsmat</li></ul>"]},
+  {"h2": "Hoe lang vooraf?", "p": [
+   "Een beurt die net afgelopen is wanneer de eerste klant binnenkomt, laat geen marge voor een vergeten hoek of een gemorst product. Plan het einde van de poetsbeurt liefst enkele uren voor de opening, of werk met een dag ertussen als je winkel dicht is op een weekdag. Zondags werkt overdag op weekdagen, vroeg in de ochtend of over de middag, nooit 's avonds of in het weekend. Heb je een winkel die op zaterdag het drukst is, dan kies je de vrijdag voor een grondige beurt en laat je het weekend voor de bijkomende kleine dingen aan je eigen team."]},
+  {"h2": "Vloer, toonbank en paskamers in detail", "p": [
+   "Aan de vloer zie je het eerst of een winkel verzorgd is. Veeg of stofzuig onder de rekken, niet alleen in de looppaden. Dweil in een rustige richting weg van de ingang. De toonbank gaat aan bod met de kassa, de kaartlezer en de plek waar klanten hun tas neerzetten. In de paskamers kijkt een klant lang naar zichzelf en naar de kamer: spiegel, haken, zitje en de hoek achter het gordijn mogen er dus verzorgd uitzien."]},
+  {"h2": "Etalage en ramen: enkel langs binnen", "p": [
+   "Een etalage poets je langs binnen. De buitenkant op hoogte of van een ladder vraagt een andere aanpak en valt buiten wat Zondags doet. Binnen betekent: glas vingervrij, de bodem van de etalage gestofzuigd, kleine decorstukken afgenomen. Verplaatst je Zondag iets, dan zet ze het terug zoals het stond. Foto's van de gewenste opstelling helpen daarbij."]},
+  {"h2": "Wat je zelf blijft doen", "p": [
+   "Je prijzen, labels, kledij of presentatie bepaal je zelf. Je Zondag kan wel de stock helpen ordenen, pakjes klaarmaken of kantoormateriaal bijbestellen, zeker als je de rechterhand-kant van het werk goed vindt. Meer daarover lees je bij <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">een rechterhand voor bedrijfsleiders</a>."]},
+  {"h2": "Prijs en boeken", "p": [
+   "Je betaalt 60 euro per uur exclusief btw en boekt per blok van 3 uur, dus 180 euro exclusief btw. Een kleine winkel zit vaak binnen één blok, een grotere winkel boekt extra uren. Kies datum en taken op de <a href=\"boeken.html\">boekpagina</a>, minstens twee werkdagen vooraf. De factuur staat op naam van je bedrijf. Of je de btw kan recupereren, hangt af van je situatie. Laat dat je accountant bevestigen."]}
  ],
  "faq": [
-  {
-   "q": "In welke volgorde poets je best een winkel voor de opening?",
-   "a": "Begin met stock en achterzaal, dan sanitair, rekken, toonbank, paskamers en etalage langs binnen, en eindig met de vloer van achter naar de deur. Zo doe je niets dubbel."
-  },
-  {
-   "q": "Hoe lang voor de opening moet je beginnen met poetsen?",
-   "a": "Begin ruim vóór de opening, zodat je niet met klanten in de winkel nog aan het poetsen bent. De duur hangt af van de grootte en het aantal paskamers."
-  },
-  {
-   "q": "Moet de etalage langs buiten ook gepoetst worden?",
-   "a": "Een Zondag poetst de etalage langs binnen. Ramen langs buiten op hoogte en gevelreiniging doen we niet."
-  },
-  {
-   "q": "Kan Zondags mijn winkel poetsen voor de opening?",
-   "a": "Ja. Een vaste Zondag komt vroeg in de ochtend op weekdagen, zodat alles klaarstaat voor de eerste klant. Dat spreken we af bij de intake."
-  },
-  {
-   "q": "Wat moet ik zelf blijven doen?",
-   "a": "De presentatie van producten, prijzen en etalage blijft bij jou. Je Zondag poetst de ruimte en laat de inrichting met rust."
-  }
+  {"q": "In welke volgorde poets je een winkel?", "a": "Van achter naar voor en van boven naar onder: stock en sanitair, paskamers, schappen en toonbank, etalage langs binnen, en als laatste de vloer en de ingangsmat."},
+  {"q": "Hoe lang voor de opening poets je een winkel?", "a": "Plan het einde van de beurt liefst enkele uren voor je opent, zodat je nog kan bijsturen. Bij een weekdag waarop je dicht bent, kan de beurt ook de dag ervoor."},
+  {"q": "Poetst Zondags ook de etalage?", "a": "Wel langs binnen. De buitenkant van een etalage, zeker op hoogte, valt buiten wat Zondags doet."},
+  {"q": "Kan de poetshulp komen voor de winkel opent?", "a": "Ja, vroeg in de ochtend op een weekdag kan. Zondags werkt nooit 's avonds en niet in het weekend."},
+  {"q": "Wat kost het om een winkel te laten poetsen?", "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok, met extra uren aan hetzelfde tarief."}
  ]
 }

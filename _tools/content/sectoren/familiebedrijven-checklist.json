@@ -1,87 +1,85 @@
 {
  "path": "sectoren/familiebedrijven-checklist.html",
  "title": "Schoonmaakchecklist voor familiebedrijven",
- "desc": "Een concrete schoonmaakchecklist voor familiebedrijven met zaak en woning dicht bij elkaar: wat wekelijks, maandelijks en jaarlijks aan de beurt komt.",
- "eyebrow": "Familiebedrijven · Checklist",
+ "desc": "Een checklist voor kantoor, refter en onthaal van een familiebedrijf met een klein team: wat wekelijks, maandelijks en jaarlijks aan de beurt komt.",
+ "eyebrow": "Checklist · Familiebedrijven",
  "h1": "Schoonmaakchecklist voor familiebedrijven",
- "lead": "In een familiebedrijf loopt de zaak door het huis en het huis door de zaak. Met een checklist weet je wat wanneer gebeurt, en wat je zelf blijft doen.",
- "answer": "Een schoonmaakchecklist voor een familiebedrijf verdeelt het onderhoud van kantoor, refter en woning over wekelijkse, maandelijkse en jaarlijkse taken. Zondags (zondags.be) voert die checklist uit met één vaste persoon, je Zondag, voor zaak en woning in één zondagsplan, met één factuur op naam van je vennootschap waarop beroepsmatig en privé apart staan.",
+ "lead": "In een familiebedrijf doet iedereen alles, en het poetsen valt daarbij steevast achteraan. Deze checklist geeft het onderhoud een vaste plaats in de week.",
+ "answer": "Zondags (zondags.be) onderhoudt voor familiebedrijven met een klein team het kantoor, de refter, het onthaal en het sanitair, met één vaste Zondag die de zaak leert kennen. Een checklist verdeelt de taken in wekelijks, maandelijks en jaarlijks. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een factuur op naam van de vennootschap.",
  "facts": [
+  "Kantoor, refter, onthaal en sanitair",
+  "Klein team zonder tijd om te poetsen",
+  "Eén vaste Zondag",
   "Wekelijks, maandelijks, jaarlijks",
-  "Kantoor, refter en woning in één lijst",
-  "Wat de zaak zelf blijft doen",
-  "Eén factuur, twee delen",
-  "Eerste 2 uur gratis"
+  "60 euro per uur, per blok van 3 uur"
  ],
  "sections": [
   {
-   "h2": "Waarom een checklist voor een familiebedrijf",
+   "h2": "Wanneer niemand het poetsen als taak heeft",
    "p": [
-    "Bij een familiebedrijf is het onderhoud vaak niemands taak. Iemand pakt het op wanneer het opvalt, en meestal is dat iemand die al te veel doet. Een checklist maakt zichtbaar wat wekelijks gebeurt, wat eens per maand en wat een paar keer per jaar, zodat de verdeling eerlijk en duidelijk is.",
-    "Hieronder staat een bruikbaar basismodel. Pas het aan aan je zaak, je ruimtes en je gezin, en bespreek het met je Zondag in het zondagsplan."
+    "Een familiebedrijf draait meestal op een kleine kern: de zaakvoerder, een partner, een medewerker of twee. Iedereen springt in waar het nodig is, en het onderhoud van het pand wordt vaak uitgesteld tot er een klant aankondigt of tot het echt opvalt.",
+    "Zet je dat om naar een vast ritme, dan verdwijnt de ergernis. Je Zondag komt op een afgesproken dag en een vast uur, en je weet dat de ruimte klaar ligt wanneer de week begint."
    ]
   },
   {
-   "h2": "Wekelijks: de basis",
+   "h2": "Wekelijks: de ruimtes waar de zaak dagelijks mee leeft",
    "p": [
-    "<ul class=\"ticks\"><li>Bureaus, vergadertafel en onthaal afnemen</li><li>Vloeren in kantoor en toonzaal stofzuigen of dweilen</li><li>Keuken, refter en koffiehoek</li><li>Sanitair voor zaak en gezin</li><li>Woonruimtes poetsen, bedden verversen</li><li>Was en strijk van de week</li><li>Afval en recyclage klaarzetten</li></ul>"
+    "<ul class=\"ticks\"><li>Kantoor: bureaus, kasten, vloer en prullenbakken</li><li>Onthaal en wachtplaats voor bezoekers en leveranciers</li><li>Refter en keuken: tafels, werkblad, koelkast en koffiemachine</li><li>Sanitair</li><li>Gang, trap en ingang</li><li>Afval, papier en glas naar buiten</li></ul>",
+    "Voor een bedrijf met familiale sfeer telt vooral dat bezoekers, ook verre klanten, zich welkom voelen. De refter is er het visitekaartje van."
    ]
   },
   {
-   "h2": "Maandelijks: de diepere laag",
+   "h2": "Maandelijks: wat niemand op zich neemt",
    "p": [
-    "<ul class=\"ticks\"><li>Ramen en glazen deuren langs binnen</li><li>Plinten, deurklinken, schakelaars en deurlijsten</li><li>Keukenkasten en frigo grondig</li><li>Showroomstukken of toonstukken afstoffen</li><li>Kasten en rekken buitenkant</li><li>Onder en achter meubilair, zover bereikbaar</li></ul>",
-    "Wat niet in de maandlijst staat, maar vaak vergeten wordt: de hoeken van een toonzaal, waar stof zich ophoopt."
+    "Plinten, deurkaders en deurklinken, de bovenkant van kasten, de binnenzijde van glazen deuren, de personeelskast en de koelkast van de refter komen elke maand aan bod. Spreek een vaste datum af, zodat het niet afhangt van wie er tijd heeft."
    ]
   },
   {
-   "h2": "Jaarlijks of per seizoen",
+   "h2": "Jaarlijks: voor de grote momenten van de zaak",
    "p": [
-    "<ul class=\"ticks\"><li>Voorjaarsbeurt en eindejaarsbeurt voor kantoor en woning</li><li>Gordijnen, kussens en dekens wassen</li><li>Grondig nazicht van keuken en refter</li><li>Opruimen van archief en stockhoek</li></ul>",
-    "Voor grote beurten kan je een extra moment inplannen. Lees ook onze pagina's over <a href=\"sectoren/eindejaarspoets.html\">de eindejaarspoets</a> en <a href=\"sectoren/voorjaarspoets-kantoor.html\">de voorjaarspoets</a>."
-   ]
-  },
-  {
-   "h2": "Voorbeeld: een showroom met keukens of badkamers",
-   "p": [
-    "Stel: je hebt een familiebedrijf met een showroom waarin keukens en badkamers staan opgesteld, een kantoortje achteraan en de woning van de zaakvoerders in dezelfde straat. Wekelijks neemt de Zondag de showroom, het onthaal en het sanitair onder handen, en gaat daarna naar de woning. Maandelijks komen de toonstukken aan de beurt: aanrechten, kranen en spiegels in de opstellingen.",
-    "Wat de zaak zelf blijft doen: het wisselen van de opstellingen, het aanpassen van de belichting en het herstellen van beschadigde stukken. Daar gaat het niet om poetsen."
+    "Een jubileum, een opendeurdag of het begin van een nieuw boekjaar vragen om een grote beurt. Dan gaan de ramen langs binnen mee, het archief wordt afgestoft en de keuken uitgebreid onder handen genomen. Een extra blok boek je gewoon bij, aan hetzelfde tarief."
    ]
   },
   {
    "h2": "Wat de zaak zelf blijft doen",
    "p": [
-    "<ul class=\"ticks\"><li>Technische herstellingen, werken op hoogte en gevelreiniging, die doen wij niet</li><li>Opvolgen van wat opraakt en bijkopen</li><li>Persoonlijke spullen en documenten op orde houden</li><li>Gevoelige ruimtes die je liever zelf onderhoudt</li></ul>",
-    "De rest verdelen we samen in het zondagsplan. De eerste 2 uur zijn gratis, zodat je ziet hoe het werkt."
+    "Het team houdt tussendoor het werkblad vrij, ruimt kopjes op en neemt vertrouwelijke papieren weg voor de beurt begint. Persoonlijke spullen van de familie die niet in de zaak horen, nemen jullie vooraf mee, want je Zondag werkt enkel in de bedrijfsruimtes. Het plan blijft strikt zakelijk.",
+    "Zit er veel kleinwerk in, dan kan je Zondag ook de post sorteren, facturen en documenten klasseren, afspraken inplannen of kantoormateriaal bestellen. Boekhouding en jaarrekeningen vallen erbuiten."
    ]
   },
   {
-   "h2": "Factuur voor zaak en woning",
+   "h2": "Voorbeeld: een showroom met keukens en badkamers",
    "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van de zaak is een beroepskost. Voor de woning geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst. Btw is op het beroepsmatige deel in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte in principe niet. Laat je accountant dit bevestigen voor je eigen situatie."
+    "Stel: een familiebedrijf in keukens en badkamers heeft een showroom, een klein kantoor en een refter. Op dinsdagochtend komt de Zondag voor de showroom, op donderdag voor het kantoor en de refter. Eén persoon, twee dagen, één factuur. De zaakvoerders vinden hun tijd terug voor klanten en offertes. Meer lees je op <a href=\"sectoren/familiebedrijven.html\">poetshulp voor familiebedrijven</a>."
+   ]
+  },
+  {
+   "h2": "Prijs, factuur en boeken",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw. Op de <a href=\"boeken.html\">boekpagina</a> kies je dag en taken en betaal je online. De factuur staat op naam van de vennootschap. Het onderhoud van het bedrijfspand is in principe een beroepskost; je accountant bevestigt hoe dat voor jullie situatie werkt."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Wat hoort er in een schoonmaakchecklist voor een familiebedrijf?",
-   "a": "Wekelijks kantoor, refter, sanitair en woonruimtes, maandelijks ramen, plinten en toonstukken, en per seizoen een grote beurt. Wat de zaak zelf blijft doen, noteer je er ook in."
+   "q": "Wat valt onder een schoonmaakbeurt voor een familiebedrijf?",
+   "a": "Kantoor, onthaal, refter, keuken en sanitair. De beurt gebeurt enkel in de bedrijfsruimtes, overdag op weekdagen."
   },
   {
-   "q": "Kan één persoon zaak en woning van een familiebedrijf doen?",
-   "a": "Ja. Bij Zondags kunnen zaak en woning in één zondagsplan met dezelfde vaste persoon. De factuur splitst het beroepsmatige en het privégedeelte."
+   "q": "Hoe vaak komt de Zondag langs?",
+   "a": "Dat bepaal je zelf. Veel kleine teams starten met één blok per week en passen het later aan als de zaak groeit of krimpt."
   },
   {
-   "q": "Hoe vaak moet een kantoor in een familiebedrijf gepoetst worden?",
-   "a": "Wekelijks is een goede basis, en tweewekelijks kan bij een klein team. Met veel bezoekers of een toonzaal is vaker aangewezen. We bekijken dat samen in de intake."
+   "q": "Kan het voor de werkdag begint?",
+   "a": "Ja, vroeg in de ochtend of over de middag, steeds op weekdagen. 's Avonds en in het weekend werken we niet."
   },
   {
-   "q": "Wat doet Zondags niet in een familiebedrijf?",
-   "a": "Technische herstellingen, werken op hoogte, gevelreiniging en industriële reiniging. Ook productiehallen vallen erbuiten."
+   "q": "Wat als de vaste Zondag ziek is?",
+   "a": "Dan zoeken wij een oplossing. Een vervanger kunnen we niet altijd beloven, maar we denken mee over een andere planning."
   },
   {
-   "q": "Hoe start ik met een checklist voor mijn familiebedrijf?",
-   "a": "Vraag een gesprek aan via het formulier of de chat. We bellen binnen één werkdag terug, komen langs voor een intake en stellen samen een zondagsplan op."
+   "q": "Wat kost het voor een familiebedrijf?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw. Extra uren kosten hetzelfde per uur."
   }
  ]
 }

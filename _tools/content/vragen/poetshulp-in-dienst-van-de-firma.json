@@ -1,82 +1,85 @@
 {
  "path": "vragen/poetshulp-in-dienst-van-de-firma.html",
- "title": "Wat betekent een poetshulp in dienst van de firma?",
- "desc": "Wat verandert er voor jou als klant wanneer je poetshulp in dienst is van de firma, en niet zelfstandig werkt? Duidelijk uitgelegd, zonder juridisch jargon.",
+ "title": "Poetshulp in dienst van de firma: wat betekent dat?",
+ "desc": "Wat betekent het voor jou als klant dat de poetshulp in dienst is van de firma? Over werkgeverschap, vervanging, aanspreekpunt en factuur bij Zondags.",
  "eyebrow": "Vraag",
  "h1": "Wat betekent het voor jou als klant dat de poetshulp in dienst is van de firma?",
- "lead": "Een poetshulp in dienst van een firma werkt onder het contract van die firma. Voor jou als klant betekent dat vooral één aanspreekpunt en minder zorgen.",
- "answer": "Als de poetshulp in dienst is van de firma, zoals bij Zondags (zondags.be), werkt ze of hij onder het contract van Zondags en niet als zelfstandige. Jij hebt één aanspreekpunt, krijgt een gewone dienstenfactuur op naam van je vennootschap en moet zelf geen loon, verlof of ziekte regelen. Bij ziekte of verlof zoekt Zondags een oplossing, zonder een vervanger te beloven.",
+ "lead": "Dat jij geen werkgever bent. De firma regelt contract, loon en opvolging, jij krijgt een persoon, een aanspreekpunt en één factuur. Je zaak krijgt hulp zonder personeelsadministratie.",
+ "answer": "Is de poetshulp in dienst van de firma, dan is de firma de werkgever en jij de klant. Contract, loon en planning liggen bij de firma, jij betaalt één factuur. Zondags (zondags.be) werkt zo: je Zondag is gescreend en in dienst van Zondags, en je betaalt 60 euro per uur exclusief btw, per blok van 3 uur.",
  "facts": [
-  "Contract met Zondags, niet met jou",
-  "Eén aanspreekpunt",
-  "Gewone dienstenfactuur",
-  "Verlof en ziekte via Zondags",
-  "Gescreend door Zondags",
-  "Eerste 2 uur gratis"
+  "De firma is werkgever, jij bent klant",
+  "Contract en loon liggen bij de firma",
+  "Eén aanspreekpunt en één factuur",
+  "Oplossing bij ziekte of verlof",
+  "60 euro per uur, per blok van 3 uur"
  ],
  "sections": [
   {
-   "h2": "Wat 'in dienst' concreet betekent",
+   "h2": "Wie is de werkgever",
    "p": [
-    "Je Zondag is een werknemer van Zondags. Dat is iets anders dan een zelfstandige poetshulp die rechtstreeks voor jou werkt. Bij Zondags werken studenten vanaf 18 jaar, flexi-jobbers en mensen met een vast contract. Allemaal zijn ze gescreend en in dienst.",
-    "Voor jou als klant maakt dat een verschil. Het contract is niet met jou, maar met de firma. Dus jij bent niet de werkgever, en je hoeft geen loonadministratie of verlofdagen bij te houden."
+    "Wanneer een poetshulp in dienst is van een firma, sluit de firma het contract en betaalt ze het loon. Jij bent klant van een dienst, geen werkgever van een persoon. Je schrijft geen arbeidsovereenkomst, maakt geen loonfiche en regelt geen sociale zekerheid. Dat scheelt papierwerk en discussies."
    ]
   },
   {
-   "h2": "Wat jij als klant merkt",
+   "h2": "Wat je er concreet aan hebt",
    "p": [
-    "<ul class=\"ticks\"><li>Eén aanspreekpunt bij Zondags als er iets is</li><li>Een gewone dienstenfactuur op naam van je vennootschap</li><li>Geen eigen loonadministratie of verlofregeling</li><li>Een Zondag die gescreend is door Zondags</li><li>Een oplossing, gezocht door Zondags, bij ziekte of verlof</li></ul>",
-    "Dat laatste is een inspanning, geen belofte. Zondags zoekt een oplossing bij ziekte of verlof van je Zondag, maar belooft geen vaste vervanger op dezelfde dag."
+    "<ul class=\"ticks\"><li>Geen administratie rond contract, loon of verlof van de persoon</li><li>Een duidelijk aanspreekpunt wanneer iets misloopt</li><li>Eén factuur op naam van je bedrijf, met je btw-nummer</li><li>Een firma die verantwoordelijk blijft voor opvolging en planning</li><li>Eén partij om af te rekenen, ook bij afwezigheid</li></ul>"
    ]
   },
   {
-   "h2": "Wat het niet verandert",
+   "h2": "Het verschil met een zelfstandige poetshulp",
    "p": [
-    "Je Zondag blijft dezelfde persoon, op dezelfde dag en hetzelfde uur. In dienst zijn van de firma betekent niet dat het wisselend personeel wordt. Het zondagsplan blijft het houvast: taken, uren en afspraken staan er in.",
-    "Je blijft ook zelf beslissen wat er wanneer gebeurt. Zondags geeft geen bevelen vanuit een kantoor; je Zondag werkt volgens het plan dat jullie samen hebben opgesteld. Meer over het verschil met een zelfstandige lees je op <a href=\"gids/zelfstandige-poetshulp-of-firma.html\">zelfstandige poetshulp of firma</a>."
+    "Werk je rechtstreeks met een zelfstandige, dan maak je zelf afspraken over tarief, vervanging en factuur en blijft de verantwoordelijkheid bij jou. Dat kan goed werken, maar het vraagt aandacht. Bij een firma in dienst ligt dat anders: de firma draagt de zorg voor haar medewerker en haar planning.",
+    "Wat de wettelijke gevolgen precies zijn voor jouw situatie, bespreek je best met je accountant of sociaal secretariaat."
    ]
   },
   {
-   "h2": "Waarom dit voor een vennootschap telt",
+   "h2": "Een voorbeeld: ziekte op een drukke week",
    "p": [
-    "Een vennootschap kan geen dienstencheques kopen; die zijn voorbehouden aan particulieren. Daarom werkt Zondags met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van je kantoor of praktijk is een beroepskost.",
-    "Voor het privégedeelte, de woning van de bedrijfsleider, geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst. Net dat laatste, een onderneming met mensen in dienst, is hier relevant. Laat je accountant dit bevestigen voor je eigen situatie."
+    "Stel: je hebt een praktijk met een druk onthaal en je vaste poetshulp is een week ziek. Werk je rechtstreeks met een zelfstandige, dan sta je zelf voor een zoektocht. Bij een firma in dienst belt of mailt de firma je met een voorstel. Bij Zondags zoeken we in zo'n geval een oplossing, zonder een vaste vervanger te beloven."
    ]
   },
   {
-   "h2": "Als het niet klikt",
+   "h2": "Wat je zelf wel nog doet",
    "p": [
-    "Een vaste persoon werkt alleen als het klikt. Daarom kan je het plan maandelijks opzeggen. Klikt het niet met je Zondag, dan zoeken we samen een andere. Bij een zelfstandige moet je meestal zelf op zoek gaan.",
-    "Is je Zondag eens niet beschikbaar, dan weet je dat Zondags het oppakt en naar een oplossing zoekt. Je hoeft daarvoor niet zelf andere hulpen te bellen."
+    "Ook in dienst van een firma blijf jij verantwoordelijk voor je eigen zaak. Je geeft duidelijke instructies over taken en gewoontes, bezorgt de toegang tot het gebouw en laat weten wanneer iets verandert, zoals een verbouwing of een gesloten dag. Het zondagsplan helpt daarbij: het beschrijft taken, dagen en uren, en je past het aan wanneer je zaak verandert.",
+    "De persoonlijke opvolging van haar of zijn contract, planning en opleiding blijft bij Zondags."
    ]
   },
   {
-   "h2": "Zo start je",
+   "h2": "Welke vragen je de firma stelt",
    "p": [
-    "Vraag aan via het formulier of de chat. Binnen één werkdag belt iemand je terug. We komen langs voor de intake en maken samen het zondagsplan. De eerste 2 uur zijn gratis, om kennis te maken."
+    "<ul class=\"ticks\"><li>Is de persoon die komt effectief in dienst van de firma?</li><li>Hoe wordt de persoon gescreend voor ze bij je start?</li><li>Wie neem ik aan de lijn bij een probleem?</li><li>Hoe gaat de firma om met afwezigheid?</li></ul>"
+   ]
+  },
+  {
+   "h2": "Hoe Zondags het organiseert",
+   "p": [
+    "Je Zondag is een student vanaf 18 jaar, een flexi-jobber of iemand met een vast contract, steeds gescreend en in dienst van Zondags. Je krijgt steeds dezelfde persoon, op een vaste dag en een vast uur. Klikt het niet, dan zoeken we samen een andere Zondag.",
+    "Je boekt op de <a href=\"boeken.html\">boekpagina</a>: 60 euro per uur exclusief btw, 180 euro exclusief btw per blok van 3 uur."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Wat betekent het als mijn poetshulp in dienst is van de firma?",
-   "a": "Dat ze of hij werknemer is van Zondags en niet zelfstandig werkt. Het contract is met de firma, niet met jou. Jij hebt één aanspreekpunt en een gewone dienstenfactuur op naam van je vennootschap."
+   "q": "Moet ik als klant sociale bijdragen betalen voor de poetshulp?",
+   "a": "Nee. Is de poetshulp in dienst van de firma, dan regelt de firma loon en sociale bijdragen. Jij betaalt de factuur van de dienst."
   },
   {
-   "q": "Moet ik loon of verlof van mijn poetshulp regelen?",
-   "a": "Nee. Dat doet Zondags als werkgever. Jij betaalt de dienstenfactuur en spreekt het zondagsplan af met je Zondag."
+   "q": "Wie is verantwoordelijk als er iets misloopt?",
+   "a": "Je spreekt de firma aan. Bij Zondags bespreek je het met ons en zoeken we samen een oplossing."
   },
   {
-   "q": "Wat gebeurt er bij ziekte of verlof van mijn Zondag?",
-   "a": "Zondags zoekt een oplossing. We beloven geen vaste vervanger, maar we denken mee over wat mogelijk is."
+   "q": "Kan ik rechtstreeks afspraken maken met de persoon?",
+   "a": "Voor praktische dingen zoals taken en uren wel, via je zondagsplan. Contract en loon blijven bij de firma."
   },
   {
-   "q": "Blijft het dezelfde persoon als de firma de werkgever is?",
-   "a": "Ja. Je Zondag blijft dezelfde persoon, op dezelfde dag en hetzelfde uur. In dienst zijn van de firma verandert dat niet."
+   "q": "Wat als mijn Zondag ziek of met verlof is?",
+   "a": "Dan zoeken wij een oplossing. Een vaste vervanger beloven we niet, maar we laten je niet in de steek."
   },
   {
-   "q": "Wat als de poetshulp niet bij mij past?",
-   "a": "Dan zoeken we samen een andere Zondag. Het plan is ook maandelijks opzegbaar, zodat je niet vastzit aan een combinatie die niet werkt."
+   "q": "Staat de firma of de persoon op de factuur?",
+   "a": "De factuur komt van Zondags en wordt opgemaakt op naam van je bedrijf, met je btw-nummer."
   }
  ]
 }

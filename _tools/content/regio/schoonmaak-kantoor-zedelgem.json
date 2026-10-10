@@ -1,81 +1,86 @@
 {
- "path": "regio/schoonmaak-kantoor-zedelgem.html",
  "title": "Schoonmaakhulp voor kantoren in Zedelgem (8210)",
- "desc": "Laat kantoor en woning in Zedelgem verzorgd blijven terwijl je onderweg bent. Eén vaste persoon, een vast moment en één factuur op naam van je vennootschap.",
+ "desc": "Voor bedrijfsleiders in Zedelgem die veel onderweg zijn: een vaste Zondag houdt kantoor en regelwerk draaiend. 60 euro per uur exclusief btw, online boeken.",
  "eyebrow": "Zedelgem · 8210",
  "h1": "Schoonmaakhulp voor kantoren in Zedelgem",
- "lead": "Als je veel onderweg bent, moet het kantoor ook zonder jou verder draaien. Een vaste persoon die weet wat er moet gebeuren, wanneer je er zelf niet bent.",
- "answer": "Zondags (zondags.be) levert schoonmaakhulp voor kantoren in Zedelgem, ook in Aartrijke, Loppem en Veldegem. Je Zondag is één vaste persoon die op een vaste dag werkt volgens het zondagsplan, ook als jij onderweg bent. Kantoor en woning kunnen in hetzelfde plan, met één dienstenfactuur op naam van je vennootschap waarop beroepsmatig en privé gescheiden staan. Zondags is gevestigd in Marke en werkt in West- en Oost-Vlaanderen.",
+ "lead": "Ben je als bedrijfsleider veel onderweg, dan zorgt een vaste Zondag dat je kantoor in Zedelgem blijft draaien. Poetsen en regelwerk, 60 euro per uur exclusief btw.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp voor kantoren in Zedelgem en tegelijk een rechterhand voor de bedrijfsleider: een vaste persoon poetst wekelijks of tweewekelijks bureaus, vergaderruimte, keuken en sanitair en neemt praktische taken over zoals post, pakjes en kantoormateriaal. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een factuur op naam van je bedrijf.",
  "facts": [
-  "Werkt volgens afspraak, ook als jij weg bent",
-  "Kantoor en woning in één plan",
-  "Steeds dezelfde Zondag",
+  "Poetsen plus rechterhand voor de zaakvoerder",
+  "Dezelfde vaste persoon",
   "Overdag op weekdagen",
-  "Factuur aan je vennootschap",
-  "Eerste 2 uur gratis"
+  "Factuur op naam van je bedrijf",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
  ],
  "sections": [
   {
-   "h2": "Wanneer jij er niet bent",
+   "h2": "Wanneer je zelden op kantoor zit",
    "p": [
-    "Veel zaakvoerders zitten meer in de auto, bij klanten of op een beurs dan achter hun eigen bureau. Dan merk je pas hoe belangrijk een kantoor is dat zichzelf lijkt op te ruimen. Een vaste Zondag maakt dat mogelijk, omdat afspraken één keer worden vastgelegd en daarna gewoon doorlopen.",
-    "Je hoeft er niet bij te zijn. In het zondagsplan staat wat er elke beurt gebeurt, welke dag en welk uur, en wat je Zondag laat liggen. Je ziet het resultaat als je terugkomt."
+    "Veel bedrijfsleiders zitten meer bij klanten dan achter hun eigen bureau. Dan merk je pas bij je terugkeer op kantoor dat de post zich opstapelt, de keuken niet is opgeruimd en de bestelling kantoormateriaal blijft aanslepen. Een kantoor dat niemand bewoont, vraagt toch aandacht.",
+    "Zondags past daar goed bij. Eén vaste persoon komt op een afgesproken dag, poetst het kantoor en houdt het regelwerk bij. Wanneer jij die dag onderweg bent, hoef je niet aanwezig te zijn: je Zondag weet wat te doen."
    ]
   },
   {
-   "h2": "Stel: een kinesitherapeut met een praktijk aan huis",
+   "h2": "Neem een kinesitherapeut met een praktijk in een winkelstraat",
    "p": [
-    "Neem een kinesitherapeut die thuis praktijk houdt. Op dinsdag en donderdag zijn er patiënten, de rest van de week rijdt de therapeut rond voor huisbezoeken. De praktijkruimte, de wachtruimte en het sanitair moeten klaar zijn vóór de eerste afspraak. De woning ernaast verdient even veel aandacht.",
-    "Eén Zondag kan beide aan. Op een rustige dag poetst die persoon de praktijkruimte en de woning in één beurt, op de factuur apart gezet. Het materiaal en de hygiëne van de behandeltafels blijven bij de therapeut zelf."
+    "Een kinesitherapeut in Zedelgem werkt met afspraken van ochtend tot avond en rijdt soms nog langs bij patiënten. De praktijk heeft een kleine wachtruimte, twee behandelkamers en een sanitair. Er blijft weinig ruimte over om zelf te poetsen of te bestellen.",
+    "Je Zondag komt over de middag, wanneer de agenda net leeg is. Ze poetst wachtruimte en behandelkamers, en controleert of er voldoende papier en zeep is voor de volgende dag. Medisch materiaal en sterilisatie blijven bij de therapeut zelf."
    ]
   },
   {
-   "h2": "Wat zit er in een beurt",
+   "h2": "Wat de rechterhand-kant inhoudt",
    "p": [
-    "<ul class=\"ticks\"><li>Bureaus, kasten langs buiten en vergadertafel</li><li>Vloeren stofzuigen en dweilen</li><li>Keuken, koffiehoek en frigo</li><li>Sanitair</li><li>Ramen langs binnen</li><li>Afval en papier</li></ul>",
-    "Je Zondag werkt zonder dat je erop moet letten. Wil je dat vertrouwelijke papieren op het bureau blijven liggen of juist opgeborgen worden, dan bespreken we dat tijdens de intake en leggen we het vast."
+    "<ul class=\"ticks\"><li>Post openen en sorteren</li><li>Pakjes en zendingen klaarmaken</li><li>Kantoormateriaal bestellen en bijhouden</li><li>Koffiehoek en keuken bevoorraden</li><li>Afspraken opvolgen en de zaak klaarzetten voor een klantenbezoek</li><li>Een leverancier contacteren voor een kleine zaak</li></ul>",
+    "Dat is ondersteunend werk. Boekhouding, loonadministratie en juridisch of fiscaal advies zitten er niet in."
    ]
   },
   {
-   "h2": "Kantoor en huis lopen door",
+   "h2": "Het poetswerk zelf",
    "p": [
-    "Wie kantoor aan huis heeft, weet dat de grens vaag is. De koffiemachine staat in de keuken, de printer in de gang, de vergadering in de living. Een zondagsplan kijkt niet naar de muur tussen beide, maar naar wat er moet gebeuren. Toch blijft het onderscheid belangrijk voor de boekhouding: het beroepsgedeelte en het privégedeelte staan apart op de factuur.",
-    "Lees voor de achtergrond <a href=\"gids/kantoor-aan-huis-schoonmaak.html\">hoe schoonmaak bij een kantoor aan huis werkt</a>. Je accountant bevestigt hoe je de verwerking best doet."
+    "Elke beurt omvat bureaus, vergaderruimte, keuken, sanitair, vloeren en afval. Je Zondag werkt overdag op weekdagen, vroeg in de ochtend of over de middag. Gevelreiniging, werken op hoogte en industriële reiniging horen er niet bij."
    ]
   },
   {
-   "h2": "Wat de factuur zegt",
+   "h2": "Aartrijke, Loppem en Veldegem",
    "p": [
-    "Een vennootschap kan geen dienstencheques gebruiken. Zondags factureert gewoon een dienst op naam van je vennootschap. Het onderhoud van je beroepsruimtes is een beroepskost. Voor het privégedeelte kan een voordeel van alle aard spelen, als de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst. Laat je accountant dit bevestigen voor je eigen situatie."
+    "Aartrijke, Loppem en Veldegem zijn deelgemeenten van Zedelgem. Voor je kantoor daar zoeken we een Zondag in de buurt. Zit je zaak in Brugge, Oostkamp, Torhout, Jabbeke of Ichtegem, dan boek je op dezelfde manier."
    ]
   },
   {
-   "h2": "Aan de slag in Zedelgem",
+   "h2": "Prijs en boekhouding",
    "p": [
-    "Je doet een aanvraag via het formulier of de chat. Iemand belt je binnen één werkdag terug. Bij de intake lopen we je kantoor en woning door en maken we samen het zondagsplan. Zondags zoekt een Zondag in en rond Zedelgem, en kijkt ook mee voor zaken in Brugge, Oostkamp, Torhout, Jabbeke of Ichtegem. De eerste 2 uur zijn gratis en het plan is maandelijks opzegbaar."
+    "Je betaalt 60 euro per uur exclusief btw en boekt per blok van 3 uur, dus 180 euro exclusief btw. Extra uren boek je aan hetzelfde tarief. Je krijgt een dienstenfactuur op naam van je bedrijf. In principe is het een beroepskost, en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Je accountant bevestigt wat voor jou geldt."
+   ]
+  },
+  {
+   "h2": "Hoe je boekt",
+   "p": [
+    "Op de <a href=\"boeken.html\">boekpagina</a> kies je de dag, het aantal blokken en de taken, en betaal je online. Voor een wekelijks plan bellen we eerst kort. Meer over wat je Zondag voor een kantoor kan doen, staat op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Welk bedrijf levert schoonmaakhulp voor kantoren in Zedelgem?",
-   "a": "Zondags, gevestigd in Marke, levert vaste schoonmaakhulp voor kantoren in Zedelgem en omliggende gemeenten. Je krijgt dezelfde persoon, overdag op weekdagen, en één factuur op naam van je vennootschap."
+   "q": "Welk bedrijf helpt een drukke bedrijfsleider in Zedelgem met poetsen en regelwerk?",
+   "a": "Zondags uit Marke stuurt een vaste persoon die het kantoor poetst en praktische taken overneemt, zoals post, pakjes en kantoormateriaal, overdag op weekdagen."
   },
   {
-   "q": "Moet ik aanwezig zijn terwijl mijn kantoor gepoetst wordt?",
-   "a": "Nee, dat is niet nodig. Je spreekt in het zondagsplan af wat er gebeurt, wanneer, en hoe je Zondag binnenkomt. Hoe je dat praktisch regelt, bespreken we samen tijdens de intake."
+   "q": "Moet ik aanwezig zijn als mijn Zondag komt?",
+   "a": "Dat hoeft niet. Je spreekt vooraf af hoe ze binnenkomt en welke taken ze doet. De vaste persoon kent je kantoor, zodat het zonder toezicht kan lopen."
   },
   {
-   "q": "Kan dezelfde persoon ook mijn woning in Zedelgem doen?",
-   "a": "Ja. Kantoor en woning kunnen in hetzelfde zondagsplan. Het beroepsmatige en het privégedeelte staan apart op de factuur, zodat je accountant er correct mee kan werken."
+   "q": "Wat kost een rechterhand voor mijn kantoor in Zedelgem?",
+   "a": "Je betaalt 60 euro per uur exclusief btw voor poetsen en regelwerk samen. Je boekt per blok van 3 uur, dus 180 euro exclusief btw, met extra uren aan hetzelfde tarief."
   },
   {
-   "q": "Werkt Zondags ook in Loppem, Aartrijke en Veldegem?",
-   "a": "Ja. Loppem, Aartrijke en Veldegem zijn deelgemeenten van Zedelgem en vallen binnen ons werkgebied. We zoeken een Zondag in en rond Zedelgem, zonder te beloven dat er al iemand klaarstaat."
+   "q": "Kan mijn Zondag boodschappen voor de zaak doen?",
+   "a": "Ja, boodschappen en regelwerk voor de zaak, zoals kantoormateriaal, een pakje ophalen of de koffiehoek aanvullen. Alles voor het bedrijf."
   },
   {
-   "q": "Wat als mijn vaste Zondag ziek is?",
-   "a": "Dan zoeken wij een oplossing, al beloven we geen vaste vervanger. Klikt het niet tussen jou en je Zondag, dan zoeken we samen een andere persoon die beter past."
+   "q": "Werkt Zondags ook in Loppem of Veldegem?",
+   "a": "Ja, Loppem, Veldegem en Aartrijke zijn deelgemeenten van Zedelgem, en daar zoeken we een Zondag die dicht bij je kantoor woont."
   }
- ]
+ ],
+ "path": "regio/schoonmaak-kantoor-zedelgem.html"
 }

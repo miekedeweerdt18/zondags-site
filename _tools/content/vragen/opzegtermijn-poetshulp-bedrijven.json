@@ -1,85 +1,37 @@
 {
  "path": "vragen/opzegtermijn-poetshulp-bedrijven.html",
- "title": "Opzegtermijn poetshulp voor bedrijven",
- "desc": "Hoe werkt de opzegtermijn bij poetshulp voor bedrijven? Bij Zondags is het zondagsplan maandelijks opzegbaar. Zo pas je het aan of stop je het.",
+ "title": "Opzegtermijn bij poetshulp voor bedrijven",
+ "desc": "Hoe werkt de opzegtermijn bij poetshulp voor bedrijven? Waar je op let bij vaste abonnementen, wat boeken per blok betekent en wat je laat bevestigen.",
  "eyebrow": "Vraag",
  "h1": "Hoe werkt de opzegtermijn bij poetshulp voor bedrijven?",
- "lead": "Voor je een vaste poetshulp neemt, wil je weten hoe je eruit raakt als het niet klikt. Bij Zondags is het plan maandelijks opzegbaar.",
- "answer": "Bij Zondags (zondags.be) is het zondagsplan voor bedrijven maandelijks opzegbaar. Je kan ook uren bijboeken of het plan aanpassen, en als je Zondag niet klikt met je team, zoeken we samen een andere Zondag. De eerste 2 uur zijn gratis om kennis te maken, dus je beslist pas na een kennismaking. Wil je exacte voorwaarden, vraag ze dan voor je start in je aanvraag.",
- "facts": [
-  "Maandelijks opzegbaar",
-  "Uren bijboeken of plan aanpassen",
-  "Andere Zondag als het niet klikt",
-  "Eerste 2 uur gratis",
-  "Voorwaarden vraag je vooraf"
- ],
+ "lead": "Wil je weten hoe lang je vastzit aan een poetsdienst, dan vraag je het best voor de start. Hier lees je waar je op let en hoe de opzet bij Zondags werkt.",
+ "answer": "Een opzegtermijn bij poetshulp voor bedrijven verschilt per aanbieder en staat in de overeenkomst. Bij Zondags (zondags.be) boek je per blok van 3 uur aan 60 euro per uur exclusief btw, en leg je bij een vast plan de dagen en uren vast in het zondagsplan. Over de precieze afspraken rond stopzetten of aanpassen vraag je bij de intake een duidelijke schriftelijke bevestiging, zodat je vooraf weet waar je aan toe bent.",
+ "facts": ["Opzegtermijn verschilt per aanbieder", "Vraag de afspraak schriftelijk voor de start", "Boeken per blok van 3 uur", "Aanpassen kan via het zondagsplan", "60 euro per uur, per blok van 3 uur"],
  "sections": [
-  {
-   "h2": "Waarom een korte opzegtermijn voor jou werkt",
-   "p": [
-    "Een kantoor, praktijk of winkel verandert: je team groeit, je verhuist, je werkt een tijd minder. Een poetshulp met een lange binding past zich daar slecht aan. Een plan dat je maandelijks kan stopzetten of aanpassen, geeft je de ruimte om te beslissen op basis van wat je ziet.",
-    "Dat geldt zeker voor kleine zaken, waar een ziek teamlid of een verbouwing de planning snel verandert. Een maandelijks opzegbaar plan laat je dan kiezen, zonder dat je hoeft te onderhandelen."
-   ]
-  },
-  {
-   "h2": "Wat je kan aanpassen zonder op te zeggen",
-   "p": [
-    "<ul class=\"ticks\"><li>Meer uren bijboeken in drukke weken</li><li>Een andere dag of een ander uur</li><li>Een ander takenpakket, bijvoorbeeld koken erbij</li><li>Een andere Zondag als het niet klikt</li><li>Een losse opdracht naast het vaste plan</li></ul>",
-    "Niets hiervan vraagt een nieuw contract. Je belt, je mailt of je gebruikt de chat, en we passen het zondagsplan aan."
-   ]
-  },
-  {
-   "h2": "Eerst kennismaken, dan beslissen",
-   "p": [
-    "De eerste 2 uur zijn gratis, zodat je kan zien hoe het werkt voor je verder gaat. Na de intake en de kennismaking weet je of de persoon past bij je team en je zaak. Past het niet, dan bespreken we eerst een andere Zondag voor je opzegt.",
-    "Gebruik die kennismaking bewust: kijk of de persoon discreet werkt, of de communicatie goed loopt en of je team zich er goed bij voelt."
-   ]
-  },
-  {
-   "h2": "Hoe je opzegt",
-   "p": [
-    "Je laat het weten via telefoon, WhatsApp, mail of de chat. De concrete praktische voorwaarden van je plan lees je in het zondagsplan. Heb je daarover vragen, vraag ze dan voor je start.",
-    "Zeg bij het opzeggen ook wat je wil laten gebeuren met de sleutel, de toegangscode en de afspraken met je team, zodat alles netjes afgerond wordt."
-   ]
-  },
-  {
-   "h2": "Wat als je Zondag ziek of met verlof is",
-   "p": [
-    "Dan zoeken wij een oplossing. Een vervanger beloven we niet, maar we laten je niet in de steek. Als dat vaak gebeurt of je er niet mee leeft, dan kan je het plan stopzetten of een andere Zondag vragen.",
-    "Voor wie een kantoor aan huis heeft, geldt hetzelfde: opzeggen kan zowel voor het beroepsmatige als voor het privégedeelte, of voor beide samen."
-   ]
-  },
-  {
-   "h2": "Facturatie en accountant",
-   "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van beroepsruimtes is een beroepskost. Laat je accountant bevestigen hoe dat in jouw situatie werkt. Meer vragen over het contract lees je op <a href=\"vragen/poetsabonnement-opzeggen.html\">poetsabonnement opzeggen</a>."
-   ]
-  }
+  {"h2": "Waarom je dit voor de start vraagt", "p": [
+   "Niemand denkt aan stoppen op de dag dat een dienst begint. Toch is de opzegvraag een van de beste manieren om een aanbieder te beoordelen. Een firma die hierover helder antwoordt, werkt meestal ook helder in de rest van de samenwerking.",
+   "Stel: je zaakvoerder wil een poetshulp voor het kantoor, maar de verhuizing naar een ander pand staat voor het najaar gepland. Dan wil je precies weten wat je moet doen om de dienst aan te passen of stop te zetten."]},
+  {"h2": "Drie vormen van afspraken die je tegenkomt", "p": [
+   "<ul class=\"ticks\"><li>Een jaarcontract met vaste looptijd en opzegperiode</li><li>Een abonnement dat doorloopt tot je opzegt, met een termijn</li><li>Boeken per beurt of per blok, zonder doorlopende verplichting</li></ul>",
+   "Welke vorm je ook kiest, noteer de termijn, de manier van opzeggen en wie de opzegging moet ontvangen. Vraag ook of je uren kan verminderen zonder de hele dienst stop te zetten."]},
+  {"h2": "Hoe het bij Zondags in elkaar zit", "p": [
+   "Je boekt blokken van 3 uur, online of na een telefoontje. Voor een vast terugkerend plan, bijvoorbeeld elke week op dezelfde dag, bespreken we eerst kort wat je nodig hebt en leggen we het zondagsplan vast met taken, dagen en uren.",
+   "De precieze afspraken rond stoppen of aanpassen van zo'n vast plan laten we je in dat gesprek schriftelijk bevestigen. Wij noemen hier bewust geen termijn die we niet kunnen zien in jouw situatie, want de afspraak hoort bij het plan dat je samen met ons opstelt."]},
+  {"h2": "Aanpassen is vaak beter dan opzeggen", "p": [
+   "Een bedrijf dat tijdelijk minder poetst, hoeft de dienst niet meteen stop te zetten. Je kan een blok laten vallen, de dag verplaatsen of taken schrappen. Lees ook <a href=\"vragen/uren-bijboeken-of-afbouwen-poetshulp.html\">hoe je uren bijboekt of afbouwt</a> en <a href=\"vragen/poetsabonnement-opzeggen.html\">wat er komt kijken bij een poetsabonnement opzeggen</a>.",
+   "Klikt het niet met je Zondag, dan zoeken we samen een andere persoon. Dat is een oplossing die geen opzegging vraagt."]},
+  {"h2": "Wat je laat bevestigen voor je vastlegt", "p": [
+   "Maak een korte lijst en vraag er schriftelijk antwoord op. Het gaat om de termijn en de manier van stoppen, de gevolgen voor reeds geboekte blokken, de mogelijkheid om tijdelijk te pauzeren en wat er met je sleutel of badge gebeurt als de dienst eindigt.",
+   "Zo zit je later niet met een verrassing, en kan je gerust starten met een eerste blok en op je gemak bekijken of de samenwerking past."]},
+  {"h2": "Prijs en eerste stap", "p": [
+   "Je betaalt 60 euro per uur exclusief btw, dus 180 euro exclusief btw per blok van 3 uur, en je krijgt een dienstenfactuur op naam van je bedrijf. Wil je beginnen zonder meteen een langlopend plan, kies dan op de <a href=\"boeken.html\">boekpagina</a> een datum en een blok. Voor vragen bel je 0470 56 53 58."]}
  ],
  "faq": [
-  {
-   "q": "Hoe lang is de opzegtermijn bij Zondags?",
-   "a": "Het plan is maandelijks opzegbaar. Voor de praktische details van jouw plan vraag je de voorwaarden bij je aanvraag."
-  },
-  {
-   "q": "Kan ik uren bijboeken zonder het plan te wijzigen?",
-   "a": "Ja. Uren bijboeken of het plan aanpassen kan, bijvoorbeeld in een drukke maand of na een verbouwing. Dat bespreek je met ons en we passen het zondagsplan aan."
-  },
-  {
-   "q": "Wat als ik niet tevreden ben over mijn Zondag?",
-   "a": "Dan zoeken we samen een andere Zondag. Klikt het niet, dan hoef je niet te wachten tot het einde van een lang contract."
-  },
-  {
-   "q": "Zit ik vast na de gratis uren?",
-   "a": "Nee. De eerste 2 uur zijn gratis, om kennis te maken. Daarna beslis je of je verder wil."
-  },
-  {
-   "q": "Kan ik een losse opdracht doen in plaats van een plan?",
-   "a": "Ja. Losse opdrachten, zoals een grote poetsbeurt of een verhuis, zijn ook mogelijk. Wil je daarna toch een vast ritme, dan stappen we over op een zondagsplan met dezelfde persoon."
-  },
-  {
-   "q": "Wat gebeurt er met de sleutel als ik opzeg?",
-   "a": "Je Zondag geeft de sleutel terug en we regelen dat samen met je. Spreek het ook af voor je start."
-  }
+  {"q": "Hoe lang is de opzegtermijn bij poetshulp voor bedrijven?", "a": "Dat verschilt per aanbieder en staat in de overeenkomst. Bij Zondags laat je de afspraak over stoppen of aanpassen van een vast plan schriftelijk bevestigen tijdens het kennismakingsgesprek."},
+  {"q": "Kan ik een blok poetshulp annuleren of verplaatsen?", "a": "Dat bespreek je met Zondags via chat, mail of 0470 56 53 58. Vraag bij het boeken naar de afspraak rond wijzigingen, zodat je weet tot wanneer verplaatsen kan."},
+  {"q": "Zit ik vast aan een jaarcontract bij Zondags?", "a": "Je boekt per blok van 3 uur. Voor een vast plan stellen we samen het zondagsplan op, en de afspraken daarover vraag je vooraf schriftelijk, zodat niets onduidelijk blijft."},
+  {"q": "Kan ik tijdelijk minder uren nemen in plaats van stoppen?", "a": "Ja, je kan blokken laten vallen of de dag aanpassen. De kleinste eenheid blijft een blok van 3 uur aan 60 euro per uur exclusief btw."},
+  {"q": "Wat als ik niet tevreden ben over mijn Zondag?", "a": "Dan zoeken we samen een andere Zondag. Zeg het snel, want een kleine aanpassing in het zondagsplan lost vaak al veel op."},
+  {"q": "Waar vraag ik de opzegvoorwaarden op?", "a": "Via de chat op de site, mail naar hello@zondags.be of telefoon en WhatsApp op 0470 56 53 58, elke dag van 6 tot 22 uur."}
  ]
 }

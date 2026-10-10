@@ -1,34 +1,86 @@
 {
  "path": "poetshulp/beernem.html",
- "title": "Poetshulp en kookhulp voor praktijken in Beernem (8730)",
- "desc": "Poetshulp voor praktijken en kantoren in Beernem, Oedelem en Sint-Joris. Op vraag ook koken, strijk of boodschappen thuis. We zoeken een Zondag in je buurt.",
+ "title": "Poetshulp en administratieve hulp voor bedrijven in Beernem",
+ "desc": "Poetshulp, post en regelwerk voor je praktijk of kantoor in Beernem, door één vaste Zondag. 60 euro per uur excl. btw, per blok van 3 uur online te boeken.",
  "eyebrow": "Beernem · 8730",
  "h1": "Poetshulp voor bedrijven in Beernem",
- "lead": "Een praktijk die doorloopt tot de laatste patiënt weg is, en thuis wacht een lege frigo. In Beernem kan één vaste Zondag de praktijk poetsen en thuis de schotels voor de week klaarzetten.",
- "answer": "Een groepspraktijk of kantoor in Beernem (8730) dat naast het poetsen ook wil dat er thuis gekookt, gestreken of ingekocht wordt, kan dat in één zondagsplan met Zondags (zondags.be). Zondags is actief in West- en Oost-Vlaanderen en zoekt voor Beernem een Zondag die dichtbij woont. Op één dienstenfactuur aan je vennootschap staat de praktijk apart van het huishouden.",
- "facts": ["Poetshulp voor groepspraktijken en kantoren", "Koken, schotels voor de week en boodschappen", "Was en strijk thuis, in hetzelfde plan", "We zoeken een Zondag dicht bij je zaak", "Eerste 2 uur gratis"],
+ "lead": "In Beernem geef je niet alleen het poetsen uit handen, maar ook de post, het archief en het regelwerk. Eén vaste persoon, 60 euro per uur exclusief btw, geboekt per blok van 3 uur.",
+ "answer": "Zondags (zondags.be) combineert poetshulp met administratieve hulp en regelwerk voor bedrijven in Beernem, Oedelem en Sint-Joris. Eén vaste persoon, je Zondag, komt op een vaste dag en uur naar je praktijk of kantoor. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je bedrijf. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk, en is actief in West- en Oost-Vlaanderen.",
+ "facts": [
+  "Poetsen, post en regelwerk in één",
+  "Praktijken, kantoren en kmo's in Beernem",
+  "Steeds dezelfde Zondag",
+  "Factuur op naam van je bedrijf",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Wie kookt er als de praktijk uitloopt?", "p": [
-   "Wie de hele dag spreekuur houdt, komt thuis met een leeg hoofd en een lege frigo. Dan wordt het snel een boterham of een afhaalmaaltijd. Een Zondag kan daar iets aan doen: bij jou thuis koken of schotels voor de week klaarzetten, zodat er na een lange dag iets gezonds op tafel staat.",
-   "Voorkeuren en dingen die je niet lust of niet verdraagt, noteren we in je zondagsplan."]},
-  {"h2": "Hoe ziet het eruit in een groepspraktijk van huisartsen?", "p": [
-   "Neem een groepspraktijk van huisartsen in Beernem. Die heeft een gedeelde wachtzaal, een onthaal, enkele consultatieruimtes, sanitair en een teamkeuken. Je Zondag poetst die ruimtes op een vast uur. Sterilisatie en medisch materiaal blijven bij het team.",
-   "Dezelfde Zondag kan op een andere weekdag naar het huis van een van de artsen gaan, voor het huishouden en de schotels. Hoe dat in andere groepspraktijken gaat, lees je bij <a href=\"sectoren/groepspraktijken.html\">poetshulp voor groepspraktijken</a>."]},
-  {"h2": "Hoe verloopt een kookbeurt?", "p": [
-   "Je kiest tussen een kookbeurt aan huis en een reeks schotels voor meerdere dagen. Je Zondag komt op een vaste dag en uur, kookt in je keuken en zet het eten klaar in de frigo. Boodschappen kan de Zondag zelf meenemen, zodat je geen lijstje hoeft af te werken. Meer lees je bij <a href=\"diensten/maaltijden-voor-de-week.html\">maaltijden voor de week</a>."]},
-  {"h2": "Wat kan er nog bij?", "p": [
-   "Wie wil, voegt andere taken toe: de was en strijk, boodschappen voor kantoor en gezin, regelwerk zoals apotheek en droogkuis. Je begint met één taak en breidt uit wanneer je merkt hoeveel je daarmee wint. Uren bijboeken kan, en het plan blijft maandelijks opzegbaar."]},
-  {"h2": "Waar in Beernem?", "p": [
-   "Beernem ligt in de regio Brugge en heeft postcode 8730; Oedelem en Sint-Joris zijn er deelgemeenten van. Oostkamp, Brugge, Wingene en Aalter liggen in de buurt. Zondags is actief in heel West- en Oost-Vlaanderen. We kijken per aanvraag welke Zondag in de buurt van je praktijk of woning kan werken en laten je weten of en wanneer dat lukt."]},
-  {"h2": "Wat komt er op de factuur?", "p": [
-   "Je ontvangt een dienstenfactuur op naam van je vennootschap, met het beroepsmatige deel en het privégedeelte apart. De praktijk onderhouden is een beroepskost. Voor het koken, de was en de boodschappen thuis geldt een forfaitair voordeel van alle aard, als de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Voor een vennootschap bestaan er geen dienstencheques. Je accountant bevestigt of dat in jouw geval zo is.",
-   "Je start met een aanvraag via formulier of chat, en binnen één werkdag belt iemand terug."]}
+  {
+   "h2": "Een groepspraktijk van huisartsen als voorbeeld",
+   "p": [
+    "Stel: je werkt in een groepspraktijk van huisartsen in Beernem. Er is een onthaal dat de hele dag in gebruik is, een wachtzaal, enkele spreekkamers, een personeelskeuken en een kast vol papieren die niemand durft te sorteren. De artsen willen zich op hun patiënten richten, de secretaresse verdrinkt in het ritme van de dag en het poetsen gebeurt tussendoor, als het toevallig kan.",
+    "In dat plaatje past één Zondag die zowel de ruimtes onderhoudt als de rommel aanpakt waar niemand aan toekomt. Dezelfde persoon, dezelfde dag, en wekelijks een stukje minder werk voor het team."
+   ]
+  },
+  {
+   "h2": "Wat uitbesteden naast het poetsen",
+   "p": [
+    "Veel bedrijven denken bij een hulp in de zaak enkel aan het poetsen. Maar de taken waar het team het meest op vastloopt, zijn vaak kleiner en tijdrovender:",
+    "<ul class=\"ticks\"><li>Binnenkomende post openen, sorteren en verdelen</li><li>Documenten en facturen klasseren in de juiste map</li><li>Archief ordenen en oude dossiers opruimen</li><li>Afspraken in de agenda plaatsen en opvolgen</li><li>Gegevens invoeren in een bestaand overzicht</li><li>Kantoormateriaal bestellen en pakjes klaarmaken</li></ul>"
+   ]
+  },
+  {
+   "h2": "De rechterhand voor de praktijkhouder of zaakvoerder",
+   "p": [
+    "Daarnaast kan je Zondag de praktische dingen regelen die telkens blijven liggen: boodschappen voor de zaak in de apotheek of drogisterij, een pakje ophalen, de koffiehoek bevoorraden, een leverancier bellen voor iets kleins of de zaak klaarzetten voor een bezoek. Dat is geen verkapte boekhouding, het is gewoon extra handen.",
+    "Meer over die rol vind je op <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">een rechterhand voor bedrijfsleiders</a>."
+   ]
+  },
+  {
+   "h2": "Zo verdeel je een blok van 3 uur",
+   "p": [
+    "Je bepaalt zelf hoe je de uren indeelt. Een voorbeeld voor een wekelijks blok: het eerste uur gaat naar wachtzaal, keuken en sanitair, het tweede naar vloeren en onthaal, en het derde naar post, archief en een lijstje boodschappen. Is er een drukke week, dan schuift het zwaartepunt naar poetsen of naar administratie.",
+    "Dat evenwicht leg je vast in het zondagsplan en kan je op elk moment bijsturen."
+   ]
+  },
+  {
+   "h2": "Beernem, Oedelem en Sint-Joris",
+   "p": [
+    "Oedelem en Sint-Joris horen bij Beernem. Voor al die dorpen zoeken we een Zondag die in de buurt woont. Zit je zaak net over de gemeentegrens, in Oostkamp, Brugge, Wingene of Aalter, dan laten we je na je aanvraag weten wat mogelijk is."
+   ]
+  },
+  {
+   "h2": "Kosten, factuur en boeken",
+   "p": [
+    "Een blok van 3 uur kost 180 euro exclusief btw, dus 60 euro per uur, en extra uren zijn evenveel per uur. Je betaalt online en krijgt een dienstenfactuur op naam van je bedrijf. De kost is in principe een beroepskost, en de btw recupereer je als btw-plichtige zaak met aftrekrecht. Een btw-vrijgestelde praktijk kan dat doorgaans niet. Je accountant bevestigt hoe het voor jou ligt.",
+    "Boek je eerste blok via de <a href=\"boeken.html\">boekpagina</a>."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf kan poetshulp leveren aan een groepspraktijk van huisartsen in Beernem?", "a": "Zondags (zondags.be) zoekt voor een groepspraktijk in Beernem, Oedelem of Sint-Joris een vaste Zondag die dichtbij woont, gescreend en in dienst van Zondags. Die poetst de praktijk en kan thuis koken, strijken of boodschappen doen."},
-  {"q": "Kan een Zondag ook koken voor mijn gezin?", "a": "Ja. Je Zondag kookt bij jou thuis of zet gezonde schotels voor de week klaar, en noteert in het zondagsplan wat je graag eet. Een kookbeurt valt op een weekdag, overdag."},
-  {"q": "Hoe vaak komt een Zondag koken?", "a": "Dat bepaal je zelf in het zondagsplan: bijvoorbeeld één vaste dag in de week met schotels voor meerdere dagen, of een kookbeurt aan huis. Je kan uren bijboeken als je meer wilt."},
-  {"q": "Hoe snel weet ik of er in Beernem een Zondag beschikbaar is?", "a": "Dat zoeken we uit zodra je je aanvraag doet. Zondags is actief in West- en Oost-Vlaanderen en kijkt welke Zondag in de buurt van Beernem kan werken. Je hoort daarna of en wanneer je praktijk of woning aan bod komt."},
-  {"q": "Mag de Zondag in de consultatieruimtes komen?", "a": "Consultatieruimtes kunnen, als het team dat wil. Welke ruimtes en oppervlakken je Zondag aanpakt, noteren we tijdens de intake; sterilisatie en medisch materiaal blijven bij het team."}
+  {
+   "q": "Welk bedrijf levert poetshulp en administratieve hulp in Beernem?",
+   "a": "Zondags levert vanuit Marke zowel poetshulp als ondersteunende administratieve hulp aan bedrijven in Beernem, Oedelem en Sint-Joris, via één vaste persoon."
+  },
+  {
+   "q": "Kan één persoon zowel poetsen als de post doen?",
+   "a": "Ja. Je Zondag verdeelt het blok van 3 uur volgens jouw zondagsplan: bijvoorbeeld een deel poetsen en een deel post, archief of boodschappen voor de zaak."
+  },
+  {
+   "q": "Welke administratieve taken zijn mogelijk?",
+   "a": "Post openen en sorteren, documenten klasseren, dossiers en archief ordenen, afspraken plannen, gegevens invoeren en kantoormateriaal bestellen. Boekhouding, loonadministratie en juridisch of fiscaal advies niet."
+  },
+  {
+   "q": "Wat kost het combineren van poetsen en administratie?",
+   "a": "Er is één tarief: 60 euro per uur exclusief btw, per blok van 3 uur. Het maakt niet uit hoe je de uren verdeelt over de taken."
+  },
+  {
+   "q": "Kan mijn Zondag boodschappen voor de zaak doen?",
+   "a": "Ja, praktische zaken zoals de apotheek of drogisterij, kantoormateriaal of een pakje ophalen. Het gaat altijd om opdrachten voor de zaak, afgesproken in het zondagsplan."
+  },
+  {
+   "q": "Wat als ik meer uren nodig heb in een drukke week?",
+   "a": "Je boekt extra uren aan hetzelfde tarief van 60 euro per uur exclusief btw, via de boekpagina of na een telefoontje naar 0470 56 53 58."
+  }
  ]
 }

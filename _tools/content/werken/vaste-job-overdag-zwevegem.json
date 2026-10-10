@@ -1,80 +1,38 @@
 {
  "path": "werken/vaste-job-overdag-zwevegem.html",
  "title": "Vaste job overdag zonder weekends in Zwevegem",
- "desc": "Vaste job in Zwevegem met een vast contract, overdag op weekdagen, zonder avonden en weekends. Voor wie houdt van orde en detail. Solliciteer bij Zondags.",
- "eyebrow": "Vaste job · Zwevegem",
+ "desc": "Houd je van orde en structuur? Een vast contract overdag in Zwevegem, Moen of Otegem: bedrijven netjes houden en dossiers ordenen. Geen weekends. Solliciteer.",
+ "eyebrow": "Vaste job overdag · Zwevegem · 8550",
  "h1": "Vaste job overdag zonder weekends in Zwevegem",
- "lead": "Een kast waar de handdoeken strak liggen, een hemd zonder een plooi. Hou je van orde, dan is dit vast werk dat bij je past, overdag en zonder weekends.",
- "answer": "Zondags (zondags.be) zoekt Zondags in en rond Zwevegem voor een vaste job overdag zonder weekends. Je krijgt een vast contract, deeltijds of voltijds, en werkt bij vaste klanten zoals ondernemers, praktijken, kantoren en gezinnen. Je kiest mee je dagen en uren en solliciteert via het formulier, de chat of WhatsApp.",
- "facts": [
-  "Vast contract",
-  "Deeltijds of voltijds",
-  "Overdag op weekdagen",
-  "Voor wie van orde houdt",
-  "Verplaatsingen vergoed"
- ],
+ "lead": "Een bureau dat leeg is aan het einde van de dag en een dossier dat op zijn plaats staat: dat geeft jou rust. Als Zondag in Zwevegem maak je daar een vast beroep van.",
+ "answer": "Zondags (zondags.be) zoekt mensen in en rond Zwevegem die van orde en structuur houden, voor een vaste job overdag zonder weekends. Je krijgt een vast contract, deeltijds of voltijds, en werkt als Zondag op weekdagen bij kantoren, praktijken, winkels en bedrijfsleiders in de regio Kortrijk. Je ordent, poetst en regelt. Verloning ligt boven het barema en verplaatsingen worden vergoed.",
+ "facts": ["Voor wie van orde en structuur houdt", "Vast contract, deeltijds of voltijds", "Overdag op weekdagen", "Geen avonden, geen weekends", "Verloning boven het barema"],
  "sections": [
-  {
-   "h2": "Stel: orde houden is wat je beste doet",
-   "p": [
-    "Neem iemand die bij een rommelige keuken niet kan blijven staan. Je ruimt op voor je erover nadenkt, je sorteert de was per kleur en je wil dat een werkblad glimt. Op je huidige job lukt dat maar half, of het is geen onderdeel van je taak. Je zoekt werk waar zorg voor details gewoon is toegestaan en gewaardeerd wordt.",
-    "Als Zondag wordt het je werk. Bij een zaakvoerder of gezin zorg jij dat alles klopt: poetsen, wassen, strijken. Het is werk waarvan je het resultaat meteen ziet, en waarvoor mensen je dankbaar zijn."
-   ]
-  },
-  {
-   "h2": "Een vast contract, geen losse opdrachten",
-   "p": [
-    "Je werkt in dienst van Zondags, met een vast contract, deeltijds of voltijds. Het kan ook enkel binnen de schooluren. Je verloning ligt boven het barema, je verplaatsingen worden vergoed en alles is correct in orde.",
-    "Je kiest mee je dagen en uren. Eens afgesproken ligt je rooster vast, bij dezelfde klanten. Dat geeft je de zekerheid om te plannen: een afspraak bij de dokter, een uitstap met de kinderen, een vaste dag voor jezelf."
-   ]
-  },
-  {
-   "h2": "Hoe een dag eruit kan zien",
-   "p": [
-    "Je begint vroeg bij een kantoor, zodat alles klaar is als de eerste medewerker binnenkomt. Over de middag ben je bij een gezin voor de was en de strijk. In de namiddag zorg je voor een woning waar je telkens terugkomt, en je ziet na een paar weken dat er rust is in huis, omdat jij het huis kent en weet waar alles hoort.",
-    "Je hebt weinig onverwachte situaties, want de taken staan in het zondagsplan van elke klant. Voor je start spreken we samen af wat wel en niet tot je werk behoort, zodat je niet voor verrassingen komt te staan. Technische klussen en werken op hoogte doen we niet."
-   ]
-  },
-  {
-   "h2": "Voor wie het past",
-   "p": [
-    "<ul class=\"ticks\"><li>Herintreders na een pauze</li><li>Zij-instromers uit een andere sector</li><li>Ouders die zekerheid en vaste uren zoeken</li><li>Wie weer overdag wil werken zonder weekends</li></ul>",
-    "Je hebt geen diploma of ervaring nodig. Wel betrouwbaarheid, discretie en zorg voor andermans huis. Je spreekt voldoende Nederlands om afspraken te maken."
-   ]
-  },
-  {
-   "h2": "Zwevegem en deelgemeenten",
-   "p": [
-    "Heestert, Moen, Otegem en Sint-Denijs horen bij Zwevegem. We zoeken Zondags in en rond de gemeente, in de regio Kortrijk, en in Kortrijk, Harelbeke, Deerlijk, Avelgem, Spiere-Helkijn en Anzegem. Zie ook <a href=\"jobs/huishoudhulp-zwevegem.html\">huishoudhulp in Zwevegem</a>."
-   ]
-  },
-  {
-   "h2": "Solliciteren",
-   "p": [
-    "Meld je aan via het formulier, de chat of WhatsApp op 0470 56 53 58. We bellen je binnen de twee werkdagen voor een kort gesprek. Klikt het, dan zoeken we klanten dicht bij je woonplaats die passen bij je uren. Bij de start gaan we samen langs. Lees ook <a href=\"jobs/vaste-job-flexibele-uren.html\">vaste job met flexibele uren</a>."
-   ]
-  }
+  {"h2": "Jij ziet meteen wat er niet klopt", "p": [
+   "Je bent het type dat een scheve map rechtzet, een overvolle lade opruimt en een planning liefst een dag vooruit hebt. Anderen noemen dat pietje-precies. Bedrijfsleiders noemen het onbetaalbaar, omdat zij er zelf geen tijd voor hebben.",
+   "Als Zondag maak je van die eigenschap je werk. Je neemt het stuk van een zaak over dat niemand graag doet maar dat het geheel draaiende houdt: opruimen, ordenen, klaarzetten."]},
+  {"h2": "Drie soorten werk", "p": [
+   "Het werk heeft drie kanten, en jij kiest mee de verhouding. Dat kan per klant verschillen.",
+   "<ul class=\"ticks\"><li>Poetsen: kantoor, praktijk, winkel, vergaderzaal, refter en sanitair</li><li>Administratie: post, klassement, dossiers, archief, gegevens invoeren, afspraken</li><li>Rechterhand: pakjes en kantoormateriaal, koffiehoek bevoorraden, de zaak klaarzetten voor een klantenbezoek</li></ul>",
+   "Technisch werk, werken op hoogte en boekhouding horen er niet bij. Zo blijft het een duidelijke job."]},
+  {"h2": "Voorbeeld: een dag in een praktijk", "p": [
+   "Neem een kinesitherapiepraktijk met een kleine wachtzaal. Je begint vroeg, nog voor de eerste patiënt. Je zet de ruimtes in orde, neemt het sanitair mee en ordent de tijdschriften. Daarna leg je de post uit elkaar, klasseer je facturen en vul je de agenda aan met de afspraken die per mail zijn binnengekomen.",
+   "Wie van structuur houdt, merkt hoe vlot zo'n routine loopt. Elke klant heeft een zondagsplan met de taken, de uren en de afspraken, dus je weet precies wat er van je verwacht wordt."]},
+  {"h2": "Zwevegem, Moen, Otegem en omstreken", "p": [
+   "Zwevegem heeft postcode 8550. Heestert, Moen, Otegem en Sint-Denijs zijn deelgemeenten van Zwevegem. We zoeken Zondags in en rond Zwevegem, ook als je in Kortrijk, Harelbeke, Deerlijk, Avelgem, Spiere-Helkijn of Anzegem woont.",
+   "Is een buurgemeente dichter bij jou? Kijk dan bij <a href=\"werken/vaste-job-overdag-avelgem.html\">de vaste job overdag in Avelgem</a>."]},
+  {"h2": "Je contract en je rooster", "p": [
+   "Je werkt met een vast contract bij Zondags, deeltijds of voltijds, en ook enkel binnen kantooruren is mogelijk. Je verloning ligt boven het barema, alles staat correct op papier en je verplaatsingen worden vergoed.",
+   "Voor wie van structuur houdt, is vooral het rooster interessant. Eens je dagen en uren zijn afgesproken, liggen ze vast, bij dezelfde klanten. Overdag op weekdagen, vroeg of over de middag; avonden en weekends blijven vrij."]},
+  {"h2": "Solliciteren zonder omwegen", "p": [
+   "Je gebruikt het formulier of de chat op de site, of je schrijft naar 0470 56 53 58 via WhatsApp. Binnen twee werkdagen bellen we je voor een kort gesprek. Je hoeft geen diploma of ervaring te hebben, wel minstens 18 jaar te zijn en voldoende Nederlands te spreken. Bij de start gaan we samen langs bij je klanten. Meer over de rol lees je op <a href=\"zondag-worden.html\">Zondag worden</a>."]}
  ],
  "faq": [
-  {
-   "q": "Waar vind ik een vaste job overdag zonder weekends in Zwevegem?",
-   "a": "Bij Zondags. We zoeken Zondags in en rond Zwevegem met een vast contract, deeltijds of voltijds, overdag op weekdagen en nooit 's avonds of in het weekend."
-  },
-  {
-   "q": "Moet ik ervaring hebben in poetsen of strijken?",
-   "a": "Nee. Je hebt geen diploma of ervaring nodig. Wie al graag orde houdt, heeft een voorsprong. Bij de start gaan we samen langs bij je klanten."
-  },
-  {
-   "q": "Kan ik voltijds werken?",
-   "a": "Ja. Het contract kan deeltijds of voltijds. Je kiest mee hoeveel dagen je werkt en we bespreken in het gesprek wat voor jou haalbaar is naast je gezin of andere verplichtingen."
-  },
-  {
-   "q": "Kan ik enkel tijdens de schooluren werken?",
-   "a": "Ja. Geef het door bij je sollicitatie en we zoeken klanten waarvoor die uren passen."
-  },
-  {
-   "q": "Wie is mijn werkgever, de klant of Zondags?",
-   "a": "Zondags. Je bent in dienst van Zondags, niet bij de klant en niet als zelfstandige. De klant heeft een zondagsplan met de taken, de uren en de afspraken, en wij houden het contact met hen."
-  }
+  {"q": "Waar vind ik een vaste job overdag zonder weekends in Zwevegem?", "a": "Zondags zoekt mensen in en rond Zwevegem voor een vast contract overdag op weekdagen, bij kantoren, praktijken en winkels. Je solliciteert via het formulier, de chat of WhatsApp."},
+  {"q": "Is deze job iets voor mij als ik van orde houd?", "a": "Waarschijnlijk wel. Een deel van het werk is ordenen, klasseren en netjes klaarzetten. Je kiest mee welke taken je het liefst doet, en discretie en betrouwbaarheid tellen mee."},
+  {"q": "Doe je ook boekhouding?", "a": "Nee. De administratie is ondersteunend: post sorteren, klasseren, afspraken plannen en gegevens invoeren. Geen boekhouding, geen jaarrekeningen, geen fiscaal of juridisch advies en geen loonadministratie."},
+  {"q": "Wat zijn de werkuren?", "a": "Overdag op weekdagen. Vroeg in de ochtend of over de middag kan. Je werkt nooit 's avonds en nooit in het weekend."},
+  {"q": "Heb ik een diploma of ervaring nodig?", "a": "Nee. Je bent minstens 18 jaar, betrouwbaar en discreet, en je spreekt voldoende Nederlands om afspraken te maken. De rest leggen we uit bij de start."},
+  {"q": "Kan ik deeltijds werken?", "a": "Ja. Een vast contract kan deeltijds of voltijds. Je kiest mee je dagen en uren en komt telkens bij dezelfde klanten."}
  ]
 }

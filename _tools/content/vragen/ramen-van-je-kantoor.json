@@ -1,86 +1,79 @@
 {
- "path": "vragen/ramen-van-je-kantoor.html",
  "title": "Wat doe je met de ramen van je kantoor?",
- "desc": "Wat doe je met de ramen van je kantoor? Langs binnen laat je ze gewoon in de poetsronde, langs buiten op hoogte doe je er een specialist voor bijkomen.",
+ "desc": "Wat laat je zelf doen en wat uitbesteden bij de ramen van je kantoor? Binnenkant, buitenkant, frequentie en wat Zondags wel en niet voor je doet.",
  "eyebrow": "Vraag",
  "h1": "Wat doe je met de ramen van je kantoor?",
- "lead": "Ramen horen bij de eerste indruk, maar niet alle ramen zijn hetzelfde werk. Binnenkant is routine, buitenkant op hoogte is iets voor een specialist.",
- "answer": "Ramen langs binnen neem je op in de vaste poetsronde van je kantoor. Zondags (zondags.be) doet dat mee, op een vaste dag, door dezelfde persoon. Ramen langs buiten op hoogte, gevelreiniging en werken op hoogte doet Zondags niet. Daarvoor roep je een gespecialiseerd bedrijf in. Je kantoor blijft zo netjes, zonder dat iemand op een ladder moet.",
+ "lead": "Schone ramen geven een kantoor licht en uitstraling. Maar langs binnen en langs buiten vragen ze een andere aanpak, en soms ook een ander bedrijf.",
+ "answer": "Ramen van je kantoor poets je langs binnen een paar keer per jaar of vaker bij veel passage, en langs buiten laat je gespecialiseerd doen als het op hoogte gebeurt. Zondags (zondags.be) levert een vaste persoon, je Zondag, die ramen en glazen deuren langs binnen doet. Ramen langs buiten op hoogte en gevelreiniging doet Zondags niet. Je boekt per blok van 3 uur aan 60 euro per uur exclusief btw.",
  "facts": [
-  "Ramen langs binnen: in de vaste ronde",
-  "Buitenkant op hoogte: een specialist",
+  "Binnenkant: door je Zondag",
+  "Buitenkant op hoogte: niet bij Zondags",
   "Glazen deuren en tussenwanden mee",
-  "Geen werken op hoogte door Zondags",
-  "Overdag op weekdagen"
+  "Frequentie volgt licht en vuil",
+  "60 euro per uur, per blok van 3 uur"
  ],
  "sections": [
   {
-   "h2": "Binnenkant: gewoon onderdeel van de ronde",
+   "h2": "Binnen en buiten zijn twee verschillende klussen",
    "p": [
-    "Het glas langs binnen krijgt vingerafdrukken, stof en condens. Het hoort bij de wekelijkse of tweewekelijkse beurt, samen met de glazen deuren, tussenwanden en spiegels. Je hoeft er geen aparte afspraak voor te maken.",
-    "Voor veel kleine kantoren volstaat het om de binnenkant om de week mee te nemen. Staat je bureau vlak aan het raam, dan kan het vaker."
+    "Een raam heeft twee kanten, en het beheer ervan loopt vaak uiteen. De binnenkant is dagelijks onderhoud: vingerafdrukken, stof, condens en wat het kantoorleven nu eenmaal achterlaat. De buitenkant is een kwestie van weer, vogels en verkeer, en wordt snel een klus met ladder of werkplatform.",
+    "Zondags neemt de binnenkant voor zijn rekening. Alles wat op hoogte gebeurt of langs de gevel vraagt, laat je liever over aan een bedrijf dat daarin gespecialiseerd is en de juiste uitrusting heeft."
    ]
   },
   {
-   "h2": "Buitenkant: let op de hoogte",
+   "h2": "Wat je Zondag langs binnen doet",
    "p": [
-    "Ramen langs buiten op de begane grond kan je soms zelf nemen. Wie een verdieping hoger zit, of een grote gevel heeft, roept best een specialist. Dat is geen werk voor een Zondag. Zondags doet geen werken op hoogte en geen gevelreiniging.",
-    "Je kan wel samen afspreken wanneer de buitenkant door een specialist gebeurt, zodat je Zondag weet dat de binnenkant daarna weer aan de beurt is."
+    "<ul class=\"ticks\"><li>Ramen langs binnen, op bereikbare hoogte</li><li>Glazen deuren en tussenwanden in het kantoor</li><li>Vensterbanken en radiatoren eronder</li><li>Glazen vergadertafels en balies</li><li>Spiegels in het sanitair en de vestiaire</li></ul>",
+    "Ramen die enkel via een ladder of werkplatform bereikbaar zijn, vallen buiten het werk. Werken op hoogte doet Zondags niet. Ramen die je met beide voeten op de vloer bereikt, zijn geen probleem."
    ]
   },
   {
-   "h2": "Wat je Zondag wel doet aan glas",
+   "h2": "Hoe vaak ramen poetsen?",
    "p": [
-    "<ul class=\"ticks\"><li>Ramen langs binnen</li><li>Glazen deuren en tussenwanden</li><li>Spiegels in vergaderruimte en sanitair</li><li>Vensterbanken en radiatoren eronder</li><li>Glas in vitrines en toonbanken, indien aanwezig</li></ul>",
-    "Een compleet overzicht van wat bij kantoorschoonmaak hoort, vind je op <a href=\"gids/checklist-kantoorschoonmaak.html\">de checklist voor kantoorschoonmaak</a>."
+    "Er is geen universele regel. Glazen deuren aan de ingang en tussenwanden in de wachtruimte vragen meer aandacht dan een raam in een rustige hoek. Een goed vertrekpunt: balie, ingangsdeuren en tussenwanden elke week even afdoen, alle andere ramen langs binnen enkele keren per jaar grondig, bijvoorbeeld bij de seizoenswissel.",
+    "Wie bij zonlicht in zijn kantoor werkt, merkt het meteen als de ramen vuil zijn: strepen en vlekken springen eruit. Dat is meestal het beste moment om een grondige ramenbeurt te plannen."
    ]
   },
   {
-   "h2": "Een praktisch ritme",
+   "h2": "Voorbeeld: een kantoor op de eerste verdieping",
    "p": [
-    "Een goed ritme bestaat uit drie delen: binnenkant mee in de wekelijkse of tweewekelijkse ronde, de buitenkant een paar keer per jaar via een specialist, en tussendoor kleine gewoontes. Hang een doekje bij de koffiehoek, en veeg een vlek weg zodra je ze ziet. Dan blijft de grote beurt klein."
+    "Neem een kantoor op de eerste verdieping van een gebouw, met een glazen wand rond de vergaderzaal. De zaakvoerder laat de glazen wand en de balie elke week doen, en de ramen langs binnen drie keer per jaar. Voor de ramen langs buiten vraagt ze een gespecialiseerd bedrijf, dat meteen ook de gevel meeneemt. Zo blijft de taakverdeling duidelijk."
    ]
   },
   {
-   "h2": "Een voorbeeld: kantoor met glazen vergaderruimte",
+   "h2": "Wat je zelf kan afspreken met het team",
    "p": [
-    "Neem een kantoor met een glazen vergaderruimte aan de straatkant. Elke vingerafdruk valt op voor een bezoeker die in de gang wacht. Je Zondag neemt het glas wekelijks mee in de ronde, en de buitenkant laat je twee keer per jaar door een specialist doen. Zo ziet de ruimte er altijd klaar uit voor een klantenafspraak."
+    "Een raam blijft langer schoon als niemand er met vette vingers tegenaan leunt. Hang geen briefjes op het glas met plakband, en laat radiatoren onder een raam vrij zodat condens kan wegtrekken. Meld je Zondag wanneer een raam klemt of een afdichting scheurt: herstellen is een technische klus die Zondags niet doet."
    ]
   },
   {
-   "h2": "Zaak en woning",
+   "h2": "Prijs en boeken",
    "p": [
-    "Heb je ook thuis ramen die je niet wil wassen? Dezelfde Zondag kan na het kantoor de ramen langs binnen van je woning doen, samen met de rest van het poetsen. Op de factuur staat het beroepsmatige en het privégedeelte apart."
-   ]
-  },
-  {
-   "h2": "Facturatie en start",
-   "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Zondags werkt met een dienstenfactuur op naam van je vennootschap. Het onderhoud van beroepsruimtes is een beroepskost. Voor de woning geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Laat je accountant bevestigen hoe dit in jouw situatie zit.",
-    "Je vraagt aan via het formulier of de chat. Binnen één werkdag belt iemand je terug en de eerste 2 uur zijn gratis."
+    "Ramen langs binnen horen bij een gewone poetsbeurt of komen als apart blok. Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, en ontvangt een factuur op naam van je bedrijf. Boek op de <a href=\"boeken.html\">boekpagina</a> of lees meer op <a href=\"vragen/doet-poetshulp-de-ramen.html\">doet poetshulp ook de ramen</a>."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Wat doe je met de ramen van je kantoor?",
-   "a": "Ramen langs binnen neem je op in de vaste poetsronde, bijvoorbeeld via Zondags. Ramen langs buiten op hoogte laat je door een specialist doen."
+   "q": "Poetst Zondags ook de ramen langs buiten?",
+   "a": "Nee, niet op hoogte en niet de gevel. Ramen langs binnen doet je Zondag wel, op bereikbare hoogte. Voor de buitenkant op hoogte kies je een gespecialiseerd bedrijf."
   },
   {
-   "q": "Doet Zondags ook ramen langs buiten?",
-   "a": "Niet op hoogte. Zondags doet ramen langs binnen. Ramen langs buiten op hoogte en gevelreiniging doet Zondags niet."
+   "q": "Hoe vaak moeten de ramen van een kantoor gepoetst worden?",
+   "a": "Ingangsdeuren, balie en glazen wanden elke week, andere ramen langs binnen enkele keren per jaar. Meer bezoek of veel zonlicht vraagt vaker."
   },
   {
-   "q": "Hoe vaak moeten kantoorramen gewassen worden?",
-   "a": "Langs binnen kan je ze mee laten gaan in elke of elke tweede beurt. Langs buiten volstaat voor veel kantoren een paar keer per jaar, maar dat hangt van je ligging af."
+   "q": "Zijn glazen tussenwanden ook inbegrepen?",
+   "a": "Ja, glazen wanden en deuren langs binnen horen bij het gewone onderhoud. Je Zondag neemt ze mee tijdens haar vaste beurt of in een apart blok."
   },
   {
-   "q": "Worden glazen deuren en tussenwanden ook gepoetst?",
-   "a": "Ja. Glazen deuren, tussenwanden en spiegels horen bij de beurt, net als vensterbanken en de radiatoren eronder. Wat je liever zelf afneemt, bespreek je bij de intake."
+   "q": "Wat als een raam niet bereikbaar is zonder ladder?",
+   "a": "Dan valt het buiten het werk van Zondags, omdat werken op hoogte niet tot onze taken hoort. Laat het door een gespecialiseerd bedrijf doen."
   },
   {
-   "q": "Kan mijn Zondag ook de ramen van mijn woning doen?",
-   "a": "Langs binnen wel. Kantoor en woning kunnen in één plan. Op de factuur staan beroepsmatig en privé apart."
+   "q": "Wat kost een ramenbeurt binnen het kantoor?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Hoeveel uur nodig is, hangt af van het aantal ramen en glazen wanden."
   }
- ]
+ ],
+ "path": "vragen/ramen-van-je-kantoor.html"
 }

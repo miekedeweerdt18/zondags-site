@@ -1,38 +1,91 @@
 {
- "path": "regio/schoonmaak-praktijk-aalbeke.html",
- "title": "Schoonmaakhulp voor praktijken in Aalbeke",
- "desc": "Schoonmaakhulp voor je praktijk in Aalbeke: wachtzaal, onthaal en behandelruimtes door één vaste Zondag, met zaak en woning in één plan en één factuur.",
+ "title": "Schoonmaakhulp voor praktijken in Aalbeke (8511)",
+ "desc": "Schoonmaakhulp voor praktijken en familiebedrijven met een klein team in Aalbeke. Eén vaste persoon, 60 euro per uur exclusief btw, per blok van 3 uur.",
  "eyebrow": "Aalbeke · 8511",
  "h1": "Schoonmaakhulp voor praktijken in Aalbeke",
- "lead": "Een praktijk aan huis vraagt dubbel werk: de wachtzaal moet blinken en daarna wacht je eigen woning. Een vaste Zondag houdt beide in Aalbeke in orde.",
- "answer": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken in Aalbeke, een deelgemeente van Kortrijk: wachtzaal, onthaal, consultatie- en behandelruimtes en sanitair. Sterilisatie en medisch materiaal blijven bij de praktijk zelf. Het werk doet steeds dezelfde persoon, overdag op weekdagen. Zaak en woning kunnen in één plan, met één dienstenfactuur op naam van je vennootschap.",
- "facts": ["Wachtzaal, onthaal, consultatieruimtes", "Geen sterilisatie of medisch materiaal", "Zaak en woning in één plan", "Vaste Zondag, vaste dag", "Factuur aan je vennootschap"],
+ "lead": "In een familiebedrijf of een groepspraktijk met een klein team heeft niemand tijd om te poetsen. In Aalbeke komt daarvoor één vaste persoon, op een dag die jij kiest.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken en familiebedrijven met een klein team in Aalbeke, een deelgemeente van Kortrijk met postcode 8511. Je Zondag, steeds dezelfde persoon, onderhoudt overdag op een weekdag wachtzaal, praktijkruimtes, bureau, keuken en sanitair. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je vennootschap.",
+ "facts": [
+  "Praktijken en familiebedrijven in Aalbeke",
+  "Voor teams waar niemand tijd heeft",
+  "Steeds dezelfde vaste persoon",
+  "Factuur op naam van je vennootschap",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Een praktijk is een eerste indruk", "p": [
-   "Patiënten en cliënten beoordelen een praktijk op wat ze zien. Een nette wachtzaal, een leeg afvalmandje en een fris toilet zeggen ook iets over je werk. In Aalbeke werken veel vrije beroepen vanuit een eigen pand, vaak naast hun woning. Dat maakt het poetsen dubbel zo zwaar: je zorgt voor je cliënten en voor je eigen huis.",
-   "Een vaste Zondag neemt dat samen over. Dezelfde persoon, op een vaste dag, die de ruimtes kent en weet waar de materialen staan."]},
-  {"h2": "Neem een logopediste met een praktijk aan huis", "p": [
-   "Neem een logopediste in Aalbeke die behandelt in een ruimte aan de straatkant van haar woning. Op woensdagochtend, voor de eerste cliënt, komt haar Zondag: wachtzaal, onthaal, behandelruimte en sanitair. Speelgoed en oefenmateriaal blijven waar ze liggen, want dat beheert zijzelf. De Zondag werkt eromheen.",
-   "Daarna gaat dezelfde persoon naar het woongedeelte voor de was, de strijk en het poetsen. Het gaat om twee soorten ruimte, maar het is één vaste persoon en één afspraak."]},
-  {"h2": "Wat je Zondag doet en wat bij jou blijft", "p": [
-   "<ul class=\"ticks\"><li>Wachtzaal, stoelen en tafeltjes afnemen</li><li>Onthaal en balie</li><li>Consultatie- en behandelruimtes, vloeren en meubilair</li><li>Sanitair, lavabo's en spiegels</li><li>Afval en recyclage</li></ul>",
-   "Sterilisatie, instrumenten en medisch materiaal blijven bij de praktijk. Dat is geen taak van een Zondag. Wat je wil laten reinigen, bespreken we bij de intake. Voor een eigen checklist kan je ook kijken op <a href=\"gids/checklist-praktijkschoonmaak.html\">de checklist voor praktijkschoonmaak</a>."]},
-  {"h2": "Zaak en woning, familie en gezin", "p": [
-   "Wie een familiebedrijf heeft, kent het: werk en thuis lopen door elkaar. Kinderen komen binnen terwijl er een cliënt wacht, en het gezinsleven vult de avonden. Een Zondag kan naast het poetsen ook koken, boodschappen doen of de kinderen ophalen, afhankelijk van wat je in het plan opneemt.",
-   "Zo hoef je niet op zondagavond je praktijk te poetsen en daarna je woning."]},
-  {"h2": "Aalbeke en omgeving", "p": [
-   "Aalbeke hoort bij Kortrijk. Dichtbij liggen Rollegem, Marke, Rekkem en Lauwe. We zoeken Zondags in en rond Aalbeke, zodat je Zondag dichtbij woont en geregeld kan komen."]},
-  {"h2": "Facturatie en fiscaal", "p": [
-   "Een vennootschap kan geen dienstencheques kopen. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van de praktijk is een beroepskost. Voor het privégedeelte, de woning, geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren.",
-   "Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren; een btw-plichtige zaak met aftrekrecht in principe wel op het beroepsmatige deel. Laat je accountant dit bevestigen voor jouw situatie."]},
-  {"h2": "Zo start je", "p": [
-   "Je vraagt aan via het formulier of de chat. Binnen één werkdag belt iemand je terug. Daarna volgt de intake in je praktijk, maken we samen het zondagsplan en zijn de eerste 2 uur gratis. Prijs op maat, maandelijks opzegbaar."]}
+  {
+   "h2": "Als niemand in het team het poetsen als taak heeft",
+   "p": [
+    "In een klein bedrijf waar iedereen meerdere functies combineert, valt het poetsen tussen wal en schip. De zaakvoerder neemt het in noodgevallen zelf, een medewerker doet een keer de koffiehoek, en na een paar weken weet niemand nog wat wanneer gebeurd is. Zelfs voor een familiebedrijf waar de taken vanzelf worden verdeeld, is dat een onrustig systeem.",
+    "Met een vaste Zondag leg je dat één keer vast. Ze komt op een afgesproken dag en een afgesproken uur, en je team merkt dat alles gewoon blijft lopen."
+   ]
+  },
+  {
+   "h2": "Neem een logopediste met een groepspraktijk",
+   "p": [
+    "Neem een logopediste die met twee collega's een groepspraktijk deelt. Er is een gemeenschappelijke wachtruimte, drie therapielokalen en een keukentje. Tussen de sessies door is er amper tijd voor een tafel, laat staan voor de vloer. Op donderdagochtend, voor de eerste cliënt, komt de Zondag van de praktijk. Ze neemt de wachtruimte, de therapielokalen en het keukentje onder handen, reinigt het sanitair en zet het afval buiten.",
+    "Wat de therapeuten zelf op hun tafels leggen, laat ze zoals het ligt. Dossiers en materiaal rondom therapie blijven bij het team."
+   ]
+  },
+  {
+   "h2": "Een vast patroon in een praktijk",
+   "p": [
+    "<ul class=\"ticks\"><li>Wachtruimte en onthaal afnemen</li><li>Praktijkruimtes stofvrij en vloeren schoon</li><li>Sanitair reinigen en navullen</li><li>Keukentje en koffiehoek opfrissen</li><li>Ramen en glazen deuren langs binnen</li><li>Afval en papier buiten zetten</li></ul>",
+    "Sterilisatie of medisch materiaal en werken op hoogte horen niet bij het aanbod. Meer over wat wel kan, lees je op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."
+   ]
+  },
+  {
+   "h2": "Voor familiebedrijven met een bureau en een ploeg",
+   "p": [
+    "Ook een familiebedrijf in Aalbeke met een bureau, een refter en een paar medewerkers kan op die manier werken. De Zondag poetst het bureau, de refter en het sanitair, en kan meteen het regelwerk oppakken dat in de drukte blijft liggen: post sorteren, een bestelling kantoormateriaal klaarzetten, pakjes ophalen.",
+    "Boekhouding en advies zijn geen onderdeel van het werk."
+   ]
+  },
+  {
+   "h2": "Aalbeke, Rollegem, Rekkem en Lauwe",
+   "p": [
+    "Aalbeke is een deelgemeente van Kortrijk. Voor praktijken en bedrijven in Aalbeke, Rollegem, Marke, Rekkem, Lauwe of Kortrijk zoeken we een Zondag die in de buurt woont."
+   ]
+  },
+  {
+   "h2": "Eén tarief",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, geboekt per blok van 3 uur: 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief. Je krijgt een factuur op naam van je vennootschap. Het is in principe een beroepskost. Een btw-plichtige zaak met aftrekrecht kan de btw in principe recupereren, een btw-vrijgestelde praktijk doorgaans niet. Laat je accountant het bevestigen."
+   ]
+  },
+  {
+   "h2": "Hoe je start",
+   "p": [
+    "Via de <a href=\"boeken.html\">boekpagina</a> kies je een weekdag, het aantal blokken en de taken, en betaal je online. Voor een vast ritme spreken we eerst kort af."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf levert schoonmaakhulp voor praktijken in Aalbeke?", "a": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken in Aalbeke en de rest van Kortrijk. Je krijgt steeds dezelfde persoon en één dienstenfactuur op naam van je vennootschap."},
-  {"q": "Reinigt een Zondag ook medisch materiaal?", "a": "Nee. Sterilisatie en medisch materiaal blijven bij de praktijk zelf. Een Zondag poetst wachtzaal, onthaal, consultatieruimtes en sanitair."},
-  {"q": "Kan mijn praktijk en mijn woning door dezelfde persoon gepoetst worden?", "a": "Ja. Zaak en woning kunnen in één zondagsplan. Op de factuur staat het beroepsmatige en het privégedeelte apart, zodat je accountant het kan verwerken."},
-  {"q": "Wanneer wordt de praktijk gepoetst?", "a": "Overdag op weekdagen, vroeg in de ochtend of over de middag. We stemmen het af op je consultaties, zodat cliënten er niets van merken."},
-  {"q": "Hoe weet mijn Zondag wat er moet gebeuren?", "a": "Bij de intake maken we samen het zondagsplan met de taken, de uren en de afspraken. Je Zondag volgt dat plan elke keer, en je past het aan wanneer dat nodig is."}
- ]
+  {
+   "q": "Wie doet schoonmaakhulp voor praktijken in Aalbeke?",
+   "a": "Zondags uit Marke, een deelgemeente van Kortrijk. Je krijgt één vaste persoon in dienst van Zondags voor je wachtruimte, praktijkruimtes en sanitair."
+  },
+  {
+   "q": "Wat kost het voor een groepspraktijk?",
+   "a": "60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw, en kan extra uren bijboeken aan hetzelfde tarief."
+  },
+  {
+   "q": "Is de Zondag in dienst of zelfstandig?",
+   "a": "In dienst van Zondags en gescreend. Het gaat niet om een zelfstandige poetshulp, en je krijgt een factuur van Zondags."
+  },
+  {
+   "q": "Kan het poetsen buiten de therapie-uren?",
+   "a": "Ja. Vroeg in de ochtend of over de middag kan op weekdagen. 's Avonds en in het weekend werkt Zondags niet."
+  },
+  {
+   "q": "Kan de Zondag ook post en pakjes oppakken?",
+   "a": "Ja, als ondersteunend regelwerk: post sorteren, pakjes klaarmaken, kantoormateriaal bestellen. Boekhouding hoort er niet bij."
+  },
+  {
+   "q": "Wat als mijn Zondag niet bij de praktijk past?",
+   "a": "Klikt het niet tussen jou en je Zondag, dan zoeken we samen een andere Zondag. Zo blijf je werken met iemand die bij jouw praktijk past en die je team graag ziet komen."
+  }
+ ],
+ "path": "regio/schoonmaak-praktijk-aalbeke.html"
 }

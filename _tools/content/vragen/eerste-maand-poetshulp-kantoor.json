@@ -1,78 +1,87 @@
 {
  "path": "vragen/eerste-maand-poetshulp-kantoor.html",
- "title": "De eerste maand met poetshulp op je kantoor",
- "desc": "Van intake tot evaluatie: zo verloopt de eerste maand met een vaste poetshulp op kantoor, met de eerste 2 uur gratis en een plan dat je kan bijsturen.",
- "eyebrow": "Vraag · Eerste maand",
+ "title": "De eerste maand met poetshulp op kantoor",
+ "desc": "Hoe verloopt de eerste maand met een vaste poetshulp op kantoor? Een weekplan van het gesprek tot de evaluatie, met tips om goed te starten.",
+ "eyebrow": "Vraag",
  "h1": "Hoe verloopt de eerste maand met een poetshulp op kantoor?",
- "lead": "De eerste maand is een kennismaking in vier stappen: een gesprek, de eerste bezoeken, bijsturen en een evaluatie. Zo weet je wat je mag verwachten en waar je zelf op let.",
- "answer": "De eerste maand met een poetshulp op kantoor start met een intake ter plaatse en een zondagsplan, gevolgd door vaste bezoeken waarin je het plan bijstuurt. Bij Zondags (zondags.be) komt steeds dezelfde persoon, op een vaste dag en een vast uur. De eerste 2 uur zijn gratis om kennis te maken, het plan blijft aanpasbaar en het abonnement is maandelijks opzegbaar, zodat je na een maand rustig kan beslissen of het past.",
+ "lead": "De eerste weken bepalen of een poetshulp een vaste waarde wordt. Met een duidelijk beginplan en een korte evaluatie na de eerste beurten weet je snel of het werkt.",
+ "answer": "De eerste maand met een Zondag verloopt in vier stappen: afspraken maken, de eerste beurt samen bekijken, bijsturen en evalueren. Zondags (zondags.be) legt in het zondagsplan taken, dag en uur vast, zodat je steeds dezelfde persoon op hetzelfde moment krijgt. Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, en krijgt een factuur op naam van je bedrijf.",
  "facts": [
-  "Start met een intake ter plaatse",
-  "Steeds dezelfde Zondag",
-  "Eerste 2 uur gratis",
-  "Plan bijsturen kan",
-  "Maandelijks opzegbaar"
+  "Week één: afspraken en eerste beurt",
+  "Week twee: bijsturen van taken",
+  "Week drie: ritme en kleine wensen",
+  "Week vier: korte evaluatie",
+  "60 euro per uur, per blok van 3 uur"
  ],
  "sections": [
   {
-   "h2": "Voor de eerste poetsbeurt: aanvraag, gesprek en plan",
+   "h2": "Voor de eerste beurt: leg het kader vast",
    "p": [
-    "Je eerste maand begint al voor de eerste poetsbeurt. Na je aanvraag neemt iemand van Zondags binnen één werkdag telefonisch contact met je op. Daarna komen we langs op je kantoor, lopen we samen door de ruimtes en bespreken we wat er moet gebeuren, op welke dag en op welk uur. Alles wat jullie afspreken, komt in je zondagsplan.",
-    "Denk vooraf na over drie praktische punten: wie de sleutel bewaart, welke lokalen of kasten dicht blijven en wie in je team het vaste aanspreekpunt wordt. Met die drie antwoorden start je Zondag zonder wrijving."
+    "Voor je Zondag voor het eerst binnenstapt, weet je wat je wil. Bij een vast plan bespreken we in een kort gesprek welke ruimtes en taken erbij horen, welke dag en welk uur passen en wat je liever zelf houdt. Alles komt in het zondagsplan. Wil je eerst een proefbeurt, dan boek je een blok van 3 uur op de <a href=\"boeken.html\">boekpagina</a> en bekijk je hoe het loopt.",
+    "Regel ook het praktische. Wie geeft de sleutel of toegangscode? Waar staat het poetsmateriaal? Welke kasten of bureaus blijven dicht?"
    ]
   },
   {
-   "h2": "Week één: kijken hoe het voelt",
+   "h2": "Week één: de eerste beurt",
    "p": [
-    "In de eerste week komt je Zondag op het afgesproken moment. Loop na het eerste bezoek zelf even rond. Liggen de bureaus netjes, is het sanitair in orde, staat de keuken er verzorgd bij? Schrijf op wat goed is en wat anders mag, ook kleine dingen zoals de plaats van de vuilbak. Omdat de eerste 2 uur gratis zijn, hoef je in deze week nog niet alles te weten."
+    "Zorg dat er die ochtend iemand aanwezig is die de nieuwe Zondag kort rondleidt. Toon de keuken, het sanitair, de afvalplaats en de ruimtes met vertrouwelijke papieren. Een rondleiding van tien minuten voorkomt twintig vragen later.",
+    "Verwacht niet dat alles meteen perfect loopt. Een Zondag die jouw kantoor leert kennen, werkt de eerste keer wat trager, en dat is normaal. Kijk achteraf vooral naar het resultaat in de ruimtes die je team het meest gebruikt."
    ]
   },
   {
-   "h2": "Week twee en drie: het plan bijschaven",
+   "h2": "Week twee: bijsturen",
    "p": [
-    "Nu merk je wat het plan nog mist. Misschien moet de vergaderzaal vaker aan de beurt, of blijkt de koffiehoek het drukst. Geef dat door, want extra uren bijboeken of het plan aanpassen is mogelijk. Omdat steeds dezelfde persoon komt, komt elke opmerking bij één gezicht terecht en hoef je niets twee keer uit te leggen."
+    "Nu heb je twee beurten gezien. Noteer wat opvalt en geef het door, bij voorkeur kort en concreet. Dat kan over de volgorde gaan, over een vergadertafel die je liever vroeger gedaan wil, of over de koffiehoek die extra aandacht vraagt.",
+    "<ul class=\"ticks\"><li>Wat mag blijven zoals het is?</li><li>Wat vraagt een ander moment of een andere volgorde?</li><li>Welke taak ontbreekt in het plan?</li><li>Welke taak hoort er eigenlijk niet bij?</li></ul>"
    ]
   },
   {
-   "h2": "Wat jij en je team in de eerste maand doen",
+   "h2": "Week drie: het ritme zit erin",
    "p": [
-    "<ul class=\"ticks\"><li>Het team kort inlichten over wie er komt en wanneer</li><li>Bureaus op de poetsdag zo vrij mogelijk laten</li><li>Vertrouwelijke dossiers opbergen</li><li>Eén aanspreekpunt aanduiden voor opmerkingen</li><li>Na elk bezoek kort vaststellen wat opviel</li></ul>",
-    "Dat is geen zware opdracht. Een paar minuten aandacht per week volstaat om de aanpak van je Zondag scherp te stellen."
+    "Zodra je Zondag op vaste dag en uur komt, merkt je team het ritme. Collega's leren waar ze hun bureau vrijmaken en wat ze beter niet laten liggen. Gebruik dit moment om kleine afspraken te maken, bijvoorbeeld over de keuken: vaat in de lade, de frigo op een vaste dag leeg.",
+    "Heb je daarnaast een klus die blijft liggen, zoals de post sorteren of kantoormateriaal bijbestellen, dan kan je Zondag dat oppakken. Boekhouding of fiscaal advies hoort daar niet bij."
    ]
   },
   {
-   "h2": "Aan het einde: evaluatie en boekhouding",
+   "h2": "Week vier: evalueer met een korte lijst",
    "p": [
-    "Neem na ongeveer vier weken een kwartier om te evalueren. Wat loopt vlot, wat wil je aanpassen, volstaan de uren? De factuur komt als dienstenfactuur op naam van je vennootschap. Wat je aan het poetsen van je kantoor besteedt, is een beroepskost; hoe je dat precies verwerkt en wat daarvoor in jouw situatie geldt, bevestigt je accountant. Meer over de aanpak voor kantoren lees je bij <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."
+    "Plan zelf een kort evaluatiemoment van een kwartier, met je Zondag of met jezelf. Loop dezelfde vragen af: ziet het kantoor er verzorgd uit, past dag en uur, is er voldoende tijd voor de taken, voelt je team zich goed bij de persoon? Past het uurtotaal niet, dan boek je extra uren aan dezelfde 60 euro per uur of hou je het bij minder.",
+    "Klikt het niet, dan zoeken we samen een andere Zondag. Je hoeft dus niet bij nul te beginnen."
    ]
   },
   {
-   "h2": "Als het niet klikt of je wil stoppen",
+   "h2": "Voorbeeld: een architectenbureau met vijf medewerkers",
    "p": [
-    "Past je Zondag niet bij je team, zeg dat dan en we kiezen samen iemand anders. Wil je helemaal stoppen, dan zeg je het abonnement op, en dat kan maandelijks. Je weet dus aan het einde van de eerste maand, zonder druk, of dit bij je kantoor past."
+    "Stel: je bureau heeft vijf bureaus, een maquettetafel en een kleine keuken. De eerste maand begint met één blok van 3 uur op woensdagochtend. Na twee weken blijkt dat de maquettetafel meer aandacht vraagt dan verwacht, dus de taken in het plan worden herschikt. Na vier weken bevestig je het ritme en vraag je een extra blok voor drukke weken."
+   ]
+  },
+  {
+   "h2": "Wat je aan het einde van de maand weet",
+   "p": [
+    "Je weet of de samenwerking past, hoeveel uren je echt nodig hebt en welke taken best bij je Zondag blijven. De factuur komt op naam van je bedrijf, met je btw-nummer. Het onderhoud is in principe een beroepskost; laat je accountant bevestigen hoe dat in jouw situatie werkt."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Moet ik zelf aanwezig zijn tijdens de eerste poetsbeurt?",
-   "a": "Verplicht is dat niet. Het helpt wel om het eerste bezoek mee te maken of er kort na rond te lopen, zodat je meteen kan bijsturen. Waar de sleutel ligt en wie je team ontvangt, leg je vast in het zondagsplan."
+   "q": "Hoe lang duurt het voor een poetshulp mijn kantoor kent?",
+   "a": "Meestal enkele beurten. Na de eerste twee of drie keer weet je Zondag waar alles staat en wat je team belangrijk vindt. Geef kleine opmerkingen meteen door, zo loopt het sneller."
   },
   {
-   "q": "Kan ik in de eerste maand extra uren bijboeken?",
-   "a": "Ja, extra uren bijboeken of het plan aanpassen is mogelijk, bijvoorbeeld wanneer de keuken of de vergaderzaal vaker aan de beurt moet. Geef dat gewoon door aan Zondags, dan stemmen we het zondagsplan opnieuw met jou af."
+   "q": "Moet ik tijdens de eerste beurt aanwezig zijn?",
+   "a": "Het helpt zeker. Iemand van je team kan de ruimtes tonen en uitleggen wat vertrouwelijk is. Daarna werkt je Zondag zelfstandig op de afgesproken dag en het afgesproken uur."
   },
   {
-   "q": "Wat gebeurt er als mijn Zondag in de eerste maand ziek is?",
-   "a": "Dan zoeken wij een oplossing voor de periode dat je Zondag er niet is. Een vaste vervanger voor elk moment beloven we niet vooraf, maar je hoeft zelf geen vervanger te zoeken."
+   "q": "Wat als het resultaat in de eerste weken tegenvalt?",
+   "a": "Bespreek het meteen en concreet. Soms past je plan niet bij het aantal uren. Klikt het niet met de persoon, dan zoeken we samen een andere Zondag."
   },
   {
-   "q": "Kan ik na de eerste maand nog stoppen?",
-   "a": "Ja. Je kan het abonnement maandelijks opzeggen. Na de eerste maand beslis je dus vrij of je doorgaat, het plan aanpast of stopt, zonder lange verbintenis. Een korte evaluatie na ongeveer vier weken helpt je om die keuze te maken."
+   "q": "Kan ik het aantal uren na een maand aanpassen?",
+   "a": "Ja. Extra uren boek je aan dezelfde 60 euro per uur exclusief btw, en een blok blijft 3 uur. Zo groei of krimp je mee met je zaak."
   },
   {
-   "q": "Wanneer weet ik of de poetshulp bij mijn kantoor past?",
-   "a": "Je hoeft niets te forceren. Omdat de eerste 2 uur gratis zijn, kan je rustig kennismaken, en daarna kan je elke maand bijsturen of opzeggen. Een evaluatie na de eerste vier weken is een goed moment om te kijken hoe het loopt."
+   "q": "Hoe boek ik de eerste beurt?",
+   "a": "Kies op de boekpagina een weekdag, minstens twee werkdagen vooraf, het aantal blokken en de taken. Geef de naam en het btw-nummer van je bedrijf en betaal online met kaart of Bancontact."
   }
  ]
 }

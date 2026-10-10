@@ -1,80 +1,38 @@
 {
  "path": "werken/vaste-job-overdag-torhout.html",
  "title": "Vaste job overdag zonder weekends in Torhout",
- "desc": "Weg uit de horeca, naar een vaste job overdag in Torhout zonder avonden en weekends. Deeltijds of voltijds bij vaste klanten. Solliciteer bij Zondags.",
- "eyebrow": "Vaste job · Torhout",
+ "desc": "Uit de horeca en klaar met avonden en weekends? Een vast contract overdag in Torhout bij vaste bedrijven: poetsen, administratie en regelwerk. Solliciteer.",
+ "eyebrow": "Vaste job overdag · Torhout · 8820",
  "h1": "Vaste job overdag zonder weekends in Torhout",
- "lead": "Je hebt jarenlang gewerkt als anderen vrij waren. Een vaste job overdag in Torhout betekent dat je avonden en weekends weer van jou zijn.",
- "answer": "Zondags (zondags.be) zoekt Zondags in en rond Torhout voor een vaste job overdag zonder weekends. Je krijgt een vast contract, deeltijds of voltijds, en werkt bij vaste klanten zoals ondernemers, praktijken, kantoren en gezinnen. Ook zij-instromers zonder ervaring in het huishouden zijn welkom. Je solliciteert via het formulier, de chat of WhatsApp.",
- "facts": [
-  "Vast contract",
-  "Deeltijds of voltijds",
-  "Nooit avonden of weekends",
-  "Ook voor zij-instromers",
-  "Verloning boven het barema"
- ],
+ "lead": "Je hebt jaren in de horeca gewerkt en wil je avonden en weekends terug. In Torhout kan je als zij-instromer starten als Zondag, met een vast contract en een dagrooster.",
+ "answer": "Zondags (zondags.be) zoekt mensen in en rond Torhout voor een vaste job overdag zonder weekends, ook zij-instromers uit de horeca. Je krijgt een vast contract, deeltijds of voltijds, en werkt als Zondag op weekdagen bij kantoren, praktijken, winkels en bedrijfsleiders in de regio Brugge. Je komt in aanmerking zonder diploma of ervaring in poetsen of administratie. Verloning ligt boven het barema.",
+ "facts": ["Zij-instromers uit de horeca welkom", "Vast contract, deeltijds of voltijds", "Overdag op weekdagen", "Geen avonden, geen weekends", "Geen diploma of ervaring nodig"],
  "sections": [
-  {
-   "h2": "Stel: je komt uit de horeca",
-   "p": [
-    "Je kent het ritme: weekenden vol, feestdagen op post, 's avonds laat naar huis. Je bent goed met mensen, je werkt hard en je hebt een oog voor detail. Alleen mis je het gewone leven: een weekend met je gezin, een avond op een vaste dag in de week.",
-    "Wat je uit de horeca meebrengt, telt als Zondag. Je weet hoe je een ruimte klaarzet, hoe je met mensen omgaat en hoe je tijd indeelt. Dat zijn precies de dingen waarvoor klanten een vaste persoon zoeken."
-   ]
-  },
-  {
-   "h2": "Je wordt iemands Zondag",
-   "p": [
-    "Bij Zondags ben je geen anonieme schoonmaakhulp. Je bent de vaste persoon bij een ondernemer, een praktijk, een kantoor of een gezin. Dezelfde mensen, dezelfde dag, hetzelfde uur. Ze weten wie jij bent en jij weet wat zij nodig hebben.",
-    "Je werkt in dienst van Zondags met een vast contract, deeltijds of voltijds. De verloning ligt boven het barema, verplaatsingen worden vergoed en alles is correct in orde op papier."
-   ]
-  },
-  {
-   "h2": "Een voorbeeld van een werkdag",
-   "p": [
-    "In de voormiddag ben je bij een zelfstandige met een eigen zaak, waar je de werkplek verzorgd achterlaat voor de klanten komen. Over de middag kook je bij een gezin voor de rest van de week. In de namiddag haal je kinderen op uit de opvang of strijk je een stapel was.",
-    "Elke week ongeveer hetzelfde, bij dezelfde mensen, zodat het een rustig en voorspelbaar ritme wordt waar je gezin ook rekening mee kan houden. De taken staan in het zondagsplan van de klant, dus je weet wat je moet doen."
-   ]
-  },
-  {
-   "h2": "Wat je nodig hebt",
-   "p": [
-    "<ul class=\"ticks\"><li>Betrouwbaarheid en discretie</li><li>Zorg voor andermans huis</li><li>Voldoende Nederlands om afspraken te maken</li><li>Vanaf 18 jaar</li></ul>",
-    "Een diploma of ervaring in poetsen is niet nodig. Voor wie nieuw is in dit werk gaan we bij de start samen langs bij je klanten, zodat je niet alleen voor een onbekende deur staat en meteen ziet hoe het zondagsplan van die klant eruitziet."
-   ]
-  },
-  {
-   "h2": "Torhout, Lichtervelde, Kortemark en verder",
-   "p": [
-    "We zoeken Zondags in en rond Torhout. Woon je in Lichtervelde, Kortemark, Zedelgem, Ichtegem of Oostkamp, dan bekijken we klanten dicht bij je woonplaats. Zo hou je meer van je dag over en word je geen uren kwijt aan de baan. Dat telt zeker als je overdag werkt en je gezin thuis op je wacht."
-   ]
-  },
-  {
-   "h2": "Zo begin je",
-   "p": [
-    "Meld je aan via het formulier, de chat of WhatsApp op 0470 56 53 58. We bellen je binnen de twee werkdagen voor een kort gesprek over je uren en wat je graag doet. Meer algemene uitleg vind je op <a href=\"jobs/vaste-job-flexibele-uren.html\">vaste job met flexibele uren</a>."
-   ]
-  }
+  {"h2": "Van de zaal naar het kantoor", "p": [
+   "Stel: je werkte jarenlang in een restaurant of café. Je kent het tempo, je weet hoe je met mensen omgaat en je ziet meteen wanneer iets niet netjes is. Wat je niet meer wil, zijn de late diensten en de zaterdagen die niet meer in je leven passen.",
+   "Precies die kwaliteiten gebruikt een Zondag elke dag: oog voor detail, een vlotte omgang, discretie en een vast ritme. Je stapt over naar een rooster op weekdagen, bij bedrijven die een betrouwbare vaste persoon zoeken."]},
+  {"h2": "Wat je van de horeca meeneemt", "p": [
+   "Veel van wat je kent, vind je terug. Een kantoor zonder bureauvuil, een koffiehoek die gevuld is en een refter die er verzorgd bijligt, vragen dezelfde nauwkeurigheid als een goed gedekte tafel.",
+   "<ul class=\"ticks\"><li>Een rustige, snelle werkhouding en oog voor orde</li><li>Omgaan met klanten, collega's en zaakvoerders</li><li>Zelfstandig plannen van je eigen ronde</li><li>Discreet omgaan met wat je op een werkplek ziet en hoort</li></ul>",
+   "Nieuw voor je is de administratieve kant: post sorteren, klasseren en afspraken plannen. Die leer je stap voor stap."]},
+  {"h2": "Een week zonder avond en weekend", "p": [
+   "Neem een voltijdse week. Op maandag poets je in de vroege ochtend een kantoor, voor het team binnenkomt. Dinsdag help je een zaakvoerder met post en pakjes. Woensdag staat een praktijk op het programma, donderdag een winkel en vrijdag is het regelwerk: kantoormateriaal bestellen, de koffiehoek aanvullen, leveranciers bellen voor kleine zaken.",
+   "Daarna is het weekend echt weekend. Je telefoon blijft stil en je agenda is voor jou."]},
+  {"h2": "Torhout en de buurgemeenten", "p": [
+   "Torhout heeft postcode 8820. We zoeken Zondags in en rond Torhout, ook als je in Lichtervelde, Kortemark, Zedelgem, Ichtegem of Oostkamp woont. De streek hoort bij de regio Brugge.",
+   "Zoek je werk in een iets andere gemeente, kijk dan naar <a href=\"werken/vaste-job-overdag-zedelgem.html\">de vaste job overdag in Zedelgem</a>."]},
+  {"h2": "Contract en verloning", "p": [
+   "Je bent in dienst van Zondags met een vast contract, deeltijds of voltijds. Wie liefst enkel binnen kantooruren werkt, kan dat. Alles staat correct op papier, je verloning ligt boven het barema en je verplaatsingen worden vergoed.",
+   "Wil je eerst voelen of dit bij je past, dan bespreken we in het eerste gesprek ook welke opbouw je het liefst hebt."]},
+  {"h2": "Hoe je solliciteert", "p": [
+   "Stuur het formulier in, start de chat of schrijf via WhatsApp naar 0470 56 53 58. Binnen twee werkdagen bellen we je voor een kort gesprek. Klikt het, dan zoeken we klanten dicht bij je woonplaats en gaan we bij de start samen langs. Elke klant heeft een zondagsplan met taken, uren en afspraken. Meer lees je op <a href=\"zondag-worden.html\">de pagina over Zondag worden</a>."]}
  ],
  "faq": [
-  {
-   "q": "Waar vind ik een vaste job overdag zonder weekends in Torhout?",
-   "a": "Bij Zondags. We zoeken Zondags in en rond Torhout met een vast contract, deeltijds of voltijds, overdag op weekdagen en zonder avonden of weekends."
-  },
-  {
-   "q": "Kan ik na jaren in de horeca bij Zondags beginnen?",
-   "a": "Ja. Je hebt geen ervaring in het huishouden nodig. Wat telt is betrouwbaarheid, discretie en zorg voor andermans huis."
-  },
-  {
-   "q": "Is het contract deeltijds of voltijds?",
-   "a": "Beide kunnen. Je kiest mee hoeveel dagen je werkt. Ook enkel binnen de schooluren kan, als dat voor jou beter past."
-  },
-  {
-   "q": "Wat doet een Zondag op een dag?",
-   "a": "Huishouden en poetsen, was en strijk, koken, boodschappen, kinderen ophalen, licht tuinwerk of een kantoor onderhouden. Je kiest mee welke taken je doet."
-  },
-  {
-   "q": "Verdien ik meer dan in de horeca?",
-   "a": "Dat kunnen we niet vergelijken zonder jouw situatie te kennen. We bieden verloning boven het barema en vergoede verplaatsingen. Het precieze loon bespreken we in het gesprek."
-  }
+  {"q": "Waar vind ik een vaste job overdag zonder weekends in Torhout?", "a": "Zondags zoekt mensen in en rond Torhout voor een vast contract overdag op weekdagen, bij kantoren, praktijken en winkels. Je solliciteert via het formulier, de chat of WhatsApp."},
+  {"q": "Kan ik als zij-instromer uit de horeca starten?", "a": "Ja. Je hebt geen diploma of ervaring in poetsen of administratie nodig. Je omgang met mensen, je tempo en je oog voor orde zijn een goede basis, en we gaan bij de start samen langs bij je klanten."},
+  {"q": "Hoe zit het met avonden en weekends?", "a": "Nooit. Je werkt overdag op weekdagen. Vroeg in de ochtend of over de middag kan, maar je avonden en weekends blijven vrij."},
+  {"q": "Kan ik deeltijds beginnen?", "a": "Ja. Een vast contract kan deeltijds of voltijds. Je kiest mee je dagen en uren, en eens afgesproken ligt je rooster vast."},
+  {"q": "Moet ik administratie kunnen doen?", "a": "Niet vooraf. Je kiest mee welke taken je graag doet. De administratieve kant is ondersteunend, zoals post sorteren en klasseren, en wordt bij de start uitgelegd."},
+  {"q": "Worden mijn verplaatsingen vergoed?", "a": "Ja. Verplaatsingen worden vergoed en je verloning ligt boven het barema. Alles staat correct op papier, want je bent in dienst van Zondags."}
  ]
 }

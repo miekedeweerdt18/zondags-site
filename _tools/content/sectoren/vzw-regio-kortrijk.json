@@ -1,81 +1,88 @@
 {
  "path": "sectoren/vzw-regio-kortrijk.html",
- "title": "Poetshulp voor vzw's in Kortrijk en omgeving",
- "desc": "Poetshulp voor het secretariaat, de ontmoetingsruimte, keuken en sanitair van je vzw in Kortrijk en de deelgemeenten, met een factuur op naam van de vzw.",
- "eyebrow": "vzw's · regio Kortrijk",
+ "title": "Poetshulp voor vzw's en verenigingen in Kortrijk",
+ "desc": "Een vaste Zondag voor het secretariaat of lokaal van je vzw in Kortrijk, de deelgemeenten en de buurgemeenten. Factuur op naam van de vzw, online te boeken.",
+ "eyebrow": "Vzw's · Kortrijk 8500",
  "h1": "Poetshulp voor vzw's en verenigingen in Kortrijk en omgeving",
- "lead": "Een vzw heeft vaak weinig handen en veel ruimtes. In Kortrijk en omgeving zorgt één vaste Zondag voor secretariaat, ontmoetingsruimte, keuken en sanitair.",
- "answer": "Zondags (zondags.be) levert poetshulp aan vzw's en verenigingen in Kortrijk, Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem. Eén vaste persoon, je Zondag, onderhoudt secretariaat, ontmoetingsruimte, keuken en sanitair, overdag op weekdagen. De factuur staat op naam van de vzw. Zondags is zelf gevestigd in Marke, een deelgemeente van Kortrijk.",
+ "lead": "Een vzw in Kortrijk of de buurt heeft meer aan een vast punt in de week dan aan een lijst met goede voornemens. Je Zondag houdt secretariaat en lokaal op orde.",
+ "answer": "Zondags (zondags.be) onderhoudt voor vzw's en verenigingen in Kortrijk en omgeving het secretariaat, de ontmoetingsruimte, de keuken en het sanitair, met één vaste persoon. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk, op weekdagen overdag. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een factuur op naam van de vzw.",
  "facts": [
-  "Kortrijk en deelgemeenten",
-  "Secretariaat en ontmoetingsruimte",
-  "Keuken en sanitair",
+  "Kortrijk, deelgemeenten en buurgemeenten",
+  "Secretariaat, lokaal, keuken, sanitair",
   "Factuur op naam van de vzw",
-  "Overdag op weekdagen"
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur"
  ],
  "sections": [
   {
-   "h2": "Een vzw met weinig tijd en veel ruimtes",
+   "h2": "Verenigingen rond Kortrijk met een eigen lokaal",
    "p": [
-    "Verenigingen draaien vaak op bestuurders en vrijwilligers die dit naast hun job doen. Het poetsen van het secretariaat of de ontmoetingsruimte blijft dan liggen, of komt neer op dezelfde twee mensen.",
-    "Met één vaste Zondag leg je dat structureel op. De vzw betaalt een dienstenfactuur, de vrijwilligers moeten niet meer met de stofzuiger rondlopen."
+    "Rond Kortrijk bestaan tal van vzw's die werken met een secretariaat, een vergaderlokaal of een ontmoetingsruimte. Sommige hebben een vast team, andere leunen op vrijwilligers die op dinsdagavond komen helpen. Wie daar de verantwoordelijkheid draagt, kent het gevoel: het lokaal moet gewoon goed zitten, maar niemand heeft er de tijd voor.",
+    "Een Zondag is daar het antwoord op. Het gaat om één vaste persoon die op een afgesproken weekdag komt, de ruimtes leert kennen en de gewoontes van de vzw respecteert."
    ]
   },
   {
-   "h2": "Voorbeeld: een vereniging van chauffeurs",
+   "h2": "Hoe het werkt voor een vzw",
    "p": [
-    "Neem een vzw die een vereniging van transportchauffeurs vertegenwoordigt en een ontmoetingsruimte heeft naast een klein secretariaat. Er is een chauffeursruimte met tafels en een koffiehoek, en een bureau voor de secretaris.",
-    "Je Zondag komt op vaste dagen: eerst het secretariaat, dan de ontmoetingsruimte met de tafels en stoelen, daarna de keuken en het sanitair. Op avonden of in het weekend, wanneer de vereniging zelf samenkomt, werken we niet; het onderhoud gebeurt overdag op weekdagen."
+    "Je boekt een eerste blok op de <a href=\"boeken.html\">boekpagina</a>, voor een weekdag en minstens twee werkdagen vooraf. In de gegevens vul je de naam en de bedrijfsgegevens van de vzw in. Wil je een vast terugkerend plan, dan vraag je een terugbelverzoek aan en leggen we samen vast welke taken, dagen en uren passen."
    ]
   },
   {
-   "h2": "Wat in een vzw aan bod komt",
+   "h2": "Overdag, ook als de activiteiten 's avonds zijn",
    "p": [
-    "<ul class=\"ticks\"><li>Secretariaat: bureaus, kasten langs buiten, vloer</li><li>Ontmoetings- of vergaderruimte: tafels, stoelen, vloeren</li><li>Keuken: aanrecht, frigo-deur, koffiehoek</li><li>Sanitair met aanvulling van papier en zeep</li><li>Ingang en gang</li><li>Ramen langs binnen</li></ul>"
+    "Veel verenigingen komen 's avonds of in het weekend samen. Zondags werkt dan niet, maar op de eerstvolgende weekdag overdag komt je Zondag het lokaal terug op orde brengen. Zo ligt alles klaar voor de volgende bijeenkomst, zonder dat een vrijwilliger zaterdag bijspringt."
    ]
   },
   {
-   "h2": "Zo werkt het in Kortrijk en de deelgemeenten",
+   "h2": "Kortrijk en de deelgemeenten",
    "p": [
-    "Kortrijk heeft deelgemeenten waar verenigingen hun lokaal hebben: Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem. We zoeken voor je vzw een Zondag in de buurt, zodat afspraken eenvoudig blijven.",
-    "Ligt je vzw net buiten Kortrijk, in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem of Lendelede, dan werken we daar evengoed. Een overzicht van onze aanpak in de stad staat op <a href=\"poetshulp/kortrijk.html\">poetshulp in Kortrijk</a>."
+    "We werken in Kortrijk, postcode 8500, en in de deelgemeenten Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem. Of je vzw nu een lokaal in een dorpskern beheert of een secretariaat in een kantoorgebouw, de aanpak is dezelfde."
    ]
   },
   {
-   "h2": "Wanneer wordt er gepoetst",
+   "h2": "Verenigingen in de buurgemeenten",
    "p": [
-    "Overdag op weekdagen, vroeg in de ochtend of over de middag. Zo past het in de uren waarop het secretariaat bezet is, of net niet. Eén Zondag komt op een vaste dag en uur; wil je een extra beurt na een grote activiteit op een weekdag, dan kan dat als bijboeking.",
-    "Bestuurders hoeven daarvoor niets te regelen buiten het eerste gesprek. Je geeft je sleutelafspraken door, bepaalt welke ruimtes vrij moeten zijn en we maken er een zondagsplan van dat je bestuur kan nalezen. Wisselt het bestuur van samenstelling, dan blijft het plan gewoon doorlopen en blijft je Zondag dezelfde persoon."
+    "Ook in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede kan je terecht. Beheert je vzw meerdere locaties, dan bekijken we samen of één Zondag de ronde kan maken of dat het handiger is om per locatie een vaste persoon af te spreken."
    ]
   },
   {
-   "h2": "Factuur op naam van de vzw, en starten",
+   "h2": "Een vergelijking: de chauffeursruimte van een transportfirma",
    "p": [
-    "Je krijgt een gewone dienstenfactuur op naam van de vzw. Hoe de vzw dat boekhoudkundig of fiscaal verwerkt, hangt af van haar situatie. Laat je boekhouder of accountant dit bevestigen. Dienstencheques zijn er enkel voor particulieren, niet voor vennootschappen of verenigingen als organisatie.",
-    "Aanvragen kan via het formulier of de chat. Binnen één werkdag belt iemand terug en volgt de intake. De eerste 2 uur zijn gratis en het plan is maandelijks opzegbaar."
+    "Neem een transportfirma met een chauffeursruimte waar een team op vaste momenten samenkomt. Daar poetst een Zondag de ruimte, de keuken en het sanitair, terwijl de voertuigen en de loods buiten haar werk blijven. Een vzw met een ontmoetingsruimte werkt op dezelfde manier: de ruimte voor mensen krijgt aandacht, specialistisch materiaal blijft bij de vereniging.",
+    "Het enige verschil is het ritme. Een transportfirma gebruikt de ruimte elke dag, een vzw soms slechts enkele keren per week. Dat bepaalt hoeveel blokken je boekt."
+   ]
+  },
+  {
+   "h2": "Prijs en btw",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw per blok. Een btw-vrijgestelde vzw kan de btw doorgaans niet recupereren, een vzw met aftrekrecht in principe wel. Laat je accountant dit bevestigen voor je eigen situatie."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Welk bedrijf levert poetshulp aan vzw's in Kortrijk?",
-   "a": "Zondags uit Marke, een deelgemeente van Kortrijk, levert een vaste persoon voor secretariaat, ontmoetingsruimte, keuken en sanitair van vzw's en verenigingen, met een factuur op naam van de vzw."
+   "q": "Welk bedrijf levert poetshulp voor een vzw in Kortrijk?",
+   "a": "Zondags, vanuit Marke, een deelgemeente van Kortrijk. Je krijgt één vaste persoon voor het secretariaat en de ontmoetingsruimte van je vzw."
   },
   {
-   "q": "Werkt Zondags ook in Heule, Bellegem en Rollegem?",
-   "a": "Ja. Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem zijn deelgemeenten van Kortrijk en horen bij ons werkgebied."
+   "q": "Werkt Zondags ook in Marke of Aalbeke?",
+   "a": "Ja. Alle deelgemeenten van Kortrijk horen bij ons werkgebied: Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem."
   },
   {
-   "q": "Kan er gepoetst worden na een avondactiviteit?",
-   "a": "Dat doen we niet in de avond of het weekend. Wel kan een extra beurt de eerstvolgende weekdag overdag."
+   "q": "Kunnen jullie ook naar een vereniging in Kuurne of Harelbeke?",
+   "a": "Ja, ook in Wevelgem, Menen, Zwevegem en Lendelede, en in de rest van West- en Oost-Vlaanderen."
   },
   {
-   "q": "Kan een kleine vzw met één beurt per twee weken starten?",
-   "a": "Ja. Je begint met wat past en boekt later uren bij of af. Het plan is maandelijks opzegbaar."
+   "q": "Wat kost schoonmaakhulp voor een vzw?",
+   "a": "Je betaalt 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw, en extra uren kosten hetzelfde per uur."
   },
   {
-   "q": "Doen jullie ook zalen of buitenruimtes?",
-   "a": "Gewone binnenruimtes zoals secretariaat, ontmoetingsruimte, keuken en sanitair wel. Gevelreiniging, werken op hoogte en industriële reiniging niet."
+   "q": "Op wiens naam staat de factuur?",
+   "a": "Op naam van de vzw, met de bedrijfsgegevens die je invult bij het boeken. Het is een gewone dienstenfactuur die je boekhouder kan verwerken."
+  },
+  {
+   "q": "Moet de vzw een vast contract afsluiten?",
+   "a": "Nee. Je boekt per blok en beslist zelf hoe vaak. Voor een vast plan maken we samen een zondagsplan met taken, dagen en uren."
   }
  ]
 }

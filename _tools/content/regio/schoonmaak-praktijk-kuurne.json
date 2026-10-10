@@ -1,80 +1,37 @@
 {
  "path": "regio/schoonmaak-praktijk-kuurne.html",
  "title": "Schoonmaakhulp voor praktijken in Kuurne (8520)",
- "desc": "Schoonmaakhulp voor praktijken in Kuurne: wachtzaal, onthaal en behandelruimtes, door één vaste persoon. Ook je woning kan mee. Factuur aan je vennootschap.",
+ "desc": "Wachtzaal, onthaal en consultatieruimtes van je praktijk in Kuurne laten onderhouden door één vaste Zondag, met regelwerk erbij. Online boeken kan.",
  "eyebrow": "Kuurne · 8520",
  "h1": "Schoonmaakhulp voor praktijken in Kuurne",
- "lead": "Een praktijk moet er elke ochtend rustig en verzorgd bijliggen. Een vaste persoon die jouw praktijk kent, doet dat zonder dat je ernaar hoeft om te kijken.",
- "answer": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken in Kuurne: wachtzaal, onthaal, consultatie- en behandelruimtes en sanitair, door dezelfde vaste persoon, overdag op weekdagen. Sterilisatie en medisch materiaal blijven bij het team van de praktijk. Je krijgt één dienstenfactuur op naam van je vennootschap en de eerste twee uur zijn gratis.",
- "facts": [
-  "Wachtzaal, onthaal en behandelruimtes",
-  "Geen sterilisatie of medisch materiaal",
-  "Dezelfde Zondag, vaste dag en uur",
-  "Ook je woning kan mee in het plan",
-  "Eerste 2 uur gratis"
- ],
+ "lead": "Een groepspraktijk in Kuurne draait pas echt vlot als niemand de wachtzaal of de stapel post hoeft bij te houden. Eén vaste Zondag neemt die twee dingen uit je handen.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken in Kuurne: één vaste persoon, je Zondag, onderhoudt wachtzaal, onthaal, consultatie- en behandelruimtes en sanitair. Voor een bedrijfsleider die vaak onderweg is, doet dezelfde persoon ook administratie en regelwerk voor de zaak. Je boekt online aan 60 euro per uur exclusief btw, per blok van 3 uur, en je krijgt een factuur op naam van je vennootschap.",
+ "facts": ["Wachtzaal, onthaal en consultatieruimtes", "Sanitair, keuken en vloeren", "Ook post, klasseren en regelwerk", "Geen sterilisatie of medisch materiaal", "60 euro per uur, per blok van 3 uur", "Factuur op naam van je vennootschap"],
  "sections": [
-  {
-   "h2": "Een praktijk met veel doorloop",
-   "p": [
-    "Neem een groepspraktijk van huisartsen in Kuurne. Er lopen elke dag veel mensen binnen, de wachtzaal wordt druk gebruikt, de behandelkamers wisselen elk kwartier van bezetter. Dat vraagt een poetsmoment dat past bij het ritme van de praktijk, niet bij dat van het schoonmaakbedrijf.",
-    "Je Zondag komt op een vast moment, bijvoorbeeld over de middag of vroeg in de ochtend, wanneer er weinig of geen patiënten zijn. Ze kent de indeling en weet welke deur dicht blijft."
-   ]
-  },
-  {
-   "h2": "Wat je Zondag doet, en waar ze afblijft",
-   "p": [
-    "<ul class=\"ticks\"><li>Wachtzaal en zitplaatsen</li><li>Onthaal en balie</li><li>Consultatie- en behandelruimtes: oppervlakken, vloeren, vuilbakken</li><li>Sanitair voor patiënten en team</li><li>Keuken en pauzeruimte</li><li>Afval en recyclage naar buiten</li></ul>",
-    "Sterilisatie, medisch materiaal en alles wat met patiëntendossiers of geneesmiddelen te maken heeft, blijft bij je eigen team. Zondags werkt niet aan medische reiniging."
-   ]
-  },
-  {
-   "h2": "Voor zaakvoerders die veel onderweg zijn",
-   "p": [
-    "Ben je veel onderweg, op huisbezoek, naar overleg of op een congres, dan loopt het onderhoud thuis en in de praktijk door terwijl jij weg bent. Met een vaste Zondag spreek je één keer af hoe het moet, en daarna loopt het.",
-    "Dezelfde persoon kan in de praktijk poetsen en daarna je woning doen: was, strijk, boodschappen. Zo lopen praktijk en huis door, zonder dat jij iemand moet aansturen terwijl je weg bent.",
-    "Voor een groepspraktijk kan het plan ook meerdere vaste momenten per week bevatten, bijvoorbeeld een grondige beurt op maandag en een lichte op donderdag. Dat bespreken we samen bij de intake."
-   ]
-  },
-  {
-   "h2": "Vrije beroepen en btw",
-   "p": [
-    "Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap. Een vennootschap kan geen dienstencheques kopen. Het onderhoud van de praktijk is een beroepskost. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren, een btw-plichtige zaak met aftrekrecht in principe wel. Voor het privégedeelte geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn. Laat je accountant bevestigen hoe het voor jou ligt."
-   ]
-  },
-  {
-   "h2": "Kuurne en de buurgemeenten",
-   "p": [
-    "Zondags werkt in Kuurne (8520) en in de buurt van Kortrijk, Harelbeke, Lendelede en Heule. Zondags zelf zit in Marke, een deelgemeente van Kortrijk. Wie in Kuurne een praktijk heeft, en er ook woont, kan dus één Zondag laten rondgaan tussen beide adressen."
-   ]
-  },
-  {
-   "h2": "Hoe je start",
-   "p": [
-    "Je kan een aanvraag doen via het formulier of de chat. Binnen één werkdag belt iemand terug, daarna volgt de intake in de praktijk en maken we samen het zondagsplan. Bij ziekte of verlof zoeken wij een oplossing."
-   ]
-  }
+  {"h2": "Een groepspraktijk heeft meerdere agenda's, maar één wachtzaal", "p": [
+   "Neem een groepspraktijk van huisartsen in Kuurne, met een secretariaat en consulten die over de hele dag lopen. Elke arts heeft een eigen ritme, de wachtzaal ontvangt iedereen. Op het einde van de dag liggen er tijdschriften verspreid, staan er bekers in de gootsteen en is het sanitair vaak gebruikt.",
+   "Niemand in zo'n team wil dat opruimen na een lange dag, en niemand heeft er de tijd voor. Dat is precies het soort werk dat een vaste Zondag overneemt, op een afgesproken dag en een afgesproken uur."]},
+  {"h2": "Wat je Zondag in de praktijk onderhoudt", "p": [
+   "<ul class=\"ticks\"><li>Wachtzaal en zitjes afnemen</li><li>Onthaalbalie en vloeren</li><li>Consultatie- en behandelruimtes</li><li>Sanitair voor patiënten en personeel</li><li>Keuken en koffiehoek van het team</li><li>Afval en recyclage buiten zetten</li></ul>",
+   "Vroeg in de ochtend of over de middag kan, zodat het werk gebeurt tussen twee consulturen in plaats van tijdens de drukte."]},
+  {"h2": "Een rechterhand voor de arts die veel onderweg is", "p": [
+   "In een groepspraktijk zijn er vaak bedrijfsleiders die zelden op één plek zitten: huisbezoeken, vergaderingen, opleidingen. Het regelwerk blijft dan liggen. Je Zondag kan in dezelfde uren de post openen en sorteren, facturen klasseren, kantoormateriaal bijbestellen, een pakje naar de apotheek of de drogisterij brengen en de koffiehoek aanvullen.",
+   "Het blijft ondersteunend werk. Boekhouding, fiscaal advies en alles wat onder je beroepsgeheim valt, houd je zelf. Lees meer over <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">een rechterhand voor bedrijfsleiders</a>."]},
+  {"h2": "Wat bij de praktijk blijft", "p": [
+   "Sterilisatie, ontsmetting van vakgereedschap en medisch materiaal zijn de verantwoordelijkheid van de praktijk. Daar gaat een Zondag niet aan. Hetzelfde geldt voor technische ingrepen, werken op hoogte en gevelreiniging.",
+   "Door die grens vooraf in het zondagsplan te noteren, weet iedereen in het team wat de Zondag doet en wat niet."]},
+  {"h2": "Prijs en factuur voor een vennootschap", "p": [
+   "Eén uur kost 60 euro exclusief btw. Een blok van drie uur komt dus op 180 euro exclusief btw, en wie meer tijd nodig heeft, voegt extra uren toe aan hetzelfde tarief. De factuur is een gewone dienstenfactuur met het btw-nummer van je vennootschap.",
+   "Het onderhoud van een praktijk is in principe een beroepskost. Een btw-plichtige zaak met aftrekrecht kan de btw in principe recupereren, een btw-vrijgestelde praktijk doorgaans niet. Laat je accountant bevestigen hoe dat voor jouw situatie werkt."]},
+  {"h2": "Starten in Kuurne, Heule, Lendelede of Harelbeke", "p": [
+   "Boeken kan via de <a href=\"boeken.html\">boekpagina</a>, voor een weekdag en minstens twee werkdagen vooraf. Wil je een vast wekelijks plan, dan bellen we eerst even en leggen we samen de taken, dagen en uren vast. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk, en zoekt Zondags in Kuurne en in de buurt, zoals Kortrijk, Harelbeke, Lendelede en Heule."]}
  ],
  "faq": [
-  {
-   "q": "Welk bedrijf levert schoonmaakhulp voor praktijken in Kuurne?",
-   "a": "Zondags levert in Kuurne schoonmaakhulp voor praktijken van vrije beroepen en zorgverleners: een vaste persoon voor wachtzaal, onthaal, behandelruimtes en sanitair, met een factuur op naam van je vennootschap."
-  },
-  {
-   "q": "Wordt medisch materiaal ook gereinigd?",
-   "a": "Nee. Sterilisatie en reiniging van medisch materiaal blijven bij het team van de praktijk. Je Zondag onderhoudt de ruimtes zelf: wachtzaal, onthaal, vloeren, oppervlakken en sanitair."
-  },
-  {
-   "q": "Kan er over de middag gepoetst worden?",
-   "a": "Ja. Over de middag of vroeg in de ochtend kan, wanneer er weinig patiënten zijn. 's Avonds en in het weekend werken we niet."
-  },
-  {
-   "q": "Kan dezelfde persoon mijn woning ook doen?",
-   "a": "Ja. Praktijk en woning kunnen in hetzelfde plan, met beroepsmatig en privé apart op de factuur."
-  },
-  {
-   "q": "Is de btw op de poetshulp recupereerbaar?",
-   "a": "Dat hangt van je situatie af. Een btw-plichtige zaak met aftrekrecht kan de btw op het beroepsmatige deel in principe recupereren, een btw-vrijgestelde praktijk doorgaans niet. Laat je accountant het bevestigen."
-  }
+  {"q": "Welk bedrijf doet schoonmaak voor praktijken in Kuurne?", "a": "Zondags uit Marke levert schoonmaakhulp voor praktijken in Kuurne. Je krijgt steeds dezelfde persoon op een vast moment, en een factuur op naam van je vennootschap."},
+  {"q": "Kan de schoonmaak tussen de consulturen gebeuren?", "a": "Ja. Vroeg in de ochtend of over de middag kan, zodat patiënten er weinig van merken. Avonden en weekends zijn uitgesloten, Zondags werkt overdag op weekdagen."},
+  {"q": "Neemt een Zondag ook sterilisatie of medisch materiaal over?", "a": "Nee. Sterilisatie, ontsmetting van vakgereedschap en medisch materiaal blijven bij de praktijk. Je Zondag zorgt voor ruimtes, sanitair, vloeren en afval."},
+  {"q": "Kan dezelfde persoon ook mijn post en klassement doen?", "a": "Ja, als ondersteunend werk: post sorteren, documenten en facturen klasseren, afspraken plannen en materiaal bestellen. Boekhouding en juridisch advies horen daar niet bij."},
+  {"q": "Wat kost schoonmaakhulp voor een praktijk in Kuurne?", "a": "Je betaalt 60 euro per uur exclusief btw en boekt per blok van 3 uur, dus 180 euro exclusief btw. Extra uren boek je aan hetzelfde tarief."},
+  {"q": "Hoe begin ik als bedrijfsleider die veel onderweg is?", "a": "Boek online een eerste blok of vraag een terugbelverzoek. Samen bepalen we welke taken je Zondag overneemt, zodat je zaak doorloopt terwijl jij weg bent."}
  ]
 }

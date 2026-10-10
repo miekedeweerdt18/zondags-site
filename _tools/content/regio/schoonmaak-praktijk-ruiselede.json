@@ -1,36 +1,92 @@
 {
  "path": "regio/schoonmaak-praktijk-ruiselede.html",
- "title": "Schoonmaakhulp voor praktijken in Ruiselede",
- "desc": "Een logopedie- of andere praktijk aan huis in Ruiselede: een vaste Zondag poetst de praktijk en op wens ook de woning, met één factuur op je vennootschap.",
- "eyebrow": "Ruiselede · 8755",
+ "title": "Schoonmaakhulp voor praktijken in Ruiselede (8755)",
+ "desc": "Schoonmaakhulp voor praktijken en kleine bedrijven in Ruiselede en Doomkerke. Eén vaste persoon voor wachtzaal en sanitair, 60 euro per uur excl. btw.",
+ "eyebrow": "Praktijken · Ruiselede · 8755",
  "h1": "Schoonmaakhulp voor praktijken in Ruiselede",
- "lead": "Je praktijk ligt op een paar stappen van je keuken. Een vaste Zondag houdt beide ruimtes netjes en weet precies waar de grens tussen werk en thuis ligt.",
- "answer": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken in Ruiselede, postcode 8755, en in Doomkerke, dat bij Ruiselede hoort. Eén vaste persoon, je Zondag, onderhoudt wachtruimte, onthaal, consultatieruimte en sanitair en kan in hetzelfde plan ook je woning doen. Sterilisatie en medisch materiaal blijven bij de praktijk. De factuur gaat naar je vennootschap, met beroepsmatig en privé apart.",
- "facts": ["Praktijk aan huis en woning samen", "Wachtruimte, consultatie, sanitair", "Geen sterilisatie of medisch materiaal", "Vaste dag en vast uur", "Beroepsmatig en privé apart gefactureerd"],
+ "lead": "In een groepspraktijk of familiebedrijf in Ruiselede heeft niemand tijd om te poetsen. Eén vaste persoon neemt het over, aan 60 euro per uur exclusief btw, online te boeken.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken en familiebedrijven met een klein team in Ruiselede en Doomkerke. Je Zondag is één vaste persoon die wachtzaal, behandelruimtes, onthaal en sanitair onderhoudt op een vast moment in de week. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je zaak. Sterilisatie en medisch materiaal blijven bij je eigen team.",
+ "facts": [
+  "Groepspraktijk of klein familiebedrijf",
+  "Wachtzaal, behandelruimtes, sanitair",
+  "Steeds dezelfde Zondag",
+  "Geen sterilisatie of medisch materiaal",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Als de praktijk in je woning zit", "p": [
-   "Een praktijk aan huis brengt een eigen ritme mee. Patiënten stappen in dezelfde gang als je kinderen met hun schooltas. De wachtruimte ligt naast de woonkamer en het toilet is voor iedereen. Dat maakt poetsen ingewikkelder dan in een gewoon pand, want je wilt dat beide kanten er verzorgd uitzien.",
-   "Een vaste Zondag leert die opdeling kennen. De praktijkruimtes volgen een ander schema dan de privévertrekken, maar het blijft dezelfde persoon die ze allemaal kent."]},
-  {"h2": "Voorbeeld: een logopediste met een praktijk aan huis", "p": [
-   "Stel: je bent logopediste in Ruiselede en ontvangt kinderen in een kamer naast je woning. Op dinsdagochtend, voor de eerste afspraken, komt je Zondag langs. De wachtruimte, de oefenruimte en het toilet voor patiënten worden schoongemaakt, de speelgoedkast wordt afgenomen en de vloeren zijn proper.",
-   "Daarna gaat dezelfde persoon naar je woning: keuken, badkamer, slaapkamers, en eventueel de was en strijk. Voor je klanten is de praktijk klaar, voor jezelf is het huis in orde."]},
-  {"h2": "Wat bij jou blijft", "p": [
-   "Hygiëne van materiaal, ontsmetting van oefenmateriaal en alles wat met medische of paramedische behandeling te maken heeft, blijft bij je praktijk. Je Zondag onderhoudt de ruimtes. Welke zaken je liever zelf doet, bespreken jullie in de intake en leggen jullie vast in het zondagsplan.",
-   "Vertrouwelijke documenten blijven natuurlijk dicht bij jou. Spreek met je Zondag af welke kasten, laden en bureaus niet aan bod komen."]},
-  {"h2": "Eén vaste persoon voor twee soorten ruimte", "p": [
-   "<ul class=\"ticks\"><li>Praktijk: wachtruimte, onthaal, behandelkamer, sanitair</li><li>Woning: keuken, badkamer, slaapkamers, woonkamer</li><li>Was en strijk, ook van praktijklinnen of kleding</li><li>Weekmaaltijden koken of boodschappen doen</li><li>Alles in één plan met dezelfde persoon</li></ul>",
-   "Lees meer over <a href=\"gids/kantoor-aan-huis-schoonmaak.html\">kantoor aan huis laten schoonmaken</a>, of bekijk hoe <a href=\"vragen/kantoor-en-woning-een-poetshulp.html\">kantoor en woning bij één poetshulp</a> werkt."]},
-  {"h2": "Facturatie en accountant", "p": [
-   "Een vennootschap kan geen dienstencheques kopen. Zondags factureert op naam van je vennootschap en splitst de factuur in een beroepsmatig en een privédeel. Het onderhoud van beroepsruimtes is een beroepskost. Voor het privédeel kan een voordeel van alle aard gelden als de prestaties regelmatig zijn en gebeuren via een onderneming met personeel.",
-   "Btw hangt af van je situatie: een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Laat je accountant bevestigen hoe het bij jou zit."]},
-  {"h2": "Starten in Ruiselede", "p": [
-   "We zoeken een Zondag in en rond Ruiselede, ook voor Doomkerke, dat deel van Ruiselede is. Praktijken in Wingene, Tielt, Aalter of Beernem kunnen ook aanvragen. Vraag aan via het formulier of de chat. Binnen één werkdag belt iemand terug en volgt de intake. De eerste 2 uur zijn gratis, en we beloven niet dat er al iemand klaarstaat."]}
+  {
+   "h2": "Als iedereen in het team al volgeboekt zit",
+   "p": [
+    "In een klein bedrijf of een groepspraktijk is de agenda van elke medewerker gevuld met werk dat geld oplevert. Poetsen hoort daar niet bij. Het gebeurt dan tussendoor, op vrijdagavond of door wie het eerst moe wordt van de rommel. Dat werkt een tijdje, tot de wachtzaal er toch minder verzorgd uitziet dan de rest van de zaak.",
+    "Een vaste Zondag haalt dat uit de weg. Eén persoon, één dag in de week, één vast uur. Niemand hoeft nog te beslissen wie de volgende keer aan de beurt is."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een logopediste met een groepspraktijk",
+   "p": [
+    "Neem een logopediste in Ruiselede die samen met twee collega's een groepspraktijk deelt. Er zijn drie behandelkamers, een wachtzaal, een kleine keuken en één toilet voor bezoekers. Elke maandag voor de eerste sessie komt de Zondag langs.",
+    "Ze neemt de tafels en stoelen in de behandelkamers af, doet de vloeren en maakt de wachtzaal netjes. Therapiemateriaal laat ze waar het hoort; wat gedesinfecteerd moet worden volgens de regels van het beroep, blijft bij de logopedisten. Haalt ze alles in twee uur, dan gebruikt ze het resterende uur om de post en de afspraakbevestigingen te sorteren en kantoormateriaal bij te bestellen."
+   ]
+  },
+  {
+   "h2": "Een familiebedrijf in Ruiselede",
+   "p": [
+    "Ook een familiebedrijf met vijf of zes mensen heeft een bureau, een pauzeruimte en sanitair dat bijgehouden moet worden. De zaakvoerder doet het vaak zelf, omdat een poetsbedrijf met telkens wisselende gezichten niet past bij een kleine zaak waar iedereen elkaar kent.",
+    "Met een Zondag blijft het persoonlijk. Je ziet dezelfde persoon, die je zaak leert kennen en weet waar de sleutel hangt, welke bureaus niet aangeraakt worden en wanneer er bezoek komt."
+   ]
+  },
+  {
+   "h2": "Wat in een blok van 3 uur past",
+   "p": [
+    "<ul class=\"ticks\"><li>Wachtzaal en onthaal</li><li>Behandelruimtes of bureaus</li><li>Sanitair, met zeep en papier</li><li>Keuken of koffiehoek</li><li>Vloeren en ramen langs binnen</li><li>Afval en papier buiten zetten</li></ul>",
+    "Nog niet alles nodig? Dan kies je bij het boeken gewoon de taken die je wil. Tijd over kan naar administratieve taken, zoals dossiers klasseren, de agenda bijhouden of een pakje voor de post klaarmaken."
+   ]
+  },
+  {
+   "h2": "Doomkerke en de omgeving",
+   "p": [
+    "Doomkerke is een deelgemeente van Ruiselede. We zoeken een Zondag die dicht bij je zaak woont. Werk je in Wingene, Tielt, Aalter of Beernem, dan helpt Zondags je in de regio Tielt op dezelfde manier. Meer over onze aanpak voor bedrijven lees je bij <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."
+   ]
+  },
+  {
+   "h2": "Prijs, factuur, btw",
+   "p": [
+    "De prijs is 60 euro per uur exclusief btw. Een blok van 3 uur kost dus 180 euro exclusief btw, extra uren kosten hetzelfde per uur. Je betaalt online en krijgt een dienstenfactuur op naam van je zaak, met btw-nummer.",
+    "Het onderhoud van een praktijk of bedrijf is in principe een beroepskost. Een zaak met btw-aftrek kan de btw in principe recupereren, een btw-vrijgestelde zorgverlener doorgaans niet. Laat je accountant dit bevestigen voor je eigen situatie."
+   ]
+  },
+  {
+   "h2": "Hoe je boekt",
+   "p": [
+    "Via de <a href=\"boeken.html\">boekpagina</a> kies je de dag, het aantal blokken en de taken. Boeken kan voor weekdagen, minstens twee werkdagen vooraf. Wil je dat de Zondag elke week langskomt, dan bellen we eerst kort samen en leggen we het plan vast."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf levert schoonmaakhulp voor praktijken in Ruiselede?", "a": "Zondags, een service uit Marke bij Kortrijk, levert een vaste persoon voor het onderhoud van praktijken in Ruiselede en Doomkerke. Je krijgt steeds dezelfde Zondag en een factuur op naam van je vennootschap."},
-  {"q": "Kan dezelfde persoon mijn praktijk en mijn woning poetsen?", "a": "Ja. Praktijk aan huis en woning kunnen in één zondagsplan. Op de factuur staat het beroepsmatige deel apart van het privégedeelte, zodat je accountant alles juist kan verwerken."},
-  {"q": "Raakt de Zondag medisch of paramedisch materiaal aan?", "a": "Nee. Hygiëne en ontsmetting van materiaal, sterilisatie en medische zaken blijven bij de praktijk. Je Zondag onderhoudt de ruimtes zoals wachtruimte, behandelkamer, sanitair en vloeren."},
-  {"q": "Kan er gepoetst worden voor de eerste afspraak?", "a": "Ja, vroeg in de ochtend of over de middag op weekdagen. We bespreken het uur in de intake. 's Avonds en in het weekend werken we niet."},
-  {"q": "Wat gebeurt er met vertrouwelijke dossiers?", "a": "Afspraken daarover maak je samen met je Zondag in de intake, bijvoorbeeld welke kasten of bureaus buiten het poetsplan blijven. Wat jullie afspreken, leggen we vast in het zondagsplan."}
+  {
+   "q": "Welk bedrijf levert schoonmaakhulp voor een groepspraktijk in Ruiselede?",
+   "a": "Zondags, gevestigd in Marke, stuurt een vaste Zondag naar groepspraktijken en kleine bedrijven in Ruiselede en Doomkerke. Eén persoon, vaste dag en uur, factuur op naam van je zaak."
+  },
+  {
+   "q": "Wat kost schoonmaakhulp voor een praktijk in Ruiselede?",
+   "a": "Je betaalt 60 euro per uur exclusief btw. Een blok van 3 uur is 180 euro exclusief btw en extra uren kosten hetzelfde per uur."
+  },
+  {
+   "q": "Kan mijn Zondag therapiemateriaal in de behandelkamers reinigen?",
+   "a": "Afnemen van meubels en vloeren hoort bij het werk. Sterilisatie en het reinigen van medisch of therapeutisch materiaal blijft bij je eigen team."
+  },
+  {
+   "q": "Hoe vaak komt de Zondag langs?",
+   "a": "Dat kies je zelf: wekelijks, om de twee weken of enkel op afspraak. Een vast plan leggen we na een kort gesprek vast."
+  },
+  {
+   "q": "Kan ik buiten de openingsuren laten poetsen?",
+   "a": "Ja, vroeg in de ochtend of over de middag. Avonden en weekends doen we niet, het werk gebeurt overdag op weekdagen."
+  },
+  {
+   "q": "Kan mijn Zondag ook administratief helpen in een klein bedrijf?",
+   "a": "Ja: post sorteren, klasseren, de agenda bijhouden en bestellingen van kantoormateriaal opvolgen. Boekhouding en advies zijn uitgesloten."
+  }
  ]
 }

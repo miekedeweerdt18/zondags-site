@@ -1,36 +1,33 @@
 {
  "path": "sectoren/checklist-grote-poetsbeurt-praktijk.html",
  "title": "Checklist voor de grote poetsbeurt van je praktijk",
- "desc": "Een bruikbare checklist voor de grote poetsbeurt van je praktijk als losse opdracht: kasten, plinten, behandelruimtes, wachtzaal en een stofvrij archief.",
- "eyebrow": "Checklist",
+ "desc": "Kasten, plinten, behandelruimtes, wachtzaal en archief stofvrij: een checklist voor een grote poetsbeurt als losse opdracht in je praktijk.",
+ "eyebrow": "Checklist · Praktijk",
  "h1": "Checklist voor de grote poetsbeurt van je praktijk",
- "lead": "Eén keer per jaar of na een verbouwing verdient je praktijk een grondigere beurt dan het wekelijkse onderhoud. Met deze lijst weet je wat er allemaal aan bod komt.",
- "answer": "Een grote poetsbeurt van een praktijk omvat naast het gewone onderhoud ook kasten, plinten, deurkaders, behandelruimtes, wachtzaal, sanitair en een stofvrij archief. Zondags (zondags.be) voert dat uit als losse opdracht, door een gescreende Zondag in dienst van Zondags, overdag op weekdagen. Sterilisatie, medisch materiaal en de ontsmetting van vakgereedschap blijven bij de praktijk zelf.",
- "facts": ["Als losse opdracht, overdag op weekdagen", "Kasten, plinten en deurkaders", "Behandelruimtes en wachtzaal", "Archief stofvrij", "Materiaal blijft bij de praktijk"],
+ "lead": "Naast de wekelijkse beurt heeft een praktijk af en toe een grondige opkuis nodig. Deze checklist laat je die beurt als losse opdracht plannen, zonder je werking te storen.",
+ "answer": "Een grote poetsbeurt van een praktijk behandelt wat wekelijks niet aan bod komt: kasten binnen en buiten, plinten, deuren, lampen die je bereikt, behandelruimtes, wachtzaal en het stofvrij maken van het archief. Instrumenten en medisch materiaal blijven bij je team. Zondags (zondags.be) doet dit als losse opdracht met je vaste Zondag, aan 60 euro per uur exclusief btw, per blok van 3 uur.",
+ "facts": ["Als losse opdracht te boeken", "Kasten, plinten, behandelruimtes", "Archief stofvrij", "Medisch materiaal blijft bij je team", "60 euro per uur, per blok van 3 uur", "Online boeken en betalen"],
  "sections": [
-  {"h2": "Wanneer een grote poetsbeurt zinvol is", "p": [
-   "Het wekelijkse onderhoud houdt een praktijk presentabel, maar sommige plekken komen daar niet aan bod. Stof verzamelt zich op kasten en plinten, in de hoeken van een archief en achter zitjes in de wachtzaal. Een grote beurt past in de jaarlijkse routine, na een verbouwing, bij een verhuis of wanneer een nieuwe collega start.",
-   "Je kan het inplannen op een weekdag waarop de praktijk gesloten is of rustiger draait. Zondags werkt overdag op weekdagen, nooit 's avonds of in het weekend."]},
-  {"h2": "Checklist voor de wachtzaal en het onthaal", "p": [
-   "<ul class=\"ticks\"><li>Zitjes, armleuningen en tafels afnemen</li><li>Tijdschriftenrek en brochurehouder leegmaken en afnemen</li><li>Plinten en deurkaders vrij van stof</li><li>Balie en bureau van het onthaal afnemen</li><li>Ramen en glazen deuren langs binnen</li><li>Ingangsmat en vloer grondig doen</li></ul>"]},
-  {"h2": "Checklist voor behandelruimtes en consultatielokalen", "p": [
-   "<ul class=\"ticks\"><li>Bovenkant van kasten en rekken afnemen</li><li>Vloer volledig, ook onder meubelstukken die verschuifbaar zijn</li><li>Radiatoren en verwarmingsbuizen afstoffen</li><li>Lichtschakelaars en deurklinken</li><li>Spiegels en wasbak langs buiten</li></ul>",
-   "Het medische materiaal, de behandeltafels als instrument en alles wat sterilisatie vraagt, blijft bij jou en je team. Je Zondag poetst de ruimte, niet het toestel."]},
-  {"h2": "Archief en bergruimte stofvrij", "p": [
-   "Een archief met dossiers of dozen verzamelt stof in stilte. Je Zondag neemt de rekken en de vloer af, en stofzuigt de hoeken. Dossiers blijven waar ze staan. Wil je ze eerst nakijken of verplaatsen, dan doe je dat zelf voor de beurt begint, zodat niets vermengt of verloren raakt.",
-   "Hetzelfde geldt voor de bergruimte: wat weg mag, zet je op voorhand apart."]},
-  {"h2": "Sanitair en keuken", "p": [
-   "Sanitair voor patiënten en personeel krijgt de grondigste beurt: voegen, kranen, spiegels, de achterkant van toiletten en de vloeren. De keuken of koffiehoek van het team volgt: koelkast leegmaken en reinigen, kastjes afnemen, de afvoer vrij.",
-   "Wat in je koelkast of kast hoort, bepaal je zelf. Je Zondag ruimt niets weg dat jij niet hebt aangeduid."]},
-  {"h2": "Hoe je het aanvraagt", "p": [
-   "Je vraagt een gesprek aan via het formulier of de chat. Binnen één werkdag bellen we terug, en bij een intake ter plaatse bekijken we je praktijk en maken we de lijst op voor jouw ruimtes. Een losse opdracht is mogelijk zonder vast plan. Wil je daarna wekelijks of tweewekelijks onderhoud, dan kan dat in een zondagsplan. Meer over de aanpak lees je bij <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>. De eerste 2 uur zijn gratis."]}
+  {"h2": "Wanneer een grote beurt zinvol is", "p": [
+   "Een wekelijkse beurt houdt een praktijk bruikbaar, maar stof zet zich af op plaatsen die zelden bekeken worden: bovenaan de kasten, op plinten, achter de zetel in de wachtzaal. Plan een grote beurt wanneer het wat rustiger is, bijvoorbeeld na een drukke periode, bij een verlofperiode of wanneer je team nieuwe medewerkers verwacht."]},
+  {"h2": "Voorbereiding: wat blijft bij je team", "p": [
+   "Vooraf haal je zelf uit de ruimtes wat niet in handen van een poetshulp hoort: instrumenten, medisch materiaal, medicatie, steriele zaken en alles waar patiëntgegevens op staan. Sterilisatie en het hanteren van medisch materiaal vallen buiten onze opdracht. Zet ook gevoelige apparaten uit of af. Spreek met je Zondag af welke kasten open mogen en welke dicht blijven."]},
+  {"h2": "Behandelruimtes en kasten", "p": [
+   "<ul class=\"ticks\"><li>Kasten aan de buitenkant en de bovenkant stofvrij</li><li>Lege kastvakken binnenin afgenomen waar jij ze leeg hebt gemaakt</li><li>Plinten, deurlijsten en deurklinken afgenomen</li><li>Behandeltafel of stoel gereinigd met jouw product</li><li>Lampen, schakelaars en radiatoren die binnen bereik zijn</li><li>Vloer grondig, ook onder en achter meubels</li></ul>"]},
+  {"h2": "Wachtzaal, onthaal en gangen", "p": [
+   "De wachtzaal krijgt een grondige beurt voor zitjes, planten, tafeltjes en glazen wanden. Voor het dagelijkse onderhoud ervan verwijs je naar de <a href=\"sectoren/checklist-frisse-wachtzaal.html\">checklist voor een frisse wachtzaal</a>. Gangen en trappen worden extra aandachtig behandeld: leuningen, hoeken, de rand tussen vloer en muur."]},
+  {"h2": "Archief stofvrij", "p": [
+   "Een archief wordt stofvrij gemaakt zonder dat de inhoud wijzigt. Je Zondag neemt de kasten, planken en kisten aan de buitenkant af en stofzuigt de vloer. De dossiers zelf blijven zoals ze staan; verplaatsen of ordenen gebeurt enkel in overleg en met jouw toestemming. Patiëntdossiers houd je liefst onder eigen toezicht en je Zondag opent ze niet."]},
+  {"h2": "Planning en afwerking", "p": [
+   "Een grote beurt neemt meer tijd in beslag dan een gewone. Boek dus meerdere blokken, of spreid ze over twee weekdagen zodat de praktijk operationeel blijft. Zondags werkt overdag, vroeg in de ochtend of over de middag, nooit 's avonds of in het weekend. Sluit af met een korte rondgang samen: wat is goed, wat moet anders, en wat wordt opgenomen in de wekelijkse beurt. Lees ook de <a href=\"sectoren/checklist-wekelijkse-praktijkpoets.html\">checklist voor de wekelijkse poetsbeurt van je praktijk</a>."]},
+  {"h2": "Prijs en boeken", "p": [
+   "Je betaalt 60 euro per uur exclusief btw en boekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Een losse opdracht boek je op de <a href=\"boeken.html\">boekpagina</a>, minstens twee werkdagen vooraf. De factuur komt op naam van je vennootschap. Of je de btw kan recupereren, hangt af van je situatie: een btw-vrijgestelde praktijk kan dat doorgaans niet. Vraag het je accountant."]}
  ],
  "faq": [
-  {"q": "Wat hoort er bij een grote poetsbeurt van een praktijk?", "a": "Naast het gewone onderhoud ook kasten, plinten, deurkaders, radiatoren, het archief, de wachtzaal en het sanitair. Wat precies in je lijst staat, bespreken we in de intake, op basis van je ruimtes."},
-  {"q": "Doet Zondags ook het medisch materiaal?", "a": "Nee. Hygiëne en ontsmetting van je vakgereedschap, sterilisatie en medisch materiaal blijven bij de praktijk. Je Zondag poetst de ruimtes: wachtzaal, behandelruimtes, sanitair en archief."},
-  {"q": "Kan een grote poetsbeurt als losse opdracht?", "a": "Ja. Losse opdrachten, zoals een grote poetsbeurt of een verhuis, zijn mogelijk zonder dat je een vast plan neemt. Wil je later vast onderhoud, dan kan je overstappen op een zondagsplan."},
-  {"q": "Wanneer wordt de praktijk gepoetst?", "a": "Overdag op weekdagen, vroeg in de ochtend of over de middag. Kies bij voorkeur een dag waarop de praktijk gesloten of rustig is. 's Avonds en in het weekend werken we niet."},
-  {"q": "Hoe vaak is een grote beurt nodig?", "a": "Dat hangt af van je praktijk. Veel praktijken kiezen voor een jaarlijkse beurt, aangevuld met wekelijks onderhoud. Na een verbouwing of verhuis kan een extra beurt nuttig zijn."},
-  {"q": "Hoe zit het met de factuur?", "a": "Je krijgt een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van beroepsruimtes is een beroepskost. Een vennootschap kan geen dienstencheques kopen. Laat je accountant bevestigen hoe het voor jou werkt."}
+  {"q": "Wat hoort bij een grote poetsbeurt van een praktijk?", "a": "Kasten, plinten, deuren, behandelruimtes, wachtzaal, gangen en het stofvrij maken van het archief. Medisch materiaal blijft bij je eigen team."},
+  {"q": "Kan een grote poetsbeurt als losse opdracht?", "a": "Ja. Je boekt één of meer blokken van 3 uur op een weekdag, zonder vast contract. Wil je nadien een vast ritme, dan bespreek je dat in een kort gesprek."},
+  {"q": "Wat doet de poetshulp met het archief?", "a": "Ze maakt de kasten en planken stofvrij aan de buitenkant. De inhoud blijft zoals hij is, en dossiers verplaatst ze enkel na jouw toestemming."},
+  {"q": "Hoe lang duurt een grote beurt in een praktijk?", "a": "Dat hangt af van het aantal ruimtes. Plan meerdere blokken, of spreid ze over twee weekdagen, zodat je praktijk blijft draaien."},
+  {"q": "Wat kost een grote poetsbeurt voor een praktijk?", "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief."}
  ]
 }

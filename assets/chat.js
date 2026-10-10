@@ -184,22 +184,23 @@
 
   /* ---------- kennisbank ---------- */
   var KB = [
-    { k: /prijs|kost|tarief|euro|duur|betalen per uur|uurprijs|offerte/i, a: 'Dat hangt af van het aantal uren en wat je nodig hebt. Na een kort gesprek krijg je een voorstel op maat. De eerste 2 uur zijn gratis, om kennis te maken.', cta: 'hulp' },
-    { k: /vennootschap|factuur|aftrek|fiscaal|btw|boekhoud|accountant|voordeel van alle aard|vaa/i, a: 'Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap, voor je kantoor of praktijk en voor je woning. Een vennootschap kan geen dienstencheques kopen. Voor het privégedeelte geldt een voordeel van alle aard. Laat je accountant dit bevestigen voor je eigen situatie.', cta: 'hulp' },
-    { k: /dienstencheque|particulier|prive persoon|privé persoon/i, a: 'Zondags werkt niet met dienstencheques. We werken voor ondernemers, zaakvoerders, vrije beroepen en bedrijven, met een factuur op naam van de vennootschap. Je woning kan daar ook bij.', cta: 'hulp' },
+    { k: /prijs|kost|tarief|euro|duur|betalen per uur|uurprijs|offerte|pakket/i, a: 'Eén pakket: 60 euro per uur excl. btw. Je boekt per blok van 3 uur (180 euro excl. btw) en extra uren boek je per uur bij, ook aan 60 euro excl. btw. Je boekt en betaalt online op de boekpagina.', cta: 'boek' },
+    { k: /vennootschap|factuur|aftrek|fiscaal|btw|boekhoud|accountant/i, a: 'Zondags werkt enkel voor bedrijven en factureert met een gewone dienstenfactuur op naam van je bedrijf. Over de fiscale verwerking beslist je accountant. Hij bevestigt wat voor jouw bedrijf geldt.', cta: 'boek' },
+    { k: /dienstencheque|particulier|prive persoon|privé persoon|thuis|woning/i, a: 'Zondags werkt enkel voor bedrijven: vennootschappen, eenmanszaken, vrije beroepen en verenigingen. We doen geen schoonmaak of hulp voor particulieren, en we werken niet met dienstencheques.', cta: 'boek' },
     { k: /regio|gemeente|waar|stad|kortrijk|roeselare|waregem|gent|brugge|ieper|oost-vlaanderen|west-vlaanderen/i, a: 'We werken in West- en Oost-Vlaanderen, vanuit Marke bij Kortrijk. Onder meer in Kortrijk, Waregem, Harelbeke, Roeselare, Izegem, Menen, Wevelgem, Ieper, Tielt en Oudenaarde. Twijfel je over jouw gemeente? Laat ze achter, dan kijken we het na.' },
     { k: /dezelfde|vaste persoon|wisselend|vervang|ziek|verlof/i, a: 'Ja, steeds dezelfde Zondag, op dezelfde dag, op hetzelfde uur. Bij verlof of ziekte zoeken wij een oplossing. Jij hoeft niets te regelen.' },
     { k: /loon|verdien|uurloon|barema|betaald|salaris|vergoed/i, a: 'Beter dan het barema, met vergoede verplaatsingen en alles in orde op papier. Het precieze loon hangt af van je statuut en je uren. Dat bespreken we in het eerste gesprek.', cta: 'werk' },
-    { k: /student|flexi|bijverdien|bijjob|statuut|weekend|avond|uren|flexibel/i, a: 'Studenten vanaf 18 jaar zijn welkom, net als wie wil bijverdienen naast een job of een vast contract zoekt. Je kiest mee je dagen, overdag en zonder weekends. Je statuut bekijken we samen.', cta: 'werk' },
-    { k: /poets|kook|koken|boodschap|strijk|was|tuin|kinder|school|kantoor|praktijk|hond|maaltijd|eten/i, a: 'Een Zondag poetst, doet de was en de strijk, kookt en doet boodschappen, haalt de kinderen op, houdt de tuin bij en onderhoudt je kantoor of praktijk. Alles in één vast plan, met één vaste persoon.', cta: 'hulp' },
-    { k: /start|wanneer|hoe snel|beginnen|intake/i, a: 'Na je aanmelding bellen we je binnen één werkdag. Daarna komen we langs voor de intake en leggen we samen je zondagsplan vast. Vanaf dan komt elke week dezelfde Zondag.', cta: 'hulp' },
-    { k: /opzeg|contract|abonnement|extra uren/i, a: 'Je abonnement is maandelijks opzegbaar. Extra uren bijboeken kan altijd en ze vervallen niet.', cta: 'hulp' }
+    { k: /student|flexi|bijverdien|bijjob|statuut|weekend|avond|flexibel/i, a: 'Studenten vanaf 18 jaar zijn welkom, net als wie wil bijverdienen naast een job of een vast contract zoekt. Je kiest mee je dagen, overdag op weekdagen en zonder weekends. Je statuut bekijken we samen.', cta: 'werk' },
+    { k: /poets|boodschap|administratie|post|rechterhand|regelwerk|kantoor|praktijk|winkel/i, a: 'Een Zondag poetst je kantoor, praktijk of winkel, houdt de administratie en de post bij, doet de boodschappen en regelt de kleine dingen. Voor een drukbezette bedrijfsleider is dat een rechterhand. Eén vaste persoon, online te boeken.', cta: 'boek' },
+    { k: /start|wanneer|hoe snel|beginnen|intake|boeken/i, a: 'Je kiest je blokken van 3 uur, de datum en wat er moet gebeuren op de boekpagina, en betaalt veilig online. Binnen één werkdag krijg je een bevestiging met de naam van je Zondag. Voor een vast ritme leggen we daarna samen een zondagsplan vast.', cta: 'boek' },
+    { k: /opzeg|contract|abonnement|extra uren/i, a: 'Extra uren boek je bij tijdens het boeken of nadien via hello@zondags.be of WhatsApp. Een vast ritme is maandelijks opzegbaar.', cta: 'boek' }
   ];
   function answer(v) {
     var hit = null; for (var i = 0; i < KB.length; i++) if (KB[i].k.test(v)) { hit = KB[i]; break; }
     if (hit) {
       say(hit.a, function () {
         var list = [];
+        if (hit.cta === 'boek') list.push({ label: 'Boek nu online', href: 'https://zondags.be/boeken.html' });
         if (hit.cta === 'hulp') list.push({ label: 'Meld je aan als bedrijf', go: function () { start('hulp', true); } });
         if (hit.cta === 'werk') list.push({ label: 'Meld je aan voor werk', go: function () { start('werk', true); } });
         list.push({ label: 'Nog een vraag', go: function () { say('Zeg het maar.'); } });
@@ -219,7 +220,7 @@
       chips([
         { label: 'Ik zoek hulp voor mijn bedrijf', go: function () { start('hulp', true); } },
         { label: 'Ik zoek werk', go: function () { start('werk', true); } },
-        { label: 'Ik heb een vraag', go: function () { say('Stel gerust je vraag. Of kies er een:', function () { chips(['Wat kost een Zondag?', 'Kan mijn vennootschap dit betalen?', 'In welke regio werken jullie?', 'Wat verdien ik als Zondag?', 'Kan ik werken als student of flexi?'], { onPick: answer }); }); } }
+        { label: 'Ik heb een vraag', go: function () { say('Stel gerust je vraag. Of kies er een:', function () { chips(['Wat kost een Zondag?', 'Krijg ik een factuur op mijn bedrijf?', 'In welke regio werken jullie?', 'Wat verdien ik als Zondag?', 'Kan ik werken als student of flexi?'], { onPick: answer }); }); } }
       ]);
     });
   }
@@ -234,13 +235,13 @@
 
   function hulp1() {
     say(['Fijn. Wat mag je Zondag voor je doen?', 'Kies wat past, meerdere mag.'], function () {
-      chips(['Poetsen', 'Was en strijk', 'Koken', 'Boodschappen', 'Kinderen ophalen', 'Tuin', 'Kantoor of praktijk', 'Alles in huis', { label: 'Verder', action: 'done', cls: 'zc-chip--go' }], { multi: true, onPick: function (p) { data.wat = p.join(', '); hulp2(); } });
+      chips(['Poetsen', 'Administratie en post', 'Boodschappen en regelwerk', 'Rechterhand voor de bedrijfsleider', { label: 'Verder', action: 'done', cls: 'zc-chip--go' }], { multi: true, onPick: function (p) { data.wat = p.join(', '); hulp2(); } });
     });
   }
   function hulp2() { ask('gemeente', 'In welke gemeente mag je Zondag langskomen?', { ph: 'Bijvoorbeeld Kortrijk', ac: 'address-level2', next: hulp3 }); }
   function hulp3() {
     say('Hoeveel hulp heb je ongeveer nodig?', function () {
-      chips(['Een paar uur per week', 'Een halve dag per week', 'Meerdere dagen per week', 'Weet ik nog niet'], { onPick: function (v) { data.uren = v; naam(function () { ask('bedrijf', 'En de naam van je bedrijf of praktijk?', { ph: 'Naam van je zaak', ac: 'organization', skip: true, next: function () { tel(mail); } }); }); } });
+      chips(['Een blok van 3 uur', 'Meerdere blokken per week', 'Een vast ritme', 'Weet ik nog niet'], { onPick: function (v) { data.uren = v; naam(function () { ask('bedrijf', 'En de naam van je bedrijf of praktijk?', { ph: 'Naam van je zaak', ac: 'organization', skip: true, next: function () { tel(mail); } }); }); } });
     });
   }
 
@@ -262,12 +263,12 @@
   }
   function werk4() {
     say(['Wanneer kun je werken?', 'Kies wat past, meerdere mag.'], function () {
-      chips(['Voormiddagen', 'Namiddagen', 'Hele dagen', 'Tijdens de schooluren', 'In de schoolvakanties', 'Flexibel', { label: 'Verder', action: 'done', cls: 'zc-chip--go' }], { multi: true, onPick: function (p) { data.uren = p.join(', '); werk5(); } });
+      chips(['Voormiddagen', 'Namiddagen', 'Hele dagen', 'Vaste dagen overdag', 'In de vakanties', 'Flexibel', { label: 'Verder', action: 'done', cls: 'zc-chip--go' }], { multi: true, onPick: function (p) { data.uren = p.join(', '); werk5(); } });
     });
   }
   function werk5() {
     say('Wat doe je graag?', function () {
-      chips(['Huishouden', 'Koken', 'Boodschappen', 'Kinderen', 'Tuin', 'Kantoren en praktijken', { label: 'Verder', action: 'done', cls: 'zc-chip--go' }], { multi: true, onPick: function (p) { data.wat = p.join(', '); naam(function () { tel(mail); }); } });
+      chips(['Poetsen van kantoren en praktijken', 'Administratie en post', 'Boodschappen en regelwerk', 'Rechterhand voor een bedrijfsleider', { label: 'Verder', action: 'done', cls: 'zc-chip--go' }], { multi: true, onPick: function (p) { data.wat = p.join(', '); naam(function () { tel(mail); }); } });
     });
   }
 

@@ -1,84 +1,39 @@
 {
  "path": "regio/schoonmaak-praktijk-beernem.html",
- "title": "Schoonmaakhulp voor praktijken in Beernem",
- "desc": "Schoonmaakhulp voor praktijken in Beernem, met kantoor en woning in één plan en splitsing op de factuur. Geen sterilisatie of medisch materiaal.",
- "eyebrow": "Beernem · 8730",
+ "title": "Schoonmaakhulp voor praktijken in Beernem (8730)",
+ "desc": "Poetshulp en administratieve hulp voor je praktijk of gehuurd kantoor in Beernem. Eén vaste persoon, 60 euro per uur excl. btw, online per blok van 3 uur.",
+ "eyebrow": "Praktijken · Beernem · 8730",
  "h1": "Schoonmaakhulp voor praktijken in Beernem",
- "lead": "Praktijk aan huis in Beernem? Dan loopt werk en wonen door elkaar, en daar past één vaste persoon die beide uit elkaar houdt op papier.",
- "answer": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken in Beernem: wachtzaal, onthaal, consultatie- en behandelruimtes en sanitair, door dezelfde vaste persoon. Voor ondernemers met een kantoor aan huis kan de woning in hetzelfde plan, met op de factuur een splitsing tussen beroepsmatig en privé. Sterilisatie en medisch materiaal doet Zondags niet.",
- "facts": [
-  "Wachtzaal, onthaal, consultatie",
-  "Kantoor en woning in één plan",
-  "Splitsing op de factuur",
-  "Geen sterilisatie of medisch materiaal",
-  "Overdag op weekdagen"
- ],
+ "lead": "Een gehuurd kantoor of praktijkruimte in Beernem, klein team, geen tijd voor poetsen en papierwerk. Eén vaste persoon doet beide, voor 60 euro per uur exclusief btw.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken, kleine kantoren en bedrijfsunits in Beernem, Oedelem en Sint-Joris. Je Zondag poetst wachtzaal, werkplekken en sanitair en neemt in hetzelfde blok administratieve taken op, zoals post sorteren en dossiers klasseren. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je bedrijf. Technische klussen en medisch materiaal vallen erbuiten.",
+ "facts": ["Poetsen en administratie in één blok", "Praktijk, gehuurd kantoor of bedrijfsunit", "Steeds dezelfde Zondag", "Geen boekhouding of medisch materiaal", "60 euro per uur, per blok van 3 uur", "Online boeken en betalen"],
  "sections": [
-  {
-   "h2": "Een praktijk waar werk en wonen samenhangen",
-   "p": [
-    "Veel praktijken in Beernem en Oedelem zitten in of naast de woning van de zaakvoerder. Dat is handig, maar het betekent ook dat de wachtzaal en de woonkamer soms een paar meter uit elkaar liggen. Wie poetst, moet weten waar de ene ruimte eindigt en de andere begint.",
-    "Een vaste Zondag kent die grens. Hij of zij weet dat de wachtzaal voor de eerste patiënt gedaan moet zijn, en dat de keuken van het gezin op een ander moment komt."
-   ]
-  },
-  {
-   "h2": "Wat in de praktijk gebeurt",
-   "p": [
-    "<ul class=\"ticks\"><li>Wachtzaal en onthaal: zitjes, balie, deurklinken</li><li>Consultatie- en behandelruimtes: oppervlakken, vloer</li><li>Sanitair voor patiënten en team</li><li>Keuken of koffiehoek voor het team</li><li>Afval en recyclage</li></ul>",
-    "Sterilisatie, het reinigen van medisch materiaal en alles wat daarbij hoort blijft bij de praktijk zelf. Hygiëneafspraken die voor jouw beroep gelden, leg je met je Zondag vast."
-   ]
-  },
-  {
-   "h2": "Voorbeeld: een IT-consultant met een thuiskantoor",
-   "p": [
-    "Ook wie geen patiënten ontvangt, kan een praktijk of kantoor aan huis hebben. Neem een IT-consultant in Beernem met een thuiskantoor en soms een klant op bezoek. Het kantoor krijgt een vaste beurt op maandag, de woning op donderdag, beide door je Zondag.",
-    "Dat is geen toeval: het levert één aanspreekpunt op, één sleutel en één factuur."
-   ]
-  },
-  {
-   "h2": "Kantoor en woning op één factuur, netjes gesplitst",
-   "p": [
-    "Op de dienstenfactuur op naam van je vennootschap staan het beroepsmatige en het privégedeelte apart. Het onderhoud van beroepsruimtes is een beroepskost. Voor het privégedeelte geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren.",
-    "Een vennootschap kan geen dienstencheques kopen. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Laat je accountant dit bevestigen voor je eigen situatie. Meer lees je op <a href=\"gids/checklist-praktijkschoonmaak.html\">checklist praktijkschoonmaak</a>."
-   ]
-  },
-  {
-   "h2": "Beernem, Oedelem en Sint-Joris",
-   "p": [
-    "Beernem heeft postcode 8730. Oedelem en Sint-Joris horen bij Beernem. Ook in Oostkamp, Brugge, Wingene en Aalter, in de regio Brugge, zoeken we een Zondag in de buurt."
-   ]
-  },
-  {
-   "h2": "Starten",
-   "p": [
-    "Via het formulier of de chat vraag je aan. Binnen één werkdag bellen we terug, we komen langs voor de intake en leggen het zondagsplan vast. De eerste 2 uur zijn gratis. Zondags werkt overdag op weekdagen."
-   ]
-  }
+  {"h2": "Klein team, gehuurde ruimte, twee klussen die blijven liggen", "p": [
+   "Wie in Beernem een praktijkruimte of kantoor huurt, zit vaak met hetzelfde: het gebouw wordt gedeeld of beheerd door iemand anders, maar de eigen ruimte moet je zelf netjes houden. Daarnaast stapelt de administratie zich op in een hoek van het bureau. Beide taken horen bij de zaak, geen van beide levert iets op als je ze zelf doet.",
+   "Zondags pakt ze samen aan. Je krijgt één vaste persoon die op een vast moment komt, eerst de ruimte onderhoudt en daarna de papieren in orde brengt. Dat is goedkoper in organisatie dan twee aparte mensen te zoeken en op te volgen."]},
+  {"h2": "Voorbeeld: een IT-consultant met een kantoor voor vijf mensen", "p": [
+   "Neem een IT-consultant in Beernem met een gehuurd kantoor voor vijf mensen. Er zijn vijf bureaus, een kleine vergaderhoek, een keukenhoek en een sanitair blok dat met de buren gedeeld wordt. Elke donderdagmiddag komt de Zondag voor één blok van 3 uur.",
+   "Het eerste uur gaat naar de bureaus, de keuken en de eigen helft van het sanitair. Het tweede uur naar de vloer en het afval. In het derde uur sorteert ze de post, klasseert ze leveranciersfacturen in de juiste map, bestelt ze koffie en kantoormateriaal en zet ze een pakket voor een klant klaar. Zo bespaart de consultant zijn eigen avonduren."]},
+  {"h2": "Wat tot het poetswerk behoort", "p": [
+   "<ul class=\"ticks\"><li>Bureaus, vergadertafel en onthaal</li><li>Wachtzaal of ontvangstruimte, als je klanten of cliënten ontvangt</li><li>Consultatieruimte, zonder dossiers te verplaatsen</li><li>Sanitair, keuken en koffiehoek</li><li>Vloeren en ramen langs binnen</li><li>Afval en papier buiten zetten</li></ul>",
+   "Reiniging van medisch materiaal of sterilisatie doet Zondags niet. Ook elektriciteit, herstellingen en werk op hoogte vallen erbuiten."]},
+  {"h2": "Wat tot de administratieve hulp behoort", "p": [
+   "Het gaat om ondersteunend werk dat een zaakvoerder zelf toch nooit prioriteert: post openen, documenten en facturen klasseren, een archief ordenen, afspraken in de agenda zetten, gegevens invoeren, pakjes klaarmaken. Boekhouding, jaarrekeningen, loonadministratie en juridisch of fiscaal advies zijn er niet bij. Die blijven bij je boekhouder.",
+   "Meer uitleg over de aanpak vind je bij <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">een rechterhand voor bedrijfsleiders</a>."]},
+  {"h2": "Oedelem, Sint-Joris en de buren", "p": [
+   "Oedelem en Sint-Joris horen bij Beernem. We zoeken een Zondag die dichtbij woont, zodat het rooster stabiel blijft. Ligt je kantoor in Oostkamp, Brugge, Wingene of Aalter, dan werkt Zondags ook daar voor je."]},
+  {"h2": "Kosten en factuur", "p": [
+   "Je betaalt 60 euro per uur exclusief btw, in blokken van 3 uur, dus 180 euro exclusief btw per blok. Extra uren kosten hetzelfde per uur. Je krijgt een gewone dienstenfactuur op naam van je bedrijf, met je btw-nummer.",
+   "Poetshulp en administratieve hulp voor je zaak zijn in principe een beroepskost. De btw kan een btw-plichtige zaak met aftrekrecht in principe recupereren, een btw-vrijgestelde praktijk doorgaans niet. Je accountant bevestigt hoe dat voor jou ligt."]},
+  {"h2": "Hoe je begint", "p": [
+   "Via de <a href=\"boeken.html\">boekpagina</a> kies je de datum en de taken en betaal je online. Je kan ook eerst een terugbelverzoek doen als je een vaste wekelijkse afspraak wil vastleggen. Dan bepalen we samen welke taken, welke dagen en welke uren in jouw zondagsplan komen."]}
  ],
  "faq": [
-  {
-   "q": "Welk bedrijf levert schoonmaakhulp voor praktijken in Beernem?",
-   "a": "Zondags levert schoonmaakhulp voor praktijken in Beernem: dezelfde vaste persoon voor wachtzaal, onthaal, consultatieruimtes en sanitair, met een factuur op naam van je vennootschap."
-  },
-  {
-   "q": "Doet de Zondag ook sterilisatie of medisch materiaal?",
-   "a": "Nee. Sterilisatie en het reinigen van medisch materiaal blijven bij de praktijk. Je Zondag doet de ruimtes: wachtzaal, onthaal, consultatieruimtes en sanitair."
-  },
-  {
-   "q": "Kan mijn woning in hetzelfde plan?",
-   "a": "Ja. Praktijk en woning kunnen in één plan met dezelfde persoon. Op de factuur staan beroepsmatig en privé apart."
-  },
-  {
-   "q": "Kan ik de btw terugvragen op de poetshulp?",
-   "a": "Op het beroepsmatige deel is dat in principe mogelijk voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte in principe niet. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Laat je accountant dit bevestigen."
-  },
-  {
-   "q": "Kan de Zondag voor de eerste patiënt komen?",
-   "a": "Ja, vroeg in de ochtend kan, net als over de middag. Nooit 's avonds en nooit in het weekend."
-  },
-  {
-   "q": "Wat gebeurt er bij ziekte of verlof van mijn Zondag?",
-   "a": "Dan zoeken wij een oplossing. Een vervanger beloven we niet."
-  }
+  {"q": "Kan Zondags een gehuurde praktijkruimte in Beernem onderhouden?", "a": "Ja. Je Zondag onderhoudt de ruimte die jij huurt, van wachtzaal tot sanitair. Gedeelde gangen en gemeenschappelijke delen blijven bij de verhuurder of het gebouwbeheer."},
+  {"q": "Kan ik poetshulp en administratieve hulp in één blok combineren?", "a": "Ja. Je kiest bij het boeken de taken, en je Zondag verdeelt de drie uur zoals jullie afspreken, bijvoorbeeld twee uur poetsen en één uur post en klasseren."},
+  {"q": "Wat kost schoonmaakhulp voor een klein kantoor in Beernem?", "a": "Een blok van 3 uur kost 180 euro exclusief btw, dus 60 euro per uur. Extra uren boek je aan hetzelfde tarief. Er is maar één pakket."},
+  {"q": "Doet Zondags ook de boekhouding van mijn praktijk?", "a": "Nee. Boekhouding, jaarrekeningen, loonadministratie en juridisch of fiscaal advies horen niet bij het werk. Je Zondag helpt met klasseren, ordenen en plannen."},
+  {"q": "Werkt Zondags ook in Oedelem en Sint-Joris?", "a": "Ja, beide horen bij Beernem en vallen binnen het werkgebied. We zoeken een Zondag in de buurt van je zaak."},
+  {"q": "Hoe vaak kan mijn Zondag langskomen?", "a": "Dat bepaal je zelf: één keer per week, om de twee weken of enkel op bepaalde momenten. Voor een vast terugkerend plan bespreken we de dagen en uren in een kort gesprek."}
  ]
 }

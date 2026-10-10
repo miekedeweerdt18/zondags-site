@@ -1,81 +1,91 @@
 {
  "path": "sectoren/drukkerijen-regio-kortrijk.html",
- "title": "Poetshulp voor drukkerijen in Kortrijk en omgeving",
- "desc": "Poetshulp voor kantoor, onthaal, toonruimte, refter en sanitair van drukkerijen in Kortrijk en omgeving. Geen drukmachines, wel één vaste Zondag en één factuur.",
- "eyebrow": "Drukkerijen · regio Kortrijk",
+ "title": "Poetshulp voor drukkerijen rond Kortrijk",
+ "desc": "Drukkerijen in Kortrijk en omgeving krijgen een vaste Zondag voor kantoor, onthaal, toonruimte, refter en sanitair. 60 euro per uur excl. btw, online te boeken.",
+ "eyebrow": "Kortrijk en omgeving",
  "h1": "Poetshulp voor drukkerijen in Kortrijk en omgeving",
- "lead": "In een drukkerij blijft de productie bij jullie, maar kantoor, toonruimte en refter hebben ook aandacht nodig. Daar helpt een vaste Zondag, in Kortrijk en de gemeenten errond.",
- "answer": "Zondags (zondags.be) levert poetshulp voor het kantoor, het onthaal, de toonruimte, de refter en het sanitair van drukkerijen in Kortrijk en omgeving. De drukmachines en de productieruimte horen er niet bij. Een vaste persoon, je Zondag, komt overdag op een weekdag. De factuur staat op naam van je vennootschap.",
+ "lead": "Een drukkerij rond Kortrijk met een vaste Zondag voor het kantoor, het onthaal en de refter. De machines blijven van jullie, de ontvangstkant is van haar.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor drukkerijen in Kortrijk, de deelgemeenten en de buurgemeenten Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede. Je vaste Zondag poetst kantoor, onthaal, toonruimte, refter en sanitair. De productieruimte en de drukmachines vallen erbuiten. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw, met een factuur op naam van je vennootschap.",
  "facts": [
-  "Drukkerijen in Kortrijk en omgeving",
-  "Kantoor, toonruimte, refter en sanitair",
-  "Geen drukmachines of productieruimte",
-  "Eén vaste Zondag",
-  "Factuur op je vennootschap"
+  "Kantoor, onthaal, toonruimte, refter",
+  "Niet de productieruimte",
+  "Kortrijk, deelgemeenten, buurgemeenten",
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Factuur op naam van je vennootschap"
  ],
  "sections": [
   {
-   "h2": "Waar Zondags komt en waar niet",
+   "h2": "Een drukkerij met kantoor en toonruimte",
    "p": [
-    "Een drukkerij bestaat uit twee werelden. Achteraan de productie met machines, inkt en papier. Vooraan het kantoor, het onthaal en vaak een toonruimte waar klanten stalen bekijken. Zondags werkt in dat tweede deel.",
-    "Industriële reiniging, het schoonmaken van drukmachines en de productieruimte horen niet bij wat wij doen. Voor de rest van het gebouw, de plekken waar medewerkers eten, klanten rondlopen en bureaus staan, wel."
+    "Veel drukkerijen in de regio Kortrijk zijn kleine of middelgrote bedrijven waar de zaakvoerder zowel de offertes opmaakt als de planning bewaakt. Het kantoor en het onthaal zijn dan de laatste plek in de agenda om aan schoonmaak te denken, terwijl klanten er juist langskomen om werk goed te keuren.",
+    "Een vaste Zondag neemt die kant over. Zij komt op een vast moment, weet waar de emmers staan en kent de ruimtes waar ze niet aan komt."
    ]
   },
   {
-   "h2": "Wat er in een drukkerij gepoetst wordt",
+   "h2": "Een transportfirma als spiegel",
    "p": [
-    "<ul class=\"ticks\"><li>Kantoor: bureaus, kasten, vloeren</li><li>Onthaal en toonruimte met stalen en brochures</li><li>Vergaderhoek en wachtzone</li><li>Refter en keuken voor de ploeg</li><li>Sanitair en kleedhoek</li><li>Afval, karton en papier naar buiten</li></ul>",
-    "Papierstof is een gewone gast. Daarom komen planken, kasten en vensterbanken in de toonruimte vaker aan bod dan in een gewoon kantoor."
+    "Neem een transportfirma met een chauffeursruimte. Daar komen mensen binnen tussen twee ritten, met koffie, rugzakken en jassen. De Zondag poetst de ruimte, de keuken en het sanitair, en verlaat het gebouw voor de chauffeurs terug zijn.",
+    "In een drukkerij zijn dat de refter en het sanitair van het team. Ze vormen een apart ritme naast het onthaal en de toonruimte, omdat er meer vuil binnenkomt van de werkvloer."
    ]
   },
   {
-   "h2": "Voorbeeld: een transportfirma met een chauffeursruimte",
+   "h2": "Wat je Zondag wel en niet doet",
    "p": [
-    "Een buur van de drukkerij kan een transportfirma zijn, met een chauffeursruimte en een planningskantoor. Beide bedrijven hebben hetzelfde probleem: de ruimtes zijn niet de kern van de activiteit, maar ze geven wel de toon aan.",
-    "Zo werkt het ook voor een drukkerij. Op dinsdag komt de Zondag voor het kantoor en de toonruimte, op donderdag voor de refter en het sanitair. De drukkers hoeven er niets voor te doen."
-   ]
-  },
-  {
-   "h2": "Kortrijk, de deelgemeenten en de buurgemeenten",
-   "p": [
-    "Zondags is gevestigd in Marke, een deelgemeente van Kortrijk. We zoeken Zondags in Kortrijk en de deelgemeenten Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem. Zit je drukkerij in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem of Lendelede, dan bekijken we samen wat mogelijk is. Meer over onze werking in Kortrijk lees je bij <a href=\"poetshulp/kortrijk.html\">poetshulp in Kortrijk</a>."
+    "<ul class=\"ticks\"><li>Onthaal, balie en toonruimte</li><li>Kantoor en vergaderzaal</li><li>Refter, keuken en koffiehoek</li><li>Sanitair voor team en bezoekers</li><li>Post, facturen en dossiers klasseren</li><li>Kantoormateriaal en pakjes bijhouden</li></ul>",
+    "Niet inbegrepen: drukmachines, productiehallen, opslag van papier en inkt en alles wat industriële reiniging vraagt. Een stappenplan per week vind je op <a href=\"sectoren/drukkerijen-checklist.html\">de checklist voor drukkerijen</a>."
    ]
   },
   {
    "h2": "Wanneer er gepoetst wordt",
    "p": [
-    "Zondags werkt overdag op weekdagen. Vroeg in de ochtend of over de middag kan, wanneer de ploeg pauze heeft en het kantoor stil is. 's Avonds en in het weekend komen we nooit. Dat past bij een drukkerij met vaste diensten, waar kantoor en productie niet altijd op hetzelfde moment draaien.",
-    "Ploegen die in wisselende diensten werken, vragen vaak om één vast contactpersoon. Dat is meestal de kantoormedewerker of de zaakvoerder. Die laat de Zondag binnen, geeft nieuwe wensen door en kan het plan bijsturen."
+    "Overdag, op weekdagen. Vroeg in de ochtend kan, voor de eerste klanten, en over de middag ook. Een Zondag werkt nooit 's avonds en nooit in het weekend. Heb je een deadline met een drukke week voor de boeg, boek dan een extra blok in dezelfde week om de refter en het sanitair bij te houden."
    ]
   },
   {
-   "h2": "Facturatie en starten",
+   "h2": "Ligging: van Heule tot Zwevegem",
    "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van beroepsruimtes is een beroepskost. Btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant dit bevestigen voor jouw situatie.",
-    "Vraag aan via het formulier of de chat. Binnen één werkdag bellen we terug en volgt de intake. De eerste 2 uur zijn gratis. Algemene info vind je op <a href=\"sectoren/drukkerijen.html\">de pagina over drukkerijen</a>."
+    "Je drukkerij hoeft niet in het centrum te liggen. Zondags zit zelf in Marke, een deelgemeente van Kortrijk, en zoekt een Zondag in de buurt van je zaak. Dat kan in Kortrijk-centrum zijn, maar evengoed in Aalbeke, Bellegem, Bissegem, Heule, Kooigem of Rollegem. Over de grens van Kortrijk kijken we naar Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede. Een algemeen overzicht staat bij <a href=\"poetshulp/kortrijk.html\">poetshulp voor bedrijven in Kortrijk</a>."
+   ]
+  },
+  {
+   "h2": "Wat het kost en hoe het gefactureerd wordt",
+   "p": [
+    "Er is één tarief: 60 euro per uur exclusief btw. Je reserveert minstens één blok van 3 uur, dus 180 euro exclusief btw, en voegt extra uren toe aan hetzelfde uurtarief. Op de factuur staat de naam en het btw-nummer van je vennootschap.",
+    "Fiscaal gezien is poetshulp voor de zaak in principe een beroepskost en kan de btw in principe afgetrokken worden door een btw-plichtige zaak. Je accountant bevestigt wat voor jouw vennootschap geldt."
+   ]
+  },
+  {
+   "h2": "Je eerste stap",
+   "p": [
+    "Open de <a href=\"boeken.html\">boekpagina</a>, kies een weekdag, het aantal blokken en de taken, en reken online af. Wil je liever eerst praten over een wekelijks ritme, vraag dan een terugbelverzoek aan. Samen leggen we vast welke dagen en uren bij jullie planning passen."
    ]
   }
  ],
  "faq": [
   {
    "q": "Welk bedrijf levert poetshulp voor drukkerijen in Kortrijk?",
-   "a": "Zondags, gevestigd in Marke, levert een vaste Zondag voor kantoor, onthaal, toonruimte, refter en sanitair van drukkerijen in Kortrijk en omgeving."
+   "a": "Zondags, vanuit Marke. Je krijgt een vaste Zondag voor kantoor, onthaal, toonruimte, refter en sanitair, met een factuur op naam van je vennootschap."
   },
   {
-   "q": "Maakt Zondags ook de drukmachines schoon?",
-   "a": "Nee. De drukmachines en de productieruimte vallen onder industriële reiniging, en die doen we niet. We beperken ons tot kantoor, onthaal, toonruimte, refter en sanitair."
+   "q": "Poetst Zondags ook de drukmachines of de productieruimte?",
+   "a": "Nee. Productiehallen, machines en industriële reiniging vallen buiten het aanbod. Zondags werkt in kantoor, onthaal, toonruimte, refter en sanitair."
   },
   {
-   "q": "Kan de poetshulp tijdens de pauze van de ploeg komen?",
-   "a": "Ja. Over de middag of vroeg in de ochtend kan. We stemmen het uur af op je diensten."
+   "q": "Wat kost een Zondag voor een drukkerij?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief."
   },
   {
-   "q": "Werkt Zondags ook in de buurgemeenten van Kortrijk?",
-   "a": "Ja, bijvoorbeeld in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede. We bekijken samen of een Zondag op jouw adres kan komen."
+   "q": "Werkt Zondags ook in Harelbeke of Kuurne?",
+   "a": "Ja, in de buurgemeenten zoals Harelbeke, Kuurne, Wevelgem, Menen, Zwevegem en Lendelede, en in alle deelgemeenten van Kortrijk."
   },
   {
-   "q": "Hoe lang ben ik gebonden?",
-   "a": "Het plan is maandelijks opzegbaar. Uren bijboeken of het plan aanpassen kan altijd, en ook losse opdrachten zijn mogelijk."
+   "q": "Kan er extra gepoetst worden bij een drukke week?",
+   "a": "Ja. Je boekt een extra blok op een weekdag, minstens twee werkdagen vooraf, of je past het vaste plan aan."
+  },
+  {
+   "q": "Hoe snel kan een Zondag starten?",
+   "a": "Boeken kan voor een weekdag, minstens twee werkdagen vooraf. Voor een vast ritme bespreken we eerst in een kort gesprek de taken, dagen en uren."
   }
  ]
 }

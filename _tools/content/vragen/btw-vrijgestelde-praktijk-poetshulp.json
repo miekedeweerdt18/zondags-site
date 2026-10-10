@@ -1,78 +1,35 @@
 {
  "path": "vragen/btw-vrijgestelde-praktijk-poetshulp.html",
- "title": "Btw-vrijgestelde praktijk: btw op poetshulp",
- "desc": "Een btw-vrijgestelde praktijk kan de btw op haar kosten doorgaans niet recupereren. Wat dat betekent voor poetshulp en wat je accountant moet bevestigen.",
- "eyebrow": "Vraag · Btw en praktijk",
+ "title": "Btw recupereren op poetshulp als vrijgestelde praktijk",
+ "desc": "Kan een btw-vrijgestelde praktijk de btw op poetshulp recupereren? Wat dat in de praktijk betekent, wat je je accountant vraagt en hoe Zondags factureert.",
+ "eyebrow": "Vraag",
  "h1": "Kan een btw-vrijgestelde praktijk de btw op poetshulp recupereren?",
- "lead": "Wie vrijgesteld is van btw, rekent geen btw aan en kan die doorgaans ook niet aftrekken. Zo werkt dat voor de poetshulp van je praktijk, en wat je best afstemt met je accountant.",
- "answer": "Doorgaans niet. Een btw-vrijgestelde praktijk, zoals veel medische en paramedische beroepen, kan de btw op haar kosten meestal niet recupereren, dus de btw op poetshulp is een echte kost. Zondags (zondags.be) stuurt een gewone dienstenfactuur op naam van je vennootschap, waarop het beroepsmatige en het privégedeelte uit elkaar gehouden worden. Wat jouw praktijk precies kan recupereren, bevestigt je accountant.",
- "facts": [
-  "Btw-vrijgesteld: doorgaans geen recuperatie",
-  "Btw op poetshulp is dan een echte kost",
-  "Onderhoud van je praktijk: beroepskost",
-  "Dienstenfactuur op naam van je vennootschap",
-  "Accountant bevestigt je situatie"
- ],
+ "lead": "Meestal niet. Wie btw-vrijgestelde prestaties levert, heeft doorgaans geen recht op aftrek van de btw op zijn aankopen. Zo bekijk je wat dat voor poetshulp in je praktijk betekent.",
+ "answer": "Een btw-vrijgestelde praktijk kan de btw op poetshulp doorgaans niet recupereren, omdat aftrek alleen kan voor wie btw-plichtige handelingen stelt. De btw op de factuur wordt dan een meerkost. Zondags (zondags.be) factureert aan de vennootschap met btw-nummer: 60 euro per uur exclusief btw, geboekt per blok van 3 uur. Laat je accountant bevestigen wat voor jouw praktijk geldt, zeker bij een gemengde situatie.",
+ "facts": ["Vrijgestelde praktijk: doorgaans geen btw-aftrek", "De btw op de factuur wordt een meerkost", "Gemengde situatie: accountant bepaalt", "60 euro per uur, per blok van 3 uur", "Factuur op naam van je vennootschap"],
  "sections": [
-  {
-   "h2": "Wat btw-vrijgesteld betekent",
-   "p": [
-    "Een praktijk is btw-vrijgesteld wanneer haar prestaties van btw zijn vrijgesteld. Dat is bij veel medische en paramedische beroepen het geval. Je rekent dan geen btw aan je patiënten of klanten aan. Het principe daarachter is eenvoudig: wie geen btw aanrekent, kan de btw op zijn kosten doorgaans ook niet recupereren."
-   ]
-  },
-  {
-   "h2": "Wat dat betekent voor de poetshulp van je praktijk",
-   "p": [
-    "Op een dienstenfactuur voor poetshulp zit btw. Voor een btw-plichtige zaak met aftrekrecht is die in principe recupereerbaar op het beroepsmatige deel. Voor een btw-vrijgestelde praktijk is dat doorgaans niet het geval, waardoor de btw een echte kost wordt. Houd daar rekening mee in je begroting en kijk naar het totaalbedrag in plaats van naar het bedrag zonder btw.",
-    "Het onderhoud van je praktijk blijft wel een beroepskost. Het verschil zit enkel in de btw.",
-    "Neem een kinesitherapiepraktijk die elke week laat poetsen: de btw op de dienstenfactuur is voor die praktijk doorgaans geen bedrag dat ze terugkrijgt, maar een kost die mee telt in het totaal. Neem daartegenover een architectenbureau dat wel btw-plichtig is met aftrekrecht: daar is de btw op het beroepsmatige deel in principe recupereerbaar."
-   ]
-  },
-  {
-   "h2": "Gemengde situaties",
-   "p": [
-    "Niet elke praktijk is volledig vrijgesteld. Heb je naast je vrijgestelde activiteit ook btw-plichtige activiteiten, of werk je via een vennootschap met een gemengde werking, dan wordt het genuanceerder. Wat dan wel of niet recupereerbaar is, bepaalt je accountant op basis van je situatie. Probeer dat niet zelf in te schatten."
-   ]
-  },
-  {
-   "h2": "En het privégedeelte van je woning?",
-   "p": [
-    "Laat je ook je woning poetsen, dan staat dat gedeelte apart op de factuur. De btw op het privégedeelte is in principe niet recupereerbaar. Voor dat deel van de factuur geldt een forfaitair voordeel van alle aard, mits de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Zo houd je kantoor- en privékosten netjes gescheiden."
-   ]
-  },
-  {
-   "h2": "Wat je concreet kan doen",
-   "p": [
-    "<ul class=\"ticks\"><li>Laat je btw-status bevestigen door je accountant</li><li>Vraag welke btw je wel en niet kan recupereren</li><li>Geef de dienstenfactuur door met de splitsing beroepsmatig en privé</li><li>Houd rekening met het totaalbedrag in je begroting</li><li>Herbekijk dit wanneer je activiteiten veranderen</li></ul>"
-   ]
-  },
-  {
-   "h2": "Hoe Zondags hiermee omgaat",
-   "p": [
-    "Zondags geeft geen fiscaal advies, maar zorgt voor een duidelijke dienstenfactuur op naam van je vennootschap. Je Zondag poetst je wachtzaal, consultatieruimtes en sanitair op een vast moment. Omdat een vennootschap geen dienstencheques kan kopen, is de dienstenfactuur de gewone weg. Meer achtergrond vind je op <a href=\"gids/btw-huishoudelijke-diensten.html\">btw op huishoudelijke diensten via je vennootschap</a>."
-   ]
-  }
+  {"h2": "Waarom aftrek aan je eigen btw-regime hangt", "p": [
+   "Btw-aftrek volgt een eenvoudige logica: wie btw int op zijn eigen prestaties, trekt de btw op zijn kosten af. Wie voor zijn prestaties vrijgesteld is, int geen btw en heeft in de regel dus ook geen aftrekrecht. Poetshulp verandert daar niets aan. De factuur van de poetsfirma bevat btw, en jij draagt ze mee als kost.",
+   "Of jouw praktijk vrijgesteld is, hangt af van wat je precies doet en onder welk regime je werkt. Dat is geen vraag voor een poetsfirma, maar voor je accountant."]},
+  {"h2": "Een voorbeeld met een praktijk in een vennootschap", "p": [
+   "Stel: je hebt een groepspraktijk in de vorm van een vennootschap, met drie behandelkamers, een wachtzaal en een kleine keuken. Je prestaties zijn btw-vrijgesteld. Je boekt een blok van 3 uur, dat is 180 euro exclusief btw. Op de factuur komt de btw erbovenop, en die kan je als vrijgestelde doorgaans niet terugvragen. Reken dus in je begroting met het bedrag inclusief btw."]},
+  {"h2": "Wat als je praktijk maar deels vrijgesteld is", "p": [
+   "Veel zaken zitten tussen twee regimes: een deel van de omzet is vrijgesteld, een ander deel niet. Dan kan een verdeling spelen, waarbij slechts een stuk van de btw aftrekbaar is. Hoe die verdeling bepaald wordt, is een boekhoudkundige oefening die je niet zelf moet raden.",
+   "Houd bij zo'n gemengde situatie de facturen netjes bij en vraag je accountant om één keer vast te leggen hoe poetshulp wordt geboekt. Daarna blijft het hetzelfde voor elke factuur."]},
+  {"h2": "Wat je je accountant voorlegt", "p": [
+   "<ul class=\"ticks\"><li>Ben ik voor al mijn prestaties vrijgesteld, of maar voor een deel?</li><li>Mag ik de btw op onderhoud van de praktijk helemaal, deels of niet aftrekken?</li><li>Hoe boek ik de factuur van poetshulp in mijn rekeningen?</li><li>Verandert er iets als mijn activiteiten groeien of verschuiven?</li></ul>",
+   "Neem een recente factuur mee, dan kan hij meteen op een echt voorbeeld antwoorden."]},
+  {"h2": "Wat Zondags op de factuur zet", "p": [
+   "Je krijgt een gewone dienstenfactuur op naam van je vennootschap, met je btw-nummer. Het tarief is één pakket: 60 euro per uur exclusief btw, per blok van 3 uur, met extra uren aan hetzelfde tarief. Zo zie je altijd welk bedrag je bruto en netto draagt en kan je accountant de btw zuiver verwerken.",
+   "Poetshulp voor de zaak is in principe een beroepskost. De btw-kant verschilt per praktijk, dus laat je accountant dit bevestigen voor je eigen situatie."]},
+  {"h2": "Online boeken zonder gedoe", "p": [
+   "Op de <a href=\"boeken.html\">boekpagina</a> kies je datum, aantal blokken en taken, vul je de naam en het btw-nummer van de praktijk in en betaal je online. Voor een terugkerende afspraak kan je ook bellen op 0470 56 53 58."]}
  ],
  "faq": [
-  {
-   "q": "Welke praktijken zijn btw-vrijgesteld?",
-   "a": "Veel medische en paramedische beroepen zijn vrijgesteld van btw, maar niet elke situatie is gelijk. Een praktijk die ook btw-plichtige activiteiten heeft, valt bijvoorbeeld in een gemengde situatie. Of jouw praktijk vrijgesteld is, bevestigt je accountant."
-  },
-  {
-   "q": "Is het onderhoud van mijn praktijk dan nog een beroepskost?",
-   "a": "Ja, ook voor een btw-vrijgestelde praktijk is het onderhoud van beroepsruimtes een beroepskost. Het verschil zit in de btw: die kan je doorgaans niet recupereren. Of dat bij jou zo uitpakt, bevestigt je accountant."
-  },
-  {
-   "q": "Wat als ik mijn woning ook laat poetsen?",
-   "a": "Dan staat het privégedeelte apart op de factuur. De btw daarop is in principe niet recupereerbaar. Daarnaast geldt voor dat deel een forfaitair voordeel van alle aard, als de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren."
-  },
-  {
-   "q": "Geeft Zondags btw-advies?",
-   "a": "Nee. Fiscaal advies hoort bij je accountant, niet bij Zondags. Wel levert Zondags een duidelijke dienstenfactuur met de splitsing tussen beroepsmatig en privé, zodat je accountant weet wat waar hoort. Wat je met de btw doet, bepaalt je accountant."
-  },
-  {
-   "q": "Kan ik dienstencheques gebruiken om de btw te vermijden?",
-   "a": "Nee. Het dienstenchequesysteem is enkel bedoeld voor particulieren, dus je vennootschap kan de cheques niet aankopen. Voor het onderhoud van je praktijk is de dienstenfactuur de gewone weg. De btw daarop bespreek je met je accountant, want die hangt af van je btw-status."
-  }
+  {"q": "Kan een vrijgestelde praktijk de btw op poetshulp aftrekken?", "a": "Doorgaans niet. Aftrek hoort bij wie btw-plichtige handelingen stelt. Wie vrijgesteld is, draagt de btw op de factuur als kost. Je accountant bevestigt wat voor jouw praktijk geldt."},
+  {"q": "Moet ik de btw betalen als mijn praktijk vrijgesteld is?", "a": "Ja, de poetsfirma rekent btw aan op de factuur, ook als jouw prestaties vrijgesteld zijn. Het verschil zit in wat je daarna kan terugvragen, niet in wat je betaalt."},
+  {"q": "Wat als mijn praktijk deels btw-plichtig is?", "a": "Dan kan een deel van de btw aftrekbaar zijn. Je accountant bepaalt de verdeling en hoe je de factuur boekt. Vraag het één keer en pas het daarna op elke factuur toe."},
+  {"q": "Staat mijn btw-nummer op de factuur van Zondags?", "a": "Ja. Bij het online boeken geef je de naam en het btw-nummer van je bedrijf in, en de dienstenfactuur wordt op die naam opgemaakt."},
+  {"q": "Is poetshulp voor een praktijk een beroepskost?", "a": "In principe wel, als het onderhoud van de praktijk zelf gaat. Laat je accountant dit bevestigen voor je eigen situatie, zeker als je zaak gemengde activiteiten heeft."}
  ]
 }

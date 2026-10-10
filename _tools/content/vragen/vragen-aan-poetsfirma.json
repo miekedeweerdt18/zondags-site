@@ -1,86 +1,86 @@
 {
  "path": "vragen/vragen-aan-poetsfirma.html",
- "title": "Welke vragen stel je aan een poetsfirma?",
- "desc": "Welke vragen stel je aan een poetsfirma voor je bedrijf? Een lijst over continuïteit, afwezigheid, factuur, planning en grenzen, met de antwoorden van Zondags.",
+ "title": "Vragen die je stelt aan een poetsfirma",
+ "desc": "Welke vragen stel je aan een poetsfirma voor je bedrijf? Een lijst per thema: personeel, taken, prijs, factuur, uitval en stoppen, met wat Zondags antwoordt.",
  "eyebrow": "Vraag",
  "h1": "Welke vragen stel je aan een poetsfirma voor je bedrijf?",
- "lead": "Met de juiste vragen in het eerste gesprek weet je meteen of een poetsfirma bij je zaak past. Dit is de lijst, per onderwerp, met telkens waarom de vraag telt.",
- "answer": "Stel een poetsfirma vragen over continuïteit, afwezigheid, administratie, planning en grenzen: komt er steeds dezelfde persoon, wat gebeurt er bij ziekte of verlof, krijg ik een factuur op naam van mijn vennootschap, kan ik maandelijks opzeggen en wat valt buiten het aanbod? Zondags (zondags.be) beantwoordt die vragen tijdens de intake en legt de antwoorden vast in je zondagsplan.",
+ "lead": "Een goed gesprek met een poetsfirma bespaart je later veel gedoe. Met deze vragen weet je snel of de afspraken kloppen en wie er straks in je zaak staat.",
+ "answer": "Stel een poetsfirma vragen over wie er komt, wat er precies gebeurt, wat het kost, wat er op de factuur staat en wat er gebeurt bij ziekte of als het niet klikt. Zondags (zondags.be) beantwoordt die vragen vooraf: je krijgt steeds dezelfde gescreende persoon in dienst van Zondags, aan 60 euro per uur exclusief btw, per blok van 3 uur.",
  "facts": [
-  "Vragen per onderwerp, met reden",
-  "Continuïteit, afwezigheid, factuur, grenzen",
-  "Laat antwoorden schriftelijk vastleggen",
-  "Zondags beantwoordt ze bij de intake",
-  "Ook voor je woning in hetzelfde plan"
+  "Vraag wie er komt en of dat vast is",
+  "Vraag wat er in de prijs zit",
+  "Vraag naar ziekte, verlof en wisselen",
+  "Vraag wat er op de factuur staat",
+  "60 euro per uur, per blok van 3 uur"
  ],
  "sections": [
   {
-   "h2": "Over de persoon die komt",
+   "h2": "Eerst: wie komt er in je zaak?",
    "p": [
-    "<ul class=\"ticks\"><li>Komt er steeds dezelfde persoon, op welke dag en welk uur?</li><li>Is die persoon in dienst van de firma of zelfstandig?</li><li>Hoe wordt iemand gescreend voordat die in je kantoor komt?</li></ul>",
-    "Dit zijn de vragen over vertrouwen. Je geeft je sleutel aan iemand, dus je wil weten wie dat is en voor wie die persoon werkt."
+    "<ul class=\"ticks\"><li>Is de persoon in dienst van het bedrijf of zelfstandig?</li><li>Komt het telkens dezelfde persoon, of wisselt dat?</li><li>Hoe wordt iemand gescreend voor ze een sleutel krijgt?</li><li>Wie is je aanspreekpunt als er iets misloopt?</li></ul>",
+    "Je laat iemand binnen in je kantoor of praktijk, tussen documenten en apparatuur. Het antwoord op deze vragen zegt veel over hoe serieus een firma haar mensen kiest. Bij Zondags is het een vaste, gescreende persoon in dienst van Zondags, steeds dezelfde."
    ]
   },
   {
-   "h2": "Over afwezigheid en vervanging",
+   "h2": "Dan: wat doen ze precies?",
    "p": [
-    "<ul class=\"ticks\"><li>Wat gebeurt er bij ziekte of verlof?</li><li>Hoe word ik op de hoogte gebracht?</li><li>Kan ik wisselen van persoon als het niet klikt?</li></ul>",
-    "Een eerlijk antwoord is belangrijker dan een mooi antwoord. Vraag hoe het in de praktijk verloopt, niet enkel wat er in de folder staat."
+    "Vraag om een lijst van de taken en om wat er niet bij hoort. Een firma die alles belooft, komt zelden alles na. Bij Zondags gaat het om poetsen van kantoor, praktijk of winkel, desgewenst aangevuld met administratieve hulp zoals post sorteren en klasseren, of met regelwerk voor de bedrijfsleider. Boekhouding, technische klussen en werken op hoogte horen er niet bij.",
+    "Laat de taken, de dag en het uur ook noteren. Bij Zondags staat dat in het zondagsplan."
    ]
   },
   {
-   "h2": "Over administratie en factuur",
+   "h2": "Vervolgens: wat kost het, en wat zit erin?",
    "p": [
-    "<ul class=\"ticks\"><li>Krijg ik een factuur op naam van mijn vennootschap?</li><li>Kan het beroepsmatige en het privégedeelte apart op de factuur, als mijn woning mee moet?</li><li>Hoe zit het met de btw, in grote lijnen?</li></ul>",
-    "Een vennootschap kan geen dienstencheques kopen, dus een firma die enkel daarmee werkt, past niet bij een zaak. De btw-vraag leg je ook aan je accountant voor."
+    "Vraag naar de uurprijs, naar een eventuele minimumduur en naar wat er extra aangerekend kan worden. Vraag ook of de prijs exclusief of inclusief btw is. Bij Zondags is er één pakket: 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw. Extra uren boek je aan dezelfde 60 euro per uur.",
+    "Een firma die geen duidelijk bedrag wil noemen, laat je beter even liggen."
    ]
   },
   {
-   "h2": "Over planning en flexibiliteit",
+   "h2": "Ook belangrijk: de factuur",
    "p": [
-    "<ul class=\"ticks\"><li>Kan ik uren bijboeken of het plan aanpassen?</li><li>Wat is de opzegtermijn, en is er een minimumduur of proefperiode?</li><li>Wat gebeurt er met de sleutel als ik stop?</li></ul>"
+    "Je wil een gewone dienstenfactuur op naam van je bedrijf, met je btw-nummer. Vraag dat vooraf. Het onderhoud van je kantoor is in principe een beroepskost en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, maar dat hangt van jouw situatie af. Laat je accountant het bevestigen."
    ]
   },
   {
-   "h2": "Over taken en grenzen",
+   "h2": "Wat als het misloopt?",
    "p": [
-    "<ul class=\"ticks\"><li>Welke taken horen bij het aanbod en welke niet?</li><li>Wie voorziet het poetsmateriaal?</li><li>Wie is mijn aanspreekpunt als er iets misloopt?</li></ul>",
-    "Over het materiaal staat meer bij <a href=\"vragen/wie-voorziet-poetsmateriaal.html\">wie het poetsmateriaal voorziet</a>. En wat bij het vaste werk van een poetshulp hoort, lees je bij <a href=\"vragen/wat-doet-poetshulp-op-kantoor.html\">wat een poetshulp op kantoor doet</a>."
+    "Stel de vragen die je liever vooraf dan achteraf stelt. Wat gebeurt er als de persoon ziek is of met verlof gaat? Kan je van persoon wisselen als het niet klikt? Hoe geef je klachten door en wie reageert?",
+    "Bij Zondags zoeken wij een oplossing bij ziekte of verlof, al beloven we geen vaste vervanger. Klikt het niet, dan zoeken we samen een andere Zondag."
    ]
   },
   {
-   "h2": "Zo lees je de antwoorden",
+   "h2": "Een voorbeeld: een fysiopraktijk die twee firma's vergelijkt",
    "p": [
-    "Een goed teken: concrete antwoorden, eerlijkheid over wat niet kan en bereidheid om te komen kijken voor er iets wordt vastgelegd. Een slecht teken: vage uitleg, haast, een offerte zonder bezoek ter plaatse of een weigering om afspraken op papier te zetten. Vraag altijd dat de belangrijkste punten, zoals taken, dag, uur en opzegregels, schriftelijk bevestigd worden."
+    "Neem een praktijk met drie behandelkamers en een wachtzaal. De zaakvoerder stuurt dezelfde vijf vragen naar twee firma's: wie komt, wat is inbegrepen, wat kost het, wat staat er op de factuur, wat bij uitval. Het verschil in de antwoorden maakt de keuze bijna vanzelf. Eén firma noemt een vaste persoon en een duidelijk bedrag, de andere blijft vaag over beide."
    ]
   },
   {
-   "h2": "Hoe Zondags de vragen beantwoordt",
+   "h2": "Zo start je met Zondags",
    "p": [
-    "Bij Zondags komt steeds dezelfde persoon, gescreend en in dienst van Zondags, op een vaste dag en uur. Bij ziekte of verlof zoeken wij een oplossing, zonder dat we een vervanger op elke dag toezeggen. De factuur is een gewone dienstenfactuur op naam van je vennootschap, met een opsplitsing van beroepsmatig en privé als je woning mee zit in het plan. Het plan is maandelijks opzegbaar en de eerste 2 uur zijn gratis, om kennis te maken."
+    "Heb je je vragen op een rij, dan kan je meteen <a href=\"boeken.html\">online boeken</a> of een terugbelverzoek achterlaten. Wil je liever eerst praten, bel of stuur een WhatsApp naar 0470 56 53 58, elke dag van 6 tot 22 uur. Meer over de aanpak lees je op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Welke vraag sla je best niet over?",
-   "a": "Wat gebeurt er bij ziekte of verlof? Het antwoord toont of een firma continuïteit serieus neemt. Bij Zondags zoeken wij een oplossing; een vervanger op dezelfde dag kunnen we niet altijd toezeggen."
+   "q": "Welke vragen stel je aan een poetsfirma?",
+   "a": "Vraag wie er komt, of dat steeds dezelfde persoon is, wat de taken zijn, wat het kost, wat er op de factuur staat en wat er gebeurt bij ziekte of als het niet klikt. Vraag het liefst alles schriftelijk."
   },
   {
-   "q": "Moet ik de antwoorden schriftelijk laten vastleggen?",
-   "a": "Ja, zeker voor taken, dag, uur, opzegregels en materiaal. Wat op papier staat, kan je later terugvinden als er een misverstand ontstaat. Bij Zondags komen de afspraken in je zondagsplan, dat je samen opmaakt tijdens de intake."
+   "q": "Hoe herken je een betrouwbare poetsfirma?",
+   "a": "Ze noemt een duidelijke prijs, legt taken en uren vast, werkt met mensen in dienst en geeft een gewone factuur op naam van je bedrijf. Vage antwoorden over wie er komt zijn een signaal om door te vragen."
   },
   {
-   "q": "Wanneer vraag ik best meerdere offertes?",
-   "a": "Wanneer je twijfelt tussen types aanbieders, zoals een zelfstandige, een firma met ploegen en een dienstverlener met een vaste persoon. Vraag voor elk dezelfde taken, uren en frequentie, zodat je eerlijk vergelijkt."
+   "q": "Moet ik een offerte vragen aan een poetsfirma?",
+   "a": "Dat kan, zeker voor grote of ongewone ruimtes. Bij Zondags is de prijs altijd dezelfde: 60 euro per uur exclusief btw, per blok van 3 uur, dus je kan meteen online boeken."
   },
   {
-   "q": "Welke vragen moet ik zelf kunnen beantwoorden?",
-   "a": "Welke ruimtes het zijn, welke taken je wil, op welk moment het past en wat vertrouwelijk is. Heb je dat op papier, dan loopt het eerste gesprek veel vlotter."
+   "q": "Mag ik de persoon eerst leren kennen?",
+   "a": "Vraag het gewoon. Bij een vast plan bespreken we eerst de taken, dagen en uren in een kort gesprek. Klikt het niet met je Zondag, dan zoeken we samen een andere."
   },
   {
-   "q": "Kan ik deze vragen ook aan Zondags stellen?",
-   "a": "Ja, graag. Stel ze bij je aanvraag, aan de telefoon of tijdens de intake ter plaatse. Bel of app naar 0470 56 53 58, elke dag van 6 tot 22 uur, of mail naar hello@zondags.be."
+   "q": "Wat vraag ik over discretie in mijn praktijk?",
+   "a": "Vraag hoe de firma omgaat met dossiers en vertrouwelijke documenten die rondslingeren, en spreek af wat er op bureaus mag blijven liggen. Discretie is een afspraak, geen vanzelfsprekendheid."
   }
  ]
 }

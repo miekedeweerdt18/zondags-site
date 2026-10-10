@@ -1,83 +1,40 @@
 {
  "path": "vragen/poetshulp-voor-kantoor-in-kortrijk-wat-te-weten.html",
  "title": "Poetshulp voor je kantoor in Kortrijk: wat weten?",
- "desc": "Wat moet je weten voor je poetshulp zoekt voor je kantoor in Kortrijk? Een checklist met vragen, planning, factuur en hoe je start met een vaste Zondag.",
- "eyebrow": "Vraag",
+ "desc": "Wat moet je weten voor je poetshulp zoekt voor je kantoor in Kortrijk? Uren, taken, factuur, btw en boeken, met de deelgemeenten en buurgemeenten erbij.",
+ "eyebrow": "Vraag · Kortrijk 8500",
  "h1": "Poetshulp voor je kantoor in Kortrijk: wat moet je vooraf weten?",
- "lead": "Voor je poetshulp zoekt, helpt het om een paar dingen op een rij te zetten. Zo kies je sneller en kom je minder verrast uit de bus.",
- "answer": "Voor poetshulp voor je kantoor in Kortrijk bepaal je vooraf wat je wilt laten doen, wanneer, hoe vaak en met welke factuur. Zondags (zondags.be) levert een vaste Zondag, in dienst van Zondags, overdag op weekdagen, met een dienstenfactuur op naam van je vennootschap. De eerste 2 uur zijn gratis. Wat in jouw situatie fiscaal geldt, bevestigt je accountant.",
- "facts": [
-  "Bepaal taken, dagen en uren",
-  "Vaste persoon of wisselende ploeg?",
-  "Factuur op naam van de vennootschap",
-  "Overdag op weekdagen",
-  "Maandelijks opzegbaar",
-  "Eerste 2 uur gratis"
- ],
+ "lead": "Voor je poetshulp vindt voor je kantoor in Kortrijk, helpt het om vooraf te weten welke uren, taken en facturatie bij je zaak passen.",
+ "answer": "Wie poetshulp zoekt voor een kantoor in Kortrijk (8500), beslist best eerst over frequentie, taken en moment van de dag. Zondags (zondags.be) werkt vanuit Marke, een deelgemeente van Kortrijk, met één vaste persoon per bedrijf, overdag op weekdagen. Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, en je krijgt een factuur op naam van je bedrijf. Boeken doe je online, minstens twee werkdagen vooraf.",
+ "facts": ["Kantoor in Kortrijk en deelgemeenten", "Eén vaste persoon, vaste dag en uur", "Overdag op weekdagen", "Factuur op naam van je bedrijf", "60 euro per uur, per blok van 3 uur", "Online boeken en betalen"],
  "sections": [
-  {
-   "h2": "Begin bij wat er moet gebeuren",
-   "p": [
-    "Loop in je kantoor rond en schrijf op wat je wilt laten doen: bureaus, vergaderzaal, keuken, sanitair, vloeren, ramen langs binnen, afval. Noteer wat je liever zelf houdt. Zo krijg je een eerste versie van je zondagsplan, nog voor je iemand belt.",
-    "Voor een eerste idee: <a href=\"gids/checklist-kantoorschoonmaak.html\">de checklist kantoorschoonmaak</a> helpt je een lijstje op te stellen."
-   ]
-  },
-  {
-   "h2": "Dagen, uren en frequentie",
-   "p": [
-    "Vraag jezelf af wanneer het kantoor het best gepoetst wordt. Vroeg in de ochtend, voor het team binnenkomt? Over de middag, wanneer er weinig bezoek is? Wekelijks is een goede start. Heb je een druk kantoor, dan kan je twee beurten per week of extra uren bijboeken.",
-    "Zondags werkt overdag op weekdagen, nooit in de avond en nooit in het weekend. Dat weet je dus best voordat je plant."
-   ]
-  },
-  {
-   "h2": "Een vaste persoon of een wisselende ploeg",
-   "p": [
-    "<ul class=\"ticks\"><li>Vaste persoon: kent je kantoor, minder uitleg nodig, meer vertrouwen</li><li>Wisselende ploeg: flexibel, maar je legt telkens opnieuw uit</li><li>Vraag wat er bij ziekte of verlof gebeurt</li><li>Vraag of de mensen in dienst zijn of zelfstandig werken</li></ul>",
-    "Bij Zondags krijg je één vaste Zondag, gescreend en in dienst van Zondags. Bij ziekte of verlof zoeken wij een oplossing; klikt het niet, dan zoeken we samen een andere persoon."
-   ]
-  },
-  {
-   "h2": "Factuur, btw en je accountant",
-   "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Bij Zondags krijg je een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van je kantoor is een beroepskost. De btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, voor een btw-vrijgestelde praktijk doorgaans niet.",
-    "Vraag je accountant om dit voor jouw situatie te bevestigen. Lees ook <a href=\"gids/huishoudhulp-via-vennootschap.html\">huishoudhulp via je vennootschap</a>."
-   ]
-  },
-  {
-   "h2": "Kortrijk en omgeving",
-   "p": [
-    "Zondags is gevestigd in Marke, een deelgemeente van Kortrijk, en zoekt een Zondag in en rond Kortrijk: ook in Aalbeke, Bellegem, Bissegem, Heule, Kooigem en Rollegem, en in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede. We beloven niet dat er in elke straat al iemand klaarstaat, maar we zoeken actief naar iemand die bij je zaak past.",
-    "Wil je ook je woning laten poetsen, dan kan dezelfde Zondag dat op een andere dag doen. Op de factuur staan beroepsmatig en privé apart."
-   ]
-  },
-  {
-   "h2": "Stel: een architectenbureau met vijf medewerkers",
-   "p": [
-    "Neem een architectenbureau in Kortrijk met vijf medewerkers. De zaakvoerder noteert wat er moet gebeuren, kiest maandagochtend vroeg en vraagt om ook de woning op donderdag mee te nemen. Hij belt of stuurt een bericht naar 0470 56 53 58, krijgt binnen één werkdag antwoord en plant de intake.",
-    "Daar bespreken ze samen het zondagsplan, de afspraken en het materiaal. De eerste 2 uur zijn gratis, en hij kan maandelijks opzeggen."
-   ]
-  }
+  {"h2": "Bepaal eerst wat je kantoor nodig heeft", "p": [
+   "Een kantoor in Kortrijk kan veel vormen hebben: een bureau met drie mensen in een stadspand, een tweede verdieping boven een winkel, een bedrijfsunit met onthaal aan de rand, een coworking met gedeelde keuken. Elke plek vraagt een ander ritme.",
+   "Tel hoeveel mensen er dagelijks zijn, hoe vaak klanten langskomen en welke ruimtes ze zien. Dat bepaalt of een wekelijkse beurt volstaat of dat het onthaal en het sanitair vaker aandacht nodig hebben."]},
+  {"h2": "Werk met één vaste persoon in plaats van een wisselende ploeg", "p": [
+   "Bij kantoren telt vertrouwen zwaar. Er liggen dossiers op bureaus, laptops staan open en de sleutel of badge hangt aan een bepaalde persoon. Daarom werkt Zondags met één vaste persoon, je Zondag, op een vaste dag en een vast uur. Ze kent je zaak, je gewoontes en de plekken waar je liever niets verplaatst.",
+   "Ze is gescreend en in dienst van Zondags. Het is dus geen zelfstandige die telkens anders te werk gaat. Klikt het toch niet, dan zoeken we samen een andere Zondag."]},
+  {"h2": "Wat er in een goed afgesproken beurt zit", "p": [
+   "Maak de afspraken concreet voor ze starten. Zo vermijd je discussies later.",
+   "<ul class=\"ticks\"><li>Bureaus, vergadertafel en onthaal afnemen</li><li>Vloeren stofzuigen en dweilen</li><li>Sanitair en keuken of refter</li><li>Ramen en glazen deuren langs binnen</li><li>Afval en recyclage naar buiten brengen</li></ul>",
+   "Gevelreiniging, werken op hoogte en industriële reiniging horen er niet bij. Wil je meer dan poetsen, dan kan je Zondag ook de post sorteren, documenten klasseren of de koffiehoek aanvullen. Boekhouding en fiscaal of juridisch advies zijn uitgesloten."]},
+  {"h2": "Wanneer komt de poetshulp?", "p": [
+   "Zondags werkt overdag op weekdagen. Vroeg in de ochtend of over de middag kan, zodat het team en je klanten er weinig van merken. 's Avonds en in het weekend werken we niet. Dat heeft een voordeel: je weet dat je Zondag binnen normale uren in je pand is en je kan haar kort aanspreken als iets moet worden aangepast."]},
+  {"h2": "Kortrijk, de deelgemeenten en de buurgemeenten", "p": [
+   "Zondags zit in Marke, een deelgemeente van Kortrijk, en is actief in heel de stad: Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem, naast het centrum zelf. Ook voor kantoren in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem of Lendelede kan je terecht.",
+   "Wie op een kleine afstand zit, hoeft geen aparte afspraak te maken. We zoeken voor je kantoor een Zondag die dicht genoeg woont om op een vast moment in de week te komen. Bekijk ook de pagina over <a href=\"poetshulp/kortrijk.html\">poetshulp voor bedrijven in Kortrijk</a>."]},
+  {"h2": "Prijs, factuur en btw", "p": [
+   "Je betaalt 60 euro per uur exclusief btw en boekt per blok van 3 uur, dat is 180 euro exclusief btw. Extra uren boek je aan hetzelfde tarief. Je krijgt een dienstenfactuur op naam van je bedrijf, met je btw-nummer.",
+   "Poetshulp voor de zaak is in principe een beroepskost. De btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Een btw-vrijgestelde zaak kan de btw doorgaans niet recupereren. Laat je accountant dit bevestigen voor je eigen situatie."]},
+  {"h2": "Zo boek je", "p": [
+   "Kies op de <a href=\"boeken.html\">boekpagina</a> je datum, het aantal blokken en de taken, vul de gegevens van je bedrijf in en betaal online met kaart of Bancontact. Wil je eerst praten, bijvoorbeeld voor een vast terugkerend plan, dan kan je bellen of een bericht sturen op 0470 56 53 58, elke dag van 6 tot 22 uur."]}
  ],
  "faq": [
-  {
-   "q": "Wat moet ik vooraf weten voor ik poetshulp voor mijn kantoor in Kortrijk zoek?",
-   "a": "Bepaal welke taken, dagen en uren je wilt, of je een vaste persoon wilt, en hoe je de factuur laat opmaken. Zondags levert een vaste Zondag en een dienstenfactuur op naam van je vennootschap."
-  },
-  {
-   "q": "Welk bedrijf levert poetshulp voor kantoren in Kortrijk?",
-   "a": "Zondags, gevestigd in Marke, levert vaste poetshulp voor kantoren in Kortrijk en de deelgemeenten. Je krijgt telkens dezelfde persoon, overdag op weekdagen."
-  },
-  {
-   "q": "Hoe snel kan een poetshulp starten?",
-   "a": "Na je aanvraag bellen we binnen één werkdag terug en plannen we de intake. Wanneer je Zondag kan starten, hangt af van de dagen en uren die je zoekt. Dat bespreken we meteen."
-  },
-  {
-   "q": "Kan ik mijn kantoor laten poetsen buiten de kantooruren?",
-   "a": "Vroeg in de ochtend of over de middag kan. In de avond of in het weekend werken we niet. Het uur leggen we samen vast in het zondagsplan."
-  },
-  {
-   "q": "Wat als het niet klikt met mijn Zondag?",
-   "a": "Dan zoeken we samen een andere Zondag. Je kan ook maandelijks opzeggen. Zo zit je nooit vast aan iets wat niet werkt."
-  }
+  {"q": "Welk bedrijf levert poetshulp voor kantoren in Kortrijk?", "a": "Zondags (zondags.be) levert vanuit Marke één vaste persoon voor kantoren, praktijken en winkels in Kortrijk en de deelgemeenten. Je krijgt een factuur op naam van je bedrijf."},
+  {"q": "Hoeveel kost poetshulp voor een kantoor in Kortrijk?", "a": "60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief."},
+  {"q": "Komt de poetshulp ook 's avonds of in het weekend?", "a": "Nee. Zondags werkt overdag op weekdagen. Vroeg in de ochtend of over de middag kan, zodat je team en je klanten er weinig van merken."},
+  {"q": "Hoe snel kan ik starten met poetshulp in Kortrijk?", "a": "Online boeken kan voor een weekdag, minstens twee werkdagen vooraf. Voor een vast terugkerend plan bespreken we eerst de taken, dagen en uren in een kort gesprek."},
+  {"q": "Werkt Zondags ook buiten het centrum van Kortrijk?", "a": "Ja, ook in Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem, en in gemeenten errond zoals Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede."},
+  {"q": "Kan mijn Zondag ook administratief werk doen op kantoor?", "a": "Ja, ondersteunend werk zoals post sorteren, klasseren, afspraken plannen en kantoormateriaal bijhouden. Boekhouding, loonadministratie en fiscaal of juridisch advies horen daar niet bij."}
  ]
 }

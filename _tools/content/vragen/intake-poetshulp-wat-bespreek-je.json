@@ -1,84 +1,36 @@
 {
- "sections": [
-  {
-   "h2": "Wat de intake is",
-   "p": [
-    "De intake is geen verkoopgesprek. Het is een wandeling door je kantoor, praktijk, winkel of woning waarbij je laat zien wat er gebeurt en wat je graag anders ziet. Iemand van Zondags luistert, stelt vragen en schrijft op. Daarna volgt het zondagsplan, een document met alle afspraken die voor jullie beiden gelden. Je kan het altijd opnieuw bekijken en bijsturen, want de intake is het begin van de samenwerking en niet het einde van de keuzes. Veel ondernemers merken dat het gesprek hen zelf ook helpt: ze zien welke taken ze al jaren voor zich uit schuiven."
-   ]
-  },
-  {
-   "h2": "De ruimtes doorlopen",
-   "p": [
-    "<ul class=\"ticks\"><li>Welke ruimtes horen erbij: bureaus, wachtzaal, keuken, sanitair, vloeren<li>Welke ruimtes blijven buiten het plan<li>Waar staat het materiaal<li>Welke vloeren en oppervlakken vragen aandacht</li></ul>",
-    "Je laat ook zien wat je irriteert. Een plek waar het altijd stoft, een hoek waar het nooit lukt. Dat zijn nuttige details voor je Zondag."
-   ]
-  },
-  {
-   "h2": "Taken en frequentie",
-   "p": [
-    "Je bespreekt wat wekelijks gebeurt en wat maandelijks. Je bepaalt of er ook ramen langs binnen bij horen, en of je een extra beurt wil in drukke periodes. Voor sommige taken, zoals ramen langs buiten op hoogte, gevelreiniging of technische klussen, geven we meteen aan dat die niet bij ons horen. Over hoe vaak je kantoor poetsen best is, lees je op <a href=\"vragen/hoe-vaak-kantoor-poetsen.html\">hoe vaak kantoor poetsen</a>."
-   ]
-  },
-  {
-   "h2": "Dagen, uren en toegang",
-   "p": [
-    "Zondags werkt overdag op weekdagen. Vroeg in de ochtend of over de middag kan. 's Avonds en in het weekend werken we niet. Je kiest samen met ons de vaste dag en het vaste uur, en spreekt af wie er aanwezig is of hoe de sleutel wordt geregeld."
-   ]
-  },
-  {
-   "h2": "Wat niet aangeraakt mag worden",
-   "p": [
-    "Dit is het deel dat mensen het vaakst vergeten. Zeg expliciet welke dossiers, laden, kasten of apparaten je Zondag niet mag aanraken. Zeg ook wat je Zondag wel mag verplaatsen. Dat staat dan zwart op wit in het zondagsplan, zodat niemand zich later afvraagt wie wat deed. Meer hierover lees je in <a href=\"vragen/vertrouwelijke-documenten-poetshulp.html\">vertrouwelijke documenten en poetshulp</a>."
-   ]
-  },
-  {
-   "h2": "Factuur en eerste afspraken",
-   "p": [
-    "Je bespreekt de factuur: een dienstenfactuur op naam van je vennootschap, met beroepsmatig en privé apart als je ook je woning laat doen. Een vennootschap kan geen dienstencheques kopen. Laat je accountant bevestigen hoe je dit boekt. Over de prijs: die is op maat, na een kort gesprek. Je kan uren bijboeken, het plan aanpassen en maandelijks opzeggen. Voor je start, ben je vrij om te beslissen."
-   ]
-  },
-  {
-   "h2": "Voorbereiden",
-   "p": [
-    "<ul class=\"ticks\"><li>Maak een foto van elke ruimte<li>Noteer je wensen per ruimte<li>Denk na over de dagen en uren die het best passen<li>Leg vast wat niet aangeraakt mag worden<li>Vraag je accountant naar de btw</li></ul>",
-    "Een uitgebreidere uitleg vind je in de gids <a href=\"gids/intakegesprek.html\">het intakegesprek</a>."
-   ]
-  }
- ],
- "faq": [
-  {
-   "q": "Wat bespreek je bij de intake voor poetshulp?",
-   "a": "De ruimtes, de taken, de dagen en uren, de sleutel, wat niet aangeraakt mag worden en de factuur. Bij Zondags maak je samen met ons het zondagsplan."
-  },
-  {
-   "q": "Wie komt er naar de intake?",
-   "a": "Eerst belt iemand van Zondags je binnen één werkdag terug, daarna komt die persoon ter plaatse langs voor de intake. Je Zondag leer je kennen bij de start, wanneer we samen bij je langsgaan."
-  },
-  {
-   "q": "Hoe lang duurt een intake?",
-   "a": "Dat hangt af van de grootte van je zaak. Meestal is het een gesprek en een wandeling door de ruimtes. We nemen de tijd die nodig is, zonder haast."
-  },
-  {
-   "q": "Moet ik de intake betalen?",
-   "a": "De eerste 2 uur zijn gratis, om kennis te maken. Wat je daarna betaalt, bespreken we op maat."
-  },
-  {
-   "q": "Kan ik het zondagsplan achteraf aanpassen?",
-   "a": "Ja. Je kan uren bijboeken, taken toevoegen of schrappen en het plan aanpassen. Het is ook maandelijks opzegbaar."
-  }
- ],
  "path": "vragen/intake-poetshulp-wat-bespreek-je.html",
  "title": "Wat bespreek je bij de intake voor poetshulp?",
- "desc": "Wat bespreek je bij de intake voor poetshulp? Ruimtes, taken, uren, sleutel, afspraken en factuur, met een lijst om je voor te bereiden.",
+ "desc": "Wat bespreek je bij de intake voor poetshulp in je bedrijf? Een gespreksagenda met ruimtes, taken, toegang, uren en de vragen die je zelf mag stellen.",
  "eyebrow": "Vraag",
  "h1": "Wat bespreek je bij de intake voor poetshulp?",
- "lead": "De intake is het gesprek waarin je zaak en je Zondag elkaar leren kennen. Hoe beter je voorbereid bent, hoe sneller het zondagsplan klopt.",
- "answer": "Bij de intake voor poetshulp bespreek je de ruimtes, de taken, de dagen en uren, de sleutel, wat niet aangeraakt mag worden en hoe de factuur eruitziet. Bij Zondags (zondags.be) belt iemand je binnen één werkdag na je aanvraag terug, komt daarna ter plaatse langs en maken jullie samen het zondagsplan. De eerste 2 uur zijn gratis om kennis te maken.",
- "facts": [
-  "Ruimtes en taken doorlopen",
-  "Dagen en uren afspreken",
-  "Sleutel en toegang regelen",
-  "Wat niet aangeraakt mag worden",
-  "Eerste 2 uur gratis"
+ "lead": "De intake is een kort gesprek waarin jij en de aanbieder afspreken wat er gebeurt in je zaak. Met een goede agenda duurt het niet lang en vermijd je later misverstanden.",
+ "answer": "Bij de intake voor poetshulp bespreek je je ruimtes, de taken, de gewenste dagen en uren, de toegang tot je zaak en eventuele gevoeligheden zoals dossiers of allergieën. Bij Zondags (zondags.be) gebeurt dat in een kort gesprek voor een vast plan, en het resultaat is het zondagsplan. Je betaalt daarna 60 euro per uur exclusief btw per blok van 3 uur, en boekt online of via een terugbelverzoek.",
+ "facts": ["Kort gesprek voor een vast plan", "Ruimtes, taken, dagen en uren", "Toegang, sleutel en alarm", "Resultaat is het zondagsplan", "60 euro per uur, per blok van 3 uur"],
+ "sections": [
+  {"h2": "Begin bij je ruimte, niet bij de uren", "p": [
+   "Een intake start het best met een rondgang, ook als die telefonisch gebeurt. Welke ruimtes zijn er, hoe groot zijn ze en wat gebeurt er dagelijks? Een wachtzaal vraagt iets anders dan een vergaderzaal, en een winkelvloer iets anders dan een bureau.",
+   "Pas als dat helder is, vertaal je het naar uren. Zo vermijd je dat je een willekeurig aantal blokken boekt en daarna moet bijsturen."]},
+  {"h2": "Een agenda voor het gesprek", "p": [
+   "<ul class=\"ticks\"><li>De ruimtes en wat er elke beurt gedaan moet worden</li><li>Wat maar af en toe aan bod komt, zoals ramen langs binnen</li><li>De dagen en uren die passen bij je openingstijden</li><li>Toegang: sleutel, badge, alarm en wie je aanspreekpunt is</li><li>Gevoelige zones zoals dossierkasten, kassa of serverruimte</li><li>Allergieën of afspraken over producten</li><li>Extra taken, zoals post sorteren of de koffiehoek aanvullen</li></ul>"]},
+  {"h2": "Administratie en rechterhand mee bespreken", "p": [
+   "Veel zaakvoerders vergeten dat hun Zondag meer kan doen dan poetsen. Post openen en sorteren, documenten klasseren, een pakje klaarmaken of kantoormateriaal bestellen vallen ook binnen het plan. Boekhouding, loonadministratie en fiscaal advies niet.",
+   "Een intake is het ideale moment om die keuze te maken. Neem een zaakvoerder van een klein ingenieursbureau die elke week een uur wil vrijmaken om de post en facturen te laten ordenen: dat zet je meteen in het plan."]},
+  {"h2": "Vragen die jij mag stellen", "p": [
+   "Een intake gaat twee kanten uit. Vraag hoe de aanbieder omgaat met ziekte en verlof van de vaste persoon, hoe je feedback geeft, wat er gebeurt als de samenwerking niet klikt en hoe de facturatie verloopt.",
+   "Bij Zondags krijg je steeds dezelfde persoon, op een vaste dag en een vast uur. Bij ziekte of verlof zoeken we een oplossing, klikt het niet dan zoeken we samen een andere Zondag, en je krijgt een dienstenfactuur op naam van je bedrijf."]},
+  {"h2": "Wat er na de intake op papier komt", "p": [
+   "Het gesprek eindigt met het zondagsplan: de taken, de dagen, de uren en de afspraken. Lees <a href=\"vragen/wat-is-een-zondagsplan.html\">wat een zondagsplan precies is</a> als je wil weten hoe zo'n document eruitziet.",
+   "Controleer het plan, vraag aanpassingen en bevestig het pas als alles klopt. Zo heeft je Zondag een duidelijk vertrekpunt vanaf de eerste beurt."]},
+  {"h2": "Prijs en hoe je het gesprek aanvraagt", "p": [
+   "Een intake zelf kost geen bijkomend tarief. Je betaalt de geboekte uren aan 60 euro per uur exclusief btw, in blokken van 3 uur, dus 180 euro exclusief btw per blok. Wil je het gesprek aanvragen, laat dan je gegevens achter op de <a href=\"boeken.html\">boekpagina</a> of bel naar 0470 56 53 58. Wie al weet wat hij nodig heeft, kan meteen online boeken."]}
+ ],
+ "faq": [
+  {"q": "Wat bespreek je bij een intake voor poetshulp?", "a": "Je ruimtes, de taken, de dagen en uren, de toegang tot je zaak, gevoelige zones en eventuele allergieën. Daarna volgen eventuele extra taken zoals administratieve hulp."},
+  {"q": "Hoe lang duurt een intakegesprek?", "a": "Een kort gesprek volstaat meestal. Heb je je ruimtes, taken en gewenste dagen al op een rij, dan verloopt het vlot."},
+  {"q": "Moet ik een intake doen om te boeken?", "a": "Niet voor een losse boeking, die kan je online doen. Voor een vast, terugkerend plan houden we eerst een kort gesprek en leggen we daarna het zondagsplan vast."},
+  {"q": "Wat moet ik voorbereiden voor de intake?", "a": "Een lijstje van je ruimtes, je openingstijden, de taken die je wil uitbesteden en de afspraken over toegang. Denk ook aan gevoelige zones en producten waar iemand gevoelig voor is."},
+  {"q": "Wat kost de intake?", "a": "Het gesprek zelf wordt niet apart aangerekend. Je betaalt de geboekte blokken: 60 euro per uur exclusief btw, dus 180 euro exclusief btw voor 3 uur."},
+  {"q": "Kan ik de afspraken na de intake nog aanpassen?", "a": "Ja. Het zondagsplan is bijstuurbaar. Zeg wat je wil wijzigen en we passen taken, dagen of uren samen aan."}
  ]
 }

@@ -1,36 +1,80 @@
 {
  "path": "vragen/verborgen-kosten-poetsfirma.html",
- "title": "Verborgen kosten bij een poetsfirma",
- "desc": "Welke verborgen kosten kunnen er zijn bij een poetsfirma? Een lijst met punten om na te vragen voor je tekent: verplaatsing, minimum, materiaal en opzegging.",
+ "title": "Verborgen kosten bij een poetsfirma: waar let je op?",
+ "desc": "Welke verborgen kosten kunnen er zijn bij een poetsfirma? Zeven punten om vooraf na te vragen, van voorrijkosten tot opzeg, en hoe Zondags prijst.",
  "eyebrow": "Vraag",
  "h1": "Welke verborgen kosten kunnen er zijn bij een poetsfirma?",
- "lead": "Een offerte die laag lijkt, kan duurder uitvallen dan verwacht. Deze lijst helpt je vooraf de juiste vragen te stellen, zodat de factuur geen verrassing wordt.",
- "answer": "Bij een poetsfirma kunnen extra kosten zitten in verplaatsing, een minimum per bezoek, poetsmateriaal en producten, toeslagen voor extra beurten of vroege uren, indexering en een lange opzegtermijn. Vraag alles vooraf na en laat het schriftelijk vastleggen. Zondags (zondags.be) werkt op maat na een kort gesprek, met de eerste 2 uur gratis en een maandelijks opzegbaar plan.",
- "facts": ["Verplaatsing en minimum vragen", "Materiaal en producten nakijken", "Toeslagen en indexering navragen", "Opzegtermijn en looptijd lezen", "Alles schriftelijk vastleggen"],
+ "lead": "De uurprijs is zelden het volledige verhaal. Vraag vooraf naar voorrijkosten, minimumuren, toeslagen, materiaal, indexering, btw en opzegvoorwaarden, en reken alles in één totaal uit.",
+ "answer": "Bij een poetsfirma kunnen bovenop de uurprijs kosten voorkomen voor verplaatsing, een minimum aantal uren, producten en machines, toeslagen voor vroege of late uren, indexering, btw en opzeg. Vraag er schriftelijk naar. Zondags (zondags.be) rekent één pakket: 60 euro per uur exclusief btw, per blok van 3 uur, met extra uren aan hetzelfde tarief.",
+ "facts": [
+  "Vraag naar verplaatsing en minimumuren",
+  "Producten en machines: inbegrepen of niet",
+  "Toeslagen en indexering nagaan",
+  "Opzegvoorwaarden vooraf lezen",
+  "60 euro per uur, per blok van 3 uur"
+ ],
  "sections": [
-  {"h2": "Verplaatsing en minimum per bezoek", "p": [
-   "Veel firma's rekenen een verplaatsing aan of hanteren een minimum aantal uren per bezoek. Het eerste is soms een aparte lijn, het tweede zit in het tarief. Vraag dus of de verplaatsing erin zit en of er een minimum geldt, en of dat per bezoek of per week telt.",
-   "Een beurt van een uur kan zo evenveel kosten als een beurt van twee. Lees daarom altijd hoe de uren worden berekend en of begonnen uren volledig tellen."]},
-  {"h2": "Materiaal, producten en toestellen", "p": [
-   "Wie voorziet het poetsmateriaal en de producten? Soms zit dat in het tarief, soms wordt het apart aangerekend, soms moet je zelf voorzien. Vraag dat vooraf, ook voor toestellen zoals een stofzuiger of een stoomreiniger.",
-   "<ul class=\"ticks\"><li>Zijn producten en materiaal inbegrepen</li><li>Wie voorziet het toilet- en keukenpapier</li><li>Wordt een toestel apart aangerekend</li><li>Wat gebeurt er als iets kapotgaat</li></ul>"]},
-  {"h2": "Toeslagen, extra beurten en indexering", "p": [
-   "Een extra beurt na een evenement, een vroege start of een beurt rond een feestdag kan een toeslag meebrengen. Vraag hoe dat werkt en hoe je een extra beurt aanvraagt. Vraag ook of het tarief jaarlijks wordt aangepast en op welke manier dat gebeurt.",
-   "Bij een vast plan wil je liefst weten waar je aan toe bent. Laat ook vastleggen wat er gebeurt bij annulatie of bij een dag waarop je kantoor dicht is."]},
-  {"h2": "Looptijd en opzegtermijn", "p": [
-   "Soms zit je met een contract dat jaren loopt of met een lange opzegtermijn. Dat is een kost als de firma niet bevalt. Vraag dus hoe lang het contract loopt, wanneer je kan opzeggen en of dat schriftelijk moet. Een maandelijks opzegbaar plan geeft je meer vrijheid.",
-   "Lees meer op <a href=\"vragen/poetsabonnement-opzeggen.html\">een poetsabonnement opzeggen</a> en <a href=\"vragen/wat-bepaalt-prijs-poetshulp-bedrijf.html\">wat de prijs van poetshulp voor bedrijven bepaalt</a>."]},
-  {"h2": "Wisselende personen en onrechtstreekse kosten", "p": [
-   "Niet alle kosten staan op de factuur. Een firma die elke week een andere persoon stuurt, vraagt jou telkens opnieuw uitleg te geven, en je houdt minder controle over de kwaliteit. Dat kost tijd, en soms ook een klacht of een herdoen.",
-   "Een vaste persoon, die je zaak kent, werkt sneller en doet minder mis. Daarom werkt Zondags met één vaste Zondag in dienst van Zondags."]},
-  {"h2": "Hoe Zondags het aanpakt", "p": [
-   "Zondags werkt op maat na een kort gesprek. Wat in het zondagsplan staat, is wat je laat doen. De eerste 2 uur zijn gratis, om kennis te maken. Het plan is maandelijks opzegbaar, uren bijboeken of aanpassen kan en je krijgt een gewone dienstenfactuur op naam van je vennootschap. Heb je een vraag over een mogelijke kost, stel ze dan in het eerste gesprek."]}
+  {
+   "h2": "Zeven plaatsen waar extra kosten kunnen zitten",
+   "p": [
+    "<ul class=\"ticks\"><li>Voorrijkosten of verplaatsingsvergoeding per bezoek</li><li>Een minimum aantal uren dat je moet afnemen</li><li>Producten, doeken en machines die apart worden aangerekend</li><li>Toeslagen voor vroege uren, drukke dagen of feestdagen</li><li>Jaarlijkse indexering van het tarief</li><li>Btw die niet in de offerte stond</li><li>Een opzegvergoeding of een lange looptijd</li></ul>",
+    "Niet elke firma rekent al deze zaken aan, maar je weet pas wat voor jou geldt als je het vraagt."
+   ]
+  },
+  {
+   "h2": "Een uurprijs die laag lijkt",
+   "p": [
+    "Stel: je vergelijkt twee offertes voor een kantoor met zes werkplekken. De ene noemt een lage uurprijs, maar rekent daarbovenop een verplaatsing per bezoek en producten aan. De andere heeft een hogere uurprijs waarin alles zit. Zodra je alles optelt, ligt de tweede offerte lager. Een uurprijs zonder context is dus een slechte maat."
+   ]
+  },
+  {
+   "h2": "Vraag het op papier",
+   "p": [
+    "Mondelinge afspraken verdwijnen. Vraag de firma om alle kosten in de offerte of in de bevestigingsmail te zetten, ook wat vanzelfsprekend lijkt. Controleer dat de prijs exclusief btw is aangegeven, zodat je kan nagaan wat je werkelijk draagt.",
+    "Een eerlijke firma geeft je graag een eindbedrag voor een standaardmaand."
+   ]
+  },
+  {
+   "h2": "Een korte controle voor je tekent",
+   "p": [
+    "Lees de offerte na met een stift in de hand. Onderstreep elk bedrag en elk woord als vanaf, ongeveer of in principe. Dat zijn de plaatsen waar het totaal later kan afwijken. Vraag bij elk onderstreept punt een concreet bedrag of een duidelijke grens.",
+    "Vraag ook of de prijs een bepaalde periode vaststaat en wanneer ze kan wijzigen. Een firma die vooraf antwoord geeft op deze vragen, geeft meestal ook later duidelijke facturen."
+   ]
+  },
+  {
+   "h2": "Kosten die niet op de factuur staan maar toch tellen",
+   "p": [
+    "Er zijn ook indirecte kosten: tijd die je kwijt bent aan het uitleggen aan telkens een andere medewerker, schade of onduidelijkheid wanneer niemand verantwoordelijk is, en het werk dat je zelf moet nacontroleren. Een vaste persoon beperkt die kosten, omdat ze of hij je zaak kent en het werk steeds hetzelfde aanpakt."
+   ]
+  },
+  {
+   "h2": "Hoe Zondags prijst",
+   "p": [
+    "Er is één pakket. Je betaalt 60 euro per uur exclusief btw, je boekt per blok van 3 uur en dat is 180 euro exclusief btw. Extra uren boek je aan dezelfde 60 euro per uur. Op de <a href=\"boeken.html\">boekpagina</a> zie je vooraf wat je betaalt, en je krijgt een factuur op naam van je bedrijf.",
+    "Heb je een vraag over een mogelijke extra kost, stel ze gerust voor je boekt. Bel op 0470 56 53 58 of gebruik de chat op de site."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welke verborgen kosten kunnen er zijn bij een poetsfirma?", "a": "Verplaatsing, een minimum per bezoek, materiaal en producten, toeslagen voor extra beurten, indexering en een lange opzegtermijn. Vraag alles vooraf na en laat het schriftelijk vastleggen."},
-  {"q": "Moet ik poetsproducten zelf voorzien?", "a": "Dat verschilt per firma. Vraag vooraf wie het materiaal en de producten voorziet. Bij Zondags bespreken we dat in de intake en leggen we het vast in het zondagsplan."},
-  {"q": "Hoe herken ik een duidelijke offerte?", "a": "Een duidelijke offerte vermeldt hoe uren worden berekend, of verplaatsing en materiaal inbegrepen zijn, wat een extra beurt kost, hoe lang het contract loopt en hoe je opzegt."},
-  {"q": "Wat als ik niet tevreden ben over de firma?", "a": "Kijk de opzegtermijn en de voorwaarden na. Bij Zondags is het plan maandelijks opzegbaar, en klikt het niet met je Zondag, dan zoeken we samen een andere persoon."},
-  {"q": "Wat betaal ik bij Zondags?", "a": "Dat hangt af van wat je laat doen en hoe vaak. We bespreken het op maat na een kort gesprek. De eerste 2 uur zijn gratis, en we noemen in dit overzicht geen bedragen."}
+  {
+   "q": "Wat zijn de gebruikelijke extra kosten bij een poetsfirma?",
+   "a": "Verplaatsing, minimumuren, producten en machines, toeslagen, indexering en opzegvoorwaarden. Niet elke firma rekent ze allemaal aan, dus vraag ernaar voor je tekent."
+  },
+  {
+   "q": "Zijn poetsproducten inbegrepen in de prijs?",
+   "a": "Dat verschilt per firma. Laat het vooraf in je afspraken noteren, zodat er later geen discussie volgt over wie producten levert."
+  },
+  {
+   "q": "Moet ik rekening houden met indexering?",
+   "a": "Bij langere contracten kan een tarief jaarlijks stijgen. Vraag of er indexering voorzien is, en volgens welke regel."
+  },
+  {
+   "q": "Hoe zie ik de totale kost voor een maand?",
+   "a": "Vraag een eindbedrag voor een standaardmaand, exclusief btw. Bij Zondags tel je zelf het aantal blokken maal 180 euro exclusief btw."
+  },
+  {
+   "q": "Rekent Zondags voorrijkosten aan?",
+   "a": "Zondags werkt met één pakket per uur. Vraag je boeking op de boekpagina na, dan zie je vooraf wat je betaalt."
+  }
  ]
 }

@@ -1,83 +1,84 @@
 {
  "path": "sectoren/checklist-frisse-wachtzaal.html",
  "title": "Checklist voor een frisse wachtzaal",
- "desc": "Een praktische checklist voor een frisse wachtzaal: zitjes, tafeltjes, tijdschriften, speelhoek, vloer, ramen langs binnen, geur en ingangsmat, per frequentie.",
- "eyebrow": "Checklist",
+ "desc": "Zitjes, tafeltjes, tijdschriften, speelhoek, vloer, ramen langs binnen, geur en ingangsmat: zo houd je de wachtzaal van je praktijk of kantoor fris.",
+ "eyebrow": "Checklist · Wachtzaal",
  "h1": "Checklist voor een frisse wachtzaal",
- "lead": "De wachtzaal is het eerste wat patiënten of klanten van je zaak zien. Met een vaste lijst blijft ze er elke dag verzorgd uitzien.",
- "answer": "Een frisse wachtzaal vraagt een vaste routine: dagelijks zitjes, tafeltjes en vloer, wekelijks tijdschriften, speelhoek en ramen langs binnen, af en toe de ingangsmat en de geur. Zondags (zondags.be) kan dat onderhoud overnemen met één vaste Zondag die overdag op weekdagen komt voor praktijken, kantoren en winkels. Wat jij als team tussendoor doet en wat je Zondag doet, staat in het zondagsplan.",
+ "lead": "In de wachtzaal bepaalt een bezoeker in enkele seconden wat hij van je zaak vindt. Deze lijst helpt je om elke dag en elke week dezelfde verzorgde indruk te geven.",
+ "answer": "Een frisse wachtzaal vraagt aandacht voor zitjes, tafeltjes, tijdschriften, een eventuele speelhoek, de vloer, ramen en glazen deuren langs binnen, de geur en de ingangsmat. Zondags (zondags.be) laat dit doen door één vaste persoon, je Zondag, op een vaste weekdag en een vast uur. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw, met een factuur op naam van je bedrijf.",
  "facts": [
-  "Dagelijks, wekelijks en maandelijks",
   "Zitjes, tafeltjes, tijdschriften",
-  "Speelhoek, vloer, ramen langs binnen",
-  "Geur en ingangsmat",
-  "Wat je team tussendoor doet"
+  "Vloer en ingangsmat",
+  "Ramen en glas langs binnen",
+  "Geur en verluchting",
+  "60 euro per uur, per blok van 3 uur",
+  "Steeds dezelfde Zondag"
  ],
  "sections": [
   {
-   "h2": "Waarom de wachtzaal ertoe doet",
+   "h2": "Kijk eerst door de ogen van een bezoeker",
    "p": [
-    "In een wachtzaal heeft iemand tijd om rond te kijken. Wie vijf minuten zit te wachten, ziet de hoek van de tafel, de vlek op de vloer en de stapel verlepte tijdschriften. Dat zegt iets over je praktijk, ook al heeft het niets met je kunde te maken.",
-    "Een checklist helpt om geen details te vergeten en om de taken te verdelen tussen jouw team en je poetshulp.",
-    "Stel: je hebt een kinesitherapiepraktijk met een kleine wachtzaal, een speelhoek en een ingang die op regenachtige dagen nat wordt. Zonder lijst wordt de vloer wel gedaan, maar de speelhoek en de ramen blijven liggen tot iemand het opmerkt. Met een lijst weet iedereen wat wanneer aan de beurt is."
+    "Ga eens zitten op de plek waar een wachtende zit. Wat zie je? Een kleverig tafeltje, een stapel verouderde tijdschriften, vingers op het glas, een mat vol zand. Wat jou als dagelijkse gebruiker niet meer opvalt, springt een bezoeker meteen in het oog. Gebruik die blik als startpunt voor je lijst."
    ]
   },
   {
-   "h2": "Dagelijks, door het team of de poetshulp",
+   "h2": "Zitjes en tafeltjes",
    "p": [
-    "<ul class=\"ticks\"><li>Zitjes afnemen en rechtzetten</li><li>Tafeltjes en armleuningen afnemen</li><li>Vloer stofzuigen of vegen, vlekken meteen verwijderen</li><li>Vuilnisbak legen</li><li>Ingangsmat uitkloppen of verplaatsen als het regent</li><li>Even verluchten voor de eerste afspraak</li></ul>",
-    "Een deel daarvan doet het team tussendoor, bijvoorbeeld de vuilnisbak of een vlek. Het grondig afnemen en de vloer doet je poetshulp."
+    "<ul class=\"ticks\"><li>Zitjes afgeborsteld of afgenomen, armleuningen gereinigd</li><li>Tafeltjes vrij van vlekken, onder de glasplaat nagekeken</li><li>Kussens recht gezet, losse stoelen terug op hun plek</li><li>Planten afgestoft en bijgewerkt waar nodig</li></ul>"
    ]
   },
   {
-   "h2": "Wekelijks",
+   "h2": "Tijdschriften, folders en speelhoek",
    "p": [
-    "<ul class=\"ticks\"><li>Tijdschriften vervangen of wegleggen wat verouderd of beschadigd is</li><li>Speelhoek: speelgoed, mat en kussens nakijken</li><li>Ramen en glazen deuren langs binnen</li><li>Deurklinken en lichtschakelaars afnemen</li><li>Plinten, hoeken en onder de zitjes</li><li>Planten afstoffen en water geven</li></ul>",
-    "Voor ramen langs binnen is een vaste beurt een goede aanpak. Ramen langs buiten op hoogte doet Zondags niet."
+    "Een stapel oud leesvoer maakt een zaak oubollig. Laat je Zondag elke week de oudste exemplaren verwijderen en de rest netjes rangschikken. Zo houd je het aanbod beperkt en actueel. Heb je een speelhoek of leestafel, dan neemt zij die af en zet ze alles terug op zijn plaats. Wat stuk is, legt ze apart voor jou, ze gooit niets weg zonder jouw akkoord."
    ]
   },
   {
-   "h2": "Maandelijks en per seizoen",
+   "h2": "Vloer, ingangsmat en glas",
    "p": [
-    "<ul class=\"ticks\"><li>Zitjes en bekleding grondiger nakijken</li><li>Vloer eens extra aanpakken, ook langs de randen</li><li>Ingangsmat grondig reinigen of laten vervangen</li><li>Rekken en kasten aan de muur afnemen</li><li>Geur en ventilatie bekijken: raam, rooster, vuilbak</li></ul>",
-    "Per seizoen verandert er iets: in de herfst brengt regen modder binnen, in de zomer moeten ramen en glas beter worden afgenomen."
+    "De vloer gaat bij elke beurt aan bod, met extra aandacht voor het pad van de deur naar de balie. De ingangsmat wordt uitgeklopt of gestofzuigd, want daar blijft het vuil dat anders over de hele vloer verspreid wordt. Ramen en glazen deuren maak je langs binnen vingervrij. De buitenkant op hoogte valt buiten wat Zondags doet."
    ]
   },
   {
-   "h2": "Wat het team zelf blijft doen",
+   "h2": "Geur en verluchting",
    "p": [
-    "Je poetshulp onderhoudt de wachtzaal, maar de gewoontes van je team bepalen hoe lang ze er verzorgd uitziet. Enkele eenvoudige afspraken helpen: kopjes en bekers meteen opruimen, tijdschriften na een drukke dag rechtleggen, de mat bij regen even droogmaken.",
-    "Sterilisatie, medisch materiaal en ontsmetting van vakgereedschap blijven bij de praktijk. Daar komt een poetshulp niet aan. Wat er hygiënisch gebeurt in de behandelruimtes, bepaalt de praktijk zelf."
+    "Een wachtzaal moet neutraal en fris ruiken. Dat bereik je vooral met een propere vloer, verse lucht en zachte textiel die niet in vocht blijft hangen. Zet de ramen even open voor de eerste bezoeker, of laat de ventilatie voldoende lang draaien. Een sterke geur van een verfrisser kan hinderen, ook voor wie gevoelig is voor producten. Spreek dus met je Zondag af welke producten wel en niet in de zaal gebruikt worden."
    ]
   },
   {
-   "h2": "Hoe Zondags dit overneemt",
+   "h2": "Welk ritme past?",
    "p": [
-    "Bij Zondags krijg je één vaste persoon die de wachtzaal kent. Samen leg je in het zondagsplan vast wat er dagelijks, wekelijks en maandelijks gebeurt en op welk moment van de week. Vroeg in de ochtend of over de middag kan, overdag op weekdagen.",
-    "De eerste 2 uur zijn gratis, om kennis te maken. Het plan is maandelijks opzegbaar. Bekijk ook hoe het werkt voor <a href=\"sectoren/onthaal-en-wachtruimte.html\">onthaal en wachtruimte</a> of vraag het intakegesprek aan via 0470 56 53 58."
+    "Dagelijks is het werk van je eigen team: de tafeltjes snel afnemen, een jas of tas rechtzetten, een lege beker weghalen. Wekelijks is het werk van je Zondag. Voor het hele pakket van een praktijk bekijk je ook de <a href=\"sectoren/checklist-wekelijkse-praktijkpoets.html\">wekelijkse poetsbeurt van een praktijk</a>.",
+    "Heb je een wachtzaal die in de loop van de dag erg wisselend gebruikt wordt, spreek dan af dat de beurt plaatsvindt in het rustigste uur. Vroeg in de ochtend of over de middag kan, zodat wachtende bezoekers niet tussen emmers en dweil moeten zitten."
+   ]
+  },
+  {
+   "h2": "Prijs en boeken",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw en boekt per blok van 3 uur, dus 180 euro exclusief btw. Kies datum en taken op de <a href=\"boeken.html\">boekpagina</a>. De factuur komt op naam van je bedrijf."
    ]
   }
  ],
  "faq": [
   {
+   "q": "Hoe houd je een wachtzaal fris?",
+   "a": "Met een vaste routine voor zitjes, tafeltjes, vloer en ingangsmat, weinig en actuele tijdschriften, ramen langs binnen vingervrij en regelmatige verluchting."
+  },
+  {
    "q": "Hoe vaak moet een wachtzaal gepoetst worden?",
-   "a": "Dat hangt af van hoeveel mensen er komen. Zitjes, tafeltjes en vloer krijgen dagelijks aandacht, speelhoek, tijdschriften en ramen wekelijks. Samen met je Zondag bepaal je het ritme dat bij je praktijk past."
+   "a": "Wekelijks een grondige beurt, plus dagelijks een korte controle door het eigen team. Bij veel bezoek kan een tweede beurt zinvol zijn."
   },
   {
-   "q": "Wie moet de speelhoek onderhouden?",
-   "a": "Het dagelijkse opruimen doet het team tussendoor. Het grondig afnemen en nakijken van de speelhoek kan je Zondag wekelijks doen. De hygiëne van het speelgoed zelf bespreek je vooraf in de intake."
+   "q": "Wie reinigt de speelhoek in de wachtzaal?",
+   "a": "Je Zondag kan hem wekelijks afnemen en opruimen. Wat gedesinfecteerd moet worden met een specifiek product, spreek je vooraf af."
   },
   {
-   "q": "Wat helpt tegen een muffe geur in de wachtzaal?",
-   "a": "Verluchten, de vuilbak regelmatig legen, de ingangsmat onderhouden en de vloer en zitjes schoon houden. Blijft de geur, kijk dan naar ventilatie en vochtigheid. Dat is geen werk voor een poetshulp, maar voor een vakman."
+   "q": "Kunnen de ramen van de wachtzaal ook gepoetst worden?",
+   "a": "Langs binnen wel: ramen, glazen deuren en de glazen wand naast de balie. Ramen langs buiten op hoogte en gevelreiniging doet Zondags niet, daarvoor heb je een gespecialiseerd bedrijf nodig."
   },
   {
-   "q": "Kan mijn poetshulp de wachtzaal doen voor de eerste afspraak?",
-   "a": "Ja. Overdag op weekdagen kan je Zondag vroeg in de ochtend komen, zodat de wachtzaal klaar is. Het exacte moment bespreek je samen bij de intake."
-  },
-  {
-   "q": "Doet Zondags ook de ontsmetting van medisch materiaal?",
-   "a": "Nee. Sterilisatie, medisch materiaal en ontsmetting van vakgereedschap blijven bij de praktijk. Je Zondag onderhoudt de ruimtes zoals wachtzaal, onthaal en sanitair."
+   "q": "Wat kost het onderhoud van een wachtzaal?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief."
   }
  ]
 }

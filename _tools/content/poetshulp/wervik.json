@@ -1,36 +1,35 @@
 {
  "path": "poetshulp/wervik.html",
- "title": "Poetshulp voor bedrijven in Wervik (8940)",
- "desc": "Poetshulp voor praktijken en kantoren in Wervik, met de was en strijk, het koken of de boodschappen erbij. Eén vaste persoon voor je zaak en je thuis.",
+ "title": "Poetshulp en regelwerk voor bedrijven in Wervik",
+ "desc": "Poetshulp, post en regelwerk voor je praktijk of kantoor in Wervik, inclusief Geluwe. Eén vaste Zondag, 60 euro per uur exclusief btw, per blok van 3 uur.",
  "eyebrow": "Wervik · 8940",
  "h1": "Poetshulp voor bedrijven in Wervik",
- "lead": "Een groepspraktijk draait op tijd, niet op poetsen. In Wervik zorgt één vaste Zondag voor de wachtzaal én voor wat artsen thuis laten liggen.",
- "answer": "In Wervik, een stad met de deelgemeente Geluwe, levert Zondags (zondags.be) poetshulp aan praktijken en kantoren, en neemt op wens de was en strijk, het koken of de boodschappen van de ondernemer over. Je Zondag is steeds dezelfde persoon, op een vaste dag en een vast uur. De factuur gaat naar je vennootschap, met beroepsmatig en privé apart.",
- "facts": ["Praktijken en kantoren in Wervik", "Was en strijk, koken, boodschappen erbij", "Ook Geluwe", "Eén factuur aan je vennootschap", "Eerste 2 uur gratis"],
+ "lead": "In Wervik zoeken praktijken en kantoren vaak één persoon voor alles wat blijft liggen: poetsen, post, klasseerwerk en kleine regeltaken. Dat is wat een vaste Zondag doet.",
+ "answer": "Zondags (zondags.be) levert poetshulp en administratieve hulp voor bedrijven in Wervik, met postcode 8940, inclusief de deelgemeente Geluwe. Je Zondag poetst je kantoor of praktijk en neemt desgewenst post, klasseerwerk en regelwerk over. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en ontvangt een dienstenfactuur op naam van je bedrijf of praktijk.",
+ "facts": ["Poetsen, post en regelwerk samen", "Praktijken en kantoren in Wervik en Geluwe", "Eén vaste Zondag", "Factuur op naam van je bedrijf", "60 euro per uur, per blok van 3 uur", "Online boeken"],
  "sections": [
-  {"h2": "Een groepspraktijk van huisartsen als voorbeeld", "p": [
-   "Neem een groepspraktijk van huisartsen in Wervik: enkele artsen, een onthaal, een wachtzaal die de hele dag gebruikt wordt, een paar spreekkamers en een keukentje. De agenda zit vol, de dagen zijn lang en niemand wil tijd van een patiënt opofferen aan schoonmaak.",
-   "Tegelijk is er thuis ook werk: een gezin, een strijkmand, boodschappen. Dezelfde Zondag kan het ene en het andere doen, op afgesproken dagen."]},
-  {"h2": "Een voorbeeldweek", "p": [
-   "<ul class=\"ticks\"><li>Maandag, voor de eerste consultatie: onthaal, wachtzaal, spreekkamers en sanitair</li><li>Dinsdag: was en strijk</li><li>Woensdag: boodschappen en regelwerk, zoals apotheek, droogkuis en pakjes</li><li>Donderdag: koken, of schotels voor de week klaarzetten</li><li>Vrijdag: de woning poetsen</li></ul>",
-   "Dat is één mogelijke indeling. Je kiest zelf hoeveel dagen en welke taken. Je kan ook enkel met de praktijk beginnen en later iets toevoegen."]},
-  {"h2": "Wat in de praktijk niet door ons gedaan wordt", "p": [
-   "Alles wat met medisch materiaal te maken heeft, blijft bij het praktijkteam, net als sterilisatie. Technische klussen, werken op hoogte en gevelreiniging doen we ook niet. Je Zondag onderhoudt de ruimtes: wachtzaal, onthaal, spreekkamers, keukentje, sanitair en de ramen langs binnen.",
-   "Heeft je praktijk eigen hygiëneafspraken, dan bespreek je die bij de intake. Over <a href=\"sectoren/groepspraktijken.html\">groepspraktijken</a> en <a href=\"beroepen/huisarts.html\">huisartsen</a> bestaan aparte pagina's."]},
-  {"h2": "Wie komt er bij je langs?", "p": [
-   "Je Zondag is gescreend door Zondags en in dienst van Zondags, dus geen zelfstandige. Zondags werkt met studenten vanaf 18 jaar, flexi-jobbers en mensen met een vast contract. Het blijft telkens dezelfde persoon, overdag op weekdagen, op een afgesproken dag en uur. Merk je dat het niet past, dan zoeken we samen een andere Zondag."]},
-  {"h2": "De factuur, voor praktijk en thuis", "p": [
-   "Een vennootschap kan geen dienstencheques gebruiken, want die zijn er voor particulieren. Je krijgt een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van de praktijk is een beroepskost. Wil een van de artsen ook hulp thuis, dan staat dat deel apart als privégedeelte.",
-   "Voor dat deel is er een forfaitair voordeel van alle aard, met regelmaat en een onderneming met mensen in dienst als voorwaarden. Voor een btw-vrijgestelde praktijk is de btw doorgaans niet recupereerbaar. Je accountant bevestigt wat voor jouw praktijk geldt."]},
-  {"h2": "Starten in Wervik, ook in Geluwe", "p": [
-   "Wervik heeft één deelgemeente, Geluwe, en ligt in de buurt van Menen, Zonnebeke en Ieper. Je kan een aanvraag doen via het formulier of de chat. Binnen één werkdag volgt een telefoontje, waarna we langs komen voor de intake. De eerste 2 uur zijn gratis."]}
+  {"h2": "Uitbesteden wat geen meerwaarde levert", "p": [
+   "Een bedrijfsleider in Wervik die elke week twee uur kwijt is aan postsorteren, bestellingen en afval, betaalt dat met tijd die anders naar klanten of patiënten zou gaan. Het loont om kritisch te kijken naar welke taken écht bij jou horen, en welke gewoon gedaan moeten worden.",
+   "Een Zondag neemt de tweede categorie over. Ze komt op een vast moment, doet de taken volgens een lijst die jij opstelt en laat het kantoor achter zoals jij het zou willen vinden."]},
+  {"h2": "Stel: een groepspraktijk van huisartsen", "p": [
+   "Neem een groepspraktijk van drie huisartsen in Wervik met een gezamenlijke wachtzaal, een balie, drie spreekkamers en een personeelskeuken. Het secretariaat doet de afspraken, maar de post, de bestellingen van kantoormateriaal en de pakjes van leveranciers blijven liggen.",
+   "Op donderdagochtend komt de Zondag vóór de eerste consultatie. Eerst wachtzaal, balie, sanitair en vloeren. Dan de post: wat dringend is naar het secretariaat, de rest gesorteerd. Kantoormateriaal wordt gecontroleerd en een bestelling klaargezet. Inhoudelijke medische dossiers en patiëntgegevens blijven buiten haar taken, die houdt het secretariaat. Sterilisatie en medisch materiaal doet Zondags nooit."]},
+  {"h2": "Wat je kan combineren", "p": [
+   "<ul class=\"ticks\"><li>Wachtzaal, onthaal, vloeren en sanitair</li><li>Post openen, sorteren en doorgeven</li><li>Kantoormateriaal en koffiehoek bijhouden</li><li>Pakjes klaarmaken of ophalen</li><li>Afspraken met leveranciers opvolgen voor kleine zaken</li><li>Documenten en dossiers ordenen</li></ul>",
+   "Meer over die tweede rol vind je op <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">de rechterhand voor bedrijfsleiders</a>."]},
+  {"h2": "Wervik en Geluwe", "p": [
+   "Wervik heeft postcode 8940 en omvat de deelgemeente Geluwe. In de buurt liggen Menen, Zonnebeke en Ieper. Ligt je praktijk of kantoor in Geluwe, dan zoeken we een Zondag die in die buurt woont, zodat het vaste uur makkelijk te houden is."]},
+  {"h2": "Tarief, factuur en btw", "p": [
+   "Je boekt per blok van 3 uur aan 60 euro per uur exclusief btw, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief. De dienstenfactuur staat op naam van je bedrijf of praktijk, met btw-nummer. Het onderhoud is in principe een beroepskost. Een btw-plichtige zaak met aftrekrecht kan de btw in principe recupereren, een btw-vrijgestelde praktijk doorgaans niet. Je accountant bevestigt wat voor jou geldt."]},
+  {"h2": "Eerste stappen", "p": [
+   "Reserveer een weekdag op de <a href=\"boeken.html\">boekpagina</a>, minstens twee werkdagen vooraf. Voor een terugkerend plan voor je praktijk spreken we eerst kort over taken, dagen en uren, en leggen we alles vast in je zondagsplan."]}
  ],
  "faq": [
-  {"q": "Welk bedrijf neemt de poetshulp voor een groepspraktijk in Wervik op zich?", "a": "Zondags neemt die poetshulp op zich voor groepspraktijken, kantoren en winkels in Wervik. Het is telkens dezelfde persoon, en de dienstenfactuur staat op naam van je vennootschap. Zondags zit in Marke en werkt in West- en Oost-Vlaanderen."},
-  {"q": "Kan Zondags naast de praktijk ook de was en strijk van de artsen doen?", "a": "Ja. Was en strijk, boodschappen, regelwerk en koken kunnen naast het poetsen in je zondagsplan. Wie wat laat doen, en op welke factuur dat komt, leg je bij de intake vast."},
-  {"q": "Wordt de wachtzaal gepoetst voor de eerste consultatie?", "a": "Dat kan. Vroeg in de ochtend is een van onze twee momenten, het andere is over de middag. Avonden en weekends vallen erbuiten, en we spreken met je af welk uur voor jouw eerste consultatie past."},
-  {"q": "Doet Zondags ook medisch materiaal of sterilisatie?", "a": "Nee. Medisch materiaal en sterilisatie blijven bij het praktijkteam. Je Zondag poetst de ruimtes eromheen: wachtzaal, onthaal, spreekkamers, keukentje en sanitair, op de dag en het uur die je bij de intake kiest."},
-  {"q": "Hoe snel kan een Zondag in Wervik starten?", "a": "Een telefoontje volgt binnen één werkdag, daarna plannen we samen de intake. Wanneer je Zondag start, hangt af van de dagen en uren die je zoekt, en dat bespreken we in dat eerste gesprek."},
-  {"q": "Kan ik ook in Geluwe, Menen of Ieper een Zondag aanvragen?", "a": "Ja. Geluwe is een deelgemeente van Wervik en je vraagt er een Zondag aan zoals in Wervik zelf. Heb je een praktijk in Menen of Ieper, dan loopt de aanvraag identiek."}
+  {"q": "Welk bedrijf levert poetshulp voor praktijken in Wervik?", "a": "Zondags, uit Marke, levert poetshulp en administratieve hulp aan praktijken en kantoren in Wervik en Geluwe. Je krijgt één vaste persoon en een factuur op naam van je bedrijf."},
+  {"q": "Kan één persoon zowel poetsen als de post behandelen?", "a": "Ja. Je Zondag verdeelt de uren van een blok zoals jij vraagt, bijvoorbeeld twee uur poetsen en een uur post, klasseerwerk en bestellingen."},
+  {"q": "Werkt Zondags ook in Geluwe?", "a": "Ja. Geluwe is een deelgemeente van Wervik en valt binnen ons werkgebied, net als de rest van West- en Oost-Vlaanderen."},
+  {"q": "Wat kost het per maand om mijn praktijk te laten poetsen?", "a": "Dat hangt af van het aantal blokken. Een blok van 3 uur kost 180 euro exclusief btw, aan 60 euro per uur exclusief btw. Extra uren boek je aan hetzelfde tarief."},
+  {"q": "Raakt de Zondag medische dossiers aan?", "a": "Nee. Inhoudelijke medische dossiers en patiëntgegevens blijven bij je eigen team. Medische inhoud, sterilisatie en medisch materiaal vallen buiten wat Zondags doet."},
+  {"q": "Komt de Zondag ook buiten kantooruren?", "a": "Overdag op weekdagen, vroeg in de ochtend of over de middag. Nooit 's avonds en nooit in het weekend."}
  ]
 }

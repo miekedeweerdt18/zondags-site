@@ -1,37 +1,39 @@
 {
  "path": "sectoren/eindejaarspoets.html",
- "title": "Eindejaarspoets voor je kantoor of praktijk",
- "desc": "Een eindejaarspoets voor je kantoor of praktijk: archiefruimte, keuken en frigo op orde voor de jaarwissel. Op weekdagen, als losse opdracht of extra beurt.",
- "eyebrow": "Jaarwisseling",
+ "title": "Eindejaarspoets voor bedrijven",
+ "desc": "Een eindejaarspoets voor je kantoor: archief, keuken en frigo op orde, proper het nieuwe jaar in. Eén vaste persoon, 60 euro per uur exclusief btw.",
+ "eyebrow": "Eindejaar",
  "h1": "Eindejaarspoets voor bedrijven",
- "lead": "Aan het einde van het jaar blijft er altijd iets liggen: een volle frigo, archiefdozen, een keuken die twaalf maanden meeging. Een eindejaarspoets zet dat recht voor het nieuwe jaar begint.",
- "answer": "Zondags (zondags.be) doet een eindejaarspoets voor kantoren en praktijken in West- en Oost-Vlaanderen: archiefrekken en vloer afstoffen en poetsen, keuken en lege frigo grondig reinigen, en bureaus, sanitair en vloeren aanpakken. Dat gebeurt op weekdagen, overdag, als losse opdracht of als extra beurt in je zondagsplan. Je krijgt een gewone dienstenfactuur op naam van je vennootschap.",
- "facts": ["Archief, keuken en frigo op orde", "Op weekdagen, overdag", "Losse opdracht of extra beurt", "Je team ruimt de frigo eerst leeg", "Factuur aan je vennootschap", "Eerste 2 uur gratis"],
+ "lead": "December is het moment om een jaar af te sluiten, ook in de keuken en het archief. Zondags zorgt dat je kantoor opgeruimd en proper het nieuwe jaar ingaat, met dezelfde vaste persoon.",
+ "answer": "Zondags (zondags.be) verzorgt een eindejaarspoets voor bedrijven: het kantoor opgeruimd en proper, met aandacht voor archief, keuken en frigo. Je Zondag komt overdag op een weekdag in de laatste weken van het jaar, als losse opdracht of binnen je vaste plan. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je bedrijf. Boekhouding of jaarrekeningen vallen buiten het werk van Zondags.",
+ "facts": ["Archief, keuken en frigo op orde", "Kantoor proper het nieuwe jaar in", "Los te boeken of binnen je vaste plan", "Steeds dezelfde Zondag", "60 euro per uur, per blok van 3 uur", "Online boeken, factuur voor je bedrijf"],
  "sections": [
-  {"h2": "Wat een wekelijkse beurt laat liggen", "p": [
-   "Een wekelijkse poetsbeurt houdt bureaus, vloeren en sanitair netjes, maar sommige plekken vallen buiten dat ritme: de rekken in de archiefruimte, de binnenkant van keukenkasten, de frigo die langzaam volloopt. Aan het einde van het jaar, voor de feestdagen en de herstart in januari, is er een vanzelfsprekend moment om dat in één keer aan te pakken.",
-   "Het voordeel is ook praktisch. Je team en je klanten stappen in januari binnen in een kantoor dat opgeruimd oogt, en je begint het jaar zonder uitgestelde klusjes."]},
-  {"h2": "Archief, keuken en frigo: wie doet wat", "p": [
-   "<ul class=\"ticks\"><li><b>Archief:</b> jij beslist wat bewaard of vernietigd wordt, je Zondag stoft rekken en dozen af en poetst de vloer</li><li><b>Keuken:</b> kastdeuren, microgolf, koffiehoek, werkblad en vaatwasser</li><li><b>Frigo:</b> je team ruimt hem leeg, je Zondag reinigt hem van binnen, tot en met de legplanken</li></ul>",
-   "Hoge planken waarvoor een ladder nodig is, zijn werken op hoogte en vallen erbuiten."]},
-  {"h2": "De juiste weekdag kiezen", "p": [
-   "Zondags werkt overdag op weekdagen, nooit 's avonds of in het weekend. Je hebt dus twee natuurlijke momenten. Kies je de laatste werkdagen voor de feestdagen, dan blijft er geen vuile vaat of bedorven eten achter in een gesloten kantoor. Kies je de eerste werkdagen van januari, dan start je team in een kantoor waar het stof van de sluiting weg is.",
-   "Sluit je zaak tussen kerst en nieuwjaar, dan zijn de stille weekdagen juist geschikt voor het grondige werk. Valt je laatste werkdag op een vrijdag, plan de beurt dan overdag: een avond- of weekendbeurt bestaat niet."]},
-  {"h2": "Voorbeeld: een communicatiebureau met acht medewerkers", "p": [
-   "Stel: je hebt een communicatiebureau met acht medewerkers dat tot na nieuwjaar sluit. Op maandag stuur je een mail: alles uit de frigo en uit de gemeenschappelijke kasten voor donderdag. Op donderdag komt je Zondag en neemt keuken, frigo, archiefrekken, bureaus, sanitair en vloeren mee.",
-   "Op de eerste werkdag van januari komt het team terug naar een kantoor dat opgeruimd ligt. De gewone wekelijkse beurt pikt vanaf dan het ritme weer op."]},
-  {"h2": "Wat bij je team blijft", "p": [
-   "Een eindejaarspoets werkt het best als de taken helder verdeeld zijn. Je team ruimt eigen bureaulades, kasten en frigovakken leeg. Jij beslist wat in het archief mag blijven en bewaart vertrouwelijke stukken in een afgesloten kast. Je Zondag poetst wat vrijgemaakt is. Is er iets onduidelijk, dan vraagt je Zondag het liever eerst dan achteraf."]},
-  {"h2": "Losse opdracht of vast plan, en de factuur", "p": [
-   "Een eindejaarspoets is meestal een losse opdracht. Heb je al een Zondag, dan kan je er een extra beurt van maken in je plan, of de uren van een gewone week aanpassen. Je krijgt een gewone dienstenfactuur op naam van je vennootschap; het onderhoud van je beroepsruimtes is een beroepskost. Laat je accountant bevestigen hoe dat, ook voor btw, voor jouw situatie werkt."]},
-  {"h2": "Zo regel je het", "p": [
-   "Vraag aan via het formulier of de chat. Een van ons belt binnen één werkdag terug en bekijkt met je welke ruimtes aan bod komen en welke weekdag past. De eerste 2 uur zijn gratis, om kennis te maken."]}
+  {"h2": "Een jaar afsluiten in de ruimte waar je het hebt gewerkt", "p": [
+   "Eind december lopen veel bedrijven op hun tandvlees. De laatste facturen moeten buiten, klanten sturen nog snel vragen door en ondertussen staat de frigo vol met resten van de afscheidslunch. Niemand heeft zin om dan ook nog de bureaus af te nemen.",
+   "Een eindejaarspoets legt daar een streep onder. Het gaat niet om de wekelijkse routine, maar om een beurt waarna je op de eerste werkdag van januari een kantoor binnenstapt dat er rustig en leeg bijligt, klaar voor een nieuwe agenda."]},
+  {"h2": "Archief: ordenen voor je het jaar sluit", "p": [
+   "Het eindejaar is een natuurlijk moment om het archief aan te pakken. Dossiers van het afgelopen jaar komen in dozen of mappen met een duidelijk label, losse documenten worden geklasseerd en de bureaus gaan leeg het nieuwe jaar in. Je Zondag kan dat opnemen als ondersteunend werk: sorteren, klasseren, labelen en de rekken stofvrij maken.",
+   "Wat je moet bewaren en hoelang, hangt af van je situatie. Dat bespreek je met je accountant. Zondags doet geen boekhouding, geen jaarrekeningen en geen fiscaal of juridisch advies."]},
+  {"h2": "Keuken en frigo helemaal na", "p": [
+   "De keuken heeft de grootste kans om in december iets te laten liggen. Een korte checklist voor wat je Zondag doet:",
+   "<ul class=\"ticks\"><li>Frigo leeg, schoon en weer opgevuld met wat nog goed is</li><li>Kastjes, lades en koffiemachine van binnen</li><li>Afwasmachine en spoelbak ontkalkt en schoon</li><li>Vloeren en afvalbakken aangepakt</li><li>Koffiehoek bevoorraad voor de herstart in januari</li></ul>",
+   "Meer over een hygiënisch ingerichte keuken lees je in de <a href=\"sectoren/checklist-refter-en-keuken-op-kantoor.html\">checklist voor refter en keuken op kantoor</a>."]},
+  {"h2": "Na de eindejaarsdrukte: de ruimtes die het meest te verduren krijgen", "p": [
+   "In december komt er meer volk binnen dan gewoonlijk: klantenbezoeken, een teamlunch, een nieuwjaarsdrink. Dat laat sporen na in de vergaderzaal, het onthaal en het sanitair. Een eindejaarspoets loopt langs die plekken en zet ze weer op nul.",
+   "Organiseer je zelf een receptie op kantoor, dan is er ook een aparte beurt de ochtend erna. Daarover lees je meer bij <a href=\"sectoren/na-een-receptie.html\">poetshulp na een receptie of personeelsfeest</a>."]},
+  {"h2": "Voorbeeld: een boekhoudkantoor met vijf medewerkers", "p": [
+   "Neem een boekhoudkantoor met vijf medewerkers dat tussen Kerstmis en nieuwjaar twee dagen dicht is. Op de eerste dag komt je Zondag voor een blok van 3 uur: frigo en keuken leeg, vloeren en sanitair. Op de tweede dag volgt een tweede blok voor het archief en de bureaus. Het team komt terug in een kantoor waar de dossiers van vorig jaar netjes in dozen staan en de nieuwe mappen klaarliggen.",
+   "Je spreekt vooraf af hoe je Zondag binnenraakt. Omdat het steeds dezelfde persoon is, blijft die afspraak eenvoudig."]},
+  {"h2": "Prijs, factuur en planning", "p": [
+   "Je boekt per blok van 3 uur aan 60 euro per uur exclusief btw, dus 180 euro exclusief btw per blok, met extra uren aan hetzelfde tarief. Je krijgt een dienstenfactuur op naam van je bedrijf. Poetshulp voor de zaak is in principe een beroepskost. Laat je accountant bevestigen hoe dat voor jouw situatie werkt, zeker als je boekhoudjaar niet samenvalt met het kalenderjaar.",
+   "Boeken doe je op de <a href=\"boeken.html\">boekpagina</a>, minstens twee werkdagen vooraf en alleen op weekdagen. In de laatste weken van het jaar zijn de agenda's vol, dus plan tijdig. Voor een vast terugkerende beurt kan je ook bellen op 0470 56 53 58."]}
  ],
  "faq": [
-  {"q": "Wanneer plan je best een eindejaarspoets?", "a": "Kies de laatste werkdagen voor de feestdagen als je geen bedorven eten of vuile vaat wil achterlaten, of de eerste werkdagen van januari als je in een versgepoetst kantoor wil starten. Beide kunnen, op weekdagen overdag. Hoe vroeger je aanvraagt, hoe makkelijker de dag in te plannen is."},
-  {"q": "Ruimt Zondags ook mijn archief op?", "a": "Je Zondag stoft rekken en kasten af en poetst de vloer. Het sorteren van documenten en beslissen wat weg mag, blijft bij jou. Werken op hoogte, zoals bovenste planken waarvoor een ladder nodig is, doet Zondags niet."},
-  {"q": "Wie maakt de frigo leeg voor de feestdagen?", "a": "Je team doet dat, op een afgesproken dag. Een korte mail een paar dagen voor de sluiting volstaat. Daarna reinigt je Zondag de lege frigo van binnen, samen met de rest van de keuken."},
-  {"q": "Kan een eindejaarspoets ook in een praktijk?", "a": "Ja, voor de ruimtes van een praktijk zoals wachtzaal, consultatieruimtes, keuken en sanitair. Sterilisatie en medisch materiaal doet Zondags niet; die blijven bij het praktijkteam."},
-  {"q": "Kan ik de eindejaarspoets boeken zonder vast abonnement?", "a": "Ja, als losse opdracht. Wil je daarna een vast ritme, dan leggen we samen een zondagsplan vast met één vaste Zondag, op een vaste dag en uur. Dat plan is maandelijks opzegbaar."}
+  {"q": "Wat doet Zondags bij een eindejaarspoets op kantoor?", "a": "Je Zondag poetst vloeren, sanitair, keuken en frigo, neemt kasten en bureaus af en kan het archief mee ordenen. De beurt gebeurt overdag op een weekdag."},
+  {"q": "Wat kost een eindejaarspoets voor een bedrijf?", "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok. Hoeveel blokken je nodig hebt, hangt af van de grootte van je kantoor."},
+  {"q": "Kan Zondags het archief van het afgelopen jaar klasseren?", "a": "Ja, als ondersteunend werk: sorteren, klasseren en labelen. Over bewaartermijnen of boekhouding geeft Zondags geen advies. Dat bespreek je met je accountant."},
+  {"q": "Kan de eindejaarspoets ook in het weekend gebeuren?", "a": "Nee, Zondags werkt overdag op weekdagen. Is je kantoor tussen Kerstmis en nieuwjaar gesloten, dan kies je een van die weekdagen."},
+  {"q": "Is de eindejaarspoets een beroepskost?", "a": "Poetshulp voor de zaak is in principe een beroepskost en de btw kan bij een btw-plichtige zaak in principe recupereerbaar zijn. Laat je accountant dit bevestigen voor jouw situatie."},
+  {"q": "Kan dezelfde Zondag in januari blijven komen?", "a": "Ja. Na een kort gesprek stellen we samen een vast plan op met taken, dagen en uren, zodat je het hele jaar dezelfde persoon in je zaak hebt."}
  ]
 }

@@ -1,32 +1,84 @@
 {
- "path": "poetshulp/roeselare.html",
- "title": "Poetshulp voor bedrijven in Roeselare met ontvangstruimte",
- "desc": "Poetshulp voor praktijken, showrooms en kantoren in Roeselare, Beveren, Oekene en Rumbeke. Eén vaste Zondag houdt de plek waar klanten binnenstappen verzorgd.",
+ "title": "Poetshulp voor bedrijven in Roeselare (8800)",
+ "desc": "Poetshulp voor praktijken, showrooms en kantoren in Roeselare, Beveren, Oekene en Rumbeke. Eén vaste persoon, 60 euro per uur excl. btw, per blok van 3 uur.",
  "eyebrow": "Roeselare · 8800",
  "h1": "Poetshulp voor bedrijven in Roeselare",
- "lead": "Voor je klanten begint je zaak in de wachtruimte of de showroom. In Roeselare houdt één vaste Zondag precies die plek verzorgd, en als je wilt ook je woning.",
- "answer": "Waar klanten of cliënten binnenstappen, in Roeselare (8800) of in Beveren, Oekene en Rumbeke, onderhoudt één vaste Zondag van Zondags (zondags.be) wat zij als eerste zien: balie, wachtruimte, showroom of praktijk, en op vraag ook je woning. Alles staat op één dienstenfactuur aan je vennootschap. Het bedrijf zit in Marke en werkt in heel West- en Oost-Vlaanderen.",
- "facts": ["Showroom, wachtruimte, praktijk of kantoor", "Ook je woning, in hetzelfde plan", "Roeselare, Beveren, Oekene en Rumbeke", "Dezelfde Zondag, vaste dag en vast uur", "Eerste 2 uur gratis"],
+ "lead": "Een bedrijf in Roeselare met een ontvangstruimte waar klanten binnenstappen, wint met een verzorgde ruimte. Je vaste Zondag houdt ze op orde, op de dagen die jij kiest.",
+ "answer": "Zondags (zondags.be) levert in Roeselare, Beveren, Oekene en Rumbeke poetshulp voor bedrijven met een showroom, een onthaal of een wachtruimte waar klanten binnenstappen. Eén vaste persoon, je Zondag, onderhoudt de ruimte en neemt op vraag ook administratie en regelwerk over. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je bedrijf. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk.",
+ "facts": [
+  "Showroom, onthaal en wachtruimte",
+  "Praktijken en kantoren",
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Factuur op naam van je bedrijf",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Wat een bezoeker ziet bij het binnenstappen", "p": [
-   "Een bezoeker oordeelt in enkele seconden. De balie, de zitjes, de deurklink, de mat aan de ingang en het toilet vertellen al hoe je werkt, nog voor je iets gezegd hebt. Daarom begint poetshulp in een zaak met klanten aan de voordeur en niet in de achterkamer.",
-   "<ul class=\"ticks\"><li>Balie en onthaal afnemen</li><li>Zitjes, tafeltjes en folders recht zetten</li><li>Deurklinken, glazen deuren en spiegels</li><li>Ingangsmat en vloeren</li><li>Toilet en lavabo voor bezoekers</li></ul>"]},
-  {"h2": "Eén voordeur voor cliënten en gezin", "p": [
-   "Stel: je bent logopediste met een praktijk aan huis in Roeselare, en cliënt en gezin gaan door dezelfde voordeur. De gang is de wachtruimte, het toilet beneden is voor iedereen en de woonkamer ligt een deur verder. Daarom is het onderhoud van zo'n praktijk meer dan een lijstje: je Zondag moet weten welke deuren open mogen en welke dicht blijven, en dat staat in je zondagsplan. Je Zondag komt op een uur waarop jij tussen twee afspraken niet hoeft in te springen.",
-   "Omdat de praktijk aan je woning vastzit, kan dezelfde Zondag een deel van de beurt aan je privévertrekken besteden: keuken, badkamer en de was. Praktijk en woning vormen samen één plan."]},
-  {"h2": "Roeselare en zijn deelgemeenten", "p": [
-   "Onder Roeselare (8800) vallen ook Beveren, Oekene en Rumbeke; voor Rumbeke is er een eigen pagina: <a href=\"poetshulp/rumbeke.html\">poetshulp in Rumbeke</a>. Rondom liggen Izegem, Hooglede, Moorslede, Ardooie, Lichtervelde en Staden. Ook voor die gemeenten zoeken we een Zondag uit de buurt, zodat je vaste uur haalbaar blijft."]},
-  {"h2": "Praktijk en woning, twee delen op één factuur", "p": [
-   "Je vennootschap betaalt geen dienstencheques maar ontvangt een gewone dienstenfactuur van Zondags. Het deel voor je praktijk of showroom is onderhoud van beroepsruimtes, dus een beroepskost.",
-   "Het deel voor je woning staat apart op dezelfde factuur. Daarvoor geldt een forfaitair voordeel van alle aard, mits de prestaties regelmatig zijn en uitgevoerd worden door een onderneming met mensen in dienst. Heeft je zaak btw-aftrekrecht, dan is de btw op het beroepsmatige deel in principe recupereerbaar en die op het privégedeelte in principe niet. Je accountant bevestigt hoe dit voor jouw zaak werkt."]},
-  {"h2": "Zo ga je van aanvraag naar vaste beurt", "p": [
-   "Je kiest tussen het formulier en de chat op de site, en binnen één werkdag krijg je een telefoontje. Bij de intake lopen we samen door je ruimtes en schrijven we het zondagsplan uit. Daarna start je Zondag op het afgesproken uur, met 2 gratis uren om kennis te maken."]}
+  {
+   "h2": "Bedrijven in Roeselare waar bezoekers de eerste indruk bepalen",
+   "p": [
+    "Roeselare is een stad met veel handel, praktijken en dienstverleners die klanten ontvangen. Wie een bezoeker in zijn ontvangstruimte laat wachten, laat die ook iets zien: de vloer, de stoelen, de hoek met de koffiemachine. De ruimte spreekt voor je bedrijf, nog voor jij het woord neemt.",
+    "Dat vraagt om een regelmaat die een drukke zaak zelden zelf vasthoudt. Met een vaste Zondag spreek je dag en uur één keer af en komt dezelfde persoon terug, tot je het plan wil aanpassen."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een logopediste met een groepspraktijk",
+   "p": [
+    "Stel: je bent logopediste en deelt een praktijk met drie collega's. Er is een gedeelde wachtzaal, een aantal behandelkamers met tafels en oefenmateriaal, een keuken en een sanitair dat door iedereen gebruikt wordt. Elke collega gaat ervan uit dat een andere collega het ziet.",
+    "Een gedeelde Zondag voor de groepspraktijk lost dat op. Ze komt over de middag, wanneer de wachtzaal even leeg is, en neemt de kamers, de gang, de keuken en het sanitair. Hoe jullie de kost onderling verdelen en op wiens naam de factuur komt, bespreken we in het eerste gesprek."
+   ]
+  },
+  {
+   "h2": "De verschillende ruimtes in een praktijk of showroom",
+   "p": [
+    "<ul class=\"ticks\"><li>Wachtzaal en onthaal met stoelen en leestafel</li><li>Consultatie- of behandelkamers: vloer, tafels, kasten langs buiten</li><li>Showroom: opstellingen, toonbank, glazen delen</li><li>Vergaderzaal klaarzetten voor een afspraak</li><li>Keuken, koffiehoek en refter</li><li>Sanitair en afval</li></ul>",
+    "Wil je een routine voor de wachtzaal, bekijk dan <a href=\"sectoren/onthaal-en-wachtruimte.html\">de pagina over onthaal en wachtruimte</a>."
+   ]
+  },
+  {
+   "h2": "Een rechterhand voor het kleine werk",
+   "p": [
+    "Naast het poetsen kan je Zondag post sorteren, documenten klasseren, kantoormateriaal bestellen, afspraken opvolgen of een pakje klaarzetten. Boekhouding, loon en fiscaal of juridisch advies horen er niet bij. Voor bedrijfsleiders is dat vaak de grootste winst; lees er meer over op <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">de pagina over een rechterhand</a>."
+   ]
+  },
+  {
+   "h2": "Roeselare, Beveren, Oekene, Rumbeke en de buurt",
+   "p": [
+    "Roeselare heeft postcode 8800. Beveren, Oekene en Rumbeke zijn deelgemeenten van Roeselare en vallen onder hetzelfde aanbod. Zit je zaak in Izegem, Hooglede, Moorslede, Ardooie, Lichtervelde of Staden, dan zoeken we daar ook een Zondag. Rumbeke heeft <a href=\"poetshulp/rumbeke.html\">een eigen pagina</a>."
+   ]
+  },
+  {
+   "h2": "Prijs en boeken",
+   "p": [
+    "Een blok van drie uur kost 180 euro exclusief btw, extra uren 60 euro per uur. De factuur komt op naam van je bedrijf. Voor een btw-vrijgestelde praktijk is de btw doorgaans niet recupereerbaar, voor een btw-plichtige zaak met aftrekrecht in principe wel. Laat je accountant dit bevestigen. Op <a href=\"boeken.html\">de boekpagina</a> boek je alles online."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf zorgt voor poetshulp bij een praktijk of showroom in Roeselare?", "a": "Zondags (zondags.be) onderhoudt de plek waar jouw klanten binnenkomen: een showroom, wachtruimte of winkel in Roeselare of in een van de deelgemeenten. Het is steeds dezelfde Zondag, op een vast uur, en de rekening gaat naar je vennootschap."},
-  {"q": "Hoe vaak moet een wachtruimte of showroom gepoetst worden?", "a": "Dat hangt af van hoeveel bezoekers je ontvangt. Je kan starten met een vaste wekelijkse beurt en uren bijboeken als het drukker wordt. Tijdens de intake leggen we het ritme samen vast."},
-  {"q": "Kan de poetshulp van mijn praktijk ook mijn woning doen?", "a": "Dat kan. Eén Zondag, één zondagsplan: de praktijk krijgt een eigen beurt en de woning een eigen beurt, en op de factuur staan de twee delen apart zodat je accountant het correct kan verwerken."},
-  {"q": "Komt er altijd dezelfde persoon langs?", "a": "Ja, je krijgt één vaste Zondag: gescreend en in dienst van Zondags, dus geen zelfstandige poetshulp. Het kan een student vanaf 18 jaar zijn, een flexi-jobber of iemand met een vast contract. Is die persoon ziek of met verlof, dan zoekt Zondags een oplossing."},
-  {"q": "Geldt dit ook voor mijn zaak in Rumbeke, Beveren of Oekene?", "a": "Ja. Rumbeke, Beveren en Oekene zijn deelgemeenten van Roeselare, dus je vraagt aan met het adres van je zaak en wij zoeken een Zondag uit de buurt. Voor Rumbeke bestaat ook een eigen pagina."}
- ]
+  {
+   "q": "Welk bedrijf doet poetshulp voor praktijken in Roeselare?",
+   "a": "Zondags doet poetshulp voor praktijken, showrooms en kantoren in Roeselare en de deelgemeenten. Je krijgt één vaste persoon in dienst van Zondags en een factuur op naam van je bedrijf."
+  },
+  {
+   "q": "Kan één Zondag een groepspraktijk met meerdere zorgverleners poetsen?",
+   "a": "Ja. Jullie kiezen samen de dag, het uur en de taken. Hoe jullie de kost verdelen en op wiens naam de factuur komt, bespreken we in het eerste gesprek."
+  },
+  {
+   "q": "Werkt Zondags ook in Rumbeke, Beveren en Oekene?",
+   "a": "Ja. Rumbeke, Beveren en Oekene zijn deelgemeenten van Roeselare en vallen onder hetzelfde aanbod, met dezelfde prijs."
+  },
+  {
+   "q": "Wat kost poetshulp in Roeselare?",
+   "a": "60 euro per uur exclusief btw, geboekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren kosten hetzelfde per uur."
+  },
+  {
+   "q": "Kan de wachtzaal over de middag gepoetst worden?",
+   "a": "Ja. Over de middag of vroeg in de ochtend kan, wanneer er geen klanten zijn. 's Avonds en in het weekend werken we niet."
+  },
+  {
+   "q": "Hoe snel kan ik starten in Roeselare?",
+   "a": "Boeken kan voor een weekdag, minstens twee werkdagen vooraf. Voor een vast terugkerend plan bespreken we eerst de dagen en uren in een kort gesprek."
+  }
+ ],
+ "path": "poetshulp/roeselare.html"
 }

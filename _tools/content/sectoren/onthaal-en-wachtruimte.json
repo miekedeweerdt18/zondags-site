@@ -1,33 +1,35 @@
 {
  "path": "sectoren/onthaal-en-wachtruimte.html",
- "title": "Poetshulp voor onthaal en wachtruimte: de eerste indruk",
- "desc": "Poetshulp voor het onthaal en de wachtruimte van je kantoor of praktijk: balie, zitjes, tijdschriften, deurklinken, ramen en ingangsmat, door één vaste Zondag.",
+ "title": "Poetshulp voor onthaal en wachtruimte van je zaak",
+ "desc": "Poetshulp voor onthaal en wachtruimte: balie, zitjes, tijdschriften, deurklinken, ramen langs binnen en ingangsmat. 60 euro per uur exclusief btw.",
  "eyebrow": "Onthaal en wachtruimte",
  "h1": "Poetshulp voor onthaal en wachtruimte",
- "lead": "Voor een bezoeker begint je zaak bij de deur, de mat en de balie. Een vaste Zondag houdt die eerste meters verzorgd, tot de laatste deurklink en het laatste tijdschrift.",
- "answer": "Zondags (zondags.be) levert poetshulp voor het onthaal en de wachtruimte van kantoren, praktijken en winkels: één vaste persoon, je Zondag, voor de balie, de zitjes, de tijdschriften, de deurklinken, de ramen langs binnen en de ingangsmat, overdag op weekdagen. Zo is de eerste indruk elke week even verzorgd. De gewone dienstenfactuur gaat naar je vennootschap.",
- "facts": ["Balie, zitjes en tijdschriften", "Deurklinken en ingangsmat", "Ramen langs binnen", "De eerste indruk, elke week gelijk", "Factuur aan je vennootschap"],
+ "lead": "De eerste indruk van je zaak ontstaat in de eerste seconden bij de deur. Eén vaste Zondag houdt balie, zitjes, ingangsmat en ramen op orde, elke week opnieuw.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor het onthaal en de wachtruimte van een kantoor, praktijk of winkel: één vaste persoon, je Zondag, voor balie, zitjes, tijdschriften, deurklinken, ramen langs binnen en ingangsmat. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je bedrijf.",
+ "facts": ["Balie, zitjes, tijdschriften, ingangsmat", "Deurklinken en ramen langs binnen", "Eerste indruk elke week verzorgd", "Steeds dezelfde Zondag", "60 euro per uur, per blok van 3 uur", "Online boeken en betalen"],
  "sections": [
-  {"h2": "De eerste meters van je zaak", "p": [
-   "Een bezoeker vormt zich een beeld van je zaak nog voor het eerste woord gevallen is. De mat aan de deur, de balie, de zitjes en het raam daarachter vertellen hoe je met details omgaat. Er hoeft niets spectaculairs te gebeuren: het gaat om kleine dingen die verzorgd zijn, elke week opnieuw."]},
-  {"h2": "Wat er elke beurt aan bod komt", "p": [
-   "<ul class=\"ticks\"><li>Ingangsmat uitkloppen of zuigen, en de vloer erachter</li><li>Deurklinken, deurplaten en leuningen</li><li>Balie afnemen, ook de zijkanten en de voorkant</li><li>Zitjes, tafeltjes en armleuningen</li><li>Tijdschriften en folders netjes leggen</li><li>Ramen en glazen deuren langs binnen</li><li>Prullenbak leegmaken en de vloer als laatste</li></ul>"]},
-  {"h2": "Deurklinken en andere plekken die iedereen aanraakt", "p": [
-   "De klink van de voordeur wordt door elke bezoeker vastgepakt, net als de balie, de pen, de trapleuning en de armleuning van de stoel. Dat zijn de plekken waar mensen voelen of een zaak verzorgd is, ook al kijken ze niet bewust. Je Zondag begint elke beurt bij die aanraakpunten, want daar zit het vuil dat bezoekers merken."]},
-  {"h2": "Tijdschriften: weinig, recent en netjes", "p": [
-   "Een stapel tijdschriften van twee jaar geleden geeft een slechtere indruk dan geen tijdschriften. Een korte stapel recente nummers, recht gelegd, werkt beter. Je Zondag legt de stapel recht, stoft de tafel af en meldt wat verlopen lijkt. Wat je wegneemt of aanvult, beslis jij of je team."]},
-  {"h2": "Wat jij en je team tussendoor doen", "p": [
-   "Tussen twee beurten zorgt je team voor wat zichtbaar is: een gemorste koffie opvegen, een tijdschrift terugleggen, de mat rechttrekken bij regenweer. Hoe je een wachtzaal proper houdt tussen twee beurten, lees je op <a href=\"vragen/wachtzaal-proper-houden.html\">wachtzaal proper houden</a>. Je Zondag doet de grondige beurt, je team de kleine ingrepen."]},
-  {"h2": "Voorbeeld: een praktijk met zes stoelen in de wachtruimte", "p": [
-   "Stel: je praktijk heeft een wachtruimte met zes stoelen, een balie, een tafeltje met tijdschriften en een voordeur met een glazen paneel. Op maandag en donderdag komt je Zondag vroeg in de ochtend, vóór de eerste afspraak: mat, deurklinken, balie, zitjes, tafeltje en ramen langs binnen. In weken met veel regen of sneeuw voeg je een korte extra beurt toe voor de ingang."]},
-  {"h2": "Factuur, en hoe je begint", "p": [
-   "Het onderhoud van onthaal en wachtruimte is een beroepskost op een gewone dienstenfactuur op naam van je vennootschap. Vraag je accountant om te bevestigen hoe dat bij jou werkt. Via het formulier of de chat kan je een Zondag aanvragen. Binnen één werkdag volgt een telefoontje en de eerste 2 uur zijn gratis."]}
+  {"h2": "Wat een bezoeker in de eerste minuut ziet", "p": [
+   "Wie binnenkomt, kijkt zonder erbij na te denken naar vijf dingen: de vloer bij de deur, de balie, de zitjes, de ramen en de geur. Dat zijn de plaatsen waar een zaak wint of verliest, nog voor er een woord gezegd is.",
+   "Daarom beginnen we in het zondagsplan van een onthaal altijd bij de deur en werken we naar binnen. Wat het eerst opvalt, krijgt de eerste aandacht."]},
+  {"h2": "De vaste ronde langs de wachtruimte", "p": [
+   "<ul class=\"ticks\"><li>Ingangsmat uitkloppen en de vloer eromheen vegen</li><li>Deurklinken en lichtknoppen afnemen</li><li>Balie leegmaken, afnemen en weer netjes terugzetten</li><li>Zitjes: zitting, leuning en kleine tafeltjes</li><li>Tijdschriften en folders netjes schikken, verouderde exemplaren op een stapel voor jou</li><li>Ramen en glazen deur langs binnen</li><li>Afvalbakje en plantenbak aan de zijkant</li></ul>",
+   "Ramen langs buiten op hoogte en gevelreiniging vallen buiten ons werk. Alles wat je vanaf de vloer bereikt, krijgt wel aandacht."]},
+  {"h2": "Waar je Zondag op let", "p": [
+   "Een onthaal is een ruimte met veel handen. Deurklinken, de balie, de pen aan het bureau, het tafeltje bij de zitjes. Dat zijn de oppervlakken die het vaakst aangeraakt worden en dus het vaakst aandacht nodig hebben. Een vaste persoon leert snel welke plek er het eerst vuil uitziet, bijvoorbeeld de hoek bij de ingang waar iedereen zijn natte schoenen afveegt.",
+   "In een praktijk of kantoor met veel bezoekers loont het om dat deel iets vaker te doen dan de rest."]},
+  {"h2": "Een voorbeeld: een tandartspraktijk met twee behandelkamers", "p": [
+   "Stel: je hebt een tandartspraktijk met een kleine wachtruimte en een balie die de hele dag bezet is. Je Zondag komt op een vaste ochtend voor de eerste patiënt. Ze begint bij de ingang en de balie, daarna de zitjes en de ramen, en sluit af met het sanitair voor bezoekers. De behandelkamers en alles wat medisch of steriel is, blijft bij jouw team.",
+   "Ook voor een winkel met een kleine wachthoek werkt dezelfde volgorde. Meer over de ruimtes tussen onthaal en vergadering lees je bij <a href=\"sectoren/vergaderzalen.html\">poetshulp voor vergaderzalen</a>."]},
+  {"h2": "Kleine gewoontes die tussendoor helpen", "p": [
+   "Een mat die elke dag even wordt uitgeschud, tijdschriften die elke week worden vervangen en een raam waarvan de vingerafdrukken meteen weg zijn: het zijn minuten die het onthaal fris houden tot de volgende beurt. Je Zondag kan een korte lijst achterlaten met wat je team zelf nog tussendoor doet."]},
+  {"h2": "Prijs en boeken", "p": [
+   "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw. Extra uren kosten hetzelfde. Poetshulp is in principe een beroepskost en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant het bevestigen. Boek online op de <a href=\"boeken.html\">boekpagina</a>."]}
  ],
  "faq": [
-  {"q": "Hoe vaak moet een onthaal of wachtruimte gepoetst worden?", "a": "Dat hangt af van de passage. Een wachtruimte met veel bezoekers per dag vraagt vaker een beurt dan een onthaal voor een paar afspraken. Je start met een vaste beurt per week en stuurt bij als je merkt dat het er tegen het einde van de week niet meer netjes uitziet."},
-  {"q": "Wat doet een poetshulp met de tijdschriften in de wachtzaal?", "a": "Je Zondag legt de stapel netjes, stoft de tafel af en meldt wat verlopen lijkt. Weggooien of aanvullen doet je team. Zo blijf jij de baas over wat bezoekers te lezen krijgen."},
-  {"q": "Worden de ramen in de wachtruimte ook gedaan?", "a": "Ja, langs de binnenkant. Ramen en glazen deuren langs binnen horen bij het plan. Ramen langs buiten op hoogte en gevelreiniging doet Zondags niet. Meer over glas langs binnen lees je op <a href=\"diensten/ramen-binnen-wassen.html\">ramen binnen wassen</a>."},
-  {"q": "Kan de poetshulp komen voordat de eerste bezoekers binnenkomen?", "a": "Ja. Een beurt vroeg in de ochtend, vóór de eerste bezoeker, is mogelijk, net als over de middag. Zit je wachtruimte 's avonds of in het weekend vol, dan poetsen we ze op de werkdag ervoor. We stemmen het uur af op de openingsuren van je zaak."},
-  {"q": "Poetst Zondags ook de ingangsmat?", "a": "Ja. De mat wordt uitgeklopt of gezogen en de vloer eronder krijgt een beurt. Een mat die vervangen moet worden, regel je zelf. Is de mat zwaar of vastgemaakt, dan bespreken we dat in de intake."}
+  {"q": "Wat hoort er bij het poetsen van een onthaal?", "a": "Ingangsmat, vloer, balie, zitjes, deurklinken, ramen langs binnen, tijdschriften schikken en afval. Wat je precies wil, staat in je zondagsplan."},
+  {"q": "Kan Zondags poetsen terwijl er bezoekers zijn?", "a": "Dat vermijden we waar mogelijk. We plannen liever vroeg in de ochtend of over de middag, wanneer er minder passage is."},
+  {"q": "Hoe vaak moet de wachtruimte gepoetst worden?", "a": "Een wekelijks bezoek is een goede basis. Bij veel passage kies je twee bezoeken per week of voeg je een extra blok toe."},
+  {"q": "Wat kost poetshulp voor een onthaal?", "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok, met extra uren aan hetzelfde tarief."},
+  {"q": "Poetst Zondags ook ramen langs buiten?", "a": "Enkel langs binnen. Ramen langs buiten op hoogte en gevelreiniging doen we niet, want dat vraagt materiaal en werken op hoogte die buiten ons werk vallen."}
  ]
 }

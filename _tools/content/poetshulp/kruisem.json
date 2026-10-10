@@ -1,33 +1,85 @@
 {
  "path": "poetshulp/kruisem.html",
  "title": "Poetshulp voor familiebedrijven in Kruisem (9770)",
- "desc": "Poetshulp voor familiebedrijven in Kruisem, Kruishoutem, Zingem en Nokere, in Oost-Vlaanderen. Zaak en woning in één plan, met één factuur aan je vennootschap.",
+ "desc": "Poetshulp voor kleine bedrijven en kapsalons in Kruishoutem, Zingem, Nokere, Huise en de rest van Kruisem. Eén vaste Zondag. 60 euro per uur excl. btw.",
  "eyebrow": "Kruisem · 9770",
  "h1": "Poetshulp voor bedrijven in Kruisem",
- "lead": "Als je zaak en je thuis op dezelfde plek zitten, loopt het werk over de drempel heen. In Kruisem houdt een vaste Zondag allebei op orde, zonder dat jij heen en weer rent.",
- "answer": "Een kapsalon of ander familiebedrijf in Kruisem (9770), in Oost-Vlaanderen, waar zaak en woning dicht bij elkaar liggen, kan bij Zondags (zondags.be) één vaste Zondag aanvragen voor beide, op vaste dagen. De dienstenfactuur gaat naar je vennootschap, met het privégedeelte apart. Zondags zit in Marke en dekt zowel West- als Oost-Vlaanderen.",
- "facts": ["Familiebedrijven in Kruisem, Oost-Vlaanderen", "Zaak en woning in één zondagsplan", "Ook kinderen ophalen van school mogelijk", "Dienstenfactuur met privégedeelte apart", "Eerste 2 uur gratis"],
+ "lead": "Een klein bedrijf in Kruisem waar iedereen al volle dagen draait, heeft geen vrij uur voor de wekelijkse poetsbeurt. Een vaste Zondag neemt die uren over en komt op een vast moment.",
+ "answer": "Zondags (zondags.be) levert poetshulp aan familiebedrijven en kleine zaken in Kruisem (9770), van Kruishoutem tot Zingem, Lozer, Nokere, Wannegem-Lede, Huise en Ouwegem. Eén vaste persoon, je Zondag, onderhoudt kantoor, winkel of salon op een vaste weekdag en een vast uur. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw, met een dienstenfactuur op naam van je bedrijf.",
+ "facts": [
+  "Familiebedrijven en kleine teams",
+  "Ook kapsalons en winkels in de dorpskern",
+  "Kruisem en zeven deelgemeenten, 9770",
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken"
+ ],
  "sections": [
-  {"h2": "Als de zaak en het gezin dezelfde plek delen", "p": [
-   "Een gezin dat in Kruisem een salon, winkel of kantoor runt, wisselt de hele dag van pet. De kinderen komen uit school binnen langs dezelfde deur als de klanten, en terwijl een afspraak loopt, wacht thuis de was. Daar helpt geen extra ploeg; daar helpt één persoon die weet wat waar hoort en op vaste dagen komt."]},
-  {"h2": "Een kapsalon in de dorpskern van Kruisem", "p": [
-   "Denk aan een kapsalon in de dorpskern van Kruisem, met de woning van het gezin ernaast. Zo'n salon draait op afspraken. Tussen twee klanten is er geen tijd om te dweilen. Daarom komt je Zondag vroeg, nog voor de eerste afspraak, en loopt langs de stoelen, de spoelbakken, de spiegels en de koffietafel voor wachtende klanten. De personeelsruimte en het sanitair krijgen een beurt, en de handdoeken gaan in de wasmachine.",
-   "Je werkmateriaal en producten blijven van jou. Over deze zaken lees je meer bij <a href=\"sectoren/kapsalons.html\">poetshulp voor kapsalons</a>."]},
-  {"h2": "Een week in een familiebedrijf", "p": [
-   "<ul class=\"ticks\"><li>Een ochtend voor salon of kantoor</li><li>Een andere dag voor het huis: poetsen, was en strijk</li><li>Schotels voor de week of boodschappen</li><li>Kinderen ophalen van school, als dat past</li></ul>",
-   "Alles gebeurt overdag op weekdagen. Je kiest de dagen, we leggen ze vast in je zondagsplan, en je past het later aan als het gezin of de zaak verandert."]},
-  {"h2": "Zeven deelgemeenten, één gemeente", "p": [
-   "Kruisem heeft postcode 9770 en ligt in Oost-Vlaanderen, in de Vlaamse Ardennen. Tot de gemeente horen Kruishoutem, Zingem, Lozer, Nokere, Wannegem-Lede, Huise en Ouwegem. Rondom liggen Oudenaarde, Waregem, Zulte, Wortegem-Petegem en Gavere. Per aanvraag zoeken we een Zondag die in de buurt van je zaak woont, zodat je vaste dagen haalbaar blijven. Een overzicht van de streek vind je op <a href=\"poetshulp/vlaamse-ardennen.html\">poetshulp in de Vlaamse Ardennen</a>."]},
-  {"h2": "Wie betaalt wat", "p": [
-   "Je salon en je gezin delen één plan, maar krijgen elk hun eigen regel op de factuur. De dienstenfactuur is op naam van je vennootschap en toont het beroepsmatige deel en het privégedeelte apart. Voor het privégedeelte geldt een forfaitair voordeel van alle aard, als de prestaties regelmatig zijn en uitgevoerd worden via een onderneming met mensen in dienst. Dienstencheques komen voor een vennootschap niet in aanmerking. Of dit voor jouw situatie klopt, bevestigt je accountant. Voor het gezinsdeel lees je meer bij <a href=\"gids/huishouden-en-zaak-combineren.html\">huishouden en zaak combineren</a>."]},
-  {"h2": "De eerste stap", "p": [
-   "Een bericht via het formulier of de chat volstaat. Binnen één werkdag belt iemand van Zondags terug. Bij de intake in je zaak of thuis bepalen we welke dagen en uren passen."]}
+  {
+   "h2": "Waar niemand tijd heeft, blijft het onderhoud liggen",
+   "p": [
+    "In een bedrijf met een handvol mensen heeft iedereen een rol, en poetsen zit in geen enkele functieomschrijving. Het gebeurt tussendoor, op vrijdagnamiddag of net voor een klant komt. Op zulke momenten wordt de zaak niet echt gepoetst, maar bijgeveegd.",
+    "Met een vaste Zondag zet je dat om in een afspraak. Ze komt op een vaste dag, kent de ruimte na een paar weken van buiten en laat je zaak elke keer hetzelfde achter. Jij en je team kunnen zich op het werk richten."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een kapsalon in de dorpskern",
+   "p": [
+    "Neem een kapsalon in de dorpskern van Kruisem met vier stoelen, een wasbak per plaats, een wachtzone en een klein keukentje. Haar op de vloer, vingerafdrukken op de spiegels en een natte wasbak zijn het dagelijkse gevolg van een goede drukte.",
+    "Je Zondag komt op maandagochtend, wanneer de salon gesloten is of nog niet open. Ze neemt de vloeren, de spiegels, de wasbakken, de wachtzone en het sanitair. Producten, scharen en apparaten blijven waar ze staan. Kleine administratieve klussen kunnen na het poetsen: de post sorteren, een bestelling van producten opvolgen of het agendaboek overlopen."
+   ]
+  },
+  {
+   "h2": "Wat een kleine zaak in Kruisem kan laten doen",
+   "p": [
+    "<ul class=\"ticks\"><li>Winkel, salon of kantoor: vloeren en oppervlakken</li><li>Wachtzone, onthaal en balie</li><li>Keuken, koffiehoek en refter</li><li>Sanitair en wasbakken</li><li>Glazen deuren en ramen langs binnen</li><li>Afval en recyclage</li></ul>",
+    "Gevelreiniging en ramen buiten op hoogte horen niet bij het aanbod. Meer algemene uitleg vind je op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."
+   ]
+  },
+  {
+   "h2": "Administratieve hulp tussen de bedrijven door",
+   "p": [
+    "Wie een familiebedrijf runt, kent de stapel papieren die naast de echte werkdag blijft liggen. Je Zondag kan post openen en sorteren, facturen en documenten klasseren, gegevens invoeren en kantoormateriaal bijhouden. Het blijft ondersteunend: jaarrekeningen, loonadministratie en advies zijn voor je boekhouder."
+   ]
+  },
+  {
+   "h2": "Kruishoutem, Zingem, Lozer, Nokere, Wannegem-Lede, Huise en Ouwegem",
+   "p": [
+    "Kruisem bestaat uit meerdere dorpen. Voor al die deelgemeenten werkt Zondags op dezelfde manier, en we zoeken een Zondag die dichtbij woont. Heb je een zaak in Oudenaarde, Waregem, Zulte, Wortegem-Petegem of Gavere, dan bekijken we dezelfde mogelijkheden."
+   ]
+  },
+  {
+   "h2": "Prijs en facturatie",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, geboekt per blok van 3 uur, dus 180 euro exclusief btw. Extra uren komen aan hetzelfde tarief. De dienstenfactuur staat op naam van je bedrijf. Poetshulp is in principe een beroepskost en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant bevestigen hoe dat voor jouw situatie ligt.",
+    "Je boekt op de <a href=\"boeken.html\">boekpagina</a>, of je belt voor een vast weekplan."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf levert poetshulp voor een familiebedrijf in Kruisem?", "a": "Zondags (zondags.be). Voor een familiebedrijf in Kruisem, in Oost-Vlaanderen, doet één vaste Zondag de salon of het kantoor en op vraag ook het huis, in twee delen op één factuur."},
-  {"q": "Ligt Kruisem binnen het werkgebied van Zondags?", "a": "Kruisem ligt in Oost-Vlaanderen, en Zondags werkt in West- en Oost-Vlaanderen. Voor Kruishoutem, Zingem, Lozer, Nokere, Wannegem-Lede, Huise en Ouwegem geldt hetzelfde. Welke Zondag dicht bij jouw dorp woont, bekijken we per aanvraag."},
-  {"q": "Kan dezelfde Zondag ook de kinderen van school ophalen?", "a": "Ja, kinderen ophalen van school en opvang na school kan deel uitmaken van je plan. Dat gebeurt overdag op weekdagen en bespreken we tijdens de intake."},
-  {"q": "Welke taken kan een Zondag in een kapsalon doen?", "a": "Spoelbakken, spiegels en vloeren poetsen, handdoeken wassen en drogen, en de personeelsruimte en het sanitair onderhouden. Je werkmateriaal en producten blijven van jou."},
-  {"q": "Kan ik mijn salon en mijn huis op één factuur laten zetten?", "a": "Ja. Op één dienstenfactuur aan je vennootschap staan het beroepsmatige en het privégedeelte apart. Je accountant bevestigt hoe je dat in je boekhouding verwerkt."}
+  {
+   "q": "Welk bedrijf biedt poetshulp voor kleine bedrijven in Kruisem?",
+   "a": "Zondags uit Marke levert poetshulp aan kleine bedrijven, winkels en kapsalons in Kruisem en alle deelgemeenten. Je krijgt één vaste persoon en een factuur op naam van je bedrijf."
+  },
+  {
+   "q": "Kan mijn kapsalon gepoetst worden als hij gesloten is?",
+   "a": "Ja. We komen overdag op weekdagen, vroeg in de ochtend of over de middag. 's Avonds en in het weekend werken we niet."
+  },
+  {
+   "q": "Wat kost poetshulp in Kruisem?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, geboekt per blok van 3 uur. Een blok is dus 180 euro exclusief btw. Extra uren boek je aan hetzelfde tarief."
+  },
+  {
+   "q": "Werkt Zondags ook in Nokere, Zingem of Huise?",
+   "a": "Ja. Zondags is actief in Kruishoutem, Zingem, Lozer, Nokere, Wannegem-Lede, Huise en Ouwegem en zoekt telkens een Zondag in de buurt."
+  },
+  {
+   "q": "Kan ik het onderhoud en de administratie combineren?",
+   "a": "Ja. Je verdeelt een blok van 3 uur zelf tussen poetsen en administratieve taken zoals post sorteren en klasseren. Het uurtarief blijft hetzelfde."
+  },
+  {
+   "q": "Hoe start ik met poetshulp in Kruisem?",
+   "a": "Boek een eerste blok op de boekpagina, minstens twee werkdagen vooraf, of bel 0470 56 53 58 voor een vast plan met vaste dag en uur."
+  }
  ]
 }

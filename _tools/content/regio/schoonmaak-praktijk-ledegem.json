@@ -1,81 +1,37 @@
 {
- "sections": [
-  {
-   "h2": "Poetsen op het moment dat niemand er is",
-   "p": [
-    "Voor een praktijk is timing alles. Een poetsbeurt tijdens het spreekuur stoort patiënten of cliënten, en 's avonds werken we niet. Wat dan overblijft, zijn twee goede momenten: vroeg in de ochtend, voor de eerste afspraak, en over de middag, wanneer er een pauze is.",
-    "Wij werken dus overdag op weekdagen en stemmen het uur af op jouw agenda. Eens afgesproken, blijft dat moment vast, zodat je team en je patiënten er niets van merken behalve de resultaten."
-   ]
-  },
-  {
-   "h2": "Voorbeeld: een notariskantoor met een wachtzaal",
-   "p": [
-    "Neem een notariskantoor met een wachtzaal, twee bureaus, een ontvangstruimte en een kleine keuken. Cliënten komen met documenten van betekenis, en een eerste indruk telt.",
-    "Je Zondag komt op woensdagochtend, een uur voor de eerste afspraak. De wachtzaal wordt gestoft en gedweild, de salontafel afgenomen, de tijdschriften netjes gelegd. In de ondertekeningsruimte worden tafel en stoelen afgenomen, de vloeren gedaan en het sanitair verzorgd.",
-    "Dossiers, akten en alles wat vertrouwelijk is, blijft waar het ligt. Wat je Zondag mag aanraken en wat niet, schrijven we in het zondagsplan."
-   ]
-  },
-  {
-   "h2": "Wat er in een praktijk aan bod komt",
-   "p": [
-    "<ul class=\"ticks\"><li>Wachtzaal: stoelen, tafels, speelhoek of leestafel<li>Onthaal: balie, deurklinken, telefoon en toetsenbord afnemen<li>Consultatie- en behandelruimtes: vloeren, meubilair, wastafels<li>Sanitair voor patiënten en personeel<li>Personeelskeuken of koffiehoek<li>Glazen deuren en ramen langs binnen</li></ul>",
-    "Wat wel en niet kan staat duidelijk afgebakend: geen sterilisatie, geen reiniging van medisch materiaal, geen industriële reiniging. Dat blijft bij je team, dat daarvoor is opgeleid. Over hygiëneafspraken lees je meer in de vragenreeks <a href=\"vragen/hygiene-afspraken-praktijk.html\">hygiëneafspraken in de praktijk</a>."
-   ]
-  },
-  {
-   "h2": "Ledegem en de deelgemeenten",
-   "p": [
-    "Ledegem heeft twee deelgemeenten: Rollegem-Kapelle en Sint-Eloois-Winkel. Voor praktijken in die dorpen zoeken we een Zondag die niet te ver woont. Ligt je praktijk net buiten Ledegem, in Moorslede, Wevelgem, Izegem of Menen, dan bekijken we dat ook. Zondags werkt vanuit Marke en is actief in West- en Oost-Vlaanderen."
-   ]
-  },
-  {
-   "h2": "Praktijk en woning in één plan",
-   "p": [
-    "Veel zorgverleners en vrije beroepen werken in hetzelfde dorp waar ze wonen. Je Zondag kan na de praktijk ook je woning doen, met één vaste persoon voor twee adressen. Dat bespaart je afspraken en gedoe. Op de factuur staat het beroepsmatige deel apart van het privégedeelte.",
-    "Een vennootschap kan geen dienstencheques kopen. Het onderhoud van je praktijk is een beroepskost. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren, een btw-plichtige zaak met aftrekrecht in principe wel op het beroepsmatige deel. Laat je accountant bevestigen wat voor jou geldt."
-   ]
-  },
-  {
-   "h2": "Zo begin je",
-   "p": [
-    "Je vraagt een gesprek aan. Binnen één werkdag belt iemand terug. Daarna komen we langs voor de intake, bespreken we de ruimtes, de uren en de afspraken en maken we samen het zondagsplan. De eerste 2 uur zijn gratis."
-   ]
-  }
- ],
- "faq": [
-  {
-   "q": "Welk bedrijf doet schoonmaak voor praktijken in Ledegem?",
-   "a": "Zondags (zondags.be) uit Marke levert een vaste schoonmaakhulp voor praktijken in Ledegem, Rollegem-Kapelle en Sint-Eloois-Winkel. Je Zondag poetst overdag op een weekdag, vroeg in de ochtend of over de middag."
-  },
-  {
-   "q": "Wordt mijn praktijk gepoetst buiten de consultaties?",
-   "a": "Ja. We plannen het onderhoud vroeg in de ochtend of over de middag, op een moment dat er geen patiënten zijn. 's Avonds en in het weekend werken we niet."
-  },
-  {
-   "q": "Reinigen jullie ook medisch materiaal of steriliseren jullie instrumenten?",
-   "a": "Nee. Sterilisatie en medisch materiaal blijven bij de praktijk zelf. Je Zondag poetst de ruimtes: wachtzaal, onthaal, behandelruimtes, vloeren en sanitair."
-  },
-  {
-   "q": "Kan ik zelf bepalen wat je Zondag mag aanraken?",
-   "a": "Ja. Bij de intake leggen we samen vast wat wel en niet mag, bijvoorbeeld rond dossiers, apparatuur en laden. Dat komt in het zondagsplan te staan."
-  },
-  {
-   "q": "Kan ik de praktijk en mijn woning samen laten doen?",
-   "a": "Ja. Praktijk en woning kunnen in één plan met dezelfde persoon. Op de factuur staan beroepsmatig en privé apart, en je accountant bevestigt de fiscale verwerking."
-  }
- ],
  "path": "regio/schoonmaak-praktijk-ledegem.html",
  "title": "Schoonmaakhulp voor praktijken in Ledegem (8880)",
- "desc": "Schoonmaakhulp voor praktijken in Ledegem en de deelgemeenten. Poetsen vroeg in de ochtend of over de middag, buiten de drukte, door één vaste persoon.",
+ "desc": "Poetsen vroeg in de ochtend of over de middag, buiten de drukte: één vaste Zondag voor je praktijk of kantoor in Ledegem. Online boeken per blok van 3 uur.",
  "eyebrow": "Ledegem · 8880",
  "h1": "Schoonmaakhulp voor praktijken in Ledegem",
- "lead": "Een praktijk die al open is wanneer de poetshulp binnenkomt, werkt niet. In Ledegem plannen we het onderhoud vroeg in de ochtend of over de middag, wanneer de wachtzaal leeg is.",
- "answer": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken van vrije beroepen en zorgverleners in Ledegem, Rollegem-Kapelle en Sint-Eloois-Winkel. Je Zondag poetst wachtzaal, onthaal, consultatie- en behandelruimtes en sanitair, vroeg in de ochtend of over de middag. Sterilisatie en medisch materiaal blijven bij de praktijk. Je krijgt een dienstenfactuur op naam van je vennootschap.",
- "facts": [
-  "Vroeg in de ochtend of over de middag",
-  "Wachtzaal, onthaal en sanitair",
-  "Geen sterilisatie of medisch materiaal",
-  "Steeds dezelfde Zondag",
-  "Eerste 2 uur gratis"
+ "lead": "Praktijken en kantoren in Ledegem die liefst buiten de drukte laten poetsen, kiezen een vroeg uur of de middag. Je vaste Zondag past zich aan jouw ritme aan.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken en kantoren in Ledegem en de deelgemeenten Rollegem-Kapelle en Sint-Eloois-Winkel. Eén vaste persoon, je Zondag, komt vroeg in de ochtend of over de middag, zodat het onderhoud buiten de drukte valt. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw.",
+ "facts": ["Vroeg in de ochtend of over de middag", "Wachtzaal, bureaus en sanitair", "Rollegem-Kapelle en Sint-Eloois-Winkel", "Steeds dezelfde Zondag", "60 euro per uur, per blok van 3 uur", "Factuur op naam van je bedrijf"],
+ "sections": [
+  {"h2": "Een notariskantoor met een wachtzaal", "p": [
+   "Stel: je leidt een notariskantoor in Ledegem met een wachtzaal, een onthaal, enkele bureaus en een vergaderzaal waar akten worden verleden. Cliënten zitten er met serieuze zaken, soms spannend. Een nette, rustige omgeving hoort bij het vertrouwen dat je uitstraalt.",
+   "Poetsen tijdens kantooruren stoort, en achteraf is er niemand meer. Een Zondag die vroeg in de ochtend langskomt, lost dit op: de zaak is netjes voor het eerste bezoek."]},
+  {"h2": "Buiten de drukte: het moment kiezen", "p": [
+   "In de meeste praktijken en kantoren zijn er twee stille ogenblikken: net voor de eerste afspraak en rond de middag. Je Zondag kiest samen met jou een van beide en houdt het vast. Daardoor staat het onderhoud los van het gedoe van de dag.",
+   "Zondags werkt overdag op weekdagen. Avonden en weekends zijn uitgesloten, wat voor kantoren en praktijken meestal geen bezwaar is."]},
+  {"h2": "Een standaard ronde voor een kantoor of praktijk", "p": [
+   "<ul class=\"ticks\"><li>Onthaal en wachtzaal afnemen</li><li>Bureaus en vergadertafel</li><li>Vergaderzaal klaarzetten na een afspraak</li><li>Sanitair en handdoeken</li><li>Vloeren van alle ruimtes</li><li>Afval en papierstromen buiten zetten</li></ul>",
+   "Wat je Zondag wel en niet aanraakt, leg je vooraf vast in het zondagsplan. Dossiers, aktes en andere vertrouwelijke stukken laat je gewoon op hun plek. Voor praktijken blijven sterilisatie en medisch materiaal bij de praktijk."]},
+  {"h2": "Ook zinvol: papierwerk dat zich opstapelt", "p": [
+   "In een notariskantoor of een praktijk komt veel papier binnen. Je Zondag kan de post openen en sorteren, afspraken in de agenda zetten, pakjes en zendingen klaarmaken en het archief ordenen. Het blijft ondersteunend werk.",
+   "Meer over die kant van het werk lees je op <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">rechterhand voor bedrijfsleiders</a>."]},
+  {"h2": "Tarief, factuur en btw", "p": [
+   "Een uur kost 60 euro exclusief btw. Je boekt een blok van drie uur, dat is 180 euro exclusief btw, en voegt indien nodig extra uren toe aan hetzelfde tarief. Je ontvangt een dienstenfactuur op naam van je vennootschap.",
+   "Het onderhoud van je kantoor is in principe een beroepskost. Btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, een btw-vrijgestelde zaak kan dat doorgaans niet. Je accountant bevestigt hoe het voor jou zit."]},
+  {"h2": "Ledegem en omgeving", "p": [
+   "Zondags werkt vanuit Marke en zoekt een Zondag in Ledegem, Rollegem-Kapelle, Sint-Eloois-Winkel en ook in Moorslede, Wevelgem, Izegem en Menen. Kies je moment op de <a href=\"boeken.html\">boekpagina</a>."]}
+ ],
+ "faq": [
+  {"q": "Welk bedrijf poetst een praktijk of kantoor in Ledegem?", "a": "Zondags uit Marke, een deelgemeente van Kortrijk. Je krijgt één vaste persoon die op een vast moment komt, met een factuur op naam van je bedrijf."},
+  {"q": "Kan er vroeg in de ochtend gepoetst worden?", "a": "Ja. Vroeg in de ochtend of over de middag kan. Zo valt het onderhoud buiten de drukte. 's Avonds en in het weekend werkt Zondags niet."},
+  {"q": "Komt de Zondag ook in Rollegem-Kapelle en Sint-Eloois-Winkel?", "a": "Ja. Beide deelgemeenten horen bij Ledegem en vallen onder hetzelfde werkgebied. Je betaalt overal hetzelfde tarief en boekt op dezelfde manier online."},
+  {"q": "Wat gebeurt er met vertrouwelijke dossiers?", "a": "Dat bepaal je zelf in het zondagsplan. Standaard poetst je Zondag de ruimtes en laat je dossiers op hun plek. Wil je dat papieren geordend worden, dan spreek je dat vooraf af."},
+  {"q": "Wat kost schoonmaak voor een kantoor in Ledegem?", "a": "Het tarief is 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw, met extra uren aan hetzelfde tarief."},
+  {"q": "Kan ik eerst een kort gesprek hebben?", "a": "Ja. Je kan een terugbelverzoek doen of bellen op 0470 56 53 58, elke dag van 6 tot 22 uur. Voor een vast plan bepalen we samen de taken, dagen en uren."}
  ]
 }

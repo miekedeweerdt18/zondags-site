@@ -1,36 +1,85 @@
 {
- "path": "poetshulp/waregem.html",
  "title": "Poetshulp voor bedrijven in Waregem (8790)",
- "desc": "Poetshulp voor familiebedrijven in Waregem waar zaak en woning dicht bij elkaar liggen. Eén vaste persoon, met een duidelijke splitsing op de factuur.",
+ "desc": "Poetshulp voor familiebedrijven in Waregem, Beveren-Leie, Desselgem en Sint-Eloois-Vijve. Eén vaste persoon, 60 euro per uur excl. btw, per blok van 3 uur.",
  "eyebrow": "Waregem · 8790",
  "h1": "Poetshulp voor bedrijven in Waregem",
- "lead": "In een familiebedrijf liggen kantoor en woonkamer dicht bij elkaar. In Waregem poetst één vaste Zondag beide, en de factuur toont wat voor de zaak is en wat voor het gezin.",
- "answer": "In Waregem, een stad in de Leiestreek met de deelgemeenten Beveren-Leie, Desselgem en Sint-Eloois-Vijve, helpt Zondags (zondags.be) familiebedrijven met poetshulp. Dezelfde Zondag poetst het kantoor, bijvoorbeeld een verzekeringskantoor met onthaal, en de woning ernaast, op een afgesproken dag en uur. Op de dienstenfactuur aan je vennootschap staat wat voor de zaak is en wat privé is.",
- "facts": ["Familiebedrijven in Waregem", "Zaak en woning in één plan", "Ook Beveren-Leie, Desselgem, Sint-Eloois-Vijve", "Duidelijke splitsing op de factuur", "Eerste 2 uur gratis"],
+ "lead": "In een familiebedrijf in Waregem met een klein team heeft niemand tijd om te poetsen. Je Zondag neemt dat over, op een vaste dag en uur, en jij boekt online.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor familiebedrijven en andere kleine ondernemingen in Waregem, Beveren-Leie, Desselgem en Sint-Eloois-Vijve. Eén vaste persoon, je Zondag, onderhoudt kantoor, onthaal en gemeenschappelijke ruimtes en helpt op vraag met administratie. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je vennootschap. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk.",
+ "facts": [
+  "Voor familiebedrijven met een klein team",
+  "Kantoor, onthaal en refter",
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Factuur op naam van je bedrijf",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Wie poetst als de zaak van de familie is?", "p": [
-   "In een familiebedrijf valt het poetsen op dezelfde schouders als al het andere. De zaakvoerder doet de boekhouding, zijn partner het onthaal en de kinderen helpen waar het kan. Wordt het kantoor 's avonds of in het weekend gepoetst, dan is dat tijd die niet naar het gezin gaat.",
-   "Bij Zondags gebeurt het overdag op weekdagen. Zo hoeft niemand van de familie nog 's avonds de dweil vast te nemen."]},
-  {"h2": "Neem een verzekeringskantoor met een woning ernaast", "p": [
-   "Neem een verzekeringskantoor in Waregem met een onthaal waar klanten hun polis komen bespreken, een bureau voor de zaakvoerder en een keukentje. De woning van het gezin ligt dicht bij het kantoor. Voor de klanten telt het onthaal, voor het gezin de keuken, en allebei verdienen ze elke week dezelfde zorg.",
-   "Je Zondag begint op een vaste dag met het kantoor: onthaal, bureau, keukentje en sanitair. Daarna volgt de woning: poetsen, de was en strijk en op wens de boodschappen. Het blijft dezelfde persoon, die beide adressen leert kennen."]},
-  {"h2": "Hoe de factuur zaak en gezin scheidt", "p": [
-   "Omdat zaak en woning dicht bij elkaar liggen, loopt in de praktijk alles door elkaar. Op papier moet het gescheiden zijn. Daarom staat op de dienstenfactuur aan je vennootschap een regel voor het beroepsmatige deel en een regel voor het privégedeelte. Dienstencheques komen niet in aanmerking voor een vennootschap, die zijn voorbehouden aan particulieren.",
-   "Het onderhoud van het kantoor is een beroepskost. Het privégedeelte, de woning van de zaakvoerder, wordt verwerkt als een forfaitair voordeel van alle aard, wanneer de prestaties regelmatig zijn en uitgevoerd worden door een onderneming met mensen in dienst. Je accountant bevestigt hoe dat in jouw situatie werkt, ook voor de btw."]},
-  {"h2": "Wat het gezin erbij kan krijgen", "p": [
-   "<ul class=\"ticks\"><li>Koken bij jou thuis, of gezonde schotels voor de week</li><li>Kinderen ophalen van school en van de opvang na school</li><li>Boodschappen, apotheek, droogkuis en pakjes</li><li>Licht onderhoud van tuin, gras en terras</li></ul>",
-   "Je kiest zelf wat in je plan komt, en je kan het later aanpassen. De sectorpagina <a href=\"sectoren/familiebedrijven.html\">familiebedrijven</a> gaat dieper in op bedrijven waar zaak en gezin samenvallen."]},
-  {"h2": "Waregem en de Leiestreek", "p": [
-   "Waregem ligt in de Leiestreek en heeft drie deelgemeenten: Beveren-Leie, Desselgem en Sint-Eloois-Vijve. Ook voor familiebedrijven in Harelbeke, Deerlijk, Anzegem, Zulte, Wielsbeke of Kruisem werken we zo. Een overzicht van de streek vind je op <a href=\"poetshulp/leiestreek.html\">poetshulp in de Leiestreek</a>."]},
-  {"h2": "Eerste stappen", "p": [
-   "Via het formulier of de chat vraag je een Zondag aan. Een van ons belt je binnen één werkdag terug, komt langs voor de intake en maakt met jou het zondagsplan op. Je kan elke maand opzeggen en de eerste 2 uur zijn gratis. Wordt je Zondag ziek of gaat die op verlof, dan zoeken wij een oplossing."]}
+  {
+   "h2": "Als iedereen in het bedrijf al te veel hooi op zijn vork heeft",
+   "p": [
+    "Een familiebedrijf draait vaak op een handvol mensen die elk drie functies combineren. De zaakvoerder verkoopt, zijn partner doet de boeken, een neef regelt de leveringen. Poetsen staat op niemands lijst, dus gebeurt het wanneer het niet meer anders kan. Bezoekers merken dat sneller dan jij denkt.",
+    "Een vaste Zondag haalt dat van de lijst. Je moet geen poetsploeg aansturen en geen schema bijhouden, je spreekt één keer af welke dag en welk uur, en wat er gedaan wordt."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een verzekeringskantoor met een onthaal",
+   "p": [
+    "Stel: je hebt een verzekeringskantoor in Waregem met een onthaalbalie, vier bureaus en een kleine vergaderkamer. Klanten stappen binnen zonder aankondiging, andere komen op afspraak. Elke ochtend moet de balie er proper bijstaan, de wachtstoelen zijn geveegd, het sanitair is in orde.",
+    "Je Zondag komt bijvoorbeeld op maandagochtend en vrijdagmiddag. Maandag zet ze het kantoor klaar voor de nieuwe week, vrijdag laat ze het netjes achter voor het weekend. In de tussenliggende dagen houdt het team met kleine gewoontes het onthaal in orde."
+   ]
+  },
+  {
+   "h2": "Wat dat concreet inhoudt",
+   "p": [
+    "<ul class=\"ticks\"><li>Onthaal, balie en wachtstoelen</li><li>Bureaus afnemen, prullenmanden legen</li><li>Vergaderkamer klaarzetten</li><li>Keuken, koffiehoek en frigo</li><li>Sanitair en vloeren</li><li>Glazen deuren en ramen langs binnen</li></ul>",
+    "Een uitgebreider overzicht vind je op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."
+   ]
+  },
+  {
+   "h2": "Een derde hand voor de administratie",
+   "p": [
+    "Omdat het toch dezelfde persoon is die elke week binnenkomt, kan ze ook papierwerk meenemen: post openen, facturen klasseren, een dossierkast ordenen, kantoormateriaal bestellen of pakjes klaarzetten. Het is ondersteunend werk. Boekhouding, jaarrekeningen en juridisch advies blijven buiten haar taak."
+   ]
+  },
+  {
+   "h2": "Overal in Waregem en rond de stad",
+   "p": [
+    "Waregem heeft postcode 8790. Beveren-Leie, Desselgem en Sint-Eloois-Vijve zijn deelgemeenten van Waregem en vallen onder hetzelfde aanbod. Zit je zaak in Harelbeke, Deerlijk, Anzegem, Zulte, Wielsbeke of Kruisem, dan kunnen we daar ook een Zondag voor zoeken. Voor Deerlijk is er <a href=\"poetshulp/deerlijk.html\">een aparte pagina</a>."
+   ]
+  },
+  {
+   "h2": "Wat het kost en hoe je start",
+   "p": [
+    "Een blok van drie uur is 180 euro exclusief btw. Extra uren boek je aan 60 euro per uur. Je krijgt een gewone dienstenfactuur op naam van je vennootschap, met btw-nummer. Het is in principe een beroepskost; laat je accountant bevestigen hoe dat bij jouw bedrijf zit.",
+    "Op <a href=\"boeken.html\">de boekpagina</a> kies je dag, blokken en taken. Wil je een wekelijkse afspraak, laat dan een terugbelverzoek achter."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf levert poetshulp voor een familiebedrijf in Waregem?", "a": "Zondags helpt familiebedrijven in Waregem met het poetsen van kantoor of winkel en op wens ook van de woning. Het is dezelfde persoon voor beide, en de dienstenfactuur gaat op naam van de vennootschap."},
-  {"q": "Kan één Zondag zowel het kantoor als de woning poetsen als ze dicht bij elkaar liggen?", "a": "Ja. Je Zondag poetst eerst het kantoor en daarna de woning, of op twee verschillende dagen. Op de factuur staan beide gedeelten apart, zodat je accountant weet wat beroepsmatig is."},
-  {"q": "Wat als we het kantoor liever in het weekend laten poetsen?", "a": "Dat kan niet, want een weekendbeurt bieden we niet aan. Overdag op weekdagen kan wel, vroeg in de ochtend of over de middag, zodat het gezin er niets van merkt."},
-  {"q": "Kan mijn Zondag ook koken voor het gezin?", "a": "Ja. Koken bij jou thuis of gezonde schotels voor de week klaarzetten kan in je zondagsplan, naast het poetsen. Je legt bij de intake vast op welke dagen en hoe jullie het graag hebben."},
-  {"q": "Werkt Zondags ook in Beveren-Leie, Desselgem en Sint-Eloois-Vijve?", "a": "Ja. Beveren-Leie, Desselgem en Sint-Eloois-Vijve behoren tot Waregem, en je kan er een Zondag aanvragen via hetzelfde formulier of dezelfde chat. In Harelbeke, Deerlijk, Anzegem, Zulte, Wielsbeke en Kruisem lukt dat evengoed."},
-  {"q": "Hoe zit het met de btw voor een zaak met een woning in hetzelfde plan?", "a": "Op het beroepsmatige deel is de btw in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte in principe niet. Een btw-vrijgestelde zaak kan de btw doorgaans niet recupereren."}
- ]
+  {
+   "q": "Welk bedrijf doet poetshulp voor familiebedrijven in Waregem?",
+   "a": "Zondags doet poetshulp voor familiebedrijven en andere kleine ondernemingen in Waregem en de deelgemeenten. Je krijgt één vaste persoon in dienst van Zondags en een factuur op naam van je bedrijf."
+  },
+  {
+   "q": "Is Zondags ook actief in Desselgem en Sint-Eloois-Vijve?",
+   "a": "Ja. Dat zijn deelgemeenten van Waregem, net als Beveren-Leie, en in alle drie zoeken we een Zondag voor je zaak."
+  },
+  {
+   "q": "Wie in ons familiebedrijf houdt de sleutel bij als er een Zondag komt?",
+   "a": "De sleutel en het alarm geef je aan jouw Zondag, op de manier die jij kiest. Wie er in je bedrijf verantwoordelijk voor is, bepaal je zelf en leggen we vast in het plan."
+  },
+  {
+   "q": "Wat kost een beurt in Waregem?",
+   "a": "60 euro per uur exclusief btw, geboekt per blok van 3 uur, dus 180 euro exclusief btw. Extra uren kosten hetzelfde per uur."
+  },
+  {
+   "q": "Kunnen we elke week dezelfde dag afspreken?",
+   "a": "Ja, voor een vast terugkerend plan bespreken we eerst kort de taken, dagen en uren. Daarna komt je Zondag steeds op hetzelfde moment."
+  },
+  {
+   "q": "Kan de Zondag ook mijn pakjes en post doen?",
+   "a": "Ja, post sorteren, pakjes klaarmaken en documenten klasseren kan, als ondersteuning. Boekhouding of fiscaal advies hoort daar niet bij."
+  }
+ ],
+ "path": "poetshulp/waregem.html"
 }

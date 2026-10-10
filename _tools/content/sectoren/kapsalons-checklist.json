@@ -1,84 +1,77 @@
 {
  "path": "sectoren/kapsalons-checklist.html",
- "title": "Schoonmaakchecklist voor kapsalons",
- "desc": "Praktische schoonmaakchecklist voor een kapsalon: wat wekelijks, maandelijks en jaarlijks aan bod komt en wat de zaak zelf blijft doen. Met een vaste Zondag.",
- "eyebrow": "Kapsalons",
+ "title": "Checklist poetsen voor een kapsalon",
+ "desc": "Een schoonmaakchecklist voor je kapsalon: wasbakken, haar op de vloer, spiegels, handdoeken en personeelsruimte, per week, maand en jaar.",
+ "eyebrow": "Kapsalons · Checklist",
  "h1": "Schoonmaakchecklist voor kapsalons",
- "lead": "Een kapsalon heeft haar op de vloer, natte handdoeken en gebruikte wasbakken. Met een vaste lijst weet je wat wanneer gebeurt en wat je team zelf blijft doen.",
- "answer": "Een schoonmaakchecklist voor een kapsalon heeft drie lagen: wekelijks de salon, wasbakken, spiegels, vloer en handdoeken; maandelijks de personeelsruimte en de achterkant van meubels; jaarlijks de grote opruim. Zondags (zondags.be) kan dit met dezelfde vaste Zondag overdag op weekdagen doen. Wat tijdens de openingsuren gebeurt, blijft bij je team.",
+ "lead": "Een kapsalon verbruikt handdoeken, water en vloer sneller dan bijna elke andere zaak. Met een lijst weet je wie wat doet en wanneer.",
+ "answer": "Een schoonmaakchecklist voor een kapsalon volgt drie ritmes: wekelijks wasbakken, spiegels, vloeren en handdoeken, maandelijks de personeelsruimte en de plekken achter meubels, jaarlijks de grote opruim. Zondags (zondags.be) laat één vaste Zondag dit overdag op weekdagen doen, aan 60 euro per uur exclusief btw per blok van 3 uur. De hygiëne van je vakgereedschap blijft bij het salon zelf.",
  "facts": [
-  "Wekelijks, maandelijks, jaarlijks",
   "Wasbakken, spiegels, vloer",
   "Handdoeken wassen en drogen",
   "Personeelsruimte inbegrepen",
-  "Factuur aan je vennootschap"
+  "Hygiëne vakgereedschap blijft bij jou",
+  "60 euro per uur, per blok van 3 uur"
  ],
  "sections": [
   {
-   "h2": "Hoe je de lijst opbouwt",
+   "h2": "Een lijst in lagen",
    "p": [
-    "Een goede checklist is niet de langste, maar de duidelijkste. Verdeel hem in wat dagelijks, wekelijks, maandelijks en jaarlijks gebeurt, en schrijf erbij wie het doet. Zo weet iedereen wat van het team is en wat van je Zondag.",
-    "Hang de lijst op in de personeelsruimte en pas hem aan na de eerste maand. Na vier weken weet je wat te veel of te weinig op staat."
+    "In een salon gebeurt er per dag meer dan op een kantoor in een week: haar op de vloer, haarlak in de lucht, natte handdoeken, kleurresten in de wasbak. Daarom werkt een lijst met drie lagen: wat tussen klanten door gebeurt, wat de Zondag wekelijks doet en wat maandelijks of jaarlijks volgt. Zet er bij wie het doet, dan blijft niets onduidelijk."
    ]
   },
   {
    "h2": "Wekelijks: de beurt van je Zondag",
    "p": [
-    "<ul class=\"ticks\"><li>Haar op de vloer opvegen en stofzuigen, ook onder de stoelen</li><li>Wasbakken reinigen en ontkalken</li><li>Spiegels en kapstoelen afnemen</li><li>Handdoeken wassen en drogen</li><li>Toonbank, kassa en retailrekken</li><li>Sanitair en keuken of koffiehoek</li><li>Afval en glas buiten zetten</li></ul>",
-    "Ook de achterkant van de spiegels, de plekken onder de wasbakken en de rand van de kappersstoelen verdienen een vast moment, want daar blijft haar het langst liggen."
+    "<ul class=\"ticks\"><li>Haar van de vloer vegen en stofzuigen, ook onder de stoelen</li><li>Wasbakken reinigen en kalkaanslag verwijderen</li><li>Spiegels, plankjes en kappersstoelen afnemen</li><li>Handdoeken wassen, drogen en opvouwen</li><li>Toonbank, kassa en rekken met producten</li><li>Personeelsruimte, keuken en sanitair</li><li>Afval en glas buiten zetten</li></ul>",
+    "Het is vaak slim om een voorraad handdoeken te hebben voor twee volle dagen, zodat de wasbeurt van je Zondag nooit in de weg zit van je agenda."
    ]
   },
   {
    "h2": "Maandelijks en jaarlijks",
    "p": [
-    "Eén keer per maand kan je Zondag dieper gaan: achter en onder meubels, de personeelsruimte, de kasten waar handdoeken liggen, de radiatoren en de plinten. Eén keer per jaar komt er een grote opruim bij, bijvoorbeeld vóór een verbouwing, een feestperiode of de zomer.",
-    "Ramen langs buiten op hoogte doen we niet. Ramen en glazen deuren langs binnen wel."
+    "Eén keer per maand gaat je Zondag dieper: achter de spiegels, onder de wasbakken, de radiatoren, de plinten, de rekken waar haarproducten staan. Eén keer per jaar volgt de grote beurt, bijvoorbeeld voor je een feestperiode of de zomer instapt. Ramen langs binnen horen daarbij, ramen langs buiten op hoogte niet."
    ]
   },
   {
-   "h2": "Wat je team zelf blijft doen",
+   "h2": "Wat het salon zelf blijft doen",
    "p": [
-    "Tijdens de openingsuren veegt het team het haar tussen twee klanten, ontsmet het materiaal dat bij het vak hoort en legt het gebruikte handdoeken in de wasmand. Dat is geen taak voor je Zondag, die komt wanneer de zaak gesloten is of net opengaat. Hygiëneafspraken die in jouw beroep gelden, blijven bij jou.",
-    "Je Zondag werkt met de producten die jullie samen kiezen. Heb je gevoelige huid of een voorkeur voor bepaalde producten, zeg het in de intake en we leggen het vast."
+    "Tijdens de openingsuren veegt het team het haar tussen twee klanten, spoelt de borstels en legt gebruikte handdoeken in de wasmand. De hygiëne van scharen, kammen en ander vakgereedschap volgt de regels van je beroep en blijft bij jou. Je Zondag onderhoudt de ruimte, jij je gereedschap."
    ]
   },
   {
-   "h2": "Voorbeeld: een salon met een interieurzaak als buur",
+   "h2": "Voorbeeld: een salon naast een interieurzaak met een toonzaal",
    "p": [
-    "Neem een kapsalon met twee stoelen die in een rij naast een interieurzaak met een toonzaal zit. Beide zaakvoerders delen een Zondag: op dinsdag het salon, op woensdag de interieurzaak, op vrijdag de woning van één van beide. Je ziet op elke factuur wat beroepsmatig en wat privé is."
+    "Neem een kapsalon met twee stoelen in een rij naast een interieurzaak met een toonzaal. Beide zaakvoerders delen een Zondag: dinsdag het salon, woensdag de interieurzaak. Elk krijgt een eigen factuur op naam van de eigen vennootschap. Het salon heeft een korte, intensieve lijst met veel water en haar, de toonzaal een lijst met veel stof en glas. De Zondag werkt per zaak met de producten die erbij horen en laat de materialen niet door elkaar lopen."
    ]
   },
   {
-   "h2": "Factuur en start",
+   "h2": "Prijs en boeken",
    "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van beroepsruimtes is een beroepskost. Laat je accountant dit bevestigen. Wil je meer weten over de aanpak, lees dan <a href=\"sectoren/kapsalons.html\">poetshulp voor kapsalons</a>. Vraag aan via het formulier of de chat, de eerste 2 uur zijn gratis."
+    "Je betaalt 60 euro per uur exclusief btw en boekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren aan hetzelfde tarief. Boek online op de <a href=\"boeken.html\">boekpagina</a>, minstens twee werkdagen vooraf. De factuur komt op naam van je zaak. Meer over de sector lees je op <a href=\"sectoren/kapsalons.html\">poetshulp voor kapsalons</a>."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Wat staat er op een schoonmaakchecklist voor een kapsalon?",
-   "a": "Wekelijks haar op de vloer, wasbakken, spiegels, kapstoelen, handdoeken, toonbank, sanitair en afval. Maandelijks de personeelsruimte, plinten en achter de meubels. Jaarlijks een grote opruim."
+   "q": "Hoe vaak moet een kapsalon gepoetst worden?",
+   "a": "Wekelijks is het minimum voor de grondige beurt, met wat tussendoor door het team gebeurt. Bij veel klanten of meerdere stoelen kan een tweede beurt per week nodig zijn."
   },
   {
-   "q": "Wie wast de handdoeken van het salon?",
-   "a": "Je Zondag kan handdoeken wassen en drogen als onderdeel van het zondagsplan. Spreek af hoe het waslijstje eruitziet en op welke dag ze weer klaar moeten zijn."
+   "q": "Wast en droogt de Zondag onze handdoeken?",
+   "a": "Ja, dat kan deel zijn van de beurt: handdoeken wassen, drogen en opvouwen. Je hebt zelf een wasmachine en droogkast in het salon nodig."
   },
   {
-   "q": "Moet het salon gesloten zijn als de Zondag komt?",
-   "a": "Meestal komt de Zondag vroeg in de ochtend of over de middag, wanneer het salon gesloten of rustig is. Nooit 's avonds en niet in het weekend."
+   "q": "Wat doet Zondags niet in een kapsalon?",
+   "a": "De hygiëne van scharen, kammen en ander vakgereedschap, technische ingrepen en ramen langs buiten op hoogte. De ruimte onderhoudt Zondags, het materiaal blijft bij jou."
   },
   {
-   "q": "Wat blijft bij het team?",
-   "a": "Wat tijdens de openingsuren gebeurt: tussen klanten opvegen, het gereedschap van het vak ontsmetten en gebruikte handdoeken in de wasmand leggen. Dat blijft bij je team, de Zondag komt wanneer het salon rustig of gesloten is."
+   "q": "Wat kost poetshulp voor een kapsalon?",
+   "a": "60 euro per uur exclusief btw, geboekt per blok van 3 uur. Eén blok is dus 180 euro exclusief btw. Extra uren komen aan hetzelfde tarief."
   },
   {
-   "q": "Kan dezelfde persoon mijn woning ook doen?",
-   "a": "Ja. Salon en woning kunnen in één plan met een factuur die beroepsmatig en privé splitst."
-  },
-  {
-   "q": "Hoe snel kan ik starten?",
-   "a": "Na je aanvraag bellen we binnen één werkdag terug. Daarna volgen intake ter plaatse en het zondagsplan. Wanneer je Zondag start, hangt af van de dagen en uren die je zoekt, en dat bespreken we meteen. De eerste 2 uur zijn gratis."
+   "q": "Kan mijn Zondag ook administratie doen?",
+   "a": "Ondersteunend wel: post sorteren, afspraken inplannen, kantoormateriaal en producten bijbestellen. Boekhouding en loonadministratie doet Zondags niet."
   }
  ]
 }

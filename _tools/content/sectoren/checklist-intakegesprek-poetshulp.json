@@ -1,85 +1,79 @@
 {
+ "path": "sectoren/checklist-intakegesprek-poetshulp.html",
  "title": "Checklist voor het intakegesprek met je poetshulp",
- "desc": "Wat je voorbereidt en doorneemt bij het intakegesprek ter plaatse met je poetshulp: ruimtes, taken, dagen, afspraken en factuur. Handige lijst om af te vinken.",
- "eyebrow": "Checklist",
+ "desc": "Wat bereid je voor en wat bespreek je bij het intakegesprek ter plaatse met je poetshulp? Een praktische checklist voor bedrijfsleiders.",
+ "eyebrow": "Checklist · Intake",
  "h1": "Checklist voor het intakegesprek met je poetshulp",
- "lead": "Het intakegesprek is het moment waarop het zondagsplan vorm krijgt. Met deze lijst weet je wat je vooraf voorbereidt en wat je ter plaatse doorneemt.",
- "answer": "Voor het intakegesprek met je poetshulp bereid je vier dingen voor: een rondgang door je ruimtes, een lijst van taken, de dagen en uren die jou passen en je vragen over de factuur. Bij Zondags (zondags.be) komt iemand ter plaatse langs, en samen maken we het zondagsplan. Daarna start je vaste Zondag. De eerste 2 uur zijn gratis, en het plan is maandelijks opzegbaar.",
+ "lead": "Een intakegesprek ter plaatse duurt kort, maar het bepaalt hoe vlot de samenwerking verder loopt. Met deze lijst loop je het gesprek rustig door, in plaats van er onderweg op te improviseren.",
+ "answer": "Bij een intakegesprek met je poetshulp loop je door je zaak en bespreek je ruimtes, taken, frequentie, dag en uur, toegang en alarm, en wat niet aangeraakt wordt. Bereid vooraf een lijst met taken en een plattegrond voor. Zondags (zondags.be) voert dit gesprek kort, legt samen met jou het zondagsplan vast en werkt daarna met één vaste persoon, aan 60 euro per uur exclusief btw per blok van 3 uur.",
  "facts": [
-  "Rondgang door de ruimtes",
-  "Takenlijst en prioriteiten",
-  "Dagen en uren afstemmen",
-  "Afspraken vastleggen in het plan",
-  "Factuur en accountant"
+  "Voorbereiding in tien minuten",
+  "Rondgang door je zaak",
+  "Taken, dag en uur vastleggen",
+  "Toegang en alarm bespreken",
+  "60 euro per uur, per blok van 3 uur",
+  "Steeds dezelfde Zondag"
  ],
  "sections": [
   {
-   "h2": "Voor het gesprek: wat je voorbereidt",
+   "h2": "Voor het gesprek: wat leg je klaar",
    "p": [
-    "Een goede intake begint thuis of op kantoor, een dag eerder. Doe zelf een rondgang en noteer wat je ziet. Welke ruimtes moeten gepoetst worden? Welke hoeken laten je al een tijd lastig achter? Wat wil je zeker niet aangeraakt hebben?",
-    "<ul class=\"ticks\"><li>Een lijst van de ruimtes die erbij horen</li><li>De taken, in volgorde van belang</li><li>Dagen en uren die jou echt passen</li><li>Vragen voor je accountant</li><li>Wie het plan opvolgt aan jouw kant</li></ul>"
+    "Je hoeft niets te drukken of te mailen, maar een paar zaken maken het gesprek veel concreter.",
+    "<ul class=\"ticks\"><li>Een korte lijst met de taken die je wil laten doen</li><li>Een eenvoudige plattegrond of foto's van de ruimtes</li><li>Je verwachte weekdag en uur, met een tweede keuze</li><li>De naam van de contactpersoon in je team</li><li>Een idee van wat er al in huis is aan materiaal en producten</li></ul>"
    ]
   },
   {
-   "h2": "Tijdens het gesprek: de rondgang",
+   "h2": "Ter plaatse: de rondgang",
    "p": [
-    "Iemand van Zondags komt ter plaatse langs en wandelt met je door de ruimtes. Je toont wat er moet gebeuren en wat je graag anders ziet. Wie een praktijk heeft, geeft aan welke ruimtes en materialen voor het team zijn. Sterilisatie en medisch materiaal blijven bij de praktijk zelf.",
-    "Technische klussen, werken op hoogte, gevelreiniging, industriële reiniging en bouwopkuis horen niet bij ons aanbod. Als je daarover twijfelt, zeg het gerust tijdens de rondgang."
+    "Loop samen door elke ruimte en vraag jezelf per ruimte af wat het belangrijkste is. Aan het onthaal wil je misschien een tafel altijd vrij, in de keuken vooral een propere frigo, in de vergaderzaal een klare tafel. Laat je gesprekspartner vragen stellen. Wie goed luistert, merkt al snel waar het strikt moet en waar er ruimte is.",
+    "Noteer onderweg meteen wat je opvalt, zoals een vloer die extra aandacht vraagt, een kast die dicht blijft of een apparaat waar je Zondag voorzichtig mee moet zijn. Dat zijn precies de details die later in het plan terechtkomen."
    ]
   },
   {
-   "h2": "De taken en frequentie doornemen",
+   "h2": "Taken, frequentie en tijd",
    "p": [
-    "Daarna loop je de takenlijst door. Wat komt elke beurt aan bod en wat om de zoveel weken? Hoe vaak is een grondigere beurt nodig? Welke taken voegen we later toe, zoals was en strijk, koken of boodschappen? Dat laatste kan in hetzelfde plan met dezelfde persoon.",
-    "Schrijf op wat jullie afspreken. Dat vormt de kern van het zondagsplan. Voor een kijk op het plan zelf: <a href=\"gids/zondagsplan.html\">het zondagsplan</a>."
+    "Bespreek de taken in drie groepen: poetsen, administratieve hulp en rechterhandwerk. Voor het poetsen kan je terugvallen op de <a href=\"sectoren/checklist-wekelijkse-kantoorpoets.html\">wekelijkse kantoorchecklist</a> of op de lijst voor je praktijk. Zeg ook wat niet kan: boekhouding, fiscaal advies, technische klussen of werken op hoogte horen niet bij Zondags. Samen schat je wat in één blok past, en of je er een extra uur bij wil."
    ]
   },
   {
-   "h2": "Dagen, uren en toegang",
+   "h2": "Toegang, alarm en vertrouwelijkheid",
    "p": [
-    "Kies samen een vaste dag en een vast uur. Zondags werkt overdag op weekdagen, vroeg in de ochtend of over de middag, nooit 's avonds en nooit in het weekend. Bespreek ook hoe je Zondag toegang krijgt tot je ruimtes en wat je afspreekt voor een dag dat jij er niet bent.",
-    "Dat soort afspraken horen niet in een mailtje dat verdwijnt. Je legt ze vast in het zondagsplan, zodat jij en je Zondag naar dezelfde bladzijde kijken."
+    "Bespreek hoe je Zondag binnenkomt, wie een sleutel of code heeft en hoe het alarm werkt. Spreek af welke kasten, bureaus of ruimtes gesloten blijven en hoe er met vertrouwelijke documenten omgegaan wordt. Je Zondag is gescreend en in dienst, maar duidelijke afspraken over discretie blijven altijd nuttig."
    ]
   },
   {
-   "h2": "Factuur, accountant en opzeg",
+   "h2": "Na het gesprek: het zondagsplan",
    "p": [
-    "Bespreek hoe de factuur eruitziet. Een vennootschap kan geen dienstencheques kopen, dus Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap. Komt je woning in het plan, dan staan beroepsmatig en privé apart. Voor het privégedeelte geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst.",
-    "Laat je accountant bevestigen hoe dat voor jouw situatie werkt. Het plan is maandelijks opzegbaar, de eerste 2 uur zijn gratis."
+    "Wat besproken is, komt op één pagina: het zondagsplan. Hoe zo'n plan eruitziet, lees je in de <a href=\"sectoren/gids-zondagsplan-opstellen.html\">gids voor het zondagsplan</a>. Lees het plan na en bevestig of pas aan. Pas dan start de eerste beurt."
    ]
   },
   {
-   "h2": "Na het gesprek",
+   "h2": "Kosten en het vervolg",
    "p": [
-    "Je krijgt het zondagsplan. Lees het rustig na en geef aan wat je wil aanpassen. Daarna start je Zondag. Bij ziekte of verlof zoeken we een oplossing, en klikt het niet, dan zoeken we samen een andere Zondag. Bel gerust op 0470 56 53 58 als er na het gesprek nog iets te vragen valt, elke dag van 6 tot 22 uur."
+    "Je betaalt 60 euro per uur exclusief btw, geboekt per blok van 3 uur, dus 180 euro exclusief btw. De factuur staat op naam van je bedrijf. Voor een eerste beurt boek je op de <a href=\"boeken.html\">boekpagina</a>. Wil je eerst praten, bel dan 0470 56 53 58 of laat je gegevens achter voor een terugbelverzoek. Klikt het na de intake niet, dan zoeken we samen een andere Zondag."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Wat moet ik voorbereiden voor het intakegesprek?",
-   "a": "Een lijst van de ruimtes, een takenlijst in volgorde van belang, de dagen en uren die jou passen en je vragen voor je accountant. Zo kan het zondagsplan meteen vorm krijgen."
-  },
-  {
-   "q": "Wie komt er naar het intakegesprek?",
-   "a": "Iemand van Zondags komt ter plaatse langs. Je loopt samen door je ruimtes en maakt daarna het zondagsplan op. Je vaste Zondag start nadien."
+   "q": "Wat bespreek je bij een intakegesprek met poetshulp?",
+   "a": "Ruimtes, taken, frequentie, dag en uur, toegang en alarm, de contactpersoon en wat niet aangeraakt wordt. Daaruit volgt een zondagsplan op één pagina."
   },
   {
    "q": "Hoe lang duurt een intakegesprek?",
-   "a": "Dat hangt af van het aantal ruimtes en taken. Plan er genoeg tijd voor in zodat je rustig kan rondlopen. We bepalen dat samen bij het eerste telefoontje."
+   "a": "Bij een kleine zaak is een kort gesprek met een rondgang meestal voldoende. Een zaak met meer ruimtes vraagt iets meer tijd."
   },
   {
-   "q": "Wat kan er niet in het plan?",
-   "a": "Technische klussen, werken op hoogte, gevelreiniging, industriële reiniging, bouwopkuis en reiniging van voertuigen. Sterilisatie en medisch materiaal blijven bij de praktijk."
+   "q": "Wat moet ik voorbereiden voor de intake?",
+   "a": "Een lijst met taken, een plattegrond of foto's, je gewenste dag en uur en de naam van je contactpersoon. Meer is niet nodig."
   },
   {
-   "q": "Kan ik het plan na de intake nog aanpassen?",
-   "a": "Ja. Uren bijboeken of het plan aanpassen kan altijd, en het plan is maandelijks opzegbaar. De eerste 2 uur zijn gratis."
+   "q": "Moet ik bij het gesprek aanwezig zijn?",
+   "a": "Ja, of iemand die de zaak goed kent. De rondgang werkt het best met iemand die kan zeggen wat belangrijk is."
   },
   {
-   "q": "Wat bespreek ik met mijn accountant?",
-   "a": "Of het onderhoud een beroepskost is, hoe het privégedeelte wordt verwerkt en wat dat voor de btw betekent. Laat je accountant bevestigen hoe dit voor jouw situatie werkt."
+   "q": "Kost het intakegesprek geld?",
+   "a": "Wat je betaalt, zijn de geboekte uren: 60 euro per uur exclusief btw, per blok van 3 uur. Het gesprek dient om die uren goed te vullen."
   }
- ],
- "path": "sectoren/checklist-intakegesprek-poetshulp.html"
+ ]
 }

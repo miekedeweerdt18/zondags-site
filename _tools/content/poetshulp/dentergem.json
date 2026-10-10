@@ -1,34 +1,85 @@
 {
  "path": "poetshulp/dentergem.html",
- "title": "Poetshulp, was en boodschappen voor bedrijven in Dentergem",
- "desc": "Poetshulp voor je kantoor in Dentergem, Markegem, Oeselgem en Wakken, met op vraag strijk, boodschappen of regelwerk door dezelfde Zondag, op één factuur.",
+ "title": "Poetshulp en administratie voor bedrijven in Dentergem",
+ "desc": "Poetshulp, post en regelwerk voor bedrijven in Dentergem, Markegem, Oeselgem en Wakken: één vaste Zondag voor alles. 60 euro per uur excl. btw.",
  "eyebrow": "Dentergem · 8720",
  "h1": "Poetshulp voor bedrijven in Dentergem",
- "lead": "Het kantoor is gepoetst, maar de koffie is op, de droogkuis wacht en de strijkmand loopt over. In Dentergem pakt één vaste Zondag dat allemaal in één week aan.",
- "answer": "Zondags (zondags.be) is een dienstverlener uit Marke die in Dentergem, Markegem, Oeselgem en Wakken (8720) naast poetshulp voor kantoren ook was en strijk, koken, boodschappen en regelwerk aanbiedt. Eén vaste Zondag combineert die taken op vaste dagen. Je betaalt alles via één dienstenfactuur op naam van je vennootschap, met het privégedeelte apart.",
- "facts": ["Poetshulp voor kantoor en onthaal", "Strijk, boodschappen en regelwerk erbij", "Koffie en keukenvoorraad op kantoor", "Eén factuur, privé apart", "Eerste 2 uur gratis"],
+ "lead": "Poetsen is maar een deel van wat in een zaak blijft liggen. In Dentergem neemt een vaste Zondag ook de post, de mappen en het regelwerk uit je handen, in dezelfde blokken.",
+ "answer": "Zondags (zondags.be) combineert in Dentergem (8720), Markegem, Oeselgem en Wakken poetshulp met administratie, post en regelwerk voor bedrijven. Eén vaste persoon, je Zondag, ruimt je kantoor of onthaal op en neemt ook de dingen over die blijven liggen. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw, met een dienstenfactuur op naam van je bedrijf.",
+ "facts": [
+  "Poetshulp, administratie en regelwerk",
+  "Dentergem, Markegem, Oeselgem, Wakken",
+  "Steeds dezelfde Zondag",
+  "Factuur op naam van je bedrijf",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken"
+ ],
  "sections": [
-  {"h2": "Een week met je Zondag in Dentergem", "p": [
-   "Een vaste Zondag hoeft niet elke dag hetzelfde te doen. Je verdeelt de uren over de week, zodat elk moment een ander stuk van je volle agenda oplost. Zo kan een voorbeeldweek eruitzien:",
-   "<ul class=\"ticks\"><li>Maandagochtend: kantoor en onthaal poetsen</li><li>Woensdag: woning, was en strijk</li><li>Vrijdag: boodschappen, apotheek en droogkuis</li></ul>",
-   "Hoe je de uren verdeelt, bepaal je zelf. Je kan met één taak beginnen en later andere toevoegen."]},
-  {"h2": "Een verzekeringskantoor met een onthaal", "p": [
-   "Neem een verzekeringskantoor in Dentergem. Het heeft een onthaal waar klanten binnenkomen voor een gesprek, een kop koffie krijgen en in een zithoek wachten. Onthaal en zithoek moeten fris zijn, de koffiehoek gevuld en het toilet in orde. Je Zondag poetst op een vast uur, vult de keukenvoorraad aan volgens jouw lijstje en brengt op vrijdag de pakjes weg.",
-   "Voor de woning van de bedrijfsleider lees je meer bij <a href=\"beroepen/verzekeringsmakelaar.html\">huishoudelijke hulp voor verzekeringsmakelaars</a>."]},
-  {"h2": "Regelwerk dat je agenda opeet", "p": [
-   "De apotheek, de droogkuis, een pakje dat weg moet: het zijn kleine klussen die elk weinig tijd vragen, maar samen je dag opeten. Je Zondag doet die gangen voor je, op de dag die je kiest. Technische klussen zoals elektriciteit of sanitair herstellen horen er niet bij. Meer lees je bij <a href=\"diensten/droogkuis-en-regelwerk.html\">droogkuis en regelwerk</a>."]},
-  {"h2": "Dentergem, Markegem, Oeselgem en Wakken", "p": [
-   "Dentergem (8720) telt drie deelgemeenten: Markegem, Oeselgem en Wakken. Het ligt in de Leiestreek, met Wielsbeke, Tielt, Zulte, Deinze en Meulebeke in de buurt. Voor je zaak zoeken we een Zondag uit de buurt, zodat je vaste dag haalbaar blijft."]},
-  {"h2": "Eén rekening voor kantoor en thuis", "p": [
-   "Alle taken staan op één dienstenfactuur aan je vennootschap. Het deel voor het kantoor is een beroepskost. De was, strijk, boodschappen en het koken voor thuis horen bij het privégedeelte, dat apart op de factuur staat en als forfaitair voordeel van alle aard wordt behandeld, als de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Dienstencheques zijn voor particulieren. Laat je accountant bevestigen wat voor jouw zaak geldt. Over strijk lees je meer bij <a href=\"vragen/strijk-laten-doen-via-zaak.html\">strijk laten doen via je zaak</a>."]},
-  {"h2": "Je eerste week plannen", "p": [
-   "Je vraagt aan via de chat of het formulier. Binnen één werkdag belt iemand van ons, daarna volgt een intake. Daar noteren we welke taken je wilt en op welke dagen, en dat wordt je zondagsplan. Kennismaken kost niets, want je eerste 2 uur zijn gratis."]}
+  {
+   "h2": "Wat er in een zaak blijft liggen",
+   "p": [
+    "Het is zelden het poetsen alleen. Op een bureau stapelt de post zich op, de mappen raken niet geordend, een bestelling kantoormateriaal wordt telkens uitgesteld en een leverancier moet nog gebeld worden voor een kleine zaak. Het zijn geen grote klussen, maar samen eten ze een halve dag per week.",
+    "Daarom is een Zondag in Dentergem geen poetsdienst die er een extraatje bij heeft. Het is één persoon die je bedrijf een paar uur per week structuur geeft: een net kantoor én een bureau dat bij blijft."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een verzekeringskantoor met een onthaal",
+   "p": [
+    "Neem een verzekeringskantoor met een onthaal, drie bureaus en een kleine vergaderzaal. Klanten komen binnen met dossiers, ondertekenen papieren en blijven soms lang zitten. De balie is het eerste wat ze zien.",
+    "Op donderdag komt je Zondag in de voormiddag. Eerst het onthaal, de bureaus en het sanitair. Daarna een uur administratie: de post openen, nieuwe dossiers in de juiste map, brochures aanvullen en het archief ordenen. Kleinigheden zoals een pakje naar de ophaalplaats brengen kunnen ook, mits afgesproken."
+   ]
+  },
+  {
+   "h2": "De administratieve kant in detail",
+   "p": [
+    "<ul class=\"ticks\"><li>Post openen, sorteren en doorgeven</li><li>Documenten en facturen klasseren</li><li>Dossiers en archief ordenen</li><li>Gegevens invoeren in je eigen systeem</li><li>Afspraken en agenda inplannen</li><li>Kantoorbenodigdheden bestellen en bijhouden</li></ul>",
+    "Dat blijft ondersteunend. Boekhouding, jaarrekeningen, loonadministratie en juridisch of fiscaal advies hoort er niet bij. Wil je weten wat een rechterhand nog meer kan, kijk dan bij <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">een rechterhand voor bedrijfsleiders</a>."
+   ]
+  },
+  {
+   "h2": "En het poetswerk zelf",
+   "p": [
+    "Je Zondag onderhoudt bureaus, onthaal, vergaderzaal, keuken en sanitair, neemt de vloeren en de ramen langs binnen, en zet het afval klaar. Gevelreiniging, werken op hoogte en industriële reiniging bieden we niet aan. Meer over het geheel vind je op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."
+   ]
+  },
+  {
+   "h2": "Markegem, Oeselgem, Wakken en omgeving",
+   "p": [
+    "Dentergem heeft drie deelgemeenten: Markegem, Oeselgem en Wakken. Ook daar zoeken we een Zondag die dichtbij woont. Heb je een zaak in Wielsbeke, Tielt, Zulte, Deinze of Meulebeke, dan bespreken we dezelfde mogelijkheden."
+   ]
+  },
+  {
+   "h2": "Prijs en boeken",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw. Een blok van 3 uur is 180 euro exclusief btw. Extra uren kosten hetzelfde per uur, ook als die voor administratie gaan. De dienstenfactuur staat op naam van je bedrijf. Beide soorten hulp zijn in principe een beroepskost. De btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant dat bevestigen.",
+    "Boek via de <a href=\"boeken.html\">boekpagina</a> of vraag een terugbelverzoek voor een vast weekplan."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf levert poetshulp, boodschappen en strijk voor een kantoor in Dentergem?", "a": "Zondags (zondags.be), een dienstverlener uit Marke. Eén vaste Zondag combineert het poetsen van je kantoor met strijk, boodschappen en regelwerk op vaste dagen, en alles staat op één dienstenfactuur aan je vennootschap."},
-  {"q": "Kan mijn Zondag de boodschappen voor kantoor en gezin tegelijk doen?", "a": "Ja, dat kan in dezelfde beurt. De dienst staat op de factuur apart voor het kantoor en voor thuis, zodat je accountant het goed kan verwerken."},
-  {"q": "Wat valt onder regelwerk?", "a": "Gangen die je liever niet zelf doet, zoals de apotheek, de droogkuis en pakjes. Je spreekt met je Zondag af welke dag en welke lijst. Technische jobs zoals elektriciteit of sanitair herstellen zijn geen werk voor ons."},
-  {"q": "Kan ik mijn strijk thuis laten doen via mijn vennootschap?", "a": "Dat kan als onderdeel van het privégedeelte van je plan. Het staat apart op de dienstenfactuur. Laat je accountant bevestigen hoe dat bij jou werkt, want het hangt af van je situatie."},
-  {"q": "Werkt Zondags ook in Markegem, Oeselgem en Wakken?", "a": "Ja. Markegem, Oeselgem en Wakken zijn deelgemeenten van Dentergem en vallen dus binnen het werkgebied. Vermeld bij je aanvraag het adres van je kantoor, dan bekijken we wie in de buurt kan werken."}
+  {
+   "q": "Welk bedrijf biedt poetshulp en administratie in Dentergem?",
+   "a": "Zondags uit Marke, met één vaste persoon voor beide. Je boekt per blok van 3 uur en ontvangt één dienstenfactuur op naam van je bedrijf."
+  },
+  {
+   "q": "Hoeveel kost administratieve hulp in Dentergem?",
+   "a": "Hetzelfde als poetshulp: 60 euro per uur exclusief btw, in blokken van 3 uur, dus 180 euro exclusief btw per blok."
+  },
+  {
+   "q": "Kan mijn Zondag ook leveranciers contacteren?",
+   "a": "Ja, voor kleine zaken zoals een bestelling of een afspraak. Je geeft vooraf aan waarover het gaat en wat je Zondag mag regelen."
+  },
+  {
+   "q": "Doet Zondags ook de boekhouding?",
+   "a": "Nee. Zondags doet ondersteunend werk zoals klasseren en post sorteren. Boekhouding, jaarrekeningen en loonadministratie blijven bij je boekhouder."
+  },
+  {
+   "q": "Is de dienst ook beschikbaar in Wakken of Oeselgem?",
+   "a": "Ja, in alle drie de deelgemeenten van Dentergem: Markegem, Oeselgem en Wakken. We zoeken telkens een Zondag in de buurt."
+  },
+  {
+   "q": "Hoe plan ik een vast moment in Dentergem?",
+   "a": "Je belt of laat een terugbelverzoek achter. In een kort gesprek leggen we taken, dagen en uren vast in een zondagsplan, overdag op weekdagen."
+  }
  ]
 }

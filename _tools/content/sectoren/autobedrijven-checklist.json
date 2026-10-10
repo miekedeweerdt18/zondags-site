@@ -1,83 +1,87 @@
 {
  "path": "sectoren/autobedrijven-checklist.html",
  "title": "Schoonmaakchecklist voor garages en autobedrijven",
- "desc": "Wat wekelijks, maandelijks en jaarlijks aan de beurt komt in showroom, verkoopkantoor en wachtruimte van je garage. Werkplaats en wagens blijven buiten.",
- "eyebrow": "Checklist · Autobedrijven",
+ "desc": "Poetslijst voor showroom, verkoopkantoor, klantenonthaal en sanitair van een autobedrijf. De werkplaats en de wagens vallen erbuiten.",
+ "eyebrow": "Checklist · Garages en autobedrijven",
  "h1": "Schoonmaakchecklist voor garages en autobedrijven",
- "lead": "In een garage is de werkplaats geen kantoor en de showroom geen magazijn. Deze checklist kijkt enkel naar het deel waar klanten binnenkomen en je team zit.",
- "answer": "Zondags (zondags.be) onderhoudt voor garages en autobedrijven de ruimtes waar klanten en team komen: showroom, verkoopkantoor, klantenonthaal, wachtruimte en sanitair. De werkplaats en het reinigen van wagens vallen buiten het werk. Deze checklist verdeelt de taken in wekelijks, maandelijks en jaarlijks, met wat de zaak zelf blijft doen. Eén vaste Zondag, één factuur op naam van je vennootschap.",
+ "lead": "Een showroom en een wachtruimte moeten er voor de klant tiptop bijliggen. Deze lijst toont wat wekelijks, maandelijks en jaarlijks aan de beurt komt.",
+ "answer": "Een schoonmaakchecklist voor een garage of autobedrijf richt zich op de klantenzones: wekelijks showroom, verkoopkantoor, klantenonthaal, wachtruimte en sanitair, maandelijks glazen wanden en ramen langs binnen, jaarlijks een grote beurt. Zondags (zondags.be) laat één vaste Zondag dit doen aan 60 euro per uur exclusief btw per blok van 3 uur. De werkplaats en het reinigen van wagens horen er niet bij.",
  "facts": [
-  "Showroom, verkoopkantoor, onthaal, wachtruimte",
-  "Sanitair en teamruimte",
-  "Geen werkplaats en geen wagens",
-  "Wekelijks, maandelijks en jaarlijks",
-  "Eén vaste Zondag"
+  "Showroom, verkoopkantoor, wachtruimte",
+  "Klantenonthaal en sanitair",
+  "Geen werkplaats of wagens",
+  "Overdag op weekdagen",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
  ],
  "sections": [
   {
-   "h2": "Wat tot het werk behoort en wat niet",
+   "h2": "De plekken waar je klant komt",
    "p": [
-    "Een autobedrijf heeft twee werelden. Vooraan de showroom, het verkoopkantoor en de wachtruimte, waar klanten koffie drinken en folders bekijken. Achteraan de werkplaats, met olie, banden en gereedschap. Zondags werkt in de eerste wereld.",
-    "De werkplaats, het reinigen van voertuigen en alles wat daarbij hoort, behoort niet tot ons werk. Dat blijft bij je eigen team of bij een gespecialiseerd bedrijf. Zo is de verantwoordelijkheid helder."
+    "Wie een auto komt kopen of laten herstellen, beoordeelt je garage niet alleen op de wagen. De vloer van de showroom, het toilet, het koffieapparaat in de wachtruimte en de balie vertellen veel over de manier waarop je bedrijf werkt. Dat zijn de zones waar de lijst zich op richt.",
+    "De werkplaats zelf, de reiniging van wagens en alles wat met olie, remstof of uitlaatgassen te maken heeft, hoort er niet bij. Dat vraagt andere mensen en andere middelen."
    ]
   },
   {
-   "h2": "Wekelijks: de ruimtes waar je klanten komen",
+   "h2": "Elke week",
    "p": [
-    "<ul class=\"ticks\"><li>Showroom: vloer stofzuigen en dweilen, glazen oppervlakken afnemen</li><li>Verkoopkantoor: bureaus, kasten en vergadertafel</li><li>Klantenonthaal: balie, folderrekken en stoelen</li><li>Wachtruimte: tafeltjes, koffiehoek en vloer</li><li>Sanitair voor klanten en team</li><li>Afval en recyclage buitenzetten</li></ul>",
-    "Dit is het ritme dat een klant meteen voelt. Een showroom die op maandag blinkt, geeft de toon voor de hele week.",
-    "Houd er rekening mee dat klanten in een autobedrijf vaak langer blijven dan in een winkel. Ze wachten op een offerte, een afspraak of een wagen. De wachtruimte en de koffiehoek verdienen dus extra aandacht, ook midden in de week."
+    "<ul class=\"ticks\"><li>Showroom: vloer en glazen wanden</li><li>Verkoopkantoor: bureaus en vergadertafel</li><li>Klantenonthaal en balie</li><li>Wachtruimte met stoelen, tafel en koffieapparaat</li><li>Sanitair voor klanten en personeel</li><li>Afval en recyclage buiten zetten</li></ul>"
    ]
   },
   {
-   "h2": "Maandelijks: wat in het dagelijkse werk blijft liggen",
+   "h2": "Elke maand",
    "p": [
-    "<ul class=\"ticks\"><li>Plinten, deurlijsten en vensterbanken afnemen</li><li>Binnenzijde van glazen deuren en tussenwanden</li><li>Meubilair in wachtruimte en kantoor grondig schoonmaken</li><li>Koffiemachine en teamkeuken uitgebreid onderhouden</li><li>Vloermatten uitkloppen of vervangen</li></ul>",
-    "Spreek maandelijkse taken af in het zondagsplan, zodat ze niet verdwijnen tussen de gewone beurten.",
-    "Een goed idee is om de maandelijkse lijst op een vaste dag te leggen, bijvoorbeeld de eerste dinsdag van de maand. Zo weet je Zondag, en ook je team, wanneer de grondige beurt valt en kan het verkoopkantoor er rekening mee houden."
+    "<ul class=\"ticks\"><li>Ramen langs binnen en de etalagepartij van de showroom</li><li>Plinten, deuren en schakelaars</li><li>Bureaus en kasten grondig afnemen</li><li>Frigo en keuken van het personeel leegmaken en uitwassen</li><li>Vloermat en ingang diepgaand behandelen</li><li>Voorraad zeep, papier en koffie nakijken</li></ul>"
    ]
   },
   {
-   "h2": "Jaarlijks of seizoensgebonden",
+   "h2": "Een keer per jaar",
    "p": [
-    "In het voorjaar en voor de feestdagen verdient de showroom een grotere beurt. Ramen langs binnen, kasten leegmaken en afwassen en een grondige poetsbeurt voor een opendeurdag of een nieuwe modelpresentatie.",
-    "Dat kan als losse opdracht naast het gewone plan, of als extra beurt binnen het zondagsplan. Meer inspiratie vind je op <a href=\"sectoren/autobedrijven.html\">poetshulp voor garages en autobedrijven</a>."
+    "<ul class=\"ticks\"><li>Grote beurt vlak voor een open-deurdag of een nieuw seizoen</li><li>Alle vloeren van de showroom grondig behandelen</li><li>Archief met papieren dossiers en brochures ordenen</li><li>Folders en kantoormateriaal overlopen</li></ul>",
+    "Wil je de showroom voor een belangrijke dag helemaal klaarzetten, dan boek je een extra blok op een weekdag, aan hetzelfde uurtarief."
    ]
   },
   {
-   "h2": "Wat de zaak zelf blijft doen",
+   "h2": "Wat het autobedrijf zelf blijft doen",
    "p": [
-    "Je team houdt tussendoor de basis netjes: koffiekopjes opruimen, de balie leegmaken en vuile schoenen of olievlekken aan de deur opvangen. Wagens in de showroom laat je zelf poetsen en opstellen. Wat in de werkplaats gebeurt, blijft er ook. Een Zondag werkt rond je wagens en raakt ze niet aan.",
-    "Een korte afspraak aan het begin helpt: welke ruimtes zijn voor je Zondag, welke blijven buiten bereik en waar geen documenten verplaatst mogen worden. Dat leg je vast in het zondagsplan, zodat iedereen hetzelfde verwacht."
+    "<ul class=\"ticks\"><li>De werkplaats, de hefbruggen en alles wat met olie of banden te maken heeft</li><li>Het wassen, poetsen of reinigen van de wagens</li><li>De tentoongestelde wagens binnenin</li><li>De sleutels en het papierwerk van de voertuigen</li></ul>",
+    "Een Zondag onderhoudt de ruimte, niet de wagens. Zo blijft de scheiding duidelijk en weet iedereen waar hij aan toe is."
    ]
   },
   {
-   "h2": "Voorbeeld: een garage met een verkoopkantoor en een thuis erboven",
+   "h2": "Een IT-consultant als vergelijking",
    "p": [
-    "Stel: je hebt een garage in Kortrijk met een verkoopkantoor en daarboven je woning. Op dinsdag komt je Zondag vroeg in de ochtend voor het verkoopkantoor en de showroom, op donderdag voor je woning. Eén persoon, twee ruimtes. De factuur splitst beroepsmatig en privé. Een vennootschap kan geen dienstencheques kopen; het onderhoud van beroepsruimtes is een beroepskost en voor het privégedeelte kan een voordeel van alle aard gelden. Laat je accountant het bevestigen."
+    "Neem een IT-consultant met een kantoor voor vijf mensen. Zijn kantoor ziet nauwelijks bezoekers, dus de lijst is er korter en gericht op het team. Een autobedrijf ontvangt de hele dag klanten, en wat zij zien, is het product van je zaak.",
+    "Daarom zet je de showroom en de wachtruimte bovenaan en beperk je het werk achter de schermen tot wat minimaal nodig is. Je Zondag neemt dat mee in het zondagsplan."
+   ]
+  },
+  {
+   "h2": "Prijs en boeken",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, geboekt per blok van 3 uur. Dat is 180 euro exclusief btw per blok, en extra uren kosten hetzelfde. De factuur komt op naam van je vennootschap en het onderhoud is in principe een beroepskost. Laat je accountant bevestigen hoe dat voor jouw situatie werkt. Boek op de <a href=\"boeken.html\">boekpagina</a>. Meer over de sector lees je op <a href=\"sectoren/autobedrijven.html\">poetshulp voor garages en autobedrijven</a>."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Poetst Zondags ook de werkplaats van mijn garage?",
-   "a": "Nee. Zondags onderhoudt de showroom, het verkoopkantoor, de wachtruimte en het sanitair. De werkplaats en het reinigen van voertuigen vallen buiten het werk."
+   "q": "Hoe vaak moet de showroom van een garage gepoetst worden?",
+   "a": "Meestal wekelijks voor vloer, glazen wanden, balie en wachtruimte. Bij veel klanten kan vaker nodig zijn. Ramen en kasten in detail maandelijks."
   },
   {
-   "q": "Hoe vaak komt je Zondag naar een autobedrijf?",
-   "a": "Dat hangt af van de grootte en de drukte. In de intake bekijken we wat nodig is: wekelijks of tweewekelijks, met maandelijkse en jaarlijkse extra's in het plan."
+   "q": "Poetst Zondags ook de werkplaats of de wagens?",
+   "a": "Nee. De werkplaats en het reinigen van wagens vallen buiten het werk van Zondags. Het gaat om showroom, verkoopkantoor, onthaal, wachtruimte en sanitair."
   },
   {
-   "q": "Kan er gepoetst worden voor de showroom openingstijd?",
-   "a": "Ja, vroeg in de ochtend of over de middag op weekdagen. 's Avonds en in het weekend werken we niet."
+   "q": "Kan de poetshulp komen voor de showroom opengaat?",
+   "a": "Ja. Vroeg in de ochtend of over de middag kan, overdag op weekdagen. Zondags werkt nooit 's avonds en nooit in het weekend."
   },
   {
-   "q": "Kan dezelfde persoon ook mijn woning doen?",
-   "a": "Ja. Garage en woning kunnen in één zondagsplan, met één factuur waarop beroepsmatig en privé apart staan."
+   "q": "Wat kost het onderhoud van een garage-showroom?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief."
   },
   {
-   "q": "Kan ik een grote poetsbeurt boeken voor een opendeurdag?",
-   "a": "Ja, als losse opdracht of als extra beurt in het plan. We bespreken de timing op een weekdag overdag. Uren bijboeken of het plan aanpassen kan."
+   "q": "Kan dezelfde persoon ook administratief helpen?",
+   "a": "Ja, ondersteunend: post sorteren, documenten en brochures klasseren, afspraken inplannen en kantoormateriaal bestellen. Boekhouding doet Zondags niet."
   }
  ]
 }

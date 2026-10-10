@@ -1,79 +1,91 @@
 {
- "path": "poetshulp/aalter.html",
  "title": "Poetshulp voor bedrijven in Aalter (9880)",
- "desc": "Poetshulp voor land- en tuinbouwbedrijven en interieurzaken in Aalter en de deelgemeenten: bureau, refter, toonzaal en woning met één vaste Zondag.",
+ "desc": "Poetshulp voor landbouwbedrijven met een vennootschap en voor toonzalen in Aalter en de deelgemeenten: bureau, refter en kleedruimte. 60 euro per uur excl. btw.",
  "eyebrow": "Aalter · 9880",
  "h1": "Poetshulp voor bedrijven in Aalter",
- "lead": "Een tuinbouwbedrijf met een bureau en refter, een interieurzaak met een toonzaal: in Aalter houdt één vaste Zondag beide soorten zaken op orde.",
- "answer": "Zondags (zondags.be) levert in Aalter, Bellem, Lotenhulle, Poeke, Knesselare en Ursel vaste poetshulp aan land- en tuinbouwbedrijven met een vennootschap en aan interieurzaken met een toonzaal. Je Zondag poetst bureau, refter, toonzaal en op vraag je woning, overdag op weekdagen. De dienstenfactuur komt bij je vennootschap terecht. Je Zondag zoeken we in de buurt van je bedrijf. Zondags zelf werkt in West- en Oost-Vlaanderen en zit in Marke bij Kortrijk.",
+ "lead": "Een landbouwbedrijf met een vennootschap heeft een bureau, een refter en een kleedruimte die elke dag in gebruik zijn. Een vaste Zondag houdt ze op orde.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor bedrijven in Aalter, Bellem, Lotenhulle, Poeke, Knesselare en Ursel, bijvoorbeeld voor landbouwbedrijven met een vennootschap en voor toonzalen. Je Zondag poetst bureau, refter, kleedruimte en onthaal. Stallen, velden en machines horen er niet bij. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw, steeds met dezelfde persoon, en krijgt een factuur op naam van je bedrijf.",
  "facts": [
-  "Land- en tuinbouwbedrijven en interieurzaken",
-  "Bureau, refter, toonzaal en woning",
-  "Grote beurt op vrijdag, klaar voor het weekend",
+  "Bureau, refter en kleedruimte",
+  "Landbouwbedrijf met vennootschap",
   "Steeds dezelfde Zondag",
-  "Eerste 2 uur gratis"
+  "Factuur op naam van je bedrijf",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
  ],
  "sections": [
   {
-   "h2": "Twee soorten zaken, twee soorten ritme",
+   "h2": "Waar Zondags bij een landbouwbedrijf past",
    "p": [
-    "Een land- of tuinbouwbedrijf en een interieurzaak lijken weinig op elkaar, maar ze stellen dezelfde vraag: een bureau en een ontvangst die verzorgd blijven, en iemand die niet elke keer opnieuw moet leren waar alles staat. Wat verschilt, is het moment waarop er gepoetst wordt."
-   ]
-  },
-  {
-   "h2": "Op een land- of tuinbouwbedrijf: bureau, refter en woning",
-   "p": [
-    "Op een tuinbouwbedrijf wordt vroeg gewerkt, en de refter zit vol rond de pauzes. Je Zondag poetst de refter en het sanitair na de middagpauze en doet het bureau op een andere dag, bijvoorbeeld op dinsdag. De woning van de zaakvoerder krijgt een eigen dag.",
-    "De werkruimtes voor de teelt zelf, zoals serres, stallen en loodsen, blijven buiten het plan, want industriële reiniging doen we niet. Meer voorbeelden staan bij <a href=\"sectoren/landbouwbedrijven.html\">poetshulp voor landbouwbedrijven</a>."
+    "Een landbouwbedrijf dat als vennootschap draait, heeft naast het werk op het veld of in de stal ook een zakelijke kant: een bureau waar de administratie wordt bijgehouden, een ruimte waar leveranciers en adviseurs binnenkomen, een refter voor de medewerkers en een kleedruimte met sanitair. Dat deel is gewoon een kantoor en wordt vaak het laatst gepoetst.",
+    "Het werk buiten, de stallen, de machines en alles wat met productie of het terrein te maken heeft, laten we aan jou en je team. Wij nemen de binnenruimtes die in elk bedrijf bestaan: waar je zit, eet, je omkleedt en klanten of verkopers ontvangt."
    ]
   },
   {
    "h2": "Voorbeeld: een interieurzaak met een toonzaal",
    "p": [
-    "Neem een interieurzaak in Aalter waar de meeste bezoekers op zaterdag komen. In het weekend werken we niet, dus plan je de grote beurt op vrijdagochtend, zodat de toonzaal klaar is voor het weekend. Op dinsdag volgt een kortere beurt voor vloeren, balie en sanitair.",
-    "Wat je Zondag mag verplaatsen van de opstelling, spreek je vooraf af. Over toonzalen in het algemeen lees je meer bij <a href=\"sectoren/interieurzaken.html\">poetshulp voor interieurzaken</a>."
+    "Neem een interieurzaak in Aalter met een toonzaal vol stalen, stoffen, opgestelde zithoeken en gordijnen. Klanten komen binnen met natte schoenen of een kop koffie in de hand, en de ruimte moet dagelijks overtuigen.",
+    "Je Zondag begint in de toonzaal: vloeren, vitrines en balie, daarna de kleine keuken en het sanitair. Ze zet de koffiehoek klaar, ordent de brochures en stalen en neemt het kantoor achteraan mee. Wanneer er een nieuwe collectie arriveert, boek je een extra blok om alles klaar te zetten."
    ]
   },
   {
-   "h2": "Aalter, Bellem, Lotenhulle, Poeke, Knesselare en Ursel",
+   "h2": "Het bureau en de refter van een landbouwbedrijf",
    "p": [
-    "Aalter heeft postcode 9880 en ligt in Oost-Vlaanderen, in de regio Gent. Bij de stad horen Bellem, Lotenhulle, Poeke, Knesselare en Ursel. Voor een zaak in Aalter of een van de deelgemeenten zoeken we een Zondag die er zelf of vlakbij woont. Een aanvraag voor een zaak in Deinze, Beernem, Ruiselede of Maldegem, vlak bij Aalter, mag ook: we kijken dan wat daar mogelijk is."
+    "<ul class=\"ticks\"><li>Bureau en ontvangsttafel afnemen</li><li>Refter en keuken onderhouden</li><li>Kleedruimte opruimen en vloer poetsen</li><li>Sanitair en wasbakken schoon</li><li>Vloeren in gang en kantoor</li><li>Afval en papier buiten zetten</li></ul>",
+    "Gevelreiniging, werken op hoogte en industriële reiniging staan niet op de lijst. Op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a> lees je wat er wel kan."
    ]
   },
   {
-   "h2": "Eén Zondag voor vennootschap en gezin",
+   "h2": "Papierwerk dat zich opstapelt",
    "p": [
-    "Voor je vennootschap zijn dienstencheques niet beschikbaar, dus je krijgt een gewone dienstenfactuur op naam van je vennootschap. Bureau, refter en toonzaal zijn beroepsruimtes, en het onderhoud is een beroepskost.",
-    "Laat je ook je woning doen, dan staat dat deel apart op de factuur. Voor dat privégedeelte is een forfaitair voordeel van alle aard van toepassing, zolang de prestaties regelmatig zijn en de uitvoerder een onderneming met mensen in dienst is. Je accountant bevestigt of dit in jouw geval zo werkt."
+    "Landbouwers en zelfstandigen schuiven administratie graag voor zich uit, want de dag is al vol. Je Zondag kan post sorteren, facturen en documenten klasseren, het archief ordenen en afspraken in de agenda zetten. Boekhouding, jaarrekeningen en fiscaal advies zijn geen onderdeel; daarvoor ga je naar je boekhouder. Het resultaat is een bureau waar je 's ochtends meteen kan beginnen."
    ]
   },
   {
-   "h2": "Hoe je begint",
+   "h2": "Bellem, Lotenhulle, Poeke, Knesselare en Ursel",
    "p": [
-    "Een aanvraag via formulier of chat, een telefoontje binnen één werkdag, een intake op het bedrijf of in de toonzaal, en dan het zondagsplan. Gratis zijn de eerste 2 uur, om kennis te maken. Het plan is maandelijks opzegbaar, en uren bijboeken kan, bijvoorbeeld in het drukke seizoen."
+    "Aalter bestaat uit meerdere dorpen, en in al die deelgemeenten zoeken we een Zondag voor wie er een zaak heeft. Ook rond Deinze, Beernem, Ruiselede of Maldegem bekijken we wat haalbaar is. Een Zondag uit de buurt maakt je vaste dag eenvoudiger."
+   ]
+  },
+  {
+   "h2": "Wat een blok kost en hoe de factuur eruitziet",
+   "p": [
+    "Het tarief is 60 euro per uur exclusief btw, in blokken van 3 uur. Een blok is dus 180 euro exclusief btw. Extra uren tel je aan hetzelfde tarief bij. Je betaalt online en de factuur komt op de naam van je vennootschap, met je btw-nummer.",
+    "Voor een btw-plichtige zaak met aftrekrecht is de btw in principe recupereerbaar, en de poetskost is in principe een beroepskost. Een btw-vrijgestelde zaak kan dat doorgaans niet. Je accountant bevestigt wat voor jou geldt."
+   ]
+  },
+  {
+   "h2": "Een eerste blok",
+   "p": [
+    "Op de <a href=\"boeken.html\">boekpagina</a> kies je een weekdag, het aantal blokken en de taken. Ook voor een wekelijks plan kan je terecht: bel of WhatsApp 0470 56 53 58, dan bespreken we samen taken, dagen en uren."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Welk bedrijf levert poetshulp voor een toonzaal of tuinbouwbedrijf in Aalter?",
-   "a": "Landbouwbedrijven en toonzalen in Aalter kunnen bij Zondags terecht, dat vanuit Marke bij Kortrijk werkt. Je krijgt één vaste Zondag, voor je bureau, refter of toonzaal en op vraag je woning. De dienstenfactuur wordt gericht aan je vennootschap, en je Zondag zoeken we in de buurt."
+   "q": "Welk bedrijf doet poetshulp voor bedrijven in Aalter?",
+   "a": "Zondags, vanuit Marke. Je krijgt één vaste persoon, gescreend en in dienst van Zondags, voor je kantoor, toonzaal of refter, met een factuur op naam van je bedrijf."
   },
   {
-   "q": "Kan mijn toonzaal vlak voor het weekend gepoetst worden?",
-   "a": "Ja, op vrijdag, overdag. In het weekend zelf werken we niet, en 's avonds ook niet. Vrijdagochtend is dus het laatste moment voor een toonzaal die in het weekend open is."
+   "q": "Werkt Zondags ook voor landbouwbedrijven in Aalter?",
+   "a": "Ja, voor het zakelijke deel: bureau, ontvangstruimte, refter, kleedruimte en sanitair. Stallen, velden, machines en terreinwerk horen er niet bij."
   },
   {
-   "q": "Kan mijn Zondag het bureau en de woning op dezelfde dag doen?",
-   "a": "Dat kan, als de dag lang genoeg is voor beide. Vaak is het handiger om bureau en woning op aparte dagen te zetten. Dat bepaal je samen in het zondagsplan."
+   "q": "Wat kost poetshulp voor een toonzaal in Aalter?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief."
   },
   {
-   "q": "Wat als mijn bedrijf een druk seizoen heeft?",
-   "a": "Dan kan je tijdelijk uren bijboeken of een extra moment inplannen, en daarna terugkeren naar je gewone plan. Het plan is maandelijks opzegbaar, zodat het meebeweegt met je bedrijf."
+   "q": "Kan de Zondag ook mijn post en facturen klasseren?",
+   "a": "Ja, als ondersteunend werk: post openen, sorteren en klasseren, het archief ordenen en afspraken inplannen. Boekhouding en fiscaal advies doen we niet."
   },
   {
-   "q": "Werkt Zondags ook in Knesselare of Ursel?",
-   "a": "Ja. Knesselare, Ursel, Bellem, Lotenhulle en Poeke zijn deelgemeenten van Aalter, dus ook daar werken we. Ligt je bedrijf in een van die vijf, dan zoeken we een Zondag die er vlakbij woont."
+   "q": "Is er een Zondag voor Ursel of Knesselare?",
+   "a": "Ja. Bellem, Lotenhulle, Poeke, Knesselare en Ursel horen bij Aalter en vallen binnen het werkgebied van Zondags."
+  },
+  {
+   "q": "Hoe snel kan een Zondag starten?",
+   "a": "Online boeken kan voor een weekdag, minstens twee werkdagen vooraf. Voor een vast terugkerend plan overleggen we eerst kort over de taken en uren."
   }
- ]
+ ],
+ "path": "poetshulp/aalter.html"
 }

@@ -1,35 +1,84 @@
 {
- "path": "poetshulp/moorslede.html",
  "title": "Poetshulp voor bedrijven in Moorslede (8890)",
- "desc": "Poetshulp voor starters in Moorslede die hun eerste winkel of praktijk openen, zoals een opticien in een winkelstraat. Eén vaste persoon, één factuur.",
+ "desc": "Poetshulp voor starters en jonge vennootschappen in Moorslede en Dadizele met een eerste kantoor of praktijk. 60 euro per uur excl. btw, per blok van 3 uur.",
  "eyebrow": "Moorslede · 8890",
  "h1": "Poetshulp voor bedrijven in Moorslede",
- "lead": "Je opent je eerste winkel en de dozen staan nog in de weg. In Moorslede zorgt één vaste Zondag dat de zaak er netjes bijligt, voor de opening en daarna elke week.",
- "answer": "Zondags (zondags.be) levert poetshulp aan startende ondernemers in Moorslede, een gemeente in de regio Roeselare met de deelgemeente Dadizele, die hun eerste winkel, kantoor of praktijk inrichten, zoals een opticien in een winkelstraat. Je krijgt één vaste persoon, een losse poetsbeurt voor de opening als je dat wil en daarna een vast ritme. De factuur gaat naar je vennootschap.",
- "facts": ["Voor starters in Moorslede", "Losse beurt voor de opening", "Daarna een vast ritme", "Moorslede in de regio Roeselare", "Eerste 2 uur gratis"],
+ "lead": "Je eerste kantoor, praktijk of winkel in Moorslede betrekken is spannend genoeg. Poetsen hoef je niet zelf te plannen: één vaste Zondag begint mee vanaf de eerste week.",
+ "answer": "Zondags (zondags.be) helpt starters en jonge vennootschappen in Moorslede en Dadizele die hun eerste kantoor, praktijk of winkel inrichten. Eén vaste persoon, je Zondag, houdt de ruimte op orde en neemt op vraag administratie en praktische klusjes over. Je start met één blok van 3 uur aan 60 euro per uur exclusief btw en bouwt uit wanneer de zaak groeit. Je krijgt een dienstenfactuur op naam van je bedrijf. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk.",
+ "facts": [
+  "Voor starters en jonge vennootschappen",
+  "Eerste kantoor, praktijk of winkel",
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Factuur op naam van je bedrijf",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "De dagen voor de opening", "p": [
-   "Stel: je opent als opticien je eerste zaak in een winkelstraat in Moorslede. De toonbanken zijn geplaatst, de rekken staan klaar en de verpakkingen liggen nog in een hoek. In de laatste dagen voor de opening wil je geen tijd verliezen aan dweilen.",
-   "Daarvoor boek je een losse grote poetsbeurt. Een Zondag zet de zaak op nul: vloer, glas, toonbanken, personeelsruimte en sanitair. Daarna kan je overstappen op een vast ritme."]},
-  {"h2": "Checklist voor je eerste winkel", "p": [
-   "<ul class=\"ticks\"><li>Jij: verpakkingen en karton opruimen voor de grote beurt</li><li>Jij: spullen die weg moeten uit de weg zetten</li><li>Je Zondag: vloer, toonbanken en vitrines</li><li>Je Zondag: etalageruit en glazen deuren langs binnen</li><li>Je Zondag: personeelsruimte, kleine keuken en sanitair</li></ul>",
-   "Wat een opticien verder van ons kan verwachten, staat bij <a href=\"sectoren/opticiens.html\">opticiens</a>."]},
-  {"h2": "Na de opening: één vaste beurt", "p": [
-   "In de eerste weken komen er veel klanten en dus veel vingerafdrukken. Een vaste beurt per week op de vloer, het glas en de toonbanken houdt de zaak in orde. Je medewerkers vegen tussendoor een toonbank af, en je Zondag doet de rest. Meetapparatuur en instrumenten blijven bij je team, en sterilisatie en medisch materiaal vallen buiten ons werk."]},
-  {"h2": "Een jonge vennootschap, een gewone factuur", "p": [
-   "Je jonge vennootschap betaalt met een gewone dienstenfactuur; dienstencheques zijn voor particulieren. Het poetsen van je winkel is een beroepskost. Woon je boven de zaak of laat je ook je woning poetsen, dan komt dat deel apart als privé op de factuur, met een forfaitair voordeel van alle aard.",
-   "Dat kan als de prestaties regelmatig zijn en een onderneming met mensen in dienst ze uitvoert. Laat je accountant bevestigen hoe dat in jouw situatie werkt, liefst nog voor de eerste factuur."]},
-  {"h2": "Moorslede en Dadizele, in de regio Roeselare", "p": [
-   "Moorslede is een gemeente in de regio Roeselare met één deelgemeente, Dadizele. Ook voor zaken in Ledegem, Roeselare, Zonnebeke en Staden loopt de aanvraag zo. Zondags heeft Marke bij Kortrijk als thuisbasis en werkt in West- en Oost-Vlaanderen. Wie een winkel of praktijk net opent, vindt extra uitleg bij <a href=\"sectoren/nieuw-kantoor-of-praktijk.html\">een nieuw kantoor of een nieuwe praktijk</a>."]},
-  {"h2": "Hoe je de eerste stap zet", "p": [
-   "Via het formulier of de chat doe je een aanvraag, en binnen één werkdag belt iemand je terug. We komen langs voor de intake, kijken wat de zaak nodig heeft en leggen het zondagsplan vast. De eerste 2 uur kosten niets. Het plan is maandelijks opzegbaar, je kan uren bijboeken en bij ziekte of verlof van je Zondag zoeken wij een oplossing."]}
+  {
+   "h2": "Een startende zaak heeft zelden een vaste schoonmaker nodig",
+   "p": [
+    "Wie net een vennootschap heeft opgericht, rekent elke uitgave twee keer na. Een vaste poetsdienst voelt dan als een zware last voor iets wat je nog niet precies kan inschatten. Je weet niet hoe druk het wordt, hoeveel mensen je aanneemt en hoe vaak er klanten langskomen.",
+    "Daarom is er bij Zondags maar één pakket, en dat is overzichtelijk: je boekt een blok van 3 uur wanneer je het nodig hebt en voegt een extra blok toe als de zaak groeit. De ene week één beurt, de week erna twee."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een opticien in een winkelstraat",
+   "p": [
+    "Stel: je opent een opticien in een winkelstraat in Moorslede. De etalage, de rekken met monturen, de balie en de onderzoeksruimte moeten er elke ochtend glimmend bijliggen. Jij staat achter de toonbank, je partner doet de bestellingen. Er is geen moment voor een dweil.",
+    "Je Zondag komt bijvoorbeeld vroeg op dinsdag en vrijdag. Ze neemt de winkelruimte, de balie en de onderzoekskamer, de vloeren en het sanitair, en poetst de glaspartijen en etalage langs binnen. Ramen langs buiten op hoogte doen we niet. Wat in je winkelstraat aan de buitenkant moet gebeuren, regel je apart."
+   ]
+  },
+  {
+   "h2": "Zo richt je het eerste half jaar in",
+   "p": [
+    "<ul class=\"ticks\"><li>Begin met één vast blok per week en kijk wat er blijft liggen</li><li>Zet daarna extra uren in op de plek waar het schuurt, bijvoorbeeld de post of de koffiehoek</li><li>Laat de Zondag meteen de bestelling van kantoormateriaal bijhouden</li><li>Evalueer na een paar weken samen met haar welke taken je behoudt</li></ul>",
+    "Een bijpassende pagina is <a href=\"sectoren/nieuw-kantoor-of-praktijk.html\">een nieuw kantoor of een nieuwe praktijk</a>, met meer details over de start."
+   ]
+  },
+  {
+   "h2": "Meer handen voor een jonge zaak",
+   "p": [
+    "Als starter combineer je alle rollen: verkoop, boekhouding, planning, en de koffiehoek. Je Zondag neemt de praktische kant mee: post openen en sorteren, facturen klasseren, afspraken inplannen en een pakje klaarzetten. Boekhouding en fiscaal advies blijven bij je boekhouder. Wil je weten hoe dat voor bedrijfsleiders werkt, kijk dan op <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">de pagina over een rechterhand</a>."
+   ]
+  },
+  {
+   "h2": "Moorslede, Dadizele en de buurt",
+   "p": [
+    "Moorslede heeft postcode 8890. Dadizele is een deelgemeente van Moorslede en valt binnen ons aanbod. Zit je zaak in Ledegem, Roeselare, Zonnebeke of Staden, dan zoeken we ook daar een Zondag voor je."
+   ]
+  },
+  {
+   "h2": "Prijs, factuur en boeken",
+   "p": [
+    "Een blok van drie uur kost 180 euro exclusief btw, extra uren 60 euro per uur. Op <a href=\"boeken.html\">de boekpagina</a> kies je een weekdag en betaal je online. De factuur komt op naam van je vennootschap en is in principe een beroepskost. Laat je accountant bevestigen hoe dat bij jouw start werkt."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf levert poetshulp voor een nieuwe winkel in Moorslede?", "a": "Zondags levert poetshulp aan nieuwe winkels, kantoren en praktijken in Moorslede. Voor de opening boek je een losse grote poetsbeurt, daarna volgt een vast ritme met één persoon en een dienstenfactuur voor je vennootschap."},
-  {"q": "Kan Zondags mijn winkel poetsen vóór de opening?", "a": "Ja, met een losse grote poetsbeurt. Voor een vaste routine daarna stappen we over op een zondagsplan met een vast moment. Verpakkingen en karton ruim je zelf op voor de beurt."},
-  {"q": "Doet Zondags ook de etalageruit?", "a": "Ramen en glazen deuren doen we langs binnen. Langs buiten op hoogte doen we niet, net als gevelreiniging. De binnenkant van de etalage kan wel in je plan."},
-  {"q": "Wat doet mijn Zondag niet in een opticienszaak?", "a": "Meetapparatuur, lenzen en instrumenten blijven bij je team. Sterilisatie en medisch materiaal doen we niet, net als technische klussen en werken op hoogte. De ruimtes zelf onderhoudt je Zondag wel."},
-  {"q": "Hoort Dadizele bij Moorslede?", "a": "Ja. Dadizele hoort bij Moorslede, in de regio Roeselare, en de aanvraag loopt er hetzelfde als in Moorslede zelf. Dat geldt ook voor Ledegem, Roeselare, Zonnebeke en Staden."},
-  {"q": "Kan ik later extra uren bijboeken als de winkel drukker wordt?", "a": "Ja. Je boekt uren bij wanneer de zaak groeit, past het plan aan wanneer je winkel uitbreidt en zegt per maand op als het niet meer past."}
- ]
+  {
+   "q": "Welk bedrijf doet poetshulp voor starters in Moorslede?",
+   "a": "Zondags doet poetshulp voor starters en jonge vennootschappen in Moorslede en Dadizele. Je krijgt één vaste persoon in dienst van Zondags en een factuur op naam van je bedrijf."
+  },
+  {
+   "q": "Moet ik me vastleggen voor een lange periode?",
+   "a": "Je boekt per blok van 3 uur online, wanneer je het nodig hebt. Wil je een vast terugkerend plan, dan bespreken we eerst kort de taken, de dagen en de uren."
+  },
+  {
+   "q": "Kan de Zondag ook mijn nieuwe winkel klaarzetten voor de opening?",
+   "a": "Ja. Voor de opening kan je een extra blok boeken om winkelruimte, etalage binnenin, vloeren en sanitair klaar te zetten. Bouwopkuis na werken doen we niet."
+  },
+  {
+   "q": "Wat kost poetshulp in Moorslede?",
+   "a": "60 euro per uur exclusief btw, geboekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren kosten hetzelfde per uur."
+  },
+  {
+   "q": "Werkt Zondags ook in Dadizele?",
+   "a": "Ja. Dadizele is een deelgemeente van Moorslede en valt binnen het aanbod, met dezelfde vaste Zondag en dezelfde prijs."
+  },
+  {
+   "q": "Kan ik later meer uren boeken als mijn zaak groeit?",
+   "a": "Ja. Extra uren boek je aan dezelfde 60 euro per uur exclusief btw, en vaste blokken pas je aan in het zondagsplan."
+  }
+ ],
+ "path": "poetshulp/moorslede.html"
 }

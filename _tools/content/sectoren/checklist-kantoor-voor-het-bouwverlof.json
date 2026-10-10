@@ -1,39 +1,35 @@
 {
  "path": "sectoren/checklist-kantoor-voor-het-bouwverlof.html",
  "title": "Checklist: je kantoor klaarmaken voor het bouwverlof",
- "desc": "Een praktische checklist om je kantoor af te sluiten voor het bouwverlof: opruimen, frigo, afval, poetsbeurt, planten en een vlotte herstart daarna.",
- "eyebrow": "Checklist",
+ "desc": "Afsluiten, opruimen, frigo leegmaken, afval, grondige poetsbeurt, planten en herstart: zo laat je je kantoor achter voor het bouwverlof en kom je terug in orde.",
+ "eyebrow": "Checklist · Bouwverlof",
  "h1": "Checklist: je kantoor klaarmaken voor het bouwverlof",
- "lead": "Een paar weken dicht betekent dat alles wat blijft liggen of staan, na de vakantie een probleem is. Met deze lijst sluit je je kantoor in een rustig tempo af.",
- "answer": "Voor het bouwverlof maak je je kantoor klaar door af te sluiten, op te ruimen, de frigo leeg te maken, het afval buiten te zetten, een grondige poetsbeurt in te plannen, je planten een plaats te geven en een herstart voor te bereiden. Zondags (zondags.be) kan de poetsbeurt als losse opdracht of binnen je zondagsplan doen, overdag op weekdagen, met één factuur op naam van je vennootschap.",
- "facts": ["Afsluiten en opruimen", "Frigo leegmaken en afval buiten", "Grondige poetsbeurt als losse opdracht", "Planten en herstart voorbereiden", "Overdag op weekdagen", "Eerste 2 uur gratis"],
+ "lead": "Sluit je kantoor voor het bouwverlof, dan wil je bij de terugkomst geen geur, geen stof en geen verrassingen. Deze lijst loopt af, van laatste werkdag tot herstart.",
+ "answer": "Voor het bouwverlof sluit je je kantoor af in vijf stappen: opruimen, frigo en keuken leegmaken, afval buiten zetten, een grondige poetsbeurt laten uitvoeren en planten, toestellen en alarm regelen. Bij de herstart volgt een korte opfrisbeurt. Zondags (zondags.be) doet beide beurten met je vaste Zondag op een weekdag, aan 60 euro per uur exclusief btw, geboekt per blok van 3 uur.",
+ "facts": ["Vijf stappen voor het verlof", "Frigo en keuken leeg", "Grondige beurt op de laatste werkdagen", "Opfrisbeurt bij de herstart", "60 euro per uur, per blok van 3 uur", "Steeds dezelfde Zondag"],
  "sections": [
-  {"h2": "Eerst afsluiten, dan pas poetsen", "p": [
-   "De volgorde maakt het verschil. Een grondige poetsbeurt heeft weinig zin zolang er nog dozen, kabels en dossiers over alle bureaus liggen. Begin dus bij het werk, en eindig bij de vloer.",
-   "<ul class=\"ticks\"><li>Laat je team lopende dossiers weg- of opbergen</li><li>Ruim bureaus leeg, zodat er ook onder en rond gepoetst kan worden</li><li>Zet laptops, schermen en waardevolle spullen op hun plaats</li><li>Controleer ramen, deuren en het alarm, zoals je dat zelf gewoon bent</li></ul>"]},
-  {"h2": "Keuken en frigo: het gevaarlijkste hoekje", "p": [
-   "Wat blijft liggen in een warme zomer, vind je na de vakantie terug als geur. Maak daarom de koelkast helemaal leeg, ook de melk, de sauzen en de laatste lunchresten van je team. Laat de deur op een kier staan zodat er niets gaat schimmelen.",
-   "Zet de koffiemachine leeg en spoel ze door, leeg het waterreservoir en neem de afvalbak mee. Je Zondag kan de frigo en de keuken daarna uitwassen en afnemen, als dat in het plan zit."]},
-  {"h2": "Afval, papier en recyclage", "p": [
-   "Zet het gewone afval, het papier en het pmd buiten op de dag die past bij het ophalen in jouw gemeente. Voor het bouwverlof zijn de vuilbakken meestal vol, en een volle bak in een gesloten kantoor trekt vliegen aan. Leeg dus alle bakken, ook die in het sanitair en op de bureaus."]},
-  {"h2": "De grondige poetsbeurt", "p": [
-   "De beste moment voor een grondige beurt is net voor je dichtgaat, of net voor je team terug is. Dan ligt je kantoor er bij de herstart netjes bij.",
-   "<ul class=\"ticks\"><li>Bureaus, tafels en kasten afnemen</li><li>Vloeren zuigen en dweilen</li><li>Sanitair gepoetst</li><li>Keuken en frigo uitgewassen</li><li>Ramen en glazen deuren langs binnen</li></ul>",
-   "Voor zo'n beurt kan je Zondags inschakelen als losse opdracht. Een grote poetsbeurt is ook mogelijk binnen een bestaand zondagsplan. Meer over de periode zelf lees je op <a href=\"sectoren/poetshulp-tijdens-bouwverlof.html\">poetshulp tijdens het bouwverlof</a>. Zondags werkt overdag op weekdagen, nooit 's avonds en nooit in het weekend."]},
-  {"h2": "Planten, post en het lichtknopje", "p": [
-   "Planten overleven een paar weken beter dan je denkt, maar niet bij een dichte, warme ruimte in volle zon. Zet ze weg van het raam en geef ze voor je vertrekt een goede beurt water. Wil je dat iemand tussendoor langskomt, bespreek dat dan met je Zondag in de intake en leg het vast in het zondagsplan.",
-   "Laat de post ook niet naar een dichte deur gaan. Vraag een buur of collega om te kijken, of laat doorsturen. En controleer of alles wat stroom gebruikt, uit staat: printers, laders, het kleine keukenapparaat."]},
-  {"h2": "De herstart na het verlof", "p": [
-   "Plan een korte beurt of een rustige eerste dag. Open de ramen, laat de ruimte verluchten en kijk of niets is opengebleven. Een lichte poetsbeurt op de eerste of tweede werkdag brengt je kantoor terug op niveau.",
-   "Heb je een vast zondagsplan, dan blijft de dag en het uur dezelfde. Zonder plan kan je een losse opdracht afspreken, ook voor de eerste week na het verlof."]},
-  {"h2": "Factuur en accountant", "p": [
-   "Een vennootschap kan geen dienstencheques kopen; die zijn voorbehouden aan particulieren. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van je kantoor is een beroepskost. Laat je accountant bevestigen hoe dat voor jouw situatie werkt."]}
+  {"h2": "De planning: laatste werkdagen en herstart", "p": [
+   "Je kantoor sluit niet in één dag. Verdeel het werk over de laatste werkdagen: eerst opruimen, dan leegmaken, dan poetsen. De grondige beurt komt zo laat mogelijk, maar vóór de laatste dag, zodat je ploeg nog kan bijsturen. Zondags werkt overdag op weekdagen, dus plan de beurt op een van de laatste weekdagen voor het verlof. Voor de terugkeer boek je een tweede, kortere beurt op de eerste of tweede werkdag nadien."]},
+  {"h2": "Stap één: opruimen en afsluiten", "p": [
+   "<ul class=\"ticks\"><li>Bureaus leeg: dossiers in de kast, kleine voorwerpen in de lade</li><li>Vertrouwelijke stukken opgeborgen of afgesloten</li><li>Oplader, kabels en toestellen die niet moeten blijven draaien uitgetrokken</li><li>Post en pakketten omgeleid of laten ophalen tijdens het verlof</li></ul>"]},
+  {"h2": "Stap twee: de frigo en de keuken leegmaken", "p": [
+   "Dit is de stap die het vaakst vergeten wordt, met het meeste gevolg. Laat niets achter dat kan bederven. Maak de frigo helemaal leeg en laat de deur op kier staan, zodat ze niet gaat ruiken. Reinig de koffiemachine, leeg het reservoir, haal de bonenbak leeg. Een meer volledige lijst staat in de <a href=\"sectoren/checklist-refter-en-keuken-op-kantoor.html\">checklist voor refter en keuken</a>."]},
+  {"h2": "Stap drie: afval", "p": [
+   "Alle prullenmanden worden geleegd, ook de kleine bakjes onder de bureaus en in het sanitair. Zet het afval buiten op de laatste ophaaldag voor het verlof, of neem het zelf mee naar een container als er geen ophaaldag meer valt. Een volle bak die drie weken blijft staan, is de snelste manier om een kantoor te laten ruiken."]},
+  {"h2": "Stap vier: de grondige poetsbeurt", "p": [
+   "Een kantoor dat enkele weken leeg staat, verzamelt stof. Het loont dus om alles eerst schoon achter te laten: bureaus, kasten aan de buitenkant, sanitair, vloeren, glazen wanden en deuren. Dit is meer werk dan een gewone wekelijkse beurt. Boek daarom meerdere blokken of voeg extra uren toe. Lees ook de <a href=\"sectoren/checklist-wekelijkse-kantoorpoets.html\">wekelijkse kantoorchecklist</a> voor een uitgangspunt."]},
+  {"h2": "Stap vijf: planten, toestellen en alarm", "p": [
+   "Geef planten nog water en zet ze weg van direct zonlicht. Vraag een collega die in de buurt woont om bij een lange sluiting één keer te komen kijken, als dat past in jullie afspraken. Controleer of het alarm werkt en wie gewaarschuwd wordt. Zet toestellen die niet moeten blijven draaien uit."]},
+  {"h2": "De herstart: een korte opfrisbeurt", "p": [
+   "Na het verlof is een kort bezoek van je Zondag genoeg om stof weg te nemen, de koffiehoek opnieuw te bevoorraden en de frigo weer in gebruik te nemen. Dat is een klein deel van een blok. Het is ook het moment om pakjes en post te sorteren, wat onder de rechterhand-kant van het werk valt."]},
+  {"h2": "Prijs en boeken", "p": [
+   "Je betaalt 60 euro per uur exclusief btw en boekt per blok van 3 uur, dus 180 euro exclusief btw. Boek op de <a href=\"boeken.html\">boekpagina</a>, minstens twee werkdagen vooraf, en doe dat bij voorkeur ruim voor het verlof, want dan zijn veel bedrijven tegelijk op zoek. Je krijgt een factuur op naam van je bedrijf."]}
  ],
  "faq": [
-  {"q": "Wat moet ik doen met mijn kantoor voor het bouwverlof?", "a": "Sluit af en ruim op, maak de frigo leeg, zet het afval buiten, plan een grondige poetsbeurt en bereid de herstart voor. Zondags kan de poetsbeurt overdag op een weekdag doen, als losse opdracht of binnen je plan."},
-  {"q": "Kan Zondags een grondige poetsbeurt doen voor ik op verlof vertrek?", "a": "Ja. Een grote poetsbeurt kan als losse opdracht, ook zonder vast plan. Je spreekt dag en uur af op een weekdag, vroeg in de ochtend of over de middag."},
-  {"q": "Wat doe ik met de frigo voor een lange sluiting?", "a": "Maak ze helemaal leeg, was ze uit en laat de deur op een kier. Zo voorkom je geur en schimmel. Je Zondag kan de frigo nadien uitwassen, als je dat vraagt."},
-  {"q": "Kan iemand mijn planten water geven tijdens het verlof?", "a": "Dat bespreken we in het intakegesprek, want het hangt af van wat je afspreekt. Wat we samen afspreken, komt in het zondagsplan te staan."},
-  {"q": "Kan er ook gepoetst worden na het verlof?", "a": "Ja. Een lichte beurt in de eerste dagen na het verlof brengt je kantoor weer op orde. Dat kan als losse opdracht of binnen je vaste zondagsplan."}
+  {"q": "Wat doe je met je kantoor voor het bouwverlof?", "a": "Opruimen, frigo en keuken leegmaken, afval buiten zetten, een grondige poetsbeurt laten doen en planten, toestellen en alarm regelen. Bij de herstart volgt een korte opfrisbeurt."},
+  {"q": "Wanneer laat je het kantoor best poetsen voor het verlof?", "a": "Op een van de laatste werkdagen voor het verlof, zodat het kantoor schoon achterblijft en je ploeg nog kan bijsturen. Zondags werkt op weekdagen, overdag."},
+  {"q": "Moet je de frigo leegmaken voor een lange sluiting?", "a": "Ja. Laat niets achter dat kan bederven, maak de frigo leeg, reinig ze en laat de deur op kier, zodat er geen geur ontstaat."},
+  {"q": "Kan er na het verlof een opfrisbeurt komen?", "a": "Ja. Je boekt een korte beurt op de eerste of tweede werkdag na het verlof. Je Zondag verwijdert stof, bevoorraadt de koffiehoek en maakt het kantoor klaar."},
+  {"q": "Wat kost de poetsbeurt voor het bouwverlof?", "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief."}
  ]
 }

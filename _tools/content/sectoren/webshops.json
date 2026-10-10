@@ -1,34 +1,36 @@
 {
  "path": "sectoren/webshops.html",
- "title": "Poetshulp voor webshops met kantoor en inpakruimte",
- "desc": "Poetshulp voor het kantoor, de inpakruimte, refter en sanitair van je webshop, met licht onderhoud van het magazijn. Eén vaste Zondag, één factuur.",
+ "title": "Poetshulp voor webshops met kantoor en magazijn",
+ "desc": "Poetshulp voor webshops: kantoor, inpakruimte, refter en sanitair. Eén vaste persoon, 60 euro per uur exclusief btw, online te boeken per blok van 3 uur.",
  "eyebrow": "Webshops",
  "h1": "Poetshulp voor webshops met kantoor en magazijn",
- "lead": "Achter elke webshop zit een kantoor, een inpaktafel en een magazijn vol karton. Een vaste Zondag houdt kantoor, inpakruimte en refter op orde en doet het lichte onderhoud van het magazijn.",
- "answer": "Zondags (zondags.be) levert poetshulp voor webshops met kantoor en magazijn: één vaste persoon, je Zondag, voor het kantoor, de inpakruimte, de refter en het sanitair, plus licht onderhoud van het magazijn, overdag op weekdagen. Industriële vloermachines horen er niet bij. Het onderhoud van de zaak staat op een gewone dienstenfactuur aan je vennootschap, en je woning komt als aparte post bij als ze in het plan zit.",
- "facts": ["Kantoor, inpakruimte, refter en sanitair", "Licht onderhoud van het magazijn", "Geen industriële vloermachines", "Steeds dezelfde Zondag", "Factuur aan je vennootschap"],
+ "lead": "Een webshop leeft van snelle pakjes en een rustig hoofd. Je Zondag houdt kantoor, inpakruimte, refter en sanitair in orde, zodat je team kan blijven verzenden.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor webshops met een kantoor en een kleine inpakruimte of opslag: één vaste persoon, je Zondag, voor kantoor, refter, sanitair en het lichte onderhoud van de inpakzone. Industriële vloermachines en zwaar magazijnwerk vallen erbuiten. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je vennootschap.",
+ "facts": ["Kantoor, inpakruimte, refter, sanitair", "Licht onderhoud, geen vloermachines", "Steeds dezelfde Zondag", "Pakjes en zendingen klaarmaken", "60 euro per uur, per blok van 3 uur", "Online boeken en betalen"],
  "sections": [
-  {"h2": "Karton, tape en stof: een webshop heeft zijn eigen vuil", "p": [
-   "Een webshop maakt geen rook en geen vet, maar wel karton, tape en vulmateriaal. Dat laat snippers en fijn stof achter op inpaktafels, vloeren en bureaus. In veel webshops lopen kantoor en magazijn bovendien in elkaar over, waardoor het kartonstof tot op de toetsenborden komt. Dat is geen probleem zolang iemand het elke week opruimt."]},
-  {"h2": "Kantoor, inpakruimte en refter: de vaste ronde", "p": [
-   "<ul class=\"ticks\"><li>Bureaus, vergaderhoek en vloeren in het kantoor</li><li>Inpaktafels afnemen en de vloer eronder vegen</li><li>Kartonresten, tape en vulmateriaal in de afvalzak</li><li>Refter, keuken, microgolf en vaatwasser</li><li>Sanitair voor het hele team</li><li>Afval, karton, PMD en papier naar buiten</li></ul>"]},
-  {"h2": "Het magazijn: licht onderhoud, geen machines", "p": [
-   "Voor het magazijn blijft het bij licht onderhoud: de looppaden en de inpakzone vegen, de ingangszone proper houden, afvalbakken leegmaken en kartonresten verzamelen. Industriële vloermachines vallen erbuiten, net als werken op hoogte en het stof op de bovenste stellingen. De stellingen en de goederen blijven onaangeroerd, want die inventaris is van jou.",
-   "Wanneer een koerier pakketten komt ophalen, is het druk aan de laadzone. Daarom komt je Zondag vroeg in de ochtend of over de middag, op een uur dat de inpaktafels even rustig zijn."]},
-  {"h2": "Voorbeeld: vijf mensen en een klein magazijn", "p": [
-   "Stel: je webshop heeft vijf mensen, een kantoor, een inpakruimte en een klein magazijn. Op dinsdag en vrijdag komt je Zondag vroeg in de ochtend, nog voor de eerste bestellingen worden ingepakt. In de weken voor de feestdagen ligt er meer karton en vraagt de inpakruimte een tweede beurt. Je boekt uren bij en schroeft ze na de drukte terug."]},
-  {"h2": "Begonnen aan de keukentafel? Dan is er ook een woning", "p": [
-   "Een webshop start soms aan de keukentafel en groeit uit tot een magazijn. Als zaakvoerder werk je misschien nog altijd lange dagen. Op een andere dag kan dezelfde Zondag je woning doen, van poetsen tot boodschappen. Werk je deels nog thuis, dan lees je op <a href=\"beroepen/kantoor-aan-huis.html\">poetshulp voor een kantoor aan huis</a> hoe dat samengaat."]},
-  {"h2": "Factuur voor je webshop", "p": [
-   "Het onderhoud van kantoor, inpakruimte en refter is een beroepskost. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap, omdat een vennootschap geen dienstencheques kan kopen. Het privégedeelte geldt als voordeel van alle aard. Is je webshop btw-plichtig met aftrekrecht, dan kan je de btw op het zakelijke deel in principe recupereren, op het privégedeelte in principe niet. Vraag je accountant dit voor jouw webshop te bevestigen."]},
-  {"h2": "Eerste stap: de grens van het lichte onderhoud", "p": [
-   "Stuur een bericht via het formulier of de chat, en binnen één werkdag belt iemand je terug. Tijdens de intake lopen we door het kantoor, de inpakruimte en het magazijn en tekenen we af waar het lichte onderhoud eindigt. De eerste 2 uur zijn gratis, dus je kan eerst zien of de afbakening voor jou werkt."]}
+  {"h2": "Twee werelden onder één dak", "p": [
+   "Een webshop heeft meestal een rustig kantoor waar bestellingen, klantenmails en campagnes beheerd worden, en een drukkere zone een paar stappen verder waar dozen, tape en opvulmateriaal rondslingeren. Beide ruimtes hebben een andere soort vuil nodig om aangepakt te worden: stof van karton in de ene, koffievlekken en vingerafdrukken in de andere.",
+   "Je Zondag leert die twee werelden kennen. Omdat het steeds dezelfde persoon is, weet ze na een paar beurten waar de bezems staan, welke hoek na een drukke dag het eerst aandacht vraagt en welke tafels niet leeggemaakt mogen worden."]},
+  {"h2": "Wat er in de inpakruimte wel en niet gebeurt", "p": [
+   "<ul class=\"ticks\"><li>Inpaktafels afnemen en vrijmaken</li><li>Vloer rond de tafels vegen en kartonresten in de juiste container brengen</li><li>Rekken en planken aan de buitenkant stofvrij houden</li><li>Looppaden vrijhouden en zichtbaar vegen</li><li>Afval en recyclage naar buiten zetten</li></ul>",
+   "Een magazijn met heftrucks, hoge stellingen of een vloer die met een machine gereinigd moet worden, valt buiten ons werk. Hetzelfde geldt voor werken op hoogte. Het gaat om licht onderhoud van een compacte inpakzone, naast het gewone werk op kantoor."]},
+  {"h2": "Piekperiodes: Black Friday, uitverkoop, nieuwe collectie", "p": [
+   "Neem een webshop in woonaccessoires met een team van drie. Buiten de pieken volstaat één blok van 3 uur per week. Zodra een actie loopt, draait het team langer door, wordt er vaker koffie gezet en staan er meer dozen in de weg. Dan boek je gewoon een extra blok bij, op dezelfde dag of een andere weekdag.",
+   "Na de piek komt het rustiger moment: dozen weg, vloeren helemaal opnieuw, koelkast leeg. Ook daarvoor plan je een extra blok, zodat je team niet zelf een week na de actie nog aan het opruimen is."]},
+  {"h2": "Pakjes klaarmaken en het kleine regelwerk", "p": [
+   "Je Zondag kan meer dan poetsen. Ze maakt pakjes en zendingen klaar die niet via de gewone flow lopen, bestelt kantoorbenodigdheden en verpakkingsmateriaal bij en houdt bij wat er bijna op is. Ze kan een leverancier contacteren voor een kleine zaak of een pakje ophalen. Dat is ondersteunend werk voor jou als zaakvoerder, geen boekhouding.",
+   "Meer over die kant van het werk lees je bij <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">rechterhand voor bedrijfsleiders</a>."]},
+  {"h2": "Prijs, factuur en btw", "p": [
+   "Je betaalt 60 euro per uur exclusief btw en boekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief. De factuur staat op naam van je vennootschap, met je btw-nummer.",
+   "Poetshulp voor de zaak is in principe een beroepskost en de btw is in principe recupereerbaar als je een btw-plichtige zaak met aftrekrecht hebt. Laat je accountant bevestigen hoe dat voor jouw situatie werkt."]},
+  {"h2": "Zo start je", "p": [
+   "Op de <a href=\"boeken.html\">boekpagina</a> kies je een weekdag, het aantal blokken en de taken, vul je het btw-nummer in en betaal je online. Een vast plan, bijvoorbeeld elke dinsdagochtend, bespreken we eerst in een kort gesprek."]}
  ],
  "faq": [
-  {"q": "Doet Zondags ook het magazijn van een webshop?", "a": "Licht onderhoud wel: looppaden en inpakzone vegen, afvalbakken leegmaken en kartonresten verzamelen. Industriële vloermachines, werken op hoogte en de stellingen en goederen zelf vallen erbuiten."},
-  {"q": "Kan een poetshulp de inpakruimte poetsen zonder pakjes te verplaatsen?", "a": "Ja. Je Zondag werkt rond de pakketten en goederen en verplaatst niets zonder jouw akkoord. Een afgebakende zone voor klaarstaande pakketten maakt het werk een stuk gemakkelijker."},
-  {"q": "Wanneer komt de poetshulp in een webshop met verzendmomenten?", "a": "Overdag op weekdagen, vroeg in de ochtend of over de middag, op een uur dat het rustig is aan de inpaktafels. Ook in de drukke weken voor de feestdagen werken we enkel overdag op weekdagen."},
-  {"q": "Hoe vaak moet het kantoor van een webshop gepoetst worden?", "a": "Dat hangt af van het aantal mensen en hoeveel karton er verwerkt wordt. Een kantoor met enkele mensen vraagt minder dan een inpakruimte met veel beweging. Je start met een vaste beurt en stuurt bij."},
-  {"q": "Kan mijn Zondag ook mijn woning doen als ik deels thuis werk?", "a": "Ja. Ook als je deels thuis werkt, kan dezelfde Zondag op een andere dag je woning doen. De factuur houdt het beroepsmatige en het privégedeelte uit elkaar."}
+  {"q": "Poetst Zondags ook het magazijn van mijn webshop?", "a": "Alleen het lichte onderhoud van een inpakruimte of kleine opslag: vegen, tafels afnemen, afval wegbrengen. Industriële vloermachines, heftruckzones en werken op hoogte doen we niet."},
+  {"q": "Kan mijn Zondag ook pakjes klaarmaken?", "a": "Ja, pakjes en zendingen klaarmaken hoort bij de administratieve hulp. Je legt samen vast welke zendingen dat zijn en wat de afspraken zijn over etiketten en leveranciers."},
+  {"q": "Wat kost poetshulp voor een webshop?", "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief."},
+  {"q": "Wordt er gepoetst terwijl mijn team pakjes verstuurt?", "a": "Dat bepaal je zelf. Vroeg in de ochtend of over de middag kan, op weekdagen. Zo zit je Zondag niemand in de weg tijdens het drukste verzendmoment."},
+  {"q": "Kan ik tijdelijk meer uren boeken in een drukke periode?", "a": "Ja. Je boekt een extra blok van 3 uur of enkele extra uren aan dezelfde prijs. Online boeken kan minstens twee werkdagen vooraf."}
  ]
 }

@@ -1,81 +1,36 @@
 {
- "sections": [
-  {
-   "h2": "Zo gebruik je deze checklist",
-   "p": [
-    "Neem de lijst mee naar de intake met je Zondag, of hang ze op in de keuken. Schrap wat niet past, voeg toe wat jij belangrijk vindt. Een checklist werkt pas als ze bij jouw kantoor past en je er eenmaal over gesproken hebt. Een kantoor met drie bureaus vraagt iets anders dan een kantoor met twee verdiepingen en een vergaderzaal."
-   ]
-  },
-  {
-   "h2": "Bureaus en vergaderruimte",
-   "p": [
-    "<ul class=\"ticks\"><li>Bureaublad afnemen, rond de papieren<li>Toetsenbord, muis en telefoon afnemen<li>Plinten en onderkant van de bureaus stofvrij<li>Prullenbakken legen<li>Vergadertafel en stoelen afnemen<li>Whiteboard en schermen met een droge doek<li>Glazen en kopjes terug naar de keuken</li></ul>",
-    "Spullen op het bureau blijven staan. Jij ruimt eventueel op voor de beurt, zodat er genoeg te poetsen valt."
-   ]
-  },
-  {
-   "h2": "Keuken en sanitair",
-   "p": [
-    "<ul class=\"ticks\"><li>Werkblad, spoelbak en kraan reinigen<li>Buitenkant van frigo, koffiemachine en magnetron<li>Tafels en stoelen van de refter<li>Toiletten, lavabo's, kranen en spiegels<li>Papier, zeep en handdoeken aanvullen<li>Vloeren dweilen</li></ul>",
-    "De binnenkant van de frigo staat maandelijks op de lijst, niet wekelijks. Meer over sanitair lees je op <a href=\"sectoren/sanitair-op-kantoor.html\">sanitair op kantoor</a>."
-   ]
-  },
-  {
-   "h2": "Onthaal, gangen en wat maandelijks komt",
-   "p": [
-    "<ul class=\"ticks\"><li>Balie en deurklinken afnemen<li>Mat en vloer van het onthaal<li>Gangen en trap stofzuigen<li>Glazen deuren langs binnen</li></ul>",
-    "Maandelijks komen ramen langs binnen, de binnenkant van de frigo, plinten en deurkaders, radiatoren en kasten van buiten aan bod. Wil je dat je Zondag dit doet, dan spreek je een moment af. Een uitgebreidere lijst staat in de gids <a href=\"gids/checklist-kantoorschoonmaak.html\">checklist kantoorschoonmaak</a>."
-   ]
-  },
-  {
-   "h2": "Wat jij zelf blijft doen",
-   "p": [
-    "<ul class=\"ticks\"><li>Bureau opruimen voor de beurt<li>Vertrouwelijke dossiers wegleggen<li>Persoonlijke spullen op de plank<li>Kapotte lampen of kranen melden</li></ul>",
-    "Technische klussen, ramen langs buiten op hoogte en gevelreiniging doen we niet. Ook een kleine afspraak helpt: zeg je Zondag wat er die week anders is, bijvoorbeeld een feestje of een nieuwe collega."
-   ]
-  },
-  {
-   "h2": "Hoe je Zondag start",
-   "p": [
-    "Bij de eerste beurt loop je samen met je Zondag door het kantoor, zodat je de lijst kan afgaan en meteen kan bijsturen. Na een paar weken weet je Zondag het ritme, en hoef je zelf niets meer uit te leggen. Wil je later iets toevoegen, zoals de ramen of een extra keer sanitair, dan pas je het plan gewoon aan.",
-    "Je vraagt een gesprek aan, we bellen binnen één werkdag terug, komen langs voor de intake en maken samen het zondagsplan. De beurt kan vroeg in de ochtend of over de middag. Je krijgt een dienstenfactuur op naam van je vennootschap. Een vennootschap kan geen dienstencheques kopen, en het onderhoud van je kantoor is een beroepskost. Laat je accountant bevestigen hoe dit voor jou werkt. De eerste 2 uur zijn gratis."
-   ]
-  }
- ],
- "faq": [
-  {
-   "q": "Wat hoort er in een wekelijkse poetsbeurt voor een kantoor?",
-   "a": "Bureaus afnemen, vloeren stofzuigen en dweilen, keuken en sanitair reinigen, onthaal en vergaderruimte verzorgen en afval klaarzetten. Ramen en de binnenkant van de frigo komen maandelijks aan bod."
-  },
-  {
-   "q": "Wie moet het bureau opruimen voor de poetsbeurt?",
-   "a": "Jij of je medewerkers. Je Zondag poetst rond papieren en persoonlijke spullen, maar kan alleen een bureau goed doen als het bureau vrij genoeg is."
-  },
-  {
-   "q": "Is een wekelijkse beurt nodig of volstaat om de twee weken?",
-   "a": "Voor een kantoor met bezoek of een team dat dagelijks aanwezig is, is wekelijks meestal logisch. Voor een rustig kantoor kan om de twee weken volstaan. Je bespreekt het bij de intake."
-  },
-  {
-   "q": "Worden vertrouwelijke dossiers aangeraakt?",
-   "a": "Nee, tenzij je dat afspreekt. Dossiers blijven liggen en je Zondag poetst eromheen. Wat je niet aangeraakt wilt zien, noteren we in het zondagsplan."
-  },
-  {
-   "q": "Kan de beurt buiten de kantooruren gebeuren?",
-   "a": "Vroeg in de ochtend of over de middag kan, op weekdagen. 's Avonds en in het weekend werken we niet."
-  }
- ],
  "path": "sectoren/checklist-wekelijkse-kantoorpoets.html",
- "title": "Checklist voor de wekelijkse poetsbeurt van je kantoor",
- "desc": "Een bruikbare checklist voor de wekelijkse poetsbeurt van je kantoor, per ruimte: bureaus, vergaderzaal, keuken, sanitair, vloeren, onthaal en afval.",
+ "title": "Checklist wekelijkse kantoorpoets per ruimte",
+ "desc": "Een bruikbare checklist voor de wekelijkse poetsbeurt van je kantoor, ruimte per ruimte, met wat je team zelf doet. Aan 60 euro per uur exclusief btw.",
  "eyebrow": "Checklist · Kantoor",
  "h1": "Checklist voor de wekelijkse poetsbeurt van je kantoor",
- "lead": "Wat hoort er in een wekelijkse poetsbeurt, en wat kan er wachten tot maandelijks? Deze lijst gaat ruimte per ruimte, zodat je weet wat je mag verwachten.",
- "answer": "Een wekelijkse poetsbeurt van een kantoor omvat bureaus afnemen, vloeren stofzuigen en dweilen, keuken en sanitair reinigen, het onthaal en de vergaderruimte verzorgen en het afval klaarzetten. Zondags (zondags.be) laat een vaste Zondag dit doen, op een vaste weekdag. Hieronder staat de checklist per ruimte, met wat wekelijks, maandelijks en door jezelf gebeurt.",
- "facts": [
-  "Per ruimte uitgewerkt",
-  "Wekelijks en maandelijks onderscheiden",
-  "Wat jij zelf blijft doen",
-  "Overdag op weekdagen",
-  "Eerste 2 uur gratis"
+ "lead": "Een wekelijkse poetsbeurt werkt pas goed als iedereen weet wat eronder valt. Hier vind je de lijst per ruimte, plus wat je team zelf tussendoor oppakt.",
+ "answer": "Een wekelijkse kantoorpoets omvat bureaus afnemen, vloeren stofzuigen en dweilen, sanitair reinigen, keuken en refter onderhouden, onthaal en vergaderzaal verzorgen en het afval buiten zetten. Zondags (zondags.be) laat dit doen door één vaste persoon, je Zondag, op een vaste weekdag en een vast uur. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een factuur op naam van je bedrijf.",
+ "facts": ["Lijst per ruimte, direct bruikbaar", "Steeds dezelfde Zondag", "Vaste weekdag en vast uur", "60 euro per uur, per blok van 3 uur", "Factuur op naam van je bedrijf", "Online boeken en betalen"],
+ "sections": [
+  {"h2": "Zo gebruik je deze lijst", "p": [
+   "Print de lijst, hang ze in de keuken of stuur ze door naar de persoon die je kantoor onderhoudt. Het doel is geen perfect ritueel, wel een gedeeld beeld: wat gebeurt er elke week, wat om de zoveel weken, en wat blijft bij het team. Schrap wat in jouw kantoor niet bestaat en vul aan wat er wel is, bijvoorbeeld een serverruimte die je liever niet laat aanraken."]},
+  {"h2": "Werkplekken en bureaus", "p": [
+   "<ul class=\"ticks\"><li>Bureaubladen vrij van stof en vlekken, schermen en toetsenborden oppervlakkig afgenomen</li><li>Telefoons en deurklinken even gedesinfecteerd waar dat gevraagd wordt</li><li>Papieren bakken en kleine prullenmanden geleegd</li><li>Stoelen en kasten op de rand afgenomen</li></ul>",
+   "Spullen die op een bureau liggen, verplaatst een Zondag niet. Wil je dat een bureau helemaal vrij is, dan zet je het de avond voordien leeg."]},
+  {"h2": "Onthaal, gangen en vergaderzaal", "p": [
+   "<ul class=\"ticks\"><li>Balie of onthaaltafel afgenomen, folders netjes gelegd</li><li>Zitjes aan de ingang afgeborsteld of afgenomen</li><li>Glazen deuren en wanden langs binnen vingervrij</li><li>Vergadertafel schoon, stoelen recht, afval weg</li></ul>",
+   "Het onthaal is de plek waar een bezoeker zijn eerste indruk krijgt. Zet het dus bovenaan je lijst, ook als de rest van het kantoor wat soberder wordt onderhouden."]},
+  {"h2": "Keuken, refter en sanitair", "p": [
+   "<ul class=\"ticks\"><li>Aanrecht, kranen en tafels gepoetst</li><li>Koffiemachine uitwendig schoon, bonenbak of waterreservoir aangevuld</li><li>Vaatwasser leeggemaakt of de afwas weggezet</li><li>Toiletten, lavabo's en spiegels gereinigd, zeep en papier aangevuld</li></ul>",
+   "Meer detail vind je in de aparte lijsten voor <a href=\"sectoren/checklist-refter-en-keuken-op-kantoor.html\">refter en keuken</a> en voor <a href=\"sectoren/checklist-sanitair-op-kantoor-wekelijks.html\">het sanitair</a>."]},
+  {"h2": "Vloeren en afval", "p": [
+   "<ul class=\"ticks\"><li>Vloeren gestofzuigd of geveegd, daarna gedweild waar dat kan</li><li>Hoeken, plinten en onder de bureaus niet vergeten</li><li>Ingangsmat uitgeklopt of gereinigd</li><li>Restafval, papier en glas gescheiden en buiten gezet op de dag van de ophaling</li></ul>"]},
+  {"h2": "Wat je team zelf blijft doen", "p": [
+   "Een wekelijkse beurt vervangt de kleine gewoontes niet. Je collega's ruimen hun eigen kop op, zetten de vaat in de machine en laten hun bureau achter zoals ze het zelf graag terugvinden. Dat houdt de beurt kort en betaalbaar, want hoe minder je Zondag moet opruimen, hoe meer tijd er overblijft voor echt poetsen."]},
+  {"h2": "Hoe lang duurt een beurt en wat kost ze", "p": [
+   "Dat hangt af van het aantal werkplekken en ruimtes. Voor een klein kantoor volstaat vaak één blok, een groter kantoor boekt een extra uur of een tweede blok. Je betaalt 60 euro per uur exclusief btw en boekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Op de <a href=\"boeken.html\">boekpagina</a> kies je dag, blokken en taken en betaal je online. Het onderhoud van je kantoor is in principe een beroepskost, maar laat je accountant dit bevestigen voor jouw situatie."]}
+ ],
+ "faq": [
+  {"q": "Wat hoort er bij een wekelijkse kantoorpoets?", "a": "Bureaus, onthaal, vergaderzaal, keuken, sanitair, vloeren en afval. Ramen langs binnen kunnen er ook bij. Gevelreiniging en werken op hoogte horen er niet bij."},
+  {"q": "Hoe vaak moet een kantoor gepoetst worden?", "a": "Voor de meeste kantoren is wekelijks een goed vertrekpunt. Is er veel bezoek of een druk team, dan kan een tweede beurt in de week zinvol zijn, vooral voor sanitair en keuken."},
+  {"q": "Kan de poetsbeurt tijdens de kantooruren?", "a": "Dat kan, maar vroeg in de ochtend of over de middag werkt vaak rustiger. Zondags werkt overdag op weekdagen en nooit 's avonds of in het weekend."},
+  {"q": "Krijg ik elke week dezelfde persoon?", "a": "Ja. Bij een vast terugkerend plan komt steeds dezelfde Zondag op dezelfde dag en hetzelfde uur, zodat die je kantoor en je afspraken leert kennen."},
+  {"q": "Wat kost een wekelijkse poetsbeurt voor een kantoor?", "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief."}
  ]
 }

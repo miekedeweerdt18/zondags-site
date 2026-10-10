@@ -1,35 +1,85 @@
 {
  "path": "poetshulp/zulte.html",
- "title": "Poetshulp voor bedrijven in Zulte (Oost-Vlaanderen, 9870)",
- "desc": "Poetshulp voor zaken in de kern van Zulte, Machelen en Olsene, in Oost-Vlaanderen. Gepoetst voor je eerste afspraak, ook voor wie thuis werkt, op één factuur.",
+ "title": "Poetshulp voor winkels en zaken in Zulte (9870)",
+ "desc": "Poetshulp voor winkels, kantoren en studiebureaus in de dorpskern van Zulte, Machelen en Olsene: poetsen voor de deur opengaat. 60 euro per uur excl. btw.",
  "eyebrow": "Zulte · 9870",
  "h1": "Poetshulp voor bedrijven in Zulte",
- "lead": "Een zaak of thuiskantoor in Zulte dat klaarligt voor de bel gaat. Je vaste Zondag poetst voor je eerste klant en neemt, als je dat wilt, ook je woning mee.",
- "answer": "In Zulte (9870), in Oost-Vlaanderen, levert Zondags (zondags.be) poetshulp aan winkels, kantoren en thuiskantoren, zoals dat van een architect die thuis werkt. Eén vaste persoon, je Zondag, poetst vroeg in de ochtend, voor je eerste klant of afspraak. Je vennootschap ontvangt daarvoor één dienstenfactuur. Zondags bedient zowel West- als Oost-Vlaanderen.",
- "facts": ["Zulte, Machelen en Olsene, in Oost-Vlaanderen", "Poetsen voor de eerste klant binnenstapt", "Winkels, kantoren en thuiskantoren", "Eén vaste Zondag op een vast uur", "Eerste 2 uur gratis"],
+ "lead": "Een winkel in een dorpskern wordt dagelijks bekeken door mensen die even binnenwippen. In Zulte komt je vaste Zondag voor de deur opengaat, zodat de zaak er klaarligt.",
+ "answer": "Zondags (zondags.be) levert poetshulp aan winkels, kantoren en studiebureaus in Zulte (9870), Machelen en Olsene. Je Zondag komt voor de opening, op een vaste weekdag en een vast uur, en laat winkel, kantoor of vergaderzaal klaar achter. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je bedrijf.",
+ "facts": [
+  "Winkels en zaken in de dorpskern",
+  "Poetsen voor de deur opengaat",
+  "Zulte, Machelen en Olsene, 9870",
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Factuur op naam van je bedrijf"
+ ],
  "sections": [
-  {"h2": "Zulte ligt in Oost-Vlaanderen, onze dienst ook", "p": [
-   "Zondags zit in Marke bij Kortrijk en werkt in West- en Oost-Vlaanderen. Dat maakt Zulte (postcode 9870) tot een gewoon werkgebied. De gemeente omvat de deelgemeenten Machelen en Olsene en ligt in de Leiestreek, met Waregem, Deinze, Kruisem, Dentergem en Wielsbeke als buren. Voor jouw zaak gaan we na welke Zondag in de buurt woont. Een overzicht vind je op <a href=\"poetshulp/oost-vlaanderen.html\">poetshulp in Oost-Vlaanderen</a>."]},
-  {"h2": "Een architect die thuis werkt", "p": [
-   "Stel: je werkt als architect vanuit je woning in Zulte. Bouwheren komen op afspraak langs, de tekentafel staat in de kamer naast de keuken en het toilet is voor iedereen hetzelfde toilet. Een stoffige inkom of een koffietafel vol kringen maakt een slechte eerste indruk, ook al is het jouw huis.",
-   "Je Zondag poetst je werkkamer, de inkom, het toilet en de keuken op een vast uur, voor de eerste afspraak van de dag. Wat op je tafel ligt, blijft liggen; plannen en stalen raakt je Zondag niet aan als jij dat zo aangeeft. De rest van de woning kan mee. Meer lees je bij <a href=\"beroepen/architect.html\">huishoudelijke hulp voor architecten</a>."]},
-  {"h2": "Winkels en zaken in de kern: eerst poetsen, dan open", "p": [
-   "Een zaak in het centrum wordt beoordeeld aan de voordeur. Dan telt wat je Zondag voor jou heeft klaargezet.",
-   "<ul class=\"ticks\"><li>Voordeur, inkom en deurklinken</li><li>Toonbank, balie of bureau</li><li>Vloeren en ingangsmat</li><li>Toilet voor klanten</li><li>Koffiehoek en afval</li></ul>"]},
-  {"h2": "Wat je zelf houdt", "p": [
-   "Kassa, voorraad, stalen, dossiers en alles wat vertrouwelijk is, blijft van jou. Je geeft tijdens de intake aan wat niet aangeraakt wordt. Ramen buiten en gevelreiniging horen niet bij ons werk."]},
-  {"h2": "Facturatie als zaakvoerder met thuiskantoor", "p": [
-   "De factuur voor je thuiskantoor is een gewone dienstenfactuur aan je vennootschap; een vennootschap kan geen dienstencheques gebruiken. Het kantoor is een beroepskost, het privégedeelte staat apart. Werk je als eenmanszaak in plaats van met een vennootschap? Lees dan <a href=\"vragen/poetshulp-eenmanszaak.html\">poetshulp voor een eenmanszaak</a>. In alle gevallen bevestigt je accountant hoe jouw situatie in elkaar zit."]},
-  {"h2": "Eerste contact en intake", "p": [
-   "Neem contact op via het formulier of de chat. Iemand van Zondags belt je binnen één werkdag terug, waarna een intake volgt bij jou thuis of in je zaak. Daar leggen we dag, uur en taken vast, en je start met 2 gratis uren.",
-   "Je Zondag werkt in dienst van Zondags en is gescreend: een student vanaf 18 jaar, een flexi-jobber of iemand met een vast contract. Het blijft steeds dezelfde persoon."]}
+  {
+   "h2": "Een dorpskern vergeeft weinig",
+   "p": [
+    "In een dorpskern kent iedereen de zaken. Een etalage met stof, een deurmat vol zand of een toonbank met vingerafdrukken blijft hangen in de ogen van klanten die hier wekelijks komen. Tegelijk is een winkelier meestal zelf het enige personeel, of staat er één medewerker bij.",
+    "Poetsen voor opening is dan de eerlijkste oplossing. Wie om zeven uur zelf de vloer neemt, is om negen uur al moe. Een Zondag die op een vast uur komt, geeft je die tijd terug."
+   ]
+  },
+  {
+   "h2": "Wat je Zondag voor opening doet",
+   "p": [
+    "<ul class=\"ticks\"><li>Winkelvloer, paskamer of toonbank</li><li>Binnenkant van de etalage en glazen deuren</li><li>Onthaal of kassa</li><li>Keuken of personeelshoek</li><li>Sanitair voor personeel en bezoekers</li><li>Afval en karton klaarzetten</li></ul>",
+    "De buitenkant van de etalage op hoogte en gevelwerk vallen buiten het aanbod. Het gaat om wat binnen gebeurt en wat klanten van dichtbij zien."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een architectenbureau met een vergaderzaal",
+   "p": [
+    "Neem een architectenbureau in Zulte met vier tekentafels, een vergaderzaal voor klantgesprekken en een kleine keuken. Op maandag staan er twee afspraken met bouwheren. De tafel in de vergaderzaal ligt vol met stalen en plannen.",
+    "Je Zondag komt om half acht, neemt de vloeren, wrijft de glazen tafel van de vergaderzaal af, maakt de keuken en het sanitair in orde en zet de koffiehoek klaar. Plannen en maquettes blijven liggen waar ze liggen: afspraken over wat je Zondag niet aanraakt leggen we vooraf vast."
+   ]
+  },
+  {
+   "h2": "Meer dan poetsen: het regelwerk van de zaak",
+   "p": [
+    "Na het poetsen kan er een uur overblijven. Daar passen kleine praktische klussen in: pakjes klaarmaken voor verzending, kantoormateriaal bijbestellen, de post sorteren, de koffiehoek aanvullen of een afspraak in je agenda zetten. Boekhouding en fiscaal advies blijven bij je boekhouder. Lees meer bij <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">een rechterhand voor bedrijfsleiders</a>."
+   ]
+  },
+  {
+   "h2": "Machelen, Olsene en de gemeenten errond",
+   "p": [
+    "Zulte heeft twee deelgemeenten, Machelen en Olsene. Ook daar zoeken we je een Zondag die dichtbij woont. Zit je zaak in Waregem, Deinze, Kruisem, Dentergem of Wielsbeke, dan helpen we je net zo goed."
+   ]
+  },
+  {
+   "h2": "Prijs en boeken",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw en boekt per blok van 3 uur, dus 180 euro exclusief btw. Extra uren kosten hetzelfde per uur. Je krijgt een dienstenfactuur op naam van je bedrijf. Dat is in principe een beroepskost, en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant bevestigen hoe dat voor jou ligt.",
+    "Je plant het op de <a href=\"boeken.html\">boekpagina</a>, minstens twee werkdagen vooraf. Voor een vast weekplan bel je ons of laat je een terugbelverzoek achter."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf levert poetshulp voor een thuiskantoor of winkel in Zulte?", "a": "Zondags (zondags.be). Je Zondag komt vroeg in de ochtend naar je thuiskantoor of winkel in Zulte, Machelen of Olsene en is steeds dezelfde persoon, gescreend en in dienst van Zondags."},
-  {"q": "Werkt Zondags ook in Oost-Vlaanderen?", "a": "Ja. Marke ligt in West-Vlaanderen, maar Zondags werkt in West- en Oost-Vlaanderen. Zulte, Machelen en Olsene vallen daar dus onder, en voor jouw zaak zoeken we een Zondag die in de buurt woont."},
-  {"q": "Kan de Zondag poetsen voor mijn eerste klant langskomt?", "a": "Ja. Vroeg in de ochtend kan, op weekdagen. Avonden en weekends zijn uitgesloten. Het uur leggen we samen vast tijdens de intake."},
-  {"q": "Wat gebeurt er met de tekeningen en dossiers op mijn bureau?", "a": "Wat jij wilt laten liggen, blijft liggen. Je geeft tijdens de intake aan welke tafels, kasten en documenten niet aangeraakt worden, en dat komt in je zondagsplan."},
-  {"q": "Kunnen kantoor en woning in één plan als ik thuis werk?", "a": "Ja. Je Zondag onderhoudt je thuiskantoor en op vraag de rest van de woning, in één zondagsplan. Het privégedeelte komt apart op de factuur te staan."},
-  {"q": "Is een Zondag ook geschikt voor een winkel in het centrum van Zulte?", "a": "Ja. Voor winkels en zaken in de kern gaat het om voordeur, toonbank, vloeren, toilet en koffiehoek. Je Zondag werkt vroeg in de ochtend, zodat alles klaar is wanneer jij de deur opendoet."}
+  {
+   "q": "Welk bedrijf biedt poetshulp voor winkels in Zulte?",
+   "a": "Zondags uit Marke levert poetshulp aan winkels en andere bedrijven in Zulte, Machelen en Olsene, met één vaste persoon en een factuur op naam van je bedrijf."
+  },
+  {
+   "q": "Kan mijn winkel gepoetst worden voor de opening?",
+   "a": "Ja. Vroeg in de ochtend kan, evenals over de middag. We werken enkel overdag op weekdagen, nooit 's avonds of in het weekend."
+  },
+  {
+   "q": "Wat kost poetshulp in Zulte?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok, met extra uren aan hetzelfde tarief."
+  },
+  {
+   "q": "Worden ook etalages gepoetst?",
+   "a": "Je Zondag maakt de binnenkant van de etalage en de glazen deuren schoon. Ramen buiten op hoogte en gevelwerk doen we niet."
+  },
+  {
+   "q": "Hoe regel ik de toegang voor mijn Zondag?",
+   "a": "Je Zondag is een gescreende medewerker in dienst van Zondags. Hoe je sleutel of toegangscode wordt doorgegeven, spreken we vooraf met je af, in het gesprek voor de start."
+  },
+  {
+   "q": "Kan mijn Zondag ook pakjes klaarmaken?",
+   "a": "Ja, pakjes en zendingen klaarmaken hoort bij de administratieve hulp. Je kiest bij het boeken welke taken je Zondag in het blok doet."
+  }
  ]
 }

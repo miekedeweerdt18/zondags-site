@@ -1,35 +1,37 @@
 {
  "path": "vragen/poetshulp-als-kantoor-gesloten-is.html",
  "title": "Poetshulp als je kantoor gesloten is",
- "desc": "Wat doe je met je vaste poetshulp tijdens vakantie, een brugdag of een verbouwing? Overleg, verplaatsen, uren aanpassen en wat je met Zondags afspreekt.",
+ "desc": "Wat doe je met poetshulp als je kantoor of zaak tijdelijk gesloten is? Opties bij bedrijfsverlof: laten komen, verplaatsen of een blok laten vallen.",
  "eyebrow": "Vraag",
  "h1": "Wat doe je met poetshulp als je kantoor gesloten is?",
- "lead": "Je kantoor sluit voor een verlofperiode, een verbouwing of een brugdag. Wat doe je met je vaste poetshulp? Meestal is het eenvoudiger dan je denkt, als je het vooraf bespreekt.",
- "answer": "Bespreek een sluiting vooraf met je poetshulp. Bij Zondags (zondags.be) kunnen jullie de beurt verplaatsen, een of meer bezoeken overslaan, het plan tijdelijk aanpassen of net een grondige beurt inplannen terwijl het kantoor leeg is. Je Zondag werkt overdag op weekdagen. Hoe je het regelt en wat dat betekent voor de factuur, bespreek je met ons, de factuur volgt het plan.",
- "facts": ["Vooraf bespreken is de sleutel", "Verplaatsen of overslaan kan", "Leeg kantoor: grondige beurt mogelijk", "Plan tijdelijk aanpassen", "Maandelijks opzegbaar"],
+ "lead": "Een zaak die een week of langer dicht is, hoeft de poetshulp niet automatisch te schrappen. Je hebt drie opties, afhankelijk van wat je met die tijd wil doen.",
+ "answer": "Is je kantoor of praktijk tijdelijk gesloten, dan kan je de poetsbeurt laten doorgaan in de lege ruimte, verplaatsen naar de dag dat je terug opent, of een blok laten vallen. Bij Zondags (zondags.be) pas je dat aan via de boekpagina, de chat of 0470 56 53 58. Een blok van 3 uur kost 180 euro exclusief btw, aan 60 euro per uur exclusief btw. Vraag vooraf tot wanneer je een geplande beurt nog kan aanpassen.",
+ "facts": ["Laten doorgaan in de lege ruimte", "Verplaatsen naar de heropening", "Een blok laten vallen kan", "Toegang blijft vooraf af te spreken", "60 euro per uur, per blok van 3 uur"],
  "sections": [
-  {"h2": "De drie keuzes bij een sluiting", "p": [
-   "Wanneer je kantoor een tijd dicht is, heb je in grote lijnen drie keuzes: de beurt overslaan, verplaatsen naar een andere dag of de gelegenheid gebruiken voor iets wat anders niet past.",
-   "<ul class=\"ticks\"><li>Overslaan als er niemand komt en niets vuil wordt</li><li>Verplaatsen naar de dag voor of na de sluiting</li><li>Een grondige beurt inplannen, nu het kantoor leeg is</li></ul>"]},
-  {"h2": "Voorbeeld: een verlofperiode van twee weken", "p": [
-   "Stel: je kantoor gaat twee weken dicht voor de zomer. Je Zondag komt gewoonlijk op maandag. Je kan de beurt in die periode overslaan, maar slim is vaak om op de laatste werkdag voor het verlof een beurt te laten doen, zodat het kantoor schoon is bij het sluiten, en op de eerste dag na het verlof een lichte beurt, voor het team terug is.",
-   "Wil je het kantoor leeg laten staan zonder dat er stof of afval blijft liggen, vraag dat je Zondag de keuken en de frigo leegmaakt, afval meeneemt en alles afneemt voor je vertrekt."]},
-  {"h2": "Een leeg kantoor is ook een kans", "p": [
-   "Een kantoor dat dicht is, is het ideale moment voor wat niet kan als er mensen zijn: een grote poetsbeurt, de vloeren grondig, plinten en kasten, de keuken van boven tot onder. Zondags doet dat als losse opdracht of binnen je plan. Het gebeurt overdag op weekdagen.",
-   "Werken op hoogte, gevelreiniging en bouwopkuis na een verbouwing vallen buiten wat Zondags doet. Bij een verbouwing komt Zondags pas na de werken voor het gewone onderhoud."]},
-  {"h2": "Je sleutel, je afspraken en je privacy", "p": [
-   "Hoe je Zondag in je kantoor komt tijdens een sluiting en wat ze mag of niet mag aanraken, bespreken jullie samen in de intake en leggen jullie vast in het zondagsplan. Dat geldt ook voor documenten die op een bureau liggen. Een bureau dat opgeruimd is, is ook voor je Zondag het eenvoudigst."]},
-  {"h2": "Factuur en plan bijsturen", "p": [
-   "Een vennootschap kan geen dienstencheques kopen. Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap, volgens het plan dat je hebt afgesproken. Het onderhoud van je kantoor is een beroepskost. Wat een overgeslagen of verplaatste beurt betekent voor je factuur, bespreek je vooraf met ons. Laat je accountant bevestigen hoe het voor jou werkt."]},
-  {"h2": "Hoe je het regelt", "p": [
-   "Geef de sluiting zo vroeg mogelijk door, via de chat, WhatsApp op 0470 56 53 58 of een telefoontje. We zijn bereikbaar elke dag van 6 tot 22 uur. Het plan is maandelijks opzegbaar en je kan uren bijboeken of afbouwen. Zie ook <a href=\"vragen/vaste-poetshulp-of-losse-opdracht.html\">vaste poetshulp of losse opdracht</a>."]}
+  {"h2": "Eerst bepalen wat je met de sluiting wil", "p": [
+   "Een zaak sluit om verschillende redenen: bedrijfsverlof, een inventaris, een verbouwing of een tijdelijke stop. Elk geval vraagt een andere keuze. Een gesloten zaak is ook een rustig moment, want niemand loopt in de weg en elke ruimte is bereikbaar.",
+   "Daarom is het de moeite om even stil te staan bij de vraag wat je wil: een verzorgde zaak bij heropening, een kleinere kost tijdens de sluiting, of een beurt die telkens vervalt."]},
+  {"h2": "Drie opties bij een gesloten zaak", "p": [
+   "<ul class=\"ticks\"><li>Laten doorgaan: je Zondag poetst de lege ruimte grondig, ideaal vlak voor je heropent</li><li>Verplaatsen: je schuift de beurt naar de eerste dag na de sluiting</li><li>Laten vallen: je boekt die week geen blok en pakt de draad weer op daarna</li></ul>",
+   "Meestal is een combinatie het handigst. Een beurt in de laatste dag voor de heropening zorgt dat het team in een frisse ruimte terugkeert."]},
+  {"h2": "Een voorbeeld: een kinepraktijk met bedrijfsverlof", "p": [
+   "Stel: je hebt een kinepraktijk die twee weken dichtgaat. Je Zondag komt gewoonlijk op dinsdag. Tijdens de eerste week laat je de beurt vallen. Op de maandag voor de heropening boek je een extra blok van 3 uur: wachtzaal, behandelkamers, sanitair en vloeren zijn dan klaar als de eerste patiënten binnenkomen.",
+   "Zo betaal je niet voor een lege beurt, maar wel voor de beurt die telt."]},
+  {"h2": "Toegang tijdens een sluiting", "p": [
+   "Is niemand van je team aanwezig, dan moet de toegang vooraf geregeld zijn. Je Zondag heeft normaal sleutel, badge of alarmcode al, maar controleer of die ook tijdens de sluiting werken. Lees hoe je dat aanpakt bij <a href=\"vragen/sleutel-en-alarm-poetshulp-kantoor.html\">sleutel en alarm bij poetshulp</a>.",
+   "Spreek ook af wie de zaak controleert na de beurt en wie bereikbaar is als er iets onverwachts opduikt."]},
+  {"h2": "Wijzigingen tijdig doorgeven", "p": [
+   "Hoe vroeger je een sluiting meldt, hoe makkelijker het verplaatsen of schrappen van een beurt verloopt. Vraag bij je aanbieder tot wanneer je kan wijzigen zonder gevolgen en leg dat vast, zeker bij een vast plan.",
+   "Over de bredere kwestie van minder uren lees je meer bij <a href=\"vragen/uren-bijboeken-of-afbouwen-poetshulp.html\">uren bijboeken of afbouwen</a>."]},
+  {"h2": "Prijs en hoe je het regelt", "p": [
+   "Je betaalt 60 euro per uur exclusief btw voor de blokken die je effectief laat uitvoeren. Een blok van 3 uur is 180 euro exclusief btw en je krijgt een dienstenfactuur op naam van je bedrijf. Pas je planning aan via de <a href=\"boeken.html\">boekpagina</a> of bel naar 0470 56 53 58, elke dag van 6 tot 22 uur."]}
  ],
  "faq": [
-  {"q": "Moet mijn poetshulp komen als mijn kantoor gesloten is?", "a": "Dat hangt van je afspraak. Je kan de beurt overslaan, verplaatsen of net een grondige beurt inplannen. Bespreek het vooraf met Zondags, dan leggen we het samen vast."},
-  {"q": "Kan de poetsbeurt verplaatst worden naar een andere dag?", "a": "Meestal wel, op weekdagen overdag. We bekijken samen een dag die past voor jou en je Zondag. 's Avonds en in het weekend werken we niet."},
-  {"q": "Wat gebeurt er met de factuur als ik een beurt oversla?", "a": "Dat bespreek je vooraf met ons. De factuur volgt het zondagsplan dat jullie hebben afgesproken. Laat je accountant bevestigen hoe je het verwerkt."},
-  {"q": "Is een leeg kantoor een goed moment voor een grote beurt?", "a": "Ja. Zonder mensen kan je Zondag de vloeren, plinten, kasten en keuken grondiger doen. Dat kan als losse opdracht of binnen je zondagsplan."},
-  {"q": "Doet Zondags ook een opkuis na een verbouwing?", "a": "Nee. Bouwopkuis na werken valt buiten wat Zondags doet. Na de werken kan je Zondag wel het gewone onderhoud overnemen."},
-  {"q": "Hoe geef ik een sluiting door?", "a": "Zo vroeg mogelijk, via de chat op de site, WhatsApp of telefoon op 0470 56 53 58. We zijn bereikbaar elke dag van 6 tot 22 uur en passen het plan samen met jou aan."}
+  {"q": "Kan de poetshulp komen als mijn kantoor gesloten is?", "a": "Ja, als de toegang geregeld is. Je Zondag poetst dan in de lege ruimte, wat vaak een grondige beurt oplevert vlak voor je heropent."},
+  {"q": "Moet ik betalen voor een beurt die niet doorgaat?", "a": "Dat hangt af van wanneer je wijzigt. Vraag bij Zondags tot wanneer je een geplande beurt kan aanpassen of laten vallen, en meld een sluiting zo vroeg mogelijk."},
+  {"q": "Kan ik de beurt verplaatsen naar de dag van heropening?", "a": "Meestal wel, op een weekdag. Geef de nieuwe dag zo snel mogelijk door via de boekpagina, de chat of 0470 56 53 58."},
+  {"q": "Wie heeft toegang tot mijn zaak tijdens de sluiting?", "a": "Enkel de afgesproken Zondag, met sleutel, badge of code zoals vooraf geregeld. Spreek ook af wie jij als aanspreekpunt aanduidt."},
+  {"q": "Wat kost een extra beurt voor de heropening?", "a": "Een blok van 3 uur kost 180 euro exclusief btw, dus 60 euro per uur. Extra uren boek je aan hetzelfde tarief."},
+  {"q": "Werkt de poetshulp ook tijdens vakanties van de zaak?", "a": "Ja, op weekdagen overdag, als dat afgesproken is. Verlof van je Zondag zelf is een ander verhaal: dan zoeken we samen een oplossing."}
  ]
 }

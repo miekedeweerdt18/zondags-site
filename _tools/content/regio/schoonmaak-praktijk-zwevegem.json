@@ -1,90 +1,36 @@
 {
  "path": "regio/schoonmaak-praktijk-zwevegem.html",
- "title": "Schoonmaakhulp voor praktijken in Zwevegem",
- "desc": "Schoonmaakhulp voor praktijken en kleine kantoren in Zwevegem: wachtzaal, consultatie, sanitair, keuken. Vaste persoon, overdag, factuur op je vennootschap.",
+ "title": "Schoonmaakhulp voor praktijken in Zwevegem (8550)",
+ "desc": "Onderhoud van je praktijk, meetruimte of klein kantoor in Zwevegem door één vaste Zondag. Online boeken aan 60 euro per uur exclusief btw, per blok van 3 uur.",
  "eyebrow": "Zwevegem · 8550",
  "h1": "Schoonmaakhulp voor praktijken in Zwevegem",
- "lead": "Een praktijk in Zwevegem staat of valt met een verzorgde eerste indruk. Een vaste Zondag houdt wachtzaal, behandelruimtes en keuken op orde zonder dat jij erbij hoeft te zijn.",
- "answer": "Zondags (zondags.be) levert in Zwevegem schoonmaakhulp voor praktijken van vrije beroepen en zorgverleners: wachtzaal, onthaal, consultatie- en behandelruimtes en sanitair, door dezelfde vaste persoon, overdag op weekdagen. Ook kleine kantoren met een team van een handvol tot vijftien mensen kunnen terecht. Sterilisatie en medisch materiaal doet Zondags niet. Je krijgt een factuur op naam van je vennootschap.",
- "facts": [
-  "Wachtzaal en consultatieruimtes",
-  "Ook kleine kantoren tot vijftien mensen",
-  "Geen sterilisatie of medisch materiaal",
-  "Dezelfde vaste Zondag",
-  "Factuur aan je vennootschap"
- ],
+ "lead": "Of je nu een opticien bent of een kleine praktijk runt: in Zwevegem krijg je één vaste Zondag die bureaus, onthaal, refter en sanitair netjes houdt.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken en kleine kantoren in Zwevegem en de deelgemeenten Heestert, Moen, Otegem en Sint-Denijs. Eén vaste persoon, je Zondag, onderhoudt onthaal, behandel- of meetruimte, bureaus, keuken en sanitair. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je bedrijf.",
+ "facts": ["Praktijken en kleine kantoren", "Heestert, Moen, Otegem en Sint-Denijs", "Steeds dezelfde Zondag", "Bureaus, refter en sanitair", "60 euro per uur, per blok van 3 uur", "Online boeken en betalen"],
  "sections": [
-  {
-   "h2": "Een verzorgde ruimte begint bij de wachtzaal",
-   "p": [
-    "Wie een praktijk binnenstapt, beoordeelt binnen enkele seconden of het er netjes uitziet. De zitjes, de balie, de tijdschriften en de ingangsmat vertellen iets over de zorg die erachter zit. Een vaste Zondag houdt dat bij op een vast moment van de week.",
-    "Dat geldt voor een tandartspraktijk even goed als voor een kinesist, een dierenarts of een notaris met een kleine wachtkamer."
-   ]
-  },
-  {
-   "h2": "Voorbeeld: een opticien in een winkelstraat",
-   "p": [
-    "Neem een opticien in Zwevegem met een kleine winkelruimte, een onderzoekskamer en een keuken achteraan. De klanten zitten tijdens de metingen en kijken rond. Voor de opening komt je Zondag om de winkelvloer en de onderzoekskamer te doen, het sanitair en de keuken van het team.",
-    "Zo hoeft niemand van het team na sluitingstijd nog de stofzuiger vast te nemen."
-   ]
-  },
-  {
-   "h2": "Een praktijk of een klein kantoor",
-   "p": [
-    "Heb je geen patiënten maar een team van een handvol tot vijftien mensen, dan geldt hetzelfde principe. Bureaus, keuken of refter en sanitair zijn de drie plekken waar het snel mis loopt. Een lijstje op maat voorkomt discussies.",
-    "<ul class=\"ticks\"><li>Bureaus en vergadertafel afnemen</li><li>Keuken of refter schoonmaken</li><li>Sanitair en spiegels</li><li>Vloeren en afval</li></ul>"
-   ]
-  },
-  {
-   "h2": "Wat blijft bij jou",
-   "p": [
-    "Sterilisatie, het reinigen van medisch materiaal en vaak ook de dagelijkse hygiëne tussen patiënten blijven bij jou of je team. Je Zondag werkt volgens het zondagsplan: welke ruimtes, welke dag, wat er gebruikt wordt en wat blijft staan.",
-    "Overleg met je Zondag welke producten in je praktijk gebruikt mogen worden, en hou dat in het plan bij."
-   ]
-  },
-  {
-   "h2": "Zwevegem, Heestert, Moen, Otegem en Sint-Denijs",
-   "p": [
-    "Zwevegem heeft postcode 8550. Heestert, Moen, Otegem en Sint-Denijs horen bij Zwevegem, in de regio Kortrijk. Ook in Kortrijk, Harelbeke, Deerlijk, Avelgem, Spiere-Helkijn en Anzegem zoeken we een Zondag in de buurt."
-   ]
-  },
-  {
-   "h2": "Factuur op je vennootschap",
-   "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van beroepsruimtes is een beroepskost. Btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Laat je accountant dit bevestigen. Lees ook <a href=\"poetshulp/kortrijk.html\">poetshulp in Kortrijk</a>."
-   ]
-  },
-  {
-   "h2": "Starten",
-   "p": [
-    "Je vraagt aan via het formulier of de chat. Binnen één werkdag belt iemand terug, daarna komt de intake en leggen we het zondagsplan vast. De eerste 2 uur zijn gratis."
-   ]
-  }
+  {"h2": "Voorbeeld: een opticien in een winkelstraat", "p": [
+   "Stel: je hebt een opticien in een winkelstraat in Zwevegem. Achteraan is er een meetruimte met een stoel en apparatuur, vooraan een toonzaal met brillenrekken en een balie. Vingerafdrukken op glazen toonbanken en vlekken op de vloer zie je meteen, en klanten zien ze ook.",
+   "Een Zondag komt voor opening of tijdens de middag, neemt de glazen oppervlakken en vloeren onder handen, houdt de meetruimte en het sanitair op orde en laat de balie klaar voor de eerste klant."]},
+  {"h2": "Kleine teams, groot verschil", "p": [
+   "Veel praktijken en kantoren in Zwevegem tellen een handvol tot vijftien mensen. In zo'n team is er geen dienst die het poetsen naar zich toe trekt, dus gebeurt het op goed geluk of door wie het eerst zijn geduld verliest. Dat levert spanning op en een zaak die er wisselend bijligt.",
+   "Een vaste Zondag haalt die frictie weg. Bureaus, vergadertafel, keuken of refter en sanitair krijgen elke keer dezelfde aandacht, en het team merkt vooral dat het niet meer over het poetsen hoeft te praten."]},
+  {"h2": "Wat er op het zondagsplan staat", "p": [
+   "<ul class=\"ticks\"><li>Onthaal en wachtruimte</li><li>Behandel-, meet- of consultatieruimte</li><li>Bureaus en vergadertafel</li><li>Keuken, refter en koffiehoek</li><li>Sanitair en vloeren</li><li>Glazen deuren en ramen langs binnen</li></ul>",
+   "Sterilisatie, medisch materiaal en alles wat technisch is, blijven bij de zaak zelf. Dat staat vooraf in het plan, zodat er nooit twijfel over bestaat."]},
+  {"h2": "Ook de administratie die blijft liggen", "p": [
+   "Zit je Zondag toch in je zaak, dan kan ze post openen, bestellingen van kantoormateriaal bijhouden, pakjes klaarmaken voor de koerier en documenten ordenen in het archief. Dat is ondersteunend werk, geen boekhouding. Meer over de brede aanpak vind je op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."]},
+  {"h2": "Wat het kost en hoe de factuur eruitziet", "p": [
+   "Je tarief is vast: 60 euro per uur exclusief btw, geboekt in blokken van 3 uur. Een blok kost dus 180 euro exclusief btw en extra uren tellen aan hetzelfde uurtarief. Op de factuur staan de naam en het btw-nummer van je bedrijf.",
+   "Poetshulp voor de zaak is in principe een beroepskost, en een btw-plichtige zaak kan de btw in principe recupereren. Een btw-vrijgestelde praktijk doorgaans niet. Je accountant bevestigt hoe dat bij jou ligt."]},
+  {"h2": "Zwevegem en de buurgemeenten", "p": [
+   "Zondags zoekt een Zondag in en rond Zwevegem, ook voor zaken in Kortrijk, Harelbeke, Deerlijk, Avelgem, Spiere-Helkijn en Anzegem. We beloven niet dat er vandaag al iemand klaarstaat, wel dat we samen kijken wie het best bij je uren past. Kies je datum op de <a href=\"boeken.html\">boekpagina</a>, minstens twee werkdagen vooraf."]}
  ],
  "faq": [
-  {
-   "q": "Welk bedrijf levert schoonmaakhulp voor praktijken in Zwevegem?",
-   "a": "Zondags levert in Zwevegem schoonmaakhulp voor praktijken en kleine kantoren, met dezelfde vaste persoon, overdag op weekdagen en een factuur op naam van je vennootschap."
-  },
-  {
-   "q": "Is Heestert of Moen ook mogelijk?",
-   "a": "Ja. Heestert en Moen horen bij Zwevegem en we zoeken er een Zondag in de buurt, net als in Otegem en Sint-Denijs."
-  },
-  {
-   "q": "Wat doet een Zondag niet in een praktijk?",
-   "a": "Sterilisatie, het reinigen van medisch materiaal, technische klussen en werken op hoogte. De ruimtes poetsen wel."
-  },
-  {
-   "q": "Kan een klein kantoor ook terecht?",
-   "a": "Ja. Kantoren met een team van een handvol tot vijftien mensen krijgen bureaus, refter of keuken en sanitair gepoetst."
-  },
-  {
-   "q": "Hoe snel kan ik starten?",
-   "a": "Na je aanvraag bellen we binnen één werkdag terug. Wanneer je Zondag start, hangt af van je dagen en uren en wordt in het eerste gesprek besproken."
-  },
-  {
-   "q": "Is de btw recupereerbaar?",
-   "a": "Op het beroepsmatige deel in principe wel voor een btw-plichtige zaak met aftrekrecht. Bij een btw-vrijgestelde praktijk doorgaans niet. Laat je accountant het bevestigen."
-  }
+  {"q": "Welk bedrijf zorgt voor poetshulp in een praktijk in Zwevegem?", "a": "Zondags uit Marke, een deelgemeente van Kortrijk. Je krijgt één vaste persoon die op een afgesproken dag en uur langskomt, met een factuur op naam van je bedrijf."},
+  {"q": "Komt een Zondag ook in Moen, Otegem of Heestert?", "a": "Ja, Zondags werkt in heel Zwevegem, dus ook in Heestert, Moen, Otegem en Sint-Denijs, en in de gemeenten errond."},
+  {"q": "Kan er gepoetst worden voor mijn winkel of praktijk opent?", "a": "Ja. Vroeg in de ochtend of over de middag kan, zodat alles klaarligt voor de eerste klant. 's Avonds en in het weekend werken we niet."},
+  {"q": "Wat kost een Zondag voor een klein kantoor?", "a": "Je betaalt 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw, en extra uren boek je aan hetzelfde tarief."},
+  {"q": "Wat als mijn Zondag ziek is?", "a": "Dan zoeken wij een oplossing, al beloven we niet dat er altijd een vervanger beschikbaar is. Klikt het niet met je Zondag, dan zoeken we samen een andere persoon."},
+  {"q": "Kan ik een Zondag boeken voor een klein aantal uren?", "a": "Je boekt per blok van 3 uur, dat is de kleinste eenheid. Heb je meer tijd nodig, dan voeg je extra uren toe aan hetzelfde uurtarief, ook voor een eenmalige afspraak."}
  ]
 }

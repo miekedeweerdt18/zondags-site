@@ -1,34 +1,89 @@
 {
  "path": "sectoren/it-bedrijven.html",
- "title": "Poetshulp voor IT-bedrijven: voorzichtig rond apparatuur",
- "desc": "Poetshulp voor IT-bedrijven en softwareteams: veel schermen, toetsenborden en kabels, vergaderruimtes en koffiehoek, met zorg rond jullie apparatuur.",
+ "title": "Poetshulp voor IT-bedrijven met veel apparatuur",
+ "desc": "Poetshulp voor IT-bedrijven: veel schermen, toetsenborden en kabels, vergaderruimtes en koffiehoek. Voorzichtig rond apparatuur, 60 euro per uur excl. btw.",
  "eyebrow": "IT-bedrijven",
  "h1": "Poetshulp voor IT-bedrijven",
- "lead": "Een kantoor vol schermen, toetsenborden en kabels vraagt een andere aanpak dan een gewoon bureau. Een vaste Zondag werkt eromheen, verplaatst niets en haalt niets uit het stopcontact.",
- "answer": "Een IT-bedrijf in West- of Oost-Vlaanderen krijgt van Zondags (zondags.be) één vaste persoon die voorzichtig werkt rond schermen, toetsenborden en kabels, en vloeren, vergaderruimtes, keuken en koffiehoek onderhoudt. Er wordt niets verplaatst of losgekoppeld, en de serverruimte blijft dicht tenzij je anders afspreekt. Je vennootschap krijgt hiervoor een gewone dienstenfactuur.",
- "facts": ["Voorzichtig rond schermen en kabels", "Niets verplaatst, niets losgekoppeld", "Serverruimte dicht tenzij anders afgesproken", "Vergaderruimtes, keuken en koffiehoek", "Eerste 2 uur gratis"],
+ "lead": "Een IT-kantoor zit vol schermen, kabels en toestellen waar je liever niets van laat vallen. Een vaste Zondag leert wat ze mag aanraken, aan 60 euro per uur exclusief btw.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor IT-bedrijven: één vaste persoon, je Zondag, die kantoor, vergaderruimtes, keuken en koffiehoek onderhoudt en voorzichtig werkt rond schermen, toetsenborden en kabels. Serverruimtes en technische apparatuur blijven buiten beeld tenzij jij iets anders afspreekt. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw.",
+ "facts": [
+  "Voorzichtig rond schermen en kabels",
+  "Vergaderruimtes, keuken, koffiehoek",
+  "Steeds dezelfde Zondag",
+  "Factuur op naam van je bedrijf",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Een bureau vol techniek, een Zondag die erlangs werkt", "p": [
-   "In een IT-bedrijf zijn bureaus geen platte oppervlakken maar landschappen: twee of drie schermen, een docking station, een kluwen kabels, een bord met sticky notes. Dat vraagt vooral één houding: aanraken wat hoort aangeraakt te worden, en de rest laten staan. Dat leg je vast in het zondagsplan.",
-   "<ul class=\"ticks\"><li>Niets verplaatsen en niets loskoppelen</li><li>Schermen en toetsenborden enkel aan de buitenkant afnemen</li><li>Kabels blijven liggen waar ze liggen, de vloer errond wordt gedaan</li><li>Serverruimte of rack blijft dicht, tenzij jij anders beslist</li><li>Whiteboards blijven staan zoals ze staan</li></ul>"]},
-  {"h2": "Schermen vergrendeld, bureaus bijna leeg", "p": [
-   "Een Zondag leest niet mee en gebruikt geen computer, toetsenbord of muis. Toch is het een gewone afspraak voor een IT-team om schermen en laptops te vergrendelen bij het weggaan, en om gevoelige papieren in een lade te leggen. Dat is een goede gewoonte voor elke zaak, en ze maakt de beurt voor iedereen rustiger."]},
-  {"h2": "Koffiehoek en keuken: het hart van het team", "p": [
-   "In een kantoor vol bureauwerk is de koffiehoek de drukste plek. De koffiemachine, de koelkast, de aanrechten en de vaatwasser vragen dus elke week aandacht. Je Zondag neemt de buitenkant van de machine af, maakt het aanrecht en de tafels schoon, en zet het afval buiten. Koffie, melk en keukenrol kunnen als boodschap mee in het plan, zodat de voorraad op orde blijft."]},
-  {"h2": "De dag met de minste mensen", "p": [
-   "Werkt je team deels thuis, dan kies je voor de beurt de dag waarop de minste collega's op kantoor zijn: dan zijn de bureaus leeg en is er rust om rond de apparatuur te werken. Vroeg in de ochtend of over de middag past ook, en 's avonds of in het weekend werkt een Zondag niet, ook niet bij teams die vaak laat doorwerken."]},
-  {"h2": "Wat bij je team blijft", "p": [
-   "Een technische klus is geen poetswerk. Schermen vervangen, kabels beheren, apparatuur installeren of losmaken en alles aan en in de serverruimte blijft bij je team of bij je beheerder. Ook werk op hoogte, zoals plafondventilatoren of hoge vensters, doen we niet. Kom je er niet uit, dan bespreek je het bij de intake en kijken we samen wat wel kan."]},
-  {"h2": "Kantoor en woning, factuur en start", "p": [
-   "Wil de zaakvoerder ook thuis hulp, dan loopt hetzelfde zondagsplan door naar de woning. Wie als IT-consultant of freelancer thuis werkt, vindt het huishoudelijke deel bij <a href=\"beroepen/it-consultant.html\">huishoudelijke hulp voor IT-consultants</a>, en een voorbeeld uit Kortrijk bij <a href=\"regio/hulp-in-huis-kortrijk.html\">hulp in huis in Kortrijk</a>.",
-   "Kantoor en woning staan apart op één dienstenfactuur aan je vennootschap, want dienstencheques bestaan daarvoor niet. De poetskosten van het kantoor tellen als beroepskost, en de btw daarop is in principe recupereerbaar met aftrekrecht. De woning krijgt een eigen regeling: een forfaitair voordeel van alle aard. De voorwaarde is dat het werk regelmatig gebeurt, via een onderneming met mensen in dienst, en op de btw van de woning is er in principe geen aftrek. Je accountant bevestigt wat voor jouw bedrijf klopt.",
-   "Een gesprek plan je via het formulier of de chat. Binnen één werkdag word je teruggebeld, en bij de intake lopen we samen langs bureaus, vergaderruimtes, keuken en de deur van de serverruimte. Het eerste kennismakingsblok van 2 uur is gratis."]}
+  {
+   "h2": "Poetsen tussen kabels: afspraken eerst",
+   "p": [
+    "Een softwarebedrijf of IT-dienstverlener ziet er van buiten uit als een gewoon kantoor, maar onder de bureaus zit een kabelbaan: voedingen, dockingstations, netwerkkabels, extra schermen. Een poetshulp die niet weet wat waarvoor dient, laat liever alles liggen of trekt per ongeluk iets los. Beide zijn vervelend.",
+    "Daarom begint elk plan met een rondgang. Jij of een collega toont wat niet verplaatst of losgekoppeld mag worden. Je Zondag noteert dat en werkt er vanaf dan altijd volgens, op elke beurt en bij elk bureau."
+   ]
+  },
+  {
+   "h2": "Wat je Zondag in een IT-kantoor doet",
+   "p": [
+    "<ul class=\"ticks\"><li>Bureaus afnemen rond schermen, laptops en toetsenborden</li><li>Toetsenborden en muizen afstoffen zonder iets te laten vallen</li><li>Vloeren zuigen en dweilen, met aandacht voor kabelgoten</li><li>Vergaderruimtes klaarzetten, tafels en whiteboards schoon</li><li>Keuken en koffiehoek: machine, frigo en vaatwasser</li><li>Sanitair, onthaal en afval</li></ul>",
+    "Een serverruimte, rack of testopstelling blijft buiten het plan, tenzij je uitdrukkelijk iets anders afspreekt. Reinigen van technische apparatuur zelf is geen taak voor Zondags."
+   ]
+  },
+  {
+   "h2": "Neem een softwarebedrijf met een open ruimte",
+   "p": [
+    "Stel: je hebt een softwarebedrijf met twaalf werkplekken in een open ruimte, twee vergaderlokalen en een keuken die de hele dag draait. Het team vertrekt op vrijdagnamiddag. Je Zondag komt op maandagochtend, nog voor het team binnenkomt. Ze werkt langs de bureaus zonder kabels te verplaatsen, doet de vergaderruimtes en maakt de keuken helemaal af.",
+    "Tegen negen uur staat de ruimte er weer frisser bij dan vrijdagavond. Het team start de week zonder meteen eerst te moeten opruimen."
+   ]
+  },
+  {
+   "h2": "Keuken en koffiehoek: het sociale centrum van het team",
+   "p": [
+    "In veel IT-bedrijven is de keuken de plek waar de beste ideeën ontstaan. Dat wil zeggen: ook de plek waar de meeste bekers blijven staan. Een Zondag die de koffiemachine ontkalkt volgens de instructies, de frigo opruimt en de vaatwasser leegt, verdient daar snel een vaste plek.",
+    "Ook het aanvullen van koffie, melk, thee en kantoormateriaal kan ze overnemen. Dat scheelt de office manager of de zaakvoerder een wekelijkse rondgang."
+   ]
+  },
+  {
+   "h2": "Administratieve hulp en regelwerk",
+   "p": [
+    "Een IT-bedrijf heeft zelden iemand voor de praktische kantoortaken. Je Zondag kan de post openen, facturen en documenten klasseren, pakjes en hardware-leveringen aanmelden en klaarzetten, afspraken met leveranciers opvolgen en de zaak klaarmaken voor een klantenbezoek. Dat blijft ondersteunend: geen boekhouding en geen juridisch advies.",
+    "Meer daarover lees je op <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">een rechterhand voor bedrijfsleiders</a>."
+   ]
+  },
+  {
+   "h2": "Kosten, factuur en btw",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw, en extra uren gaan aan hetzelfde tarief. De factuur staat op naam van je bedrijf met btw-nummer.",
+    "Onderhoud van het kantoor is in principe een beroepskost en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant dit bevestigen voor jouw situatie."
+   ]
+  },
+  {
+   "h2": "Zo begin je",
+   "p": [
+    "Op de <a href=\"boeken.html\">boekpagina</a> kies je een weekdag, het aantal blokken en de taken. Voor een vaste wekelijkse beurt laat je een terugbelverzoek achter. Daarna lopen we samen door je kantoor en leggen we de afspraken rond apparatuur vast in het zondagsplan."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Mag mijn Zondag schermen, laptops en kabels verplaatsen om te poetsen?", "a": "Nee. Je Zondag werkt rond je apparatuur, verplaatst niets en haalt niets uit het stopcontact. Wat in de weg ligt, ruimt je team vooraf op."},
-  {"q": "Kan mijn Zondag de serverruimte of de rack poetsen?", "a": "Standaard blijft die dicht. Wil je dat de vloer buiten de kasten toch gedaan wordt, dan spreek je dat bij de intake uitdrukkelijk af, met wanneer en onder welke voorwaarden."},
-  {"q": "Wat als een collega zijn laptop ontgrendeld laat staan?", "a": "Je Zondag gebruikt geen computer, toetsenbord of muis en leest niet mee. Toch vergrendel je schermen best bij het weggaan. Dat is een gewone afspraak die vooral voor je eigen gemoedsrust zorgt."},
-  {"q": "Op welke dag komt een Zondag best bij een hybride team?", "a": "Op de dag met de minste collega's op kantoor, want dan zijn de bureaus leeg. Werkt je team vooral thuis, dan kan één beurt per week volstaan."},
-  {"q": "Kan mijn Zondag ook de woning van de zaakvoerder doen?", "a": "Ja. Wil je ook thuis hulp, dan neemt hetzelfde zondagsplan de woning mee, bijvoorbeeld voor poetsen, was en strijk of boodschappen. Kantoor en woning staan afzonderlijk op de factuur, zodat je boekhouder ze makkelijk uit elkaar houdt."}
+  {
+   "q": "Raakt de poetshulp mijn servers of netwerkapparatuur aan?",
+   "a": "Nee, tenzij je dat uitdrukkelijk afspreekt. Serverruimtes, racks en testopstellingen blijven buiten het plan. Je Zondag onderhoudt kantoor, vergaderruimtes, keuken en sanitair."
+  },
+  {
+   "q": "Hoe gaat de poetshulp om met schermen en toetsenborden?",
+   "a": "Voorzichtig. Je Zondag werkt rond de apparatuur, neemt toetsenborden en muizen af zonder ze los te koppelen en verplaatst niets zonder jouw toestemming."
+  },
+  {
+   "q": "Kan de poetshulp komen buiten de kantooruren?",
+   "a": "Vroeg in de ochtend of over de middag kan, op weekdagen. Avonden en weekends werken we niet."
+  },
+  {
+   "q": "Wat kost poetshulp voor een IT-bedrijf?",
+   "a": "60 euro per uur exclusief btw, geboekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren zijn aan hetzelfde tarief."
+  },
+  {
+   "q": "Kan mijn Zondag hardwareleveringen ontvangen?",
+   "a": "Ja, als ondersteunend werk: pakjes aannemen, melden en klaarzetten. Het installeren of configureren van apparatuur doet Zondags niet."
+  }
  ]
 }

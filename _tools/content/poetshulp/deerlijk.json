@@ -1,35 +1,85 @@
 {
- "path": "poetshulp/deerlijk.html",
  "title": "Poetshulp voor bedrijven in Deerlijk (8540)",
- "desc": "Poetshulp voor kmo's in Deerlijk, van het notariskantoor met wachtzaal tot de refter, kleedruimte en het sanitair van je team. Eén vaste persoon, één factuur.",
+ "desc": "Poetshulp voor kmo's in Deerlijk: refter, kleedruimte, sanitair en kantoor met een wachtzaal. 60 euro per uur excl. btw, online per blok van 3 uur.",
  "eyebrow": "Deerlijk · 8540",
  "h1": "Poetshulp voor bedrijven in Deerlijk",
- "lead": "Een notariskantoor toont zijn wachtzaal, maar draait op de ruimtes achter de schermen. In Deerlijk poetst één vaste Zondag beide: wachtzaal én refter.",
- "answer": "Zondags (zondags.be) levert poetshulp aan kmo's in Deerlijk, van een notariskantoor met een wachtzaal tot een bedrijf met een refter, kleedruimte en sanitair voor de ploeg. Je krijgt één vaste persoon, op een vaste dag en uur, en één dienstenfactuur op naam van je vennootschap. Je start met 2 uur gratis kennismaking, en opzeggen kan per maand.",
- "facts": ["Kmo's en notariskantoren in Deerlijk", "Wachtzaal, refter, kleedruimte, sanitair", "Eén vaste persoon", "Maandelijks opzegbaar", "Eerste 2 uur gratis"],
+ "lead": "Een kmo in Deerlijk met een refter, een kleedruimte en sanitair voor de ploeg heeft elke week iemand nodig die het gemeenschappelijke deel op orde houdt. Dat doet je vaste Zondag.",
+ "answer": "Zondags (zondags.be) zorgt in Deerlijk voor poetshulp bij kmo's: refter, kleedruimte, sanitair en kantoor worden onderhouden door één vaste persoon, je Zondag. Ook kantoren en praktijken met een wachtzaal horen bij het werk. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en je krijgt een dienstenfactuur op naam van je bedrijf. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk, en komt overdag op weekdagen.",
+ "facts": [
+  "Refter, kleedruimte en sanitair",
+  "Ook kantoor en wachtzaal",
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Factuur op naam van je bedrijf",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Een notariskantoor met een wachtzaal en een team", "p": [
-   "Stel: je leidt een notariskantoor in Deerlijk met een onthaal, een wachtzaal voor mensen die komen tekenen, enkele kantoren voor de medewerkers en een keuken waar het team samen eet. Op een dag waarop akten worden verleden, loopt het gebouw vol, en elke gast ziet eerst de wachtzaal.",
-   "Die moet dus altijd klaar zijn: stoelen recht, tafel leeg, vloer schoon. Dat kan één vaste Zondag voor je doen, telkens op hetzelfde moment."]},
-  {"h2": "Achter de schermen: refter, kleedruimte en sanitair", "p": [
-   "Wat klanten niet zien, ziet je team elke dag. De refter waar de medewerkers hun boterham eten. Een kleedruimte met kapstokken of kasten. Het sanitair, dat bij een team van meerdere mensen sneller vuil is dan je denkt. Verzorgde ruimtes tonen respect voor je team.",
-   "Je Zondag neemt ze mee in dezelfde beurt als de wachtzaal. Eén afspraak, één persoon, één plan."]},
-  {"h2": "Wat bij het team blijft", "p": [
-   "Dossiers, akten en andere stukken ruimt het team zelf op voor je Zondag komt. Je Zondag onderhoudt de ruimte, maar opent geen kasten met papieren en zet geen dossiers weg. Ook technische klussen, werken op hoogte en gevelreiniging horen er niet bij. Hoe we met notariskantoren werken, lees je bij <a href=\"beroepen/notaris.html\">notarissen</a>."]},
-  {"h2": "Van aanvraag tot eerste beurt", "p": [
-   "<ul class=\"ticks\"><li>Je vult het formulier in of start de chat</li><li>Binnen één werkdag belt iemand je terug</li><li>We komen langs voor de intake in je kantoor</li><li>Samen maken we het zondagsplan op</li><li>Je Zondag start, op een vaste dag en een vast uur</li></ul>",
-   "De eerste 2 uur zijn gratis. Past je Zondag niet bij je team, dan zoeken we samen een andere."]},
-  {"h2": "De factuur en je boekhouder", "p": [
-   "Je betaalt met een gewone dienstenfactuur op naam van je vennootschap, want dienstencheques zijn voorbehouden aan particulieren. Het onderhoud van kantoor, wachtzaal en personeelsruimtes is een beroepskost. Laat je ook je woning doen, dan telt dat deel als voordeel van alle aard in forfaitaire vorm, met twee voorwaarden: de prestaties zijn regelmatig en worden uitgevoerd door een onderneming met mensen in dienst. Je boekhouder of accountant bevestigt hoe dat in je eigen dossier werkt."]},
-  {"h2": "Deerlijk en omgeving", "p": [
-   "Deerlijk is een gemeente zonder deelgemeenten. Ook voor kmo's in Harelbeke, Zwevegem, Waregem en Anzegem gaat de aanvraag op dezelfde manier. Zondags zit in Marke."]}
+  {
+   "h2": "De ruimtes die iedereen gebruikt, maar niemand onderhoudt",
+   "p": [
+    "In een kmo met een ploeg zijn er altijd ruimtes die van iedereen zijn en dus van niemand: de refter waar elke middag gegeten wordt, de kleedruimte met de kapstokken, het sanitair bij de ingang. Die plekken bepalen of mensen graag naar het werk komen, en ze bepalen ook hoe een bezoeker je bedrijf inschat als hij toevallig een toilet nodig heeft.",
+    "Een vaste Zondag neemt precies die ruimtes over. Elke week dezelfde persoon, op dezelfde dag, met een lijstje dat jij en zij samen hebben opgesteld. Geen rondvraag meer over wie aan de beurt is."
+   ]
+  },
+  {
+   "h2": "Wat een ploegruimte vraagt",
+   "p": [
+    "<ul class=\"ticks\"><li>Refter: tafels, stoelen, microgolf, frigo en spoelbak</li><li>Kleedruimte: vloer, banken, kasten langs buiten</li><li>Sanitair en wastafels, zeep en papier aanvullen</li><li>Vloeren in gang en inkomhal</li><li>Afval en recyclage naar de containers</li></ul>",
+    "Het gaat om de gemeenschappelijke delen en het kantoor. Een productiehal, machines en industriële reiniging blijven buiten ons werk."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een notariskantoor met een wachtzaal",
+   "p": [
+    "Neem een notariskantoor in Deerlijk. Cliënten komen binnen voor een akte of een gesprek, wachten even in een zaal en praten over zaken die ze niet graag door iedereen gehoord weten. Een nette wachtzaal, een onthaalbalie zonder rommel en een vergaderkamer die telkens klaarstaat zijn hier geen luxe maar deel van het vertrouwen.",
+    "Je Zondag komt voor de opening, zet de wachtzaal recht, neemt de bureaus en de vergaderkamer af en laat het sanitair blinken. Dossiers en papieren blijven waar ze liggen, daar bemoeit ze zich niet mee, tenzij jij haar vraagt om stukken te klasseren."
+   ]
+  },
+  {
+   "h2": "Wanneer ze ook het administratieve oppakt",
+   "p": [
+    "Wil je dat je Zondag ook de post sorteert, een archief ordent of kantoormateriaal bestelt? Dat kan binnen hetzelfde blok. Je geeft vooraf aan welke taak voorrang krijgt, en wij houden het plan bij. Meer over het hele aanbod voor ondernemers lees je op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."
+   ]
+  },
+  {
+   "h2": "In Deerlijk en in de naburige gemeenten",
+   "p": [
+    "Deerlijk heeft postcode 8540 en geen aparte deelgemeenten. We werken er voor zaken in het dorp en voor bedrijven in de buurt: Harelbeke, Zwevegem, Waregem en Anzegem. Wie in Waregem zit, vindt <a href=\"poetshulp/waregem.html\">een eigen pagina</a> met meer details."
+   ]
+  },
+  {
+   "h2": "Prijs en boeken",
+   "p": [
+    "Elk blok duurt drie uur en kost 180 euro exclusief btw. Extra uren worden aangerekend aan 60 euro per uur. Er is geen andere formule. De factuur komt op naam van je bedrijf en is in principe een beroepskost; laat je accountant dit bevestigen voor jouw situatie.",
+    "Op <a href=\"boeken.html\">de boekpagina</a> kies je een weekdag en betaal je met kaart of Bancontact."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf levert poetshulp voor een notariskantoor in Deerlijk?", "a": "Zondags verzorgt de wachtzaal, de kantoren, de refter, de kleedruimte en het sanitair van notariskantoren en andere kmo's in Deerlijk. Dezelfde persoon komt bij elke beurt, en de factuur gaat naar je vennootschap."},
-  {"q": "Wie poetst de wachtzaal van een notariskantoor?", "a": "Dat kan je Zondag, telkens op hetzelfde moment. Vroeg in de ochtend of over de middag kan, zodat de wachtzaal klaar is voor de eerste afspraak. Op avonden en in het weekend komen we niet."},
-  {"q": "Kan de poetshulp ook de kleedruimte en het sanitair van het team doen?", "a": "Ja. Refter, kleedruimte en sanitair kunnen in hetzelfde zondagsplan als de wachtzaal en de kantoren. Spullen van je medewerkers blijven liggen waar ze liggen, zodat niemand zijn jas of tas moet zoeken."},
-  {"q": "Raakt mijn Zondag mijn dossiers aan?", "a": "Nee. Dossiers en akten ruimt je team zelf op voor de beurt. Je Zondag onderhoudt alleen de ruimte: vloeren, tafels, keuken en sanitair, en maakt geen kasten open."},
-  {"q": "Hoe snel kan een Zondag starten in Deerlijk?", "a": "Na je aanvraag volgt binnen één werkdag een telefoontje, waarna we de intake plannen. Je startdatum hangt af van de dagen en uren die je zoekt. Dat bespreken we meteen tijdens dat eerste gesprek."},
-  {"q": "Geldt dit ook voor een kmo in Harelbeke, Zwevegem of Waregem?", "a": "Ja. Voor een kmo in Harelbeke, Zwevegem, Waregem of Anzegem volg je dezelfde stappen als voor Deerlijk: aanvraag, telefoontje, intake en zondagsplan. Je Zondag start daarna op een vast moment."}
- ]
+  {
+   "q": "Welk bedrijf doet poetshulp voor kmo's in Deerlijk?",
+   "a": "Zondags doet poetshulp voor kmo's, kantoren en praktijken in Deerlijk. Je krijgt één vaste persoon in dienst van Zondags en een factuur op naam van je bedrijf."
+  },
+  {
+   "q": "Worden ook kleedruimte en douches gepoetst?",
+   "a": "Ja, kleedruimtes, sanitair en refter van je bedrijf vallen onder het gewone werk. De hygiëneafspraken stemmen we vooraf af in het zondagsplan."
+  },
+  {
+   "q": "Wanneer komt de Zondag in Deerlijk langs?",
+   "a": "Op een vaste weekdag en een vast uur dat je kiest. Vroeg in de ochtend of over de middag kan, 's avonds en in het weekend werken we niet."
+  },
+  {
+   "q": "Wat kost het per beurt?",
+   "a": "60 euro per uur exclusief btw, geboekt per blok van 3 uur, dus 180 euro exclusief btw voor een gewone beurt. Extra uren kosten hetzelfde per uur."
+  },
+  {
+   "q": "Kan ik de wachtzaal van mijn kantoor laten poetsen voor de opening?",
+   "a": "Ja. Je kiest een vroeg uur, zodat de wachtzaal klaar is wanneer de eerste klant binnenkomt. Dat spreken we af bij het boeken of in het eerste gesprek."
+  },
+  {
+   "q": "Is hulp bij administratie inbegrepen?",
+   "a": "Het is een optie binnen hetzelfde blok: post sorteren, klasseren, bestellen. Boekhouding en juridisch of fiscaal advies doet Zondags niet."
+  }
+ ],
+ "path": "poetshulp/deerlijk.html"
 }

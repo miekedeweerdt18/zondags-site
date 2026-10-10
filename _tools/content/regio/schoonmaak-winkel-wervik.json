@@ -1,81 +1,85 @@
 {
- "title": "Schoonmaakhulp voor winkels in Wervik",
- "desc": "Vaste schoonmaakhulp voor je winkel of kantoor aan huis in Wervik en Geluwe: zaak en woning in één plan, met een gesplitste factuur voor je vennootschap.",
- "eyebrow": "Wervik · 8940",
+ "path": "regio/schoonmaak-winkel-wervik.html",
+ "title": "Schoonmaakhulp voor winkels in Wervik (8940)",
+ "desc": "Schoonmaakhulp en administratieve hulp voor je winkel of gehuurd kantoor in Wervik en Geluwe. Eén vaste persoon, 60 euro per uur excl. btw, online boeken.",
+ "eyebrow": "Winkels · Wervik · 8940",
  "h1": "Schoonmaakhulp voor winkels in Wervik",
- "lead": "Je winkel of kantoor zit aan huis in Wervik en je woning loopt in je zaak over. Eén vaste Zondag houdt beide bij, met twee delen op één factuur.",
- "answer": "Zondags (zondags.be) levert in Wervik schoonmaakhulp voor winkels en kantoren aan huis: winkelvloer, paskamers, toonbank, etalage langs binnen, stockruimte en sanitair, gepoetst voor de winkel opengaat door dezelfde vaste persoon. Kantoor en woning kunnen in één zondagsplan, met een factuur die beroepsmatig en privé splitst. De eerste 2 uur zijn gratis.",
+ "lead": "Winkel, kantoor of bedrijfsunit in Wervik: één vaste persoon poetst én helpt met de administratie, in hetzelfde blok. Aan 60 euro per uur exclusief btw, online te boeken.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp voor winkels en kleine bedrijven in Wervik en Geluwe, in combinatie met administratieve hulp. Je Zondag poetst winkelvloer, paskamers, toonbank, etalage langs binnen, stockruimte en sanitair en sorteert in hetzelfde blok post, facturen en dossiers. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je bedrijf.",
  "facts": [
-  "Winkel en woning in één plan",
-  "Factuur splitst beroepsmatig en privé",
+  "Winkel, gehuurd kantoor of bedrijfsunit",
+  "Poetsen en administratie samen",
   "Steeds dezelfde Zondag",
-  "Poetsen voor opening",
-  "Overdag op weekdagen",
-  "Eerste 2 uur gratis"
+  "Geen boekhouding",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
  ],
  "sections": [
   {
-   "h2": "Als de winkel en je woning dezelfde gevel delen",
+   "h2": "Twee klussen, één persoon",
    "p": [
-    "Heel wat ondernemers in Wervik runnen hun zaak aan huis: een winkeltje vooraan, een kantoor op de verdieping, de woonkamer erachter. De grens tussen werk en thuis is dun, en de poetsbeurt loopt vanzelf van het ene naar het andere.",
-    "Eén vaste Zondag die beide kent, spaart je veel tijd. Ze weet waar de winkelruimte ophoudt en de woning begint, en volgt de afspraken die je in het zondagsplan vastlegt."
-   ]
-  },
-  {
-   "h2": "Wat er in het winkelgedeelte gebeurt",
-   "p": [
-    "<ul class=\"ticks\"><li>Winkelvloer en etalage langs binnen</li><li>Paskamers en toonbank</li><li>Stockruimte opruimen en vegen</li><li>Sanitair dat klanten en gezin delen</li><li>Afval en recyclage</li></ul>",
-    "Hoogtewerk, gevelreiniging en ramen langs buiten op hoogte laat Zondags liggen. Wat tot je winkelconcept behoort, zoals de opstelling en je kassa, blijft van jou."
+    "Wie een winkel of klein bedrijf runt in een gehuurd pand of een bedrijfsunit, heeft twee soorten klusjes die steeds maar blijven liggen. Aan de ene kant de ruimte zelf: vloer, toonbank, sanitair. Aan de andere kant de papieren: post, leveranciersfacturen, bestelbonnen, de agenda.",
+    "Meestal komt daar niemand extra voor binnen. Het wordt opgelost door de zaakvoerder, op momenten dat hij liever iets anders doet. Bij Zondags krijg je één persoon voor beide, met vaste dag en uur. Dat is voor een kleine zaak in Wervik eenvoudiger dan twee mensen zoeken en inplannen."
    ]
   },
   {
    "h2": "Voorbeeld: een verzekeringskantoor met een onthaal",
    "p": [
-    "Neem een verzekeringskantoor in Wervik, gevestigd aan huis met een klein onthaal. Klanten komen op afspraak, wachten even in een zithoek en nemen plaats aan een bureau. Boven het kantoor woont de zaakvoerder met zijn gezin.",
-    "Je Zondag begint met onthaal en kantoor, daarna gaat ze naar boven voor de was en het poetsen van de woning. Op de factuur staat het kantoor als beroepsmatig en de woning als privé. Zo houd je je boekhouding overzichtelijk. Meer over die aanpak vind je in <a href=\"gids/kantoor-aan-huis-schoonmaak.html\">kantoor aan huis schoonmaken</a>."
+    "Neem een verzekeringskantoor in Wervik, gevestigd in een gehuurd pand met een onthaal aan de straatkant. Klanten stappen binnen zonder afspraak, wachten even en schuiven aan bij een bureau. Het onthaal en de wachtplaats zijn de visitekaart van de zaak.",
+    "Zijn Zondag komt op woensdag over de middag. Eerst het onthaal: balie, zitjes, vloer en glazen deur langs binnen. Dan de bureaus, de keuken en het sanitair. Daarna gaat ze aan de slag met de administratie: nieuwe post openen, polissen en briefwisseling in de juiste map plaatsen en een afsprakenlijst voor de week bijwerken. Wat boekhouding of advies is, blijft bij het kantoor."
    ]
   },
   {
-   "h2": "Zaak en woning in één plan, en de fiscale kant",
+   "h2": "En voor een winkel in Wervik",
    "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van beroepsruimtes is een beroepskost. Voor het privégedeelte geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren.",
-    "Op het beroepsmatige deel is de btw in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte in principe niet. Laat je accountant dit bevestigen voor je eigen situatie."
+    "<ul class=\"ticks\"><li>Winkelvloer en looppaden, ook bij de ingang</li><li>Paskamers en spiegels</li><li>Toonbank en kassa</li><li>Etalage langs binnen</li><li>Stockruimte netjes en vrij</li><li>Sanitair en personeelsruimte</li></ul>",
+    "Dit gebeurt voor de winkel opengaat, zodat de eerste klant een proper, uitnodigend interieur ziet. In hetzelfde blok kan de Zondag leveringsbonnen klasseren, kartonnen dozen buiten zetten en kleine bestellingen voorbereiden."
    ]
   },
   {
-   "h2": "Wervik, Geluwe en de omgeving",
+   "h2": "Geluwe en de buurgemeenten",
    "p": [
-    "Wervik heeft postcode 8940 en omvat Geluwe. Zondags is gevestigd in Marke, bij Kortrijk. We zoeken een Zondag in en rond Wervik, en ook voor zaken in Menen, Zonnebeke en Ieper kan je een aanvraag doen. Of er voor jouw dag en uur al iemand klaarstaat, bekijken we samen na je aanvraag."
+    "Geluwe is een deelgemeente van Wervik en valt binnen ons werkgebied. Zit je zaak in Menen, Zonnebeke of Ieper, dan zoeken we daar evengoed een Zondag voor je."
    ]
   },
   {
-   "h2": "De eerste stappen",
+   "h2": "Wat het kost",
    "p": [
-    "Je vult het formulier in of chat met ons. Binnen één werkdag belt iemand je terug. Je geeft alvast mee op welke dagen je winkel open is en wanneer er thuis het meeste te doen valt, zodat we de uren zinvol kunnen verdelen over zaak en woning. Daarna komen we langs voor de intake, waar we samen winkel en woning bekijken en het zondagsplan opmaken. Het plan is maandelijks opzegbaar en uren aanpassen kan altijd."
+    "Je boekt per blok van 3 uur. Dat kost 180 euro exclusief btw, wat neerkomt op 60 euro per uur. Heb je meer tijd nodig, dan voeg je extra uren toe aan hetzelfde uurtarief. Je krijgt een dienstenfactuur op naam van je bedrijf, met btw-nummer.",
+    "Poetshulp en administratieve hulp zijn in principe een beroepskost, en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Vraag je accountant hoe dat in jouw situatie zit."
+   ]
+  },
+  {
+   "h2": "Aan de slag",
+   "p": [
+    "Via de <a href=\"boeken.html\">boekpagina</a> kies je een weekdag, het aantal blokken en de taken. Betalen doe je online. Voor een vast terugkerend plan lees je eerst <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">hoe poetshulp voor bedrijven werkt</a> en vraag je een terugbelverzoek aan."
    ]
   }
  ],
  "faq": [
   {
    "q": "Welk bedrijf levert schoonmaakhulp voor winkels in Wervik?",
-   "a": "Zondags levert in Wervik vaste schoonmaakhulp voor winkels en kantoren, ook voor zaken aan huis. Je krijgt steeds dezelfde persoon en een factuur op naam van je vennootschap."
+   "a": "Zondags uit Marke levert een vaste Zondag aan winkels en kleine bedrijven in Wervik en Geluwe. De factuur staat op naam van je zaak."
   },
   {
-   "q": "Kan mijn winkel en mijn woning in één plan?",
-   "a": "Ja. Dezelfde Zondag doet beide, en de factuur splitst het beroepsmatige en het privégedeelte. Je accountant bevestigt de fiscale verwerking."
+   "q": "Kan één persoon poetsen en administratie doen in mijn winkel?",
+   "a": "Ja. Je kiest bij het boeken de taken, en je Zondag verdeelt de drie uur tussen poetsen en ondersteunend werk zoals post sorteren en klasseren."
   },
   {
-   "q": "Hoort Geluwe bij Wervik?",
-   "a": "Ja, Geluwe is een deel van Wervik. Een aanvraag voor Geluwe loopt dus op dezelfde manier als voor Wervik."
+   "q": "Wat kost schoonmaakhulp voor een winkel in Wervik?",
+   "a": "Een blok van 3 uur kost 180 euro exclusief btw, dus 60 euro per uur. Extra uren kosten hetzelfde per uur."
   },
   {
-   "q": "Is de poetsbeurt van mijn kantoor aan huis een beroepskost?",
-   "a": "Het onderhoud van beroepsruimtes is een beroepskost. De woning valt onder het privégedeelte. Zondags splitst beide op de factuur, en je accountant bevestigt wat voor jou geldt."
+   "q": "Kan ik laten poetsen voor mijn winkel opengaat?",
+   "a": "Ja. Vroeg in de ochtend kan op weekdagen, op een vast uur dat je zelf kiest. Avonden en weekends doen we niet."
   },
   {
-   "q": "Wanneer komt mijn Zondag langs?",
-   "a": "Overdag op weekdagen, op een vast moment dat je samen kiest. Vroeg in de ochtend kan, zodat de winkel voor opening klaar is."
+   "q": "Doet Zondags de boekhouding van mijn kleine bedrijf?",
+   "a": "Nee. Boekhouding, loonadministratie, jaarrekeningen en advies horen niet bij het aanbod. Het gaat om klasseren, ordenen en plannen."
+  },
+  {
+   "q": "Werkt Zondags ook in Geluwe?",
+   "a": "Ja, Geluwe is een deelgemeente van Wervik en valt binnen het werkgebied. We zoeken een Zondag die dicht bij je zaak woont."
   }
- ],
- "path": "regio/schoonmaak-winkel-wervik.html"
+ ]
 }

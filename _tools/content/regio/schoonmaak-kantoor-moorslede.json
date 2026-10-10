@@ -1,38 +1,86 @@
 {
  "path": "regio/schoonmaak-kantoor-moorslede.html",
- "title": "Schoonmaakhulp voor kantoren in Moorslede",
- "desc": "Kleine kantoren in Moorslede en Dadizele krijgen een vaste Zondag voor bureaus, keuken en sanitair, overdag op weekdagen en met één factuur aan de vennootschap.",
+ "title": "Schoonmaakhulp voor kantoren in Moorslede (8890)",
+ "desc": "Schoonmaakhulp voor het kantoor van je webshop of kleine zaak in Moorslede en Dadizele. Eén vaste persoon, 60 euro per uur exclusief btw, online te boeken.",
  "eyebrow": "Moorslede · 8890",
  "h1": "Schoonmaakhulp voor kantoren in Moorslede",
- "lead": "Met een team van een handvol mensen is niemand verantwoordelijk voor de keuken of het sanitair, tot het opvalt. Een vaste Zondag neemt dat vast ritme over.",
- "answer": "Zondags (zondags.be) levert schoonmaakhulp voor kleine kantoren in Moorslede en Dadizele: bureaus, keuken of refter, sanitair, vloeren en afval, wekelijks of tweewekelijks. Het werk gebeurt door dezelfde vaste persoon, overdag op weekdagen. Je betaalt via een dienstenfactuur op naam van je vennootschap. De eerste 2 uur zijn gratis om kennis te maken.",
- "facts": ["Voor teams van een handvol tot vijftien mensen", "Bureaus, keuken of refter, sanitair", "Vaste persoon, vaste dag", "Moorslede en Dadizele", "Factuur aan je vennootschap"],
+ "lead": "Een webshop met een klein magazijn in Moorslede heeft vooral een kantoor, een pakketruimte en een keuken die goed bijgehouden moeten worden. Een vaste Zondag regelt dat in een paar uur.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp voor kleine kantoren en webshops in Moorslede en Dadizele, met een team van een handvol tot vijftien mensen. Eén vaste persoon, je Zondag, onderhoudt wekelijks of tweewekelijks overdag op een weekdag de bureaus, de keuken of refter, het sanitair en de vloeren en maakt desgewenst pakjes klaar. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw.",
+ "facts": [
+  "Kleine kantoren en webshops",
+  "Moorslede en Dadizele",
+  "Bureaus, keuken of refter, sanitair",
+  "Factuur op naam van je bedrijf",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Een team van een handvol tot vijftien mensen", "p": [
-   "Bij een kantoor met enkele mensen merk je het snel: de vuilnisbak wordt niet geleegd, de koffiehoek ziet er rommelig uit, en wie als laatste vertrekt, dweilt niet. Poetsen blijft liggen omdat het nergens tussen past.",
-   "Met een vaste Zondag staat er elke week een moment in de agenda waarop alles weer op orde komt. Je team hoeft niets te regelen, en je kan terugvallen op iemand die de ruimte kent."]},
-  {"h2": "Neem een webshop met een klein magazijn", "p": [
-   "Neem een webshop in Moorslede met een kantoor voor vier mensen en daarachter een klein magazijn waar pakketten worden klaargezet. Het kantoor krijgt het onderhoud: bureaus, de refter, het sanitair en de gang. Het magazijn blijft de verantwoordelijkheid van het team, want stellingen en pallets verplaatsen valt buiten het werk van een Zondag.",
-   "In drukke weken, bijvoorbeeld voor de feestdagen, wanneer de verpakkingsresten zich opstapelen, plan je samen een extra moment in. Zo blijft het kantoor leefbaar terwijl het team zich op de bestellingen richt."]},
-  {"h2": "Wat er vaste kost is voor je kantoor", "p": [
-   "<ul class=\"ticks\"><li>Bureaus en vergadertafel</li><li>Keuken, refter en koffiehoek</li><li>Sanitair en vloeren</li><li>Afval en recyclage</li><li>Ramen en glazen deuren langs binnen</li></ul>",
-   "Gevelreiniging, werken op hoogte, industriële reiniging en productiehallen doen we niet. Voor het gewone onderhoud van een kantoor, wel."]},
-  {"h2": "Als de zaakvoerder ook thuis hulp zoekt", "p": [
-   "Veel zaakvoerders in Moorslede combineren kantoor en gezin. Dan kan dezelfde Zondag ook je woning doen: was, strijk, poetsen, een schotel koken of boodschappen. Op de factuur staat het beroepsmatige en het privégedeelte apart.",
-   "Je leest meer over die combinatie op <a href=\"bedrijven/huishoudhulp-voor-bedrijven.html\">huishoudhulp voor bedrijven</a>."]},
-  {"h2": "Moorslede, Dadizele en de buurt", "p": [
-   "Dadizele hoort bij Moorslede. In de omgeving liggen Ledegem, Roeselare, Zonnebeke en Staden. We zoeken Zondags in en rond Moorslede, zodat je Zondag dichtbij woont en de weg kent. Een vaste dag en een vast uur, overdag, nooit 's avonds of in het weekend."]},
-  {"h2": "Fiscaal en administratief", "p": [
-   "Een vennootschap kan geen dienstencheques kopen. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van beroepsruimtes is een beroepskost, en de btw op dat deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Voor een woning geldt dat niet.",
-   "Laat je accountant bevestigen hoe dit in jouw situatie zit."]},
-  {"h2": "Zo start je", "p": [
-   "Aanvraag via formulier of chat, binnen één werkdag een terugbelmoment, intake op je kantoor, samen het zondagsplan opmaken en dan start je Zondag. De prijs is op maat en je kan maandelijks opzeggen."]}
+  {
+   "h2": "Kantoor naast de pakketruimte",
+   "p": [
+    "Webshops werken vaak vanuit een gebouw waar kantoor en opslag naast elkaar liggen. Op de ene plek staan bureaus en schermen, op de andere dozen, tape en pakbanden. Voor de poetsbeurt maakt dat een duidelijke grens: Zondags onderhoudt het kantoor, de keuken, het sanitair en de gang, geen industriële opslag of productiehal.",
+    "Wat wel past, is de vloer in de pakketruimte, voor zover het een gewone binnenruimte is, en het opruimen van karton en afval dat daar elke dag bij komt."
+   ]
+  },
+  {
+   "h2": "Neem een webshop met een klein magazijn",
+   "p": [
+    "Neem een webshop in Moorslede met vier mensen op kantoor en twee in het magazijn. Aan de bureaus wordt klantenservice gedaan en aan de pakbank wordt verzonden. Op woensdagochtend komt de Zondag: bureaus afnemen, keuken, sanitair, vloeren, daarna het kartonafval buiten zetten.",
+    "Is er tijd over, dan maakt ze zendingen klaar, controleert ze of er genoeg verpakkingsmateriaal en kantoormateriaal is en bestelt ze bij wat bijna op is. Voor een webshop zijn dat precies de dingen die op een drukke dag blijven liggen."
+   ]
+  },
+  {
+   "h2": "Wat past in een bezoek",
+   "p": [
+    "<ul class=\"ticks\"><li>Bureaus, schermen en vergadertafel afnemen</li><li>Keuken, refter en koffiehoek</li><li>Sanitair schoonmaken en aanvullen</li><li>Vloeren stofzuigen en nat dweilen</li><li>Karton en afval buiten zetten</li><li>Kantoormateriaal en verpakking opvolgen</li></ul>",
+    "Voor een klein team is één blok van 3 uur per week vaak al een verschil. Heb je meer ruimtes, dan boek je er een tweede blok of een extra dag bij."
+   ]
+  },
+  {
+   "h2": "Kleine teams, kleine gewoonten",
+   "p": [
+    "Bij een team van een handvol tot vijftien mensen draait de zaak op gewoontes. De afwas niet laten liggen, het kartonafval op de afgesproken plek zetten, eten niet aan de bureaus laten bederven. Met een paar afspraken blijft de hele week redelijk op orde en kan je Zondag zich concentreren op het echte onderhoud.",
+    "Wil je dat nog verder uitwerken, dan staat er een handig overzicht in <a href=\"vragen/kantoor-ordelijk-tussen-twee-poetsbeurten.html\">hoe je kantoor ordelijk blijft tussen twee poetsbeurten</a>."
+   ]
+  },
+  {
+   "h2": "Moorslede, Dadizele en de buurt",
+   "p": [
+    "Dadizele hoort bij Moorslede. Ook voor een kantoor daar zoeken we een Zondag in de buurt. Zit je zaak in Ledegem, Roeselare, Zonnebeke of Staden, dan bekijken we samen wat past. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk, en is actief in heel West- en Oost-Vlaanderen, dus ook in de regio Roeselare."
+   ]
+  },
+  {
+   "h2": "Prijs en factuur",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur dus 180 euro exclusief btw. Extra uren kosten hetzelfde. Je krijgt een dienstenfactuur op naam van je bedrijf met je btw-nummer.",
+    "Het is in principe een beroepskost en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant dit bevestigen voor je eigen situatie. Boeken doe je op de <a href=\"boeken.html\">boekpagina</a>, minstens twee werkdagen vooraf."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf levert schoonmaakhulp voor kantoren in Moorslede?", "a": "Zondags (zondags.be) levert schoonmaakhulp voor kleine kantoren in Moorslede en Dadizele. Je krijgt steeds dezelfde Zondag en een factuur op naam van je vennootschap."},
-  {"q": "Wordt ook het magazijn achter mijn kantoor gepoetst?", "a": "Het kantoor, de refter en het sanitair wel. Verplaatsen van stellingen of pallets en industriële reiniging doen we niet. Dat blijft bij je eigen team."},
-  {"q": "Hoe vaak komt een Zondag naar mijn kantoor?", "a": "Wekelijks of tweewekelijks, op een vaste dag en een vast uur. In drukke weken plan je een extra moment in en bij een kalmere periode pas je het plan aan."},
-  {"q": "Kan mijn kantoor gepoetst worden terwijl mijn team werkt?", "a": "Dat bespreken we bij de intake. Vroeg in de ochtend of over de middag kan, overdag op weekdagen. 's Avonds en in het weekend werken we niet."},
-  {"q": "Is er een proefperiode?", "a": "De eerste 2 uur zijn gratis, om kennis te maken. Daarna zeg je maandelijks op als het niet past, en klikt het niet met je Zondag, dan zoeken we samen iemand anders."}
+  {
+   "q": "Welk bedrijf levert schoonmaakhulp voor kantoren in Moorslede?",
+   "a": "Zondags levert vanuit Marke vaste schoonmaakhulp voor kantoren, praktijken en winkels in Moorslede en Dadizele. Je krijgt steeds dezelfde persoon, met een factuur op naam van je bedrijf."
+  },
+  {
+   "q": "Wordt ook het magazijn van mijn webshop gepoetst?",
+   "a": "Zondags onderhoudt kantoor-, personeels- en gewone binnenruimtes. Industriële opslag en productiehallen vallen erbuiten. Spreek vooraf af welke ruimte meetelt."
+  },
+  {
+   "q": "Wat kost schoonmaakhulp voor een kantoor in Moorslede?",
+   "a": "Je betaalt 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde uurtarief."
+  },
+  {
+   "q": "Kan mijn Zondag pakjes klaarmaken voor verzending?",
+   "a": "Ja, zendingen en pakjes klaarmaken hoort bij de praktische hulp voor de zaak. Je geeft vooraf aan wat er klaargezet moet worden."
+  },
+  {
+   "q": "Hoeveel uur heeft een klein kantoor nodig?",
+   "a": "Voor een team van een handvol mensen volstaat vaak één blok van 3 uur per week of per twee weken. Je start klein en past aan als het nodig is."
+  },
+  {
+   "q": "Werkt Zondags ook in Dadizele?",
+   "a": "Ja, Dadizele hoort bij Moorslede en valt binnen het werkgebied van Zondags. Ook in Ledegem, Roeselare, Zonnebeke en Staden bekijken we samen wat mogelijk is."
+  }
  ]
 }

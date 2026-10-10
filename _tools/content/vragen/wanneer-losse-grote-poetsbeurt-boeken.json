@@ -1,85 +1,36 @@
 {
  "path": "vragen/wanneer-losse-grote-poetsbeurt-boeken.html",
  "title": "Wanneer boek je een losse grote poetsbeurt?",
- "desc": "Wanneer boek je een losse grote poetsbeurt voor je kantoor, praktijk of winkel? Verhuis, nieuwe collectie, seizoenswissel: een planning op weekdagen.",
+ "desc": "Wanneer is een losse grote poetsbeurt voor je kantoor, praktijk of winkel zinvol? Momenten, een checklist, het aantal blokken van 3 uur en wat het kost.",
  "eyebrow": "Vraag",
  "h1": "Wanneer boek je een losse grote poetsbeurt?",
- "lead": "Een grote poetsbeurt hoort niet bij het dagelijkse leven, maar bij momenten waarop er iets verandert. Hieronder staan de situaties waarin het zinvol is.",
- "answer": "Boek een losse grote poetsbeurt bij een verhuis, een verbouwing van een ruimte die je zelf kan afronden, een nieuwe collectie of herinrichting, een seizoenswissel of vóór een belangrijk bezoek. Zondags (zondags.be) doet losse opdrachten overdag op weekdagen, naast of los van een vast plan. Bouwopkuis na werken en industriële reiniging doen we niet.",
- "facts": [
-  "Verhuis of herinrichting",
-  "Seizoenswissel",
-  "Voor een belangrijk bezoek",
-  "Overdag op weekdagen",
-  "Eerste 2 uur gratis"
- ],
+ "lead": "Een losse grote poetsbeurt is nuttig op momenten dat je zaak meer nodig heeft dan het gewone onderhoud. Met een blok van 3 uur of meer pak je het gericht aan.",
+ "answer": "Een losse grote poetsbeurt boek je voor momenten die het gewone onderhoud overstijgen: na een lange sluiting, bij een verhuis naar een ander pand, voor een openingsdag of klantenevent, of bij de overgang naar een nieuw seizoen. Bij Zondags (zondags.be) boek je dat online voor een weekdag in blokken van 3 uur aan 60 euro per uur exclusief btw, met extra uren aan hetzelfde tarief.",
+ "facts": ["Voor momenten boven het gewone onderhoud", "Boeken per blok van 3 uur", "Meerdere blokken of extra uren mogelijk", "Op een weekdag, minstens twee werkdagen vooraf", "60 euro per uur, per blok van 3 uur"],
  "sections": [
-  {
-   "h2": "De momenten die erom vragen",
-   "p": [
-    "<ul class=\"ticks\"><li>Een verhuis van kantoor, praktijk of winkel</li><li>Een herinrichting of nieuwe collectie</li><li>Het begin of einde van een seizoen, bijvoorbeeld de lente</li><li>Vóór een audit, open dag of belangrijk bezoek</li><li>Na een periode waarin niet gepoetst werd</li></ul>",
-    "In elk van die gevallen is het gewone onderhoud niet genoeg, want er zijn plekken die je normaal nooit bereikt."
-   ]
-  },
-  {
-   "h2": "Wat een grote beurt anders maakt",
-   "p": [
-    "Bij een grote beurt gaat de aandacht naar wat tussen twee reguliere beurten ligt: onderkanten van meubels, kastinterieurs, plinten, lampen die je zonder trap bereikt, hoeken achter grote meubels. Dat vraagt meer tijd dan een weekbeurt, dus plan je het op een weekdag overdag met ruime marge.",
-    "Wie dit twee keer per jaar doet, merkt dat het wekelijkse onderhoud lichter wordt, omdat er minder vuil opstapelt op plekken die anders nooit aan bod komen."
-   ]
-  },
-  {
-   "h2": "Hoe je het plant",
-   "p": [
-    "Bepaal eerst wat je wilt dat er gebeurt en wanneer het af moet zijn. Vraag een gesprek aan. We bekijken samen de ruimte en de datum, en een Zondag komt op de afgesproken weekdag. Bij een verhuis helpt het als de ruimte leeg of bijna leeg is. Bij een herinrichting wacht je tot de meubels staan."
-   ]
-  },
-  {
-   "h2": "Voorbeeld: een winkel bij een seizoenswissel",
-   "p": [
-    "Neem een winkel die van winterassortiment naar lente gaat. Rekken worden leeggehaald, de etalage wordt herschikt en paskamers krijgen nieuwe haken. Dat is het ideale moment: de ruimte is bijna leeg, en alles wat normaal onder de goederen verborgen zit, is bereikbaar.",
-    "Een Zondag poetst dan rekken, plinten, vloer, vitrines en paskamers grondig, op een weekdag overdag. Daarna kan je de nieuwe collectie inrichten op een schone basis. Wat de presentatie betreft, blijft dat bij jou."
-   ]
-  },
-  {
-   "h2": "Losse opdracht of vast plan",
-   "p": [
-    "Een losse opdracht is een eenmalige afspraak zonder verdere verbintenis. Wie merkt dat het gewone onderhoud ook mist, kan overstappen naar een vast zondagsplan met steeds dezelfde persoon. De eerste 2 uur zijn gratis om kennis te maken. Een vast plan is maandelijks opzegbaar. Zie ook <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."
-   ]
-  },
-  {
-   "h2": "Wat we niet doen",
-   "p": [
-    "Bouwopkuis na werken, industriële reiniging, productiehallen, gevelreiniging en werken op hoogte doen we niet. Een verbouwing waarbij er stof en puin overblijft, laat je dus eerst afronden door wie de werken deed. Daarna kan een Zondag de gewone grote beurt doen."
-   ]
-  },
-  {
-   "h2": "Facturatie",
-   "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Zondags factureert ook losse opdrachten via een dienstenfactuur op naam van je vennootschap. Het onderhoud van beroepsruimtes is een beroepskost. Laat je accountant dit bevestigen voor je eigen situatie."
-   ]
-  }
+  {"h2": "Wanneer een gewone beurt niet meer volstaat", "p": [
+   "Een vaste poetshulp houdt je zaak onderhouden, maar sommige momenten vragen meer tijd. Een losse grote beurt is een eenmalige inspanning die je zaak weer op nul zet, zonder dat je een vast plan nodig hebt.",
+   "Herken je een van de volgende situaties, dan loont het om een blok of twee te boeken."]},
+  {"h2": "Zes momenten waarop het zinvol is", "p": [
+   "<ul class=\"ticks\"><li>Na een lange sluiting, zoals een bouwverlof of een bedrijfssluiting</li><li>Bij een verhuis naar een ander kantoor of een andere winkel, nadat de dozen weg zijn</li><li>Voor een openingsdag, klantenevent of open deur</li><li>Bij de overgang naar een nieuw seizoen, bijvoorbeeld voor de drukke feestdagen</li><li>Wanneer je een praktijk of winkel overneemt en met een schone lei wil starten</li><li>Vlak voor een bezoek van een belangrijke klant, auditeur of inspecteur</li></ul>"]},
+  {"h2": "Hoeveel blokken heb je nodig", "p": [
+   "Een kleine ruimte met enkele bureaus en een keuken is vaak klaar in één blok van 3 uur. Een praktijk met meerdere behandelkamers, een wachtzaal en sanitair vraagt eerder twee blokken, of een blok met extra uren.",
+   "Je kan ook in twee stappen werken: een eerste blok voor de grote ruimtes, een tweede blok een paar dagen later voor wat overblijft. Dat geeft je ook de tijd om te controleren wat nog aandacht vraagt."]},
+  {"h2": "Een voorbeeld: een kantoor na de zomersluiting", "p": [
+   "Stel: je hebt een architectenbureau dat drie weken gesloten was. De bureaus liggen vol stof, de frigo is leeg en de vloeren hebben aandacht nodig. Je boekt twee blokken op maandag en dinsdag, voor het team terug is, en je Zondag zet de zaak klaar.",
+   "Eens het ritme terug is, kan je overschakelen op een kleiner, vast plan. Lees meer over die overstap bij <a href=\"vragen/vaste-poetshulp-of-losse-opdracht.html\">vaste poetshulp of losse opdracht</a>."]},
+  {"h2": "Wat er niet bij hoort", "p": [
+   "Een losse grote poetsbeurt blijft binnen het aanbod van Zondags. Gevelreiniging, werken op hoogte, industriële reiniging en het opkuisen na bouwwerken vallen er niet onder. Bouw je je zaak om, boek dan pas een beurt nadat de werken afgerond en de ruimte leeggemaakt is."]},
+  {"h2": "Prijs en hoe je het boekt", "p": [
+   "Een blok van 3 uur kost 180 euro exclusief btw, extra uren 60 euro per uur exclusief btw. Je betaalt online en krijgt een factuur op naam van je bedrijf. Poetshulp voor de zaak is in principe een beroepskost, maar laat je accountant dit bevestigen voor je eigen situatie.",
+   "Kies op de <a href=\"boeken.html\">boekpagina</a> je weekdag, het aantal blokken en de taken. Houd er rekening mee dat je minstens twee werkdagen vooraf boekt."]}
  ],
  "faq": [
-  {
-   "q": "Wanneer boek je een losse grote poetsbeurt?",
-   "a": "Bij een verhuis, een herinrichting of nieuwe collectie, een seizoenswissel of vóór een belangrijk bezoek. Zondags (zondags.be) doet dat overdag op weekdagen."
-  },
-  {
-   "q": "Is een losse poetsbeurt mogelijk zonder vast plan?",
-   "a": "Ja. Losse opdrachten zijn mogelijk, zonder verdere verbintenis. Wie later een vast plan wil, kan overstappen."
-  },
-  {
-   "q": "Doen jullie een opkuis na een verbouwing?",
-   "a": "Nee. Bouwopkuis na werken doen we niet. Een gewone grote poetsbeurt nadat de werken afgerond en de puin opgeruimd is, kan wel."
-  },
-  {
-   "q": "Hoe lang van tevoren moet ik boeken?",
-   "a": "Dat hangt af van je datum en van de beschikbaarheid. Neem zo vroeg mogelijk contact op, dan bekijken we binnen één werkdag samen de planning."
-  },
-  {
-   "q": "Werken jullie ook buiten de werkuren voor een grote beurt?",
-   "a": "Nee. We werken overdag op weekdagen, nooit 's avonds en nooit in het weekend. Ook vroeg in de ochtend of over de middag kan."
-  }
+  {"q": "Wanneer boek ik best een losse grote poetsbeurt?", "a": "Bij een verhuis, na een lange sluiting, voor een opening of klantenevent, of bij de overgang naar een nieuw seizoen. Dan gaat het om meer dan het gewone onderhoud."},
+  {"q": "Hoeveel kost een losse grote poetsbeurt?", "a": "Een blok van 3 uur kost 180 euro exclusief btw. Heb je meer tijd nodig, dan boek je extra uren aan 60 euro per uur exclusief btw."},
+  {"q": "Kan ik een grote beurt boeken zonder vast plan?", "a": "Ja, je boekt gewoon online een blok of meer op een weekdag, zonder dat je een vast, terugkerend plan afspreekt."},
+  {"q": "Hoeveel blokken heeft mijn praktijk nodig?", "a": "Dat hangt af van het aantal ruimtes. Een praktijk met enkele behandelkamers en een wachtzaal start vaak met twee blokken. Twijfel je, bel dan naar 0470 56 53 58."},
+  {"q": "Kan een grote poetsbeurt in het weekend?", "a": "Nee. Zondags werkt overdag op weekdagen, nooit 's avonds en nooit in het weekend."},
+  {"q": "Doet Zondags ook poetsen na een verbouwing?", "a": "Nee, het opkuisen na bouwwerken valt buiten het aanbod. Boek pas wanneer de werken klaar zijn en de ruimte leeggemaakt is."}
  ]
 }

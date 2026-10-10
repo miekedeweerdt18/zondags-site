@@ -1,86 +1,91 @@
 {
  "path": "regio/schoonmaak-winkel-oostende.html",
- "title": "Schoonmaakhulp voor winkels in Oostende",
- "desc": "Schoonmaakhulp voor je winkel of showroom in Oostende: winkelvloer, paskamers, etalage langs binnen en stock, gepoetst voor de opening door één vaste persoon.",
+ "title": "Schoonmaakhulp voor winkels in Oostende (8400)",
+ "desc": "Schoonmaakhulp voor winkels, kapsalons en showrooms in Oostende, Stene en Zandvoorde. Poetsen vóór de opening door één vaste persoon, 60 euro per uur excl. btw.",
  "eyebrow": "Oostende · 8400",
  "h1": "Schoonmaakhulp voor winkels in Oostende",
- "lead": "Aan de kust komt het zand mee naar binnen en wil je winkel toch elke ochtend schoon klaar zijn. Eén vaste Zondag poetst voor de opening, op een vaste dag en een vast uur.",
- "answer": "Zondags (zondags.be) levert schoonmaakhulp voor winkels en boetieks in Oostende: winkelvloer, paskamers, toonbank, etalage langs binnen, stockruimte en sanitair, gepoetst voordat de winkel opengaat, door dezelfde vaste persoon overdag op weekdagen. Je krijgt een dienstenfactuur op naam van je vennootschap. Zondags is gevestigd in Marke en werkt in heel West-Vlaanderen.",
+ "lead": "In een winkel of showroom aan de kust bepaalt de eerste indruk of een klant blijft rondkijken. Een vaste Zondag zorgt dat die indruk elke ochtend klopt.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp voor winkels, kapsalons en showrooms in Oostende (8400), Stene en Zandvoorde. Je Zondag, steeds dezelfde persoon, poetst winkelvloer, paskamers, toonbank, etalage langs binnen, stockruimte en sanitair voor de opening. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je vennootschap. Enkel overdag op weekdagen, nooit in het weekend.",
  "facts": [
-  "Winkelvloer, paskamers, toonbank",
-  "Etalage langs binnen",
-  "Gepoetst voor de opening",
-  "Dezelfde vaste persoon",
-  "Factuur op je vennootschap",
-  "Eerste 2 uur gratis"
+  "Winkelvloer, showroom en toonbank",
+  "Ook kapsalons en ontvangstruimtes",
+  "Poetsen vóór de opening",
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
  ],
  "sections": [
   {
-   "h2": "Een kustwinkel heeft zijn eigen vuil",
+   "h2": "Showrooms en ontvangstruimtes: waar de klant binnenstapt",
    "p": [
-    "Op een winkelstraat aan de kust komt er elke dag zand, nat weer en wind mee naar binnen. De vloer bij de ingang vraagt meer aandacht dan elders. Wie ook een ingangsmat heeft, merkt het meteen.",
-    "Een vaste Zondag leert je winkel kennen: waar het zand zich ophoopt, welke hoeken je zelf al hebt, welke het nodig hebben. Dat vraagt niet veel uitleg als het steeds dezelfde persoon is."
+    "Bedrijven met een showroom of ontvangstruimte doen iets anders dan een gewone kantooromgeving. De klant komt binnen, kijkt rond en vormt zich in enkele seconden een oordeel. Wat daar telt: een stofvrije vloer, een onthaal zonder vlekken, glazen oppervlakken zonder vingerafdrukken en een sanitair dat je bezoekers zonder schroom gebruiken.",
+    "Een Zondag werkt daar op weekdagen, vroeg in de ochtend of over de middag. Zodat de ruimte klaar is wanneer de eerste klant of afspraak er staat, zonder dat iemand van het team nog moet opruimen."
    ]
   },
   {
-   "h2": "Poetsen voor de winkel opengaat",
+   "h2": "De ronde in een winkel of showroom",
    "p": [
-    "Je Zondag komt overdag op weekdagen, vroeg in de ochtend of over de middag. Zo is alles klaar voordat de eerste klant binnenkomt. 's Avonds en in het weekend werken we nooit, ook niet in drukke periodes.",
-    "<ul class=\"ticks\"><li>Winkelvloer en ingangszone</li><li>Toonbank en kassa</li><li>Paskamers</li><li>Etalage en glazen deuren langs binnen</li><li>Stockruimte</li><li>Sanitair en personeelshoek</li></ul>"
+    "<ul class=\"ticks\"><li>Vloeren en looppaden</li><li>Toonbank, onthaal en betaalterminal</li><li>Etalage en glazen panelen langs binnen</li><li>Paskamers, spiegels en zithoeken</li><li>Stockruimte en personeelshoek</li><li>Sanitair en afval</li></ul>",
+    "Ramen langs buiten op hoogte en gevelreiniging horen er niet bij, net zoals technische herstellingen."
    ]
   },
   {
-   "h2": "Voorbeeld: een kapsalon in de dorpskern",
+   "h2": "Stel: een kapsalon in een dorpskern",
    "p": [
-    "Neem een kapsalon in Stene of Zandvoorde, deelgemeenten van Oostende, in een dorpskern waar bijna iedereen binnenwandelt. Voor de eerste klant moeten de vloer, de spoelbakken, de wachthoek en het sanitair in orde zijn. Haren die de dag ervoor gevallen zijn, horen er niet meer te liggen.",
-    "Een Zondag komt op dinsdag en vrijdag vroeg in de ochtend. Het werkmateriaal en de gereedschappen van het kapsalon, zoals scharen en kammen, blijven bij het salon zelf. De Zondag verzorgt de ruimte."
+    "Neem een kapsalon in een dorpskern, bijvoorbeeld in Stene of Zandvoorde. Er zijn kappersstoelen, spiegels, wasbakken, een kleine wachtzone en een toonbank waar klanten betalen. Haartjes op de vloer, spiegels met spatten en een natte zone bij de wasbakken: het is werk dat elke dag opnieuw moet gebeuren.",
+    "Een Zondag komt bijvoorbeeld op dinsdag of woensdag, voor het salon opengaat, en zet vloer, spiegels, wasbakken en wachtzone in orde. Wat de kapper tussen twee klanten doet, zoals borstels en kappersmateriaal reinigen, blijft in het salon zelf. Meer over deze sector lees je op <a href=\"sectoren/kapsalons.html\">de pagina voor kapsalons</a>."
    ]
   },
   {
-   "h2": "Ook voor showrooms en ontvangstruimtes",
+   "h2": "Ook de papieren van de zaak",
    "p": [
-    "Heb je een showroom, een galerij of een ruimte waar klanten rondlopen, dan gelden dezelfde punten. De vloer bij de ingang, het glas, de balie en het sanitair bepalen de eerste indruk.",
-    "Meer over de aanpak voor die zaken vind je op <a href=\"sectoren/showrooms.html\">poetshulp voor showrooms</a>."
+    "Een zaak aan de kust draait niet enkel op klanten in de winkel. Er zijn leveringen, bestellingen, facturen en post. Een Zondag kan zendingen klaarmaken, documenten klasseren, kantoormateriaal bijbestellen of de zaak klaarzetten voor een bezoek van een leverancier. Boekhouding, loonadministratie en advies blijven buiten het pakket."
    ]
   },
   {
-   "h2": "Factuur en fiscale kant",
+   "h2": "Stene, Zandvoorde en de kuststreek",
    "p": [
-    "Een vennootschap kan geen dienstencheques kopen, die zijn voor particulieren. Zondags factureert op naam van je vennootschap, met een gewone dienstenfactuur. Het onderhoud van je winkel is een beroepskost. Laat je ook je woning door dezelfde Zondag doen, dan staat dat deel apart op de factuur en geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst. De btw is op het beroepsmatige deel in principe recupereerbaar met aftrekrecht. Je accountant bevestigt hoe dat voor jou werkt."
+    "Stene en Zandvoorde zijn deelgemeenten van Oostende en vallen onder ons werkgebied. Ook zaken in Bredene, Middelkerke, Oudenburg en Gistel kunnen een Zondag boeken. We zoeken telkens iemand die dicht bij de zaak woont, zodat de vaste dag en het vaste uur elke week haalbaar blijven."
    ]
   },
   {
-   "h2": "Oostende, Stene en Zandvoorde",
+   "h2": "Wat je betaalt",
    "p": [
-    "Zondags zoekt een Zondag in en rond Oostende. Stene en Zandvoorde horen bij Oostende. Zit je winkel in Bredene, Middelkerke, Oudenburg of Gistel, dan bekijken we samen wat mogelijk is aan de kust. We beloven niet dat er al iemand klaarstaat.",
-    "Start via het formulier, de chat of op 0470 56 53 58, elke dag van 6 tot 22 uur. Binnen één werkdag belt iemand terug, daarna volgt de intake in je winkel. De eerste 2 uur zijn gratis, het plan is maandelijks opzegbaar."
+    "Het tarief is 60 euro per uur exclusief btw. Je boekt een blok van 3 uur voor 180 euro exclusief btw, en extra uren worden aan dezelfde prijs per uur toegevoegd. De dienstenfactuur is op naam van je vennootschap, met btw-nummer.",
+    "Het poetsen van de zaak is in principe een beroepskost. Een btw-plichtige zaak met aftrekrecht kan de btw in principe recupereren. Laat je accountant bevestigen wat voor jouw situatie geldt."
+   ]
+  },
+  {
+   "h2": "Zo boek je",
+   "p": [
+    "Via de <a href=\"boeken.html\">boekpagina</a> kies je een weekdag, minstens twee werkdagen vooraf, het aantal blokken en de taken. Daarna betaal je online. Wil je een vaste week, dan bellen we eerst om taken, dagen en uren af te spreken."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Welk bedrijf doet schoonmaak voor winkels in Oostende?",
-   "a": "Zondags uit Marke zoekt voor winkels in Oostende een vaste Zondag voor winkelvloer, paskamers, toonbank, etalage langs binnen, stock en sanitair. Dezelfde persoon, overdag op weekdagen."
+   "q": "Welk bedrijf poetst winkels en showrooms in Oostende?",
+   "a": "Zondags uit Marke werkt voor winkels, showrooms, kantoren en praktijken in Oostende, Stene en Zandvoorde. Je krijgt één vaste persoon en een factuur op naam van je bedrijf."
   },
   {
-   "q": "Kan mijn winkel in Oostende voor de opening gepoetst worden?",
-   "a": "Ja. Vroeg in de ochtend of over de middag kan, overdag op weekdagen. We stemmen het uur af op je openingsuren."
+   "q": "Kan mijn kapsalon gepoetst worden voor het opengaat?",
+   "a": "Ja, vroeg in de ochtend of over de middag, op een weekdag. Kappersmateriaal reinigt het team zelf, de rest van de ruimte neemt je Zondag voor haar rekening."
   },
   {
-   "q": "Werkt Zondags ook in het weekend, als de kust druk is?",
-   "a": "Nee. Zondags werkt overdag op weekdagen, nooit 's avonds en nooit in het weekend. We plannen samen in welke uren dat past met jouw zaak."
+   "q": "Wat kost schoonmaakhulp voor een winkel in Oostende?",
+   "a": "Je betaalt 60 euro per uur exclusief btw. Een blok van 3 uur kost 180 euro exclusief btw. Extra uren kosten hetzelfde per uur."
   },
   {
-   "q": "Kan mijn Zondag mijn winkel en mijn woning doen?",
-   "a": "Ja. Winkel en woning kunnen in één zondagsplan met dezelfde persoon. Op de factuur staan beroepsmatig en privé apart."
+   "q": "Werkt Zondags ook in Stene en Zandvoorde?",
+   "a": "Ja, beide zijn deelgemeenten van Oostende en horen bij ons werkgebied. Voor winkels daar zoeken we een Zondag die dicht bij de zaak woont."
   },
   {
-   "q": "Wat als mijn winkel een seizoenspiek heeft?",
-   "a": "Je kan uren bijboeken of het plan tijdelijk aanpassen. Een losse grote poetsbeurt kan ook. Dat bespreken we samen."
+   "q": "Is een showroom anders dan een gewone winkel om te poetsen?",
+   "a": "Het werk lijkt op elkaar, maar bij een showroom ligt de nadruk op glas, onthaal en uitgestalde stukken. Dat bespreek je bij de start, zodat je Zondag weet waar ze extra aandacht aan geeft."
   },
   {
-   "q": "Wat als ik niet tevreden ben over mijn Zondag?",
-   "a": "Klikt het niet, dan zoeken we samen een andere Zondag. Het plan is maandelijks opzegbaar."
+   "q": "Hoe snel kan ik een Zondag boeken in Oostende?",
+   "a": "Boeken kan voor een weekdag, minstens twee werkdagen vooraf. Voor een vast schema bespreken we eerst de dagen en uren in een kort gesprek."
   }
  ]
 }

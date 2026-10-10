@@ -1,34 +1,35 @@
 {
  "path": "sectoren/kleedkamers-en-douches.html",
  "title": "Poetshulp voor kleedkamers en douches op het werk",
- "desc": "Poetshulp voor personeelskleedkamers en douches: vloeren, banken, douches, lockers langs buiten, plus aandacht voor vocht en geurtjes. Eén vaste Zondag overdag.",
+ "desc": "Poetshulp voor kleedkamers en douches in je bedrijf: lockers langs de buitenkant, douches, vloeren, ventilatie en geurtjes. Eén vaste persoon, 60 euro per uur.",
  "eyebrow": "Kleedkamers en douches",
  "h1": "Poetshulp voor kleedkamers en douches op het werk",
- "lead": "Waar mensen zich omkleden en douchen, hangt vocht en blijft geur hangen. Een vaste Zondag poetst kleedkamers en douches op een moment dat ze leeg zijn, en je team houdt de ruimte droog tussendoor.",
- "answer": "Zondags (zondags.be) levert poetshulp voor kleedkamers en douches op het werk: één vaste persoon, je Zondag, voor kleedkamers, de buitenkant van lockers, douches en vloeren, met aandacht voor vocht en geurtjes, overdag op weekdagen wanneer de ruimte leeg is. De lockers zelf worden niet geopend. De dienstenfactuur is een gewone factuur op naam van je vennootschap.",
- "facts": ["Kleedkamers, douches en vloeren", "Lockers langs de buitenkant", "Aandacht voor vocht en geurtjes", "Poetsen wanneer de ruimte leeg is", "Factuur aan je vennootschap"],
+ "lead": "Een kleedkamer is een plek die nooit droog is en nooit helemaal leeg. Eén vaste Zondag houdt kleedkamers, douches, vloeren en lockers langs de buitenkant op orde en pakt geurtjes aan.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor kleedkamers en douches in een bedrijf: één vaste persoon, je Zondag, voor kleedkamers, lockers langs de buitenkant, douches, vloeren en het aanpakken van vocht en geurtjes. Het gaat om kleedruimtes voor het personeel. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je bedrijf.",
+ "facts": ["Kleedkamers, douches en vloeren", "Lockers langs de buitenkant", "Vocht en geurtjes aanpakken", "Steeds dezelfde Zondag", "60 euro per uur, per blok van 3 uur", "Online boeken en betalen"],
  "sections": [
-  {"h2": "Waarom een kleedkamer sneller verwaarloost dan een kantoor", "p": [
-   "Een kleedkamer heeft drie vijanden: vocht, warmte en haast. Mensen komen binnen met natte haren, vochtige kleding en sportschoenen en vertrekken weer voor het tegelwerk droog is. Dat is de voedingsbodem voor geurtjes, kalkaanslag en schimmel in de voegen. Een vaste beurt houdt dat in de hand. Zonder regelmaat groeit het uit tot een probleem."]},
-  {"h2": "Wat je Zondag doet", "p": [
-   "<ul class=\"ticks\"><li>Kleedkamers: banken, haken, rekken en vloer</li><li>Lockers langs de buitenkant, de bovenkant en de deuren</li><li>Douches: vloer, wanden, kranen, kalk en afvoer</li><li>Toiletten en lavabo's bij de kleedkamer</li><li>Spiegels en deurklinken</li><li>Afvalbakken leegmaken, zakken vervangen</li><li>Roosters van de ventilatie, voor zover binnen handbereik</li></ul>"]},
-  {"h2": "Lockers: langs de buitenkant, nooit langs binnen", "p": [
-   "Je Zondag opent geen lockers. Wat erin ligt, is van de gebruiker. De buitenkant, de bovenkant en de deuren krijgen een beurt, net als het stuk vloer eronder. Een locker langs binnen schoonmaken, doen jij of de gebruiker. Vergeten spullen neemt je Zondag niet mee, maar meldt je Zondag aan jou."]},
-  {"h2": "Vocht, ventilatie en geurtjes", "p": [
-   "Geurtjes verdwijnen niet met een goedgeurend product. Ze verdwijnen met droogte en frisse lucht. Dat betekent: ramen of ventilatie die openstaan, douchedeuren die open blijven na gebruik en natte handdoeken die niet in lockers blijven hangen.",
-   "Je Zondag poetst de roosters en de vloer en meldt het wanneer de ventilatie niet meer lijkt te werken. Technisch onderhoud of vervanging van de ventilatie is werk voor een vakman."]},
-  {"h2": "Wanneer: als de ruimte leeg is", "p": [
-   "Een natte vloer is glad. Daarom komt je Zondag wanneer niemand zich omkleedt of doucht. Staat je ploeg overdag buiten of op de baan, zoals bij <a href=\"sectoren/bouwbedrijven.html\">bouwbedrijven</a>, dan is dat ruim voldoende tijd. Voor een studio, zoals bij <a href=\"sectoren/fitness-en-yogastudios.html\">fitness- en yogastudio's</a>, spreken we een daluur af. Het moment waarop de ruimte het drukst is, 's avonds of in het weekend, valt buiten onze uren."]},
-  {"h2": "Kleine gewoontes voor je team", "p": [
-   "Natte kleding niet in de kleedkamer laten liggen, een handdoek niet in een locker laten hangen, na het douchen het water naar de afvoer trekken en de deur laten openstaan: dat zijn kleine afspraken met een groot effect. Een bordje bij de deur is genoeg."]},
-  {"h2": "Factuur en eerste stap", "p": [
-   "Het onderhoud van kleedkamers en douches voor je personeel is een beroepskost op een gewone dienstenfactuur op naam van je vennootschap. Laat je accountant bevestigen hoe dat voor jouw situatie werkt. Je start via het formulier of de chat, en de eerste 2 uur zijn gratis, zodat je eerst kan zien wat het verschil is in de ruimte."]}
+  {"h2": "Waarom een kleedkamer snel gaat ruiken", "p": [
+   "In een kleedkamer komen drie dingen samen: vocht, warmte en kleding. Een natte handdoek in een gesloten locker, een douchehokje dat niet droog raakt, een vloer met roosters waar water blijft staan. Samen zorgen ze binnen een paar dagen voor een geur die je niet meer kwijtraakt met een raam open.",
+   "Het goede nieuws is dat de oorzaken voorspelbaar zijn. Met een vaste ronde en een paar afspraken met het team houd je het onder controle."]},
+  {"h2": "De ronde per bezoek", "p": [
+   "<ul class=\"ticks\"><li>Douchehokjes: wanden, vloer, afvoerroosters en kranen</li><li>Kleedkamer: banken, haken en vloer</li><li>Lockers enkel langs de buitenkant en de bovenkant</li><li>Spiegels en wastafels</li><li>Sanitair naast de kleedkamer</li><li>Afval en vuile handdoeken in de juiste bak</li></ul>",
+   "De inhoud van de lockers blijft van de medewerkers. Je Zondag opent ze niet en neemt er niets uit, behalve als jij dat vooraf afspreekt, bijvoorbeeld bij een jaarlijkse opruiming."]},
+  {"h2": "Ventilatie en geurtjes", "p": [
+   "Een kleedkamer die niet verlucht wordt, blijft vochtig. Je Zondag zet na het poetsen ramen en roosters open waar dat kan, controleert of de ventilatie-uitgang vrij is van stof en laat de deur van de douche open om te drogen. Een verstopte afvoer, schimmel op voegen of een defect ventilatiesysteem is een zaak voor een technicus. Wij melden het aan jou, we herstellen het niet.",
+   "Werk je met een vaste ploeg die vuil werk doet, dan is een extra poetsbeurt per week vaak het eenvoudigste antwoord op het geurprobleem."]},
+  {"h2": "Een voorbeeld: een bouwmaterialengroothandel met een personeelskleedkamer", "p": [
+   "Neem een groothandel met een magazijn, een kantoor en een kleedkamer voor tien medewerkers. De magazijnploeg gebruikt de douche na een zware dag. Je Zondag komt tweemaal per week over de middag, met de douches en de kleedkamer als eerste punt, daarna het kantoor en de refter. Het magazijn zelf valt buiten ons werk.",
+   "Voor de ruimtes ernaast, zoals het sanitair, werk je met hetzelfde plan. Je leest er meer over bij <a href=\"sectoren/sanitair-op-kantoor.html\">sanitair op kantoor laten poetsen</a>."]},
+  {"h2": "Gewoontes in het team", "p": [
+   "Een handdoek hoort niet in een gesloten locker en natte schoenen niet op de bank. Als het team dat weet, blijft de kleedkamer langer fris. Je Zondag kan een kaartje ophangen met de afspraken, zodat het geen discussie hoeft te zijn."]},
+  {"h2": "Prijs, factuur en boeken", "p": [
+   "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw. Extra uren kosten hetzelfde. De factuur staat op naam van je bedrijf. Het onderhoud is in principe een beroepskost. Laat je accountant het btw-aspect bevestigen. Boeken doe je op de <a href=\"boeken.html\">boekpagina</a>."]}
  ],
  "faq": [
-  {"q": "Hoe vaak moeten kleedkamers en douches op het werk gepoetst worden?", "a": "Dat hangt af van het aantal gebruikers en hoe vaak ze douchen. Bij een kleine ploeg volstaat een vaste beurt per week, bij veel gebruikers voeg je beurten toe. Je stuurt het plan bij als geurtjes of kalk opduiken."},
-  {"q": "Hoe krijg je geurtjes uit een kleedkamer?", "a": "Met droogte en ventilatie, niet met parfum. Laat ramen of ventilatie openstaan, hang natte handdoeken niet in lockers en laat douchedeuren open na gebruik. Je Zondag poetst vloeren, banken en roosters."},
-  {"q": "Opent de poetshulp de lockers van mijn personeel?", "a": "Nee. Lockers poetst je Zondag langs de buitenkant. Wat erin ligt, blijft van de gebruiker. Een locker langs binnen schoonmaken, doen jij of de gebruiker."},
-  {"q": "Kan de poetshulp de douches doen tijdens de werkuren?", "a": "Ja, op een moment dat niemand er is, zodat er geen natte vloer in de weg ligt. We werken enkel overdag op weekdagen, bijvoorbeeld vroeg in de ochtend of over de middag."},
-  {"q": "Wat doet de poetshulp bij een verstopte afvoer of een lekkende kraan in de douche?", "a": "Je Zondag meldt het aan jou. Een herstelling is werk voor een vakman, niet voor Zondags. Haren en zeepresten in de afvoer haalt je Zondag wel weg bij elke beurt."}
+  {"q": "Poetst Zondags ook de binnenkant van de lockers?", "a": "Nee, enkel langs de buitenkant en de bovenkant. De inhoud van de lockers blijft van de medewerkers, tenzij je iets anders afspreekt."},
+  {"q": "Wat doet Zondags tegen geurtjes in de kleedkamer?", "a": "Vloeren, banken en douches grondig reinigen, vocht laten drogen en de ventilatie vrijmaken. Een technisch probleem melden we aan jou."},
+  {"q": "Hoe vaak moeten kleedkamers en douches gepoetst worden?", "a": "Bij dagelijks gebruik zijn twee bezoeken per week een goede basis. Wordt er weinig gedoucht, dan volstaat één bezoek per week."},
+  {"q": "Wat kost het poetsen van kleedkamers en douches?", "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief."},
+  {"q": "Doet Zondags ook de kleedkamers van een productiehal?", "a": "Enkel de kleedruimtes van het personeel. Productiehallen, industriële reiniging en technische herstellingen vallen buiten ons werk."}
  ]
 }

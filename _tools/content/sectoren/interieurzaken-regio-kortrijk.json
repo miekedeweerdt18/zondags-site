@@ -1,37 +1,89 @@
 {
  "path": "sectoren/interieurzaken-regio-kortrijk.html",
  "title": "Poetshulp voor interieurzaken in Kortrijk en omgeving",
- "desc": "Toonzaal, stof afnemen, glas langs binnen en vloeren: een vaste Zondag voor je interieurzaak in Kortrijk, de deelgemeenten en de buurgemeenten.",
- "eyebrow": "Interieurzaken · Kortrijk",
+ "desc": "Eén vaste Zondag voor de toonzaal van je interieurzaak in Kortrijk, de deelgemeenten en de buurgemeenten. Online boeken, 60 euro per uur exclusief btw.",
+ "eyebrow": "Interieurzaken · Kortrijk 8500",
  "h1": "Poetshulp voor interieurzaken in Kortrijk en omgeving",
- "lead": "Een toonzaal vol meubels en decoratie moet elke dag klaar zijn voor klanten. Een vaste Zondag neemt het stof, het glas en de vloeren voor zijn rekening.",
- "answer": "Zondags (zondags.be) levert poetshulp voor interieurzaken in Kortrijk en omgeving: een vaste Zondag neemt in je toonzaal het stof af, poetst glas langs binnen en vloeren en onderhoudt het onthaal. Dat kan in Kortrijk, de deelgemeenten en gemeenten errond, overdag op weekdagen. Je krijgt een dienstenfactuur op naam van je vennootschap, en je woning kan in hetzelfde plan.",
- "facts": ["Toonzaal, stof, glas langs binnen", "Kortrijk en deelgemeenten", "Overdag op weekdagen", "Ook je woning in één plan", "Factuur op je vennootschap"],
+ "lead": "Een toonzaal in Kortrijk of de buurt die er elke ochtend uitnodigend bijligt, zonder dat je team de stofdoek moet vastnemen. Dat regelt je vaste Zondag.",
+ "answer": "Zondags (zondags.be) levert aan interieurzaken in Kortrijk en omgeving één vaste persoon voor de toonzaal, het onthaal, het sanitair en de personeelsruimtes. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk, en is actief in West- en Oost-Vlaanderen. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en ontvangt een factuur op naam van je vennootschap.",
+ "facts": [
+  "Kortrijk, deelgemeenten en buurgemeenten",
+  "Vaste dag en vast uur",
+  "Toonzaal, onthaal en sanitair",
+  "Factuur op naam van je vennootschap",
+  "60 euro per uur, per blok van 3 uur"
+ ],
  "sections": [
-  {"h2": "Een toonzaal vraagt een zachte hand", "p": [
-   "In een interieurzaak liggen kussens, lampen, vazen en kleine meubels naast elkaar. Alles moet er netjes en uitnodigend bijstaan, zonder dat iets verschuift. Een kleurige stoel naast een stoffig tafeltje verkoopt niet.",
-   "Een vaste Zondag leert je toonzaal kennen: welke stukken breekbaar zijn, hoe je de opstelling terugzet en welk meubel nooit in de zon mag staan. Dat vertrouwen bouw je op met één persoon."]},
-  {"h2": "Wat er in je interieurzaak gebeurt", "p": [
-   "<ul class=\"ticks\"><li>Stof afnemen van meubels, decoratie en rekken</li><li>Glas en spiegels langs binnen</li><li>Vloeren stofzuigen of dweilen, afhankelijk van de vloer</li><li>Onthaal en kassa afnemen</li><li>Sanitair en personeelsruimte</li></ul>",
-   "Ramen langs buiten op hoogte, gevelreiniging en werken op hoogte horen er niet bij. De etalage poetsen we langs binnen."]},
-  {"h2": "Voorbeeld: een tandartspraktijk met twee behandelkamers, naast een interieurzaak", "p": [
-   "Stel: in dezelfde straat in Kortrijk zitten een interieurzaak en een tandartspraktijk met twee behandelkamers. Beide bestellen een vaste Zondag, maar elk met een eigen plan. De interieurzaak vraagt vooral stof en glas, de praktijk wachtzaal, vloeren en sanitair.",
-   "Sterilisatie en medisch materiaal blijven bij de tandarts. Het voorbeeld laat zien dat Zondags geen standaardpakket levert maar een plan op maat, na een kort gesprek."]},
-  {"h2": "Kortrijk, de deelgemeenten en daarbuiten", "p": [
-   "Zondags is gevestigd in Marke, een deelgemeente van Kortrijk. We zoeken voor je interieurzaak een Zondag in Kortrijk, Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem. Ook in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede kan je terecht.",
-   "We beloven niet dat er al iemand klaarstaat, wel dat we zoeken naar iemand die bij je zaak past. Meer over de aanpak in de stad lees je bij <a href=\"poetshulp/kortrijk.html\">poetshulp in Kortrijk</a>."]},
-  {"h2": "Wanneer er gepoetst wordt", "p": [
-   "Een toonzaal wordt best gepoetst voor de eerste klanten binnenkomen. Vroeg in de ochtend of over de middag kan, op weekdagen. Zondags werkt nooit 's avonds en nooit in het weekend. Heb je een winkel die in het weekend het drukst is, plan dan een beurt op vrijdag of maandag, zodat alles net voor de drukte klaarstaat."]},
-  {"h2": "Factuur, woning en starten", "p": [
-   "Een vennootschap kan geen dienstencheques kopen. Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van je zaak is een beroepskost. Laat je ook je woning poetsen, dan staat dat apart op de factuur, als forfaitair voordeel van alle aard onder voorwaarden. Laat je accountant bevestigen hoe dat voor jou werkt.",
-   "Je vraagt een gesprek aan via het formulier of de chat, binnen één werkdag bellen we terug. De eerste 2 uur zijn gratis."]}
+  {
+   "h2": "Een toonzaal onderhouden zonder je eigen team te belasten",
+   "p": [
+    "Wie in Kortrijk een zaak heeft voor meubels, verlichting, vloeren of decoratie, weet hoe snel een toonzaal veroudert in de ogen van een bezoeker. Stof op een kast, een vlek op de vloer of een vuile spiegel zegt iets over hoe je met je producten omgaat.",
+    "Je Zondag komt op een vaste dag en een vast uur, steeds dezelfde persoon. Ze leert de zaak kennen: welke stukken kwetsbaar zijn, waar de koffiehoek staat en welke hoek elke week extra aandacht vraagt."
+   ]
+  },
+  {
+   "h2": "Wanneer wordt er gepoetst",
+   "p": [
+    "Overdag, op weekdagen. Voor interieurzaken is vroeg in de ochtend vaak het handigst: de zaak is stil, het licht valt mooi en alles ligt klaar voor de eerste bezoeker. Wil je liever over de middag, dan kan dat ook. Avonden en weekends zijn uitgesloten, zodat ook je Zondag een vast ritme heeft.",
+    "Een nieuwe opdracht boek je op de <a href=\"boeken.html\">boekpagina</a>, minstens twee werkdagen vooraf. Voor een wekelijks plan bespreken we eerst in een kort gesprek welke taken, dagen en uren passen."
+   ]
+  },
+  {
+   "h2": "Kortrijk en de deelgemeenten",
+   "p": [
+    "We zoeken Zondags in en rond Kortrijk, met postcode 8500. Dat omvat Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem, die allemaal bij Kortrijk horen. Een zaak langs een drukke invalsweg of in een dorpskern krijgt dezelfde aanpak: een vast moment in de week en een Zondag die de zaak kent."
+   ]
+  },
+  {
+   "h2": "Ook in de buurgemeenten",
+   "p": [
+    "Ligt je toonzaal in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem of Lendelede, dan helpen we je evengoed. Voor wie meerdere vestigingen heeft, bekijken we samen of één Zondag het ritme kan combineren of dat een tweede persoon nodig is. Welke afspraken dat zijn, leg je vast in het zondagsplan."
+   ]
+  },
+  {
+   "h2": "Een vergelijking: de tandartspraktijk met twee behandelkamers",
+   "p": [
+    "Neem een tandartspraktijk met twee behandelkamers in dezelfde straat. Daar poetst een Zondag de wachtzaal, het onthaal en het sanitair. In de behandelkamers beperkt ze zich tot wat de praktijk uitdrukkelijk aanduidt, want sterilisatie en medisch materiaal vallen buiten het werk.",
+    "Bij een interieurzaak ligt de grens elders: alles wat in de opstelling hoort, laat je Zondag staan. Ze neemt af wat ernaast, eronder en erachter ligt. Beide zaken hebben dus een eigen plan, en dat is precies waarom een vast gesprek vooraf loont."
+   ]
+  },
+  {
+   "h2": "Meer dan poetsen",
+   "p": [
+    "Zit je Zondag toch in de zaak, dan kan ze post sorteren, offertes en facturen klasseren, afspraken met klanten inplannen of kantoormateriaal bijbestellen. Voor een drukke zaakvoerder is dat een kleine hefboom. Lees meer op <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">een rechterhand voor bedrijfsleiders</a>. Boekhouding en fiscaal advies horen er niet bij."
+   ]
+  },
+  {
+   "h2": "Prijs en factuur",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw per blok. Heb je meer uren nodig, dan boek je ze aan hetzelfde tarief. De dienstenfactuur staat op naam van je vennootschap, met je btw-nummer. Het onderhoud is in principe een beroepskost; je accountant bevestigt wat voor jouw situatie geldt."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf levert poetshulp voor interieurzaken in Kortrijk?", "a": "Zondags, gevestigd in Marke bij Kortrijk, levert een vaste Zondag voor interieurzaken en andere winkels in Kortrijk en omgeving. Je krijgt steeds dezelfde persoon en een factuur op naam van je vennootschap."},
-  {"q": "Houdt mijn Zondag rekening met breekbare stukken?", "a": "Ja. Je Zondag leert je toonzaal kennen en weet welke stukken breekbaar zijn en hoe de opstelling teruggezet wordt. In de intake bespreek je wat niet verplaatst mag worden."},
-  {"q": "Worden de ramen ook gepoetst?", "a": "Glas en etalage worden langs binnen gepoetst. Ramen langs buiten op hoogte en gevelreiniging doet Zondags niet."},
-  {"q": "Wanneer komt de poetshulp?", "a": "Overdag op weekdagen, op een vaste dag en uur, bij voorkeur voor je zaak opengaat. Vroeg in de ochtend of over de middag kan. 's Avonds en in het weekend werken we niet."},
-  {"q": "Werkt Zondags ook in de deelgemeenten van Kortrijk?", "a": "Ja. We zoeken een Zondag in Kortrijk en alle deelgemeenten, zoals Heule, Marke, Bellegem en Aalbeke, en in de gemeenten errond zoals Kuurne, Harelbeke en Wevelgem."},
-  {"q": "Kan mijn woning in hetzelfde plan?", "a": "Ja. Zaak en woning kunnen in één zondagsplan met dezelfde vaste persoon. Op de factuur staan beide delen apart."}
+  {
+   "q": "Welk bedrijf levert poetshulp voor een interieurzaak in Kortrijk?",
+   "a": "Zondags, vanuit Marke, een deelgemeente van Kortrijk. Je krijgt steeds dezelfde persoon voor je toonzaal, op een vaste dag en een vast uur."
+  },
+  {
+   "q": "Werkt Zondags ook in Heule, Bellegem of Rollegem?",
+   "a": "Ja. We zijn actief in heel Kortrijk, ook in de deelgemeenten Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem."
+  },
+  {
+   "q": "Kunnen jullie ook in Menen of Wevelgem langskomen?",
+   "a": "Ja, ook in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede, en in de rest van West- en Oost-Vlaanderen."
+  },
+  {
+   "q": "Hoe start ik met een vaste Zondag voor mijn toonzaal?",
+   "a": "Boek online een eerste blok voor een weekdag, minstens twee werkdagen vooraf, of vraag een terugbelverzoek voor een vast wekelijks plan."
+  },
+  {
+   "q": "Wat kost poetshulp voor een toonzaal in Kortrijk?",
+   "a": "Je betaalt 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw, en extra uren kosten hetzelfde per uur."
+  },
+  {
+   "q": "Raakt mijn Zondag de opgestelde stukken aan?",
+   "a": "Ze werkt rond de opstelling en verplaatst niets. Wat verschoven moet worden, doet je eigen team."
+  }
  ]
 }

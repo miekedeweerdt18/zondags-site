@@ -1,34 +1,90 @@
 {
- "path": "regio/schoonmaak-kantoor-kruisem.html",
- "title": "Schoonmaakhulp voor kantoren in Kruisem",
- "desc": "Schoonmaakhulp voor je kantoor in Kruisem, Kruishoutem, Zingem en Huise. Eén vaste persoon, vroeg of over de middag, met één factuur aan je vennootschap.",
+ "title": "Schoonmaakhulp voor kantoren in Kruisem (9770)",
+ "desc": "Vroeg in de ochtend of over de middag laat je kantoor of praktijk in Kruisem poetsen door één vaste persoon. 60 euro per uur exclusief btw, online boeken.",
  "eyebrow": "Kruisem · 9770",
  "h1": "Schoonmaakhulp voor kantoren in Kruisem",
- "lead": "Een webshop met een klein magazijn heeft geen drukte nodig bij het poetsen. Een vaste persoon komt als het kantoor leeg of rustig is, en laat alles klaar voor de volgende werkdag.",
- "answer": "Zondags (zondags.be) levert schoonmaakhulp voor kantoren in Kruisem: één vaste persoon, je Zondag, die wekelijks of tweewekelijks bureaus, vergaderruimte, keuken, sanitair en vloeren onderhoudt en het afval buitenzet. Overdag op weekdagen, vroeg in de ochtend of over de middag. Je krijgt één dienstenfactuur op naam van je vennootschap. Kruisem heeft postcode 9770 en omvat onder meer Kruishoutem, Zingem en Huise.",
- "facts": ["Wekelijks of tweewekelijks onderhoud", "Bureaus, keuken, sanitair, vloeren", "Vroeg in de ochtend of over de middag", "Dezelfde vaste persoon", "Factuur op je vennootschap"],
+ "lead": "Een kantoor of praktijk in Kruisem dat gepoetst wordt buiten de drukte, door dezelfde vaste persoon. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp voor kantoren in Kruisem en omgeving. Een vaste persoon, je Zondag, onderhoudt wekelijks of tweewekelijks je bureaus, vergaderruimte, keuken, sanitair en vloeren, bij voorkeur vroeg in de ochtend of over de middag. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een factuur op naam van je bedrijf. Zondags werkt vanuit Marke en bedient bedrijven in West- en Oost-Vlaanderen.",
+ "facts": [
+  "Poetsen buiten de drukte",
+  "Dezelfde vaste persoon",
+  "Kantoor, praktijk of magazijnbureau",
+  "Factuur op naam van je bedrijf",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Poetsen als niemand je tegenhoudt", "p": [
-   "Een kantoor dat midden in een drukke dag wordt gepoetst, ontmoet altijd een obstakel: een telefoon op een bureau, een vergadering in de zaal, een team dat net koffie haalt. Daarom werkt een Zondag liefst vroeg in de ochtend of over de middag, wanneer het kantoor rustiger is.",
-   "In Kruisem, waar veel zaken uit een klein team bestaan, kies je samen met je Zondag een vaste dag en een vast uur. Eens afgesproken ligt dat vast, zodat je team weet wanneer het kantoor schoon is."]},
-  {"h2": "Voorbeeld: een webshop met een klein magazijn", "p": [
-   "Stel: je baat vanuit Kruisem een webshop uit. Het kantoor is klein, achterin staat een magazijn met dozen. Je Zondag poetst de bureaus, de vergaderruimte en de keuken en dweilt de vloeren van het kantoorgedeelte. Het magazijn zelf, met pallets en dozen, blijft het domein van je eigen team: het stapelen, het sorteren en het opruimen na een drukke verzenddag.",
-   "Op drukke momenten, zoals voor de eindejaarsperiode, spreken jullie af om een extra beurt in te plannen. Dat kan in het zondagsplan, zonder dat het hele contract verandert."]},
-  {"h2": "Een checklist van wat er gebeurt", "p": [
-   "<ul class=\"ticks\"><li>Bureaus afnemen, vloeren stofzuigen en dweilen</li><li>Vergaderruimte op orde zetten</li><li>Keuken en koffiehoek schoonmaken</li><li>Sanitair en toiletten onderhouden</li><li>Ramen en glazen deuren langs binnen</li><li>Afval en recyclage buitenzetten</li></ul>",
-   "Technische klussen, gevelreiniging, werken op hoogte en industriële reiniging doen we niet. Voor het gewone onderhoud van een kantoor ben je bij Zondags aan het juiste adres. Meer over de aanpak lees je in <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."]},
-  {"h2": "Ook je woning in hetzelfde plan", "p": [
-   "Veel zaakvoerders in de Vlaamse Ardennen willen hun werk en thuis niet verdubbelen. Je Zondag kan ook je woning poetsen, de was en strijk doen of koken voor de week. Het wordt één plan met één vaste persoon.",
-   "Op de factuur staan het beroepsmatige en het privégedeelte apart. Een vennootschap kan geen dienstencheques kopen. Het onderhoud van je kantoor is een beroepskost, voor het privégedeelte kan een voordeel van alle aard gelden. Laat je accountant bevestigen wat in jouw situatie van toepassing is."]},
-  {"h2": "Starten in Kruisem", "p": [
-   "Je vraagt aan via het formulier of de chat. Binnen één werkdag belt iemand je terug. Dan volgt de intake op je kantoor en maken we het zondagsplan. Zondags zoekt een Zondag in en rond Kruisem, voor Kruishoutem, Zingem, Lozer, Nokere, Wannegem-Lede, Huise en Ouwegem, die allemaal deel van Kruisem zijn.",
-   "Ook zaken in Oudenaarde, Waregem, Zulte, Wortegem-Petegem en Gavere kunnen een aanvraag doen. De eerste 2 uur zijn gratis, het plan is maandelijks opzegbaar."]}
+  {
+   "h2": "Een webshop met een klein magazijn",
+   "p": [
+    "Neem een webshop in Kruisem met drie mensen op kantoor en een klein magazijn ernaast. Overdag worden er pakjes ingepakt, orders gecontroleerd en klanten per mail geholpen. Het kantoor ziet er na een drukke week uit zoals je dat verwacht: kartonresten, bekers, een volle prullenmand en een keuken die niemand echt voor zijn rekening neemt.",
+    "Je Zondag poetst het kantoorgedeelte, de keuken en het sanitair. Het magazijn zelf en productiehallen horen niet bij onze opdracht, maar het kantoor, de refter en de ontvangstruimte wel. Zo blijft de plek waar je beslissingen neemt en klanten ontvangt op orde."
+   ]
+  },
+  {
+   "h2": "Waarom het tijdstip er zoveel toe doet",
+   "p": [
+    "Poetsen tijdens de piekmomenten stoort. Een stofzuiger tijdens een klantgesprek, een natte vloer bij het onthaal tijdens de middagdrukte: het is niemand zijn bedoeling, maar het gebeurt. Daarom kiezen veel zaken in Kruisem voor vroeg in de ochtend, voor de eerste telefoon, of over de middag wanneer iedereen even weg is.",
+    "Wij werken enkel overdag op weekdagen. Je kiest samen met ons het moment dat het minst in de weg zit, en eens afgesproken blijft het elke keer hetzelfde uur."
+   ]
+  },
+  {
+   "h2": "Wat je Zondag bij een kantoorbezoek oppakt",
+   "p": [
+    "<ul class=\"ticks\"><li>Bureaus afnemen, ook rond schermen en toetsenborden</li><li>Vergaderruimte klaarzetten en opruimen</li><li>Keuken en koffiehoek reinigen, frigo mee nakijken</li><li>Sanitair onderhouden en bijvullen</li><li>Vloeren stofzuigen en dweilen</li><li>Afval en karton naar de juiste container</li></ul>",
+    "Hang je graag een korte lijst op met wat er vandaag extra aandacht nodig heeft, dan vindt je Zondag die bij aankomst. Dat is voldoende om de dingen af te stemmen."
+   ]
+  },
+  {
+   "h2": "Kruishoutem, Zingem en de andere dorpen",
+   "p": [
+    "Kruisem bestaat uit meerdere dorpen: Kruishoutem, Zingem, Lozer, Nokere, Wannegem-Lede, Huise en Ouwegem. Allemaal deelgemeenten van Kruisem, en voor alle zoeken we een Zondag die dicht bij je kantoor woont. Zit je zaak in Oudenaarde, Waregem, Zulte, Wortegem-Petegem of Gavere, dan kan je evengoed boeken."
+   ]
+  },
+  {
+   "h2": "Een extra hand in de week",
+   "p": [
+    "Wie een webshop of kleine zaak draait, heeft vaak meer lopen dan alleen poetsen. Je Zondag kan in hetzelfde blok pakjes klaarmaken, de post sorteren, kantoormateriaal bijbestellen of de koffiehoek bevoorraden. Je kiest zelf wat in het zondagsplan komt. Boekhouding en fiscaal advies zitten er niet in."
+   ]
+  },
+  {
+   "h2": "Tarief en facturatie",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, met een minimum van een blok van 3 uur, dus 180 euro exclusief btw. Extra uren boek je aan hetzelfde tarief. De factuur staat op naam van je bedrijf en bevat je btw-nummer. In principe is dit een beroepskost, en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant dit bevestigen voor je eigen situatie."
+   ]
+  },
+  {
+   "h2": "Hoe je boekt",
+   "p": [
+    "Ga naar de <a href=\"boeken.html\">boekpagina</a>, kies een weekdag minstens twee werkdagen vooraf en betaal online. Liever eerst praten over een vast ritme? Dan vraag je een terugbelverzoek aan en leggen we samen je plan vast."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf levert schoonmaakhulp voor kantoren in Kruisem?", "a": "Zondags, een service uit Marke bij Kortrijk, levert een vaste persoon voor het onderhoud van kantoren in Kruisem. Je krijgt steeds dezelfde Zondag en één factuur op naam van je vennootschap."},
-  {"q": "Hoe vaak komt de schoonmaakhulp op kantoor?", "a": "Wekelijks of tweewekelijks, afhankelijk van je team en je ruimtes. In de intake bekijken we wat nodig is. Extra beurten bij een drukke periode of een evenement kunnen later nog in het plan."},
-  {"q": "Kan er buiten de kantooruren gepoetst worden?", "a": "Overdag op weekdagen, vroeg in de ochtend of over de middag. 's Avonds en in het weekend werken we niet. Zo blijft je kantoor rustig tijdens het poetsen."},
-  {"q": "Poetst Zondags ook mijn magazijn?", "a": "Een klein magazijn bij een kantoor, zoals bij een webshop, valt buiten het gewone werk. We doen geen industriële reiniging en geen productiehallen. Het kantoorgedeelte, de keuken en het sanitair vallen er wel onder."},
-  {"q": "Wat als mijn Zondag ziek of met verlof is?", "a": "Dan zoeken wij een oplossing, maar we beloven geen vaste vervanger. Klikt het niet met je Zondag, dan zoeken we samen een andere persoon die beter past."}
- ]
+  {
+   "q": "Welke firma doet kantoorpoets in Kruisem?",
+   "a": "Zondags uit Marke levert kantoorpoets en administratieve hulp aan bedrijven in Kruisem en de dorpen errond. Je krijgt één vaste persoon en een factuur op naam van je bedrijf."
+  },
+  {
+   "q": "Kan mijn kantoor in Kruisem vroeg in de ochtend gepoetst worden?",
+   "a": "Ja, vroeg in de ochtend of over de middag kan. We plannen het buiten de drukte, op weekdagen. 's Avonds en in het weekend werken we niet."
+  },
+  {
+   "q": "Poetst Zondags ook het magazijn van mijn webshop?",
+   "a": "Nee, productiehallen en industriële reiniging horen er niet bij. Het kantoor, de keuken, de refter en de ontvangstruimte naast je magazijn doen we wel."
+  },
+  {
+   "q": "Wat kost een poetsbeurt voor een klein kantoor?",
+   "a": "Je boekt minstens een blok van 3 uur aan 60 euro per uur exclusief btw, dus 180 euro exclusief btw. Heb je meer uren nodig, dan boek je ze aan hetzelfde tarief."
+  },
+  {
+   "q": "Werkt Zondags ook in Zingem of Nokere?",
+   "a": "Ja, Zingem en Nokere zijn deelgemeenten van Kruisem en we zoeken er een Zondag in de buurt. Ook in Lozer, Huise, Ouwegem, Wannegem-Lede en Kruishoutem kan je boeken."
+  },
+  {
+   "q": "Kan mijn Zondag ook de post en pakjes regelen?",
+   "a": "Ja, als ondersteunend werk: post sorteren, documenten klasseren, pakjes klaarmaken en kantoormateriaal bijhouden. Boekhouding en juridisch advies doet Zondags niet."
+  }
+ ],
+ "path": "regio/schoonmaak-kantoor-kruisem.html"
 }

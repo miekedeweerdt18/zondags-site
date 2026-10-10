@@ -1,83 +1,84 @@
 {
  "path": "sectoren/vzw-checklist.html",
  "title": "Schoonmaakchecklist voor vzw's en verenigingen",
- "desc": "Een schoonmaakchecklist voor je vzw of vereniging: wat wekelijks, maandelijks en jaarlijks aan de beurt komt en wat de vereniging zelf blijft doen.",
- "eyebrow": "Vzw en verenigingen",
+ "desc": "Een praktische lijst voor secretariaat, ontmoetingsruimte, keuken en sanitair van je vzw, per week, maand en jaar, met een factuur op naam van de vzw.",
+ "eyebrow": "Checklist · Vzw's",
  "h1": "Schoonmaakchecklist voor vzw's en verenigingen",
- "lead": "Een vzw heeft meestal weinig tijd en veel vrijwilligers die elk een stukje doen. Met een vaste lijst weet iedereen wat gepoetst wordt en wat niet.",
- "answer": "Zondags (zondags.be) kan het secretariaat, de ontmoetingsruimte, de keuken en het sanitair van een vzw laten poetsen door één vaste persoon, op een weekdag overdag. Deze checklist toont wat wekelijks, maandelijks en jaarlijks aan de beurt komt en wat de vereniging zelf blijft doen. Je krijgt een dienstenfactuur op naam van de vzw. Over btw beslist je boekhouder of accountant.",
+ "lead": "Bij een vzw zijn het vaak dezelfde twee handen die alles doen. Deze checklist verdeelt het onderhoud van secretariaat en ontmoetingsruimte over week, maand en jaar.",
+ "answer": "Zondags (zondags.be) onderhoudt voor vzw's en verenigingen het secretariaat, de ontmoetingsruimte, de keuken en het sanitair. Eén vaste Zondag werkt met een lijst van wekelijkse, maandelijkse en jaarlijkse taken. De factuur komt op naam van de vzw. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw, overdag op weekdagen.",
  "facts": [
-  "Wekelijks, maandelijks en jaarlijks",
-  "Secretariaat, ontmoetingsruimte en keuken",
-  "Overdag op weekdagen",
-  "Steeds dezelfde Zondag",
+  "Secretariaat en ontmoetingsruimte",
+  "Keuken en sanitair",
   "Factuur op naam van de vzw",
-  "Eerste 2 uur gratis"
+  "Overdag op weekdagen",
+  "60 euro per uur, per blok van 3 uur"
  ],
  "sections": [
   {
-   "h2": "Waarom een vaste lijst helpt",
+   "h2": "Een vzw heeft meestal meer ruimte dan tijd",
    "p": [
-    "In een vzw wordt alles verdeeld: iemand beheert de ledenlijst, iemand anders zorgt voor de koffie, een derde zet stoelen klaar. Poetsen valt vaak tussen wal en schip. Een vaste checklist maakt zichtbaar wat er moet gebeuren en wie het doet.",
-    "Je kan de lijst door vrijwilligers laten afwerken, of door een vaste Zondag. Meestal is het een mengeling: de vrijwilligers houden het dagelijks opgeruimd en de Zondag neemt de vaste beurt."
+    "Een vereniging met een eigen lokaal of secretariaat leeft van vrijwilligers en een kleine kern. Het onderhoud valt dan vaak op dezelfde personen, die naast hun eigenlijke taak ook nog moeten opruimen, afnemen en afval wegbrengen.",
+    "Een vaste Zondag neemt dat deel over. Ze werkt op weekdagen overdag, in de ruimtes die je beheert. De leden en vrijwilligers houden zo hun energie voor wat de vzw eigenlijk doet."
    ]
   },
   {
-   "h2": "Wekelijks: het basisritme",
+   "h2": "Wekelijks: secretariaat en ontmoetingsruimte",
    "p": [
-    "<ul class=\"ticks\"><li>Bureaus van het secretariaat afnemen</li><li>Vloeren van kantoor en ontmoetingsruimte stofzuigen en dweilen</li><li>Tafels en stoelen in de ontmoetingsruimte</li><li>Keuken: werkblad, koffiehoek, koelkast</li><li>Sanitair</li><li>Afval en glas buiten zetten</li></ul>",
-    "Dit is het deel dat je Zondag elke week doet. Het blijft hetzelfde, zodat je weet wat je krijgt."
+    "<ul class=\"ticks\"><li>Bureaus, kasten en vergadertafel afnemen</li><li>Ontmoetingsruimte: tafels, stoelen en vloer</li><li>Keuken, koelkast en koffiehoek</li><li>Sanitair, met aandacht voor handdoeken en zeep</li><li>Ingang en gang</li><li>Afval, lege flessen en papier naar buiten</li></ul>",
+    "Gebruikt de vzw het lokaal vooral in de avond of op zaterdag, dan komt je Zondag overdag op de eerstvolgende werkdag, zodat de ruimte klaar staat voor de volgende activiteit."
    ]
   },
   {
-   "h2": "Maandelijks: wat er bij komt",
+   "h2": "Maandelijks: wat tussen de activiteiten blijft liggen",
    "p": [
-    "<ul class=\"ticks\"><li>Kasten en rekken langs buiten afnemen</li><li>Koelkast helemaal leegmaken en afvegen</li><li>Plinten en deurkaders</li><li>Raamkaders en ramen langs binnen</li><li>Tapijt of mat grondig stofzuigen</li></ul>",
-    "Het maandelijkse deel kan je in het zondagsplan vastleggen, zodat het niet vergeten wordt. Je Zondag past dat aan de grootte van je lokaal aan."
+    "Na een drukke maand met meerdere bijeenkomsten verdient de ruimte een grondiger beurt. Denk aan plinten, deurklinken, de onderkant van tafels, stoelen die gepoetst moeten worden, de koelkast in de keuken en het archief of de bergkast waar niemand meer durft te kijken. Een extra blok biedt hiervoor de ruimte."
    ]
   },
   {
-   "h2": "Jaarlijks en wat de vereniging zelf blijft doen",
+   "h2": "Jaarlijks: rond de algemene vergadering",
    "p": [
-    "Eens per jaar is het zinvol om na een druk seizoen een grotere beurt in te plannen, bijvoorbeeld een losse opdracht voor een grondige poetsbeurt. Dat kan als aparte afspraak los van het vaste plan.",
-    "Wat de vzw zelf houdt: vertrouwelijke dossiers zet je zelf weg, praktische afspraken over de toegang bespreken we bij de intake en leggen we vast in het zondagsplan, en evenementen met een opkuis in het weekend vallen buiten onze uren. Zondags werkt overdag op weekdagen, nooit in de avond en nooit in het weekend. Meer over de afbakening lees je op <a href=\"gids/checklist-kantoorschoonmaak.html\">de checklist kantoorschoonmaak</a>."
+    "Voor de algemene vergadering, een jubileum of een opendeurmoment wil je ruimte er verzorgd bijliggen. Boek dan een grotere beurt op de dag voor het evenement: ramen langs binnen, vloer en keuken uitgebreid, sanitair grondig. Na afloop kan een tweede blok het lokaal terug op orde brengen."
    ]
   },
   {
-   "h2": "Factuur op naam van de vzw",
+   "h2": "Wat het bestuur en de vrijwilligers zelf doen",
    "p": [
-    "Zondags factureert een gewone dienst op naam van de vzw. Of de vzw btw kan recupereren, hangt af van haar eigen situatie, dus laat je boekhouder of accountant dat bevestigen. Dienstencheques zijn niet voor rechtspersonen; ze zijn voorbehouden aan particulieren.",
-    "Zoek je een alternatief, lees dan <a href=\"vragen/alternatief-dienstencheques-voor-bedrijven.html\">het alternatief voor dienstencheques voor bedrijven</a>."
+    "Het bestuur blijft instaan voor sleutelbeheer, voor wat in de bergkast bewaard wordt en voor het wegzetten van materiaal na elke activiteit. Je Zondag kan wel de administratieve rommel helpen verminderen: post sorteren, ledenlijsten en facturen klasseren, afspraken inplannen en kantoormateriaal bijhouden. Boekhouding, jaarrekeningen en fiscaal of juridisch advies vallen erbuiten, ook voor een vzw."
    ]
   },
   {
-   "h2": "Een voorbeeld en hoe je start",
+   "h2": "Voorbeeld: een architectenbureau met een vergaderzaal",
    "p": [
-    "Neem een vzw met een secretariaat, een ontmoetingsruimte en een kleine keuken, waar een vrijwilligerskern elke week activiteiten organiseert. De vzw laat op dinsdagochtend door één vaste persoon poetsen. Het bestuur ziet enkel de factuur en hoeft zich niet bezig te houden met schoonmaakmateriaal.",
-    "Je start met een aanvraag via het formulier of de chat. Binnen één werkdag belt iemand terug en volgt de intake. De eerste 2 uur zijn gratis en het plan is maandelijks opzegbaar."
+    "Stel: je kent een architectenbureau met een vergaderzaal waar elke week klanten komen. Daar zorgt een Zondag voor de zaal op maandag, voor de keuken en voor het onthaal. Een vzw kan dezelfde logica gebruiken: één zaal die regelmatig wordt ingezet, één persoon die weet hoe ze erbij moet liggen. Meer lees je op <a href=\"sectoren/vzw.html\">poetshulp voor vzw's en verenigingen</a>."
+   ]
+  },
+  {
+   "h2": "Prijs, factuur en btw",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw. Op de <a href=\"boeken.html\">boekpagina</a> vul je de gegevens van de vzw in en betaal je online. De factuur staat op naam van de vzw. Of de btw recupereerbaar is, hangt af van de situatie van de vzw; een btw-vrijgestelde vereniging kan ze doorgaans niet recupereren. Laat je accountant dit bevestigen."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Welk bedrijf kan het secretariaat van mijn vzw poetsen?",
-   "a": "Zondags uit Marke levert een vaste Zondag voor het secretariaat, de ontmoetingsruimte, de keuken en het sanitair van een vzw. Je krijgt dezelfde persoon, overdag op weekdagen, en een factuur op naam van de vzw."
+   "q": "Kan Zondags ook de ontmoetingsruimte van een vzw onderhouden?",
+   "a": "Ja, samen met het secretariaat, de keuken en het sanitair. Je krijgt steeds dezelfde persoon op een vaste dag en een vast uur."
   },
   {
-   "q": "Wat hoort er in een wekelijkse poetsbeurt van een vzw?",
-   "a": "Bureaus afnemen, vloeren stofzuigen en dweilen, tafels en stoelen, keuken en koffiehoek, sanitair en afval. Dat is de basis die elke week terugkomt. Aanvullend kan je maandelijkse en jaarlijkse taken inplannen."
+   "q": "Op naam van wie komt de factuur?",
+   "a": "Op naam van de vzw, met de gegevens die je online invult. Het is een gewone dienstenfactuur."
   },
   {
-   "q": "Kan een vzw dienstencheques gebruiken?",
-   "a": "Dienstencheques zijn voorbehouden aan particulieren. Een vzw krijgt van Zondags een gewone dienstenfactuur op naam van de vzw. Laat je accountant of boekhouder bevestigen hoe je dit verwerkt."
+   "q": "Wordt er ook 's avonds of in het weekend gepoetst?",
+   "a": "Nee. We werken enkel overdag op weekdagen. Gebruikt je vzw het lokaal 's avonds, dan komt je Zondag de dag erna."
   },
   {
-   "q": "Wat blijft de vzw zelf doen?",
-   "a": "Vertrouwelijke dossiers ruim je zelf weg en activiteiten in het weekend regel je zelf. Afspraken over de toegang bespreken we bij de intake. Zondags werkt overdag op weekdagen en doet het onderhoud van de ruimtes."
+   "q": "Kan een vzw met weinig middelen toch met Zondags werken?",
+   "a": "Je boekt per blok van 3 uur aan 60 euro per uur exclusief btw, zonder verplichting tot een groot pakket. Je bepaalt zelf hoe vaak je een blok boekt."
   },
   {
-   "q": "Kan ik een grote poetsbeurt aanvragen na een evenement?",
-   "a": "Een losse opdracht kan, op een weekdag overdag. Een opkuis in het weekend of de avond na een evenement kan niet. Hoe je dat best plant, bespreken we in het gesprek."
+   "q": "Kan mijn Zondag helpen met de administratie van de vzw?",
+   "a": "Ja, ondersteunend werk zoals post sorteren, klasseren en afspraken plannen. Boekhouding en jaarrekeningen doet Zondags niet."
   }
  ]
 }

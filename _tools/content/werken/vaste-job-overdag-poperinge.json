@@ -1,87 +1,38 @@
 {
+ "path": "werken/vaste-job-overdag-poperinge.html",
  "title": "Vaste job overdag zonder weekends in Poperinge",
- "desc": "Winkelervaring en genoeg van zaterdagwerk? Vaste job in Poperinge en de Westhoek, overdag op weekdagen, nooit in het weekend. Solliciteer bij Zondags.",
- "eyebrow": "Vaste job · Poperinge",
+ "desc": "Winkelervaring en klaar met zaterdagen? Een vast contract overdag in Poperinge, Proven of Watou bij vaste bedrijven, met weekends vrij. Solliciteer bij Zondags.",
+ "eyebrow": "Vaste job overdag · Poperinge · 8970",
  "h1": "Vaste job overdag zonder weekends in Poperinge",
- "lead": "Wie in de winkel werkt, kent de zaterdag. Als Zondag in Poperinge behoud je je dienstverlenende instelling, maar je weekend en je avonden zijn van jou.",
- "answer": "Zondags (zondags.be) zoekt Zondags in en rond Poperinge voor een vaste job overdag zonder weekends. Je krijgt een vast contract, deeltijds of voltijds, werkt op weekdagen bij vaste klanten en nooit op zaterdag of 's avonds. Je kiest mee je dagen en uren. Wie uit de winkelsector komt, heeft daar een goed vertrekpunt.",
- "facts": [
-  "Vast contract",
-  "Nooit zaterdag of zondag",
-  "Zij-instromers welkom",
-  "Dagen kies je mee",
-  "Vaste klanten"
- ],
+ "lead": "Jaren in de winkel gestaan en de zaterdagen beu? Met die ervaring ben je meteen nuttig als Zondag in Poperinge, met een rooster van maandag tot vrijdag.",
+ "answer": "Zondags (zondags.be) zoekt mensen in en rond Poperinge voor een vaste job overdag zonder weekends, ook uit de winkelsector. Je krijgt een vast contract, deeltijds of voltijds, en werkt als Zondag op weekdagen bij kantoren, praktijken, winkels en bedrijfsleiders in de Westhoek. Je winkelervaring helpt bij het klaarzetten en bevoorraden van een zaak. Zaterdagen en avonden vallen weg.",
+ "facts": ["Voor wie uit de winkelsector komt", "Een rooster zonder zaterdagen", "Vast contract, deeltijds of voltijds", "Overdag op weekdagen", "Verplaatsingen vergoed"],
  "sections": [
-  {
-   "h2": "Stel: je werkt in de winkel en wil van de zaterdagen af",
-   "p": [
-    "Je staat al jaren in een winkel. Je kent klanten, je kent drukte, en je weet wat het is om op zaterdag te werken terwijl anderen vrij zijn. Een rooster zonder zaterdagen, met vaste uren en een vast contract, is voor jou geen luxe maar een doel.",
-    "Je klantgerichte houding neem je gewoon mee. Als Zondag heb je niet het tempo van een drukke winkel, wel de zorg voor mensen die op je rekenen."
-   ]
-  },
-  {
-   "h2": "Wat je meeneemt uit de winkel",
-   "p": [
-    "Orde, snelheid, vriendelijkheid en oog voor detail. Die vaardigheden zijn bij ons bruikbaar. Een winkelmedewerker die weet hoe je een rek netjes houdt, weet ook hoe je een keuken verzorgd achterlaat. Je start als zij-instromer, en we leggen werkwijzen en afspraken uit."
-   ]
-  },
-  {
-   "h2": "Een week zonder zaterdag",
-   "p": [
-    "Maandag verzorg je een praktijk in de buurt. Dinsdag en donderdag ga je bij een gezin langs voor huishouden, was en strijk. Woensdag doe je boodschappen en regelwerk voor een ondernemer. Vrijdag is je laatste werkdag. Het weekend blijft helemaal vrij, en de avonden ook."
-   ]
-  },
-  {
-   "h2": "Contract en voorwaarden",
-   "p": [
-    "<ul class=\"ticks\"><li>Vast contract bij Zondags</li><li>Deeltijds of voltijds</li><li>Verloning boven het barema</li><li>Verplaatsingen vergoed</li><li>Overdag op weekdagen</li></ul>"
-   ]
-  },
-  {
-   "h2": "Poperinge, Watou en de Westhoek",
-   "p": [
-    "Poperinge (8970) kent de deelgemeenten Krombeke, Proven, Roesbrugge-Haringe en Watou. Die horen bij Poperinge. Ook als je in Ieper, Vleteren of Heuvelland woont, bekijken we klanten dicht bij je huis. Algemene info lees je bij een <a href=\"jobs/vaste-job-flexibele-uren.html\">vaste job met flexibele uren</a>."
-   ]
-  },
-  {
-   "h2": "Voor wie dit past",
-   "p": [
-    "Voor wie uit de winkelsector of een andere dienstverlenende job komt, voor herintreders en voor wie zekerheid zoekt. De klanten zijn ondernemers, vrije beroepen, kantoren, praktijken en gezinnen. Als vaste Zondag wordt je de persoon op wie ze elke week rekenen. Dat is het grote verschil met een winkelrooster dat elke maand wisselt: je weet wanneer je werkt, waar en voor wie."
-   ]
-  },
-  {
-   "h2": "Hoe je solliciteert",
-   "p": [
-    "Meld je aan via het formulier, de chat of WhatsApp op 0470 56 53 58. We bellen binnen de twee werkdagen voor een kort gesprek. Klikt het, dan zoeken we klanten dicht bij je woonplaats die passen bij je uren. Bij de start gaan we samen langs. Elke klant heeft een zondagsplan met de taken, de uren en de afspraken."
-   ]
-  }
+  {"h2": "Stel: je kent de winkel van binnen", "p": [
+   "Neem iemand die jaren in de winkelsector werkte. Rekken aanvullen, de vloer proper houden, klanten ontvangen, de kassa afsluiten: het werk was nooit saai, maar het rooster wel zwaar. Zaterdag is de drukste dag, en dus precies de dag dat je liever vrij zou zijn.",
+   "Als Zondag werk je vanaf maandag tot vrijdag, overdag. Je kent de kwaliteiten die telkens terugkomen: oog voor orde, vlot met mensen omgaan, een zaak er netjes laten uitzien. Dat wordt hier meteen waardevol."]},
+  {"h2": "Wat je ervaring waard is", "p": [
+   "Een winkel klaarzetten voor de opening, vlot door een stock lopen, een wachtzaal presentabel houden: het zijn kleine vaardigheden die telkens terugkomen. Bij een andere zaak herken je meteen wat er telt.",
+   "<ul class=\"ticks\"><li>Winkel, showroom of praktijk klaarzetten voor de opening</li><li>Koffiehoek, keuken en kantoormateriaal bevoorraden</li><li>Pakjes en zendingen klaarmaken en ophalen</li><li>Poetsen van refter, vergaderzaal en sanitair</li><li>Post sorteren en documenten klasseren</li></ul>",
+   "Technische klussen en werken op hoogte doen we niet."]},
+  {"h2": "Een week zonder zaterdag", "p": [
+   "Neem een voltijdse week. Maandag zet je een winkel klaar voor de week. Dinsdag ga je naar een kantoor voor poetsen en post. Woensdag help je een zaakvoerder met pakjes en kantoormateriaal. Donderdag verzorg je een praktijk met wachtzaal. Vrijdag ruim je een archief op of werk je een lijst bestellingen af.",
+   "Daarna begint een weekend dat echt vrij is. Geen late dienst, geen zaterdagploeg."]},
+  {"h2": "Poperinge, Proven, Watou en de Westhoek", "p": [
+   "Poperinge heeft postcode 8970. Krombeke, Proven, Roesbrugge-Haringe en Watou zijn deelgemeenten van Poperinge. We zoeken Zondags in en rond Poperinge, ook als je in Ieper, Vleteren of Heuvelland woont.",
+   "Wil je liever iets dichter bij Ieper werken, dan kan je ook kijken naar <a href=\"werken/vaste-job-overdag-ieper.html\">de vaste job overdag in Ieper</a>."]},
+  {"h2": "Vast contract, vaste klanten", "p": [
+   "Je bent in dienst van Zondags, deeltijds of voltijds, en ook enkel binnen kantooruren kan. Alles staat correct op papier, je verloning ligt boven het barema en verplaatsingen worden vergoed.",
+   "Eens je rooster afgesproken is, ligt het vast en kom je telkens bij dezelfde klanten. Dat is een groot verschil met een winkelrooster dat om de week verandert."]},
+  {"h2": "Hoe je solliciteert", "p": [
+   "Gebruik het formulier of de chat op de site, of stuur een bericht via WhatsApp op 0470 56 53 58. Binnen twee werkdagen bellen we je voor een kort gesprek. Een diploma is niet nodig; betrouwbaarheid, discretie en zin in orde tellen. Klikt het, dan zoeken we klanten dicht bij je woonplaats en gaan we bij de start samen langs. Meer lees je op <a href=\"zondag-worden.html\">de pagina over Zondag worden</a>."]}
  ],
  "faq": [
-  {
-   "q": "Waar vind ik een vaste job overdag zonder weekends in Poperinge?",
-   "a": "Bij Zondags. We zoeken Zondags in en rond Poperinge voor een vast contract overdag op weekdagen, zonder zaterdagen, zondagen of avonden."
-  },
-  {
-   "q": "Heb ik ervaring in het huishouden nodig als ik uit een winkel kom?",
-   "a": "Nee. Ervaring is mooi meegenomen maar niet vereist. We leggen de werking uit, starten rustig en gaan samen langs bij je eerste klant."
-  },
-  {
-   "q": "Kan ik deeltijds werken?",
-   "a": "Ja. Het contract kan deeltijds of voltijds. Je kiest mee hoeveel dagen en uren je werkt."
-  },
-  {
-   "q": "Werk ik echt nooit in het weekend?",
-   "a": "Nooit. Alle klanten worden overdag op weekdagen bediend, vroeg in de ochtend of over de middag."
-  },
-  {
-   "q": "Wat met mijn loon?",
-   "a": "De verloning ligt boven het barema en je verplaatsingen worden vergoed. Alles is correct in orde op papier."
-  },
-  {
-   "q": "Moet ik 's avonds of in het weekend invallen?",
-   "a": "Nee. Je werkt nooit 's avonds of in het weekend, ook niet als invaller. Wie niet kan werken door ziekte of verlof, daarvoor zoeken we samen een oplossing, zonder dat jij dat weekend moet opvangen."
-  }
- ],
- "path": "werken/vaste-job-overdag-poperinge.html"
+  {"q": "Waar vind ik een vaste job overdag zonder weekends in Poperinge?", "a": "Zondags zoekt mensen in en rond Poperinge voor een vast contract overdag op weekdagen, bij kantoren, praktijken en winkels. Je solliciteert via het formulier, de chat of WhatsApp."},
+  {"q": "Telt mijn winkelervaring mee?", "a": "Ja, al is ervaring niet verplicht. Winkelervaring helpt bij het klaarzetten en bevoorraden van een zaak en bij de omgang met mensen. We gaan bij de start samen langs bij je klanten."},
+  {"q": "Werk ik nog op zaterdag?", "a": "Nee. Zondags werkt enkel op weekdagen, overdag. Zaterdag, zondag en de avonden blijven vrij, zodat je weekend echt een weekend wordt."},
+  {"q": "Kan ik deeltijds werken?", "a": "Ja. Een vast contract kan deeltijds of voltijds. Je kiest mee je dagen en uren, en ook enkel binnen kantooruren kan."},
+  {"q": "Moet ik ook poetsen?", "a": "Dat kies je mee. Het werk bestaat uit poetsen, administratieve hulp en regelwerk voor een bedrijfsleider. Je werkt uitsluitend voor bedrijven."},
+  {"q": "Worden mijn verplaatsingen vergoed?", "a": "Ja. Verplaatsingen worden vergoed en je verloning ligt boven het barema. Je bent in dienst van Zondags en alles staat correct op papier."}
+ ]
 }

@@ -1,84 +1,83 @@
 {
  "path": "sectoren/winkels-checklist.html",
- "title": "Schoonmaakchecklist voor winkels en boetieks",
- "desc": "Schoonmaakchecklist voor winkels en boetieks: wat wekelijks, maandelijks en jaarlijks aan bod komt, en wat je zelf doet. Poetsen voor de opening, vaste Zondag.",
- "eyebrow": "Checklist · Winkels",
+ "title": "Checklist poetsen voor een winkel of boetiek",
+ "desc": "Een praktische checklist om je winkel of boetiek proper te houden: winkelvloer, paskamers, etalage langs binnen en stockruimte, per week, maand en jaar.",
+ "eyebrow": "Winkels en boetieks · Checklist",
  "h1": "Schoonmaakchecklist voor winkels en boetieks",
- "lead": "Een winkel heeft elke dag dezelfde taken en af en toe een grotere beurt. Zet ze op papier en je weet meteen wat een vaste Zondag kan overnemen.",
- "answer": "Een schoonmaakchecklist voor een winkel of boetiek splitst het werk in dagelijks door het team, wekelijks door een vaste Zondag, maandelijks en jaarlijks. Zondags (zondags.be) poetst voor de opening winkelvloer, paskamers, toonbank, etalage langs binnen, stockruimte en sanitair, overdag op weekdagen, met een factuur op naam van je vennootschap.",
+ "lead": "Een winkel verkoopt ook met haar uitstraling. Met een vaste lijst kom je nooit meer in de verleiding om het poetsen tot na het weekend uit te stellen.",
+ "answer": "Een schoonmaakchecklist voor een winkel verdeelt het werk over de week, de maand en het jaar: winkelvloer, paskamers, toonbank en etalage langs binnen wekelijks, stockruimte en rekken maandelijks, grote opruim jaarlijks. Zondags (zondags.be) laat één vaste Zondag dit overdag op weekdagen doen, ook vroeg in de ochtend voor de opening, aan 60 euro per uur exclusief btw per blok van 3 uur.",
  "facts": [
-  "Dagelijks, wekelijks, maandelijks, jaarlijks",
-  "Poetsen voor de winkel opengaat",
-  "Paskamers, etalage binnen, stockruimte",
-  "Wat het team zelf blijft doen",
-  "Eerste 2 uur gratis"
+  "Winkelvloer, paskamers, toonbank",
+  "Etalage langs binnen",
+  "Stockruimte maandelijks",
+  "Poetsen voor de opening",
+  "60 euro per uur, per blok van 3 uur"
  ],
  "sections": [
   {
-   "h2": "Dagelijks door het team",
+   "h2": "De volgorde die een klant ziet",
    "p": [
-    "Een Zondag komt niet elke dag. Wat dagelijks moet gebeuren, doet je team: de toonbank afnemen, de vloer rond de kassa vegen, de vuilnisbak leegmaken. Dat kost enkele minuten bij het openen en sluiten en houdt de winkel presentabel.",
-    "<ul class=\"ticks\"><li>Toonbank en kassa afnemen</li><li>Grove vlekken meteen verwijderen</li><li>Afval en kartons buiten zetten</li><li>Paskamers snel nakijken</li></ul>",
-    "Een korte afspraak met het team werkt het best: wie neemt bij het openen de toonbank, wie bij het sluiten de vloer. Zo valt niets tussen twee stoelen en kan je Zondag zich concentreren op het diepere werk."
+    "Een klant loopt je winkel binnen en ziet in volgorde: de deur, de vloer, de toonbank, de rekken, de paskamers. Bouw je checklist in dezelfde volgorde op. Dan loopt je Zondag dezelfde route als jouw klant en valt er niets tussen de plooien."
    ]
   },
   {
-   "h2": "Wekelijks door je Zondag",
+   "h2": "Wekelijks: wat voor de opening klaarligt",
    "p": [
-    "<ul class=\"ticks\"><li>Winkelvloer en looppaden</li><li>Rekken en toonbank grondig afnemen</li><li>Paskamers: spiegels, vloeren, haken</li><li>Etalage langs binnen</li><li>Sanitair</li><li>Stockruimte netjes houden</li><li>Afval en recyclage</li></ul>",
-    "Dit gebeurt vroeg in de ochtend of over de middag, voor de winkel opengaat. Nooit 's avonds en nooit in het weekend.",
-    "Een vaste Zondag leert de winkel kennen: welke rekken je liever laat staan, waar de zwaarste voetstappen vallen en welke hoek stof vangt. Daardoor wordt elke beurt sneller en grondiger dan de vorige, en hoef je niet telkens opnieuw uit te leggen hoe je winkel werkt."
+    "<ul class=\"ticks\"><li>Winkelvloer vegen of stofzuigen en dweilen</li><li>Toonbank, kassa en betaalterminal afnemen</li><li>Paskamers: spiegels, haken, vloer</li><li>Etalage langs binnen en de glazen deur, binnenzijde</li><li>Rekken en tafels afstoffen</li><li>Sanitair en personeelshoek</li><li>Afval, karton en glas buiten zetten</li></ul>",
+    "Vroeg in de ochtend voor de opening is de ideale plek: de winkel ligt er klaar wanneer de eerste klant binnenkomt. Heb je geen ruimte om dat tijdens de week te plannen, kies dan een moment over de middag, wanneer het in je winkel meestal rustiger is."
    ]
   },
   {
-   "h2": "Maandelijks",
+   "h2": "Maandelijks: wat de weekbeurt niet haalt",
    "p": [
-    "<ul class=\"ticks\"><li>Plinten en hoeken langs de rekken</li><li>Deuren, handgrepen en lichtschakelaars</li><li>Rekken leeg en afnemen waar het kan</li><li>Stockruimte grondiger opruimen</li><li>Ventilatieroosters</li></ul>",
-    "Heb je een kleine boetiek, dan volstaat een maandelijkse ronde met één Zondag. Heb je meerdere ruimtes, een grote stock of een toonzaal, dan kan het ritme hoger liggen. Je kiest zelf en past aan."
+    "Eén keer per maand komen de rekken en de plinten aan bod, de bovenkant van de wandkasten, de stockruimte, de achterkant van de toonbank. Dan is ook het moment om de verlichting te controleren: stoffige armaturen geven minder licht. Wissel je het assortiment, bijvoorbeeld bij een nieuwe collectie, plan dan een extra beurt vlak voor je herinricht."
    ]
   },
   {
-   "h2": "Jaarlijks of bij een seizoenswissel",
+   "h2": "Jaarlijks: de grote beurt",
    "p": [
-    "Bij een nieuwe collectie of een verbouwing is er een natuurlijk moment voor een grotere beurt. Stel: je hebt een showroom met keukens of badkamers en plant een nieuwe opstelling. De Zondag poetst voor en na de verbouwing, als losse opdracht binnen het plan.",
-    "Bouwopkuis na werken, gevelreiniging en ramen langs buiten op hoogte doen we niet."
+    "Eén keer per jaar loont een langere beurt, bijvoorbeeld voor de zomersales of voor de feestperiode: vloer grondig, ramen langs binnen, de hele stockruimte. Ramen langs buiten op hoogte en gevelreiniging doen we niet."
    ]
   },
   {
-   "h2": "Wat je zelf blijft doen",
+   "h2": "Voorbeeld: een showroom met keukens of badkamers",
    "p": [
-    "<ul class=\"ticks\"><li>Rekken vullen en prijzen aanpassen</li><li>Kassa, pinautomaat en alarm</li><li>Persoonlijke spullen en waardevolle zaken wegbergen</li><li>Technische herstellingen aan verlichting of sanitair</li></ul>"
+    "Neem een zaak met een showroom van keukens en badkamers. De opgestelde modellen hebben kleine glasoppervlakken, chroom en natuursteen, en klanten raken alles aan. Daar hoort een extra regel bij: wekelijks alle fronten, kranen en werkbladen afnemen met een zachte doek, zonder agressieve middelen. Je Zondag werkt met de producten die jullie samen kiezen, zodat de modellen er blijven uitzien zoals de dag waarop ze geplaatst werden."
    ]
   },
   {
-   "h2": "Zaak en woning, factuur en start",
+   "h2": "Wat de winkel zelf doet",
    "p": [
-    "Woon je boven de winkel, dan kan dezelfde Zondag ook de woning doen. Op de dienstenfactuur op naam van je vennootschap staan beroepsmatig en privé apart. Een vennootschap kan geen dienstencheques kopen. Voor het privégedeelte geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn. Laat je accountant het bevestigen.",
-    "Je vraagt aan via het formulier of de chat. Lees ook <a href=\"sectoren/winkels.html\">poetshulp voor winkels</a> en het <a href=\"vragen/schoonmaakplan-winkel-maken.html\">schoonmaakplan voor je winkel</a>.",
-    "Wil je het eerst proberen, dan zijn de eerste twee uur gratis en is het plan maandelijks opzegbaar."
+    "Tijdens de openingsuren veegt het team spontane vlekken, ruimt het paskamers op en zet het terugkerende artikelen op hun plaats. Ook de etalage inrichten en de prijzen aanpassen blijft bij jou. Je Zondag werkt aan de ondergrond, jij aan de presentatie."
+   ]
+  },
+  {
+   "h2": "Prijs en boeken",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw en boekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief. Reserveer minstens twee werkdagen vooraf op de <a href=\"boeken.html\">boekpagina</a>. Meer over de sector lees je op <a href=\"sectoren/winkels.html\">poetshulp voor winkels</a>."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Wat staat er op een schoonmaakchecklist voor een winkel?",
-   "a": "Dagelijks toonbank en afval door het team. Wekelijks winkelvloer, rekken, paskamers, etalage langs binnen, stockruimte en sanitair. Maandelijks plinten, hoeken en rekken. Zondags kan het wekelijkse en maandelijkse deel overnemen."
+   "q": "Hoe vaak moet een winkel gepoetst worden?",
+   "a": "Wekelijks is de basis, bij veel klanten vaker. De paskamers en de toonbank vragen het meeste ritme, de stockruimte kan maandelijks."
   },
   {
-   "q": "Wanneer wordt een winkel gepoetst?",
-   "a": "Vroeg in de ochtend of over de middag, voor de winkel opengaat. Overdag op weekdagen, nooit 's avonds of in het weekend."
+   "q": "Kan er voor de opening gepoetst worden?",
+   "a": "Ja, vroeg in de ochtend, overdag op weekdagen. 's Avonds en in het weekend werken we niet. Zo ligt je winkel klaar wanneer de eerste klant binnenkomt."
   },
   {
-   "q": "Wat doe ik zelf in mijn winkel?",
-   "a": "Rekken vullen, kassa en alarm, waardevolle zaken wegbergen en dagelijks de toonbank afnemen. De Zondag doet het grotere poetswerk."
+   "q": "Doet Zondags de etalage?",
+   "a": "De binnenkant van de etalage en de glazen deur wel. Ramen langs buiten op hoogte horen er niet bij, en het inrichten van de etalage blijft bij jou."
   },
   {
-   "q": "Poetst Zondags ook de etalage?",
-   "a": "Langs binnen wel, de etalage hoort bij het onderhoud van de winkel. Ramen langs buiten op hoogte en gevelreiniging doen we niet, dat valt buiten het werk van je Zondag."
+   "q": "Wat kost poetshulp voor een winkel?",
+   "a": "60 euro per uur exclusief btw, geboekt per blok van 3 uur. Eén blok is dus 180 euro exclusief btw. Extra uren aan hetzelfde tarief."
   },
   {
-   "q": "Kan mijn woning boven de winkel mee?",
-   "a": "Ja. Winkel en woning kunnen in één zondagsplan, met beroepsmatig en privé apart op de factuur."
+   "q": "Kan dezelfde persoon ook goederen ontvangen?",
+   "a": "Ondersteunend wel: pakjes aannemen, kartons opruimen, bestellingen klaarzetten of kantoormateriaal bestellen. Voorraadbeheer in je kassasysteem blijft bij jou."
   }
  ]
 }

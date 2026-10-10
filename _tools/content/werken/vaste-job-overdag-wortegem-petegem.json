@@ -1,80 +1,38 @@
 {
- "title": "Vaste job overdag in Wortegem-Petegem voor ploegwerkers",
- "desc": "Moe van wisselende ploegen? Vaste job overdag op weekdagen in Wortegem-Petegem, met vast contract bij Zondags en vaste klanten. Solliciteer nu.",
- "eyebrow": "Vaste job overdag · Wortegem-Petegem",
+ "path": "werken/vaste-job-overdag-wortegem-petegem.html",
+ "title": "Vaste job overdag zonder weekends in Wortegem-Petegem",
+ "desc": "Een vaste job overdag in Wortegem-Petegem en de Vlaamse Ardennen, zonder avonden en weekends. Eerlijk over wat past bij ploegenwerk. Solliciteer bij Zondags.",
+ "eyebrow": "Vaste job · Wortegem-Petegem · 9790",
  "h1": "Vaste job overdag zonder weekends in Wortegem-Petegem",
- "lead": "Wisselende ploegen en nachtdiensten hebben hun tol. In Wortegem-Petegem kan je overstappen naar werk met vaste dagen, overdag en zonder weekends.",
- "answer": "Zondags (zondags.be) zoekt mensen in en rond Wortegem-Petegem voor een vaste job overdag op weekdagen. Je krijgt een vast contract, deeltijds of voltijds, en werkt als Zondag bij vaste klanten. Het past voor wie uit ploegenwerk komt en vaste uren zoekt, zonder avonden en weekends. Je verloning ligt boven het barema, verplaatsingen worden vergoed.",
- "facts": [
-  "Vaste dagen in plaats van ploegen",
-  "Vast contract",
-  "Overdag op weekdagen",
-  "Nooit 's avonds of in het weekend",
-  "Verplaatsingen vergoed"
- ],
+ "lead": "Je draait ploegen en hebt in sommige weken je voormiddagen vrij. Een vast rooster overdag lijkt dan moeilijk, dus kijken we eerlijk wat in Wortegem-Petegem kan.",
+ "answer": "Zondags (zondags.be) zoekt in Wortegem-Petegem en omgeving mensen voor een vast contract overdag, zonder avonden en weekends. Je werkt als Zondag bij bedrijven zoals kantoren, praktijken en winkels, met poetsen, administratieve hulp en praktisch regelwerk. Een vast contract werkt met een vast rooster. Wissel je zelf van ploeg, dan bekijken we in het eerste gesprek wat past en welk statuut daarbij hoort.",
+ "facts": ["Vast contract, deeltijds of voltijds", "Vast rooster overdag", "Nooit 's avonds of in het weekend", "Verloning boven het barema", "Verplaatsingen vergoed"],
  "sections": [
-  {
-   "h2": "Stel: je werkt nu in ploegen",
-   "p": [
-    "Stel dat je ploegen draait. De ene week vroeg, de volgende week laat, soms zelfs een nachtdienst. Je lichaam en je gezin passen zich telkens aan. Je voelt dat dat niet eindeloos zo kan doorgaan.",
-    "Een job met dezelfde dagen en uren elke week verandert veel. Je weet wanneer je opstaat, wanneer je thuis bent en wanneer je kinderen kan zien. Dat is een grote winst, zeker als je ouder wordt.",
-    "Zo'n overstap gaat niet vanzelf. Daarom kijken we in het eerste gesprek samen naar je huidige rooster, naar wat je aan taken wil doen en naar de plek waar je woont, zodat de reis naar je klanten kort blijft en je dag niet verliest wat je net won."
-   ]
-  },
-  {
-   "h2": "Wat je meeneemt uit de fabriek",
-   "p": [
-    "Ploegwerk leert je ritme, nauwkeurigheid en samenwerken. Bij een klant werk je meestal alleen, in een rustiger tempo, maar met dezelfde zin voor afspraken: wat er op het plan staat, doe je.",
-    "Dat je gewend bent aan lange, strakke dagen is een troef. Een klant merkt aan je werk of je met aandacht bezig bent, en dat is een kwaliteit die ploegwerkers vaak hebben.",
-    "Je hoeft niet te kunnen koken of strijken om te beginnen. We gaan bij de start samen langs bij je klanten, zodat je leert hoe ze het graag hebben."
-   ]
-  },
-  {
-   "h2": "Hoe een vaste week er kan uitzien",
-   "p": [
-    "Van maandag tot vrijdag, steeds dezelfde klanten. Op maandag poets je een kantoor. Op dinsdag doe je was en strijk bij een gezin. Op woensdag haal je boodschappen en kook je een paar schotels. Op donderdag onderhoud je een praktijk en vrijdag ga je naar je eerste klant voor de laatste beurt. Je weekend is van jou."
-   ]
-  },
-  {
-   "h2": "Contract en verloning",
-   "p": [
-    "Je krijgt een vast contract bij Zondags, deeltijds of voltijds. Alles staat correct op papier, de verloning ligt boven het barema en verplaatsingen worden vergoed. Je kan ook enkel binnen de schooluren werken als dat beter past. Lees meer op <a href=\"jobs/deeltijds-werk-overdag.html\">deeltijds werk overdag</a>."
-   ]
-  },
-  {
-   "h2": "Wortegem-Petegem en omgeving",
-   "p": [
-    "Wortegem-Petegem heeft postcode 9790, met onder meer Elsegem, Moregem, Ooike en Petegem-aan-de-Schelde. We zoeken Zondags in en rond Wortegem-Petegem, ook richting Oudenaarde, Waregem, Kruisem en Anzegem. Woon je in een van die gemeenten, dan kijken we naar klanten dicht bij je thuis."
-   ]
-  },
-  {
-   "h2": "Solliciteren",
-   "p": [
-    "Vul het formulier in, start de chat of stuur een WhatsApp naar 0470 56 53 58. We bellen binnen twee werkdagen voor een kort gesprek. Klikt het, dan zoeken we klanten die bij je uren passen. Meer over de stap lees je bij <a href=\"zondag-worden.html\">Zondag worden</a>."
-   ]
-  }
+  {"h2": "Ploegenwerk en een vast rooster, past dat?", "p": [
+   "Stel: je werkt in ploegen in een fabriek in de buurt. De ene week begin je vroeg, de andere week laat. Soms heb je een hele reeks voormiddagen vrij en dan zou je graag iets extra doen. Het klinkt logisch om daarvoor een vaste job overdag te zoeken, maar de realiteit is genuanceerder.",
+   "Bij Zondags is een vast contract net vast. Je klanten rekenen op dezelfde persoon op dezelfde dag en hetzelfde uur. Een rooster dat elke week verandert, is dus niet ons uitgangspunt. We zeggen dat liever meteen dan dat je het later ontdekt."]},
+  {"h2": "Wat dan wel kan", "p": [
+   "Wissel je niet langer van ploeg, of zoek je een vervanging voor je ploegenwerk, dan is een vast contract overdag een goede keuze. Je krijgt dan een stabiele week, met avonden en weekends voor jezelf.",
+   "Blijf je werken in ploegen en wil je alleen iets bijverdienen, dan is een vast contract waarschijnlijk niet de juiste vorm. Dan kijken we naar <a href=\"jobs/flexi-job-flexibele-uren.html\">een flexi-job</a>, maar of dat voor jou kan, hangt af van je eigen situatie, bijvoorbeeld je hoofdjob. Dat bekijken we samen in het eerste gesprek. Past het niet, dan zoeken we een ander statuut."]},
+  {"h2": "Wat je bij Zondags doet", "p": [
+   "Je bent de vaste Zondag bij een paar bedrijven in de buurt. Het werk bestaat uit drie delen, en je kiest mee wat je graag doet:",
+   "<ul class=\"ticks\"><li>Poetsen van kantoor, praktijk, winkel, refter en vergaderzaal</li><li>Administratieve hulp: post sorteren, klasseren, dossiers ordenen</li><li>Rechterhand van een bedrijfsleider: pakjes, boodschappen voor de zaak, koffiehoek</li></ul>",
+   "Technische klussen en werken op hoogte horen er niet bij."]},
+  {"h2": "Een voorbeeldweek zonder ploegen", "p": [
+   "Neem een deeltijdse week van vier voormiddagen. Op maandag maak je een kantoor in orde, op dinsdag een praktijk, op donderdag sorteer je de post van een zaakvoerder en op vrijdag zet je een winkel klaar voor het weekend. Je bent telkens vroeg klaar en hebt de namiddag voor jezelf.",
+   "Vroeg in de ochtend of over de middag kan, zodat je team of je klanten er zo weinig mogelijk van merken."]},
+  {"h2": "Wortegem, Elsegem en de Vlaamse Ardennen", "p": [
+   "We zoeken Zondags in Wortegem-Petegem (9790), met de deelgemeenten Elsegem, Moregem, Ooike en Petegem-aan-de-Schelde. Woon je in Oudenaarde, Waregem, Kruisem of Anzegem, dan zoeken we klanten dicht bij je woonplaats. We noemen geen vacature bij een bepaald adres, want we zoeken mensen in de streek en stemmen daarna af.",
+   "Een kijkje naar een andere gemeente? Lees <a href=\"werken/vaste-job-overdag-kluisbergen.html\">de vaste job in Kluisbergen</a>."]},
+  {"h2": "Eerste contact", "p": [
+   "Vul het formulier in, chat met ons of stuur een bericht naar 0470 56 53 58, elke dag van 6 tot 22 uur. We bellen je binnen de twee werkdagen voor een kort gesprek. Vertel gerust hoe je ploegen nu lopen. Dan zoeken we samen uit of een vaste job, een flexibele job of net niets de juiste keuze is. Meer lees je op <a href=\"zondag-worden.html\">zondag worden</a>."]}
  ],
  "faq": [
-  {
-   "q": "Is er een vaste job overdag zonder weekends in Wortegem-Petegem?",
-   "a": "Zondags zoekt mensen in en rond Wortegem-Petegem voor een vaste job overdag op weekdagen. Je krijgt een vast contract, deeltijds of voltijds. Avonden en weekends zijn er niet."
-  },
-  {
-   "q": "Kan ik stoppen met ploegenwerk en toch een vast contract hebben?",
-   "a": "Dat is precies de bedoeling van deze job. Je krijgt een vast contract met vaste dagen overdag. Wat een overstap voor je opzegtermijn betekent, bespreek je met je huidige werkgever."
-  },
-  {
-   "q": "Is dit werk zwaarder dan in de fabriek?",
-   "a": "Dat verschilt. Het werk bestaat uit huishouden, poetsen, strijk, koken en boodschappen, in een rustig tempo. Technische klussen en werk op hoogte doen we niet."
-  },
-  {
-   "q": "Welke uren werk ik?",
-   "a": "Overdag op weekdagen, vroeg in de ochtend of over de middag. Eens afgesproken ligt je rooster vast bij dezelfde klanten."
-  },
-  {
-   "q": "Heb ik ervaring nodig?",
-   "a": "Nee. Betrouwbaarheid en zorg voor andermans huis tellen. Je krijgt uitleg en we gaan samen langs bij je klanten."
-  }
- ],
- "path": "werken/vaste-job-overdag-wortegem-petegem.html"
+  {"q": "Waar vind ik een vaste job overdag zonder weekends in Wortegem-Petegem?", "a": "Bij Zondags kan je solliciteren voor een vast contract overdag in en rond Wortegem-Petegem. Je werkt op weekdagen bij bedrijven als klant. Neem contact op via het formulier, de chat of WhatsApp en we bellen je binnen de twee werkdagen."},
+  {"q": "Kan ik een vast contract combineren met ploegenwerk?", "a": "Een vast contract werkt met een vast rooster, dus wisselende ploegen zijn lastig te combineren. Of een andere vorm kan, hangt af van je eigen situatie. Dat bekijken we samen in het eerste gesprek."},
+  {"q": "Wat als mijn rooster in sommige weken verandert?", "a": "Zeg het eerlijk in het gesprek. Klanten rekenen op een vaste persoon op een vast moment, dus we zoeken een oplossing die voor jou en voor de klant werkt, of we kiezen een ander statuut."},
+  {"q": "Moet ik ervaring hebben in poetsen of administratie?", "a": "Nee. Je hebt geen diploma of ervaring nodig. Betrouwbaarheid, discretie en zin in orde tellen. Je bent minstens 18 jaar en spreekt voldoende Nederlands."},
+  {"q": "Werk ik 's avonds of in het weekend?", "a": "Nooit. Je werkt overdag op weekdagen, vroeg in de ochtend of over de middag. Zo blijven je avonden en weekends vrij."},
+  {"q": "Wie zijn de klanten?", "a": "Altijd bedrijven in de buurt: kantoren, praktijken, winkels en bedrijfsleiders. Je komt telkens bij dezelfde klanten, en elke klant heeft een zondagsplan met taken en uren."}
+ ]
 }

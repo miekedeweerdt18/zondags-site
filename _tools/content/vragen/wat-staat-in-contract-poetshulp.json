@@ -1,81 +1,37 @@
 {
  "path": "vragen/wat-staat-in-contract-poetshulp.html",
  "title": "Wat staat er in een contract voor poetshulp?",
- "desc": "Wat staat er in een contract voor poetshulp? Een checklist om na te kijken, en hoe Zondags het vastlegt in een zondagsplan en een gewone dienstenfactuur.",
+ "desc": "Welke afspraken horen in een contract voor poetshulp van een bedrijf? Een checklist met taken, uren, toegang, discretie en facturatie, en de aanpak van Zondags.",
  "eyebrow": "Vraag",
  "h1": "Wat staat er in een contract voor poetshulp?",
- "lead": "Een goed contract voor poetshulp is kort en duidelijk: wie komt, wanneer, wat gebeurt er en hoe stop je het. Dit zijn de punten om na te kijken.",
- "answer": "In een contract voor poetshulp staan best wie de dienst levert, welke taken er gebeuren, op welke dagen en uren, hoe de prijs bepaald wordt, hoe je opzegt en wat er bij ziekte of verlof gebeurt. Bij Zondags (zondags.be) leg je dat vast in een zondagsplan met je vaste Zondag, en je krijgt een gewone dienstenfactuur op naam van je vennootschap. Het plan is maandelijks opzegbaar.",
- "facts": [
-  "Wie, wat, wanneer",
-  "Prijs op maat, geen vaste tarieven",
-  "Opzeggen en aanpassen",
-  "Bij ziekte of verlof",
-  "Gewone dienstenfactuur"
- ],
+ "lead": "Een goed contract voor poetshulp is kort en concreet: wie komt, wanneer, wat er gedaan wordt en hoe het aangerekend wordt. Met deze lijst loop je elk voorstel na.",
+ "answer": "In een contract voor poetshulp staan minstens de partijen, de taken, de dagen en uren, de toegang tot je ruimte, de prijs en de factuurafspraken. Bij Zondags (zondags.be) leg je taken, dagen en uren vast in het zondagsplan, na een kort gesprek, en betaal je 60 euro per uur exclusief btw per blok van 3 uur. Voor de juridische kant van een overeenkomst raadpleeg je je eigen adviseur.",
+ "facts": ["Partijen, taken, dagen en uren", "Toegang, sleutel en discretie", "Prijs en factuurafspraken", "Zondagsplan met taken en uren", "60 euro per uur, per blok van 3 uur"],
  "sections": [
-  {
-   "h2": "De basispunten van elk contract",
-   "p": [
-    "Welke dienst je ook kiest, een goed contract beantwoordt enkele eenvoudige vragen. Wie levert de dienst en op naam van wie loopt de factuur? Welke taken horen erbij en welke niet? Op welke dagen en uren komt de poetshulp? Hoe wordt de prijs bepaald en wat staat erop?",
-    "<ul class=\"ticks\"><li>Wie levert de dienst en wie is de contractant</li><li>Welke taken wel en niet</li><li>Dagen en uren</li><li>Hoe de prijs bepaald wordt</li><li>Hoe je opzegt en aanpast</li><li>Wat er bij ziekte of verlof gebeurt</li></ul>"
-   ]
-  },
-  {
-   "h2": "Wat je extra controleert",
-   "p": [
-    "Let op enkele zaken die je pas merkt als het misloopt. Hoe lang loopt het contract? Is er een minimumduur? Kan je uren bijboeken of afbouwen? Wat staat er over vervanging bij ziekte? En wie is verantwoordelijk als er iets stuk gaat?",
-    "Vraag het ook aan je accountant. Hij of zij weet hoe de dienst in je boekhouding past en of de factuur alles bevat wat nodig is. Zo voorkom je later discussies over het beroepsmatige of privégedeelte."
-   ]
-  },
-  {
-   "h2": "Hoe Zondags het vastlegt",
-   "p": [
-    "Zondags werkt met een zondagsplan: de afspraken over taken, dagen en uren, die we samen opmaken na de intake. De prijs is op maat, na een kort gesprek. Er staan geen vaste tarieven op de site.",
-    "Het plan is maandelijks opzegbaar. Uren bijboeken of het plan aanpassen kan. Bij ziekte of verlof van je Zondag zoeken wij een oplossing, we beloven geen vaste vervanger. Klikt het niet, dan zoeken we samen een andere Zondag."
-   ]
-  },
-  {
-   "h2": "Voorbeeld: een architectenbureau met drie vennoten",
-   "p": [
-    "Stel: je bent een van de vennoten van een architectenbureau en je laat het kantoor wekelijks poetsen. Je wil weten wat er precies afgesproken is, zodat niemand er achteraf over discussieert. Je vraagt naar het zondagsplan, naar de dagen en uren en naar wat er bij ziekte gebeurt.",
-    "In het plan staat welke ruimtes aan bod komen, wanneer je Zondag komt en welke afspraken er gelden. Met de factuur heb je alles bij elkaar, en je accountant ziet wat beroepsmatig is."
-   ]
-  },
-  {
-   "h2": "Factuur en fiscale voorzichtigheid",
-   "p": [
-    "Een vennootschap kan geen dienstencheques kopen, die zijn voorbehouden aan particulieren. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van beroepsruimtes is een beroepskost.",
-    "Laat je ook je woning doen, dan staat dat gedeelte apart op de factuur. Voor het privégedeelte geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst. Btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte in principe niet. Laat je accountant dit bevestigen voor je eigen situatie."
-   ]
-  },
-  {
-   "h2": "Zo start je",
-   "p": [
-    "Vraag aan via het formulier of de chat, of bel of app naar 0470 56 53 58. Binnen één werkdag belt iemand je terug. Na de intake maken we samen het zondagsplan. De eerste 2 uur zijn gratis, om kennis te maken. Meer over de afspraken vind je op <a href=\"vragen/poetshulp-met-contract-en-factuur.html\">poetshulp met contract en factuur</a> en <a href=\"vragen/opzegtermijn-poetshulp-bedrijven.html\">opzegtermijn van poetshulp</a>."
-   ]
-  }
+  {"h2": "De zes onderdelen die je altijd wil zien", "p": [
+   "Of je nu met een poetsfirma, een zelfstandige of een dienstverlener als Zondags werkt, dezelfde zes onderdelen komen terug. Ontbreekt er één, dan vraag je het na voor je tekent of bevestigt.",
+   "<ul class=\"ticks\"><li>Wie de partijen zijn, met bedrijfsnaam en btw-nummer</li><li>Welke taken er bij horen en welke er uitdrukkelijk niet bij horen</li><li>Op welke dagen en uren de dienst plaatsvindt</li><li>Hoe de toegang tot je ruimte geregeld is</li><li>Wat het kost en hoe er gefactureerd wordt</li><li>Wat er gebeurt als iets niet loopt zoals afgesproken</li></ul>"]},
+  {"h2": "Taken: concreet beschrijven in plaats van vaag beloven", "p": [
+   "Een zin als 'algemeen onderhoud' lijkt volledig, maar zorgt later voor discussie. Een lijst als bureaus afnemen, keuken en sanitair, vloeren en afval buitenzetten laat weinig ruimte voor twijfel. Schrijf ook op wat je niet verwacht, zoals werken op hoogte of gevelreiniging.",
+   "Zondags noemt dat document het zondagsplan. Je leest er meer over bij <a href=\"vragen/wat-is-een-zondagsplan.html\">wat een zondagsplan is</a>. Het is een afsprakenlijst die je kan nalezen en bijsturen, geen lang juridisch stuk."]},
+  {"h2": "Dagen, uren en wat bij verlof of ziekte gebeurt", "p": [
+   "Een vaste dag en een vast uur zijn het hart van de afspraak, zeker als je team weet wanneer de poetshulp komt. Vraag ook wat er gebeurt als de persoon ziek is of met verlof gaat.",
+   "Bij Zondags zoeken wij in zo'n geval een oplossing. Een vervanger bij elke afwezigheid beloven we niet, en dat hoor je liever vooraf dan achteraf."]},
+  {"h2": "Toegang, sleutel en discretie", "p": [
+   "Een poetshulp heeft toegang tot je ruimte en soms tot plekken met gevoelige documenten. Leg vast wie de sleutel of badge heeft, hoe het alarm werkt en welke kasten of lokalen gesloten blijven.",
+   "Spreek ook af hoe er met vertrouwelijke informatie omgegaan wordt. Voor een praktijk of een kantoor met dossiers is dat geen detail. Lees ook <a href=\"vragen/discretie-poetshulp-in-praktijk.html\">hoe je discretie regelt in een praktijk</a>."]},
+  {"h2": "Prijs en facturatie: wat je zwart op wit wil", "p": [
+   "Vraag dat het uurtarief, de eenheid waarin je boekt en de manier van betalen vermeld staan. Bij Zondags is dat 60 euro per uur exclusief btw, in blokken van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief. Je krijgt een dienstenfactuur op naam van je bedrijf.",
+   "Een voorbeeld: een architectenbureau met vier medewerkers boekt elke donderdag één blok. De prijs per beurt is dan altijd dezelfde, zonder toeslagen die later opduiken."]},
+  {"h2": "Wat je eerst nog bespreekt met je adviseur", "p": [
+   "Over opzegtermijnen, aansprakelijkheid en alles wat juridisch is, geven wij geen advies. Gebruik de lijst hierboven om gerichte vragen te stellen en laat de formele kant over aan je eigen adviseur of accountant. Heb je nog vragen over hoe Zondags dit aanpakt, bel dan naar 0470 56 53 58 of boek meteen op de <a href=\"boeken.html\">boekpagina</a>."]}
  ],
  "faq": [
-  {
-   "q": "Wat moet er minstens in een contract voor poetshulp staan?",
-   "a": "Wie de dienst levert, welke taken er gebeuren, op welke dagen en uren, hoe de prijs bepaald wordt, hoe je opzegt en wat er bij ziekte of verlof gebeurt. Vraag je accountant of de factuur alles bevat dat hij nodig heeft."
-  },
-  {
-   "q": "Hoe legt Zondags de afspraken vast?",
-   "a": "In een zondagsplan dat we samen opmaken na de intake: taken, dagen, uren en afspraken. De prijs is op maat, na een kort gesprek. Je krijgt een gewone dienstenfactuur op naam van je vennootschap."
-  },
-  {
-   "q": "Kan ik een contract voor poetshulp maandelijks opzeggen?",
-   "a": "Bij Zondags is het plan maandelijks opzegbaar. Uren bijboeken of het plan aanpassen kan ook. Wie elders tekent, controleert best de minimumduur en de opzegvoorwaarden voor hij of zij tekent."
-  },
-  {
-   "q": "Wat gebeurt er bij ziekte of verlof van de poetshulp?",
-   "a": "Bij Zondags zoeken wij een oplossing. We beloven geen vaste vervanger. Vraag bij elke aanbieder vooraf wat er gebeurt als je poetshulp afwezig is, zodat er geen verrassing volgt."
-  },
-  {
-   "q": "Staat de prijs in het contract?",
-   "a": "Bij Zondags is de prijs op maat, na een kort gesprek, en de eerste 2 uur zijn gratis. Op de site staan geen tarieven. Vraag altijd hoe de prijs bepaald wordt en wat erin zit."
-  }
+  {"q": "Heb ik een contract nodig voor poetshulp in mijn bedrijf?", "a": "Je hebt minstens duidelijke schriftelijke afspraken nodig over taken, uren, toegang en prijs. Bij Zondags leg je die vast in het zondagsplan en je boekingsbevestiging, zodat beide kanten weten waar ze aan toe zijn."},
+  {"q": "Wat moet er minstens in een contract voor poetshulp staan?", "a": "De partijen, de taken, de dagen en uren, de toegang tot je ruimte, het tarief en de factuurafspraken. Een regeling voor afwezigheid en discretie is een nuttige aanvulling."},
+  {"q": "Staat de prijs vast in het contract?", "a": "Bij Zondags is er één pakket: 60 euro per uur exclusief btw, in blokken van 3 uur, extra uren aan hetzelfde tarief. Dat tarief zie je al op de boekpagina."},
+  {"q": "Wat als de poetshulp ziek is?", "a": "Dan zoekt Zondags een oplossing met jou. Een vaste vervanger bij elke afwezigheid kunnen we niet beloven, dus vraag bij elk aanbod hoe dit geregeld is."},
+  {"q": "Moet ik het zondagsplan ondertekenen?", "a": "Het zondagsplan is een afsprakenlijst die je samen met Zondags opstelt na een kort gesprek. Vraag bij de intake hoe je het bevestigt, zodat je het kan terugvinden."},
+  {"q": "Wie controleert een contract juridisch?", "a": "Je eigen adviseur of accountant. Zondags geeft geen juridisch of fiscaal advies, maar helpt je wel de praktische afspraken helder te krijgen."}
  ]
 }

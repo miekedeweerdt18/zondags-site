@@ -1,83 +1,90 @@
 {
  "path": "sectoren/eventbureaus-checklist.html",
  "title": "Schoonmaakchecklist voor eventbureaus",
- "desc": "Een schoonmaakchecklist voor je eventbureau: kantoor, ontvangstruimte, opslag, keuken en sanitair, met wat wekelijks en maandelijks aan de beurt komt.",
- "eyebrow": "Eventbureaus",
+ "desc": "Een schoonmaakchecklist voor kantoor, ontvangstruimte, opslag, keuken en sanitair van een eventbureau: wekelijks, maandelijks, jaarlijks en wat je zelf doet.",
+ "eyebrow": "Checklist eventbureaus",
  "h1": "Schoonmaakchecklist voor eventbureaus",
- "lead": "Een eventbureau jongleert met deadlines, leveranciers en opslag. De kantooruimte wordt snel een berging. Een vaste beurt houdt kantoor en ontvangstruimte representatief.",
- "answer": "Zondags (zondags.be) laat het kantoor, de ontvangstruimte, de keuken en het sanitair van een eventbureau poetsen door één vaste persoon. Je Zondag houdt de opslag van materiaal netjes bij, maar poetst nooit na een event in het weekend of de avond. Deze checklist toont wat wekelijks en maandelijks aan de beurt komt en wat het bureau zelf doet. Je krijgt een dienstenfactuur op naam van je vennootschap.",
+ "lead": "Een eventbureau organiseert de feesten van anderen, maar zijn eigen kantoor en materiaalopslag vragen ook aandacht. Deze lijst helpt je per week, maand en jaar.",
+ "answer": "Voor eventbureaus loopt de schoonmaakchecklist van Zondags (zondags.be) over kantoor, ontvangstruimte, de opslag van materiaal die netjes gehouden wordt, keuken en sanitair. Een opkuis van events in het weekend zit er niet bij. Je vaste Zondag werkt overdag op weekdagen, aan 60 euro per uur exclusief btw, geboekt per blok van 3 uur.",
  "facts": [
-  "Kantoor, ontvangstruimte, keuken, sanitair",
-  "Opslag van materiaal netjes houden",
-  "Geen opkuis van events in het weekend",
-  "Steeds dezelfde Zondag",
-  "Factuur aan je vennootschap",
-  "Eerste 2 uur gratis"
+  "Kantoor en ontvangstruimte",
+  "Opslag netjes houden",
+  "Keuken en sanitair",
+  "Geen opkuis van weekendevents",
+  "60 euro per uur, per blok van 3 uur",
+  "Factuur op naam van je vennootschap"
  ],
  "sections": [
   {
-   "h2": "Een bureau met een bijzonder ritme",
+   "h2": "Een kantoor met een opslag vol materiaal",
    "p": [
-    "Een eventbureau heeft piekweken, waarin het hele team op locatie is, en rustige weken, waarin het kantoor volloopt met dozen, staalmateriaal en prototypes. Wie een klant ontvangt, wil dat de ontvangstruimte rustig oogt, ook als er achteraan nog een stapel decorstukken staat.",
-    "Een vaste Zondag komt op weekdagen overdag, ook wanneer de rest van het team onderweg is. Dat past goed bij een bureau dat veel buiten de deur werkt."
+    "Het kantoor van een eventbureau ziet er anders uit dan dat van een boekhouder. Er staan stalen van tafelkleden, rollen bedrukte banners, dozen met naamkaartjes en een tafel waar maquettes liggen. Tussen de projecten door groeit die chaos, en de ontvangstruimte moet toch klaar zijn voor het volgende klantgesprek.",
+    "Daarom is dit een checklist met drie zones: kantoor en ontvangst, opslag, en keuken met sanitair."
    ]
   },
   {
    "h2": "Wekelijks",
    "p": [
-    "<ul class=\"ticks\"><li>Bureaus en vergadertafel afnemen</li><li>Ontvangstruimte en toonbank netjes</li><li>Vloeren stofzuigen en dweilen</li><li>Keuken en koffiehoek</li><li>Sanitair</li><li>Afval, karton en papier buiten zetten</li></ul>",
-    "Karton verdwijnt snel in een eventbureau. Spreek vooraf af waar het gesorteerd wordt, zodat je Zondag weet wat naar de container mag.",
-    "Een vaste Zondag leert na enkele weken hoe het bureau draait. Je merkt dat aan kleine dingen: de vergadertafel is vrij als er een klant komt en de keuken is opgeruimd na een drukke dag."
+    "<ul class=\"ticks\"><li>Ontvangstruimte en vergadertafel leegmaken en afnemen</li><li>Bureaus afnemen en vloeren stofzuigen</li><li>Opslag: vloer vrijmaken, dozen rechtzetten, stof van rekken</li><li>Keuken, koffiehoek en frigo</li><li>Sanitair voor team en bezoekers</li><li>Afval, karton en verpakkingen buiten zetten</li></ul>",
+    "Karton en verpakkingsafval stapelen zich bij een eventbureau snel op. Een wekelijks moment om ze buiten te zetten voorkomt dat de opslag dichtslibt."
    ]
   },
   {
-   "h2": "Maandelijks en per seizoen",
+   "h2": "Maandelijks",
    "p": [
-    "<ul class=\"ticks\"><li>Kasten en rekken langs buiten</li><li>Plinten, deurkaders en lichtschakelaars</li><li>Ramen en glazen deuren langs binnen</li><li>Opslagruimte vegen en gangpaden vrijmaken</li><li>Koelkast helemaal leegmaken</li></ul>",
-    "Na een drukke eventperiode plan je een extra beurt of een losse grote poetsbeurt. Meer over wat in een schoonmaakplan thuishoort lees je op <a href=\"gids/checklist-kantoorschoonmaak.html\">de checklist kantoorschoonmaak</a>."
+    "<ul class=\"ticks\"><li>Rekken en kasten van buiten afnemen</li><li>Plinten, deurklinken en lichtschakelaars</li><li>Vensterbanken en radiatoren</li><li>Frigo en microgolf van binnen</li><li>Matten en vloer onder bureaus</li></ul>",
+    "Opslag blijft het moeilijkste deel. Je Zondag verplaatst geen zware dozen, maar maakt de vloer en de zichtbare vlakken vrij zodat het materiaal makkelijk terug te vinden is."
    ]
   },
   {
-   "h2": "Wat het bureau zelf blijft doen",
+   "h2": "Jaarlijks en voor het seizoen",
    "p": [
-    "Het materiaal zelf, zoals decor, techniek en gehuurde stukken, blijft van het team. Je Zondag poetst de ruimte, niet het materiaal van de klant. Evenementen vinden vaak in het weekend of de avond plaats, en daar werken wij nooit; een opkuis na een event valt dus buiten onze uren.",
-    "Wil je toch een grondige poetsbeurt op de dag na een event, dan kan dat op een weekdag overdag, als losse opdracht."
+    "Na een drukke eventperiode, bijvoorbeeld na de zomer of na de eindejaarsfeesten, is een grondige beurt de moeite. Ramen langs binnen, archief en opslag ordenen, de ontvangstruimte opfrissen: je boekt dat als losse opdracht op een weekdag, naast het vaste plan."
    ]
   },
   {
-   "h2": "Stel: een zaakvoerder die half thuis werkt",
+   "h2": "Wat je team zelf blijft doen",
    "p": [
-    "Veel eventondernemers werken deels vanuit huis. Neem een zaakvoerder die drie dagen op kantoor zit en twee dagen thuis. Dezelfde Zondag komt dan op dinsdag naar het kantoor en op donderdag naar de woning, voor was, strijk en poetsen. Op de factuur staan beroepsmatig en privé gescheiden, zodat de boekhouder het duidelijk heeft.",
-    "Een vennootschap kan geen dienstencheques kopen. Laat je accountant bevestigen hoe de factuur in jouw situatie verwerkt wordt."
+    "Het in- en uitladen, het controleren van materiaal en de opkuis van een event zelf blijven bij jullie of bij de locatie. Een Zondag werkt niet in het weekend en ruimt geen feestzaal op. Ze zorgt voor het kantoor en de opslag tussen twee events."
    ]
   },
   {
-   "h2": "Zo start je",
+   "h2": "Een voorbeeld: de IT-consultant met vijf collega's",
    "p": [
-    "Je vraagt aan via het formulier of de chat. Binnen één werkdag belt iemand terug en volgt de intake in je kantoor. Samen maken we het zondagsplan, met de dag en het uur die passen bij je eventkalender. De eerste 2 uur zijn gratis en het plan is maandelijks opzegbaar."
+    "Neem een IT-consultant met een kantoor voor vijf mensen. Elke donderdagochtend poetst de Zondag bureaus, keuken en sanitair, en bestelt ze koffie en kantoormateriaal wanneer die opraken. Een eventbureau heeft dezelfde basis nodig. Het enige verschil is de opslag, die als extra zone in het plan komt."
+   ]
+  },
+  {
+   "h2": "Prijs en boeken",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw per blok. De factuur staat op naam van je vennootschap en is in principe een beroepskost. Laat je accountant bevestigen hoe dat voor jouw zaak werkt. Je boekt op de <a href=\"boeken.html\">boekpagina</a>, of je leest eerst <a href=\"sectoren/eventbureaus.html\">poetshulp voor eventbureaus</a>."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Welk bedrijf kan het kantoor van mijn eventbureau poetsen?",
-   "a": "Zondags uit Marke levert een vaste Zondag voor kantoor, ontvangstruimte, keuken en sanitair van een eventbureau. Je krijgt dezelfde persoon, overdag op weekdagen, en een factuur op naam van je vennootschap."
+   "q": "Wat staat er op de schoonmaakchecklist van een eventbureau?",
+   "a": "Kantoor, ontvangstruimte, opslag, keuken en sanitair, met wekelijkse, maandelijkse en jaarlijkse taken. Opkuis van events zelf zit er niet bij."
   },
   {
-   "q": "Poetst Zondags ook na een evenement in het weekend?",
-   "a": "Nee. Zondags werkt overdag op weekdagen, nooit in de avond en nooit in het weekend. Een losse poetsbeurt na een event kan wel op een weekdag overdag."
+   "q": "Ruimt Zondags een event op in het weekend?",
+   "a": "Nee. Zondags werkt overdag op weekdagen, nooit 's avonds of in het weekend, en doet geen opkuis van events."
   },
   {
-   "q": "Wordt de opslag van materiaal ook gepoetst?",
-   "a": "De ruimte wordt geveegd en netjes gehouden. Het materiaal zelf, zoals decor en techniek, blijft van het team. Wat er wordt verplaatst of niet, spreek je vooraf af in het zondagsplan."
+   "q": "Houdt mijn Zondag de opslag netjes?",
+   "a": "Ja, in de zin van vloer vrijmaken, rekken afnemen en dozen rechtzetten. Zware dozen verplaatsen en materiaal controleren blijven bij jouw team."
+  },
+  {
+   "q": "Wat kost poetshulp voor een eventbureau?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Extra uren boek je aan hetzelfde tarief. Er is maar één pakket."
+  },
+  {
+   "q": "Kan mijn Zondag ook kantoormateriaal bestellen?",
+   "a": "Ja, bij de rechterhandtaken: kantoormateriaal bestellen en bijhouden, de koffiehoek bevoorraden, pakjes klaarmaken en kleine zaken bij leveranciers opvolgen."
   },
   {
    "q": "Hoe vaak moet het kantoor van een eventbureau gepoetst worden?",
-   "a": "Voor veel bureaus is wekelijks een goede basis, met extra beurten na drukke periodes. Je kan uren bijboeken of het plan aanpassen; dat bespreken we bij de intake."
-  },
-  {
-   "q": "Kan mijn woning ook in hetzelfde plan?",
-   "a": "Ja. Kantoor en woning kunnen in één zondagsplan met dezelfde persoon, op verschillende dagen. De factuur splitst beroepsmatig en privé, en je accountant bevestigt de verwerking."
+   "a": "Meestal wekelijks. In een drukke eventperiode boek je een extra blok. Je Zondag stemt het ritme af op de projectkalender."
   }
  ]
 }

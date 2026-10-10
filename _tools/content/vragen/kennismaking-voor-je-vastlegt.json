@@ -1,81 +1,37 @@
 {
  "path": "vragen/kennismaking-voor-je-vastlegt.html",
  "title": "Poetshulp uitproberen voor je je vastlegt",
- "desc": "Ja, je kan poetshulp uitproberen voor je je vastlegt: bij Zondags zijn de eerste 2 uur gratis en het plan is maandelijks opzegbaar. Zo gaat de kennismaking.",
+ "desc": "Kan je poetshulp uitproberen voor je een vast plan afspreekt? Zo start je met een enkel blok van 3 uur en een kort gesprek, zonder een lang plan op te zetten.",
  "eyebrow": "Vraag",
  "h1": "Kan je poetshulp uitproberen voor je je vastlegt?",
- "lead": "Ja. Bij Zondags zijn de eerste 2 uur gratis, om kennis te maken met je Zondag en met de manier van werken, voor je verder gaat.",
- "answer": "Ja, je kan poetshulp uitproberen voor je je vastlegt. Bij Zondags (zondags.be) zijn de eerste 2 uur gratis, om kennis te maken met je vaste Zondag en met hoe het werkt. Na een kort telefoongesprek en een intake maken jullie samen het zondagsplan. Je plan is maandelijks opzegbaar, en klikt het niet met je Zondag, dan zoeken we samen een andere Zondag.",
- "facts": [
-  "Eerste 2 uur gratis",
-  "Maandelijks opzegbaar",
-  "Intake ter plaatse",
-  "Je Zondag leert je zaak kennen",
-  "Klikt het niet: andere Zondag"
- ],
+ "lead": "Ja, je kan klein beginnen. Met één blok van 3 uur zie je hoe je Zondag werkt, voor je beslist over een vast, terugkerend plan.",
+ "answer": "Ja, je kan poetshulp uitproberen door één blok van 3 uur te boeken en daarna te beslissen over een vast plan. Bij Zondags (zondags.be) betaal je 60 euro per uur exclusief btw, dus 180 euro exclusief btw voor dat eerste blok. Uren zonder kostprijs bestaan niet. Wil je liever eerst praten, dan doe je een terugbelverzoek of bel je 0470 56 53 58, en leggen we pas daarna samen het zondagsplan vast.",
+ "facts": ["Eén blok van 3 uur als eerste stap", "Kort gesprek voor een vast plan", "Elk blok wordt gewoon aangerekend", "Klikt het niet, andere Zondag", "60 euro per uur, per blok van 3 uur"],
  "sections": [
-  {
-   "h2": "Wat die eerste 2 uur zijn",
-   "p": [
-    "De eerste 2 uur dienen om kennis te maken. Je Zondag komt langs, ziet je kantoor, praktijk, winkel of woning en voert een eerste beurt uit. Zo zie je meteen hoe ze werkt, of je het prettig vindt dat ze er is en of ze begrijpt wat je belangrijk vindt.",
-    "Het is geen proefperiode met voorwaarden of kleine lettertjes. Het is een eerlijke kennismaking, zodat je niet blind beslist."
-   ]
-  },
-  {
-   "h2": "Wat eraan voorafgaat",
-   "p": [
-    "Je begint met een aanvraag via het formulier of de chat, of via 0470 56 53 58. Binnen één werkdag belt iemand je terug. Daarna komen we langs voor de intake. Samen bespreken we wat er moet gebeuren, op welke dag en op welk uur, en wat jij belangrijk vindt.",
-    "<ul class=\"ticks\"><li>Aanvraag via formulier, chat of telefoon</li><li>Terugbelmoment binnen één werkdag</li><li>Intake ter plaatse</li><li>Zondagsplan met taken, dagen en afspraken</li><li>Eerste beurt van 2 uur gratis</li></ul>"
-   ]
-  },
-  {
-   "h2": "Wat je zelf kan beoordelen",
-   "p": [
-    "Voor een goede beslissing kijk je niet alleen naar het resultaat, maar ook naar het gevoel. Een vaste Zondag komt in je zaak of je huis, op een vaste dag en uur. Dat werkt enkel als je haar graag ziet komen.",
-    "Let tijdens de kennismaking op enkele dingen: hoe ze communiceert, of ze vragen stelt over wat jij belangrijk vindt, hoe netjes ze werkt en of de planning bij je past. Je hoeft niets te beslissen terwijl ze er is, je kan er achteraf rustig over nadenken."
-   ]
-  },
-  {
-   "h2": "Voorbeeld: een kinepraktijk die twijfelt",
-   "p": [
-    "Stel: je hebt een kinepraktijk en je twijfelt of een vaste poetshulp past bij je manier van werken. Je weet niet of je patiënten het merken en of je team het aanvaardt. Je vraagt een Zondag aan voor de kennismaking.",
-    "Na de intake komt je Zondag op maandagochtend, voor de eerste afspraak. Na twee uur zie je wat ze gedaan heeft, hoe de praktijk eruitziet en hoe je team reageert. Je beslist dan, rustig, of je het plan opzet."
-   ]
-  },
-  {
-   "h2": "Wat als het niet klikt",
-   "p": [
-    "Klikt het niet met je Zondag, dan zoeken we samen een andere Zondag. Dat is geen drama: sommige mensen passen gewoon beter bij elkaar. We beloven niet dat de volgende Zondag meteen klaarstaat, maar we blijven zoeken tot het past.",
-    "Het plan is maandelijks opzegbaar. Je zit dus niet vast, ook niet als je na een paar maanden merkt dat je andere uren of een andere invulling wilt. Uren bijboeken of het plan aanpassen kan altijd."
-   ]
-  },
-  {
-   "h2": "Prijs en factuur",
-   "p": [
-    "De prijs is op maat, na een kort gesprek. Een vennootschap kan geen dienstencheques kopen, die zijn voorbehouden aan particulieren. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap. Wat je boekt, kan een beroepskost zijn, en voor het privégedeelte geldt een forfaitair voordeel van alle aard als de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Laat je accountant dit bevestigen voor je eigen situatie. Meer over de eerste beurten vind je op <a href=\"vragen/wat-gebeurt-in-eerste-twee-gratis-uren.html\">wat er gebeurt in de eerste twee gratis uren</a>."
-   ]
-  }
+  {"h2": "Uitproberen betekent klein beginnen", "p": [
+   "Een proefperiode in de gewone zin bestaat bij Zondags niet, want elk uur wordt aangerekend. Wel kan je de drempel laag houden: je boekt één blok van 3 uur en ziet hoe de samenwerking in je zaak voelt.",
+   "Dat is een eerlijke test. Je zaak wordt effectief gepoetst, je ziet hoe je Zondag te werk gaat en je hoort van je team wat er opvalt. Pas daarna kies je of je dezelfde dag wekelijks wil vastleggen."]},
+  {"h2": "Wat je tijdens een eerste blok kan beoordelen", "p": [
+   "<ul class=\"ticks\"><li>Of de taken gedaan zijn zoals afgesproken</li><li>Of je Zondag discreet en betrouwbaar is met sleutels en documenten</li><li>Of de tijd klopt met het aantal uren dat je had geschat</li><li>Hoe makkelijk de afspraken over toegang en alarm verlopen</li><li>Of de communicatie prettig is, bijvoorbeeld via een kort bericht</li></ul>",
+   "Noteer na afloop wat goed liep en wat je anders wil. Die opmerkingen zijn precies de input voor een zondagsplan op maat."]},
+  {"h2": "Een voorbeeld: een tandartspraktijk die twijfelt", "p": [
+   "Stel: je hebt een tandartspraktijk met twee behandelkamers en een wachtzaal, en je twijfelt of één vaste persoon past in je hygiëneroutine. Je boekt één blok van 3 uur op een dinsdagochtend voor de eerste patiënten binnenkomen. Na afloop loop je mee door de ruimtes en geef je aan wat je anders wil.",
+   "Bevalt het, dan stel je samen het zondagsplan op. Bevalt het niet helemaal, dan zoeken we samen een andere Zondag in plaats van de samenwerking meteen te laten vallen."]},
+  {"h2": "Eerst praten of meteen boeken", "p": [
+   "Boeken kan online voor een weekdag, minstens twee werkdagen vooraf. Je kiest datum, taken en aantal blokken, geeft de naam en het btw-nummer van je bedrijf en betaalt met kaart of Bancontact. Liever eerst een gesprek? Laat dan je gegevens achter op de <a href=\"boeken.html\">boekpagina</a> voor een terugbelverzoek.",
+   "Voor een groter of terugkerend plan, bijvoorbeeld elke week, gebeurt het kennismakingsgesprek altijd voor je dagen en uren vastligt."]},
+  {"h2": "Wat een kort gesprek oplevert", "p": [
+   "In dat gesprek bespreken we je ruimte, je taken, je dagen en je uren. Je leest er meer over bij <a href=\"vragen/intake-poetshulp-wat-bespreek-je.html\">wat je bespreekt bij de intake</a>. Het kost je een kwartier, en het voorkomt dat je Zondag in de eerste week moet raden wat je verwacht."]},
+  {"h2": "Hoe je daarna beslist", "p": [
+   "Vraag jezelf na het eerste blok drie dingen af: voel ik me op mijn gemak met deze persoon, is mijn kantoor of praktijk beter dan voordien, en wegen de kosten op tegen de tijd die ik win? Bij drie keer ja leg je een vast ritme vast. Bij twijfel boek je een tweede blok of vraag je een andere Zondag.",
+   "Hoe de dienst later wordt bijgestuurd, lees je bij <a href=\"vragen/uren-bijboeken-of-afbouwen-poetshulp.html\">uren bijboeken of afbouwen</a>."]}
  ],
  "faq": [
-  {
-   "q": "Kan ik poetshulp gratis uitproberen?",
-   "a": "Bij Zondags (zondags.be) zijn de eerste 2 uur gratis, om kennis te maken. Je ziet hoe je Zondag werkt voor je verder beslist. Daarna loopt het zondagsplan verder, maandelijks opzegbaar."
-  },
-  {
-   "q": "Ben ik na de eerste 2 uur verplicht om door te gaan?",
-   "a": "Nee. De eerste 2 uur dienen om kennis te maken. Wil je niet verder, dan bespreek je dat. Het plan is maandelijks opzegbaar, dus je zit niet vast aan een lange verbintenis."
-  },
-  {
-   "q": "Wat als mijn Zondag niet bij mij past?",
-   "a": "Dan zoeken we samen een andere Zondag. We beloven niet dat die meteen klaarstaat, maar klikt het niet, dan blijven we zoeken tot het past voor jou en voor je Zondag."
-  },
-  {
-   "q": "Hoe snel kan de kennismaking plaatsvinden?",
-   "a": "Na je aanvraag bellen we je binnen één werkdag terug en plannen we de intake. Wanneer de eerste beurt kan, hangt af van je dagen en uren en van wie we vinden. Dat bespreken we meteen."
-  },
-  {
-   "q": "Wat kost de poetshulp na de kennismaking?",
-   "a": "De prijs is op maat, na een kort gesprek. Er zijn geen vaste tarieven op de site. De eerste 2 uur zijn gratis en daarna spreken we samen af hoeveel uren je boekt."
-  }
+  {"q": "Kan ik poetshulp uitproberen zonder vast plan?", "a": "Ja, maar elk uur wordt aangerekend. Je kan wel klein beginnen met één blok van 3 uur aan 60 euro per uur exclusief btw, en daarna beslissen over een vast plan."},
+  {"q": "Hoeveel kost een eerste blok poetshulp?", "a": "180 euro exclusief btw, dus 60 euro per uur voor 3 uur. Je betaalt online en krijgt een factuur op naam van je bedrijf."},
+  {"q": "Moet ik een vast plan nemen na het eerste blok?", "a": "Nee. Je kiest zelf of je terugkomt en met welk ritme. Bij een vast plan bespreken we eerst kort wat je nodig hebt."},
+  {"q": "Wat als ik mijn Zondag niet prettig vind?", "a": "Zeg het ons en we zoeken samen een andere Zondag. Je hoeft de samenwerking dus niet te laten vallen om een betere match te vinden."},
+  {"q": "Kan ik eerst een gesprek hebben voor ik boek?", "a": "Ja, via een terugbelverzoek op de boekpagina, via de chat of door te bellen of te WhatsAppen op 0470 56 53 58, elke dag van 6 tot 22 uur."},
+  {"q": "Hoe snel kan een eerste blok doorgaan?", "a": "Boeken kan voor een weekdag, minstens twee werkdagen vooraf. Vroeg in de ochtend of over de middag kan, nooit 's avonds of in het weekend."}
  ]
 }

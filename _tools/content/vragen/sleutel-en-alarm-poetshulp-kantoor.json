@@ -1,84 +1,36 @@
 {
  "path": "vragen/sleutel-en-alarm-poetshulp-kantoor.html",
  "title": "Sleutel en alarm regelen voor poetshulp",
- "desc": "Zo regel je sleutel en alarm voor de poetshulp van je kantoor: afspraken, een vaste persoon, een lijst en wat je vooraf vastlegt in het zondagsplan.",
+ "desc": "Hoe regel je sleutel, badge en alarm voor de poetshulp van je kantoor? Een praktische lijst met afspraken over toegang, codes, bijhouden en afsluiten.",
  "eyebrow": "Vraag",
  "h1": "Hoe regel je sleutel en alarm voor de poetshulp van je kantoor?",
- "lead": "Je geeft een sleutel en een alarmcode aan iemand die je goed moet kennen. Daarom werkt een vaste persoon beter dan een wisselende ploeg.",
- "answer": "Je regelt sleutel en alarm voor de poetshulp van je kantoor door ze aan één vaste persoon te geven, de afspraken op papier te zetten en een eigen alarmcode of een tweede toegang te gebruiken. Bij Zondags (zondags.be) is dat je Zondag: gescreend en in dienst van Zondags. Spreek in het zondagsplan af wie de sleutel heeft, wanneer hij of zij komt en wat bij problemen gebeurt.",
- "facts": [
-  "Eén vaste persoon, één sleutel",
-  "Afspraken op papier",
-  "Eigen alarmcode of tweede toegang",
-  "Meld problemen meteen",
-  "Gescreend en in dienst van Zondags"
- ],
+ "lead": "De poetshulp moet binnen en buiten raken zonder dat je telkens aanwezig bent. Met een paar vaste afspraken over sleutel en alarm blijft dat veilig en overzichtelijk.",
+ "answer": "Je regelt de toegang voor poetshulp met een vaste afspraak over sleutel of badge, een eigen alarmcode en een duidelijke procedure voor openen en afsluiten. Bij Zondags (zondags.be) werkt steeds dezelfde persoon, je Zondag, waardoor je sleutel en code bij één bekende persoon liggen. De afspraken noteer je in het zondagsplan. Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur.",
+ "facts": ["Eén vaste persoon met toegang", "Sleutel, badge of code vooraf afspreken", "Eigen alarmcode per persoon", "Procedure voor openen en afsluiten", "60 euro per uur, per blok van 3 uur"],
  "sections": [
-  {
-   "h2": "Begin met een vaste persoon",
-   "p": [
-    "Hoe minder mensen een sleutel hebben, hoe minder zorgen. Bij een wisselende ploeg weet je niet wie op een bepaalde dag binnenkwam. Bij Zondags is het dezelfde persoon, op dezelfde dag en hetzelfde uur, in dienst van Zondags en gescreend. Dat maakt het verantwoordelijk en overzichtelijk.",
-    "Zondags werkt met studenten vanaf 18 jaar, flexi-jobbers en mensen met een vast contract, allemaal gescreend en in dienst. Je geeft de sleutel dus aan iemand die we kennen en opvolgen."
-   ]
-  },
-  {
-   "h2": "Wat je vastlegt in het zondagsplan",
-   "p": [
-    "<ul class=\"ticks\"><li>Wie de sleutel heeft en hoe hij of zij hem bewaart</li><li>Welke deur of welk toegangssysteem wordt gebruikt</li><li>Een eigen alarmcode voor je Zondag, als je alarm dat toelaat</li><li>Wie er gebeld wordt als het alarm afgaat</li><li>Wat er moet gebeuren als de sleutel verloren gaat</li><li>Wat je Zondag doet bij het vertrekken: licht, deur, alarm</li></ul>"
-   ]
-  },
-  {
-   "h2": "Hoe je het praktisch aanpakt",
-   "p": [
-    "Geef bij de start de sleutel persoonlijk mee tijdens de intake, zodat je het gezicht kent. Zeg welke ruimtes niet gepoetst mogen worden, bijvoorbeeld een archiefkamer of een kamer met vertrouwelijke documenten. Zet die liever op slot of laat ze buiten het plan.",
-    "Een label met een code in plaats van je bedrijfsnaam op de sleutelhanger voorkomt dat een verloren sleutel naar je kantoor verwijst.",
-    "Maak ook een korte schriftelijke afspraak over wat je Zondag mag aanraken: papieren op je bureau, computerschermen en kasten blijven staan zoals ze staan, tenzij je iets anders vraagt."
-   ]
-  },
-  {
-   "h2": "Als je niet aanwezig bent",
-   "p": [
-    "Veel kantoren worden gepoetst als niemand er is. Dat kan, als je Zondag het alarm kan in- en uitschakelen en weet hoe het werkt. Oefen de procedure één keer samen tijdens de intake. Laat ook een nummer achter waarop je bereikbaar bent.",
-    "Voor de eerste keer kan je een korte rondgang doen, zodat je Zondag weet waar het materiaal staat, welke deur klemt en hoe het alarm klinkt."
-   ]
-  },
-  {
-   "h2": "Wat als het misloopt",
-   "p": [
-    "Een alarm dat afgaat, een sleutel die niet past of een deur die klemt: je Zondag belt je of ons. Spreek vooraf af wie wie belt en wat er verwacht wordt. Bij ziekte of verlof van je Zondag zoeken wij een oplossing."
-   ]
-  },
-  {
-   "h2": "Wie in je team moet het weten",
-   "p": [
-    "Zeg je team wie de Zondag is en wanneer hij of zij komt. Dat vermijdt dat iemand een onbekende op kantoor ziet en alarm slaat. Meer lees je op <a href=\"gids/sleutel-en-vertrouwen.html\">sleutel en vertrouwen</a>. Een gewone dienstenfactuur op naam van je vennootschap dekt de prestaties, en je accountant bevestigt hoe dat bij jou past."
-   ]
-  }
+  {"h2": "Eén persoon, één sleutel", "p": [
+   "Wie een zaak laat poetsen, geeft toegang tot een ruimte vol spullen, dossiers en apparatuur. Daarom helpt het dat je geen wisselend team in en uit laat lopen. Bij een vaste poetshulp weet je precies wie de sleutel heeft en wie je moet aanspreken als er iets is.",
+   "Bij Zondags is dat je Zondag, steeds dezelfde persoon op een vaste dag en een vast uur."]},
+  {"h2": "Een lijst om toegang te regelen", "p": [
+   "<ul class=\"ticks\"><li>Sleutel, badge of code: wie krijgt wat en hoe wordt het overhandigd</li><li>Een eigen alarmcode voor de poetshulp, zodat je kan nagaan wie wanneer binnenkwam</li><li>Hoe het alarm uitgeschakeld en weer ingeschakeld wordt, stap voor stap</li><li>Welke deuren op slot blijven, zoals de archiefruimte</li><li>Wat te doen bij een storing of een verkeerd alarm</li><li>Wie het aanspreekpunt is bij problemen</li></ul>"]},
+  {"h2": "Procedure bij openen en afsluiten", "p": [
+   "Schrijf het op in een korte lijst die je Zondag kan meenemen. Welke deur eerst, welke lichten uit, waar het alarm staat, wat te doen met de sleutel na afloop. Een duidelijke volgorde voorkomt fouten, zeker bij een eerste beurt.",
+   "Loop de procedure bij de eerste beurt samen na, en vraag bij twijfel om een extra uitleg."]},
+  {"h2": "Een voorbeeld: een praktijk met een alarmsysteem", "p": [
+   "Stel: je hebt een tandartspraktijk met een alarm en een gesloten medicatiekast. Je geeft je Zondag een eigen alarmcode, spreekt af dat de kast gesloten blijft en dat de laatste deur wordt afgesloten en het alarm ingeschakeld voor vertrek. Je spreekt af dat ze je een kort bericht stuurt wanneer alles gebeurd is.",
+   "Zo weet je dat de zaak weer op slot zit, ook als jij er niet bent."]},
+  {"h2": "Wat bij verlies of vervanging", "p": [
+   "Verlies je een sleutel of verandert de Zondag, dan pas je de toegang aan: nieuwe code, ingetrokken badge, eventueel een nieuwe sleutel. Meld het meteen aan Zondags zodat we samen oplossen wat nodig is.",
+   "Voor de overige gevoelige zaken, zoals vertrouwelijke dossiers, lees je <a href=\"vragen/discretie-poetshulp-in-praktijk.html\">hoe je discretie regelt in een praktijk</a>."]},
+  {"h2": "Prijs en afspraak vastleggen", "p": [
+   "De afspraken over sleutel en alarm kosten niets extra: je betaalt de geboekte uren aan 60 euro per uur exclusief btw, dus 180 euro exclusief btw per blok van 3 uur. Leg ze vast in het zondagsplan, dat je na een kort gesprek opstelt. Een eerste blok boek je via de <a href=\"boeken.html\">boekpagina</a>."]}
  ],
  "faq": [
-  {
-   "q": "Moet ik een sleutel geven aan de poetshulp van mijn kantoor?",
-   "a": "Meestal wel, zeker als je kantoor leeg is tijdens het poetsen. Geef de sleutel aan één vaste persoon en leg de afspraken vast in het zondagsplan."
-  },
-  {
-   "q": "Kan ik een eigen alarmcode geven?",
-   "a": "Dat hangt af van je alarmsysteem. Als het kan, geef je je Zondag een eigen code, zodat je weet wie het alarm in- en uitschakelde."
-  },
-  {
-   "q": "Wat als de sleutel verloren gaat?",
-   "a": "Meld het meteen aan jou en aan ons. Spreek vooraf af wat er dan gebeurt, bijvoorbeeld wie het slot laat vervangen."
-  },
-  {
-   "q": "Kan ik bepaalde ruimtes uitsluiten?",
-   "a": "Ja. Zeg welke ruimtes niet gepoetst mogen worden, bijvoorbeeld een archiefkamer of een kamer met vertrouwelijke documenten, en zet ze eventueel op slot. Dat leggen we vast in het zondagsplan."
-  },
-  {
-   "q": "Is mijn Zondag gescreend?",
-   "a": "Ja. Elke Zondag is gescreend door Zondags en in dienst van Zondags, niet zelfstandig. Je krijgt steeds dezelfde persoon en je weet dus wie je sleutel heeft."
-  },
-  {
-   "q": "Wat als ik niemand wil laten binnen zonder mij?",
-   "a": "Dan kan je Zondag komen als jij of iemand van je team aanwezig is. Dat bespreken we in de intake."
-  }
+  {"q": "Hoe geef ik de poetshulp toegang tot mijn kantoor?", "a": "Via een afgesproken sleutel, badge of code, die je overhandigt aan de vaste persoon. Leg de afspraak vast in het zondagsplan."},
+  {"q": "Krijgt de poetshulp een eigen alarmcode?", "a": "Dat raden we aan. Met een eigen code kan je nagaan wie wanneer binnenkwam, en kan je de code intrekken wanneer nodig zonder alles te wijzigen."},
+  {"q": "Wat als het alarm per ongeluk afgaat?", "a": "Zet een korte procedure op papier met het aanspreekpunt en het nummer van je alarmbedrijf. Je Zondag kan die meenemen en weet wie te bellen."},
+  {"q": "Wat als de sleutel verloren raakt?", "a": "Verwittig meteen Zondags en pas de toegang aan, bijvoorbeeld met een nieuwe code of badge. Maak vooraf afspraken over wie wat betaalt."},
+  {"q": "Werkt altijd dezelfde persoon met mijn sleutel?", "a": "Ja, bij een vast plan werkt steeds dezelfde Zondag. Verandert de persoon, bijvoorbeeld bij verlof of een nieuwe match, dan pas je de toegang samen aan."},
+  {"q": "Kan de poetshulp komen als niemand aanwezig is?", "a": "Ja, als de toegang vooraf geregeld is. Zondags werkt overdag op weekdagen, ook vroeg in de ochtend of over de middag."}
  ]
 }

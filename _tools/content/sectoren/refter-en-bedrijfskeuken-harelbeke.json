@@ -1,84 +1,37 @@
 {
- "title": "Refter en bedrijfskeuken laten poetsen in Harelbeke",
- "desc": "Laat de refter, koelkast, microgolf en koffiemachine van je zaak in Harelbeke onderhouden door één vaste persoon. Factuur aan je vennootschap.",
- "eyebrow": "Refter · Harelbeke 8530",
+ "path": "sectoren/refter-en-bedrijfskeuken-harelbeke.html",
+ "title": "Refter en bedrijfskeuken poetsen in Harelbeke (8530)",
+ "desc": "Showroom of winkel in Harelbeke: laat de keuken en refter poetsen voor de deur opengaat. Eén vaste Zondag, 60 euro per uur excl. btw, online boeken.",
+ "eyebrow": "Harelbeke · 8530",
  "h1": "Refter en bedrijfskeuken laten poetsen in Harelbeke",
- "lead": "De refter is de ruimte waar je team elke dag samenkomt, en waar het snelst vuil achterblijft. Een vaste persoon houdt ze wekelijks op orde, in Harelbeke, Bavikhove en Hulste.",
- "answer": "Zondags (zondags.be) laat de refter en bedrijfskeuken van je zaak in Harelbeke poetsen door één vaste persoon, je Zondag. Die neemt tafels, koelkast, microgolf, koffiemachine, vaatwasser en afval voor zijn rekening op een vaste dag en uur, overdag op weekdagen. Ook winkels en zaken in het centrum kunnen dit voor de deur opengaat laten doen. De factuur gaat op naam van je vennootschap.",
- "facts": [
-  "Tafels, koelkast en microgolf",
-  "Koffiemachine en vaatwasser",
-  "Afval en recyclage",
-  "Poetsen voor de zaak opengaat",
-  "Vaste dag en vast uur"
- ],
+ "lead": "Een showroom in Harelbeke begint de dag met een keuken die er al klaarligt. Je Zondag poetst de refter en het personeelshoekje voor de eerste klant binnenkomt.",
+ "answer": "Zondags (zondags.be) poetst de refter en de bedrijfskeuken van winkels, showrooms en kantoren in Harelbeke, Bavikhove en Hulste, voor de deur opengaat. Je krijgt één vaste persoon, je Zondag, op een afgesproken weekdag. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en ontvangt een factuur op naam van je bedrijf. Zondags werkt overdag, nooit 's avonds en nooit in het weekend.",
+ "facts": ["Poetsen voor de winkel opengaat", "Refter, keuken en koffiehoek", "Steeds dezelfde Zondag", "60 euro per uur, per blok van 3 uur", "Factuur op naam van je bedrijf", "Online boeken en betalen"],
  "sections": [
-  {
-   "h2": "De refter als zwakke plek",
-   "p": [
-    "In bijna elke zaak is de refter de ruimte waar het onderhoud het eerst achterop raakt. Niemand voelt zich verantwoordelijk voor de koelkast, de koffiemachine krijgt zelden een grondige beurt en de microgolf toont de sporen van de lunch van vorige week.",
-    "Dat is geen kwestie van onwil. Iedereen gebruikt de ruimte, dus niemand heeft ze alleen. Een vaste persoon met een vast moment lost dat op, zonder dat je teamleden onderling moeten onderhandelen over wie nu de beurt heeft."
-   ]
-  },
-  {
-   "h2": "Wat er in de refter gebeurt",
-   "p": [
-    "<ul class=\"ticks\"><li>Tafels en stoelen afnemen</li><li>Koelkast leegmaken van oude resten en afnemen</li><li>Microgolf van binnen en van buiten reinigen</li><li>Koffiemachine en waterkoker uitwassen of ontkalken volgens de afspraak</li><li>Vaatwasser leegmaken en aanvullen</li><li>Spoelbak, kranen en aanrecht</li><li>Afval, PMD en glas buiten zetten</li></ul>",
-    "Het gaat om een refter of personeelskeuken, geen horecakeuken. Industriële reiniging en voedselverwerking vallen buiten ons aanbod. Een algemeen overzicht van het onderwerp vind je op <a href=\"sectoren/refter-en-bedrijfskeuken.html\">refter en bedrijfskeuken</a>."
-   ]
-  },
-  {
-   "h2": "Voorbeeld: een showroom met keukens of badkamers",
-   "p": [
-    "Stel: je hebt een showroom voor keukens en badkamers in het centrum van Harelbeke. Klanten wandelen langs de opgestelde keukens, jij en je collega's drinken koffie in een kleine refter achteraan. Die refter hoort niet bij de verkoopruimte, maar klanten zien er soms door.",
-    "Je Zondag komt op dinsdagochtend vóór de opening. Eerst de showroomvloer en de toonbank, daarna de refter en de koffiehoek. Zo ligt alles klaar wanneer de eerste klant binnenstapt."
-   ]
-  },
-  {
-   "h2": "Kleine gewoontes die het onderhoud verlichten",
-   "p": [
-    "Een Zondag kan veel, maar de refter wordt makkelijker als het team zelf een paar kleine gewoontes heeft. Spoel je kop meteen uit. Zet je lunchbak niet in de koelkast zonder datum. Veeg de microgolf af na gebruik. Laat geen vuile vaat op het aanrecht staan. Dat kost weinig tijd en houdt de ruimte maanden langer fris.",
-    "Spreek ook af wie voor het eten en drinken zorgt dat nog in de frigo mag blijven. Wat je Zondag opruimt, bespreken jullie samen in het zondagsplan, zodat niemand zich verrast voelt."
-   ]
-  },
-  {
-   "h2": "Harelbeke, Bavikhove en Hulste",
-   "p": [
-    "Harelbeke heeft postcode 8530. Bavikhove en Hulste zijn deelgemeenten van Harelbeke. In de buurt liggen Kortrijk, Kuurne, Deerlijk, Zwevegem en Wielsbeke. Zondags zoekt een Zondag in en rond de plaats van je zaak, zonder te beloven dat er al iemand klaarstaat."
-   ]
-  },
-  {
-   "h2": "Factuur en boekhouding",
-   "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Je krijgt een gewone dienstenfactuur op naam van je vennootschap en het onderhoud van beroepsruimtes is een beroepskost. Laat je accountant bevestigen hoe je dit voor jouw situatie verwerkt. De eerste 2 uur zijn gratis, en het plan is maandelijks opzegbaar."
-   ]
-  }
+  {"h2": "Eerst de keuken, dan de klant", "p": [
+   "In een winkel of showroom is de verkoopruimte het uithangbord, maar het personeel leeft ook in de keuken. Een klant die bij de balie staat, merkt het wanneer een medewerker nog snel de afwas wegzet of wanneer de keukendeur openstaat op een rommelige gootsteen.",
+   "Een vaste Zondag houdt die achterkant op orde, zonder dat jij of je team het moet bijhouden. Ze komt aan het begin van de dag, vroeg in de ochtend, zodat de winkel klaar is wanneer de rolluiken omhoog gaan."]},
+  {"h2": "Voorbeeld: een showroom met keukens of badkamers", "p": [
+   "Stel: je baat in het centrum van Harelbeke een showroom uit met uitgestalde keukens en badkamers. Klanten nemen de tijd, lopen rond en blijven soms lang. Het team neemt zijn lunch in een kleine refter achteraan.",
+   "Je Zondag komt op dinsdag en vrijdag voor openingstijd. Ze veegt het sap van een omgevallen beker weg, poetst de koffiemachine, ruimt de vaatwasser leeg en wrijft de tafel schoon. De showroom zelf, de toonbank en de gang naar de refter doet ze in dezelfde ronde, zodat alles bij openen verzorgd oogt."]},
+  {"h2": "De routine in de refter", "p": [
+   "<ul class=\"ticks\"><li>Tafel en stoelen reinigen, met aandacht voor kruimels onder de rand</li><li>Koelkast: vervallen producten weg, legplanken afnemen</li><li>Microgolf binnenin schoonmaken</li><li>Koffiemachine ontkalken en het drupbakje uitspoelen</li><li>Vaatwasser leegmaken en het afval buiten zetten</li></ul>",
+   "Zo'n lijst is snel afgewerkt als het onderhoud regelmatig gebeurt. Voor andere ruimtes lees je meer over <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."]},
+  {"h2": "Wat je team zelf kan blijven doen", "p": [
+   "Een eigen bekertje afspoelen of een etensbakje weghalen blijft een kleine gewoonte van iedereen. Een Zondag vervangt niet de beleefdheid van het team, ze vangt de dagelijkse restjes op en doet de grondige beurt.",
+   "Spreek bijvoorbeeld af dat de frigo op vrijdag leeg wordt gemaakt, zodat je Zondag de planken op maandag alleen nog hoeft af te nemen."]},
+  {"h2": "Harelbeke, Bavikhove en Hulste", "p": [
+   "Bavikhove en Hulste zijn deelgemeenten van Harelbeke en Zondags werkt er net zoals in het centrum. Ook als je zaak in Kortrijk, Kuurne, Deerlijk, Zwevegem of Wielsbeke ligt, zoeken we een Zondag die in de buurt woont."]},
+  {"h2": "Prijs en boeken", "p": [
+   "Je betaalt 60 euro per uur exclusief btw. Een blok van 3 uur kost 180 euro exclusief btw, extra uren boek je aan hetzelfde tarief. Op de <a href=\"boeken.html\">boekpagina</a> kies je datum en taken en betaal je online.",
+   "De factuur staat op naam van je bedrijf. Het onderhoud van de zaak is in principe een beroepskost, maar bevestig dat voor jouw situatie bij je accountant."]}
  ],
  "faq": [
-  {
-   "q": "Wie kan de refter van mijn zaak in Harelbeke laten poetsen?",
-   "a": "Zondags levert een vaste persoon, je Zondag, die refter, koelkast, microgolf, koffiemachine en tafels onderhoudt op een vaste dag en uur. Je krijgt een factuur op naam van je vennootschap."
-  },
-  {
-   "q": "Doet de poetshulp ook de koelkast?",
-   "a": "Ja. De koelkast leegmaken van oude resten en afnemen hoort bij de refterbeurt. Wat je team zelf wil bewaren, bespreken jullie vooraf, zodat niets verdwijnt dat niet weg mag."
-  },
-  {
-   "q": "Is een bedrijfskeuken hetzelfde als een refter?",
-   "a": "Wij doen refters en personeelskeukens met koffiemachine, microgolf en koelkast. Een keuken voor horeca of voedselverwerking en industriële reiniging doen we niet."
-  },
-  {
-   "q": "Kan de refter gepoetst worden voor de zaak opengaat?",
-   "a": "Ja, vroeg in de ochtend kan, overdag op weekdagen. We spreken samen een vast uur af. 's Avonds en in het weekend werken we niet."
-  },
-  {
-   "q": "Hoe vaak moet een refter gepoetst worden?",
-   "a": "Dat hangt af van het aantal mensen en het gebruik. Wekelijks is gebruikelijk, bij een grotere ploeg vaker. Je bepaalt de frequentie samen met ons en je kan altijd uren bijboeken."
-  },
-  {
-   "q": "Kan ik de refter laten poetsen samen met mijn woning?",
-   "a": "Ja. Zaak en woning kunnen in één plan, met één factuur waarop het beroepsmatige en het privégedeelte apart staan."
-  }
- ],
- "path": "sectoren/refter-en-bedrijfskeuken-harelbeke.html"
+  {"q": "Wie poetst de refter van mijn winkel in Harelbeke?", "a": "Zondags stuurt één vaste Zondag naar je winkel, showroom of kantoor in Harelbeke. Ze poetst de refter en de keuken op een afgesproken moment, vroeg in de ochtend of over de middag."},
+  {"q": "Kan het poetsen gebeuren voor we opengaan?", "a": "Ja, vroeg in de ochtend op weekdagen kan. Je bezorgt een sleutel of een toegangscode aan je vaste Zondag, zodat ze binnen kan voor het team aankomt."},
+  {"q": "Wat kost een bedrijfskeuken laten poetsen in Harelbeke?", "a": "Je betaalt 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw, met extra uren aan hetzelfde tarief."},
+  {"q": "Doet mijn Zondag ook de showroom zelf?", "a": "Ja, vloer, balie, onthaal en glazen deuren langs binnen kunnen in dezelfde beurt. Ramen langs buiten op hoogte horen er niet bij."},
+  {"q": "Werkt Zondags ook in Bavikhove en Hulste?", "a": "Ja. Beide zijn deelgemeenten van Harelbeke. Zondags is er actief, net als in Kortrijk, Kuurne, Deerlijk, Zwevegem en Wielsbeke."},
+  {"q": "Hoe boek ik een Zondag in Harelbeke?", "a": "Via de boekpagina op zondags.be kies je datum, aantal blokken en taken. Je geeft de gegevens van je bedrijf in en betaalt online. Voor een vaste afspraak bel je 0470 56 53 58."}
+ ]
 }

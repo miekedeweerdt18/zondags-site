@@ -1,35 +1,85 @@
 {
- "path": "poetshulp/ledegem.html",
  "title": "Poetshulp voor bedrijven in Ledegem (8880)",
- "desc": "Poetshulp voor vrije beroepen in Ledegem met een praktijk of thuiskantoor en een woning ernaast. Eén vaste persoon voor beide en één dienstenfactuur.",
+ "desc": "Poetshulp voor praktijken en kantoren van vrije beroepen in Ledegem, buiten de consulturen. 60 euro per uur excl. btw, online per blok van 3 uur.",
  "eyebrow": "Ledegem · 8880",
  "h1": "Poetshulp voor bedrijven in Ledegem",
- "lead": "Een vrij beroep in Ledegem heeft een ruimte voor klanten én een woning. Eén vaste Zondag houdt beide bij, zodat een IT-consultant of praktijkhouder zich op het werk kan richten.",
- "answer": "Zondags (zondags.be) levert poetshulp aan vrije beroepen in Ledegem, een gemeente in de regio Roeselare met de deelgemeenten Rollegem-Kapelle en Sint-Eloois-Winkel: praktijken, kantoren en thuiskantoren, zoals dat van een IT-consultant. Dezelfde vaste persoon poetst op wens ook je woning. Beroepsmatig en privé staan apart op de dienstenfactuur aan je vennootschap.",
- "facts": ["Vrije beroepen in Ledegem", "Praktijk of thuiskantoor én woning", "Regio Roeselare", "Beroepsmatig en privé gesplitst", "Eerste 2 uur gratis"],
+ "lead": "Voor vrije beroepen in Ledegem is de praktijk een visitekaartje. Je vaste Zondag poetst wachtzaal, consultatieruimte en sanitair buiten de consulturen, op een moment dat jou past.",
+ "answer": "Zondags (zondags.be) levert in Ledegem poetshulp voor vrije beroepen met een praktijk of kantoor: wachtzaal, consultatieruimte, sanitair en vloeren worden onderhouden buiten de consulturen, door één vaste persoon, je Zondag. Dat werkt ook in Rollegem-Kapelle en Sint-Eloois-Winkel. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je bedrijf. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk.",
+ "facts": [
+  "Vrije beroepen met een praktijk",
+  "Wachtzaal, consultatie, sanitair",
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Factuur op naam van je bedrijf",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Werkruimte voor klanten, woning voor jezelf", "p": [
-   "Een vrij beroep heeft vaak twee werelden: de ruimte waar klanten of patiënten komen, met een wachtruimte, een consultatieruimte en sanitair, en de woning waar je ontspant. Voor beide is poetsen een taak die op je lijstje belandt wanneer niets anders meer past.",
-   "Een Zondag neemt beide over. Het is steeds dezelfde persoon, op een afgesproken moment, en je beslist zelf hoe je de uren verdeelt."]},
-  {"h2": "Een IT-consultant die klanten thuis ontvangt", "p": [
-   "Neem een IT-consultant in Ledegem die klanten thuis ontvangt voor een bespreking: een bureau met schermen, een kleine vergadertafel en een gang die de klant door moet. Wanneer zijn agenda volloopt, komt het opruimen er als laatste aan, terwijl het thuiskantoor net het eerste is wat een klant ziet.",
-   "Je Zondag brengt het thuiskantoor in orde voor de afspraken: bureau, vloer, vergadertafel en sanitair voor bezoek. Wat op het bureau blijft liggen, bepaal je zelf. Daarna volgt de rest van de woning. Als IT-consultant vind je meer bij <a href=\"beroepen/it-consultant.html\">IT-consultants</a>."]},
-  {"h2": "Wat de ruimtes nodig hebben", "p": [
-   "<ul class=\"ticks\"><li>Wachtruimte of gang waar klanten binnenkomen</li><li>Consultatieruimte of thuiskantoor: bureau en vergadertafel</li><li>Sanitair voor bezoekers</li><li>Woonruimtes en keuken</li><li>Was en strijk, boodschappen en eventueel koken</li></ul>"]},
-  {"h2": "Beroepskost aan de ene kant, voordeel van alle aard aan de andere", "p": [
-   "Een vennootschap kan geen dienstencheques kopen. Daarom krijg je een gewone dienstenfactuur, met een regel voor je werkruimte en een regel voor je woning. De werkruimte is een beroepskost.",
-   "Voor de woning geldt een forfaitair voordeel van alle aard. De voorwaarden: de prestaties zijn regelmatig en een onderneming met mensen in dienst voert ze uit. Is je praktijk btw-vrijgesteld, dan kan je de btw doorgaans niet recupereren. Je accountant bevestigt wat van toepassing is op jouw situatie."]},
-  {"h2": "Ledegem, Rollegem-Kapelle en Sint-Eloois-Winkel", "p": [
-   "Ledegem ligt in de regio Roeselare en heeft twee deelgemeenten: Rollegem-Kapelle en Sint-Eloois-Winkel. Voor een praktijk of thuiskantoor daar, of in Moorslede, Wevelgem, Izegem en Menen, loopt de aanvraag hetzelfde. Zondags zit zelf in Marke en werkt in West- en Oost-Vlaanderen."]},
-  {"h2": "Een eerste gesprek duurt niet lang", "p": [
-   "Je laat via het formulier of de chat weten wat je zoekt. Binnen één werkdag belt iemand je op en komt langs voor de intake. De eerste 2 uur zijn gratis, het plan is maandelijks opzegbaar en je kan uren bijboeken."]}
+  {
+   "h2": "Een praktijk heeft twee gezichten: spreekuur en rust",
+   "p": [
+    "Een huisarts, tandarts, psycholoog of advocaat heeft twee soorten uren. Tijdens het spreekuur mag niets verstoren, daarbuiten ligt de praktijk er stil bij. Net in die stilte past het poetsen, en het is ook het moment waarop jijzelf het minst beschikbaar bent om het te regelen.",
+    "Een vaste Zondag komt buiten de consulturen: vroeg in de ochtend, over de middag of op een dag zonder afspraken. Ze kent de ruimte, weet welke kamers extra aandacht vragen en neemt je werklast weg zonder dat je erover moet nadenken."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een IT-consultant met een kantoor voor vijf mensen",
+   "p": [
+    "Neem een IT-consultant in Ledegem met een kantoor voor vijf mensen. Er is geen wachtzaal, wel een vergaderhoek voor klantgesprekken, een keuken met een koffiemachine en veel kabels onder de bureaus. Niemand ziet het stof achter de schermen tot een klant op bezoek komt.",
+    "Je Zondag komt op een vaste voormiddag, neemt de bureaus af zonder kabels te verleggen, poetst keuken en sanitair en zet de vergaderhoek klaar voor klantenbezoek. Een tweede blok boek je vlak voor een jaarlijkse klantendag."
+   ]
+  },
+  {
+   "h2": "Wat bij een praktijk of kantoor hoort",
+   "p": [
+    "<ul class=\"ticks\"><li>Wachtzaal, onthaal en vergaderhoek</li><li>Consultatieruimte: vloer, tafels, wastafel</li><li>Sanitair voor team en bezoekers</li><li>Keuken, refter en frigo</li><li>Ramen en glazen deuren langs binnen</li><li>Afval en papier naar de juiste container</li></ul>",
+    "Steriliseren of reinigen van medisch materiaal en alles wat patiëntgegevens raakt blijft bij jou en je team."
+   ]
+  },
+  {
+   "h2": "Administratie en afspraken ernaast",
+   "p": [
+    "Ook de kleine administratie kan naar je Zondag: post sorteren, facturen klasseren, kantoormateriaal bijbestellen, afspraken in de agenda zetten. Boekhouding en alles wat fiscaal of juridisch is, doet ze niet. Een duidelijk overzicht van dat aanbod vind je op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."
+   ]
+  },
+  {
+   "h2": "Ledegem, Rollegem-Kapelle en Sint-Eloois-Winkel",
+   "p": [
+    "Ledegem heeft postcode 8880. Rollegem-Kapelle en Sint-Eloois-Winkel zijn deelgemeenten van Ledegem. Je zaak kan ook in de buurt zitten, in Moorslede, Wevelgem, Izegem of Menen, en dan kijken we ook daar naar een Zondag. Moorslede heeft <a href=\"poetshulp/moorslede.html\">een eigen pagina</a>."
+   ]
+  },
+  {
+   "h2": "Prijs en online boeken",
+   "p": [
+    "Elk blok duurt drie uur en kost 180 euro exclusief btw, extra uren 60 euro per uur. Voor een btw-vrijgestelde praktijk is de btw doorgaans niet recupereerbaar; voor een btw-plichtig kantoor met aftrekrecht in principe wel. Laat je accountant dit bevestigen voor je eigen situatie.",
+    "Op <a href=\"boeken.html\">de boekpagina</a> kies je dag, blokken en taken en betaal je met kaart of Bancontact."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf regelt poetshulp voor een vrij beroep met thuiskantoor in Ledegem?", "a": "Zondags regelt poetshulp voor praktijken, kantoren en thuiskantoren van vrije beroepen in Ledegem, zoals een IT-consultant die thuis werkt. Eén persoon onderhoudt werkruimte en woning, en de factuur toont beide delen apart."},
-  {"q": "Kan mijn thuiskantoor als beroepsruimte op de factuur komen?", "a": "Ja, in het zondagsplan staat je thuiskantoor als beroepsruimte en de rest van de woning als privé. Of je dat fiscaal zo mag verwerken in jouw situatie, bevestigt je accountant."},
-  {"q": "Hoort Rollegem-Kapelle bij Ledegem?", "a": "Ja. Rollegem-Kapelle en Sint-Eloois-Winkel zijn deelgemeenten van Ledegem. Voor een praktijk of thuiskantoor in een van die twee dorpen, of in Moorslede, Wevelgem, Izegem en Menen, loopt de aanvraag precies zoals voor Ledegem zelf."},
-  {"q": "Kan mijn Zondag ook koken of strijken terwijl ik klanten ontvang?", "a": "Ja. Was en strijk, boodschappen en koken kunnen in je plan, naast het poetsen. Je kiest de dag en het uur, zodat je Zondag niet in de weg loopt als er een klant komt."},
-  {"q": "Hoeveel uur poetshulp heeft een thuiskantoor nodig?", "a": "Dat hangt af van de ruimtes en het gebruik, en we bepalen het bij de intake. Je kan klein starten, uren bijboeken en het plan maandelijks opzeggen."},
-  {"q": "Wat als ik klanten ontvang op het moment dat mijn Zondag er is?", "a": "Dan kiezen we een ander moment. We werken overdag op weekdagen, vroeg in de ochtend of over de middag, nooit 's avonds of in het weekend, en we stemmen het uur af op je agenda."}
- ]
+  {
+   "q": "Welk bedrijf doet poetshulp voor praktijken in Ledegem?",
+   "a": "Zondags doet poetshulp voor praktijken en kantoren van vrije beroepen in Ledegem en de deelgemeenten. Je krijgt één vaste persoon in dienst van Zondags en een factuur op naam van je bedrijf."
+  },
+  {
+   "q": "Kan de praktijk buiten de consulturen gepoetst worden?",
+   "a": "Ja. Je kiest een vroeg uur of de middag, zodat je Zondag werkt wanneer er geen patiënten of klanten zijn. 's Avonds en in het weekend werken we niet."
+  },
+  {
+   "q": "Raakt de Zondag aan patiëntendossiers?",
+   "a": "Nee, tenzij jij dat bewust vraagt. Je Zondag werkt discreet, poetst de ruimtes en laat dossiers en documenten liggen waar ze liggen."
+  },
+  {
+   "q": "Wat kost het in Ledegem?",
+   "a": "60 euro per uur exclusief btw, geboekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren kosten hetzelfde per uur."
+  },
+  {
+   "q": "Is de btw recupereerbaar voor een praktijk?",
+   "a": "Dat hangt af van je btw-statuut. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Laat je accountant bevestigen hoe het voor jou werkt."
+  },
+  {
+   "q": "Werkt Zondags ook in Sint-Eloois-Winkel?",
+   "a": "Ja. Sint-Eloois-Winkel en Rollegem-Kapelle zijn deelgemeenten van Ledegem en vallen binnen het aanbod."
+  }
+ ],
+ "path": "poetshulp/ledegem.html"
 }

@@ -6,26 +6,28 @@ Bouwen vanuit de root van de repo:
 
     PYTHONPATH=_tools python3 _tools/pseo.py
 
-## Twee soorten pagina's
+## Wat de site is
 
-1. Oudere sjabloonpagina's (`beroepen/`, `diensten/`, `gids/`, `jobs/`, `regio/huishoudhulp-*`) uit `pseo_data.py`, plus de pijlerpagina's uit `geo_pillars.py`. Deze lijken sterk op elkaar (70 tot 90 procent dezelfde tekst). Breid ze niet verder uit met dezelfde sjablonen.
-2. Unieke pagina's (sinds 4 oktober 2026): elke pagina heeft een eigen tekst in `_tools/content/<pad>.json`. Het plan met alle gegevens per pagina staat in `_tools/content/plan.json` (gemaakt door `_tools/content_plan.py`). Groepen:
-   - `poetshulp/<gemeente>`: poetshulp voor bedrijven per gemeente (94, sinds 6 oktober 2026 ook 24 extra gemeenten in Oost-Vlaanderen) en per regio (10)
-   - `regio/kookhulp-<stad>`, `regio/boodschappendienst-<stad>`, `regio/hulp-in-huis-<stad>` (12 steden)
-   - `sectoren/`: per type bedrijf, per ruimte en per gelegenheid (40)
-   - `vragen/`: vragen van bedrijven, de H1 is de vraag (44)
-   - `regio/<dienst>-<gemeente>` uitgebreid naar alle 81 gemeenten (6 oktober 2026)
-   - `werken/studentenjob-<gemeente>`, `werken/flexi-job-<gemeente>`, `werken/vaste-job-overdag-<gemeente>`: kandidatenpagina's (57 gemeenten), met sollicitatieformulier en JobPosting-schema
+Zondags is een dienst voor bedrijven (geen particulieren): poetshulp voor kantoor, praktijk of winkel, administratie, boodschappen en regelwerk, en een rechterhand voor drukbezette bedrijfsleiders. Eén pakket: 60 euro per uur excl. btw, geboekt per blok van 3 uur, extra uren per uur (zelfde prijs). Boeken en betalen via `boeken.html` (Stripe Payment Links, zie `assets/boeken.js`). Geen gratis uren, geen kortingen. Daarnaast werk met flexibele uren voor studenten, flexi-jobbers en vaste medewerkers.
+
+## Pagina's
+
+1. Pijlerpagina's uit `geo_pillars.py` (`bedrijven/`, `jobs/*-flexibele-uren`, `over-zondags`).
+2. Unieke pagina's: elke pagina heeft een eigen tekst in `_tools/content/<pad>.json`. Het plan met de gegevens per pagina staat in `_tools/content/plan.json` (gemaakt door `_tools/content_plan.py`; draai dat script niet opnieuw zonder het plan te controleren, want het overschrijft plan.json). Groepen:
+   - `poetshulp/<gemeente>` (94) en per regio (10)
+   - `regio/schoonmaak-{kantoor,praktijk,winkel}-<gemeente>` (134)
+   - `sectoren/`: per type bedrijf, per ruimte, per gelegenheid, checklists (154)
+   - `vragen/`: vragen van bedrijven, de H1 is de vraag (80)
+   - `werken/{studentenjob,flexi-job,vaste-job-overdag}-<gemeente>`: kandidatenpagina's (171) met sollicitatieformulier en JobPosting-schema
    Hubs: `poetshulp/`, `sectoren/`, `vragen/`, `werken/` (gemaakt door `pseo.py`).
+3. Redirects: `_tools/redirects.json` (oud pad naar nieuw pad). `pseo.py` schrijft voor elk oud pad een stub met meta refresh, canonical en noindex. Stubs staan niet in de sitemap.
 
-## Nieuwe pagina's toevoegen (wekelijkse uitbreiding)
+## Nieuwe pagina's toevoegen
 
-1. Voeg de nieuwe pagina's toe aan `_tools/content_plan.py` (nieuwe gemeenten met correcte postcode, deelgemeenten en buurgemeenten; of nieuwe sectoren of vragen) en draai `python3 _tools/content_plan.py`.
-2. Schrijf per pagina een JSON-bestand volgens `_tools/content/BRIEF.md` (feiten, huisstijl, formaat). Gebruik het voorbeeld `_tools/content/poetshulp/kortrijk.json`.
-3. Controleer: `python3 _tools/check_content.py` moet voor elke pagina OK geven (minstens 620 eigen woorden, maximaal 30 procent overlap met eender welke andere pagina, je-vorm, geen verboden woorden of tekens, geen prijzen, links bestaan).
-4. Bouw met `pseo.py`, controleer dat er geen kapotte links zijn, commit en push naar `main` en `gh-pages`.
-
-Volgende logische uitbreidingen: dezelfde drie diensten (kookhulp, boodschappendienst, hulp in huis) voor de overige gemeenten uit het plan; kandidatenpagina's per gemeente (studentenjob met flexibele uren, flexi-job of bijverdienen, vaste job overdag) als unieke pagina's; extra gemeenten in Oost-Vlaanderen; extra vragen van bedrijven.
+1. Voeg ze toe aan `_tools/content_plan.py` en draai `python3 _tools/content_plan.py` (controleer daarna de diff van plan.json).
+2. Schrijf per pagina een JSON-bestand volgens `_tools/content/BRIEF.md`. Voorbeeld: `_tools/content/poetshulp/kortrijk.json`.
+3. Controleer: `python3 _tools/check_content.py` moet voor elke pagina OK geven.
+4. Bouw met `pseo.py`, controleer links, commit en push naar `main` en `gh-pages`.
 
 ## Leads
 

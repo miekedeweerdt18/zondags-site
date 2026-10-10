@@ -1,82 +1,93 @@
 {
  "path": "sectoren/productiebedrijven-regio-kortrijk.html",
- "title": "Poetshulp voor kantoren van productiebedrijven in Kortrijk",
- "desc": "Poetshulp voor de administratieve kantoren, het onthaal en de refter van productiebedrijven in Kortrijk en omgeving, met een vaste persoon en één factuur.",
- "eyebrow": "Kortrijk en omgeving",
+ "title": "Poetshulp voor productiebedrijven: kantoren in Kortrijk",
+ "desc": "Kantoren, onthaal, refter en sanitair van je productiebedrijf in Kortrijk en omgeving, onderhouden door één vaste Zondag. Zonder productiehal.",
+ "eyebrow": "Productiebedrijven · Kortrijk · 8500",
  "h1": "Poetshulp voor de kantoren van productiebedrijven in Kortrijk en omgeving",
- "lead": "De productiehal is een wereld apart, maar het kantoor ernaast, het onthaal en de refter verdienen een vaste hand. Dat is het deel dat Zondags overneemt.",
- "answer": "Zondags (zondags.be) levert poetshulp voor de administratieve kantoren, het onthaal, de refter en het sanitair van productiebedrijven in Kortrijk, de deelgemeenten en de buurgemeenten. De productiehal zelf valt buiten het werk; industriële reiniging doen we niet. Je krijgt één vaste persoon, overdag op weekdagen, en een dienstenfactuur op naam van je vennootschap. Zondags is gevestigd in Marke.",
+ "lead": "Je productie draait, maar het kantoor ernaast moet er ook verzorgd bijliggen. In Kortrijk en omgeving doet één vaste Zondag dat, zonder dat ze de productiehal betreedt.",
+ "answer": "Zondags (zondags.be), gevestigd in Marke, een deelgemeente van Kortrijk, levert poetshulp voor de kantoren van productiebedrijven in Kortrijk en omgeving. Eén vaste Zondag onderhoudt administratieve kantoren, onthaal, refter en sanitair, overdag op weekdagen. De productiehal en industriële reiniging horen er niet bij. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een factuur op naam van je vennootschap.",
  "facts": [
-  "Administratief kantoor, onthaal en refter",
-  "Geen productiehal, geen industriële reiniging",
-  "Vroeg in de ochtend of over de middag",
+  "Administratieve kantoren en onthaal",
+  "Refter en sanitair",
+  "Geen reiniging van de productiehal",
   "Steeds dezelfde Zondag",
-  "Factuur aan je vennootschap",
-  "Eerste 2 uur gratis"
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
  ],
  "sections": [
   {
-   "h2": "Wat er bij een productiebedrijf voor ons is",
+   "h2": "Een kantoor met een vaste verzorger",
    "p": [
-    "Een productiebedrijf bestaat uit twee werelden: de hal waar geproduceerd wordt en het kantoor waar bestellingen, planning en administratie gebeuren. Voor de hal heb je gespecialiseerde reiniging nodig, en die bieden we niet aan. Voor het kantoor, het onthaal waar chauffeurs en klanten binnenkomen, de refter en het sanitair ben je bij Zondags aan het juiste adres.",
-    "Die afbakening is bewust. Zo weet je precies waar je op kan rekenen."
+    "Productiebedrijven in de regio Kortrijk hebben meestal een duidelijke tweedeling. Aan de ene kant de productie, met eigen regels en eigen specialisten. Aan de andere kant een kantoorgedeelte waar planning, aankoop, verkoop en administratie samenkomen. Dat tweede deel verdient een eigen onderhoud, los van de productie.",
+    "Een vaste Zondag komt op een vast moment, kent je gebouw en weet hoe de dag in jouw kantoor verloopt. Je krijgt geen wisselende gezichten, maar iemand die elke week hetzelfde rondje loopt."
    ]
   },
   {
-   "h2": "Stel: een transportfirma met een chauffeursruimte",
+   "h2": "Welke ruimtes bij het kantoorgedeelte horen",
    "p": [
-    "Veel productiebedrijven werken met chauffeurs die komen laden en lossen. Neem een bedrijf met een balie waar ze zich melden en een chauffeursruimte met tafels, koffie en een kleine keuken. Het onthaal moet er verzorgd uitzien, want daar maakt een nieuwe klant of leverancier de eerste kennis.",
-    "Je Zondag komt vroeg in de ochtend, voor de eerste leveringen. Onthaal, chauffeursruimte en sanitair krijgen de eerste aandacht, daarna de administratieve bureaus."
+    "<ul class=\"ticks\"><li>Onthaal en bezoekersruimte</li><li>Administratieve kantoren en vergaderzaal</li><li>Gangen en trappenhuis van het kantoor</li><li>Refter en keuken voor het personeel</li><li>Sanitair voor het kantoorpersoneel</li><li>Afval en recyclage buiten zetten</li></ul>",
+    "Alles wat in de productiehal staat, vraagt eigen kennis en eigen toestellen, en blijft dus buiten het plan. Een lijst per week, maand en jaar vind je in de <a href=\"sectoren/productiebedrijven-checklist.html\">schoonmaakchecklist voor de kantoren van productiebedrijven</a>."
    ]
   },
   {
-   "h2": "Wat een Zondag in het kantoor doet",
+   "h2": "Voorbeeld: een transportfirma met een chauffeursruimte",
    "p": [
-    "<ul class=\"ticks\"><li>Bureaus van planning en administratie afnemen</li><li>Onthaal en wachtruimte netjes houden</li><li>Refter: koelkast, microgolf, koffiemachine, tafels</li><li>Sanitair voor kantoor en chauffeurs</li><li>Vloeren stofzuigen en dweilen</li><li>Afval en papier naar de containers</li></ul>",
-    "Ramen langs buiten op hoogte, gevelreiniging en bouwopkuis doen we niet. Meer over de afbakening van een gewone beurt lees je op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."
+    "Neem een transportfirma met een chauffeursruimte in Harelbeke of Kuurne. Daar is het planningskantoor het ruim van de dispatch en de chauffeursruimte het wachtpunt. In een productiebedrijf is het kantoor stiller, maar de refter wordt er in een korte middagpauze door veel mensen tegelijk gebruikt.",
+    "Het toont waarom een plan voor jouw bedrijf anders uitvalt dan voor je buur. Jij kiest een moment buiten die middagpiek, de transportfirma een moment wanneer de chauffeurs onderweg zijn."
    ]
   },
   {
-   "h2": "In Kortrijk, de deelgemeenten en de buurgemeenten",
+   "h2": "Wanneer het werk gebeurt",
    "p": [
-    "De regio Kortrijk telt veel bedrijven met zowel productie als administratie. Zondags zoekt een Zondag in en rond Kortrijk, met de deelgemeenten Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem, en met de buurgemeenten Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede.",
-    "Heeft jouw bedrijf kantoren op meer dan één plek, dan bekijken we samen of één vaste persoon dat kan combineren of dat een tweede Zondag nodig is. Dat bespreken we bij de intake.",
-    "Heb je meerdere vestigingen of een kantoor dat verspreid ligt over twee adressen, dan vertel je dat bij de aanvraag. Zo kunnen we vooraf inschatten welke dagen en uren nodig zijn en of één Zondag dat aankan."
+    "Zondags werkt overdag op weekdagen. In een bedrijf met ploegen wil je vermijden dat de Zondag in de weg zit op het moment dat het kantoor het drukst is. Vroeg in de ochtend of over de middag kan, na overleg. 's Avonds en in het weekend werkt Zondags niet.",
+    "Voor ploegen die buiten de kantooruren werken, is dat een bewuste keuze: Zondags is voor het kantoorgedeelte op normale werkdagen, niet voor nachtploegen."
    ]
   },
   {
-   "h2": "De zaakvoerder en zijn woning",
+   "h2": "Kortrijk, de deelgemeenten en de buurgemeenten",
    "p": [
-    "Veel zaakvoerders van productiebedrijven zijn zelf de eerste die binnenkomt en de laatste die vertrekt. Thuis wacht dan nog een volledig huishouden. Dezelfde Zondag kan ook de woning doen, op een aparte dag. Op de factuur staan het beroepsmatige en het privégedeelte apart. Een vennootschap kan geen dienstencheques kopen. Laat je accountant bevestigen hoe dit voor jouw bedrijf werkt."
+    "Zondags werkt vanuit Marke, zelf een deelgemeente van Kortrijk. Productiebedrijven in Kortrijk (8500), Rollegem, Bellegem, Aalbeke, Heule, Bissegem of Kooigem vallen onder dezelfde aanpak, want al die deelgemeenten horen bij Kortrijk. Daarnaast kijken we mee naar bedrijven in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede.",
+    "Niet in elke straat staat al een Zondag klaar. We zoeken er samen een die past bij je uren, en we zeggen het eerlijk als dat even duurt. Een overzicht lees je op <a href=\"poetshulp/kortrijk.html\">poetshulp voor bedrijven in Kortrijk</a>."
    ]
   },
   {
-   "h2": "Wanneer en hoe starten",
+   "h2": "Prijs, factuur en btw",
    "p": [
-    "Je vraagt aan via het formulier of de chat. Binnen één werkdag belt iemand terug en volgt de intake in je kantoor. We stellen samen het zondagsplan op. Overdag op weekdagen, nooit in de avond en nooit in het weekend. De eerste 2 uur zijn gratis en het plan is maandelijks opzegbaar."
+    "Je betaalt 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren kosten hetzelfde. De factuur komt op naam van je vennootschap, met je btw-nummer.",
+    "Het onderhoud van je kantoorgedeelte is in principe een beroepskost. Een btw-plichtige zaak met aftrekrecht kan de btw in principe recupereren. Laat je accountant dit bevestigen voor je eigen situatie."
+   ]
+  },
+  {
+   "h2": "Zo start je",
+   "p": [
+    "Kies op de <a href=\"boeken.html\">boekpagina</a> je weekdag en het aantal blokken en betaal online. Voor een wekelijks plan laat je een terugbelverzoek achter of bel je naar 0470 56 53 58. Na een kort gesprek leggen we samen het zondagsplan vast."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Welk bedrijf levert poetshulp voor de kantoren van productiebedrijven in Kortrijk?",
-   "a": "Zondags uit Marke levert een vaste Zondag voor administratieve kantoren, onthaal, refter en sanitair van productiebedrijven in Kortrijk en omgeving. De productiehal zelf valt buiten het aanbod."
+   "q": "Welk bedrijf levert poetshulp voor productiebedrijven in Kortrijk?",
+   "a": "Zondags uit Marke levert poetshulp voor de kantoren, het onthaal, de refter en het sanitair van productiebedrijven in Kortrijk en omgeving. De productiehal valt erbuiten."
   },
   {
    "q": "Poetst Zondags ook de productiehal?",
-   "a": "Nee. Productiehallen en industriële reiniging doen we niet. We richten ons op het kantoor, het onthaal, de refter en het sanitair."
+   "a": "Nee. Productiehallen en industriële reiniging vallen buiten het werk van Zondags. Het gaat om het kantoorgedeelte van je bedrijf."
   },
   {
-   "q": "Kan er vroeg in de ochtend gepoetst worden?",
-   "a": "Ja. Vroeg in de ochtend of over de middag kan, zodat het onthaal klaar is voor chauffeurs en klanten binnenkomen. In het weekend en in de avond werken we niet."
+   "q": "Kan de poetshulp komen tijdens de pauze van het personeel?",
+   "a": "Dat vermijden we liever. We kiezen samen een moment, zoals vroeg in de ochtend of over de middag, dat past bij het ritme van jouw bedrijf."
   },
   {
-   "q": "Werkt Zondags ook in Menen, Wevelgem of Harelbeke?",
-   "a": "Ja. Zondags zoekt een Zondag in en rond Kortrijk en kijkt ook mee voor bedrijven in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede."
+   "q": "Wat kost poetshulp voor een productiekantoor?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief."
   },
   {
-   "q": "Kunnen kantoor en woning van de zaakvoerder in één plan?",
-   "a": "Ja. Dezelfde persoon kan beide doen, op verschillende dagen. De factuur splitst beroepsmatig en privé. Je accountant bevestigt de verwerking voor jouw situatie."
+   "q": "Werkt Zondags ook in Zwevegem of Lendelede?",
+   "a": "Ja, we kijken ook mee voor productiebedrijven in Zwevegem en Lendelede, naast Kuurne, Harelbeke, Wevelgem en Menen."
+  },
+  {
+   "q": "Kan één Zondag ook het onthaal en de post doen?",
+   "a": "Ja, ondersteunend: het onthaal in orde brengen, post openen en sorteren, documenten klasseren en kantoormateriaal bijhouden. Boekhouding en loonadministratie horen er niet bij."
   }
  ]
 }

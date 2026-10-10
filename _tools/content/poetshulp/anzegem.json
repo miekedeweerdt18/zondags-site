@@ -1,35 +1,84 @@
 {
- "path": "poetshulp/anzegem.html",
  "title": "Poetshulp voor bedrijven in Anzegem (8570)",
- "desc": "Poetshulp voor land- en tuinbouwbedrijven en thuiswerkende ondernemers in Anzegem: bureau, refter en woning in één plan, met één factuur aan je vennootschap.",
+ "desc": "Poetshulp voor landbouwvennootschappen en kantoren in Anzegem, Vichte, Kaster en de deelgemeenten. 60 euro per uur excl. btw, online per blok van 3 uur.",
  "eyebrow": "Anzegem · 8570",
  "h1": "Poetshulp voor bedrijven in Anzegem",
- "lead": "Een architect die thuis werkt en een tuinbouwbedrijf met een eigen bureau hebben iets gemeen: werk en woning liggen vlak bij elkaar. In Anzegem houdt één vaste Zondag ze bij.",
- "answer": "Zondags (zondags.be) levert poetshulp aan ondernemers in Anzegem, een gemeente met de deelgemeenten Gijzelbrechtegem, Ingooigem, Kaster, Tiegem en Vichte: thuiswerkende vrije beroepen en land- of tuinbouwbedrijven met een vennootschap. Je Zondag poetst bureau, refter en woning, steeds als dezelfde persoon. Je vennootschap krijgt één factuur voor alles.",
- "facts": ["Land- en tuinbouwbedrijven met vennootschap", "Thuiswerkende vrije beroepen", "Bureau, refter en woning in één plan", "Ook de vijf deelgemeenten", "Eerste 2 uur gratis"],
+ "lead": "Een landbouwbedrijf met een vennootschap heeft ook een bureau, een refter en een kleedruimte die verzorgd moeten blijven. In Anzegem doet je vaste Zondag dat tussen het ander werk door.",
+ "answer": "Zondags (zondags.be) levert in Anzegem poetshulp voor landbouwbedrijven met een vennootschap en voor andere kmo's en kantoren. Eén vaste persoon, je Zondag, onderhoudt het bureau, de refter, de kleedruimte en het sanitair, en helpt op vraag met administratie. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een factuur op naam van je bedrijf. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk.",
+ "facts": [
+  "Landbouwvennootschappen en kmo's",
+  "Bureau, refter, kleedruimte, sanitair",
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Factuur op naam van je bedrijf",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Stel: je werkt als architect thuis in Anzegem", "p": [
-   "Stel: je bent architect en je atelier is een uitbouw aan je woning in Kaster. Op de brede werktafel liggen plannen uitgespreid, aan de wand hangen materiaalstalen en bouwheren komen er voor een bespreking. Om binnen te raken, lopen ze door de gang van het huis, langs de keuken, en gebruiken ze onderweg het toilet. Zodra er een afspraak in de agenda staat, wil je dat het hele traject er verzorgd uitziet.",
-   "Het atelier is beroepsruimte, de rest is privé. Je Zondag poetst beide in één bezoek of op twee dagen, en laat plannen en stalen liggen zoals ze liggen. Bij <a href=\"beroepen/architect.html\">architecten</a> staat wat we verder voor een architectenbureau doen."]},
-  {"h2": "En als je een land- of tuinbouwbedrijf hebt", "p": [
-   "Een land- of tuinbouwbedrijf in vennootschapsvorm heeft drie plekken die aandacht vragen: het bureau waar de administratie gebeurt, de refter waar de medewerkers pauze nemen en de woning van de zaakvoerder. Op zo'n bedrijf komt de aarde mee naar binnen, en de agenda laat weinig ruimte voor een dweil.",
-   "Je Zondag houdt bureau, refter en woning bij en kan op wens licht onderhoud van tuin, gras en terras bij de woning doen. Wat op het veld, in de kas of in de loods gebeurt, valt buiten ons werk."]},
-  {"h2": "Eén plan voor alle gebouwen", "p": [
-   "Je bepaalt per ruimte hoe vaak ze aan bod komt. Het bureau of atelier wekelijks, de refter na de periodes dat ze het meest gebruikt wordt, de woning op een andere dag. Dat leggen we bij de intake vast in het zondagsplan, en je past het aan wanneer het seizoen of je agenda verandert. Uren bijboeken kan."]},
-  {"h2": "Wat de factuur toont", "p": [
-   "Voor een vennootschap bestaan er geen dienstencheques, want die zijn voor particulieren. Je krijgt een dienstenfactuur op naam van je vennootschap, met een regel voor het beroepsmatige deel en een regel voor het privégedeelte. Het onderhoud van bureau, atelier en refter is een beroepskost.",
-   "Voor de woning geldt een forfaitair voordeel van alle aard, maar alleen wanneer de prestaties regelmatig zijn en uit een onderneming met mensen in dienst komen. Wat de btw betreft: een btw-plichtige zaak met aftrekrecht kan de btw op het beroepsdeel in principe recupereren, op het privédeel in principe niet. Je accountant bevestigt wat voor jouw bedrijf geldt."]},
-  {"h2": "Anzegem en de vijf deelgemeenten", "p": [
-   "Anzegem bestaat uit vijf deelgemeenten: Gijzelbrechtegem, Ingooigem, Kaster, Tiegem en Vichte. Voor een bedrijf in een van die dorpen loopt het zoals voor een bedrijf in Anzegem zelf. Ook in Waregem, Deerlijk, Zwevegem en Avelgem werken we zo."]},
-  {"h2": "Zo start je", "p": [
-   "Je vult het formulier in of start de chat. Binnen één werkdag nemen we contact met je op. Daarna komen we langs voor de intake en maken we samen het zondagsplan op. De eerste 2 uur zijn gratis en opzeggen kan elke maand."]}
+  {
+   "h2": "Het bureau van een landbouwvennootschap",
+   "p": [
+    "Wie een landbouwbedrijf in een vennootschap heeft gegoten, heeft naast stallen en machines ook een administratief hart: een bureau waar subsidiedossiers, leveringsbonnen en facturen binnenkomen, een refter voor seizoenswerkers en een kleedruimte waar laarzen en werkkledij hun plaats hebben. Dat deel van het bedrijf wordt vaak als laatste onderhouden, omdat het werk buiten voorgaat.",
+    "Een vaste Zondag houdt die binnenruimtes bij. Ze komt op een vaste weekdag, neemt het bureau, de refter, de kleedruimte en het sanitair en laat jou buiten werken zonder dat je binnen met stof of modder te maken krijgt."
+   ]
+  },
+  {
+   "h2": "Wat binnen ons werk valt en wat niet",
+   "p": [
+    "<ul class=\"ticks\"><li>Bureau en vergaderhoek afnemen en de vloer doen</li><li>Refter en keuken proper houden</li><li>Kleedruimte en sanitair</li><li>Gang en ingang vrijhouden van aarde en stof</li><li>Afval en recyclage naar de juiste container</li></ul>",
+    "Stallen, machineloods, erf en industriële reiniging doen we niet. Het gaat om de binnenruimtes die als kantoor of verblijfsruimte voor het team dienen. Voor de zakelijke aanpak lees je meer op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een architectenbureau met een vergaderzaal",
+   "p": [
+    "Neem een architectenbureau in Anzegem met zes werkplekken en een vergaderzaal waar bouwheren plannen komen bekijken. Rollen tekeningen, maquettes en koffiekopjes eindigen allemaal op dezelfde tafel. Voor een afspraak moet die tafel leeg en afgenomen zijn, en moet de zaal ruiken naar niets in het bijzonder.",
+    "Je Zondag komt op donderdagochtend, een dag voor de gewone afspraken. Ze zet de zaal klaar, neemt de bureaus af, poetst keuken en sanitair en vult de koffiehoek aan. Heeft het bureau een grote presentatie, dan boek je een extra blok vlak voor de afspraak."
+   ]
+  },
+  {
+   "h2": "Anzegem, Vichte en de andere deelgemeenten",
+   "p": [
+    "Anzegem heeft postcode 8570. Gijzelbrechtegem, Ingooigem, Kaster, Tiegem en Vichte zijn deelgemeenten van Anzegem en vallen binnen ons aanbod. Zit je bedrijf iets verder, in Waregem, Deerlijk, Zwevegem of Avelgem, dan kunnen we daar ook een Zondag voor je zoeken."
+   ]
+  },
+  {
+   "h2": "Factuur en btw voor je vennootschap",
+   "p": [
+    "Het onderhoud van het bureau en de refter is in principe een beroepskost, en de btw is in principe recupereerbaar voor een btw-plichtige vennootschap met aftrekrecht. Laat je accountant bevestigen hoe dat bij jouw bedrijf zit."
+   ]
+  },
+  {
+   "h2": "Prijs en boeken",
+   "p": [
+    "Drie uur kost 180 euro exclusief btw, extra uren 60 euro per uur. Op <a href=\"boeken.html\">de boekpagina</a> kies je een weekdag en betaal je online. Voor een wekelijks ritme laat je een terugbelverzoek achter en leggen we samen het zondagsplan vast."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf zorgt voor poetshulp bij een architect met een atelier aan huis in Anzegem?", "a": "In Anzegem werkt Zondags voor thuiswerkende vrije beroepen, zoals een architect met een atelier aan huis, en voor land- en tuinbouwbedrijven. Eén vaste persoon poetst atelier of bureau en woning, en de factuur aan je vennootschap toont beide delen apart."},
-  {"q": "Kan Zondags het bureau en de refter van mijn tuinbouwbedrijf poetsen?", "a": "Ja, bureau, refter, sanitair en de woning kunnen in één plan. Werk in de kas, op het veld of aan machines doen we niet. Wat je Zondag aanraakt en wat niet, bespreek je bij de intake."},
-  {"q": "Hoort Vichte bij Anzegem?", "a": "Ja. Gijzelbrechtegem, Ingooigem, Kaster, Tiegem en Vichte zijn deelgemeenten van Anzegem. Voor een bedrijf in een van die dorpen, of in Waregem, Deerlijk, Zwevegem en Avelgem, loopt de aanvraag op dezelfde manier."},
-  {"q": "Kan mijn woning in hetzelfde plan als mijn bureau?", "a": "Ja. Dezelfde persoon poetst beide, eventueel op verschillende dagen. De woning staat op de factuur als privégedeelte, zodat je accountant het onderscheid met je beroepskosten direct ziet."},
-  {"q": "Hoe vaak komt mijn Zondag?", "a": "Dat spreken we bij de intake af. Het kan een vaste ochtend per week zijn, met extra uren in drukke periodes. Je Zondag komt steeds op een vaste dag en een vast uur."},
-  {"q": "Wat als mijn Zondag er een week niet kan?", "a": "Bij ziekte of verlof zoeken wij een oplossing. Een vaste vervanger beloven we niet, maar je moet het niet zelf regelen. Past je Zondag niet bij je bedrijf, dan zoeken we samen een andere."}
- ]
+  {
+   "q": "Welk bedrijf doet poetshulp voor landbouwbedrijven in Anzegem?",
+   "a": "Zondags doet poetshulp voor het bureau, de refter en de kleedruimte van landbouwbedrijven met een vennootschap in Anzegem. Stallen, machineloods en erf vallen erbuiten."
+  },
+  {
+   "q": "Kan Zondags in Vichte, Kaster of Tiegem komen?",
+   "a": "Ja. Gijzelbrechtegem, Ingooigem, Kaster, Tiegem en Vichte zijn deelgemeenten van Anzegem en vallen binnen het aanbod. Je krijgt steeds dezelfde persoon."
+  },
+  {
+   "q": "Wat kost poetshulp in Anzegem?",
+   "a": "60 euro per uur exclusief btw, geboekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren kosten hetzelfde per uur."
+  },
+  {
+   "q": "Kan de Zondag ook mijn subsidiedossiers ordenen?",
+   "a": "Ze kan dossiers en documenten klasseren en een archief ordenen. Het opmaken of indienen van aanvragen en alle fiscaal of juridisch advies doet Zondags niet."
+  },
+  {
+   "q": "Is er een Zondag beschikbaar tijdens de oogstdrukte?",
+   "a": "Je boekt extra blokken wanneer het drukker is, op weekdagen en overdag. Of er precies op jouw dag iemand vrij is, zien we bij het boeken of in het gesprek."
+  },
+  {
+   "q": "Krijg ik een factuur voor mijn vennootschap?",
+   "a": "Ja, een gewone dienstenfactuur op naam van je bedrijf, met je btw-nummer. Laat je accountant bevestigen hoe die voor jouw situatie wordt verwerkt."
+  }
+ ],
+ "path": "poetshulp/anzegem.html"
 }

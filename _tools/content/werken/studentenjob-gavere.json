@@ -1,79 +1,89 @@
 {
- "title": "Studentenjob in Gavere binnen de schooluren",
- "desc": "Studeer je en wil je werken terwijl de kinderen op school zijn? Studentenjob overdag in Gavere bij vaste klanten. Solliciteer bij Zondags.",
- "eyebrow": "Studentenjob · Gavere",
+ "path": "werken/studentenjob-gavere.html",
+ "title": "Studentenjob met flexibele uren in Gavere (9890)",
+ "desc": "Overdag werken tussen vaste uren in Gavere of de deelgemeenten, bij vaste bedrijfsklanten. Studentencontract voor studenten, ander statuut bekijken we samen.",
+ "eyebrow": "Studentenjob · Gavere · 9890",
  "h1": "Studentenjob met flexibele uren in Gavere",
- "lead": "Studeren, een gezin en toch iets bijverdienen: in Gavere kan je als student werken binnen de schooluren, bij vaste klanten en zonder weekends.",
- "answer": "Zondags (zondags.be) zoekt studenten vanaf 18 jaar in en rond Gavere voor een studentenjob overdag op weekdagen. Ook als je studeert met kinderen op school kan je binnen de schooluren werken. Dagen en uren kiezen we samen rond je lessen, je krijgt een studentencontract en verloning boven het barema, en je verplaatsingen worden vergoed.",
+ "lead": "Stel: je wil overdag werken, maar je dag heeft vaste grenzen en je avonden en weekends zijn voor jezelf. Dat past bij een vaste afspraak als Zondag in Gavere.",
+ "answer": "Zondags (zondags.be) zoekt in Gavere, de deelgemeenten Asper, Baaigem, Dikkelvenne, Semmerzake en Vurste en de Vlaamse Ardennen Zondags voor werk overdag op weekdagen bij bedrijven. Je kiest je uren binnen een venster dat bij jou past, bijvoorbeeld van negen tot twaalf. Het studentencontract is voor studenten; voor anderen bekijken we in het eerste gesprek welk statuut past.",
  "facts": [
-  "Binnen de schooluren kan",
-  "Vanaf 18 jaar",
-  "Vaste klanten, vaste dagen",
-  "Nooit 's avonds of in het weekend",
-  "Verplaatsingen vergoed"
+  "Uren binnen een vast venster",
+  "Werk overdag op weekdagen",
+  "Studentencontract enkel voor studenten",
+  "Ander statuut bekijken we samen",
+  "Geen avonden en geen weekends",
+  "Enkel bedrijven als klant"
  ],
  "sections": [
   {
-   "h2": "Stel: je studeert als mama of papa",
+   "h2": "Werken binnen jouw grenzen",
    "p": [
-    "Stel dat je als volwassene nog een opleiding volgt, met de kinderen in de lagere school. Je lessen en hun schooluren vallen deels samen, en daartussen blijft een stuk dag over. Dat stuk kan je invullen met werk dat geen avonden of weekends vraagt.",
-    "Voor een gezinsleven is dat meestal het verschil tussen een job die lukt en een job die alles overhoop gooit. Je weet vooraf wanneer je thuis bent, en je kan ook vooraf regelen wie de kinderen ophaalt als jij in de les zit."
+    "Sommige mensen hebben een dag die op twee kanten vastzit: ze moeten op een bepaald uur ergens zijn en weer weg zijn. Alles daartussen is vrij, maar erbuiten kan niets. Bij Zondags is dat geen probleem. We vragen je gewoon in welk tijdvenster je beschikbaar bent en zoeken een klant waarvoor dat past.",
+    "Een voormiddag van negen tot twaalf, een korte middagshift: het hoeft niet meer te zijn. Een blok van drie uur is voor onze klanten een mooie, afgeronde taak."
    ]
   },
   {
-   "h2": "Wat een dag binnen de schooluren kan zijn",
+   "h2": "Een kanttekening over het contract",
    "p": [
-    "Neem een dag waarop de bel van de school nog niet geluid heeft en de eerste les pas later begint. Je bent om negen uur bij een klant, zet een wasmachine aan en strijkt tot de middag. Daarna rijd je naar je les of ga je naar huis om je opdracht af te maken.",
-    "Een andere dag onderhoud je het kantoor en de woning van een zaakvoerder, in een tijdslot dat vroeger dan je lessen valt. Zo ligt alles netjes naast elkaar."
+    "Een studentencontract is bedoeld voor studenten vanaf 18 jaar. Als student volg je zelf je urensaldo op via Student@work. Ben je geen student, dan geldt dat contract niet voor jou. Wat wel kan, hangt af van je persoonlijke situatie en bekijken we in het eerste gesprek.",
+    "We beloven dus niets vooraf. Past het ene statuut niet, dan zoeken we een ander dat wel past. Lees voor meer uitleg <a href=\"jobs/deeltijds-werk-overdag.html\">deeltijds werk overdag</a>."
    ]
   },
   {
-   "h2": "Taken die je kan opnemen",
+   "h2": "Een typische dag bij een vaste klant",
    "p": [
-    "<ul class=\"ticks\"><li>Poetsen van woning, kantoor of praktijk</li><li>Was en strijk</li><li>Koken en schotels voor de week</li><li>Boodschappen en regelwerk</li><li>Kinderen ophalen en opvangen na school</li><li>Licht werk in tuin en op het terras</li></ul>",
-    "Je kiest mee wat je liever doet. Technische klussen en werk op hoogte doen we niet."
+    "Neem een klein verzekeringskantoor in de buurt van Gavere met twee bureaus en een wachtruimte. Om negen uur kom je binnen, je zet de lichten aan, ruimt de wachtruimte op en poetst het sanitair. Daarna ga je aan de slag met de post, klasseer je de facturen en bestel je kantoormateriaal bij.",
+    "Om half twaalf rond je af met de keuken en de vuilnis. Je klant komt binnen in een zaak die ademt."
    ]
   },
   {
-   "h2": "Contract en uren",
+   "h2": "Het werk in een overzicht",
    "p": [
-    "Je werkt met een studentencontract, in dienst van Zondags. Je volgt je urensaldo zelf via Student@work. Je verloning ligt boven het barema en je verplaatsingen worden vergoed. Is een rooster afgesproken, dan blijft het vast, zodat je er ook thuis rekening mee kan houden."
+    "<ul class=\"ticks\"><li>Kantoor, praktijk of winkel poetsen</li><li>Wachtzaal en onthaal in orde brengen</li><li>Post sorteren en documenten klasseren</li><li>Afspraken helpen inplannen</li><li>Koffiehoek en keuken bevoorraden</li></ul>",
+    "Boekhouding, technische klussen en werken op hoogte horen er niet bij. Je werkt enkel bij bedrijven, nooit op een woonadres."
    ]
   },
   {
-   "h2": "Gavere, de deelgemeenten en de buren",
+   "h2": "Wat je klant van je verwacht",
    "p": [
-    "Gavere heeft postcode 9890. Asper, Baaigem, Dikkelvenne, Semmerzake en Vurste horen bij Gavere. We zoeken Zondags in en rond Gavere, ook richting Nazareth, Kruisem, Zwalm en Merelbeke. Wie in de buurt van Kruisem woont, kan ook eens kijken naar <a href=\"jobs/huishoudhulp-kruisem.html\">huishoudhulp in Kruisem</a>."
+    "Je klant rekent op vaste uren. Kom je om negen uur, dan is de zaak om twaalf uur klaar. Daarom vragen we dat je stipt bent en je grenzen vooraf duidelijk maakt.",
+    "Wat jij belooft, leggen we samen met jou vast in het zondagsplan. Zo weet iedereen waar hij aan toe is."
+   ]
+  },
+  {
+   "h2": "Gavere en zijn deelgemeenten",
+   "p": [
+    "Gavere ligt in de Vlaamse Ardennen en bestaat uit de deelgemeenten Asper, Baaigem, Dikkelvenne, Semmerzake en Vurste. We zoeken Zondags in al deze dorpen en ook in Nazareth, Kruisem, Zwalm en Merelbeke. Zo vind je een klant waarbij de reisafstand klopt met je beperkte tijdvenster."
    ]
   },
   {
    "h2": "Hoe je solliciteert",
    "p": [
-    "Gebruik het formulier, de chat of WhatsApp op 0470 56 53 58. Binnen twee werkdagen bellen we je voor een kort gesprek. Klikt het, dan zoeken we klanten die passen bij je schooluren en lessen. Meer over de job lees je op <a href=\"jobs/studentenjob-flexibele-uren.html\">de studentenjobpagina</a>."
+    "Vul het formulier in, open de chat of stuur een WhatsApp naar 0470 56 53 58. Binnen twee werkdagen bellen we je terug. Je vertelt tussen welke uren je kan, wij zoeken daar een klant bij. Meer informatie over de rol vind je op <a href=\"zondag-worden.html\">zondag worden</a>.",
+    "Je hebt geen diploma of ervaring nodig. Betrouwbaarheid, discretie en zin in orde en structuur zijn belangrijker, samen met voldoende Nederlands om afspraken te maken."
    ]
   }
  ],
  "faq": [
   {
    "q": "Waar vind ik een studentenjob met flexibele uren in Gavere?",
-   "a": "Bij Zondags. We zoeken studenten vanaf 18 jaar in en rond Gavere die overdag bij vaste klanten willen werken. De uren kiezen we samen rond je lessen en, als je kinderen hebt, rond de schooluren."
+   "a": "Bij Zondags. We zoeken in Gavere, de deelgemeenten en de Vlaamse Ardennen mensen voor werk overdag op weekdagen bij vaste bedrijfsklanten. Aanmelden kan via formulier, chat of WhatsApp."
   },
   {
-   "q": "Kan ik enkel werken terwijl de kinderen op school zijn?",
-   "a": "Ja, dat kan. Geef je beschikbare uren door in het eerste gesprek. Dan zoeken we klanten die op die momenten hulp zoeken."
+   "q": "Kan ik kiezen tussen welke uren ik werk?",
+   "a": "Ja. Je geeft het venster aan waarin je beschikbaar bent, en we zoeken een klant die daarbij past. Eens afgesproken ligt het rooster vast."
   },
   {
-   "q": "Moet ik soms 's avonds of in het weekend bijspringen?",
-   "a": "Nee. We werken overdag op weekdagen, vroeg in de ochtend of over de middag. Avonden en weekends plannen we nooit, ook niet als noodoplossing."
+   "q": "Kan ik zonder student te zijn een studentencontract krijgen?",
+   "a": "Nee, dat contract is voor studenten. Voor anderen bekijken we in het eerste gesprek welk statuut past, en zeggen we eerlijk als niets past."
   },
   {
-   "q": "Is er opvang nodig als ik werk?",
-   "a": "Dat hangt af van je uren. Omdat je rooster vooraf vastligt, kan je je dag thuis ook goed plannen. Een gewone werkdag valt meestal binnen de schooluren."
+   "q": "Werk ik in het weekend of 's avonds?",
+   "a": "Nee. Je werkt overdag op weekdagen. Vroeg in de ochtend of over de middag kan ook."
   },
   {
-   "q": "Heb ik ervaring nodig?",
-   "a": "Nee. Betrouwbaarheid en zorg voor andermans huis tellen. We gaan bij de start samen langs bij je klanten."
+   "q": "Bij wie werk ik?",
+   "a": "Bij bedrijven: kantoren, praktijken, winkels en bedrijfsleiders in de buurt. Je bent hun vaste Zondag."
   }
- ],
- "path": "werken/studentenjob-gavere.html"
+ ]
 }

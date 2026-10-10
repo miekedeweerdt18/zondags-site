@@ -1,82 +1,37 @@
 {
  "path": "regio/schoonmaak-praktijk-izegem.html",
- "title": "Schoonmaakhulp voor praktijken in Izegem",
- "desc": "Wachtzaal, onthaal en consultatieruimtes van je praktijk in Izegem onderhouden door één vaste persoon. Geen medisch materiaal. Factuur op de vennootschap.",
+ "title": "Schoonmaakhulp voor praktijken in Izegem (8870)",
+ "desc": "Bureau, refter en kleedruimte van je bedrijf in Izegem onderhouden door één vaste Zondag, ook voor praktijken en landbouwbedrijven met een vennootschap.",
  "eyebrow": "Izegem · 8870",
  "h1": "Schoonmaakhulp voor praktijken in Izegem",
- "lead": "Een praktijk in Izegem heeft een wachtzaal die elke dag opnieuw gebruikt wordt. Een vaste Zondag zorgt dat ze er elke week verzorgd bijligt.",
- "answer": "Zondags (zondags.be) levert in Izegem en omgeving schoonmaakhulp voor praktijken van vrije beroepen en zorgverleners: wachtzaal, onthaal, consultatie- en behandelruimtes en sanitair. Het is steeds dezelfde vaste persoon, overdag op weekdagen. Sterilisatie en medisch materiaal blijven bij de praktijk. Je krijgt een gewone dienstenfactuur op naam van je vennootschap en de eerste 2 uur zijn gratis.",
- "facts": [
-  "Wachtzaal, onthaal, consultatieruimtes",
-  "Sanitair en vloeren",
-  "Geen sterilisatie of medisch materiaal",
-  "Dezelfde vaste persoon",
-  "Factuur aan je vennootschap",
-  "Eerste 2 uur gratis"
- ],
+ "lead": "Een bedrijf in Izegem met een bureau, een refter en een kleedruimte heeft een vaste hand nodig die weet waar alles hoort. Een Zondag werkt zo.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken, kantoren en landbouwbedrijven met een vennootschap in Izegem en de deelgemeenten Emelgem en Kachtem. Eén vaste persoon, je Zondag, onderhoudt bureau, refter, kleedruimte en sanitair. Je boekt online aan 60 euro per uur exclusief btw, per blok van 3 uur, en krijgt een factuur op naam van je bedrijf.",
+ "facts": ["Bureau, refter en kleedruimte", "Praktijken en landbouwbedrijven met vennootschap", "Emelgem en Kachtem", "Steeds dezelfde Zondag", "60 euro per uur, per blok van 3 uur", "Online boeken en betalen"],
  "sections": [
-  {
-   "h2": "Wat in een praktijk gepoetst wordt",
-   "p": [
-    "<ul class=\"ticks\"><li>Wachtzaal: stoelen, tafeltjes, vloer en leesstof netjes terugleggen</li><li>Onthaal en balie</li><li>Consultatie- en behandelruimtes: oppervlakken en vloeren</li><li>Sanitair voor patiënten en team</li><li>Keuken of koffiehoek voor het team</li><li>Glazen deuren en ramen langs binnen</li></ul>",
-    "Wat niet bij je Zondag hoort: sterilisatie, medisch materiaal en alles wat met de behandeling zelf te maken heeft. Hygiëne en ontsmetting van vakgereedschap blijven bij de praktijk."
-   ]
-  },
-  {
-   "h2": "Stel: een transportfirma met een chauffeursruimte, naast een praktijk",
-   "p": [
-    "Neem een gebouw in Izegem waarin een transportfirma een chauffeursruimte heeft en waar een kinesitherapeut zijn praktijk aan de voorzijde heeft ingericht. Beiden delen het sanitair en de gang. Wie poetst wat, en wanneer?",
-    "Een vaste Zondag die dat gebouw kent, kan op een afgesproken dag de praktijk onderhouden en, wanneer dat in het plan staat, ook de gedeelde delen. Eén persoon, één afspraak, één factuur per bedrijf."
-   ]
-  },
-  {
-   "h2": "Moment van de dag en wat de patiënt merkt",
-   "p": [
-    "Een praktijk draait op afspraken. Vroeg in de ochtend of over de middag, wanneer er weinig patiënten zijn, kan je Zondag poetsen zonder dat het ritme verstoord wordt. Zo ligt alles klaar voor de eerste consultatie en weet het team dat de wachtzaal er die dag goed bijligt.",
-    "Een kleine gewoonte voor tussendoor: laat je team de oppervlakken die elke consultatie raken zelf even afnemen. Je Zondag zorgt dan voor de grote beurt.",
-    "Heb je meerdere behandelaars die elk een eigen kamer gebruiken, dan spreken jullie in de intake af hoe je Zondag de kamers aantreft: opgeruimd of juist zoals jullie ze achterlaten. Zo weet iedereen waar de grens ligt en loopt de beurt zonder gedoe."
-   ]
-  },
-  {
-   "h2": "Praktijk én woning in één plan",
-   "p": [
-    "Veel vrije beroepen werken dicht bij huis. Daarom kan je Zondag ook de woning van de praktijkhouder poetsen, in hetzelfde zondagsplan. De factuur splitst beroepsmatig en privé. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren; of dat bij jou speelt, bevestigt je accountant. Meer uitleg vind je bij <a href=\"vragen/btw-vrijgestelde-praktijk-poetshulp.html\">poetshulp voor een btw-vrijgestelde praktijk</a>."
-   ]
-  },
-  {
-   "h2": "Izegem, Emelgem en Kachtem",
-   "p": [
-    "We zoeken een Zondag voor je in en rond Izegem. Emelgem en Kachtem horen bij Izegem. Zit je praktijk in Roeselare, Ingelmunster, Lendelede, Ledegem of Ardooie, dan helpen we je evengoed. We beloven niet dat er al iemand klaarstaat; dat zoeken we na je aanvraag."
-   ]
-  },
-  {
-   "h2": "Zo start je",
-   "p": [
-    "Je doet een aanvraag via het formulier of de chat. Binnen één werkdag belt iemand je terug. In de intake bekijken we je praktijk en bespreken we wat bij jou hoort en wat niet. De eerste 2 uur zijn gratis. Het plan is maandelijks opzegbaar.",
-    "Je kan het plan later laten aangroeien, bijvoorbeeld met een extra beurt in drukke weken. Wat jullie afspreken, staat in het zondagsplan, zodat ook je team weet wat er verwacht mag worden."
-   ]
-  }
+  {"h2": "Een transportfirma met een chauffeursruimte", "p": [
+   "Stel: je leidt een transportfirma in Izegem. Chauffeurs komen en gaan op uiteenlopende uren, laten bekers staan in de chauffeursruimte en gebruiken het sanitair intensief. Het kantoor van de planner ernaast moet er daarentegen netjes bij liggen, want daar komen klanten en leveranciers.",
+   "Een Zondag deelt de dag in. Eerst het kantoor en de onthaalruimte, daarna chauffeursruimte, keuken en sanitair. Dat gebeurt op een tijdstip waarop het rustig is, bijvoorbeeld over de middag.",
+   "Een planner die zijn eigen bureau niet meer hoeft te poetsen, houdt meer tijd over voor ritten en klanten. Dat verschil zie je na enkele weken terug in de rust op het kantoor."]},
+  {"h2": "Landbouwbedrijven met een vennootschap", "p": [
+   "Veel landbouwbedrijven werken vandaag als vennootschap, met een bureau waar de administratie gebeurt, een refter voor het team en een kleedruimte of sanitair bij het werk. Dat zijn gewone werkruimtes, en daar kan een Zondag bij helpen.",
+   "De stal, het veld en alles wat bij de productie hoort, valt buiten het werk van Zondags. Het bureau, de refter, de kleedruimte en het sanitair vallen er wel onder."]},
+  {"h2": "Wat een beurt omvat", "p": [
+   "<ul class=\"ticks\"><li>Bureau en onthaal afnemen</li><li>Refter en keuken</li><li>Kleedruimte en lockers aan de buitenkant</li><li>Sanitair</li><li>Vloeren van alle werkruimtes</li><li>Afval en recyclage buiten zetten</li></ul>",
+   "Wagens, voertuigen en machines reinigen doet Zondags niet. Ook technische klussen en werken op hoogte blijven buiten het plan."]},
+  {"h2": "Een praktijk in Izegem", "p": [
+   "Heb je in Izegem een praktijk van een vrij beroep, dan gelden dezelfde afspraken: wachtzaal, onthaal, consultatieruimte en sanitair krijgen elke keer dezelfde aandacht. Sterilisatie en medisch materiaal blijven bij de praktijk. Zie ook <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a> voor het brede aanbod."]},
+  {"h2": "Prijs en btw voor een vennootschap", "p": [
+   "Eén uur kost 60 euro exclusief btw en een blok bestaat uit drie uur, samen 180 euro exclusief btw. Extra uren tellen aan hetzelfde tarief mee. Je factuur gaat naar je vennootschap, met btw-nummer.",
+   "Onderhoud van bedrijfsruimtes is in principe een beroepskost. Een btw-plichtige zaak met aftrekrecht kan de btw in principe recupereren. Wie btw-vrijgesteld is, kan dat doorgaans niet. Je accountant bevestigt de details."]},
+  {"h2": "Boeken in Izegem en de buurgemeenten", "p": [
+   "Zondags werkt vanuit Marke en zoekt Zondags in Izegem, Emelgem, Kachtem en in Roeselare, Ingelmunster, Lendelede, Ledegem en Ardooie. Je kiest datum en taken op de <a href=\"boeken.html\">boekpagina</a>, minstens twee werkdagen vooraf, of je vraagt een terugbelverzoek voor een vast plan."]}
  ],
  "faq": [
-  {
-   "q": "Welk bedrijf biedt schoonmaakhulp voor praktijken in Izegem?",
-   "a": "Zondags levert schoonmaakhulp voor praktijken in Izegem en omgeving: wachtzaal, onthaal, consultatieruimtes en sanitair. De factuur gaat op naam van je vennootschap."
-  },
-  {
-   "q": "Doet mijn Zondag ook sterilisatie of medisch materiaal?",
-   "a": "Nee. Sterilisatie, medisch materiaal en de hygiëne van het vakgereedschap blijven bij de praktijk zelf. Je Zondag onderhoudt de ruimtes."
-  },
-  {
-   "q": "Kan er gepoetst worden terwijl er patiënten zijn?",
-   "a": "Dat stemmen we af op je agenda. Vroeg in de ochtend of over de middag, wanneer het rustiger is, werkt meestal het best. 's Avonds en in het weekend werken we niet."
-  },
-  {
-   "q": "Wordt ook de woning van de praktijkhouder gepoetst?",
-   "a": "Op vraag wel. Praktijk en woning kunnen in één plan met dezelfde persoon. De factuur splitst het beroepsmatige en het privégedeelte."
-  },
-  {
-   "q": "Kan ik als btw-vrijgestelde praktijk dit gebruiken?",
-   "a": "Ja, de dienst staat open voor elke praktijk. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Laat je accountant bevestigen hoe dat voor jouw situatie werkt."
-  }
+  {"q": "Welk bedrijf doet schoonmaak voor kantoren en praktijken in Izegem?", "a": "Zondags uit Marke, een deelgemeente van Kortrijk. Je krijgt één vaste persoon voor bureau, refter en sanitair, met een factuur op naam van je bedrijf."},
+  {"q": "Kan een Zondag ook de kleedruimte en de refter onderhouden?", "a": "Ja, refter, kleedruimte en sanitair zijn gewone werkruimtes die bij het onderhoud horen. Industriële reiniging en productiehallen vallen erbuiten."},
+  {"q": "Worden ook voertuigen gereinigd?", "a": "Nee. Zondags reinigt geen voertuigen of machines. Het werk beperkt zich tot kantoor, praktijk, winkel, refter en vergelijkbare ruimtes."},
+  {"q": "Werkt Zondags ook in Emelgem en Kachtem?", "a": "Ja. Emelgem en Kachtem zijn deelgemeenten van Izegem en vallen onder het werkgebied van Zondags, met hetzelfde tarief en dezelfde manier van boeken."},
+  {"q": "Wat kost een Zondag voor een bedrijf in Izegem?", "a": "Het tarief is 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw per blok, en extra uren boek je aan hetzelfde uurtarief."},
+  {"q": "Kan ik op een vast moment in de week afspreken?", "a": "Ja. Voor een vast plan bespreken we in een kort gesprek de taken, de dagen en de uren, en komt dezelfde Zondag telkens op het afgesproken moment."}
  ]
 }

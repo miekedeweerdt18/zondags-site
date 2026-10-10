@@ -1,90 +1,38 @@
 {
  "path": "vragen/kantoor-poetsen-buiten-kantooruren.html",
  "title": "Kan je kantoor buiten de kantooruren gepoetst worden?",
- "desc": "Kan je kantoor buiten de kantooruren gepoetst worden? Bij Zondags kan dat vroeg in de ochtend of over de middag, op weekdagen, niet 's avonds of in het weekend.",
+ "desc": "Kan je kantoor gepoetst worden buiten de kantooruren? Bij Zondags kan dat vroeg in de ochtend of over de middag, niet 's avonds of in het weekend.",
  "eyebrow": "Vraag",
  "h1": "Kan je kantoor buiten de kantooruren gepoetst worden?",
- "lead": "Gedeeltelijk. Zondags poetst op weekdagen, vroeg in de ochtend of over de middag, zodat je team er weinig van merkt. 's Avonds en in het weekend werken we niet.",
- "answer": "Gedeeltelijk: Zondags (zondags.be) poetst je kantoor op weekdagen, overdag, vroeg in de ochtend voor je team binnenkomt of over de middag tijdens de pauze. 's Avonds en in het weekend werkt Zondags niet. Past een avond- of weekendbeurt bij je zaak, dan is een aanbieder met avondploegen een betere keuze.",
- "facts": [
-  "Vroeg in de ochtend kan",
-  "Over de middag kan",
-  "Nooit 's avonds",
-  "Nooit in het weekend",
-  "Sleutel en alarm vooraf afgesproken"
- ],
+ "lead": "Gedeeltelijk. Bij Zondags kan het vroeg in de ochtend of over de middag, op weekdagen. Avonden en weekends horen er niet bij.",
+ "answer": "Bij Zondags (zondags.be) kan je kantoor gepoetst worden vroeg in de ochtend, voor je team aankomt, of over de middag, wanneer het rustiger is. Dat gebeurt altijd overdag op weekdagen. 's Avonds en in het weekend werkt Zondags niet. Je boekt per blok van 3 uur aan 60 euro per uur exclusief btw, en je Zondag komt steeds op een vast uur.",
+ "facts": ["Vroeg in de ochtend of over de middag", "Nooit 's avonds, nooit in het weekend", "Vast uur met dezelfde Zondag", "60 euro per uur, per blok van 3 uur", "Afspraken over sleutel en toegang vooraf"],
  "sections": [
-  {
-   "h2": "Wat buiten de kantooruren kan betekenen",
-   "p": [
-    "Drie momenten komen vaak naar voren: vroeg in de ochtend, voor je team binnenkomt, over de middag, wanneer het kantoor half leeg is, en 's avonds of in het weekend. Zondags dekt de eerste twee. De derde niet: we werken overdag op weekdagen en nooit 's avonds of in het weekend."
-   ]
-  },
-  {
-   "h2": "Vroeg in de ochtend: wat het oplevert",
-   "p": [
-    "Een beurt voor het team er is, geeft rust. Er loopt niemand rond met een koffie, de vloeren zijn droog tegen de eerste meeting en de keuken is klaar. Daar staat iets tegenover: je moet sleutel en alarm vooraf afspreken, want er is nog niemand om de deur te openen. Zorg ook dat de laatste die 's avonds vertrekt de keuken aan kant zet en het afval klaarzet."
-   ]
-  },
-  {
-   "h2": "Over de middag: wanneer het past",
-   "p": [
-    "Een middagbeurt past bij een kantoor waar het team 's middags buiten eet, op verplaatsing is of op een andere verdieping zit. Eet iedereen aan de bureaus, dan werkt de vroege ochtend beter. In een praktijk met pauze tussen de consultaties kan het middaguur een goed moment zijn voor wachtzaal en sanitair."
-   ]
-  },
-  {
-   "h2": "Als je echt een avond- of weekendbeurt nodig hebt",
-   "p": [
-    "Dan past Zondags niet, en wij zeggen dat liever meteen. Zoek een aanbieder met avond- of weekendploegen. Heb je een praktijk met avondconsultaties, dan kan een vroege ochtendbeurt de volgende dag volstaan: de ruimtes zijn dan weer klaar voor de eerste afspraak."
-   ]
-  },
-  {
-   "h2": "Voorbeeld: een groepspraktijk met avondconsultaties",
-   "p": [
-    "Stel: je hebt een groepspraktijk waar de laatste patiënt rond de avond vertrekt. De volgende ochtend komt je Zondag vroeg, voor de eerste afspraak. Wachtzaal, behandelruimtes, sanitair en keuken worden gepoetst en het afval gaat buiten. Wanneer de eerste patiënt binnenstapt, is de praktijk klaar. Sterilisatie en medisch materiaal blijven bij je team."
-   ]
-  },
-  {
-   "h2": "Zo kies je tussen vroege ochtend en middag",
-   "p": [
-    "<ul class=\"ticks\"><li>Wie komt als eerste binnen en hoe vroeg?</li><li>Eet je team op kantoor, of buiten de deur?</li><li>Zijn er ruimtes die op bepaalde momenten bezet zijn, zoals een vergaderzaal?</li><li>Kan het alarm 's ochtends zonder iemand van je team uitgezet worden?</li></ul>",
-    "Op die vragen geeft je agenda meestal snel het antwoord. Twijfel je, begin dan met de vroege ochtend en kijk na enkele beurten of de middag beter past."
-   ]
-  },
-  {
-   "h2": "Afspraken voor een beurt zonder je team erbij",
-   "p": [
-    "<ul class=\"ticks\"><li>Sleutel en alarm: wie heeft toegang en hoe?</li><li>Ruimtes die dicht blijven of vertrouwelijk zijn</li><li>Wat je achterlaat: vaat, afval, spullen op de grond</li><li>Hoe je Zondag iets meldt, bijvoorbeeld een kapotte lamp</li></ul>",
-    "Meer over die afspraken lees je in de gids over <a href=\"gids/sleutel-en-vertrouwen.html\">sleutel en vertrouwen</a>."
-   ]
-  },
-  {
-   "h2": "Hoe Zondags het moment vastlegt",
-   "p": [
-    "Tijdens de intake ter plaatse kijken we naar je openingstijden, naar de manier waarop je team werkt en naar het moment waarop het kantoor het rustigst is. Daarna kiezen we samen een vaste dag en een vast uur, altijd op een weekdag. Kom je de eerste weken tot een andere conclusie, dan pas je het plan aan."
-   ]
-  }
+  {"h2": "Waarom bedrijven om dit moment vragen", "p": [
+   "Veel bedrijfsleiders willen dat het poetsen niet in de weg zit. Een stofzuiger tijdens een klantgesprek is vervelend, en een team dat rond een dweil moet lopen werkt minder geconcentreerd. Daarom vragen ze: kan het ook wanneer niemand in de weg zit?",
+   "Het antwoord hangt af van wat je met buiten de kantooruren bedoelt. Voor momenten die het team nauwelijks merkt, is er ruimte. Voor een avondploeg of een weekendbeurt moet je elders zoeken."]},
+  {"h2": "Wat bij Zondags wel kan", "p": [
+   "Je Zondag werkt overdag op weekdagen. Twee momenten komen daarbij vaak in aanmerking:",
+   "<ul class=\"ticks\"><li>Vroeg in de ochtend, voor het team of de klanten binnenkomen</li><li>Over de middag, wanneer veel mensen buiten eten of op verplaatsing zijn</li><li>Een vast uur op een vaste dag, zodat iedereen weet wanneer er gepoetst wordt</li></ul>",
+   "Wat het meest past, hangt af van je kantoor, het ritme van je team en de uren van je Zondag. Bespreek het bij het eerste gesprek."]},
+  {"h2": "Wat bij Zondags niet kan", "p": [
+   "Avonden en weekends doen we niet. Zondags is bewust een dagdienst: dat past bij mensen die overdag werken en bij zaken die overdag open zijn. Wie echt enkel na sluitingstijd wil laten poetsen, vindt bij ons geen antwoord.",
+   "Dat is een eerlijke grens. Beter dat je dit vooraf weet, dan dat je een boeking plaatst die niet aansluit bij je agenda."]},
+  {"h2": "Toegang regelen zonder dat je er bent", "p": [
+   "Komt je Zondag vroeg, dan ben je misschien nog niet aanwezig. Spreek af hoe de toegang werkt: een sleutel, een code of een collega die opent. Leg ook vast wie je bij problemen belt en hoe het alarm of de deur achteraf wordt afgesloten.",
+   "Omdat je steeds dezelfde persoon krijgt, hoef je dit maar één keer te regelen. Dat is een voordeel tegenover een ploeg die telkens anders is samengesteld."]},
+  {"h2": "Een voorbeeld: de middagbeurt", "p": [
+   "Neem een boekhoudkantoor met zes mensen dat vroeg begint en rond twaalf uur de lunch neemt in de refter. Dat is net het moment waarop de kantoren leeg zijn. Je Zondag komt over de middag, poetst de bureaus terwijl niemand zit, en neemt daarna refter en keuken, wanneer het team terug is aan het werk.",
+   "Zo merkt niemand iets, en het team komt terug in een opgeruimd kantoor."]},
+  {"h2": "Prijs en boeken", "p": [
+   "Het uur waarop je Zondag komt, verandert niets aan de prijs: 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw. Boek online via de <a href=\"boeken.html\">boekpagina</a>, minstens twee werkdagen vooraf, of vraag een terugbelverzoek voor een vast ritme."]}
  ],
  "faq": [
-  {
-   "q": "Kan mijn Zondag ook 's avonds komen poetsen?",
-   "a": "Nee. Zondags werkt overdag op weekdagen en nooit 's avonds of in het weekend. Wel kan je Zondag vroeg in de ochtend komen, voor je team er is, of over de middag, wanneer het kantoor even rustig is. Dat bepaal je samen tijdens de intake."
-  },
-  {
-   "q": "Kan het kantoor in het weekend gepoetst worden?",
-   "a": "Niet door Zondags. Het weekend en de avond vallen buiten ons werk. Wie daar behoefte aan heeft, zoekt best een aanbieder met avond- of weekendploegen."
-  },
-  {
-   "q": "Hoe vroeg kan een Zondag beginnen?",
-   "a": "Vroeg in de ochtend, voor je team binnenkomt. Het exacte uur spreken we af tijdens de intake, op basis van je openingstijden en de vaste afspraak met je Zondag."
-  },
-  {
-   "q": "Is er iemand van mijn team nodig bij een vroege beurt?",
-   "a": "Niet noodzakelijk. Als sleutel en alarm vooraf zijn afgesproken, kan je Zondag zelfstandig werken op het vaste moment. Zo hoeft niemand van je team vroeger te komen."
-  },
-  {
-   "q": "Kan het uur van de beurt later veranderen?",
-   "a": "Ja. Je zondagsplan is aan te passen wanneer je werkpatroon of je openingstijden veranderen, binnen de weekdagen en uren waarop Zondags werkt. Het plan is maandelijks opzegbaar."
-  }
+  {"q": "Kan mijn kantoor 's avonds gepoetst worden?", "a": "Niet door Zondags. We werken overdag op weekdagen, vroeg in de ochtend of over de middag. 's Avonds en in het weekend doen we niet."},
+  {"q": "Kan Zondags poetsen voordat mijn team aankomt?", "a": "Ja. Vroeg in de ochtend kan op weekdagen. Je spreekt vooraf af hoe je Zondag binnenkomt, zodat het team een opgeruimd kantoor aantreft."},
+  {"q": "Is de prijs anders voor vroege uren?", "a": "Nee. Het tarief blijft 60 euro per uur exclusief btw. Een blok van 3 uur is 180 euro exclusief btw, ongeacht het tijdstip."},
+  {"q": "Kan ik elke week hetzelfde uur afspreken?", "a": "Ja. Bij een vast ritme leggen we samen het zondagsplan vast: welke taken, welke dagen en welke uren. Je krijgt steeds dezelfde persoon op hetzelfde moment."},
+  {"q": "Wat als niemand op kantoor is wanneer mijn Zondag komt?", "a": "Dan regel je toegang vooraf, bijvoorbeeld met een sleutel of code. Leg ook vast hoe afgesloten wordt, en wie je contacteert bij een probleem."},
+  {"q": "Waarom werkt Zondags niet in het weekend?", "a": "Omdat Zondags een dagdienst voor bedrijven is, op weekdagen. Zo werken onze Zondags binnen vaste uren en kan je steeds op dezelfde persoon rekenen."}
  ]
 }

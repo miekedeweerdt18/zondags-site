@@ -1,34 +1,78 @@
 {
- "path": "sectoren/reisbureaus.html",
- "title": "Poetshulp voor reisbureaus: klantentafels en vitrines",
- "desc": "Poetshulp voor je reisbureau: onthaal, klantentafels, folderrekken, vitrines, keuken en sanitair, door één vaste Zondag. Eén factuur aan je vennootschap.",
+ "title": "Poetshulp voor reisbureaus: onthaal, folders en vitrines",
+ "desc": "Poetshulp voor reisbureaus: winkelkantoor met onthaal en klantentafels, folders, vitrines, keuken en sanitair, door één vaste Zondag. 60 euro per uur excl. btw.",
  "eyebrow": "Reisbureaus",
  "h1": "Poetshulp voor reisbureaus",
- "lead": "Klanten blijven in een reisbureau lang aan tafel zitten, met folders, koffie en een laptop. Een vaste Zondag houdt de winkel verzorgd, zodat je team zich op de volgende reis kan richten.",
- "answer": "Zondags (zondags.be) levert poetshulp voor reisbureaus: één vaste persoon, je Zondag, voor het winkelkantoor met onthaal, klantentafels, folderrekken, vitrines, keuken en sanitair, overdag op weekdagen. Je team houdt zelf de folders en het aanbod bij. Je krijgt één dienstenfactuur voor je vennootschap, waarop de woning een aparte post is wanneer die in het plan zit.",
- "facts": ["Onthaal en klantentafels", "Folderrekken en vitrines afnemen", "Keuken en sanitair achteraan", "Folders blijven onder jouw regie", "Factuur aan je vennootschap"],
+ "lead": "Een reisbureau verkoopt vakantiegevoel, en dat begint bij de deur. Eén vaste Zondag houdt klantentafels, folderrekken en vitrines in orde, zodat je team kan blijven adviseren.",
+ "answer": "Zondags (zondags.be) poetst voor reisbureaus in West- en Oost-Vlaanderen het winkelkantoor: het onthaal, de klantentafels, de folderrekken, de vitrines, de keuken en het sanitair. Het gaat om één vaste persoon, je Zondag, die ook folders aanvult en post sorteert. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw, met een factuur op naam van je vennootschap.",
+ "facts": [
+  "Onthaal, klantentafels en folderrekken",
+  "Vitrines langs binnen",
+  "Keuken en sanitair",
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Een winkel waar klanten blijven zitten", "p": [
-   "Een klant die een reis boekt, blijft aan tafel zitten, met folders, een koffie en een lange lijst vragen. Daardoor zijn de klantentafels, de stoelen en de armleuningen het hardst in gebruik, en dat zie je aan vlekken en kruimels. Ook de deur en het onthaal krijgen veel handen. De rest van de winkel ligt er rustiger bij."]},
-  {"h2": "Wat je Zondag doet in je winkel", "p": [
-   "<ul class=\"ticks\"><li>Klantentafels, stoelen en balie afnemen</li><li>Folderrekken stofvrij en de vloer eronder</li><li>Vitrines en etalagehoek langs binnen</li><li>Glazen deuren en ramen langs binnen</li><li>Keukentje, koffiehoek en vaatwasser</li><li>Sanitair voor klanten en team</li><li>Afval en oud papier naar buiten</li></ul>"]},
-  {"h2": "Folders en aanbod blijven van je team", "p": [
-   "Folders komen en gaan met het seizoen. Wat er in het rek staat, bepaalt jouw team. Je Zondag stoft de rekken af, veegt de plankjes schoon en laat de stapels op hun plaats. Verlopen aanbod en oude brochures haal jij of je team weg. Je Zondag gooit nooit folders weg zonder jouw akkoord."]},
-  {"h2": "Rustige weken en drukke boekingsperiodes", "p": [
-   "In een rustige week volstaat een vaste beurt. In een drukke boekingsperiode zijn de klantentafels vaker bezet, loopt het sanitair sneller vol en blijft er meer koffie achter in de keuken. Dan boek je uren bij en je schroeft ze terug wanneer het weer rustiger wordt. Het zondagsplan is maandelijks opzegbaar."]},
-  {"h2": "Voorbeeld: een reisbureau met een folderwand", "p": [
-   "Stel: je reisbureau heeft een onthaal, drie klantentafels, een folderwand en een keukentje. Op dinsdag en vrijdag komt je Zondag vóór opening: tafels, vitrine, glas en vloer, daarna keuken en sanitair. Ga je zelf een week op reis, dan kan dezelfde Zondag ook je woning bijhouden tijdens de vakantie. Wat je Zondag dan precies doet, spreek je vooraf af."]},
-  {"h2": "Facturatie en btw", "p": [
-   "Het onderhoud van je winkelkantoor is een beroepskost. Je boekt het via een gewone dienstenfactuur op naam van je vennootschap, want een vennootschap kan geen dienstencheques kopen. Voor het privégedeelte tel je een forfaitair voordeel van alle aard, als de prestaties regelmatig zijn en een onderneming met mensen in dienst ze uitvoert.",
-   "Op het zakelijke deel is de btw in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte in principe niet. Je accountant bevestigt of dat voor jouw situatie klopt."]},
-  {"h2": "Eerste stap: kennismaken in je winkel", "p": [
-   "Je laat via het formulier of de chat weten dat je een Zondag zoekt. Een van ons belt je binnen één werkdag terug. In je reisbureau nemen we de klantentafels, het folderrek en de keuken door en horen we wanneer je winkel het rustigst is. Je eerste 2 uur zijn gratis, zodat je team ziet hoe het in je winkel loopt."]}
+  {
+   "h2": "Een winkel, een kantoor en een gesprekspunt",
+   "p": [
+    "Een reisbureau combineert drie dingen. Het is een winkel met een etalage, een kantoor met bureaus en een plek waar klanten uren zitten om een droomreis te bespreken. Dat zorgt voor veel gebruik op de tafels, in de zetels en rond de koffiemachine. Wat een klant ziet terwijl hij zijn boeking doorneemt, bepaalt of hij zich welkom voelt en of hij nog eens terugkomt voor de volgende reis. Een verzorgde tafel, een frisse hoek en een nette etalage zeggen veel over hoe je met reizen omgaat."
+   ]
+  },
+  {
+   "h2": "Wat je Zondag doet in het reisbureau",
+   "p": [
+    "<ul class=\"ticks\"><li>Klantentafels afnemen, ook de randen en poten</li><li>Folderrekken: stof weg en folders netjes teruggezet</li><li>Vitrines en etalage langs binnen</li><li>Bureaus van de reisadviseurs</li><li>Onthaal, koffie- en waterhoek</li><li>Keuken, frigo en sanitair</li></ul>",
+    "De boekingen, de reisdocumenten en alles op je computer blijven van je team. Je Zondag raakt geen schermen of dossiers aan."
+   ]
+  },
+  {
+   "h2": "Folders: bijhouden is een vak",
+   "p": [
+    "Folders worden na een tijd verfrommeld, verkleurd of verouderd. Je Zondag kan rekken aanvullen, oude folders aan de kant leggen en nieuwe zendingen openen en sorteren. Welke folders in de etalage of op de tafels komen, bepaal jij. Zo ziet de winkel er elke week ordelijk uit zonder dat je team er tijd voor moet vrijmaken, ook niet na een drukke zaterdag of een week met veel bezoekers."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een reisbureau voor de zomerdrukte",
+   "p": [
+    "Neem een bureau met vier reisadviseurs dat rond de wintermaanden veel verkoopt voor de zomer. In die drukke weken boek je een extra blok per week voor de tafels, de vloer en het sanitair. In de rustige weken val je terug op één blok. Je Zondag komt op een vaste weekdag vroeg in de ochtend, voor de eerste afspraak, en weet na een tijd precies welke tafel het vaakst gebruikt wordt."
+   ]
+  },
+  {
+   "h2": "Meer dan poetsen",
+   "p": [
+    "Naast poetsen kan je Zondag het regelwerk oppakken: post openen, facturen klasseren, kantoormateriaal bestellen, pakjes met reisdocumenten klaarmaken en afspraken met leveranciers opvolgen. Een klantenbezoek bereid je zo met minder stress voor. Boekhouding en juridisch advies laat je bij je boekhouder."
+   ]
+  },
+  {
+   "h2": "Tarief en boeken",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief. De factuur staat op naam van je vennootschap. Poetshulp is in principe een beroepskost, met in principe aftrekbare btw voor een btw-plichtige zaak. Laat je accountant dit bevestigen. Op de <a href=\"boeken.html\">boekpagina</a> reserveer je je blokken."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Gooit de poetshulp mijn folders weg?", "a": "Nee. Je Zondag stoft de folderrekken af en laat de stapels op hun plaats. Wat verlopen is, haal je zelf weg. Je Zondag gooit niets weg zonder jouw akkoord."},
-  {"q": "Kan de poetshulp de vitrine en de etalagehoek afnemen?", "a": "Ja, langs de binnenkant. Vitrines, glazen deuren en ramen langs binnen horen bij het plan. Werken op hoogte en gevelreiniging doet Zondags niet. Posters en affiches in de vitrine verandert je team zelf."},
-  {"q": "Wanneer komt de poetshulp in een reisbureau?", "a": "Overdag op weekdagen, vroeg in de ochtend vóór opening of over de middag. Voor een beurt 's avonds of in het weekend kan je bij ons niet terecht. Je kiest een vast uur dat je team en je klanten weinig hinder bezorgt."},
-  {"q": "Kan mijn Zondag mijn huis bijhouden als ik op reis ben?", "a": "Ja. Het huis bijhouden tijdens de vakantie is een van de taken van een Zondag. Je bespreekt vooraf wat je Zondag doet, en dat leggen we vast in je zondagsplan."},
-  {"q": "Kan ik uren bijboeken in een drukke periode?", "a": "Ja. Je boekt extra uren bij voor drukke periodes en je schroeft ze terug wanneer het rustiger wordt. Het plan is maandelijks opzegbaar, dus je zit nergens aan vast."}
- ]
+  {
+   "q": "Kan de Zondag de klantentafels poetsen terwijl er mensen zitten?",
+   "a": "Dat kan, maar het gaat beter wanneer het rustig is. Vroeg in de ochtend voor de eerste afspraak of over de middag werkt vlot, 's avonds en op zaterdag niet."
+  },
+  {
+   "q": "Worden de folders opgeruimd door de Zondag?",
+   "a": "Ja, rekken aanvullen en netjes terugzetten horen erbij. Welke folders blijven liggen of weggaan, beslis jij."
+  },
+  {
+   "q": "Is de etalage inbegrepen?",
+   "a": "Langs binnen wel. Dat geldt voor het glas, de vensterbank en de zone achter de vitrine. Ramen langs buiten op hoogte vallen erbuiten."
+  },
+  {
+   "q": "Kan de Zondag ook bestellingen van kantoormateriaal doen?",
+   "a": "Ja. Ze houdt de voorraad bij, bestelt aan en legt het klaar. Je spreekt vooraf af tot welk bedrag je zelf wil goedkeuren."
+  },
+  {
+   "q": "Wat kost een vast plan voor een klein reisbureau?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Het aantal blokken per week bepaal je zelf, bijvoorbeeld één voor een klein bureau."
+  }
+ ],
+ "path": "sectoren/reisbureaus.html"
 }

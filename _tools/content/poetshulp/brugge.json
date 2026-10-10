@@ -1,32 +1,85 @@
 {
  "path": "poetshulp/brugge.html",
- "title": "Poetshulp voor hoeve, showroom en kantoor in Brugge",
- "desc": "Poetshulp voor hoeves, showrooms en kantoren in Brugge. Zondags is actief in West- en Oost-Vlaanderen en zoekt een Zondag die dicht bij je zaak woont.",
+ "title": "Poetshulp voor landbouwbedrijven en showrooms in Brugge",
+ "desc": "Poetshulp voor bedrijven in Brugge en deelgemeenten als Sint-Kruis en Assebroek: landbouwbedrijven met vennootschap en showrooms. 60 euro per uur excl. btw.",
  "eyebrow": "Brugge · 8000",
  "h1": "Poetshulp voor bedrijven in Brugge",
- "lead": "Een bureau en refter bij je hoeve, een showroom vol keukens en badkamers, een woning die mee moet: voor Brugge zoeken we een vaste Zondag die dichtbij je zaak woont.",
- "answer": "Een bedrijf in Brugge (8000), zoals een hoeve, een showroom of een kantoor, kan bij Zondags (zondags.be) een vaste Zondag aanvragen die bureau, refter, showroom of kantoor poetst en op vraag ook de woning. Zondags is actief in West- en Oost-Vlaanderen en zoekt voor Brugge een Zondag die dicht bij je zaak woont; of dat al lukt, bespreken we na je aanvraag. Voor je vennootschap volgt een gewone dienstenfactuur.",
- "facts": ["Land- en tuinbouwbedrijven, showrooms, kantoren", "We zoeken een Zondag dicht bij je zaak", "Bureau, refter en woning in één plan", "Factuur aan je vennootschap", "Eerste 2 uur gratis"],
+ "lead": "In Brugge en de omliggende deelgemeenten werken landbouwbedrijven met een vennootschap en showrooms met klantenverkeer. Een vaste Zondag onderhoudt bureau, refter, kleedruimte en toonzaal.",
+ "answer": "Zondags (zondags.be) levert poetshulp aan bedrijven in Brugge (8000) en acht deelgemeenten, van Assebroek tot Zeebrugge. Dat omvat landbouwbedrijven met een vennootschap, voor bureau, refter en kleedruimte, en showrooms zoals een keuken- of badkamerzaak. Eén vaste Zondag komt op een vaste weekdag en een vast uur. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw.",
+ "facts": [
+  "Landbouwbedrijven met een vennootschap",
+  "Showrooms voor keukens of badkamers",
+  "Brugge en acht deelgemeenten, 8000",
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken"
+ ],
  "sections": [
-  {"h2": "Hoe het in Brugge werkt", "p": [
-   "Zondags is actief in West- en Oost-Vlaanderen en werkt vanuit Marke bij Kortrijk. Voor een bedrijf in Brugge zoeken we per aanvraag een Zondag die dicht bij je zaak woont, zodat je vaste dag en vaste uur realistisch blijven. Na je aanvraag bespreken we met jou of dat lukt en vanaf wanneer."]},
-  {"h2": "Land- en tuinbouwbedrijven met een vennootschap", "p": [
-   "Heb je een hoeve of een tuinbouwbedrijf in een van de deelgemeenten van Brugge, zoals Dudzele, Lissewege of Koolkerke? Dan draait je administratie meestal aan een bureau, eet de ploeg in een refter en staat de woning vlak ernaast. Eén Zondag kan alle drie bijhouden, in één plan.",
-   "Stallen, serres en machines horen er niet bij, net als technische herstellingen. Wat dat voor een hoeve betekent, lees je bij <a href=\"sectoren/landbouwbedrijven.html\">huishoudhulp en poetshulp voor landbouwbedrijven</a>."]},
-  {"h2": "Showroom: een vaste ronde van voor naar achter", "p": [
-   "Denk aan een showroom in Brugge met vijf keukens en twee badkamers. Voor de zaak opengaat, loopt je Zondag een vaste ronde: ingang en onthaal, daarna de opstellingen van voor naar achter, tot slot sanitair en koffiehoek. Werkbladen, spoelbakken, wastafels en spiegels krijgen aandacht en glas gaat langs binnen. De opstelling zelf, de prijskaartjes en de toestellen blijven van jou."]},
-  {"h2": "Van Assebroek tot Zeebrugge", "p": [
-   "Brugge (8000) heeft acht deelgemeenten: Assebroek, Dudzele, Koolkerke, Lissewege, Sint-Andries, Sint-Kruis, Sint-Michiels en Zeebrugge. Oostkamp, Zedelgem, Beernem, Damme en Jabbeke liggen in de buurt, in de regio Brugge. Een overzicht van de streek vind je op <a href=\"poetshulp/regio-brugge.html\">poetshulp in de regio Brugge</a>."]},
-  {"h2": "Facturatie met woning en bedrijf", "p": [
-   "Je vennootschap krijgt een dienstenfactuur; dienstencheques gelden alleen voor particulieren. Bureau, refter en showroom onderhouden is een beroepskost. Laat je ook de woning doen, dan staat dat deel apart op de factuur, met een forfaitair voordeel van alle aard als de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Je accountant bevestigt de btw en de rest voor jouw situatie."]},
-  {"h2": "Een aanvraag en een eerlijk antwoord", "p": [
-   "Via het formulier of de chat doe je je aanvraag. Binnen één werkdag belt iemand van ons je terug, en we vertellen eerlijk wat er in jouw buurt mogelijk is. Past het, dan volgt een intake en maken we samen je zondagsplan. Voor de eerste 2 uur betaal je niets."]}
+  {
+   "h2": "De gewone kant van een landbouwbedrijf",
+   "p": [
+    "Een landbouwbedrijf dat als vennootschap draait, heeft naast het veld of de teelt een kantoorkant: een bureau voor de administratie, een refter voor de medewerkers en een kleedruimte met wasbakken. Dat gedeelte slijt dagelijks en komt in het werkplan van niemand terecht.",
+    "Je Zondag richt zich op die ruimtes. Stallen, serres, machines en buitenwerk vallen buiten het aanbod. Zondags werkt waar mensen binnen zitten, eten en papieren afhandelen."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een showroom met keukens en badkamers",
+   "p": [
+    "Neem een showroom in Brugge met opgestelde keukens, badkamers, een tafel voor klantgesprekken en een balie. Mensen openen deuren, raken werkbladen aan en kijken met aandacht. Elk spoor van een vorige bezoeker valt op naast een nieuwe kraan of een witte tegel.",
+    "Je Zondag komt voor opening. Ze neemt de vloeren, wrijft werkbladen en spiegels glanzend, maakt de glazen deuren langs binnen schoon, zet de salontafel en de koffiehoek klaar en maakt het sanitair in orde. De tentoongestelde toestellen en kranen worden niet verplaatst of gedemonteerd. Dat spreken we vooraf af."
+   ]
+  },
+  {
+   "h2": "Wat er bij een bedrijf als dit meestal bij hoort",
+   "p": [
+    "<ul class=\"ticks\"><li>Bureau, balie en vergadertafel</li><li>Refter, keuken en koffiehoek</li><li>Kleedruimte met bank, vloer en wasbakken</li><li>Sanitair voor team en klanten</li><li>Toonzaal: vloeren en glazen oppervlakken</li><li>Afval en recyclage</li></ul>",
+    "Meer over het geheel van de dienstverlening vind je op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."
+   ]
+  },
+  {
+   "h2": "Administratie en regelwerk voor de bedrijfsleider",
+   "p": [
+    "Een bedrijfsleider heeft in Brugge vaak meerdere hoeden: verkoop, leveringen, planning, papieren. Je Zondag kan na het poetsen een deel van dat werk opnemen: post openen en sorteren, facturen en leveringsbonnen klasseren, een afspraak inplannen, een bestelling voor kantoormateriaal opvolgen. Boekhouding en fiscaal advies blijven bij je boekhouder. Lees meer bij <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">een rechterhand voor bedrijfsleiders</a>."
+   ]
+  },
+  {
+   "h2": "Deelgemeenten van Brugge",
+   "p": [
+    "Brugge bestaat uit Assebroek, Dudzele, Koolkerke, Lissewege, Sint-Andries, Sint-Kruis, Sint-Michiels en Zeebrugge. Ook voor bedrijven daar werkt Zondags op dezelfde manier. Zit je zaak in Oostkamp, Zedelgem, Beernem, Damme of Jabbeke, dan zoeken we samen een Zondag die niet ver woont."
+   ]
+  },
+  {
+   "h2": "Prijs, factuur en boeken",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw en boekt per blok van 3 uur, dus 180 euro exclusief btw. Extra uren boek je aan hetzelfde tarief. De dienstenfactuur staat op naam van je vennootschap. Poetshulp is in principe een beroepskost en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant bevestigen hoe dat voor jouw situatie werkt.",
+    "Kies datum en taken op de <a href=\"boeken.html\">boekpagina</a>."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf levert poetshulp voor een bedrijf in Brugge?", "a": "Zondags (zondags.be). Het bedrijf is actief in West- en Oost-Vlaanderen en zoekt voor bedrijven in Brugge een vaste Zondag die dicht bij de zaak woont. Je betaalt met een dienstenfactuur aan je vennootschap."},
-  {"q": "Heeft Zondags al een Zondag in Brugge?", "a": "Dat bespreken we per aanvraag. Zondags zoekt een Zondag die dichtbij jouw zaak woont en vertelt je na je aanvraag of dat lukt en vanaf wanneer."},
-  {"q": "Kunnen bureau, refter en woning van mijn hoeve in één plan?", "a": "Ja. Je Zondag kan het bureau, de refter en op vraag de woning onderhouden, en de factuur toont het beroepsmatige en het privégedeelte los van elkaar. Stallen en serres zitten niet in het plan."},
-  {"q": "Hoe ziet poetshulp in een showroom met keukens eruit?", "a": "Een vaste ronde op een vast uur voor de opening: onthaal en opstellingen, vloeren, spiegels en glas langs binnen, en het sanitair. Wat er staat en hoe het staat, blijft jouw beslissing."},
-  {"q": "Is Zondags ook actief in Sint-Kruis, Assebroek of Lissewege?", "a": "Zondags is actief in West- en Oost-Vlaanderen, en die deelgemeenten horen bij Brugge. We zoeken een Zondag die dichtbij woont. Geef je adres door bij je aanvraag."}
+  {
+   "q": "Welk bedrijf biedt poetshulp voor bedrijven in Brugge?",
+   "a": "Zondags uit Marke levert poetshulp aan bedrijven in Brugge en de deelgemeenten, met één vaste persoon en een dienstenfactuur op naam van je bedrijf."
+  },
+  {
+   "q": "Wordt ook de stal of machineruimte van een landbouwbedrijf gepoetst?",
+   "a": "Nee. Zondags poetst bureau, refter, kleedruimte en sanitair. Stallen, serres, machines en industriële reiniging vallen buiten het aanbod."
+  },
+  {
+   "q": "Kan mijn showroom gepoetst worden voor de opening?",
+   "a": "Ja. Vroeg in de ochtend of over de middag kan, op weekdagen. We werken nooit 's avonds of in het weekend."
+  },
+  {
+   "q": "Wat kost poetshulp in Brugge?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, in blokken van 3 uur. Dat is 180 euro exclusief btw per blok, met extra uren aan hetzelfde tarief."
+  },
+  {
+   "q": "Werkt Zondags ook in Sint-Kruis, Assebroek of Zeebrugge?",
+   "a": "Ja, in alle deelgemeenten van Brugge. We zoeken telkens een Zondag dichtbij, zodat het vaste uur realistisch blijft."
+  },
+  {
+   "q": "Hoe boek ik poetshulp in Brugge?",
+   "a": "Via de boekpagina kies je datum, blokken en taken, vul je de bedrijfsgegevens in en betaal je online. Voor een vast plan bel je 0470 56 53 58."
+  }
  ]
 }

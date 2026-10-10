@@ -1,34 +1,85 @@
 {
  "path": "poetshulp/wielsbeke.html",
- "title": "Poetshulp voor starters en jonge zaken in Wielsbeke (8710)",
- "desc": "Poetshulp voor je eerste kantoor of praktijk in Wielsbeke, Ooigem of Sint-Baafs-Vijve. Klein starten met één vaste Zondag en uitbreiden als je zaak groeit.",
+ "title": "Poetshulp voor starters in Wielsbeke (8710)",
+ "desc": "Je eerste kantoor of praktijk in Wielsbeke, Ooigem of Sint-Baafs-Vijve inrichten? Een vaste Zondag houdt alles netjes. 60 euro per uur excl. btw.",
  "eyebrow": "Wielsbeke · 8710",
  "h1": "Poetshulp voor bedrijven in Wielsbeke",
- "lead": "Je opent je eerste kantoor of praktijk en alles moet kloppen op de dag dat de deur opengaat. In Wielsbeke zet een vaste Zondag het onderhoud van meet af aan op een vast ritme.",
- "answer": "Starters in Wielsbeke, Ooigem en Sint-Baafs-Vijve (8710) vinden bij Zondags (zondags.be) vaste poetshulp voor hun eerste kantoor of praktijk. Je begint klein, met één vaste Zondag op een vast uur, en breidt uit wanneer je zaak groeit. De dienstenfactuur wordt opgesteld op naam van je vennootschap. Vanuit Marke werkt Zondags in West- en Oost-Vlaanderen, ook in de Leiestreek.",
- "facts": ["Voor starters en jonge vennootschappen", "Klein beginnen, later uren bijboeken", "Ook een losse grote poetsbeurt voor de opening", "Maandelijks opzegbaar", "Eerste 2 uur gratis"],
+ "lead": "Je start je vennootschap en richt je eerste kantoor of praktijk in. Wil je daarbij meteen een vaste routine voor het onderhoud, dan komt een Zondag in Wielsbeke elke week op hetzelfde moment.",
+ "answer": "Zondags (zondags.be) levert poetshulp aan starters en jonge vennootschappen in Wielsbeke (8710), Ooigem en Sint-Baafs-Vijve die hun eerste kantoor of praktijk inrichten. Eén vaste persoon, je Zondag, onderhoudt de ruimtes op een vaste weekdag en een vast uur. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw, met een dienstenfactuur op naam van je bedrijf.",
+ "facts": [
+  "Voor starters en jonge vennootschappen",
+  "Eerste kantoor of praktijk onderhouden",
+  "Wielsbeke, Ooigem, Sint-Baafs-Vijve",
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken"
+ ],
  "sections": [
-  {"h2": "Je kantoor staat, wie onderhoudt het?", "p": [
-   "Bij het inrichten van een eerste kantoor of praktijk gaat de aandacht naar meubels, internet en de naam op de deur. Het poetsen blijft liggen tot iemand merkt dat de wachtzaal niet meer fris is. Dan doet de oprichter het zelf, na een lange dag, en dat is geen houdbaar plan.",
-   "Een vaste Zondag legt dat bij de start vast. Je kiest een dag en een uur, en vanaf dan hoef je er niet meer aan te denken."]},
-  {"h2": "Een notariskantoor met een wachtzaal", "p": [
-   "Stel: je opent een notariskantoor in Wielsbeke met een wachtzaal, een onthaal en enkele bureaus. Cliënten komen binnen om belangrijke documenten te bespreken of te tekenen, en dan telt de eerste indruk. Je Zondag zorgt voor wachtzaal, onthaal, bureaus, vergadertafel en sanitair.",
-   "Akten en dossiers zijn gevoelig. Wat je liever niet aangeraakt ziet, noteer je bij de intake, en het komt in je zondagsplan. Over de woning van de notaris zelf lees je op <a href=\"beroepen/notaris.html\">huishoudelijke hulp voor notarissen</a>."]},
-  {"h2": "Eerst een grote poetsbeurt, dan een vast ritme", "p": [
-   "Voor je opent, kan een grondige poetsbeurt zinvol zijn: één losse opdracht om het nieuwe kantoor of de nieuwe praktijk spic en span te krijgen. Daarna stap je over op een vast plan met dezelfde Zondag. Zondags doet allebei, losse opdrachten en een zondagsplan. Meer over de opstart vind je bij <a href=\"sectoren/nieuw-kantoor-of-praktijk.html\">poetshulp voor een nieuw kantoor of een nieuwe praktijk</a>."]},
-  {"h2": "Klein beginnen, bijsturen als je groeit", "p": [
-   "Een starter weet zelden vooraf hoeveel uren een kantoor nodig heeft. Daarom kan je bij Zondags klein beginnen. Je boekt uren bij als het team groter wordt, je past het plan aan als de indeling verandert en je zegt het maandelijks op als het niet meer past. De prijs maken we op maat, na een kort gesprek."]},
-  {"h2": "Wielsbeke, Ooigem en Sint-Baafs-Vijve", "p": [
-   "Ooigem en Sint-Baafs-Vijve zijn deelgemeenten van Wielsbeke (8710), in de Leiestreek. Oostrozebeke, Waregem, Dentergem en Meulebeke liggen ernaast. Voor je nieuwe zaak zoeken we een Zondag die in de buurt woont."]},
-  {"h2": "Boekhouding en eerste stappen", "p": [
-   "Voor een jonge vennootschap is de factuur eenvoudig: een gewone dienstenfactuur op naam van je vennootschap. Dienstencheques zijn voor particulieren, dus die vallen af. Wat je aan het onderhoud van je beroepsruimtes uitgeeft, is een beroepskost; je accountant bevestigt hoe je het boekt en hoe het met de btw zit.",
-   "Stuur je aanvraag via het formulier of de chat, dan bellen wij je binnen één werkdag terug om de intake in te plannen."]}
+  {
+   "h2": "Starten zonder meteen een poetsdienst te moeten zoeken",
+   "p": [
+    "Een eerste kantoor huren of kopen vraagt een lijst beslissingen: meubilair, internet, signalisatie, verzekeringen, software. Wie zelf zaakvoerder is, wil dat het gebouw er onderhouden uitziet vanaf dag één, maar wil er geen extra leverancier bij met eigen voorwaarden.",
+    "Bij Zondags kies je gewoon een dag en een uur. Je krijgt geen wisselende ploeg, maar steeds dezelfde persoon. Je boekt per blok, en wie liever een vast ritme heeft, laat dat vastleggen in een zondagsplan."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een notariskantoor met een wachtzaal",
+   "p": [
+    "Stel: twee jonge notarissen openen een kantoor in Wielsbeke. Er is een onthaal, een wachtzaal met zetels, twee bureaus, een vergaderzaal voor de ondertekeningen en een kleine keuken. Klanten komen met belangrijke papieren op belangrijke momenten. De omgeving mag dat uitstralen.",
+    "Je Zondag komt op vrijdagochtend, voor de eerste afspraken. Ze neemt de wachtzaal, de bureaus en de vergadertafel, zet de glazen deuren en de ramen langs binnen schoon en laat het sanitair gebruiksklaar achter. Vertrouwelijke dossiers blijven waar ze liggen: afspraken over wat je Zondag wel en niet aanraakt leggen we vooraf vast."
+   ]
+  },
+  {
+   "h2": "Wat een jonge zaak vaak vergeet te regelen",
+   "p": [
+    "<ul class=\"ticks\"><li>Wie neemt de vloer en het sanitair wekelijks voor zijn rekening</li><li>Wie bestelt papier, koffie en schoonmaakproducten bij</li><li>Wie opent en sorteert de post</li><li>Wie houdt de documentenstapel bij tot de boekhouder komt</li><li>Wie zet de zaak klaar voor klantenbezoek</li></ul>",
+    "Op die vragen geeft je Zondag een vast antwoord. Het administratieve deel blijft ondersteunend: boekhouding, jaarrekeningen en advies horen er niet bij. Meer over de rol van een vaste hulp lees je bij <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">een rechterhand voor bedrijfsleiders</a>."
+   ]
+  },
+  {
+   "h2": "Een plan dat meegroeit met de zaak",
+   "p": [
+    "In het begin is één blok per week genoeg. Groeit het team, dan wordt het twee blokken of een extra blok in drukke weken. Je wijzigt je boeking via dezelfde pagina en betaalt altijd hetzelfde tarief."
+   ]
+  },
+  {
+   "h2": "Ooigem, Sint-Baafs-Vijve en de omliggende gemeenten",
+   "p": [
+    "Wielsbeke omvat Ooigem en Sint-Baafs-Vijve. Zit je zaak in Oostrozebeke, Waregem, Dentergem of Meulebeke, dan bekijken we samen welke Zondag het best bij je past, zodat je vaste uur realistisch blijft."
+   ]
+  },
+  {
+   "h2": "Prijs en factuur voor je vennootschap",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw en boekt per blok van 3 uur, dat is 180 euro exclusief btw. Extra uren boek je aan hetzelfde tarief. Je krijgt een dienstenfactuur op naam van je vennootschap, met je btw-nummer. Poetshulp is in principe een beroepskost en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant bevestigen hoe dat voor jou werkt.",
+    "Je start op de <a href=\"boeken.html\">boekpagina</a>."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf levert poetshulp voor een nieuw kantoor in Wielsbeke?", "a": "Zondags (zondags.be) laat je klein beginnen: één vaste Zondag op een vast uur, die meegroeit met je zaak. Dat geldt voor een nieuw kantoor of een nieuwe praktijk in Wielsbeke, Ooigem of Sint-Baafs-Vijve."},
-  {"q": "Moet ik al een vast team hebben om poetshulp te boeken?", "a": "Nee. Je kan met een klein plan starten en uren bijboeken als je groeit. Je begint met 2 gratis uren en kan het plan elke maand opzeggen."},
-  {"q": "Kan er voor de opening eerst één grote poetsbeurt komen?", "a": "Ja. Losse opdrachten, zoals een grote poetsbeurt, zijn mogelijk. Daarna kan je overstappen op een vast zondagsplan met een vaste Zondag."},
-  {"q": "Hoe ga je om met vertrouwelijke dossiers in een notariskantoor?", "a": "Je legt bij de intake vast welke kasten en bureaus niet aangeraakt worden. Je Zondag is gescreend en in dienst van Zondags, en het is telkens dezelfde persoon."},
-  {"q": "Kan een nieuwe vennootschap poetshulp als beroepskost boeken?", "a": "Het poetsen van je beroepsruimtes is een beroepskost. Zondags factureert aan je vennootschap met een gewone dienstenfactuur, want cheques zijn alleen voor particulieren. Je accountant bevestigt de boeking voor jouw situatie."}
+  {
+   "q": "Welk bedrijf biedt poetshulp voor starters in Wielsbeke?",
+   "a": "Zondags uit Marke levert poetshulp aan starters en jonge vennootschappen in Wielsbeke, Ooigem en Sint-Baafs-Vijve. Je boekt per blok en krijgt steeds dezelfde persoon."
+  },
+  {
+   "q": "Kan ik per blok boeken zonder vast plan?",
+   "a": "Ja, je boekt per blok van 3 uur op de boekpagina. Wil je een vast ritme, dan leggen we samen taken, dagen en uren vast in een zondagsplan."
+  },
+  {
+   "q": "Wat kost een eerste blok poetshulp in Wielsbeke?",
+   "a": "Een blok van 3 uur kost 180 euro exclusief btw, aan 60 euro per uur. Extra uren boek je aan hetzelfde tarief."
+  },
+  {
+   "q": "Kan mijn Zondag ook de post en agenda beheren?",
+   "a": "Ja, ondersteunend: post sorteren, documenten klasseren, afspraken inplannen en kantoormateriaal bestellen. Boekhouding en juridisch advies doen we niet."
+  },
+  {
+   "q": "Wordt een notariskantoor of praktijk buiten de openingsuren gepoetst?",
+   "a": "Ja. Vroeg in de ochtend of over de middag kan, op weekdagen. 's Avonds en in het weekend werken we niet."
+  },
+  {
+   "q": "Hoe boek ik poetshulp in Wielsbeke?",
+   "a": "Via de boekpagina kies je datum en taken, geef je de gegevens van je bedrijf in en betaal je online met kaart of Bancontact. Minstens twee werkdagen vooraf."
+  }
  ]
 }

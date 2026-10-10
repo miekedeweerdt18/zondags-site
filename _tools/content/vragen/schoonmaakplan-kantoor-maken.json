@@ -1,83 +1,38 @@
 {
  "path": "vragen/schoonmaakplan-kantoor-maken.html",
  "title": "Hoe maak je een schoonmaakplan voor je kantoor?",
- "desc": "Een schoonmaakplan voor je kantoor maak je in vijf stappen: zones, taken, frequentie, wie wat doet en bijsturen. Met een voorbeeld en het zondagsplan.",
+ "desc": "Een schoonmaakplan voor je kantoor in vijf stappen: ruimtes, frequentie, verantwoordelijken, checklist en bijsturen. Met een voorbeeld en het zondagsplan.",
  "eyebrow": "Vraag",
  "h1": "Hoe maak je een schoonmaakplan voor je kantoor?",
- "lead": "Een goed schoonmaakplan past op één A4: wie doet wat, waar en hoe vaak. Zo maak je er in vijf stappen zelf een, ook als je nog niemand hebt aangenomen.",
- "answer": "Een schoonmaakplan voor je kantoor maak je door je ruimtes in zones te verdelen, per zone de taken en de frequentie op te schrijven, vast te leggen wie wat doet en het plan na enkele weken bij te sturen. Zondags (zondags.be) vertrekt van hetzelfde principe in het zondagsplan, dat je tijdens de intake samen met je Zondag opmaakt.",
- "facts": [
-  "Vijf stappen op één A4",
-  "Zones, taken, frequentie, wie, bijsturen",
-  "Schrijf bij elke taak het gewenste resultaat",
-  "Dagelijks team, wekelijks poetshulp",
-  "Zondagsplan: samen opgemaakt bij de intake"
- ],
+ "lead": "Een schoonmaakplan is een lijst die zegt wie wat wanneer doet. Met vijf stappen heb je er een dat je team ook echt gebruikt.",
+ "answer": "Je maakt een schoonmaakplan voor je kantoor in vijf stappen: ruimtes opsommen, taken per ruimte noteren, een frequentie kiezen, bepalen wie wat doet en het plan na enkele weken bijsturen. Bij Zondags (zondags.be) heet dat het zondagsplan: de taken, dagen en uren voor je vaste Zondag. Je boekt per blok van 3 uur aan 60 euro per uur exclusief btw.",
+ "facts": ["Vijf stappen van ruimtes tot bijsturen", "Eén blad, leesbaar voor het hele team", "Taken per dag, week en maand", "60 euro per uur, per blok van 3 uur", "Zondagsplan voor vaste afspraken"],
  "sections": [
-  {
-   "h2": "Stap één: verdeel je kantoor in zones",
-   "p": [
-    "<ul class=\"ticks\"><li>Onthaal en wachtruimte</li><li>Werkruimtes en bureaus</li><li>Vergaderzaal</li><li>Keuken en refter</li><li>Sanitair</li><li>Gangen, trappen en berging</li></ul>",
-    "Een zone is een stuk kantoor waar dezelfde taken terugkomen. Hoe duidelijker de grenzen, hoe minder er tussen de plooien valt."
-   ]
-  },
-  {
-   "h2": "Stap twee: schrijf het resultaat bij elke taak",
-   "p": [
-    "Een taak als bureaus afnemen zegt weinig. Schrijf erbij hoe het resultaat eruitziet: blad vrij van vlekken, geen kruimels, kabels niet verplaatst. Voor sanitair: spiegel zonder strepen, kraan zonder kalkaanslag, vuilnisbak leeg. Zo weet iedereen wanneer iets klaar is, ook de persoon die controleert."
-   ]
-  },
-  {
-   "h2": "Stap drie: bepaal wie wanneer iets doet",
-   "p": [
-    "Een kantoor draait op vier niveaus. Je team doet dagelijks de kleine dingen: vaat, koffiehoek, het eigen bureau. De poetshulp pakt wekelijks sanitair, keuken, vloeren en bureaus aan. Maandelijks komen ramen langs binnen en kasten aan bod. Een of twee keer per jaar volgt een grondige beurt. Wat bij jouw zaak past, lees je bij <a href=\"vragen/hoe-vaak-kantoor-poetsen.html\">hoe vaak je een kantoor laat poetsen</a>."
-   ]
-  },
-  {
-   "h2": "Stap vier: kies één eigenaar in je zaak",
-   "p": [
-    "Een plan zonder eigenaar sterft snel af. Duid één persoon bij jou aan die het plan bewaakt, vragen beantwoordt en het eerste aanspreekpunt is voor je Zondag. Dat hoeft geen aparte functie te zijn. Een goede reflex is genoeg."
-   ]
-  },
-  {
-   "h2": "Stap vijf: stuur na enkele weken bij",
-   "p": [
-    "Loop na een paar weken samen door je kantoor en bekijk wat klopt en wat niet. Is een zone altijd af, dan kan het ritme lager. Blijft iets liggen, voeg dan tijd of een taak toe. Bewaar het plan op een plek die iedereen kent, bijvoorbeeld in de keuken, en pas het telkens aan als er iets verandert in je team of je ruimtes."
-   ]
-  },
-  {
-   "h2": "Voorbeeld: een plan voor een kantoor met zes mensen",
-   "p": [
-    "<ul class=\"ticks\"><li><b>Dagelijks, door het team:</b> vaat, koffiehoek, eigen bureau vrij maken</li><li><b>Wekelijks, door je Zondag:</b> sanitair, keuken, vloeren, bureaus en afval</li><li><b>Maandelijks:</b> ramen langs binnen, kasten en plinten</li><li><b>Per kwartaal of per jaar:</b> grondige beurt van archief, frigo en vergaderzaal</li></ul>"
-   ]
-  },
-  {
-   "h2": "Hoe Zondags het plan opmaakt",
-   "p": [
-    "Tijdens de intake ter plaatse lopen we samen door je kantoor en leggen we vast wat er moet gebeuren, wanneer en hoe je het graag hebt. Dat is je zondagsplan, dat je later kan bijsturen. Een uitgebreide lijst vind je in de <a href=\"gids/checklist-kantoorschoonmaak.html\">checklist voor kantoorschoonmaak</a>."
-   ]
-  }
+  {"h2": "Stap een: loop door je kantoor", "p": [
+   "Maak een lijst van alle ruimtes: werkplekken, onthaal, vergaderzaal, refter, keuken, sanitair, gang, archief en berging. Noteer erbij hoe vaak ze gebruikt worden en door hoeveel mensen. Een vergaderzaal die één keer per week gebruikt wordt, vraagt minder dan een koffiehoek waar het hele team elke dag staat.",
+   "Neem daarvoor een kwartier de tijd, met een blad en pen. Je merkt onderweg vanzelf wat extra aandacht nodig heeft."]},
+  {"h2": "Stap twee: noteer de taken per ruimte", "p": [
+   "Schrijf per ruimte zo concreet mogelijk wat er moet gebeuren. Niet schoonmaken in de keuken, maar werkblad afnemen, frigo schoonmaken, koffiemachine ontkalken, vloer dweilen en afval buitenzetten. Hoe concreter de lijst, hoe minder je hoeft uit te leggen.",
+   "<ul class=\"ticks\"><li>Werkplekken: bureaus afnemen, vloeren stofzuigen</li><li>Onthaal en wachtzaal: tafels, stoelen, glazen deuren</li><li>Sanitair: toiletten, lavabo's, spiegels, navullen</li><li>Refter en keuken: werkbladen, apparaten, afval</li></ul>"]},
+  {"h2": "Stap drie: kies een frequentie per taak", "p": [
+   "Verdeel de taken in wat bij elke beurt gebeurt, wat om de week komt en wat maandelijks of een paar keer per jaar aan bod komt. Sanitair en keuken horen in de eerste groep. Ramen langs binnen, archiefkasten en radiatoren horen vaak in de tweede of derde.",
+   "Heb je twijfels over het ritme? Lees dan <a href=\"vragen/hoe-vaak-kantoor-poetsen.html\">hoe vaak je een kantoor laat poetsen</a>."]},
+  {"h2": "Stap vier: bepaal wie wat doet", "p": [
+   "Een plan werkt pas als de taken een eigenaar hebben. Wat doet de poetshulp, wat doet het team dagelijks? Bureaus leegmaken, servies in de vaatwasser zetten en de koffiehoek proper laten zijn, kan het team. Het echte poetswerk geef je aan je Zondag.",
+   "Schrijf het op één blad, hang het in de keuken en maak het zichtbaar. Een plan dat in een map verdwijnt, verdwijnt ook uit het geheugen."]},
+  {"h2": "Een voorbeeld: kantoor met zeven werkplekken", "p": [
+   "Stel: je hebt een adviesbureau met zeven werkplekken, een vergaderzaal, een keuken en twee toiletten. Bij elke wekelijkse beurt: werkplekken, vloeren, sanitair, keuken en afval. Om de week: de vergaderzaal grondig en de ramen langs binnen. Maandelijks: de frigo en de koffiemachine.",
+   "Jij noteert de taken, je Zondag volgt het plan en na de eerste maand bekijk je samen of er iets bij of af mag."]},
+  {"h2": "Stap vijf: bijsturen en vastleggen met Zondags", "p": [
+   "Na enkele weken weet je wat te vaak of te weinig is. Pas de lijst aan en leg ze vast. Bij Zondags noemen we dat het zondagsplan, een afspraak over taken, dagen en uren voor je vaste Zondag. Als je meer wil weten over het opstellen, lees dan <a href=\"sectoren/gids-zondagsplan-opstellen.html\">hoe je een zondagsplan opstelt</a>.",
+   "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief via de <a href=\"boeken.html\">boekpagina</a>."]}
  ],
  "faq": [
-  {
-   "q": "Hoe lang moet een schoonmaakplan zijn?",
-   "a": "Eén pagina volstaat voor een klein kantoor: zones, taken, frequentie en wie wat doet. Hoe korter, hoe groter de kans dat het gebruikt wordt. Je kan het later aanvullen."
-  },
-  {
-   "q": "Moet ik een schoonmaakplan hebben voor ik een poetshulp zoek?",
-   "a": "Nee, maar het helpt. Met een lijstje weet je wat je vraagt en kan je aanbieders eerlijk vergelijken. Bij Zondags maken we het zondagsplan samen met je tijdens de intake, ook als je nog niets op papier hebt."
-  },
-  {
-   "q": "Wat moet mijn team zelf doen en wat de poetshulp?",
-   "a": "Je team doet de dagelijkse kleine dingen: vaat, koffiehoek en het eigen bureau. De poetshulp doet het wekelijkse werk zoals sanitair, vloeren en keuken. Wat precies wie doet, leg je vast in het plan."
-  },
-  {
-   "q": "Hoe vaak pas ik het plan aan?",
-   "a": "Na de eerste weken, en daarna telkens wanneer er iets verandert: meer mensen, een nieuwe ruimte of een ander ritme. Bij Zondags kan je uren bijboeken of het plan aanpassen."
-  },
-  {
-   "q": "Kan mijn woning in hetzelfde plan als mijn kantoor?",
-   "a": "Ja. Kantoor en woning kunnen in één plan met dezelfde Zondag. Zet ze als aparte zones, en op de factuur staan het beroepsmatige en het privégedeelte apart. Laat je accountant bevestigen hoe dat voor jou werkt."
-  }
+  {"q": "Wat staat er in een schoonmaakplan voor een kantoor?", "a": "De ruimtes, de taken per ruimte, de frequentie, wie ze uitvoert en eventuele afspraken over materiaal. Hou het op één blad zodat het team het meteen begrijpt."},
+  {"q": "Hoe vaak moet ik een schoonmaakplan aanpassen?", "a": "Na de eerste weken, en daarna wanneer er iets verandert: een groter team, een nieuwe ruimte of een ander ritme. Een jaarlijkse controle volstaat vaak."},
+  {"q": "Wie maakt het schoonmaakplan, ik of de poetshulp?", "a": "Jij zet de basis, de poetshulp vult aan met praktische kennis. Bij Zondags bepaal je samen het zondagsplan in een kort gesprek."},
+  {"q": "Kan Zondags mijn plan uitvoeren?", "a": "Ja. Je Zondag volgt het plan voor poetsen en, als je dat wilt, ook voor administratieve hulp en praktisch regelwerk, binnen je geboekte uren."},
+  {"q": "Wat kost het uitvoeren van een schoonmaakplan?", "a": "60 euro per uur exclusief btw, geboekt per blok van 3 uur. Dat is 180 euro exclusief btw per blok, en extra uren kosten hetzelfde."},
+  {"q": "Moet het hele team het plan kennen?", "a": "Ja, minstens de afspraken die het team zelf doet. Hang een korte versie in de keuken, zodat iedereen weet wat tussen twee beurten van hen verwacht wordt."}
  ]
 }

@@ -1,91 +1,83 @@
 {
+ "path": "sectoren/groepspraktijken-checklist.html",
+ "title": "Checklist poetsen voor een groepspraktijk",
+ "desc": "Een schoonmaakchecklist voor een groepspraktijk: wachtzaal, onthaal, consultatieruimtes, sanitair en teamkeuken, per week, maand en jaar.",
+ "eyebrow": "Groepspraktijken · Checklist",
+ "h1": "Schoonmaakchecklist voor groepspraktijken",
+ "lead": "In een groepspraktijk gebruiken meerdere zorgverleners dezelfde wachtzaal en hetzelfde sanitair. Met een gedeelde lijst blijft de verantwoordelijkheid helder.",
+ "answer": "Een schoonmaakchecklist voor een groepspraktijk deelt het werk op per zone: gedeelde wachtzaal, onthaal en sanitair wekelijks, consultatieruimtes en teamkeuken in een eigen ritme, grote opruim jaarlijks. Zondags (zondags.be) laat één vaste Zondag dit overdag op weekdagen doen, aan 60 euro per uur exclusief btw per blok van 3 uur. Sterilisatie en medisch materiaal blijven bij de zorgverleners.",
+ "facts": [
+  "Gedeelde wachtzaal en onthaal",
+  "Consultatieruimtes en sanitair",
+  "Teamkeuken inbegrepen",
+  "Geen sterilisatie of medisch materiaal",
+  "60 euro per uur, per blok van 3 uur"
+ ],
  "sections": [
   {
-   "h2": "Waarom een checklist in een groepspraktijk",
+   "h2": "Wie doet wat in een gedeelde praktijk",
    "p": [
-    "Wanneer drie of vier zorgverleners dezelfde ruimtes delen, vallen er gaten. Iedereen gaat ervan uit dat een ander de koffiehoek afwast, de speelhoek afneemt of het sanitair aanvult. Een checklist maakt de verdeling zichtbaar en bespreekbaar, en ze helpt bij de overdracht wanneer er een collega bij komt.",
-    "Neem een architect die thuis werkt en soms cliënten ontvangt: die redeneert in dezelfde richting. Je woonkamer wordt tijdelijk onthaal. Ook zo iemand heeft baat bij een lijst die zegt wat bij het huis hoort en wat bij het werk."
+    "In een solopraktijk is de verantwoordelijkheid duidelijk. In een groepspraktijk deelt iedereen de wachtzaal, het onthaal en het sanitair, maar niemand voelt zich de eigenaar. Een lijst per zone, met een naam of rol erbij, voorkomt dat het gedeelde deel in niemands agenda staat."
    ]
   },
   {
-   "h2": "Wekelijks, door je Zondag",
+   "h2": "Wekelijks: de gedeelde zones",
    "p": [
-    "<ul class=\"ticks\"><li>Wachtzaal: stoelen, tafels, speelhoek, deurklinken<li>Onthaal: balie, toetsenbord, telefoon, pennen<li>Consultatieruimtes: vloer, meubilair, wastafel<li>Sanitair: toiletten, lavabo's, spiegels, papier en zeep<li>Teamkeuken: werkblad, spoelbak, frigo-deur, koffiehoek<li>Gangen en trap: stofzuigen en dweilen<li>Afval en recyclage klaarzetten</li></ul>"
+    "<ul class=\"ticks\"><li>Wachtzaal: stoelen, tafeltjes, leesmateriaal</li><li>Onthaal en balie</li><li>Gang en trap</li><li>Sanitair voor patiënten en team, met papier en zeep bijgevuld</li><li>Teamkeuken en overlegruimte</li><li>Vloeren, afval en glazen deuren langs binnen</li></ul>",
+    "De wachtzaal verdient het meeste ritme. Daar blijft elke patiënt even zitten en daar vormt zich in één oogopslag de eerste indruk van je praktijk."
    ]
   },
   {
-   "h2": "Maandelijks, door je Zondag of in overleg",
+   "h2": "Consultatieruimtes: elk een eigen afspraak",
    "p": [
-    "<ul class=\"ticks\"><li>Ramen en glazen deuren langs binnen<li>Plinten, deurkaders en radiatoren<li>Stoelen en banken in de wachtzaal grondiger afnemen<li>Frigo van de teamkeuken leegmaken en reinigen<li>Archiefkasten van buiten afnemen</li></ul>"
+    "Elke zorgverlener bepaalt wat in zijn of haar ruimte mag gebeuren. Sommigen willen enkel de vloer en de prullenmand laten doen, anderen ook de bureau en de wastafel. Leg dat vast per kamer in het zondagsplan. Instrumenten, behandeltafels en alles wat in contact komt met bloed of lichaamsvloeistoffen blijven bij de zorgverlener. Sterilisatie en medisch materiaal doet Zondags niet."
    ]
   },
   {
-   "h2": "Jaarlijks, in overleg",
+   "h2": "Maandelijks en jaarlijks",
    "p": [
-    "<ul class=\"ticks\"><li>Grote poetsbeurt na een rustige periode of in het bouwverlof<li>Gordijnen of lamellen afnemen<li>Vloeren intensiever behandelen, voor zover bereikbaar</li></ul>",
-    "Voor een grote poetsbeurt kan een losse opdracht, naast het vaste plan. Over een wachtzaal lees je ook meer op <a href=\"vragen/wachtzaal-proper-houden.html\">een wachtzaal proper houden</a>."
+    "Maandelijks komen plinten, radiatoren, de bovenkant van archiefkasten en de binnenkant van de teamkeuken aan bod. Jaarlijks plan je een grote beurt: ramen langs binnen, vloeren grondig, de berging en het archief. Wil je dat de Zondag ook dossiers klasseert of de post sorteert, dan kan dat als ondersteunende administratieve hulp. Medische dossiers blijven onder het beroepsgeheim van de zorgverlener."
    ]
   },
   {
-   "h2": "Wat de praktijk zelf blijft doen",
+   "h2": "Voorbeeld: een praktijk met een vergaderzaal zoals een architectenbureau",
    "p": [
-    "<ul class=\"ticks\"><li>Sterilisatie en reiniging van medisch materiaal<li>Desinfectie van instrumenten en behandeltafels volgens je eigen protocol<li>Afvoer van medisch afval<li>Opruimen van dossiers en persoonlijke spullen</li></ul>",
-    "Je Zondag raakt geen medisch materiaal aan en voert geen sterilisatie uit. Dat is een bewuste grens. Je legt samen vast hoe de ruimtes erbij liggen voor en na de beurt."
+    "Neem een groepspraktijk met vier zorgverleners en een vergaderzaal waar het team wekelijks overlegt, zoals een architectenbureau dat doet met zijn bouwheren. De vergaderzaal krijgt een eigen mini-lijst: tafel, stoelen, whiteboard, koffiehoek. De Zondag zet de zaal vlak voor het overleg klaar en ruimt achteraf de kopjes op."
    ]
   },
   {
-   "h2": "Hoe je de lijst werkbaar houdt",
+   "h2": "Gewoontes in de wachtzaal",
    "p": [
-    "Hang de checklist in de teamkeuken. Laat iedereen een mededeling kunnen toevoegen. Overleg elk kwartaal kort wat er te veel of te weinig is. Je Zondag kan dan zijn werk bijstellen, bijvoorbeeld door een ruimte vaker te doen of een taak uit te laten. Meer over de aanpak op <a href=\"gids/checklist-praktijkschoonmaak.html\">checklist praktijkschoonmaak</a>."
+    "Leg per dag een korte rondgang vast: tijdschriften rechtleggen, een doos zakdoeken bijvullen, de prullenmand leegmaken en de stoelen terugzetten. Wijs die taak aan wie het onthaal doet, zodat ze ook echt gebeurt. Zo ziet de wachtzaal er om tien uur nog even verzorgd uit als om acht uur, en heeft je Zondag minder werk met bijsturen."
    ]
   },
   {
-   "h2": "Factuur en fiscaliteit",
+   "h2": "Prijs en boeken",
    "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Je krijgt een gewone dienstenfactuur. Het onderhoud van de praktijk is een beroepskost. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Laat je accountant bevestigen wat voor jouw praktijk geldt."
-   ]
-  },
-  {
-   "h2": "Starten",
-   "p": [
-    "Je dient een aanvraag in, we bellen binnen één werkdag, komen langs voor de intake en maken samen het zondagsplan. De eerste 2 uur zijn gratis."
+    "Je betaalt 60 euro per uur exclusief btw en boekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren aan hetzelfde tarief. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren, een btw-plichtige zaak met aftrekrecht in principe wel. Laat je accountant dit bevestigen voor jouw situatie. Boek op de <a href=\"boeken.html\">boekpagina</a>. Meer lees je op <a href=\"sectoren/groepspraktijken.html\">poetshulp voor groepspraktijken</a>."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Wat staat er op een schoonmaakchecklist voor een groepspraktijk?",
-   "a": "Wekelijks wachtzaal, onthaal, consultatieruimtes, sanitair, teamkeuken en gangen; maandelijks ramen, plinten en radiatoren; jaarlijks een grote beurt. Sterilisatie en medisch materiaal blijven bij de praktijk."
+   "q": "Hoe vaak moet een groepspraktijk gepoetst worden?",
+   "a": "Wekelijks is het minimum voor de gedeelde zones, bij veel patiënten twee of meer keer per week. Consultatieruimtes volgen het ritme dat jullie afspreken."
   },
   {
-   "q": "Wie poetst de gedeelde wachtzaal van een groepspraktijk?",
-   "a": "Bij Zondags is dat steeds dezelfde persoon, je Zondag, op een vaste weekdag, vroeg in de ochtend of over de middag. De afspraken staan in het zondagsplan."
+   "q": "Doet Zondags sterilisatie of medisch materiaal?",
+   "a": "Nee. Dat blijft bij de zorgverleners, want het vraagt vakkennis en eigen protocollen. Zondags onderhoudt wachtzaal, onthaal, sanitair, consultatieruimtes en teamkeuken."
   },
   {
-   "q": "Doen jullie ook sterilisatie of reiniging van medisch materiaal?",
-   "a": "Nee. Sterilisatie en medisch materiaal blijven bij de praktijk zelf. Je Zondag onderhoudt de ruimtes en het sanitair."
+   "q": "Kan de Zondag ook mijn onthaal ondersteunen?",
+   "a": "Ondersteunend wel: post openen en sorteren, afspraken in een agenda zetten en kantoormateriaal bijhouden. Een volwaardige secretaresse vervangt een Zondag niet, en medische dossiers blijven bij het team."
   },
   {
-   "q": "Hoe vaak moet een wachtzaal gepoetst worden?",
-   "a": "Voor een praktijk met veel bezoek is wekelijks het minimum, voor een rustige praktijk kan om de twee weken volstaan. Je bespreekt het bij de intake en past het later aan."
+   "q": "Wat kost poetshulp voor een groepspraktijk?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, geboekt per blok van 3 uur. Eén blok is dus 180 euro exclusief btw. Extra uren komen aan hetzelfde tarief."
   },
   {
-   "q": "Kunnen we een grote poetsbeurt als losse opdracht boeken?",
-   "a": "Ja. Naast het vaste plan kan je een losse opdracht vragen, bijvoorbeeld tijdens een rustige periode. Je bespreekt de timing op een weekdag overdag."
+   "q": "Kunnen meerdere zorgverleners één factuur delen?",
+   "a": "De factuur staat op naam van het bedrijf dat boekt. Spreken jullie intern een verdeling af, dan blijft dat onderling. Laat je accountant bevestigen hoe dat voor jullie situatie werkt."
   }
- ],
- "path": "sectoren/groepspraktijken-checklist.html",
- "title": "Schoonmaakchecklist voor groepspraktijken",
- "desc": "Een concrete schoonmaakchecklist voor groepspraktijken: wat wekelijks, maandelijks en jaarlijks aan de beurt komt, en wat de praktijk zelf blijft doen.",
- "eyebrow": "Checklist · Groepspraktijken",
- "h1": "Schoonmaakchecklist voor groepspraktijken",
- "lead": "In een praktijk met meerdere zorgverleners moet iedereen weten wie wat doet. Deze checklist verdeelt het onderhoud in wekelijks, maandelijks en jaarlijks.",
- "answer": "Een schoonmaakchecklist voor een groepspraktijk deelt het onderhoud op in wat wekelijks, maandelijks en jaarlijks gebeurt. Zondags (zondags.be) laat een vaste Zondag de gedeelde wachtzaal, het onthaal, de consultatieruimtes, het sanitair en de teamkeuken onderhouden. Sterilisatie en medisch materiaal blijven bij de praktijk. Zo weet elke zorgverlener wat er gebeurt en wat hij of zij zelf blijft doen.",
- "facts": [
-  "Wekelijks, maandelijks en jaarlijks",
-  "Gedeelde wachtzaal en onthaal",
-  "Consultatieruimtes en sanitair",
-  "Geen sterilisatie of medisch materiaal",
-  "Eerste 2 uur gratis"
  ]
 }

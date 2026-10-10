@@ -493,3 +493,29 @@ section+section.svc,section+section.fisc,section+section.band,.marquee+section{m
 .consent button[data-c="ja"]{background:var(--geel);border-color:var(--geel);color:var(--ink)}
 .consent button:focus-visible{outline:2px solid var(--geel);outline-offset:2px}
 @media (max-width:520px){.consent{left:12px;right:12px;bottom:12px;max-width:none}}
+
+/* Boekingsbuilder */
+.pack{background:var(--ink);color:var(--paper);border-radius:26px;padding:clamp(24px,3vw,40px)}
+.pack .eyebrow{color:var(--geel)!important}
+.pack__h{font-size:clamp(40px,5vw,72px);margin:10px 0 6px}
+.pack__price{font-family:var(--f-display);font-size:clamp(24px,2.4vw,34px);font-weight:600;letter-spacing:-.02em;margin:0 0 18px}
+.pack__price b{color:var(--geel)}
+.pack__price span{display:block;font:400 14px var(--f-body);letter-spacing:0;color:rgba(246,242,235,.7);margin-top:4px}
+.pack .ticks{grid-template-columns:1fr;gap:0}
+.pack .ticks li{font-size:16px;border-color:rgba(246,242,235,.18)}
+.pack .ticks li::before{border-color:var(--geel)}
+.bk .next{margin-top:28px}
+.bk__rows{display:grid;gap:10px;margin-top:6px}
+.bk__row{display:flex;justify-content:space-between;align-items:center;gap:14px;padding:14px 16px;border:1.5px solid rgba(23,34,30,.18);border-radius:16px;background:var(--paper)}
+.bk__row b{display:block;font-family:var(--f-display);font-size:20px;font-weight:600;letter-spacing:-.02em}
+.bk__row span{font-size:14px;color:var(--muted)}
+.step{display:flex;align-items:center;gap:10px}
+.step button{width:44px;height:44px;border-radius:50%;border:1.5px solid var(--ink);background:#fff;font:500 22px/1 var(--f-body);color:var(--ink);cursor:pointer;transition:background .3s,color .3s}
+.step button:hover:not(:disabled){background:var(--ink);color:var(--paper)}
+.step button:disabled{opacity:.3;cursor:not-allowed}
+.step output{min-width:2ch;text-align:center;font:600 22px var(--f-display)}
+.tot{margin-top:22px;padding:16px 18px;background:var(--stone);border-radius:16px;display:grid;gap:6px}
+.tot__r{display:flex;justify-content:space-between;gap:12px;font-size:16px}
+.tot__r--s{color:var(--muted);font-size:14px}
+.tot__r--t{border-top:1px solid var(--line);padding-top:10px;margin-top:4px;font-family:var(--f-display);font-size:22px;font-weight:600}
+.form .f input[type=date]{min-height:48px}

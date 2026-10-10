@@ -1,36 +1,78 @@
 {
- "path": "sectoren/transportbedrijven.html",
- "title": "Poetshulp voor transportbedrijven en hun chauffeursruimte",
- "desc": "Poetshulp voor het planningskantoor, de chauffeursruimte, refter, douches en sanitair van je transportbedrijf. Eén vaste Zondag, geen vrachtwagenreiniging.",
+ "title": "Poetshulp voor transportbedrijven: kantoor en refter",
+ "desc": "Poetshulp voor het planningskantoor, de chauffeursruimte, refter en douches van een transportbedrijf. Eén vaste Zondag, 60 euro per uur excl. btw.",
  "eyebrow": "Transportbedrijven",
  "h1": "Poetshulp voor transportbedrijven",
- "lead": "Chauffeurs komen en gaan op wisselende uren, terwijl de planners al vroeg aan hun bureau zitten. Een vaste Zondag houdt de ruimtes in huis schoon, van planningskantoor tot douche. De vrachtwagens blijven buiten het plan.",
- "answer": "Zondags (zondags.be) levert poetshulp voor transportbedrijven: één vaste persoon, je Zondag, voor het planningskantoor, de chauffeursruimte, de refter, de douches en het sanitair, overdag op weekdagen. Vrachtwagens, laadkaaien en stalling vallen erbuiten, want Zondags reinigt geen voertuigen. Je krijgt één dienstenfactuur op naam van je vennootschap, waarop je woning als aparte post kan staan.",
- "facts": ["Planningskantoor en chauffeursruimte", "Refter, douches en sanitair", "Geen reiniging van vrachtwagens", "Vaste dag en vast uur", "Factuur aan je vennootschap", "Eerste 2 uur gratis"],
+ "lead": "Bij een transportbedrijf komen en gaan chauffeurs op alle uren. Eén vaste Zondag houdt het planningskantoor, de chauffeursruimte en de douches in orde, zonder naar je vloot te kijken.",
+ "answer": "Zondags (zondags.be) poetst voor transportbedrijven in West- en Oost-Vlaanderen het planningskantoor, de chauffeursruimte, de refter, de douches en het sanitair. Het gaat om één vaste persoon, je Zondag, die op een vaste weekdag komt. Het reinigen van vrachtwagens valt erbuiten. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een factuur op naam van je vennootschap.",
+ "facts": [
+  "Planningskantoor, chauffeursruimte, refter",
+  "Douches en sanitair",
+  "Geen reiniging van vrachtwagens",
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Overdag op weekdagen"
+ ],
  "sections": [
-  {"h2": "Twee ritmes in één gebouw", "p": [
-   "Op een planningskantoor begint de dag vroeg: telefoons, schermen, ritten die verschuiven. In de chauffeursruimte loopt een ander ritme: chauffeurs die binnenkomen, koffie nemen, papieren afgeven en weer vertrekken. Daardoor liggen beide ruimtes zelden tegelijk stil.",
-   "Je Zondag werkt in de gaten die er wel zijn: wanneer de chauffeursruimte leeg is, vroeg in de ochtend of over de middag, op een vast moment dat je team leert kennen."]},
-  {"h2": "Planningskantoor: poetsen rond de schermen", "p": [
-   "Aan een planningsbureau liggen kabels, dubbele schermen, headsets en dossiers. Je Zondag verplaatst niets zonder je akkoord en neemt het bureau af rond wat er ligt. Telefoons en toetsenborden krijgen een veeg, de vloer onder de bureaus wordt gezogen en de prullenbakken worden geleegd. Zo blijft het kantoor werkbaar terwijl de planners gewoon doorwerken."]},
-  {"h2": "Chauffeursruimte, refter, douches en sanitair", "p": [
-   "Chauffeurs komen binnen met natte jassen, koffiebekers en vuile schoenen. De refter en de gang vragen daardoor meer aandacht dan op een gewoon kantoor. Elke ronde omvat:",
-   "<ul class=\"ticks\"><li>Tafels, stoelen en koffiehoek van de chauffeursruimte</li><li>Microgolf, vaatwasser en de buitenkant van de frigo</li><li>Douches: vloer, wanden, kranen en afvoer</li><li>Toiletten, lavabo's en spiegels, met papier en zeep uit je voorraad aangevuld</li><li>Gang en ingang, waar de vuile schoenen binnenkomen</li><li>Afval, PMD en papier van de chauffeursruimte naar buiten</li></ul>"]},
-  {"h2": "Wat er niet bij hoort: vrachtwagens en stalling", "p": [
-   "Vrachtwagens, trailers, laadkaaien en de stalling vallen buiten het werk van Zondags: we reinigen geen voertuigen en doen geen industriële reiniging. Dat geldt ook voor de cabines. Wat een chauffeur in zijn cabine achterlaat, blijft zijn eigen verantwoordelijkheid.",
-   "Een afspraak die helpt: een vuilniszak bij de deur van de chauffeursruimte, zodat het afval van de rit niet op tafel belandt."]},
-  {"h2": "Voorbeeld: vier planners en een handvol chauffeurs", "p": [
-   "Stel: je transportbedrijf heeft vier planners en een handvol chauffeurs die dagelijks langskomen. Op dinsdag en vrijdag komt je Zondag vroeg in de ochtend voor het kantoor en de douches. Op woensdagmiddag gaat dezelfde Zondag naar de woning van de zaakvoerder voor was, strijk en poetsen. Zo heb je één vaste persoon die alle drie de momenten kent, en één factuur waarop de zaak en het privégedeelte apart staan."]},
-  {"h2": "Facturatie voor kantoor en chauffeursruimte", "p": [
-   "Het onderhoud van kantoor, refter en douches is een beroepskost. Een vennootschap kan geen dienstencheques kopen, dus Zondags factureert met een gewone dienstenfactuur op jouw vennootschap. Voor een btw-plichtige zaak met aftrekrecht is de btw op het beroepsmatige deel in principe recupereerbaar. Op het privégedeelte kan dat in principe niet. Je accountant bevestigt hoe dat voor jouw bedrijf werkt."]},
-  {"h2": "Eerste stap: weten wie wanneer aanwezig is", "p": [
-   "Stuur je aanvraag via het formulier of de chat, dan hoor je binnen één werkdag van ons. In de intake lopen we de ruimtes af en horen we wanneer je planners en chauffeurs aanwezig zijn, want daar hangt het uur van je Zondag van af. Daarna leggen we het zondagsplan vast, en de eerste 2 uur zijn gratis om de ronde uit te proberen."]}
+  {
+   "h2": "Het gebouw achter de vloot",
+   "p": [
+    "Een transportbedrijf wordt beoordeeld op wat er rijdt, maar het draait op wat er binnen gebeurt. In het planningskantoor lopen telefoons, bestellingen en documenten samen. In de chauffeursruimte wisselen mensen van ploeg, drinken ze koffie en vullen ze papieren in. Daar wordt veel gebruikt en weinig opgeruimd. Een lege koffiebeker op een planningsbureau of een natte vloer in de douche valt nochtans meteen op wanneer een klant of een nieuwe chauffeur binnenstapt. Een vaste Zondag houdt dat rustig op peil, week na week."
+   ]
+  },
+  {
+   "h2": "Wat je Zondag oppakt",
+   "p": [
+    "<ul class=\"ticks\"><li>Planningskantoor: bureaus, vloer en vergadertafel</li><li>Chauffeursruimte met tafels, zetels en koffiemachine</li><li>Refter en keuken, met frigo en spoelbak</li><li>Douches en kleedruimte</li><li>Sanitair en gangen</li><li>Afval en kartonnen dozen netjes weg</li></ul>",
+    "De wagens, de laadruimte en de werkplaats blijven buiten beeld. Een Zondag reinigt geen voertuigen en werkt niet met industriële machines."
+   ]
+  },
+  {
+   "h2": "Werken tussen de wisselmomenten",
+   "p": [
+    "Chauffeurs beginnen vaak vroeg, en dan is de chauffeursruimte ineens vol. Een Zondag werkt overdag op weekdagen, vroeg in de ochtend of over de middag, wanneer er minder volk binnen is. Kies met je planner het moment waarop de ruimte het vaakst leeg staat, en leg dat vast in het zondagsplan. Zo loop je elkaar niet voor de voeten. Verandert de ploegindeling na een seizoen, dan pas je het uur gewoon aan."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een transportbedrijf met een drukke planning",
+   "p": [
+    "Neem een bedrijf met drie planners in het kantoor en een tiental chauffeurs die in wisselende ploegen komen. De Zondag poetst op maandag over de middag, wanneer de eerste golf vertrokken is: planningskantoor, chauffeursruimte en douches. Op vrijdag komt een tweede, korter blok voor sanitair en refter na een volle week."
+   ]
+  },
+  {
+   "h2": "Papierwerk bij de planning",
+   "p": [
+    "Vrachtbrieven, facturen van onderaannemers en afspraken met klanten stapelen zich snel op. Je Zondag kan documenten klasseren, post sorteren, dossiers ordenen, gegevens invoeren en kantoormateriaal bestellen. Je planners beslissen zelf over ritten en prijzen. Boekhouding en loonadministratie blijven bij de boekhouder en het sociaal secretariaat."
+   ]
+  },
+  {
+   "h2": "Tarief, factuur en boeken",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief. De factuur gaat naar je vennootschap, met btw-nummer. Het onderhoud van je kantoren is in principe een beroepskost, met in principe aftrekbare btw voor een btw-plichtige zaak. Laat je accountant dit bevestigen. Boeken doe je op de <a href=\"boeken.html\">boekpagina</a>."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Kan Zondags mijn vrachtwagens reinigen?", "a": "Nee. Zondags reinigt geen voertuigen, ook geen vrachtwagens, cabines of trailers. We werken in de ruimtes binnen: planningskantoor, chauffeursruimte, refter, douches en sanitair. Voor je wagenpark zoek je een andere partij."},
-  {"q": "Op welke uren komt een poetshulp op een planningskantoor?", "a": "Overdag op weekdagen, vroeg in de ochtend of over de middag. Ook al draait je planning 's avonds en in het weekend door, wij komen enkel overdag. Welk uur past, hangt af van wanneer je planners en chauffeurs aanwezig zijn. Dat leggen we vast in het zondagsplan."},
-  {"q": "Kunnen de douches van mijn chauffeurs in het plan?", "a": "Ja. Vloeren, wanden, kranen, afvoer en het sanitair horen erbij. Wat je team zelf kan doen om geurtjes te vermijden, lees je op <a href=\"sectoren/kleedkamers-en-douches.html\">poetshulp voor kleedkamers en douches</a>."},
-  {"q": "Hoe krijgt mijn Zondag toegang tot het kantoor?", "a": "Dat spreken we af tijdens de intake: een sleutel, een code of een badge, naargelang je gebouw. Je geeft de toegang aan één vaste persoon die je kent, niet aan een wisselende ploeg."},
-  {"q": "Kan dezelfde persoon mijn woning ook doen?", "a": "Ja. De zaakvoerder kan kantoor en woning in één zondagsplan laten opnemen, met dezelfde vaste persoon. De factuur toont het deel voor de zaak en het privédeel apart, zodat je accountant het juist kan verwerken."}
- ]
+  {
+   "q": "Reinigt Zondags ook onze vrachtwagens?",
+   "a": "Nee. Het reinigen van voertuigen valt buiten wat Zondags doet. De Zondag werkt in het gebouw: kantoor, chauffeursruimte, refter, douches en sanitair."
+  },
+  {
+   "q": "Kunnen de douches van onze chauffeurs mee in het plan?",
+   "a": "Ja. Douches, kleedruimte en sanitair horen bij de beurt, met vloeren, wanden en afvoer. Persoonlijke spullen van chauffeurs blijven liggen waar ze liggen."
+  },
+  {
+   "q": "Wat als onze chauffeurs vroeg beginnen of 's nachts werken?",
+   "a": "Je Zondag werkt enkel overdag op weekdagen. Kies een moment waarop de chauffeursruimte leeg is, bijvoorbeeld vroeg in de ochtend of over de middag."
+  },
+  {
+   "q": "Kan onze Zondag documenten van de planning klasseren?",
+   "a": "Ja, als ondersteunend werk: post sorteren, documenten klasseren, dossiers ordenen en gegevens invoeren. Beslissingen over ritten en tarieven blijven bij jullie."
+  },
+  {
+   "q": "Is een vast plan of losse blokken beter voor ons?",
+   "a": "Voor een kantoor en chauffeursruimte die dagelijks gebruikt worden, past een vast wekelijks plan het best. Losse blokken boek je erbij voor drukke weken of na een grote verbouwing."
+  }
+ ],
+ "path": "sectoren/transportbedrijven.html"
 }

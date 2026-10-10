@@ -1,81 +1,86 @@
 {
- "title": "Schoonmaakhulp voor kantoren in Lendelede",
- "desc": "Vaste schoonmaakhulp voor kmo's in Lendelede: kantoor, refter, kleedruimte en sanitair, door één vaste persoon, met één factuur aan je vennootschap.",
+ "path": "regio/schoonmaak-kantoor-lendelede.html",
+ "title": "Schoonmaakhulp voor kantoren in Lendelede (8860)",
+ "desc": "Schoonmaakhulp voor kmo's in Lendelede met refter, kleedruimte en sanitair voor de ploeg. Eén vaste persoon, 60 euro per uur exclusief btw, online te boeken.",
  "eyebrow": "Lendelede · 8860",
  "h1": "Schoonmaakhulp voor kantoren in Lendelede",
- "lead": "Een kmo in Lendelede heeft meer dan bureaus: een refter, een kleedruimte, sanitair voor de ploeg. Eén vaste Zondag houdt dat allemaal bij.",
- "answer": "Zondags (zondags.be) levert in Lendelede schoonmaakhulp voor kantoren en kmo's: wekelijks of tweewekelijks onderhoud van bureaus, vergaderruimte, keuken of refter, sanitair, vloeren en afval, door dezelfde vaste persoon, overdag op weekdagen. Je krijgt één dienstenfactuur op naam van je vennootschap. De eerste 2 uur zijn gratis en het plan is maandelijks opzegbaar.",
+ "lead": "Een kmo in Lendelede met een kantoor, een refter en een kleedruimte heeft veel vierkante meters waar dagelijks voeten, handen en koffiekoppen passeren. Een vaste Zondag houdt dat bij.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp voor kmo's in Lendelede met kantoor, refter, kleedruimte en sanitair voor de ploeg. Eén vaste persoon, je Zondag, komt wekelijks of tweewekelijks overdag op een weekdag en onderhoudt de kantoren, de gemeenschappelijke ruimtes en de vloeren. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw, met een factuur op naam van je vennootschap.",
  "facts": [
-  "Kantoor, refter en sanitair",
-  "Wekelijks of tweewekelijks",
-  "Steeds dezelfde Zondag",
-  "Overdag op weekdagen",
-  "Factuur aan je vennootschap",
-  "Eerste 2 uur gratis"
+  "Kmo's in Lendelede",
+  "Kantoor, refter, kleedruimte, sanitair",
+  "Gemeenschappelijke ruimtes voor de ploeg",
+  "Factuur op naam van je vennootschap",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
  ],
  "sections": [
   {
-   "h2": "Meer dan bureaus alleen",
+   "h2": "Een kmo met een ploeg heeft meer ruimtes dan een kantoor",
    "p": [
-    "Een kmo in Lendelede werkt vaak met een gemengd team: mensen op kantoor, mensen in het magazijn of de werkplaats, en een refter waar iedereen samenkomt. Het kantoorgedeelte is snel gepoetst. De refter, de kleedruimte en het sanitair voor de ploeg vragen meer aandacht, en die tijd heeft niemand over.",
-    "Een vaste Zondag neemt dat op zich. Je krijgt geen wisselende ploeg die elke keer opnieuw moet leren waar alles staat, maar één persoon die de vaste gewoontes van je bedrijf kent."
+    "Een kantoor met enkel bureaus is relatief eenvoudig te onderhouden. Zodra er een ploeg is die in en uit loopt, komen er ruimtes bij: een refter waar gegeten wordt, een kleedruimte, een douche of sanitair dat veel gebruikt wordt. Die ruimtes verslijten sneller en worden sneller vies.",
+    "In Lendelede zijn er genoeg kmo's met die opbouw: een kantoorgedeelte voor de zaakvoerder en de administratie, en daarnaast de ruimtes voor de ploeg. Een vaste Zondag onderhoudt beide delen volgens een eigen planning per ruimte."
    ]
   },
   {
-   "h2": "Wat er elke beurt gebeurt",
+   "h2": "Neem een accountantskantoor met zes medewerkers",
    "p": [
-    "<ul class=\"ticks\"><li>Bureaus, vergaderruimte en onthaal</li><li>Refter: tafels, stoelen, koelkast, microgolf en koffiemachine</li><li>Kleedruimte: vloeren en banken</li><li>Sanitair: toiletten, lavabo's en spiegels</li><li>Vuilnis sorteren en buiten zetten</li></ul>",
-    "Productiehallen, werken op hoogte en industriële reiniging vallen erbuiten. Het gaat om het onderhoud van het kantoor en de gemeenschappelijke ruimtes. Afspraken over de ruimtes die je zelf wil laten staan, noteer je in het zondagsplan."
+    "Neem een accountantskantoor met zes medewerkers. Daar is geen kleedruimte, maar wel een keuken waar iedereen elke dag koffie haalt, een vergaderzaal voor cliënten en een sanitair dat zes mensen delen. In de drukke maanden rond de aangiftes blijft het team langer en wordt de keuken zwaarder belast.",
+    "Op maandagochtend komt de Zondag langs, vóór de week begint: bureaus, keuken, sanitair, vergaderzaal en vloeren. In de aangifteperiode boek je een bijkomend blok, zodat de keuken ook midden in de week op orde blijft."
    ]
   },
   {
-   "h2": "Voorbeeld: een accountantskantoor met zes medewerkers",
+   "h2": "Verdeling per ruimte",
    "p": [
-    "Stel: je hebt een accountantskantoor in Lendelede met zes medewerkers. Er is een kleine refter waar het team samen lunch eet, een keuken en een toilet voor personeel en bezoek. Tijdens de drukke periodes wordt er langer doorgewerkt en blijft de keuken er sneller uitzien als een slagveld.",
-    "Je Zondag komt op een vaste dag, bijvoorbeeld voor de ochtendvergadering. Wil je dezelfde persoon ook in je woning, voor de was en de strijk, dan kan dat in hetzelfde plan, met een gesplitste factuur. Meer algemene uitleg vind je op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."
+    "<ul class=\"ticks\"><li>Kantoor en bureaus: wekelijks afnemen en stofzuigen</li><li>Refter: tafels, aanrecht en frigo wekelijks</li><li>Kleedruimte en sanitair: de ruimtes met de meeste gebruikers</li><li>Vergaderzaal: op afspraak klaarzetten voor klantenbezoek</li><li>Vloeren: stofzuigen en nat dweilen volgens plan</li><li>Afval en papier: buiten zetten op de afgesproken dag</li></ul>",
+    "Zo verschilt de aanpak per ruimte, naar het gebruik. Meer over de ideale frequentie lees je in <a href=\"vragen/hoe-vaak-kantoor-poetsen.html\">hoe vaak je een kantoor poetst</a>."
    ]
   },
   {
-   "h2": "Lendelede en de omliggende gemeenten",
+   "h2": "Afspraken met de ploeg",
    "p": [
-    "Lendelede heeft postcode 8860. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk. We zoeken een Zondag in en rond Lendelede. Ook voor zaken in Kuurne, Heule, Izegem, Ingelmunster en Moorsele kan je een aanvraag doen. Of er voor jouw dag en uur al iemand klaarstaat, bekijken we samen in het eerste gesprek, zonder dat we dat vooraf beloven."
+    "Een schoon gebouw is een gedeeld resultaat. Spreek met de ploeg een paar eenvoudige gewoonten af, zoals schoenen of laarzen uitkloppen bij de ingang, afval in de juiste bak en de refter leeg achterlaten na de middagpauze.",
+    "Je Zondag doet het onderhoud, niet het opruimen van andermans spullen. Met die verdeling blijft het werk beperkt en verloopt elke beurt vlot."
    ]
   },
   {
-   "h2": "Boekhoudkundig netjes",
+   "h2": "Lendelede en de buurgemeenten",
    "p": [
-    "Een vennootschap kan geen dienstencheques kopen, die zijn er alleen voor particulieren. Zondags factureert via een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van beroepsruimtes is een beroepskost. Voor het privégedeelte, als je ook je woning laat doen, geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren.",
-    "De btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte in principe niet. Laat je accountant dit bevestigen voor je eigen situatie."
+    "Lendelede is een zelfstandige gemeente met postcode 8860. Ligt je bedrijf in Kuurne, Heule, Izegem, Ingelmunster of Moorsele, dan bekijken we samen wat past. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk, en is actief in heel West- en Oost-Vlaanderen."
    ]
   },
   {
-   "h2": "Zo begin je",
+   "h2": "Prijs, factuur en btw",
    "p": [
-    "Je vult het formulier in of chat met ons. Binnen één werkdag belt iemand je terug. Daarna komen we langs voor de intake en maken we samen het zondagsplan. Bij ziekte of verlof van je Zondag zoeken we een oplossing, zonder een vervanger te beloven. Klikt het niet, dan zoeken we samen een andere Zondag."
+    "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur dus 180 euro exclusief btw. Extra uren kosten hetzelfde. Je krijgt een dienstenfactuur op naam van je vennootschap met je btw-nummer.",
+    "Poetshulp voor de zaak is in principe een beroepskost, en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant dit bevestigen voor je eigen situatie. Aanvragen kan via de <a href=\"boeken.html\">boekpagina</a>."
    ]
   }
  ],
  "faq": [
   {
    "q": "Welk bedrijf levert schoonmaakhulp voor kantoren in Lendelede?",
-   "a": "Zondags levert in Lendelede vaste schoonmaakhulp voor kantoren en kmo's, overdag op weekdagen. Je krijgt steeds dezelfde persoon en een factuur op naam van je vennootschap."
+   "a": "Zondags levert vanuit Marke vaste schoonmaakhulp voor kantoren, praktijken en winkels in Lendelede. Je krijgt steeds dezelfde persoon op een vaste dag, met een factuur op naam van je bedrijf."
   },
   {
-   "q": "Poetst Zondags ook de refter en het sanitair voor de ploeg?",
-   "a": "Ja, refter, kleedruimte en sanitair horen bij het onderhoud van een kmo-kantoor. Productiehallen en industriële reiniging doen we niet."
+   "q": "Kan ook de refter en kleedruimte van mijn kmo gepoetst worden?",
+   "a": "Ja. Refter, kleedruimte en sanitair voor de ploeg horen bij het gewone werk, naast de kantoren. Productieruimtes en industriële reiniging vallen erbuiten."
   },
   {
-   "q": "Kan ik een extra beurt boeken tijdens drukke periodes?",
-   "a": "Ja, uren bijboeken of het plan aanpassen kan. Ook een losse opdracht, zoals een grote poetsbeurt, is mogelijk naast je vaste plan."
+   "q": "Wat kost schoonmaakhulp voor een kmo in Lendelede?",
+   "a": "Je betaalt 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde uurtarief."
+  },
+  {
+   "q": "Hoe vaak moet een refter gepoetst worden?",
+   "a": "Bij intensief gebruik is wekelijks aan te raden, in kleinere teams volstaat tweewekelijks. Je stemt het af met je Zondag en past het later aan als het gebruik verandert."
+  },
+  {
+   "q": "Kan ik extra uren boeken in een drukke periode?",
+   "a": "Ja. Extra uren boek je aan hetzelfde tarief van 60 euro per uur exclusief btw, via de boekpagina of in overleg."
   },
   {
    "q": "Wat gebeurt er als mijn Zondag ziek is?",
-   "a": "Dan zoeken wij een oplossing. Een vervanger beloven we niet, maar je blijft niet zonder antwoord zitten. Je weet vooraf hoe we dat aanpakken, want we bespreken het in de intake."
-  },
-  {
-   "q": "Is het onderhoud van mijn kantoor een beroepskost?",
-   "a": "Het onderhoud van beroepsruimtes is een beroepskost. Je accountant bevestigt hoe dat voor jouw vennootschap werkt, ook voor het privégedeelte en de btw."
+   "a": "Bij ziekte of verlof zoeken wij een oplossing, een vaste vervanging beloven we niet. Klikt het niet met je Zondag, dan zoeken we samen een andere persoon."
   }
- ],
- "path": "regio/schoonmaak-kantoor-lendelede.html"
+ ]
 }

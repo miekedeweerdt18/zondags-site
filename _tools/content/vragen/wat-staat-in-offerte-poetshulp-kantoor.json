@@ -1,86 +1,79 @@
 {
  "path": "vragen/wat-staat-in-offerte-poetshulp-kantoor.html",
- "title": "Wat moet er in een offerte voor poetshulp staan?",
- "desc": "Een checklist voor de offerte van poetshulp op kantoor: ruimtes, taken, dagen, uren, materiaal, opzegging en factuur, zodat je offertes goed kan vergelijken.",
+ "title": "Wat staat er in een goede offerte voor poetshulp?",
+ "desc": "Wat moet er in een offerte voor poetshulp op kantoor staan? Een checklist met taken, frequentie, uren, prijs, btw, vervanging en looptijd, en hoe Zondags werkt.",
  "eyebrow": "Vraag",
  "h1": "Wat moet er in een offerte voor poetshulp op kantoor staan?",
- "lead": "Een goede offerte is een duidelijke afspraak op papier. Met deze lijst weet je waar je op moet letten voor je tekent.",
- "answer": "Een offerte voor poetshulp op kantoor vermeldt best de ruimtes en taken, de dagen en uren, wie het materiaal voorziet, de duur en opzegging, de factuurwijze en wat er niet bij hoort. Zondags (zondags.be) werkt op maat na een kort gesprek en legt dat vast in het zondagsplan. De eerste 2 uur zijn gratis, het plan is maandelijks opzegbaar.",
+ "lead": "Een goede offerte noemt wie levert, wat er gebeurt, hoe vaak, in welke uren, tegen welke prijs en onder welke voorwaarden. Ontbreekt een van die punten, dan vraag je het na voor je tekent.",
+ "answer": "Een offerte voor poetshulp op kantoor bevat de gegevens van beide bedrijven, een beschrijving van taken en ruimtes, de frequentie en uren, de prijs exclusief btw, de btw, materiaalafspraken, vervanging bij afwezigheid en de looptijd met opzegvoorwaarden. Zondags (zondags.be) toont dit bij het boeken: 60 euro per uur exclusief btw, per blok van 3 uur.",
  "facts": [
-  "Ruimtes en taken duidelijk",
-  "Dagen en uren vast",
-  "Materiaal: wie voorziet",
-  "Opzegging en duur",
-  "Wat niet inbegrepen is"
+  "Gegevens van beide bedrijven en btw-nummers",
+  "Taken, ruimtes en frequentie",
+  "Prijs exclusief btw en betaalwijze",
+  "Vervanging, looptijd en opzeg",
+  "60 euro per uur, per blok van 3 uur"
  ],
  "sections": [
   {
-   "h2": "Ruimtes en taken",
+   "h2": "De bouwstenen van een offerte",
    "p": [
-    "Een vage offerte leidt tot discussies. Vraag daarom dat de ruimtes en taken duidelijk beschreven staan: welke bureaus, welke vergaderzaal, de keuken, het sanitair, de vloeren. Hoe preciezer, hoe minder gedoe achteraf.",
-    "<ul class=\"ticks\"><li>Welke ruimtes worden gepoetst</li><li>Welke taken per ruimte, bijvoorbeeld afnemen, stofzuigen, dweilen</li><li>Hoe vaak, wekelijks of tweewekelijks</li><li>Wat er extra bij kan, zoals ramen langs binnen</li></ul>",
-    "Voor een eerste offerte bekijken we je kantoor samen tijdens de intake. Je loopt met ons door de ruimtes en geeft aan wat voor jou belangrijk is, daarna wordt het plan opgemaakt."
+    "<ul class=\"ticks\"><li>Wie is wie: naam, adres en btw-nummer van beide partijen</li><li>De taken per ruimte, en wat niet inbegrepen is</li><li>De frequentie, dagen en uren van de beurten</li><li>De prijs: uurtarief of forfait, exclusief btw</li><li>De btw en de betaalwijze</li><li>Het materiaal: wie voorziet producten en machines</li><li>De vervanging bij ziekte en verlof</li><li>De looptijd, opzegtermijn en voorwaarden</li></ul>"
    ]
   },
   {
-   "h2": "Dagen, uren en wie komt",
+   "h2": "Taken en frequentie: de kern",
    "p": [
-    "Vraag naar vaste dagen en uren, en of het steeds dezelfde persoon is. Bij Zondags is dat zo: een vaste Zondag, gescreend en in dienst van Zondags, op een vaste dag en een vast uur, overdag op weekdagen.",
-    "Staat er in de offerte een formule als 'ploeg naar keuze', dan weet je dat het per bezoek kan wisselen. Wil je liever dezelfde persoon, vraag het dan expliciet.",
-    "Vraag ook wat er gebeurt als je Zondag ziek is of op verlof gaat. Bij Zondags zoeken we dan een oplossing, zonder een vervanger te beloven. Dat staat liever vooraf duidelijk dan dat je het op het moment zelf ontdekt."
+    "Het hart van de offerte is wat er concreet gebeurt. Vage zinnen als het kantoor wordt onderhouden laten ruimte voor discussie. Beter is: bureaus afnemen, vloeren dweilen, keuken en sanitair reinigen, afval buiten zetten, glas langs binnen één keer per maand. Zo kan je later nagaan of het werk is gedaan."
    ]
   },
   {
-   "h2": "Materiaal en producten",
+   "h2": "Prijs en btw zichtbaar uit elkaar",
    "p": [
-    "Een offerte moet zeggen wie het poetsmateriaal en de producten voorziet. Zijn het die van het bedrijf, of gebruikt de poetshulp die van het kantoor? Bij Zondags bespreken we dat in de intake en leggen we het vast in het zondagsplan, zodat het vanaf dag één duidelijk is."
+    "Een goede offerte toont het tarief exclusief btw en de btw apart. Voor een btw-plichtige zaak is de btw in principe recupereerbaar, voor een vrijgestelde praktijk meestal niet. Daarom wil je weten welk bedrag welk is.",
+    "Laat je accountant de offerte inkijken als het om een langlopende afspraak gaat. Hij ziet snel of de btw en de verdeling kloppen."
    ]
   },
   {
-   "h2": "Wat niet inbegrepen is",
+   "h2": "Een voorbeeld van een duidelijke omschrijving",
    "p": [
-    "Even belangrijk als wat erin zit, is wat eruit blijft. Bij Zondags horen technische klussen, werken op hoogte, gevelreiniging, ramen langs buiten op hoogte, industriële reiniging en bouwopkuis niet in het plan. Sterilisatie en medisch materiaal blijven bij de praktijk.",
-    "Vraag dat zulke uitsluitingen op papier staan, zodat er achteraf geen misverstand is."
+    "Neem een kantoor met zes werkplekken. In plaats van wekelijks poetsen staat er: elke dinsdag van acht tot elf uur, bureaus, vergaderzaal, keuken, sanitair en vloeren, afval buiten. Dat is niet langer, maar wel veel preciezer. Je team weet wanneer het kantoor vrij moet zijn en je kan elke beurt eraan toetsen."
    ]
   },
   {
-   "h2": "Duur, opzegging en wijzigen",
+   "h2": "Voorwaarden die je niet overslaat",
    "p": [
-    "Let op de looptijd. Een jaarcontract met een lange opzegtermijn legt je vast. Bij Zondags is het plan maandelijks opzegbaar, kan je uren bijboeken of afbouwen en kan je losse opdrachten boeken. Past je Zondag niet, dan zoeken we samen een andere Zondag."
+    "Lees ook het kleine drukwerk. Hoe lang is de offerte geldig? Wat is de opzegtermijn en moet je een reden opgeven? Wat gebeurt er met een beurt die je zelf annuleert? Kan het tarief tijdens de looptijd stijgen? Een offerte die deze punten helder beantwoordt, toont dat de firma voor een lange samenwerking gaat.",
+    "Hou een kopie van de getekende versie bij je administratie, zodat je boekhouder en jij dezelfde tekst gebruiken."
    ]
   },
   {
-   "h2": "Factuur en je accountant",
+   "h2": "Zo ziet het eruit bij Zondags",
    "p": [
-    "Vraag welke factuur je krijgt en op wiens naam. Een vennootschap kan geen dienstencheques kopen. Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap, met beroepsmatig en privé apart als je woning in het plan zit. Het onderhoud van beroepsruimtes is een beroepskost. Laat je accountant je offerte bekijken voor je akkoord geeft.",
-    "Meer over het verschil tussen een vast plan en een eenmalige beurt lees je bij <a href=\"vragen/vaste-poetshulp-of-losse-opdracht.html\">vaste poetshulp of losse opdracht</a>. Je kan een offerte aanvragen via het formulier of de chat, binnen één werkdag bellen we terug."
+    "Bij Zondags kies je op de <a href=\"boeken.html\">boekpagina</a> datum, blokken en taken. Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw. Je krijgt een bevestiging en een factuur op naam van je bedrijf. Bij een vast plan leggen we taken, dagen en uren vast in het zondagsplan, na een kort gesprek.",
+    "Bij ziekte of verlof van je Zondag zoeken we een oplossing. Een vaste vervanger beloven we niet."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Wat moet er in een offerte voor poetshulp op kantoor staan?",
-   "a": "De ruimtes en taken, de dagen en uren, wie het materiaal voorziet, de duur en opzegging, de factuurwijze en wat niet inbegrepen is. Hoe duidelijker, hoe minder discussie achteraf."
+   "q": "Is een offerte bindend?",
+   "a": "Dat hangt af van wat erin staat en hoe lang ze geldig is. Lees de geldigheid en de voorwaarden na en laat ze bij twijfel door je accountant bekijken."
   },
   {
-   "q": "Krijg ik bij Zondags een vaste prijs in de offerte?",
-   "a": "De prijs is op maat, na een kort gesprek. Daarom is er geen standaardprijs. In de offerte staan de afspraken uit het zondagsplan. De eerste 2 uur zijn gratis."
+   "q": "Moet de btw apart in de offerte staan?",
+   "a": "Ja, dat is duidelijker. Zo zie je het bedrag exclusief btw en het bedrag dat je uiteindelijk betaalt. Zondags vermeldt de prijs exclusief btw."
   },
   {
-   "q": "Hoe lang loopt een contract bij Zondags?",
-   "a": "Het plan is maandelijks opzegbaar. Je kan uren bijboeken of afbouwen en losse opdrachten boeken. Past je Zondag niet, dan zoeken we samen een andere Zondag."
+   "q": "Wat als een taak niet in de offerte staat?",
+   "a": "Vraag ze toe te voegen. Voor Zondags pas je het zondagsplan aan of boek je extra uren aan hetzelfde tarief."
   },
   {
-   "q": "Wie voorziet het poetsmateriaal?",
-   "a": "Dat bespreken we in de intake en leggen we vast in het zondagsplan, zodat vanaf het begin duidelijk is wat er al is en wat er nog bij moet."
+   "q": "Staat de vervanging bij ziekte in de offerte?",
+   "a": "Het hoort er in elk geval te staan. Bij Zondags zoeken we een oplossing bij ziekte of verlof, zonder een vaste vervanger te beloven."
   },
   {
-   "q": "Wat hoort niet in een offerte van Zondags?",
-   "a": "Technische klussen, werken op hoogte, gevelreiniging, industriële reiniging en bouwopkuis na werken. Sterilisatie en medisch materiaal blijven bij de praktijk."
-  },
-  {
-   "q": "Op wiens naam is de factuur?",
-   "a": "Op naam van je vennootschap, als gewone dienstenfactuur. Een vennootschap kan geen dienstencheques kopen. Laat je accountant bevestigen hoe het voor jou werkt."
+   "q": "Krijg ik van Zondags een offerte?",
+   "a": "Bij het online boeken zie je vooraf taken en prijs. Voor een vast plan bespreken we de afspraken eerst in een kort gesprek."
   }
  ]
 }

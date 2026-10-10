@@ -1,90 +1,88 @@
 {
  "path": "sectoren/paramedische-praktijken-checklist.html",
  "title": "Schoonmaakchecklist voor paramedische praktijken",
- "desc": "Wat wekelijks, maandelijks en jaarlijks gepoetst wordt in een paramedische praktijk, en wat de praktijk zelf blijft doen. Voor kinesisten, logopedisten en meer.",
- "eyebrow": "Checklist · Paramedisch",
+ "desc": "Wat in een kine-, logo- of diëtistenpraktijk wekelijks, maandelijks en jaarlijks gepoetst wordt, en wat de praktijk zelf blijft doen.",
+ "eyebrow": "Checklist · Paramedische praktijken",
  "h1": "Schoonmaakchecklist voor paramedische praktijken",
- "lead": "Een kinesitherapeut, logopediste of diëtiste wil geen lange lijsten, maar een duidelijk ritme. Deze checklist verdeelt het onderhoud van je praktijk over week, maand en jaar.",
- "answer": "Een schoonmaakchecklist voor paramedische praktijken bij Zondags (zondags.be) verdeelt het onderhoud van kinesitherapeuten, logopedisten, diëtisten, podologen en ergotherapeuten over week, maand en jaar: wachtzaal, behandelruimtes, oefenzaal en sanitair. Je vaste Zondag doet het onderhoud. Sterilisatie en medisch materiaal blijven bij de praktijk zelf.",
+ "lead": "Een bruikbare lijst voor kinesitherapeuten, logopedisten, diëtisten, podologen en ergotherapeuten: wat wekelijks, maandelijks en jaarlijks aan de beurt komt.",
+ "answer": "Een schoonmaakchecklist voor een paramedische praktijk verdeelt het werk in wekelijks (vloeren, behandelruimtes, wachtzaal, sanitair), maandelijks (oefenzaal in detail, ramen langs binnen, kasten) en jaarlijks (een grote beurt voor de zomerstop of het nieuwe jaar). Zondags (zondags.be) laat één vaste Zondag deze lijst afwerken, overdag op weekdagen, aan 60 euro per uur exclusief btw per blok van 3 uur. Wat met de behandeling te maken heeft, blijft bij de praktijk.",
  "facts": [
-  "Wekelijks, maandelijks en jaarlijks ritme",
-  "Wachtzaal, behandelruimtes, oefenzaal",
-  "Geen sterilisatie of medisch materiaal",
-  "Vaste Zondag op vaste dag",
-  "Factuur op de vennootschap"
+  "Lijst per week, maand en jaar",
+  "Behandelruimtes, oefenzaal, wachtzaal",
+  "Wat de praktijk zelf blijft doen",
+  "Overdag op weekdagen",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
  ],
  "sections": [
   {
-   "h2": "Hoe je deze checklist leest",
+   "h2": "Zo gebruik je deze lijst",
    "p": [
-    "Elke praktijk is anders, maar het ritme is meestal gelijk. Wat patiënten dagelijks aanraken, komt wekelijks aan de beurt. Wat zichtbaar slijt, maandelijks. Wat je liever niet vergeet, jaarlijks.",
-    "Gebruik de lijst als vertrekpunt. In de intake passen we ze aan aan jouw praktijk, en daarna staat ze vast in het zondagsplan."
+    "Een kinesitherapeut met een oefenzaal heeft andere accenten dan een diëtist met één spreekkamer. Zie de lijst daarom als vertrekpunt: schrap wat niet past en voeg toe wat in jouw praktijk telt. Wie de lijst aan een vaste Zondag meegeeft, hoeft niets mondeling uit te leggen.",
+    "De indeling volgt het ritme van een praktijk. Wat patiënten dagelijks aanraken, komt wekelijks aan de beurt. Wat zich traag opstapelt, komt maandelijks. Wat een grote beurt vraagt, plan je een keer per jaar."
    ]
   },
   {
    "h2": "Elke week",
    "p": [
-    "<ul class=\"ticks\"><li>Wachtzaal: vloer, zitjes, tafeltjes en deurklinken</li><li>Onthaal en balie</li><li>Behandelruimtes: vloeren en vaste oppervlakken buiten de behandelzone</li><li>Oefenzaal: vloer en toestellen aan de buitenkant afnemen</li><li>Sanitair voor patiënten en team</li><li>Keuken of pauzehoek en afval</li></ul>",
-    "Voor praktijken met veel patiënten per dag kan dat twee keer per week zijn. Dat spreken we samen af.",
-    "Een korte afspraak met je team helpt: wie ruimt het materiaal weg voor de Zondag komt, en welke tafels moeten vrij zijn. Zo kan je Zondag de vloeren en oppervlakken echt bereiken en moet ze niet eerst opruimen."
+    "<ul class=\"ticks\"><li>Vloeren van wachtzaal, gang en behandelruimtes</li><li>Bureaus, tafels en vaste oppervlakken afnemen</li><li>Stoelen, tafels en deurklinken in de wachtzaal</li><li>Wastafels, kranen en spiegels</li><li>Sanitair voor personeel en patiënten</li><li>Onthaal en balie afnemen</li><li>Afvalbakken leegmaken en afval buiten zetten</li></ul>"
    ]
   },
   {
    "h2": "Elke maand",
    "p": [
-    "<ul class=\"ticks\"><li>Ramen en glazen deuren langs binnen</li><li>Plinten, deurkaders en lichtschakelaars</li><li>Kasten en rekken aan de buitenkant</li><li>Vloeren grondiger onderhouden, ook onder meubels</li><li>Frigo van het team nakijken</li></ul>",
-    "Zo'n maandelijkse beurt valt best op een rustige dag, bijvoorbeeld de vrijdag of een dag zonder afspraken, zodat je Zondag overal bij kan."
+    "<ul class=\"ticks\"><li>Oefenzaal grondiger: plinten, hoeken en vloer rond de toestellen</li><li>Ramen en glazen deuren langs binnen</li><li>Deuren, schakelaars en kasten langs de buitenkant</li><li>Teamkeuken en frigo leegmaken en uitwassen</li><li>Radiatoren en vensterbanken stofvrij maken</li><li>Voorraad zeep, papier en koffie nakijken</li></ul>",
+    "Dat laatste lijstpunt is geen poetswerk, maar het past bij een Zondag die toch al rondgaat. Nakijken en bijbestellen is een van de administratieve taken die erbij kunnen."
    ]
   },
   {
-   "h2": "Elk jaar",
+   "h2": "Een keer per jaar",
    "p": [
-    "Eén keer per jaar plan je een grondige beurt: voor of na de zomerstop, voor de herfst of in het nieuwe jaar. Je Zondag neemt dan wat langer de tijd voor de hoeken en kasten die je anders overslaat. Dat kan binnen je vaste plan of als losse opdracht.",
-    "Hygiëne en ontsmetting van vakgereedschap, sterilisatie en medisch materiaal blijven bij de praktijk zelf. Daar gaat Zondags niet aan."
+    "<ul class=\"ticks\"><li>Grote beurt voor de zomerstop of aan het begin van het nieuwe jaar</li><li>Alle vloeren grondig behandelen</li><li>Wachtzaalmeubilair en kasten volledig leegmaken en afnemen</li><li>Archief en kasten met dossiers ordenen op papier</li><li>Kantoormateriaal en voorraden overlopen</li></ul>",
+    "Heb je meer tijd nodig voor zo'n grote beurt, dan boek je extra uren aan hetzelfde uurtarief. Een voorbeeld van zo'n jaarlijkse beurt lees je op <a href=\"sectoren/checklist-praktijk-proper-het-nieuwe-jaar-in.html\">de checklist voor een praktijk die proper het nieuwe jaar in gaat</a>."
    ]
   },
   {
    "h2": "Wat de praktijk zelf blijft doen",
    "p": [
-    "<ul class=\"ticks\"><li>Instrumenten, materiaal en medisch materiaal</li><li>Patiëntendossiers en administratie</li><li>Technische apparatuur en toestellen zelf</li><li>Ontsmetting tussen twee patiënten</li></ul>",
-    "Wat dat voor jouw beroep precies inhoudt, bepaal je zelf en volgens je eigen richtlijnen. Je Zondag raakt die zaken niet aan."
+    "<ul class=\"ticks\"><li>Ontsmetting van behandeltafels en toestellen na elke patiënt</li><li>Alles wat met medisch materiaal of sterilisatie te maken heeft</li><li>Het vakmateriaal van elke zorgverlener</li><li>De dossiers van je patiënten</li></ul>",
+    "De scheiding is simpel. Je Zondag onderhoudt de ruimte, jij en je team blijven verantwoordelijk voor alles wat rechtstreeks bij de behandeling hoort."
    ]
   },
   {
-   "h2": "Stel: een podoloog in een omgebouwd huis",
+   "h2": "Ter vergelijking: een IT-consultant met vijf mensen",
    "p": [
-    "Neem een podoloog met een praktijk in een omgebouwd huis. De wachtkamer was vroeger een woonkamer, de behandelkamer een bureau. Het gezin woont erboven.",
-    "Zijn Zondag komt op vrijdag, wanneer de praktijk dicht is. Wachtkamer, onthaal en sanitair eerst, dan de behandelkamer, daarna het gezinsdeel. Wat bij de praktijk hoort en wat privé is, staat apart op de factuur. Een IT-consultant met een thuiskantoor werkt volgens hetzelfde principe: eerst de werkruimte, dan de rest van het huis. Lees ook <a href=\"sectoren/paramedische-praktijken.html\">poetshulp voor paramedische praktijken</a>."
+    "Neem een IT-consultant met een kantoor voor vijf mensen. Zijn lijst is korter: bureaus, keuken en sanitair, een vergadertafel. Er is geen wachtzaal en geen oefenzaal, en niemand stapt binnen met natte schoenen of een sporttas.",
+    "Het verschil toont waarom een paramedische praktijk een eigen lijst nodig heeft. Er zijn meer natte ruimtes, meer bezoekers en meer oppervlakken die iedereen aanraakt, dus de wekelijkse lijst is langer en de wachtzaal staat bovenaan."
    ]
   },
   {
-   "h2": "Factuur en start",
+   "h2": "Prijs en boeken",
    "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Je krijgt een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van beroepsruimtes is een beroepskost. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Voor het privégedeelte geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en via een onderneming met mensen in dienst gebeuren. Laat je accountant dit bevestigen.",
-    "Vraag aan via het formulier of de chat. Binnen één werkdag belt iemand terug, daarna volgen de intake en het zondagsplan. De eerste 2 uur zijn gratis."
+    "Je betaalt 60 euro per uur exclusief btw en boekt per blok van 3 uur, dus 180 euro exclusief btw. Je krijgt een dienstenfactuur op naam van je vennootschap. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren, een btw-plichtige zaak in principe wel. Laat je accountant dat bevestigen. Wil je starten, boek dan via de <a href=\"boeken.html\">boekpagina</a> of bel 0470 56 53 58."
    ]
   }
  ],
  "faq": [
   {
    "q": "Hoe vaak moet een paramedische praktijk gepoetst worden?",
-   "a": "Voor de meeste praktijken is wekelijks een goed vertrekpunt, bij veel patiënten twee keer per week. Maandelijks komt de grondiger beurt, jaarlijks de grote beurt. Dat stel je samen met je Zondag vast."
+   "a": "Wachtzaal, behandelruimtes en sanitair meestal wekelijks, soms vaker bij veel patiënten. Oefenzaal in detail, ramen en kasten maandelijks. Een grote beurt een keer per jaar."
   },
   {
-   "q": "Wat doet Zondags niet in een praktijk?",
-   "a": "Sterilisatie, ontsmetting van vakgereedschap en medisch materiaal blijven bij de praktijk. Ook technische klussen en werken op hoogte doen we niet. Je Zondag onderhoudt de ruimtes zelf."
+   "q": "Wat poetst een Zondag in een kinesistenpraktijk?",
+   "a": "Vloeren, wachtzaal, oppervlakken, sanitair, teamkeuken en de oefenzaal rond de toestellen. Ontsmetting van behandeltafels en toestellen blijft bij de praktijk."
   },
   {
-   "q": "Kan mijn Zondag de oefenzaal ook doen?",
-   "a": "Ja, de vloer en de buitenkant van toestellen en kasten. Hoe de toestellen zelf onderhouden worden, blijft bij de praktijk. Dat leggen we vast in het zondagsplan."
+   "q": "Doet Zondags ook ontsmetting of sterilisatie?",
+   "a": "Nee. Sterilisatie en medisch materiaal vallen buiten het werk van Zondags. Je Zondag onderhoudt de ruimte, de zorgverlener beheert het materiaal."
   },
   {
-   "q": "Kan mijn woning in hetzelfde plan?",
-   "a": "Ja. Praktijk en woning kunnen in één plan met dezelfde persoon. De factuur splitst beroepsmatig en privé, zodat je accountant het correct kan verwerken."
+   "q": "Kan ik deze lijst aanpassen aan mijn praktijk?",
+   "a": "Ja. Het zondagsplan is maatwerk. Je kiest samen welke taken, dagen en uren, en je past het plan later aan als je praktijk verandert."
   },
   {
-   "q": "Op welk moment komt de Zondag?",
-   "a": "Overdag op weekdagen, vroeg in de ochtend of over de middag, wanneer je praktijk dicht is of rustig. 's Avonds en in het weekend werken we niet."
+   "q": "Wat kost het onderhoud van een paramedische praktijk?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, geboekt per blok van 3 uur. Dat is 180 euro exclusief btw per blok, en extra uren kosten hetzelfde uurtarief."
   }
  ]
 }

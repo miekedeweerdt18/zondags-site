@@ -1,81 +1,88 @@
 {
  "path": "sectoren/bouwbedrijven-checklist.html",
  "title": "Schoonmaakchecklist voor bouwbedrijven",
- "desc": "Een concrete poetschecklist voor het kantoor, de refter en de kleedruimte van je bouwbedrijf: wat wekelijks, maandelijks en jaarlijks aan de beurt komt.",
- "eyebrow": "Checklist · bouwbedrijven",
+ "desc": "Een lijst voor het kantoor, de refter en de kleedruimte van een bouwbedrijf: wat wekelijks, maandelijks en jaarlijks gepoetst wordt.",
+ "eyebrow": "Checklist · Bouwbedrijven",
  "h1": "Schoonmaakchecklist voor bouwbedrijven",
- "lead": "Op de werf zit het stof in de laarzen, op kantoor zit het in de agenda. Deze checklist ordent wat op kantoor, in de refter en in de kleedruimte wanneer aan bod komt.",
- "answer": "Een poetschecklist voor een bouwbedrijf onderscheidt wat wekelijks gebeurt (kantoor, refter, sanitair, ingang), wat maandelijks aan de beurt komt (kleedruimte, kasten, vloeren grondig) en wat jaarlijks (grote beurt, ramen binnen). Zondags (zondags.be) doet dat onderhoud met één vaste Zondag, overdag op weekdagen. Een werf- of bouwopkuis doen we niet.",
+ "lead": "Modder en stof van de werf komen mee naar binnen, ook in een goed georganiseerd bouwbedrijf. Deze lijst toont wat in kantoor, refter en kleedruimte wanneer aan de beurt komt.",
+ "answer": "Een schoonmaakchecklist voor een bouwbedrijf richt zich op de plekken waar de werf het kantoor binnenkomt: wekelijks de ingang, kantoor, refter en kleedruimte; maandelijks sanitair in detail en ramen langs binnen; jaarlijks een grote beurt vlak voor of na het bouwverlof. Zondags (zondags.be) laat één vaste Zondag dit werk doen aan 60 euro per uur exclusief btw per blok van 3 uur. De werf zelf en bouwopkuis horen er niet bij.",
  "facts": [
-  "Wekelijks, maandelijks, jaarlijks",
   "Kantoor, refter en kleedruimte",
-  "Modder en stof aan de ingang",
+  "Ingang met modder en stof",
   "Geen werf- of bouwopkuis",
-  "Factuur aan je vennootschap"
+  "Overdag op weekdagen",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
  ],
  "sections": [
   {
-   "h2": "Wat een bouwbedrijf anders maakt",
+   "h2": "Waar de werf het kantoor binnenkomt",
    "p": [
-    "In een bouwbedrijf komt de werf elke dag mee naar binnen: modder aan de laarzen, stof op de kleren, zand in de gang. Daarom ligt het zwaartepunt bij de ingang, de refter, de kleedruimte en het sanitair, naast het gewone kantoorwerk. Wat op de werf zelf gebeurt, valt buiten dit plan. Een werf- of bouwopkuis na werken doet Zondags niet.",
-    "Wat wel kan: de ruimtes van je bedrijf zelf, op vaste momenten, door één vaste persoon. De checklist hieronder is een startpunt dat je samen met ons aanpast aan jouw zaak."
+    "Een bouwbedrijf heeft twee werelden: de werf en het kantoor. Maar de werf blijft nooit buiten. Zand aan de laarzen, cementstof op de jassen, natte voetafdrukken in de gang. Wie het kantoor wekelijks laat onderhouden, merkt vooral op de ingang, in de refter en in de kleedruimte verschil.",
+    "De lijst hieronder is bedoeld voor dat gedeelte van je bedrijf: de ruimtes waar je team en je klanten komen. De werf zelf, bouwopkuis na werken en alles wat industriële reiniging vraagt, valt erbuiten."
    ]
   },
   {
-   "h2": "Wekelijks: het ritme van de week",
+   "h2": "Elke week",
    "p": [
-    "<ul class=\"ticks\"><li>Ingang en mat: modder en zand verwijderen</li><li>Kantoor: bureaus, vloeren, afval</li><li>Refter: tafels, koelkast, microgolf, koffiemachine</li><li>Sanitair en handwasbakken</li><li>Gang naar de kleedruimte</li><li>Afval en recyclage buiten zetten</li></ul>",
-    "Dit is het deel dat het meest opvalt wanneer het niet gebeurt. Een vaste Zondag komt op een afgesproken dag, bijvoorbeeld vroeg in de ochtend wanneer de ploegen nog niet terug zijn of over de middag wanneer iedereen op de werf zit. Het precieze moment leggen we samen vast in je zondagsplan. Meer over de sector lees je op <a href=\"sectoren/bouwbedrijven.html\">poetshulp voor bouwbedrijven</a>."
+    "<ul class=\"ticks\"><li>Ingang en vloermat, vloeren in de gang</li><li>Kantoor: bureaus, vergadertafel en onthaal</li><li>Refter: tafels, stoelen, aanrecht en microgolf</li><li>Kleedruimte: banken, kapstokken en vloer</li><li>Sanitair en douche</li><li>Afval en recyclage buiten zetten</li></ul>"
    ]
   },
   {
-   "h2": "Maandelijks: wat zich opstapelt",
+   "h2": "Elke maand",
    "p": [
-    "<ul class=\"ticks\"><li>Kleedruimte: kasten, banken, vloer grondig</li><li>Douches en wasruimte, indien aanwezig, grondig</li><li>Vloeren onder meubilair en plinten</li><li>Afwasmachine en koffiemachine grondig reinigen</li><li>Archiefkast en vergaderruimte afstoffen</li></ul>",
-    "Voor kleedruimtes en douches lees je ook <a href=\"sectoren/kleedkamers-en-douches.html\">kleedkamers en douches</a>."
+    "<ul class=\"ticks\"><li>Ramen en glazen deuren langs binnen</li><li>Plinten, deuren en schakelaars</li><li>Frigo in de refter leegmaken en uitwassen</li><li>Lockers en kasten aan de buitenkant afnemen</li><li>Vloer in de kleedruimte grondig doorspoelen</li><li>Voorraad zeep, papier en koffie nakijken</li></ul>",
+    "Van zodra de werven drukker worden, loont het om de maandelijkse beurt één keer extra te doen. Je Zondag past het plan aan als de ploeg groter of kleiner wordt."
    ]
   },
   {
-   "h2": "Jaarlijks: de grote beurt",
+   "h2": "Een keer per jaar",
    "p": [
-    "<ul class=\"ticks\"><li>Alle vloeren grondig</li><li>Ramen en glazen deuren langs binnen</li><li>Kasten, rekken en archief afstoffen</li><li>Zetels en stoelen reinigen</li><li>Refter en keuken volledig uitruimen en reinigen</li></ul>",
-    "Een goed moment is tijdens het bouwverlof, wanneer de ploegen weg zijn. Meer lees je op <a href=\"sectoren/poetshulp-tijdens-bouwverlof.html\">poetshulp tijdens het bouwverlof</a>. Zo'n grote beurt kan als losse opdracht, naast een vast plan."
+    "<ul class=\"ticks\"><li>Grote beurt vlak voor of na het bouwverlof</li><li>Alle vloeren grondig behandelen</li><li>Archief en kasten met papieren documenten ordenen</li><li>Kantoormateriaal en voorraad overlopen</li></ul>",
+    "Wat zo'n beurt inhoudt, lees je in de <a href=\"sectoren/checklist-kantoor-voor-het-bouwverlof.html\">checklist voor het kantoor voor het bouwverlof</a>."
    ]
   },
   {
-   "h2": "Wat je zelf blijft doen",
+   "h2": "Wat het bedrijf zelf blijft doen",
    "p": [
-    "Een Zondag poetst de ruimtes. Het materiaal van je werf, gereedschap, helmen en machines, laat je zelf op orde houden. Werkkledij die op de werf vuil wordt, kan je eventueel in het plan opnemen als was en strijk. Technische werken en werken op hoogte doen we niet.",
-    "Neem een aannemer met een kantoor aan de straat, een refter achteraan en een kleedruimte voor de ploeg. Op de werf werkt het team met eigen gereedschap en machines. Wat binnen staat, is voor de Zondag: de ruimtes waar je klanten, je medewerkers en je administratie zitten. Zo houd je de grens helder: de werf is van de ploeg, het gebouw is van je Zondag."
+    "<ul class=\"ticks\"><li>De werf, de werfkeet en het materiaal van de ploeg</li><li>Opkuis na werken bij klanten</li><li>Voertuigen, machines en gereedschap</li><li>Het kuisen van werkkledij</li></ul>",
+    "Die grens is helder, en zo blijft de rest overzichtelijk. Je Zondag zorgt dat kantoor, refter en kleedruimte in orde zijn, jij houdt de werf in handen."
    ]
   },
   {
-   "h2": "Zo start je en zo wordt het gefactureerd",
+   "h2": "Een interieurzaak met een toonzaal als tegenhanger",
    "p": [
-    "Je vraagt het aan via het formulier of de chat, en binnen één werkdag belt iemand je terug. Na de intake leggen we je zondagsplan vast. De eerste 2 uur zijn gratis. Een vennootschap kan geen dienstencheques kopen; Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van het kantoor is een beroepskost, en laat je accountant dit bevestigen voor je eigen situatie."
+    "Neem een interieurzaak met een toonzaal. Daar draait alles om stalen, meubels en een etalage die er elke ochtend perfect moet uitzien. Het bouwbedrijf heeft een ander accent: robuuste vloeren, veel passage, een refter die elke middag vol zit.",
+    "Het verschil in uitstraling vraagt een ander plan. Een toonzaal vraagt precisie bij het afstoffen, een bouwbedrijf vraagt een stevige aanpak van de ingang en de kleedruimte."
+   ]
+  },
+  {
+   "h2": "Prijs en boeken",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, geboekt per blok van 3 uur. Dat is 180 euro exclusief btw per blok, en extra uren kosten hetzelfde. De factuur komt op naam van je vennootschap en het onderhoud is in principe een beroepskost. Laat je accountant bevestigen hoe dat voor jouw situatie werkt. Boek op de <a href=\"boeken.html\">boekpagina</a> of bel 0470 56 53 58."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Wat zet ik op een poetschecklist voor een bouwbedrijf?",
-   "a": "Wekelijks de ingang, het kantoor, de refter en het sanitair. Maandelijks de kleedruimte, de vloeren en de koffiemachine. Jaarlijks een grote beurt met ramen binnen en kasten. Een werf- of bouwopkuis valt erbuiten."
+   "q": "Hoe vaak moet het kantoor van een bouwbedrijf gepoetst worden?",
+   "a": "Ingang, kantoor, refter en sanitair meestal wekelijks. In drukke periodes kan een extra blok nodig zijn. Ramen en kasten in detail maandelijks, een grote beurt een keer per jaar."
   },
   {
-   "q": "Doet Zondags ook de werf of een bouwopkuis?",
-   "a": "Nee. Zondags poetst de ruimtes van je bedrijf zelf, zoals kantoor, refter, kleedruimte en sanitair. Een werf- of bouwopkuis na werken doen we niet."
+   "q": "Poetst Zondags ook de werf of de bouwplaats?",
+   "a": "Nee. Werf, werfkeet en bouwopkuis na werken vallen buiten het werk van Zondags. Het gaat om kantoor, refter, kleedruimte en sanitair."
   },
   {
-   "q": "Wie reinigt de kleedruimte van mijn ploeg?",
-   "a": "Je Zondag kan de kleedruimte opnemen in het zondagsplan, bijvoorbeeld maandelijks grondig. Wat je team zelf achterlaat, spreek je samen af."
+   "q": "Kan de kleedruimte en de douche mee in het plan?",
+   "a": "Ja. Kleedruimte, sanitair en douche kunnen in het zondagsplan staan, net als de refter en het kantoor."
   },
   {
-   "q": "Wanneer plan ik de grote beurt?",
-   "a": "Een goed moment is tijdens het bouwverlof, wanneer de ploegen weg zijn. Dat gebeurt overdag op weekdagen, als losse opdracht of binnen een vast plan."
+   "q": "Wat kost het onderhoud van een bouwkantoor?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief."
   },
   {
-   "q": "Kan mijn Zondag ook mijn woning doen?",
-   "a": "Ja. Kantoor en woning kunnen in één zondagsplan. Op de factuur staan het beroepsmatige en het privégedeelte apart."
+   "q": "Kan de Zondag komen als de ploeg op de werf is?",
+   "a": "Ja. Overdag op weekdagen, vroeg in de ochtend of over de middag, op een vast uur. Zondags werkt nooit 's avonds en nooit in het weekend."
   }
  ]
 }

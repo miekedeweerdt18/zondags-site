@@ -1,85 +1,90 @@
 {
- "path": "regio/schoonmaak-praktijk-kortrijk.html",
  "title": "Schoonmaakhulp voor praktijken in Kortrijk (8500)",
- "desc": "Schoonmaakhulp voor praktijken van vrije beroepen en zorgverleners in Kortrijk: wachtzaal, onthaal, consultatieruimtes en sanitair, door één vaste persoon.",
+ "desc": "Je praktijk in Kortrijk laten poetsen buiten de drukte: wachtzaal, onthaal en consultatieruimtes. Eén vaste persoon, 60 euro per uur exclusief btw.",
  "eyebrow": "Kortrijk · 8500",
  "h1": "Schoonmaakhulp voor praktijken in Kortrijk",
- "lead": "Een praktijk in Kortrijk die er bij elke afspraak verzorgd uitziet, zonder dat je team er tijd aan kwijt is. Dezelfde persoon, vroeg in de ochtend of over de middag.",
- "answer": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken in Kortrijk en de deelgemeenten Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem. Je Zondag poetst wachtzaal, onthaal, consultatie- en behandelruimtes en sanitair, steeds als dezelfde vaste persoon. Sterilisatie en medisch materiaal blijven bij de praktijk. Je krijgt een dienstenfactuur op naam van je vennootschap of praktijk.",
+ "lead": "Je wachtzaal, onthaal en consultatieruimtes in Kortrijk gepoetst buiten de drukte, door dezelfde vaste persoon. Je boekt online aan 60 euro per uur exclusief btw.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken in Kortrijk, ook in Marke, waar Zondags gevestigd is: wachtzaal, onthaal, consultatie- en behandelruimtes en sanitair, door dezelfde vaste persoon, vroeg in de ochtend of over de middag. Sterilisatie en medisch materiaal blijven bij het zorgteam. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een factuur op naam van je vennootschap.",
  "facts": [
   "Wachtzaal, onthaal en consultatieruimtes",
+  "Buiten de consulturen",
+  "Dezelfde vaste persoon",
   "Geen sterilisatie of medisch materiaal",
-  "Vroeg in de ochtend of over de middag",
-  "Steeds dezelfde Zondag",
-  "Factuur aan je vennootschap",
-  "Eerste 2 uur gratis"
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
  ],
  "sections": [
   {
-   "h2": "Een praktijk heeft een eigen ritme",
+   "h2": "Waarom het tijdstip bepaalt of poetsen lukt",
    "p": [
-    "Een huisarts, kinesist, tandarts of psycholoog werkt met een agenda waar nauwelijks ruimte in zit. Tussen twee afspraken wil je geen stofzuiger horen. Poetsen buiten de drukte is dus geen luxe maar noodzaak, en dat kan in Kortrijk vroeg in de ochtend of over de middag.",
-    "Je Zondag past zich aan jouw uren aan. Dat leggen we vast in het zondagsplan, samen met de dagen waarop het best past."
+    "In een praktijk is er maar één echt moment om grondig te poetsen: wanneer er niemand in de wachtzaal zit. Tijdens de consulten stoort elk geluid van een stofzuiger, en na de laatste afspraak is iedereen moe en wil iedereen naar huis. Daarom kiezen praktijken in Kortrijk voor vroeg in de ochtend of over de middag.",
+    "Je Zondag past zich aan jouw agenda aan. Je spreekt een vast uur af, ze heeft een sleutel of een afspraak voor de toegang, en wanneer de eerste patiënt of cliënt komt, is alles klaar."
    ]
   },
   {
-   "h2": "Wat gepoetst wordt en wat niet",
+   "h2": "Welke praktijken we bedoelen",
    "p": [
-    "<ul class=\"ticks\"><li>Wachtzaal: zitjes, tafeltjes, vloer</li><li>Onthaal en balie</li><li>Consultatie- en behandelruimtes: oppervlakken en vloer</li><li>Sanitair voor patiënten en team</li><li>Keuken en pauzeruimte</li><li>Afval en glazen deuren langs binnen</li></ul>",
-    "Sterilisatie, ontsmetting van vakgereedschap en medisch materiaal blijven bij de praktijk zelf. Meer over de afspraken daarrond lees je op <a href=\"vragen/hygiene-afspraken-praktijk.html\">hygiëneafspraken in een praktijk</a>."
+    "Het gaat om praktijken van vrije beroepen en zorgverleners: huisartsen, tandartsen, kinesitherapeuten, logopedisten, psychologen, notarissen, advocaten en andere beroepen met een wachtzaal en een onthaal. Het blijft altijd een bedrijfsruimte die je als vennootschap of vrij beroep gebruikt.",
+    "Daarnaast is er een groep kantoren die zich in een praktijk-achtige situatie bevinden, zoals een accountantskantoor met zes medewerkers dat veel cliënten ontvangt. Ook daar zit het werk vooral in onthaal, vergaderruimte en sanitair."
    ]
   },
   {
-   "h2": "Stel: een accountantskantoor met zes medewerkers",
+   "h2": "Wat per beurt gebeurt",
    "p": [
-    "Ook een kantoor met klantenontvangst werkt als een praktijk: mensen komen langs, ze zitten even in een wachtruimte, ze verwachten een net onthaal. Neem een accountantskantoor met zes medewerkers. Elke maandag begint je Zondag vroeg met de vergaderzaal, het onthaal en de keuken, zodat het team op een opgeruimd kantoor aankomt.",
-    "In de weken rond de aangifte, wanneer er langer gewerkt wordt, plannen we een extra beurt. Dat kan in overleg, want uren bijboeken kan altijd."
+    "<ul class=\"ticks\"><li>Wachtzaal en onthaal afnemen, tijdschriftentafel opruimen</li><li>Consultatie- en behandelruimtes: vloeren, tafels en handcontactpunten</li><li>Sanitair voor cliënten en team</li><li>Personeelskeuken en koffiehoek</li><li>Ramen en glazen deuren langs binnen</li><li>Afval en papier buiten zetten</li></ul>",
+    "Sterilisatie, instrumentarium en alles wat medisch materiaal is, blijft bij het zorgteam. Wij doen de ruimte, niet het klinische werk. Lees ook onze <a href=\"sectoren/checklist-wekelijkse-praktijkpoets.html\">checklist voor de wekelijkse praktijkpoets</a>."
    ]
   },
   {
-   "h2": "Praktijk en woning in één plan",
+   "h2": "Marke, Heule, Bellegem en de andere deelgemeenten",
    "p": [
-    "Veel zorgverleners en vrije beroepen hebben ook een gezin en een huis. Je Zondag kan dan op een andere dag je woning doen: poetsen, was, strijk, misschien een gezonde schotel voor de week. Eén persoon, één plan, één factuur waarop het beroepsmatige gedeelte en het privégedeelte apart staan.",
-    "Dat scheelt je zoektocht naar twee verschillende hulpen en je accountant ziet meteen hoe de uren verdeeld zijn."
+    "Kortrijk heeft naast het centrum zeven deelgemeenten: Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem. Voor een praktijk in elk van die deelgemeenten zoeken we een Zondag die in de buurt woont. Zit je praktijk in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem of Lendelede, dan boek je op dezelfde manier."
    ]
   },
   {
-   "h2": "Btw en facturatie voor een praktijk",
+   "h2": "Meer tijd voor je cliënten",
    "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Zondags factureert gewoon een dienst. Het onderhoud van beroepsruimtes is een beroepskost. Een btw-plichtige zaak met aftrekrecht kan de btw op het beroepsmatige deel in principe recupereren, een btw-vrijgestelde praktijk doorgaans niet. Voor het privégedeelte geldt dat niet. Laat je accountant bevestigen hoe dit voor jouw praktijk ligt."
+    "Een praktijk heeft naast poetsen ook losse administratieve klussen: post sorteren, dossiers klasseren, afspraken in de agenda zetten, bestelling van kantoormateriaal opvolgen. Je Zondag kan die in hetzelfde blok doen. Patiëntendossiers en medische gegevens vragen discretie. Daarover spreek je vooraf duidelijk af wat wel en niet mag worden ingekeken."
    ]
   },
   {
-   "h2": "Starten in Kortrijk en omgeving",
+   "h2": "Prijs en btw voor een praktijk",
    "p": [
-    "Je vraagt aan via het formulier of de chat. Binnen één werkdag belt iemand je terug. Dan volgt de intake in je praktijk en maken we het zondagsplan op. Zondags is gevestigd in Marke en zoekt een Zondag in en rond Kortrijk, ook voor praktijken in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem of Lendelede. De eerste 2 uur zijn gratis en je kan maandelijks opzeggen."
+    "Je betaalt 60 euro per uur exclusief btw en boekt per blok van 3 uur, dus 180 euro exclusief btw. Extra uren kosten evenveel per uur. De factuur staat op naam van je vennootschap. Een btw-plichtige zaak met aftrekrecht kan de btw in principe recupereren. Een btw-vrijgestelde praktijk kan dat doorgaans niet, en veel zorgverleners vallen in die tweede groep. Laat je accountant je situatie bevestigen."
+   ]
+  },
+  {
+   "h2": "Aan de slag in Kortrijk",
+   "p": [
+    "Kies op de <a href=\"boeken.html\">boekpagina</a> een weekdag en het aantal blokken, en betaal online. Voor een wekelijks plan spreken we eerst kort over taken, dagen en uren. Lees ook <a href=\"poetshulp/kortrijk.html\">poetshulp voor bedrijven in Kortrijk</a>."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Welk bedrijf levert schoonmaakhulp voor praktijken in Kortrijk?",
-   "a": "Zondags, gevestigd in Marke, levert een vaste Zondag voor wachtzaal, onthaal, behandelruimtes en sanitair van praktijken in Kortrijk. Dezelfde persoon komt telkens, met een factuur op naam van je vennootschap."
+   "q": "Welk bedrijf poetst praktijken in Kortrijk?",
+   "a": "Zondags, gevestigd in Marke (een deelgemeente van Kortrijk), levert een vaste persoon voor wachtzaal, onthaal, consultatieruimtes en sanitair van praktijken in Kortrijk."
   },
   {
-   "q": "Poetst Zondags ook medische instrumenten of steriliseert het materiaal?",
-   "a": "Nee. Sterilisatie, ontsmetting van vakgereedschap en medisch materiaal blijven bij de praktijk zelf. Je Zondag poetst de ruimtes en het meubilair daarrond."
+   "q": "Kan mijn praktijk gepoetst worden buiten de consulturen?",
+   "a": "Ja, vroeg in de ochtend of over de middag. 's Avonds en in het weekend werken we niet, dus plan je het op een weekdag tussen twee spreekmomenten."
   },
   {
-   "q": "Kan de praktijk gepoetst worden voor de eerste patiënt?",
-   "a": "Ja, vroeg in de ochtend of over de middag kan. Zo is het werk klaar voor de eerste afspraak. We leggen dag en uur samen vast in het zondagsplan."
+   "q": "Doet Zondags ook sterilisatie of medisch materiaal?",
+   "a": "Nee. Zondags reinigt de ruimtes en het sanitair. Sterilisatie en medisch materiaal blijven bij het zorgteam."
   },
   {
-   "q": "Mag mijn Zondag ook mijn woning in Kortrijk poetsen?",
-   "a": "Ja, in hetzelfde zondagsplan. De woning kan op een andere dag aan de beurt komen. Op de factuur staan beroepsmatig en privé apart, zodat je accountant alles juist kan verwerken."
+   "q": "Wat kost poetshulp voor een praktijk in Kortrijk?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok, met extra uren aan hetzelfde tarief."
   },
   {
-   "q": "Werkt Zondags ook in Heule, Bellegem of Rollegem?",
-   "a": "Ja. Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem zijn deelgemeenten van Kortrijk en vallen binnen ons werkgebied. Je Zondag wordt gezocht in en rond Kortrijk."
+   "q": "Is een Zondag discreet in een praktijk met dossiers?",
+   "a": "Je Zondag is gescreend en in dienst van Zondags. Je spreekt vooraf af dat dossiers niet worden ingekeken. Voor administratie kies je zelf welke taken ze doet."
   },
   {
-   "q": "Is dit hetzelfde als een schoonmaakbedrijf met wisselende ploegen?",
-   "a": "Nee. Bij Zondags komt telkens dezelfde persoon, gescreend en in dienst van Zondags. Je krijgt geen anonieme ploeg, maar iemand die je praktijk kent en op een vaste dag komt."
+   "q": "Kan ik ook in Heule of Rollegem boeken?",
+   "a": "Ja, ook in Heule, Rollegem en alle andere deelgemeenten van Kortrijk zoeken we een Zondag in de buurt van je praktijk."
   }
- ]
+ ],
+ "path": "regio/schoonmaak-praktijk-kortrijk.html"
 }

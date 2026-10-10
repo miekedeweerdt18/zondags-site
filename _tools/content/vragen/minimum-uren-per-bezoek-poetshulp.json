@@ -1,32 +1,80 @@
 {
  "path": "vragen/minimum-uren-per-bezoek-poetshulp.html",
- "title": "Waarom een minimum aantal uren per bezoek?",
- "desc": "Waarom hanteren poetsfirma's een minimum aantal uren per bezoek? Uitleg over verplaatsing, planning en rendabiliteit, en wat je in de offerte moet nakijken.",
+ "title": "Waarom een minimum aantal uren per poetsbezoek?",
+ "desc": "Waarom hanteren poetsfirma's een minimum aantal uren per bezoek? Over verplaatsing, opstart en rendement, en waarom Zondags per blok van 3 uur werkt.",
  "eyebrow": "Vraag",
  "h1": "Waarom hanteren poetsfirma's een minimum aantal uren per bezoek?",
- "lead": "Een minimum per bezoek lijkt streng, maar heeft een reden. Wie die kent, kan beter vergelijken en gericht vragen wat er voor jouw zaak nodig is.",
- "answer": "Poetsfirma's hanteren een minimum aantal uren per bezoek omdat elke beurt vaste tijd en kosten meebrengt: verplaatsing, planning en opstarten. Voor een heel korte beurt zou het werk dat niet dekken. Vraag altijd na of er een minimum is en wat het inhoudt. Bij Zondags (zondags.be) maken we een plan op maat na een kort gesprek; wat voor jouw zaak past, bespreken we in de intake. De eerste 2 uur zijn gratis.",
- "facts": ["Een minimum dekt verplaatsing en planning", "Vraag er altijd naar in de offerte", "Zondags werkt op maat", "Eerste 2 uur gratis", "Uren bijboeken of aanpassen kan"],
+ "lead": "Omdat een korte beurt veel tijd verliest aan verplaatsing en opstart. Een minimum houdt het bezoek de moeite waard voor de firma en levert jou een rustiger, grondiger resultaat op.",
+ "answer": "Poetsfirma's hanteren een minimum aantal uren per bezoek omdat verplaatsing, opstart en afronding vaste tijd kosten, ook bij een korte beurt. Zondags (zondags.be) werkt per blok van 3 uur aan 60 euro per uur exclusief btw, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief, zodat je ruimte krijgt voor een volledig poetsrondje.",
+ "facts": [
+  "Verplaatsing en opstart kosten vaste tijd",
+  "Een minimum maakt grondig werk mogelijk",
+  "Zondags: blok van 3 uur als basis",
+  "Extra uren aan hetzelfde tarief",
+  "60 euro per uur, per blok van 3 uur"
+ ],
  "sections": [
-  {"h2": "Wat er achter een minimum zit", "p": [
-   "Elke poetsbeurt begint voor de poetshulp al voor de voordeur. Er is een verplaatsing, soms een sleutel of toegangscode om te regelen, materiaal om in te laden en een planning die rond die beurt gebouwd wordt. Die tijd verdwijnt niet als de beurt maar een uur duurt.",
-   "Een firma die dat in kaart brengt, komt vaak uit op een minimum aantal uren. Zo is het rendabel om te komen. Voor een kleine zaak met een klein kantoor kan dat meer lijken dan nodig."]},
-  {"h2": "Wat dat voor jouw zaak betekent", "p": [
-   "Heb je een compact kantoor, dan betaal je bij een minimum soms voor tijd die je niet nodig hebt. Heb je een groter pand, dan speelt het minimum geen rol. Het is dus belangrijk te weten hoe lang je ruimte werkelijk vraagt, en of je in de buurt van dat minimum zit.",
-   "<ul class=\"ticks\"><li>Vraag of er een minimum geldt, en wat het inhoudt</li><li>Vraag of het per bezoek geldt of per week</li><li>Vraag wat er gebeurt als je minder uren nodig hebt</li><li>Vraag of je later uren kan bijboeken of schrappen</li></ul>"]},
-  {"h2": "Alternatieven voor een korte beurt", "p": [
-   "Voor een kleine ruimte kan je kiezen voor een tweewekelijkse beurt in plaats van een wekelijkse. Zo wordt de beurt langer en is het minimum minder bepalend. Een andere optie is zaak en woning combineren, zodat één bezoek meerdere ruimtes dekt.",
-   "Dat is precies wat bij Zondags kan: kantoor of praktijk en je woning in één plan, met dezelfde persoon. Lees meer in <a href=\"vragen/hoeveel-uur-poetshulp-kantoor.html\">hoeveel uur poetshulp je kantoor nodig heeft</a>."]},
-  {"h2": "Hoe Zondags dit aanpakt", "p": [
-   "Zondags werkt op maat, na een kort gesprek. We kijken naar je ruimtes, je dagen en wat je wilt laten doen, en stellen daar een plan bij op. De eerste 2 uur zijn gratis, om kennis te maken. Het plan is maandelijks opzegbaar en uren bijboeken of aanpassen kan. Of er voor jouw geval een minimum geldt, hoor je in het gesprek, niet pas op de factuur."]},
-  {"h2": "Wat je in een offerte moet nalezen", "p": [
-   "Lees niet enkel het aantal uren, maar ook hoe die uren worden berekend. Staat de verplaatsing erin? Wordt een begonnen uur volledig aangerekend? Wat gebeurt er bij annulatie? En wie voorziet het materiaal? Een duidelijke offerte beantwoordt die vragen zonder dat je ernaar hoeft te vragen. Meer vragen vind je op <a href=\"vragen/vragen-aan-poetsfirma.html\">vragen aan een poetsfirma</a>."]}
+  {
+   "h2": "De tijd die niemand ziet",
+   "p": [
+    "Wie ooit een korte afspraak heeft gehad, weet het: de eerste en de laatste tien minuten gaan op aan aankomen, materiaal klaarzetten, de alarm en sleutel regelen, alles opbergen en vertrekken. Bij een bezoek van één uur blijft er weinig echte poetstijd over. Daarom stellen firma's een minimum.",
+    "Het minimum beschermt dus ook jou. Een beurt waarvan de helft opgaat aan voorbereiding levert te weinig op voor de prijs."
+   ]
+  },
+  {
+   "h2": "Hoeveel werk past in welke tijd",
+   "p": [
+    "Stel: je hebt een kantoor met zes werkplekken, een vergaderzaal, een keuken en sanitair. Dat kan je niet in één uur grondig doen. In drie uur is er tijd voor bureaus, vloeren, keuken, sanitair en afval, met nog wat ruimte voor ramen of een extra klus. Een ruimer blok geeft rust en dus kwaliteit."
+   ]
+  },
+  {
+   "h2": "Waarom Zondags voor drie uur kiest",
+   "p": [
+    "Een Zondag is een vaste persoon bij een vaste klant, geen ploeg die in tien minuten binnenwipt. Het blok van 3 uur maakt het mogelijk om te poetsen en nog een administratieve of praktische taak op te nemen: post sorteren, de koffiehoek aanvullen of een pakje klaarmaken.",
+    "Zo gebruik je elk blok volledig en wordt je Zondag een echte rechterhand voor de zaak."
+   ]
+  },
+  {
+   "h2": "Wat je als klant ervan merkt",
+   "p": [
+    "Een ruimer blok betekent dat je Zondag niet moet jagen. Ze of hij kan eerst de zwaarste plekken aanpakken en daarna de details afwerken, zoals deurklinken, plinten en glas. Je team merkt het verschil: een kantoor dat na een volledig blok echt rustig oogt, in plaats van een beurt die enkel de oppervlakte heeft aangeraakt.",
+    "Voor je planning is het ook eenvoudig: één afspraak, één moment van de week, één factuur."
+   ]
+  },
+  {
+   "h2": "Als je minder nodig hebt dan drie uur",
+   "p": [
+    "<ul class=\"ticks\"><li>Combineer poetsen met administratie of regelwerk binnen hetzelfde blok</li><li>Boek om de twee weken een volledig blok in plaats van wekelijks een korte beurt</li><li>Deel een Zondag met je bureau-buur, elk met een eigen boeking en factuur</li><li>Vul het blok met seizoensklussen zoals het uitruimen van de frigo of het ordenen van het archief</li></ul>",
+    "Zo blijft je budget in verhouding tot het rendement."
+   ]
+  },
+  {
+   "h2": "Wat het blok kost",
+   "p": [
+    "Een blok van 3 uur kost 180 euro exclusief btw, aan 60 euro per uur. Heb je meer nodig, dan boek je extra uren aan dezelfde 60 euro per uur. Er is geen opstartkost of verplaatsingstoeslag om rekening mee te houden bij de blokprijs zelf: wat je op de <a href=\"boeken.html\">boekpagina</a> ziet, is wat je betaalt."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Waarom hanteren poetsfirma's een minimum aantal uren?", "a": "Omdat elke beurt vaste tijd kost voor verplaatsing, planning en opstarten. Een zeer korte beurt zou dat niet dekken, dus stellen firma's vaak een minimum per bezoek voorop."},
-  {"q": "Moet ik een minimum aanvaarden?", "a": "Dat hangt af van je zaak. Vraag wat het minimum inhoudt, of het per bezoek of per week geldt en of je later kan bijsturen. Vergelijk daarna met wat je ruimte werkelijk nodig heeft."},
-  {"q": "Werkt Zondags met een minimum per bezoek?", "a": "Zondags werkt op maat na een kort gesprek. Of er voor jouw situatie een minimum geldt, bespreken we in de intake. De eerste 2 uur zijn gratis en het plan is maandelijks opzegbaar."},
-  {"q": "Hoe kan ik een kort bezoek toch interessant maken?", "a": "Combineer ruimtes: kantoor en woning in één plan met dezelfde persoon, of kies een tweewekelijkse beurt. Zo wordt elk bezoek langer en nuttiger."},
-  {"q": "Kan ik uren bijboeken of schrappen?", "a": "Bij Zondags kan je uren bijboeken of het plan aanpassen. Het plan is maandelijks opzegbaar. Losse opdrachten zoals een grote poetsbeurt zijn ook mogelijk."}
+  {
+   "q": "Wat is het minimum bij Zondags?",
+   "a": "Je boekt per blok van 3 uur. Dat is 180 euro exclusief btw. Extra uren boek je daarna aan dezelfde 60 euro per uur."
+  },
+  {
+   "q": "Waarom geen beurt van één uur?",
+   "a": "Een korte beurt verliest relatief veel tijd aan aankomen en afronden. In drie uur is er ruimte voor een grondige ronde en nog een extra taak."
+  },
+  {
+   "q": "Wat doe ik als mijn kantoor klein is?",
+   "a": "Gebruik het blok voor poetsen én administratie of regelwerk, of boek om de twee weken een volledig blok. Je zondagsplan kiest de taken."
+  },
+  {
+   "q": "Kan ik langer dan drie uur boeken?",
+   "a": "Ja. Je boekt meerdere blokken of extra uren aan hetzelfde tarief van 60 euro per uur exclusief btw."
+  },
+  {
+   "q": "Geldt het blok ook voor eenmalige boekingen?",
+   "a": "Ja. Online boeken kan voor weekdagen, minstens twee werkdagen vooraf, en de kleinste eenheid blijft een blok van 3 uur."
+  }
  ]
 }

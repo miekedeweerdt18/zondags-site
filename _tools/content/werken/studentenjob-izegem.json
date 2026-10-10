@@ -1,81 +1,34 @@
 {
  "path": "werken/studentenjob-izegem.html",
  "title": "Studentenjob met flexibele uren in Izegem",
- "desc": "Werk je liever buiten dan binnen? Een studentenjob in Izegem met tuin en terras, overdag en nooit in het weekend. Vanaf 18 jaar, Zondags.",
- "eyebrow": "Studentenjob · Izegem",
+ "desc": "Studentenjob in Izegem voor wie liever beweegt dan achter een bureau zit: poetsen en praktisch regelwerk bij bedrijven, overdag en rond je lessen.",
+ "eyebrow": "Studentenjob · Izegem · 8870",
  "h1": "Studentenjob met flexibele uren in Izegem",
- "lead": "Zit je liever in de tuin dan achter een stofzuiger? Als student kan je bij Zondags in Izegem kiezen voor tuin, gras en terras, met uren rond je lessen.",
- "answer": "Zondags (zondags.be) zoekt studenten vanaf 18 jaar in en rond Izegem voor een studentenjob met flexibele uren. Je werkt als Zondag overdag op weekdagen bij vaste klanten, en wie graag buiten werkt, kiest mee voor tuin, gras en terras. Je dagen en uren kies je samen met ons rond je lessen. Je krijgt een studentencontract en verloning boven het barema.",
- "facts": [
-  "Vanaf 18 jaar",
-  "Ook tuin en terras",
-  "Uren rond je lessen",
-  "Geen avonden of weekends",
-  "Verplaatsingen vergoed"
- ],
+ "lead": "Zit je liever in beweging dan de hele dag achter een bureau? Een studentenjob als Zondag in Izegem houdt je actief, op vaste momenten en rond je lessen.",
+ "answer": "Zondags (zondags.be) zoekt studenten vanaf 18 jaar in en rond Izegem voor een studentenjob met flexibele uren. Je werkt als Zondag overdag op weekdagen bij bedrijven, met veel beweging: poetsen van kantoren, praktijken en winkels, de koffiehoek bevoorraden en pakjes of kleine boodschappen voor de zaak regelen. Je kiest mee je dagen en uren, werkt met een studentencontract en krijgt je verplaatsingen vergoed.",
+ "facts": ["Vanaf 18 jaar", "Actief werk, geen bureaujob", "Uren rond je lessenrooster", "Studentencontract via Student@work", "Klanten zijn bedrijven rond Izegem", "Nooit avonden of weekends"],
  "sections": [
-  {
-   "h2": "Stel: je werkt liever buiten",
-   "p": [
-    "Stel: je bent student en je zit het liefst in de buitenlucht. Een hele dag binnen in de les is genoeg, je wil iets anders doen in je vrije uren. Tuin en terras liggen je beter dan strijkwerk.",
-    "Bij Zondags kan je kiezen voor licht tuinwerk: gras maaien, een terras vrijmaken, een border verzorgen. Zwaar werk of werken op hoogte doen we niet. Daarvoor moet je zelf ook niet in een boom klimmen."
-   ]
-  },
-  {
-   "h2": "Het seizoen bepaalt je week",
-   "p": [
-    "Neem een lentemaand. Op dinsdagnamiddag ben je bij een gezin voor het gras en het terras. Op donderdag houd je het kleine tuintje van een praktijk bij. Je blijft telkens bij dezelfde klanten, en dat geeft werk waarin je de tuin ziet groeien.",
-    "In de winter ligt de tuin stil. Dan kan je kiezen voor binnenwerk, zoals poetsen of boodschappen, of je werkt gewoon minder. Dat spreken we samen af.",
-    "Heb je een droge periode met weinig zin in tuinwerk? Zeg het ons, dan zoeken we iets anders voor je. Je blijft in elk geval bij dezelfde klanten."
-   ]
-  },
-  {
-   "h2": "Meer dan tuinwerk",
-   "p": [
-    "<ul class=\"ticks\"><li>Tuin, gras en terras, licht onderhoud</li><li>Hond uitlaten</li><li>Boodschappen en regelwerk</li><li>Huishouden, was en strijk</li><li>Kinderen ophalen en opvangen na school</li></ul>",
-    "Je kiest mee wat je graag doet en wat niet. Een diploma of ervaring is niet nodig, wel betrouwbaarheid en zorg voor andermans huis en tuin."
-   ]
-  },
-  {
-   "h2": "Je contract als student",
-   "p": [
-    "Je werkt met een studentencontract in dienst van Zondags. Je volgt zelf je urensaldo op via Student@work, de rest van de administratie regelen wij. Je verloning ligt boven het barema en verplaatsingen worden vergoed.",
-    "Voor je loon geldt dezelfde regel als voor andere Zondags: verloning boven het barema. Over bedragen praten we in het gesprek, niet op deze pagina."
-   ]
-  },
-  {
-   "h2": "Werken in Izegem, Emelgem en Kachtem",
-   "p": [
-    "We zoeken Zondags in en rond Izegem (8870). Emelgem en Kachtem horen bij Izegem. Woon je in Roeselare, Ingelmunster, Lendelede, Ledegem of Ardooie, dan zoeken we klanten dicht bij jou. Meer over het werk vind je bij <a href=\"jobs/huishoudhulp-izegem.html\">huishoudhulp in Izegem</a>."
-   ]
-  },
-  {
-   "h2": "Solliciteren",
-   "p": [
-    "Vul het formulier in, start de chat of app naar 0470 56 53 58. Binnen de twee werkdagen bellen we je voor een kort gesprek. Klikt het, dan zoeken we klanten die bij je lessen passen en gaan we bij de start samen langs. Algemene info staat ook op <a href=\"jobs/studentenjob-flexibele-uren.html\">studentenjob met flexibele uren</a>."
-   ]
-  }
+  {"h2": "Werk dat je lijf ook leuk vindt", "p": [
+   "Veel studenten zitten al uren in een lokaal of voor een scherm. Wie daarna nog een bijbaan achter een bureau neemt, krijgt niet veel afwisseling. Als Zondag werk je vaak recht, onderweg en met je handen. Je neemt een vloer, een wachtzaal en een vergadertafel voor je rekening, haalt een pakje op voor de zaak en zet de keuken klaar voor de volgende dag.",
+   "Het werk blijft overzichtelijk. Je ziet aan het einde van je blok wat je gedaan hebt, en de bedrijfsleider ziet het ook."]},
+  {"h2": "Een blok in de praktijk", "p": [
+   "Stel: je hebt op donderdag een vrije namiddag. Je komt om twee uur toe bij een winkel in het centrum. Eerst loop je de vloeren en de paskamers af, dan ruim je het magazijnhoekje op, daarna zet je de pakjes klaar die de zaakvoerder de volgende ochtend wil versturen. Na drie uur ben je klaar en loop je zonder stress door naar je volgende afspraak."]},
+  {"h2": "Taken waaruit je kan kiezen", "p": [
+   "<ul class=\"ticks\"><li>Vloeren, bureaus en sanitair onderhouden</li><li>Refter, keuken en koffiehoek op orde brengen en bevoorraden</li><li>Pakjes en zendingen klaarmaken, of ophalen voor de zaak</li><li>Boodschappen voor de zaak, zoals kantoormateriaal</li><li>Een wachtzaal of vergaderzaal klaarzetten voor klantenbezoek</li></ul>",
+   "Liever af en toe iets rustigers? Dan voegen we wat post sorteren of klasseren toe. Je bepaalt de mix mee. Technische klussen en werken op hoogte doen we niet."]},
+  {"h2": "Contract en uren", "p": [
+   "Je werkt met een studentencontract en bent in dienst van Zondags. De verloning ligt boven het barema en je verplaatsingen worden vergoed. Via Student@work houd je zelf je urensaldo bij. Dagen en uren kies je mee rond je lessenrooster, en eens afgesproken ligt je rooster vast, bij dezelfde klanten.",
+   "In de vakanties kan je meer uren afspreken, in de examenperiode minder."]},
+  {"h2": "Izegem, Emelgem, Kachtem en de buurt", "p": [
+   "Izegem heeft postcode 8870, met Emelgem en Kachtem als deelgemeenten. We zoeken Zondags in en rond Izegem, ook richting Roeselare, Ingelmunster, Lendelede, Ledegem en Ardooie. Studeer je buiten de streek en keer je in de vakantie terug, dan kan je gewoon op die momenten werken."]},
+  {"h2": "Hoe je start", "p": [
+   "Solliciteer via het formulier, de chat of WhatsApp op 0470 56 53 58. We bellen je binnen de twee werkdagen. Klikt het, dan zoeken we klanten die bij je uren en je energie passen en gaan we samen langs. Lees ook de pagina over <a href=\"jobs/studentenjob-flexibele-uren.html\">de studentenjob met flexibele uren</a>."]}
  ],
  "faq": [
-  {
-   "q": "Waar vind ik een studentenjob met flexibele uren in Izegem?",
-   "a": "Bij Zondags. We zoeken studenten vanaf 18 jaar in en rond Izegem om overdag bij vaste klanten te werken. Je kiest mee je dagen en uren, zodat je lessen voorgaan."
-  },
-  {
-   "q": "Kan ik als student enkel tuinwerk doen?",
-   "a": "Je kiest mee wat je graag doet, dus tuin, gras en terras kunnen een groot deel van je werk zijn. Of er in jouw buurt klanten zijn met tuinwerk, bekijken we in het gesprek."
-  },
-  {
-   "q": "Wat doe ik in de winter als er weinig tuinwerk is?",
-   "a": "Dan kan je binnenwerk doen, zoals poetsen of boodschappen, of tijdelijk minder werken. Dat bespreken we vooraf met jou en met je klanten."
-  },
-  {
-   "q": "Moet ik in het weekend werken?",
-   "a": "Nee, nooit. Je werkt overdag op weekdagen. Vroeg in de ochtend of over de middag kan, 's avonds en in het weekend niet."
-  },
-  {
-   "q": "Doen jullie ook zwaar tuinwerk of werken op hoogte?",
-   "a": "Nee. We doen licht onderhoud van tuin, gras en terras. Werken op hoogte en technische klussen horen er niet bij."
-  }
+  {"q": "Waar vind ik een studentenjob met flexibele uren in Izegem?", "a": "Bij Zondags. We zoeken studenten vanaf 18 jaar in en rond Izegem voor werk overdag op weekdagen bij bedrijven. Je solliciteert via het formulier, de chat of WhatsApp."},
+  {"q": "Is het werk lichamelijk zwaar?", "a": "Het is actief werk, zoals vloeren, sanitair en pakjes klaarzetten, maar je werkt in blokken en je kiest mee de taken. Technische klussen en werken op hoogte horen er niet bij."},
+  {"q": "Kan ik ook zonder bureauwerk blijven?", "a": "Ja. Je kiest mee wat je graag doet. Wie vooral actief bezig wil zijn, krijgt klanten waar poetsen en praktisch regelwerk centraal staan."},
+  {"q": "Hoeveel vrijheid heb ik in mijn uren?", "a": "Je kiest samen met ons dagen en uren rond je lessenrooster. Eens afgesproken ligt je rooster vast. In de vakanties kan je meer uren afspreken."},
+  {"q": "Werk ik in het weekend?", "a": "Nee. Zondags werkt enkel overdag op weekdagen. Vroeg in de ochtend of over de middag kan, 's avonds en in het weekend nooit."}
  ]
 }

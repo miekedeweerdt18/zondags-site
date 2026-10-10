@@ -1,81 +1,91 @@
 {
- "path": "regio/schoonmaak-praktijk-marke.html",
  "title": "Schoonmaakhulp voor praktijken in Marke (8510)",
- "desc": "Schoonmaakhulp voor praktijken en kantoren in Marke, deelgemeente van Kortrijk. Vroeg in de ochtend of over de middag, buiten de drukte. Eén vaste Zondag.",
+ "desc": "Schoonmaakhulp voor praktijken en kantoren in Marke, vroeg in de ochtend of over de middag. Eén vaste persoon, 60 euro per uur exclusief btw.",
  "eyebrow": "Marke · 8510",
  "h1": "Schoonmaakhulp voor praktijken in Marke",
- "lead": "Zondags is gevestigd in Marke, dus voor praktijken en kantoren hier zijn we geen verre aanbieder. Wij poetsen op de momenten dat het jou past, liefst buiten de drukte.",
- "answer": "Zondags (zondags.be) is gevestigd in Marke, een deelgemeente van Kortrijk, en levert schoonmaakhulp voor praktijken en kantoren in Marke. Een vaste persoon, je Zondag, poetst wachtzaal, behandelruimtes, kantoren en sanitair vroeg in de ochtend of over de middag, buiten de drukte. Nooit 's avonds of in het weekend. De factuur staat op naam van je vennootschap.",
+ "lead": "Een praktijk of kantoor in Marke laat je liefst poetsen wanneer niemand in de weg loopt. Daarom komt je vaste Zondag vroeg in de ochtend of over de middag, buiten de drukte.",
+ "answer": "Zondags (zondags.be) verzorgt schoonmaakhulp voor praktijken en kantoren in Marke, een deelgemeente van Kortrijk met postcode 8510. Je Zondag, steeds dezelfde persoon, komt vroeg in de ochtend of over de middag, op weekdagen, en onderhoudt wachtzaal, onthaal, behandel- of consultatieruimte, sanitair en vloeren. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een factuur op naam van je vennootschap.",
  "facts": [
-  "Gevestigd in Marke, deelgemeente van Kortrijk",
+  "Praktijken en kantoren in Marke",
   "Vroeg in de ochtend of over de middag",
-  "Praktijken en kantoren",
-  "Eén vaste Zondag",
-  "Maandelijks opzegbaar"
+  "Steeds dezelfde vaste persoon",
+  "Factuur op naam van je vennootschap",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
  ],
  "sections": [
   {
-   "h2": "Een buur die je praktijk komt poetsen",
+   "h2": "Poetsen buiten de drukte",
    "p": [
-    "Ons adres is Jan Van Eyckstraat 2 in Marke. Dat maakt het gemakkelijk om kort bij je te zijn, voor de intake, voor een bijsturing of als er iets misloopt. Je belt, we komen langs.",
-    "Marke hoort bij Kortrijk en ligt tussen Bissegem, Aalbeke, Rollegem, Lauwe en Bellegem. Praktijken en kantoren in die hoek zijn onze eerste adressen om een Zondag voor te zoeken."
+    "Een praktijk draait op piekmomenten. 's Morgens is het vol, over de middag valt er vaak een stilte en daarna begint de tweede golf. Dat maakt poetsen lastig: tijdens een druk uur staat het in de weg, en na sluitingstijd werkt Zondags niet.",
+    "Zondags werkt op weekdagen overdag, met twee rustige momenten als uitgangspunt: vroeg in de ochtend of over de middag. Je kiest samen met je Zondag het moment dat voor jouw ritme het stilst is, en dat blijft elke week hetzelfde."
    ]
   },
   {
-   "h2": "Liefst buiten de drukte",
+   "h2": "Neem een accountantskantoor met zes medewerkers",
    "p": [
-    "Een praktijk of kantoor is het rustigst voor de eerste afspraak en rond de middag. Stel: je hebt een accountantskantoor met zes medewerkers. Rond de middag belt bijna niemand, het team eet in de refter en de vergaderzaal staat leeg.",
-    "Dat is het moment voor je Zondag. In een klein uur zijn bureaus, vloeren, keuken en sanitair gedaan, en wanneer de eerste klant na de lunch binnenkomt, merkt hij enkel dat het er fris uitziet."
+    "Neem een accountantskantoor in Marke met zes medewerkers, een kleine wachtruimte en een vergaderzaal waar cliënten hun cijfers komen bespreken. Op vrijdagmiddag, wanneer de meesten aan tafel zitten, kiest het team ervoor dat de Zondag over de middag komt. Zij neemt dan bureaus, vergaderzaal en wachtruimte onder handen terwijl het team lunch heeft.",
+    "In drukke periodes, zoals rond de aangiftes, boekt het kantoor gewoon een extra blok bij. Het basisritme blijft behouden, de extra uren worden aangevuld met hetzelfde tarief."
    ]
   },
   {
-   "h2": "Wat een vaste persoon verandert aan de praktijk",
+   "h2": "Wat een bezoek omvat",
    "p": [
-    "Wie al eens een wisselende ploeg in huis had, kent het probleem: elke keer opnieuw uitleggen welke ruimte vertrouwelijk is, waar de reserveproducten staan en welke kamer pas na een bepaald uur gepoetst mag worden. Met één Zondag valt die herhaling weg.",
-    "Je Zondag onthoudt ook de kleine dingen. Dat de dossierkast dicht blijft, dat de behandeltafel na gebruik niet meer verschoven wordt en dat de wachtzaal er voor de eerste afspraak uitziet zoals jij het wil. Zulke details maken het verschil tussen poetsen en een praktijk verzorgd houden."
+    "<ul class=\"ticks\"><li>Wachtzaal en onthaal afnemen</li><li>Consultatie- of behandelruimte stofvrij houden</li><li>Vergaderzaal klaarzetten</li><li>Sanitair reinigen en navullen</li><li>Vloeren stofzuigen en dweilen</li><li>Keuken en personeelsruimte opfrissen</li></ul>",
+    "Sterilisatie, medisch materiaal en werken op hoogte horen niet bij het aanbod. Voor het gewone onderhoud is dat ook niet nodig. Lees de volledige aanpak op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."
    ]
   },
   {
-   "h2": "Een weekplan voor een praktijk",
+   "h2": "Een bedrijf uit de buurt",
    "p": [
-    "<ul class=\"ticks\"><li>Ochtend: wachtzaal, onthaal en behandelruimtes klaar voor de eerste afspraak</li><li>Middag: sanitair, keuken en afval tijdens de pauze</li><li>Wekelijks of tweewekelijks een grondiger ronde: deurklinken, kasten, glazen deuren langs binnen</li></ul>",
-    "Zorgverleners houden zelf de sterilisatie en het medisch materiaal bij. Dat valt buiten wat Zondags doet."
+    "Zondags is gevestigd in Marke, een van de deelgemeenten van Kortrijk. Daardoor kennen we de buurt: praktijken in Marke, Kortrijk, Bissegem, Aalbeke, Rollegem, Lauwe of Bellegem. We zoeken een Zondag die in de buurt woont, wat een vast vroeg uur realistischer maakt."
    ]
   },
   {
-   "h2": "Facturatie voor een vennootschap",
+   "h2": "Meer dan poetsen",
    "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van een praktijk of kantoor is een beroepskost. Btw op het beroepsmatige deel is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren.",
-    "Wil je je woning in het plan, dan staat dat gedeelte apart op de factuur. Laat je accountant dit bevestigen voor je eigen situatie. Wie eerst wil vergelijken, vindt hulp bij <a href=\"gids/huishoudhulp-of-schoonmaakbedrijf.html\">huishoudhulp of schoonmaakbedrijf</a>."
+    "Ben je al aanwezig of heeft je Zondag een rustige ronde, dan kan ze ook administratieve taken oppakken: post sorteren, documenten klasseren, afspraken inplannen of kantoormateriaal bestellen. Het blijft ondersteunend werk. Boekhouding en advies doet Zondags niet."
    ]
   },
   {
-   "h2": "Van kennismaking tot vaste dag",
+   "h2": "Tarief en btw voor een praktijk",
    "p": [
-    "Je vraagt aan via het formulier of de chat. Binnen één werkdag belt iemand je terug. We komen naar je praktijk of kantoor voor de intake en maken het zondagsplan. De eerste 2 uur zijn gratis. Wil je meer weten over Kortrijk en de andere deelgemeenten, lees dan <a href=\"poetshulp/kortrijk.html\">poetshulp in Kortrijk</a>."
+    "Je betaalt 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw. Extra uren kosten hetzelfde per uur.",
+    "De btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Laat je accountant dit bevestigen voor jouw situatie."
+   ]
+  },
+  {
+   "h2": "Hoe je start",
+   "p": [
+    "Kies op de <a href=\"boeken.html\">boekpagina</a> je weekdag, het moment, de blokken en de taken. Je betaalt online. Wil je een vast ritme, dan leggen we dat na een kort gesprek vast in een zondagsplan."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Welk bedrijf poetst praktijken in Marke?",
-   "a": "Zondags, gevestigd in Marke zelf, levert vaste schoonmaakhulp voor praktijken en kantoren in Marke en de rest van Kortrijk. Je krijgt steeds dezelfde persoon."
+   "q": "Wie poetst praktijken in Marke?",
+   "a": "Zondags, dat zelf in Marke gevestigd is. Je krijgt één vaste persoon in dienst van Zondags, die op een vaste dag en een vast uur je praktijk onderhoudt."
   },
   {
-   "q": "Kan er gepoetst worden vóór mijn eerste patiënt?",
-   "a": "Ja, vroeg in de ochtend kan. Over de middag ook. We stemmen het uur af op je agenda, zodat je team en je patiënten er weinig van merken."
+   "q": "Kan het poetsen vroeg in de ochtend gebeuren?",
+   "a": "Ja. Vroeg in de ochtend of over de middag kan, op weekdagen. Zo is de praktijk klaar voor de eerste afspraak."
   },
   {
-   "q": "Hoort Marke bij Kortrijk?",
-   "a": "Ja, Marke is een deelgemeente van Kortrijk. Zondags is er gevestigd en werkt in heel Kortrijk en daarbuiten, in West- en Oost-Vlaanderen."
+   "q": "Wat kost schoonmaakhulp voor een praktijk in Marke?",
+   "a": "60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw, met extra uren aan hetzelfde tarief."
   },
   {
-   "q": "Kan ik uren bijboeken in drukke periodes?",
-   "a": "Ja. Uren bijboeken of het plan aanpassen kan. Ook een losse grote beurt, bijvoorbeeld na een verbouwing, is mogelijk."
+   "q": "Werkt Zondags ook in de avond of in het weekend?",
+   "a": "Nee. Zondags werkt overdag op weekdagen en dus nooit 's avonds of in het weekend. Past een vroeg uur of de middagpauze voor jouw praktijk, dan kan dat wel, en dat spreken we vooraf met je af."
   },
   {
-   "q": "Wat kost schoonmaakhulp voor een praktijk?",
-   "a": "Dat bepalen we op maat na een kort gesprek. De eerste 2 uur zijn gratis, zodat je kan kennismaken. Het plan is maandelijks opzegbaar."
+   "q": "Reinigt Zondags ook behandelkamers?",
+   "a": "De gewone reiniging van behandelruimtes en consultatiekamers kan. Sterilisatie en medisch materiaal doet Zondags niet."
+  },
+  {
+   "q": "Kan ik een blok bijboeken in een drukke periode?",
+   "a": "Ja. Extra uren of een extra blok boek je online aan hetzelfde tarief, minstens twee werkdagen vooraf."
   }
- ]
+ ],
+ "path": "regio/schoonmaak-praktijk-marke.html"
 }

@@ -1,89 +1,80 @@
 {
- "path": "regio/schoonmaak-praktijk-tielt.html",
  "title": "Schoonmaakhulp voor praktijken in Tielt",
- "desc": "Voor starters die in Tielt hun eerste praktijk inrichten: een vaste Zondag houdt wachtzaal, consultatieruimte en sanitair bij. Geen medisch materiaal.",
+ "desc": "Een eerste praktijk of kantoor in Tielt, aan een vaste prijs onderhouden door één vaste Zondag. 60 euro per uur exclusief btw, online per blok van 3 uur.",
  "eyebrow": "Tielt · 8700",
  "h1": "Schoonmaakhulp voor praktijken in Tielt",
- "lead": "Je praktijk is net open, de agenda loopt vol en het poetsen schuift naar het einde van de dag. Een vaste Zondag neemt dat over voor je er zelf aan toe komt.",
- "answer": "Zondags (zondags.be) levert in Tielt en omgeving schoonmaakhulp voor praktijken van vrije beroepen en zorgverleners: wachtzaal, onthaal, consultatie- en behandelruimtes en sanitair. Je krijgt steeds dezelfde vaste persoon, overdag op weekdagen. Sterilisatie en medisch materiaal blijven bij de praktijk. De factuur gaat op naam van je vennootschap en de eerste 2 uur zijn gratis.",
+ "lead": "Je richt voor het eerst een eigen praktijk of kantoor in in Tielt. Laat het onderhoud meteen goed starten, met één vaste Zondag en een prijs die je op voorhand kent.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken in Tielt, Aarsele, Kanegem en Schuiferskapelle, ook voor starters en jonge vennootschappen. Je krijgt één vaste persoon voor wachtzaal, onthaal, consultatieruimtes, sanitair en keuken, op een vaste weekdag overdag. Sterilisatie en medisch materiaal blijven bij de praktijk. Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur.",
  "facts": [
-  "Praktijk in Tielt en omgeving",
-  "Wachtzaal, consultatie, sanitair",
-  "Geen sterilisatie of medisch materiaal",
-  "Dezelfde vaste persoon",
-  "Factuur aan je vennootschap",
-  "Eerste 2 uur gratis"
+  "Ook voor starters en jonge vennootschappen",
+  "Tielt, Aarsele, Kanegem, Schuiferskapelle",
+  "Eén prijs, geen pakketten",
+  "Dienstenfactuur op naam van je zaak",
+  "60 euro per uur, per blok van 3 uur"
  ],
  "sections": [
   {
-   "h2": "Een jonge praktijk heeft weinig tijd en veel eerste indrukken",
+   "h2": "Een nieuwe praktijk, nog geen vaste routine",
    "p": [
-    "Wie net een praktijk start, doet alles zelf: afspraken, administratie, patiënten, en dan nog de wachtzaal bijhouden. Toch blijft de eerste indruk belangrijk. Een verzorgde ruimte vertelt dat de zorg er ook is.",
-    "Een vaste Zondag neemt die opdracht uit je handen. Je weet welke dag er gepoetst wordt, je Zondag leert je praktijk kennen en jij hoeft je er niet meer druk over te maken."
+    "Wie in Tielt een eigen praktijk of kantoor opstart, regelt eerst de grote dingen: het pand, het meubilair, de verzekeringen, de website. Het poetsen komt pas op een vergeten lijstje, tot de eerste klant over een stofferige plint kijkt. Daar helpt een vaste afspraak vanaf dag één.",
+    "Met een Zondag begin je zonder losse gesprekken met allerlei aanbieders. Je kiest het aantal blokken, de dag en het uur, en dezelfde persoon komt terug. Past het ritme niet meer wanneer je zaak groeit, dan pas je het plan aan."
    ]
   },
   {
-   "h2": "Stel: een architect die thuis werkt, naast je praktijk",
+   "h2": "Neem een architectenbureau met een vergaderzaal",
    "p": [
-    "Neem een architect in Tielt die zijn kantoor in een kamer van zijn woning heeft ingericht. Hij overweegt een deel van het huis om te bouwen tot een praktijkruimte voor een medisch of paramedisch beroep van zijn partner. Zo ontstaat een gebouw waarin bureau, praktijk en woonruimte door elkaar lopen.",
-    "In één zondagsplan kan een vaste Zondag de praktijkruimte, het kantoor en de woning poetsen. De factuur houdt beroepsmatig en privé uit elkaar, met je accountant als controle."
+    "Neem twee jonge architecten die in Tielt een bureau huren met vier werkplekken en een vergaderzaal. De vergaderzaal is hun uithangbord: daar komen bouwheren, aannemers en leveranciers binnen. De rest van het jaar wordt de zaal vooral gebruikt voor lange werksessies met koffie en plannen op tafel.",
+    "Hun Zondag komt op maandagochtend, voor de week begint. Vergadertafel en stoelen afnemen, glas en onthaal, vloer, keuken en sanitair. Voor een bezoek van een bouwheer op donderdag kan ze de zaal nog eens klaarzetten. Dezelfde logica werkt voor een praktijk met wachtzaal en consultatieruimtes."
    ]
   },
   {
-   "h2": "Wat je Zondag poetst",
+   "h2": "Wat je praktijk nodig heeft",
    "p": [
-    "<ul class=\"ticks\"><li>Wachtzaal en onthaal</li><li>Consultatie- en behandelruimtes: oppervlakken en vloeren</li><li>Sanitair voor patiënten en team</li><li>Keukentje of koffiehoek</li><li>Glazen deuren en ramen langs binnen</li></ul>",
-    "Sterilisatie, medisch materiaal en de hygiëne van het vakgereedschap blijven bij de praktijk. Je Zondag onderhoudt de ruimtes zelf, niet wat je voor de behandeling nodig hebt."
+    "<ul class=\"ticks\"><li>Wachtzaal en onthaal netjes en uitnodigend</li><li>Consultatieruimtes, bureaus en vloeren</li><li>Sanitair dat altijd aangevuld is</li><li>Keuken of koffiehoek in orde</li><li>Afval en recyclage op tijd buiten</li></ul>",
+    "Starters vragen vaak wat bij de huurder blijft. Alles wat met medisch materiaal en sterilisatie te maken heeft, doet de praktijk zelf. Een gids om samen met je Zondag het plan op te stellen vind je in <a href=\"sectoren/gids-zondagsplan-opstellen.html\">zondagsplan opstellen</a>."
    ]
   },
   {
-   "h2": "Groeien zonder je poetsplan te herschrijven",
+   "h2": "Kosten voorspelbaar houden",
    "p": [
-    "Starters passen hun uren vaak aan. Eerst twee dagen per week open, dan drie, later een tweede behandelaar. Een zondagsplan groeit mee: uren bijboeken kan, het plan aanpassen kan, en het is maandelijks opzegbaar.",
-    "Zo hoef je niet bij elke verandering een nieuwe poetsdienst te zoeken. Je Zondag kent je praktijk al.",
-    "Heb je een tweede behandelaar of een stagiair die erbij komt, dan bekijken we samen of een extra beurt nodig is. Je Zondag kent de praktijk, dus een uitbreiding vraagt geen nieuwe uitleg."
+    "Voor een jonge vennootschap telt elke vaste kost. Daarom bestaat er maar één pakket: 60 euro per uur exclusief btw, geboekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren komen aan hetzelfde tarief. Je ontvangt een dienstenfactuur op naam van je vennootschap met je btw-nummer.",
+    "Poetshulp voor de zaak is in principe een beroepskost. Laat je accountant of boekhouder bevestigen hoe dat voor jouw situatie werkt, zeker bij een btw-vrijgestelde praktijk."
    ]
   },
   {
-   "h2": "Tielt, Aarsele, Kanegem en Schuiferskapelle",
+   "h2": "Tielt, de deelgemeenten en de buren",
    "p": [
-    "We zoeken een Zondag voor je in en rond Tielt. Aarsele, Kanegem en Schuiferskapelle horen bij Tielt. Zit je praktijk in Pittem, Meulebeke, Dentergem, Wingene of Ruiselede, dan bekijken we je vraag evengoed. We beloven niet dat er al iemand klaarstaat; dat zoeken we na je aanvraag."
+    "Aarsele, Kanegem en Schuiferskapelle horen bij Tielt. Rond de stad liggen Pittem, Meulebeke, Dentergem, Wingene en Ruiselede, waar we ook Zondags zoeken. Een overzicht voor andere zaken in je stad staat op <a href=\"poetshulp/tielt.html\">poetshulp voor bedrijven in Tielt</a>."
    ]
   },
   {
-   "h2": "Factuur, btw en je accountant",
+   "h2": "Zo gaat de eerste afspraak",
    "p": [
-    "Een vennootschap kan geen dienstencheques kopen. Zondags werkt met een gewone dienstenfactuur op naam van je vennootschap. Het onderhoud van beroepsruimtes is een beroepskost. Voor een btw-vrijgestelde praktijk geldt dat de btw doorgaans niet recupereerbaar is. Laat je accountant bevestigen hoe dit voor jouw situatie werkt, zeker als praktijk en woning samen in het plan zitten."
-   ]
-  },
-  {
-   "h2": "Zo start je",
-   "p": [
-    "Vraag aan via het formulier of de chat. Binnen één werkdag belt iemand je terug. In de intake kijken we je ruimtes na en leggen we het zondagsplan vast. De eerste 2 uur zijn gratis.",
-    "Klikt het niet met je Zondag, dan zoeken we samen een andere persoon. Het plan is maandelijks opzegbaar."
+    "Je boekt online op de <a href=\"boeken.html\">boekpagina</a>: datum, aantal blokken, taken en de gegevens van je bedrijf, daarna betaal je met kaart of Bancontact. Zondags bevestigt en je Zondag komt op de afgesproken dag. Wil je een wekelijks ritme, dan laat je een terugbelverzoek achter."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Welk bedrijf biedt schoonmaakhulp voor praktijken in Tielt?",
-   "a": "Zondags levert schoonmaakhulp voor praktijken van vrije beroepen en zorgverleners in Tielt en omgeving, door één vaste persoon. De factuur gaat op naam van je vennootschap."
+   "q": "Welk bedrijf doet schoonmaakhulp voor een nieuwe praktijk in Tielt?",
+   "a": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken en kantoren in Tielt, ook voor starters. Je krijgt steeds dezelfde persoon en een factuur op naam van je vennootschap."
   },
   {
-   "q": "Is dit ook interessant voor een starter met één behandelkamer?",
-   "a": "Ja. Je plan hoeft niet groot te zijn. Met een kleine beurt per week of per twee weken houd je wachtzaal en behandelkamer verzorgd, en je kan het plan later aanpassen."
+   "q": "Kan ik als starter één keer proberen en daarna een vast plan kiezen?",
+   "a": "Ja. Je kan een eerste blok van 3 uur online boeken en nadien beslissen of je een vast terugkerend plan wil. De prijs blijft 60 euro per uur exclusief btw."
   },
   {
-   "q": "Doet mijn Zondag ook het medisch materiaal?",
-   "a": "Nee. Sterilisatie, medisch materiaal en de hygiëne van het vakgereedschap blijven bij de praktijk. Je Zondag onderhoudt de ruimtes."
+   "q": "Moet ik zelf poetsproducten en materiaal voorzien?",
+   "a": "Dat bespreken we bij de eerste afspraak. In het zondagsplan staat wat je Zondag nodig heeft en waar het materiaal in je praktijk bewaard wordt."
   },
   {
-   "q": "Kan ook mijn woning in het plan?",
-   "a": "Ja. Praktijk en woning kunnen in één zondagsplan met dezelfde vaste persoon. De factuur splitst het beroepsmatige en het privégedeelte."
+   "q": "Werkt Zondags ook in Aarsele, Kanegem en Schuiferskapelle?",
+   "a": "Ja. Die deelgemeenten horen bij Tielt, en ook in Pittem, Meulebeke, Dentergem, Wingene en Ruiselede zoeken we een Zondag voor jouw zaak."
   },
   {
-   "q": "Wanneer wordt er gepoetst?",
-   "a": "Overdag op weekdagen: vroeg in de ochtend of over de middag kan. 's Avonds en in het weekend werken we niet."
+   "q": "Is het poetsen van mijn praktijk een beroepskost?",
+   "a": "In principe wel, en de btw is recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Laat je accountant dit bevestigen."
   }
- ]
+ ],
+ "path": "regio/schoonmaak-praktijk-tielt.html"
 }

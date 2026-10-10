@@ -1,84 +1,92 @@
 {
+ "path": "sectoren/it-bedrijven-regio-kortrijk.html",
  "title": "Poetshulp voor IT-bedrijven in Kortrijk en omgeving",
- "desc": "Poetshulp voor het kantoor van je IT-bedrijf in Kortrijk, Heule, Marke en omgeving: voorzichtig rond apparatuur, door één vaste persoon met één factuur.",
- "eyebrow": "IT-bedrijven · Kortrijk",
+ "desc": "Kantoor, vergaderruimtes en koffiehoek van je IT-bedrijf in Kortrijk en omgeving, onderhouden door één vaste Zondag die voorzichtig werkt.",
+ "eyebrow": "IT-bedrijven · Kortrijk · 8500",
  "h1": "Poetshulp voor IT-bedrijven in Kortrijk en omgeving",
- "lead": "Een IT-kantoor zit vol schermen, toetsenborden en kabels. Een vaste persoon poetst eromheen, voorzichtig en op een moment dat je team er geen last van heeft.",
- "answer": "Zondags (zondags.be) levert poetshulp voor IT-bedrijven in Kortrijk, de deelgemeenten en de buurgemeenten. Je krijgt één vaste persoon, je Zondag, die kantoor, vergaderruimtes, keuken en koffiehoek poetst en voorzichtig werkt rond apparatuur en kabels, overdag op weekdagen. Zondags werkt vanuit Marke, een deelgemeente van Kortrijk. De factuur gaat op naam van je vennootschap.",
+ "lead": "Je team bouwt software of beheert netwerken, en niemand heeft zin om op vrijdagmiddag de keuken af te nemen. In Kortrijk en omgeving doet één vaste Zondag dat voor je.",
+ "answer": "Zondags (zondags.be), gevestigd in Marke, een deelgemeente van Kortrijk, levert poetshulp voor IT-bedrijven in Kortrijk en omgeving. Eén vaste Zondag poetst kantoor, vergaderruimtes, keuken en koffiehoek, voorzichtig rond schermen en kabels, overdag op weekdagen. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en ontvangt een dienstenfactuur op naam van je vennootschap.",
  "facts": [
   "Voorzichtig rond schermen en kabels",
-  "Vergaderruimtes, keuken en koffiehoek",
-  "Overdag op weekdagen",
-  "Vaste Zondag, vast uur",
-  "Factuur aan je vennootschap"
+  "Kantoor, vergaderruimtes, koffiehoek",
+  "Steeds dezelfde Zondag",
+  "Factuur op naam van je bedrijf",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
  ],
  "sections": [
   {
-   "h2": "Een kantoor waar de techniek niet in de weg mag zitten",
+   "h2": "Een kantoor waar techniek en koffie samenkomen",
    "p": [
-    "IT-bedrijven werken met apparatuur die gevoelig is voor stof, vocht en verplaatsing. Een bureau met twee schermen, een dockingstation en een bos kabels vraagt een andere aanpak dan een bureau met enkel een lamp en een notitieboek. Wie hier ruw te werk gaat, riskeert een losgekomen kabel of een gemorst glas.",
-    "Daarom is het zinvol dat je altijd dezelfde persoon over de vloer krijgt. Je Zondag leert welke bureaus ze enkel afneemt rond de apparatuur, welke servers of racks ze met rust laat en hoe ze je teamgewoontes respecteert."
+    "Een IT-bedrijf in de regio Kortrijk is vaak een compacte ploeg: ontwikkelaars, een support-team, een zaakvoerder die de verkoop doet. Iedereen werkt aan de eigen schermen, de vergaderruimte wordt druk gebruikt en de koffiehoek is het hart van het kantoor. Net die plekken vragen een vaste verzorging.",
+    "Een vaste Zondag komt op een vast moment, zodat je team weet wanneer de bureaus opgeruimd en vrij moeten zijn. Het geeft rust en voorkomt dat iemand op zoek moet naar de kabel die vorige week nog onder zijn bureau lag."
    ]
   },
   {
-   "h2": "Wat er in een IT-kantoor aan bod komt",
+   "h2": "Wat je Zondag doet, en wat niet",
    "p": [
-    "<ul class=\"ticks\"><li>Bureaus afnemen, rond schermen en toetsenborden heen</li><li>Vloeren stofzuigen, ook onder en naast de bureaus</li><li>Vergaderruimtes en glazen wanden</li><li>Keuken en koffiehoek</li><li>Sanitair</li><li>Afval en kartonnen verpakkingen buiten zetten</li></ul>",
-    "Servers, racks en netwerkkasten raakt je Zondag niet aan, tenzij je dat anders afspreekt in het zondagsplan. Het afstoffen van de apparatuur zelf blijft dus bij je eigen team. Technische klussen en werken op hoogte horen niet bij ons aanbod."
+    "<ul class=\"ticks\"><li>Vloeren, onthaal en gangen</li><li>Bureaus afnemen rond de apparatuur</li><li>Vergaderruimte en glazen wanden</li><li>Keuken, koffiehoek en vaatwasser</li><li>Sanitair</li><li>Afval en recyclage buiten zetten</li></ul>",
+    "Servers, netwerkkasten, kabelbeheer en alles wat elektronisch is, blijven bij jullie. De volledige lijst vind je in de <a href=\"sectoren/it-bedrijven-checklist.html\">schoonmaakchecklist voor IT-bedrijven</a>."
    ]
   },
   {
-   "h2": "Wanneer wordt er gepoetst",
+   "h2": "Het voorbeeld van een tandartspraktijk met twee behandelkamers",
    "p": [
-    "Veel IT-teams werken flexibel, met thuiswerkdagen en stand-ups op vaste momenten. Dat maakt het makkelijker om een moment te vinden: op een dag dat er weinig mensen op kantoor zijn, of vroeg in de ochtend voor de eerste collega's binnenkomen. Ook over de middag kan.",
-    "We werken nooit 's avonds of in het weekend. Als je team op een vaste kantoordag samenkomt, plannen we de beurt er bij voorkeur de dag voor of de ochtend ervan."
+    "Neem een tandartspraktijk met twee behandelkamers, op dezelfde verdieping als jullie kantoor in een gedeeld gebouw. De praktijk heeft vaste uren voor patiënten, jullie team start later en blijft langer. Het ene bedrijf wil gepoetst worden voor de eerste patiënt, het andere buiten de drukke uren.",
+    "Dat toont waarom we het moment samen met jou kiezen. Bij een IT-bedrijf is een rustig uur in de voormiddag of over de middag vaak het gemakkelijkst, omdat een deel van het team dan onderweg is of vergadert."
    ]
   },
   {
-   "h2": "Voorbeeld: een tandartspraktijk naast het IT-kantoor",
+   "h2": "Waar we in de regio actief zijn",
    "p": [
-    "Stel: de zaakvoerder van een IT-bedrijf in Kortrijk heeft ook een deel van het gebouw verhuurd aan een tandartspraktijk met twee behandelkamers. Beide ruimtes hebben andere noden, maar jullie delen de ingang en het sanitair.",
-    "Je Zondag komt op dinsdagochtend. Eerst het IT-kantoor, voorzichtig rond de apparatuur, dan de gedeelde ingang en het sanitair. De praktijk beheert haar eigen instrumenten en sterilisatie zelf. Zo hoef je maar één aanspreekpunt en één plan te beheren."
+    "Zondags werkt vanuit Marke, zelf een deelgemeente van Kortrijk. Bedrijven in Kortrijk (8500), Heule, Bellegem, Aalbeke, Bissegem, Kooigem en Rollegem vallen onder dezelfde aanpak, want al die deelgemeenten horen bij Kortrijk. Daarnaast kijken we mee naar bedrijven in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede.",
+    "Er staat niet voor elke straat al een Zondag klaar. We zoeken er samen een die past bij je uren. Een overzicht van de regio vind je op <a href=\"poetshulp/kortrijk.html\">poetshulp voor bedrijven in Kortrijk</a>."
    ]
   },
   {
-   "h2": "Kortrijk, de deelgemeenten en de buurgemeenten",
+   "h2": "Meer dan poetsen: ook een extra paar handen",
    "p": [
-    "Kortrijk heeft postcode 8500. Aalbeke, Bellegem, Bissegem, Heule, Kooigem, Marke en Rollegem zijn deelgemeenten van Kortrijk. Ook in Kuurne, Harelbeke, Wevelgem, Menen, Zwevegem en Lendelede kijken we naar een Zondag voor je kantoor. We zoeken in en rond de plaats van je zaak, zonder te beloven dat er al iemand klaarstaat. Meer over onze aanpak in de stad lees je op <a href=\"poetshulp/kortrijk.html\">poetshulp in Kortrijk</a>."
+    "Als je Zondag toch al in je kantoor werkt, kan hij of zij ook dingen oppakken die blijven liggen: de post openen en sorteren, een pakje klaarmaken voor de koerier, kantoormateriaal of koffie bijbestellen of een leverancier bellen voor iets kleins. Dat is ondersteunend werk. Boekhouding en juridisch of fiscaal advies horen er niet bij."
    ]
   },
   {
-   "h2": "Starten en factureren",
+   "h2": "Prijs, factuur en btw",
    "p": [
-    "Je doet een aanvraag via het formulier of de chat. Binnen één werkdag belt iemand terug en volgt een intake ter plaatse, waar we het zondagsplan samen opmaken. De eerste 2 uur zijn gratis. Een vennootschap kan geen dienstencheques kopen, dus je krijgt een gewone dienstenfactuur. Het onderhoud van je kantoor is een beroepskost. Laat je accountant bevestigen hoe dat voor jouw situatie werkt."
+    "Je betaalt 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw, en extra uren kosten hetzelfde. De factuur komt op naam van je vennootschap, met je btw-nummer.",
+    "Poetshulp is in principe een beroepskost en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant dit bevestigen voor je eigen situatie."
+   ]
+  },
+  {
+   "h2": "Zo begin je",
+   "p": [
+    "Kies op de <a href=\"boeken.html\">boekpagina</a> je weekdag en het aantal blokken, geef de gegevens van je bedrijf door en betaal online met kaart of Bancontact. Wil je een vast plan, laat dan een terugbelverzoek achter of bel 0470 56 53 58. We bespreken daarna samen welke taken, welke dagen en welke uren."
    ]
   }
  ],
  "faq": [
   {
    "q": "Welk bedrijf levert poetshulp voor IT-bedrijven in Kortrijk?",
-   "a": "Zondags levert vanuit Marke poetshulp voor kantoren van IT-bedrijven in Kortrijk en omgeving. Je krijgt één vaste persoon die voorzichtig werkt rond apparatuur en je een factuur op naam van je vennootschap stuurt."
+   "a": "Zondags uit Marke levert poetshulp voor IT-bedrijven in Kortrijk en omgeving, met één vaste Zondag en een factuur op naam van je vennootschap."
   },
   {
-   "q": "Raakt de poetshulp mijn servers of netwerkkast aan?",
-   "a": "Niet tenzij je dat zelf anders afspreekt. Servers, racks en netwerkkasten blijven standaard onaangeroerd. Jullie leggen samen in het zondagsplan vast wat wel en niet mag."
+   "q": "Is het veilig om een poetshulp tussen mijn computers te laten werken?",
+   "a": "Je Zondag werkt volgens afspraak rond de apparatuur en raakt niets aan wat aan een stekker hangt. Servers en kabelbeheer blijven bij je eigen team."
   },
   {
-   "q": "Kan er gepoetst worden terwijl mijn team werkt?",
-   "a": "Dat kan, maar het is prettiger op een moment dat er weinig mensen zijn. Vroeg in de ochtend of over de middag werkt vaak goed. 's Avonds en in het weekend werken we niet."
+   "q": "Kan de poetshulp voor of na de kantooruren komen?",
+   "a": "Vroeg in de ochtend of over de middag kan, op weekdagen. 's Avonds en in het weekend werkt Zondags niet."
   },
   {
-   "q": "Hoe gaat de poetshulp om met kabels en bureaus vol spullen?",
-   "a": "Je Zondag neemt de vrije oppervlakken af en werkt rond wat er staat. Wat blijft liggen, blijft liggen. Wil je dat een bureau opgeruimd is, dan leg je dat zelf vast voor de beurt."
+   "q": "Wat kost poetshulp voor een IT-kantoor?",
+   "a": "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief."
   },
   {
-   "q": "Kan de zaakvoerder zijn of haar woning laten poetsen door dezelfde persoon?",
-   "a": "Ja. Kantoor en woning kunnen in één plan. Op de factuur staan het beroepsmatige en het privégedeelte apart."
+   "q": "Werkt Zondags ook in Wevelgem of Harelbeke?",
+   "a": "Ja, we kijken ook mee voor bedrijven in Wevelgem en Harelbeke, naast Kuurne, Menen, Zwevegem en Lendelede. We zoeken samen een Zondag die bij je uren past."
   },
   {
-   "q": "Werkt Zondags ook in Heule of Marke?",
-   "a": "Ja. Zondags is gevestigd in Marke en zoekt Zondags in heel Kortrijk, inclusief Heule, en in de buurgemeenten. Hoe snel een start lukt, bespreken we in het eerste gesprek."
+   "q": "Kan ik eerst bellen voor ik boek?",
+   "a": "Ja. Je kan een terugbelverzoek achterlaten of bellen of appen naar 0470 56 53 58, elke dag van 6 tot 22 uur."
   }
- ],
- "path": "sectoren/it-bedrijven-regio-kortrijk.html"
+ ]
 }

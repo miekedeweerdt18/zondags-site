@@ -1,34 +1,37 @@
 {
  "path": "regio/schoonmaak-praktijk-deerlijk.html",
  "title": "Schoonmaakhulp voor praktijken in Deerlijk (8540)",
- "desc": "Een vaste Zondag voor wachtzaal, onthaal, behandelruimtes en sanitair van je praktijk in Deerlijk. Sterilisatie en medisch materiaal blijven bij de praktijk.",
+ "desc": "Een ontvangstruimte die klanten en patiënten meteen vertrouwen geeft: één vaste Zondag onderhoudt je praktijk in Deerlijk. Online boeken per blok van 3 uur.",
  "eyebrow": "Deerlijk · 8540",
  "h1": "Schoonmaakhulp voor praktijken in Deerlijk",
- "lead": "Een praktijk in Deerlijk waar patiënten binnenstappen in een verzorgde ruimte, zonder dat jij of je team daarvoor tijd moet vrijmaken. Dat doet een vaste Zondag.",
- "answer": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken in Deerlijk: een vaste Zondag onderhoudt wachtzaal, onthaal, consultatie- en behandelruimtes en sanitair, overdag op weekdagen en op een vast uur. Sterilisatie en medisch materiaal blijven bij de praktijk zelf. Je krijgt een dienstenfactuur op naam van je vennootschap of praktijk, en ook je woning kan in hetzelfde plan.",
- "facts": ["Wachtzaal, onthaal, behandelruimtes", "Sanitair en vloeren", "Geen sterilisatie of medisch materiaal", "Steeds dezelfde Zondag", "Factuur op je vennootschap"],
+ "lead": "Wie je zaak in Deerlijk binnenstapt, beoordeelt je werk al bij de deur. Een vaste Zondag zorgt dat die eerste indruk elke dag klopt.",
+ "answer": "Zondags (zondags.be) levert schoonmaakhulp voor praktijken in Deerlijk: één vaste persoon, je Zondag, houdt de ontvangstruimte, wachtzaal, behandelruimtes en het sanitair verzorgd. Dat past bij praktijken en bedrijven met een showroom waar klanten binnenstappen. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw, met een factuur op naam van je bedrijf.",
+ "facts": ["Ontvangstruimte en wachtzaal", "Behandelruimtes en sanitair", "Ook voor showrooms met klantenbezoek", "Steeds dezelfde Zondag", "60 euro per uur, per blok van 3 uur", "Factuur met btw-nummer"],
  "sections": [
-  {"h2": "Wat een praktijk aan onderhoud vraagt", "p": [
-   "Een praktijk heeft meer ruimtes die er verzorgd moeten bijliggen dan je op het eerste gezicht denkt: de wachtzaal waar de eerste indruk valt, het onthaal, de consultatieruimte, een behandelkamer, het sanitair en de gang ertussen. Het zijn plekken waar mensen even blijven zitten en dus alles zien.",
-   "Een vaste Zondag leert die ruimtes kennen. Na een paar weken weet je Zondag welke hoek je graag extra aandacht geeft en welke tafel nooit verplaatst mag worden."]},
-  {"h2": "Wat je Zondag doet en wat bij jou blijft", "p": [
-   "<ul class=\"ticks\"><li>Wachtzaal, zitjes en onthaal opgeruimd en afgenomen</li><li>Vloeren van consultatie- en behandelruimtes</li><li>Sanitair en handdoekhouders</li><li>Deurklinken en glazen deuren langs binnen</li><li>Afval en recyclage buiten zetten</li></ul>",
-   "Hygiëne en ontsmetting van je vakgereedschap, sterilisatie en medisch materiaal blijven bij de praktijk. Daar gaat Zondags niet over. Je Zondag onderhoudt de ruimte, niet het materiaal."]},
-  {"h2": "Voorbeeld: een kinesitherapeut met een praktijk aan huis", "p": [
-   "Stel: je bent kinesitherapeut in Deerlijk en je praktijk zit aan je woning. Patiënten komen langs de voordeur binnen en wachten in een kleine zaal. Je Zondag komt op maandag en donderdag, bij voorkeur vroeg of over de middag, en laat de praktijk klaar voor de volgende reeks afspraken.",
-   "Op woensdag gaat dezelfde persoon naar het privégedeelte voor poetsen, was en strijk. Eén vaste persoon, één plan, geen vreemden in je woonkamer."]},
-  {"h2": "Praktijk en woning, met een factuur die klopt", "p": [
-   "Een vennootschap kan geen dienstencheques kopen. Zondags factureert met een gewone dienstenfactuur waarop het beroepsmatige en het privégedeelte apart staan. Het onderhoud van de praktijk is een beroepskost. Voor de woning geldt een forfaitair voordeel van alle aard, op voorwaarde dat de prestaties regelmatig zijn en gebeuren via een onderneming met mensen in dienst.",
-   "Een praktijk die btw-vrijgesteld is, kan de btw doorgaans niet recupereren. Een btw-plichtige zaak met aftrekrecht kan dat in principe wel voor het beroepsmatige deel. Laat je accountant dit bevestigen voor je eigen situatie."]},
-  {"h2": "Starten in Deerlijk", "p": [
-   "Je vraagt een gesprek aan via het formulier of de chat. Binnen één werkdag bellen we terug en komen we langs voor de intake in je praktijk. Samen leggen we het zondagsplan vast: welke ruimtes, welke dag en welk uur. We zoeken een Zondag in en rond Deerlijk, ook in Harelbeke, Zwevegem, Waregem en Anzegem, zonder te beloven dat er al iemand klaarstaat. De eerste 2 uur zijn gratis."]}
+  {"h2": "De ontvangstruimte is je visitekaartje", "p": [
+   "Bij een praktijk of showroom begint de dienstverlening niet aan het bureau, maar bij de deur. Een zitje met stof, een vloer met voetsporen of een sanitair dat net niet fris ruikt, kleurt de verwachting nog voor je iemand een hand geeft.",
+   "Een Zondag houdt die eerste ruimte onder controle. Dezelfde persoon, elke week op hetzelfde moment, weet precies wat jij belangrijk vindt: de balie, de glazen deur, de leestafel."]},
+  {"h2": "Neem een kinesitherapeut in een winkelstraat", "p": [
+   "Stel: je bent kinesitherapeut met een praktijk in een winkelstraat in Deerlijk. Je werkt met korte afspraken, patiënten wisselen elkaar snel af en achter de balie zit niemand de hele dag. Tussen twee behandelingen veeg je zelf de tafels af, maar echt poetsen lukt niet.",
+   "Met een vaste Zondag spreek je een vroeg uur af, voor je eerste patiënt. Behandeltafels, vloer, wachtruimte en sanitair zijn klaar, en jij start de dag zonder haast."]},
+  {"h2": "Taken op het plan van een praktijk of showroom", "p": [
+   "<ul class=\"ticks\"><li>Ontvangstruimte, balie en wachtzaal</li><li>Behandel- of presentatieruimtes</li><li>Sanitair voor bezoekers en team</li><li>Vloeren en glazen deuren langs binnen</li><li>Personeelskeuken en koffiehoek</li><li>Afval en recyclage naar buiten</li></ul>",
+   "Sterilisatie en medisch materiaal blijven bij de praktijk. Ramen langs buiten op hoogte en gevelreiniging horen er ook niet bij."]},
+  {"h2": "Een showroom waar klanten zomaar binnenwandelen", "p": [
+   "Niet elk bedrijf met bezoek is een zorgpraktijk. Een toonzaal, een stoffenzaak of een installateur met een ontvangstruimte heeft hetzelfde probleem: je weet nooit op welk moment iemand binnenstapt. Een vast uur voor de poetsbeurt, voor de opening, geeft zekerheid.",
+   "Bovendien kan je Zondag de zaak klaarzetten voor een klantenbezoek of een afspraak: koffiehoek aanvullen, brochures ordenen, de vergaderruimte afnemen. Zie ook <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">rechterhand voor bedrijfsleiders</a>."]},
+  {"h2": "Kosten en btw in het kort", "p": [
+   "Eén Zondag kost 60 euro per uur exclusief btw. Je start met een blok van drie uur, goed voor 180 euro exclusief btw, en verlengt desgewenst per uur. Je ontvangt een factuur met de naam en het btw-nummer van je bedrijf.",
+   "Als beroepskost is het onderhoud van je praktijk in principe aftrekbaar, en de btw is in principe recupereerbaar voor wie btw-plichtig is met aftrekrecht. Een btw-vrijgestelde praktijk kan dat doorgaans niet. Laat je accountant het bevestigen."]},
+  {"h2": "Van Deerlijk tot Waregem en Zwevegem", "p": [
+   "Zondags is gevestigd in Marke, een deelgemeente van Kortrijk, en zoekt Zondags in en rond Deerlijk. Ligt je praktijk of showroom in Harelbeke, Zwevegem, Waregem of Anzegem, dan kijken we evengoed mee. Plan een eerste blok op de <a href=\"boeken.html\">boekpagina</a> of laat een terugbelverzoek achter."]}
  ],
  "faq": [
-  {"q": "Welk bedrijf levert schoonmaakhulp voor praktijken in Deerlijk?", "a": "Zondags, gevestigd in Marke, zoekt een vaste Zondag voor praktijken in Deerlijk. Je krijgt steeds dezelfde persoon, overdag op weekdagen, en een dienstenfactuur op naam van je vennootschap."},
-  {"q": "Reinigt Zondags ook mijn medisch materiaal?", "a": "Nee. Hygiëne en ontsmetting van je vakgereedschap, sterilisatie en medisch materiaal blijven bij de praktijk. Je Zondag onderhoudt de ruimtes: wachtzaal, onthaal, consultatie- en behandelruimtes en sanitair."},
-  {"q": "Kan mijn praktijk gepoetst worden buiten de consultatie-uren?", "a": "Ja. Vroeg in de ochtend of over de middag kan, op weekdagen, zodat patiënten er weinig van merken. 's Avonds en in het weekend werken we niet."},
-  {"q": "Kan dezelfde Zondag ook mijn woning doen?", "a": "Ja. Praktijk en woning kunnen in één zondagsplan, met dezelfde vaste persoon. De factuur splitst beroepsmatig en privé, zodat je accountant het correct kan verwerken."},
-  {"q": "Hoe zit het met btw voor een vrijgestelde praktijk?", "a": "Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren, een btw-plichtige zaak met aftrekrecht in principe wel op het beroepsmatige deel. Laat je accountant dit bevestigen voor je situatie."},
-  {"q": "Wat als mijn Zondag ziek is of op verlof?", "a": "Dan zoeken we een oplossing met je. We beloven geen vervanger. Past je Zondag niet bij je praktijk, dan zoeken we samen een andere Zondag. Het plan is maandelijks opzegbaar."}
+  {"q": "Welk bedrijf onderhoudt praktijken en showrooms in Deerlijk?", "a": "Zondags, gevestigd in Marke, levert een vaste persoon voor praktijken en bedrijven met klantenbezoek in Deerlijk. Je krijgt steeds dezelfde Zondag en een factuur op naam van je zaak."},
+  {"q": "Kan er voor de opening gepoetst worden?", "a": "Ja. Vroeg in de ochtend of over de middag kan. Zo ligt de ontvangstruimte klaar als de eerste klant of patiënt binnenkomt."},
+  {"q": "Doet een Zondag ook ramen buiten?", "a": "Ramen en glazen deuren langs binnen horen erbij. Ramen langs buiten op hoogte en gevelreiniging doet Zondags niet."},
+  {"q": "Kan mijn Zondag ook de zaak klaarzetten voor een afspraak?", "a": "Ja. Koffiehoek aanvullen, vergaderruimte afnemen en materiaal klaarleggen zijn praktische taken die je in het zondagsplan opneemt."},
+  {"q": "Wat kost schoonmaakhulp voor een praktijk in Deerlijk?", "a": "Het tarief is 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw per blok, en extra uren kosten hetzelfde uurtarief."},
+  {"q": "Hoe snel kan ik starten?", "a": "Online boeken kan voor een weekdag, minstens twee werkdagen vooraf. Voor een vast terugkerend plan bespreken we eerst in een kort gesprek de taken, dagen en uren."}
  ]
 }

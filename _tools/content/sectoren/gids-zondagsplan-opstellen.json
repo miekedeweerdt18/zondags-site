@@ -1,83 +1,84 @@
 {
  "path": "sectoren/gids-zondagsplan-opstellen.html",
  "title": "Gids: zo stel je een zondagsplan op",
- "desc": "Zo maak je een zondagsplan op één pagina: taken, frequentie, dag en uur, en de afspraken tussen jou en je Zondag. Met vragen om vooraf over na te denken.",
- "eyebrow": "Gids · zondagsplan",
+ "desc": "Van taken en frequentie tot dag en uur: zo maak je een zondagsplan op één pagina met duidelijke afspraken tussen jou en je Zondag. Met stappen en voorbeeld.",
+ "eyebrow": "Gids · Zondagsplan",
  "h1": "Gids: zo stel je een zondagsplan op",
- "lead": "Een zondagsplan is één pagina waarop staat wat je Zondag doet, wanneer en volgens welke afspraken. Hoe beter je vooraf nadenkt, hoe vlotter de samenwerking start.",
- "answer": "Een zondagsplan is bij Zondags (zondags.be) het afsprakenblad tussen jou en je vaste Zondag: de taken, hoe vaak ze gebeuren, de dag en het uur, en de afspraken rond het werk. Je maakt het samen met ons op tijdens de intake en kan het later aanpassen, bijvoorbeeld om uren bij te boeken. Zo weet iedereen wat er verwacht wordt.",
+ "lead": "Een zondagsplan is één pagina met de afspraken tussen jou en je Zondag. Wie het goed opstelt, hoeft later nauwelijks nog uit te leggen wat er gebeuren moet.",
+ "answer": "Een zondagsplan is een plan op één pagina dat vastlegt welke taken je Zondag doet, hoe vaak, op welke weekdag en welk uur, en wat niet aangeraakt wordt. Je stelt het op in vijf stappen: taken verzamelen, frequentie kiezen, dag en uur vastleggen, uitzonderingen noteren en na enkele weken bijsturen. Zondags (zondags.be) legt het samen met jou vast tijdens een kort gesprek, aan 60 euro per uur exclusief btw per blok van 3 uur.",
  "facts": [
-  "Eén pagina met taken, dag en uur",
-  "Samen opgemaakt in de intake",
-  "Later aanpasbaar, ook uren bijboeken",
-  "Per adres een eigen plan",
-  "Maandelijks opzegbaar"
+  "Eén pagina met alle afspraken",
+  "Taken, frequentie, dag en uur",
+  "Samen vastgelegd in een kort gesprek",
+  "Bijsturen kan na enkele weken",
+  "60 euro per uur, per blok van 3 uur",
+  "Steeds dezelfde Zondag"
  ],
  "sections": [
   {
-   "h2": "Wat is een zondagsplan precies",
+   "h2": "Waarom een plan op papier",
    "p": [
-    "Het zondagsplan is geen contract vol kleine lettertjes. Het is een praktisch document waarin staat wie wanneer wat doet. Je Zondag hoeft niet te raden wat je verwacht, en jij hoeft niet elke week dezelfde uitleg te herhalen. Voor een kantoor, een praktijk, een winkel of een woning bestaat telkens een eigen plan, ook wanneer dezelfde Zondag voor meerdere adressen komt.",
-    "Het plan maak je op tijdens de intake, nadat we langs zijn gekomen en samen naar de ruimtes of het huishouden hebben gekeken. De eerste 2 uur zijn gratis."
+    "Afspraken die enkel in een hoofd zitten, verdwijnen bij het eerste verlof of de eerste vergadering die uitloopt. Een plan op één pagina lost dat op. Het geeft je Zondag houvast en het geeft jou een maatstaf wanneer je later zegt: dit loopt goed, of dit mag anders."
    ]
   },
   {
-   "h2": "Eerste stap: kies de taken",
+   "h2": "Stap één: verzamel de taken",
    "p": [
-    "Begin bij wat je zelf niet meer wilt doen. Denk aan poetsen, was en strijk, koken, boodschappen, regelwerk of licht tuinonderhoud. Per adres kies je wat past.",
-    "<ul class=\"ticks\"><li>Welke ruimtes of kamers horen erbij</li><li>Welke taken zijn vast, welke komen af en toe</li><li>Wat valt uitdrukkelijk niet in het plan</li><li>Wat blijft in elk geval bij jou, zoals privédocumenten of persoonlijke spullen</li></ul>",
-    "Technische klussen en werken op hoogte horen er nooit bij, ook niet als je erom vraagt."
+    "Schrijf alles op wat je wil laten doen, in drie groepen: poetsen, administratieve hulp en rechterhandwerk. Denk aan bureaus en vloeren, aan de post openen en facturen klasseren, aan kantoormateriaal bestellen of de koffiehoek aanvullen. Wat technisch is, op hoogte gebeurt of onder boekhouding of fiscaal advies valt, hoort niet op het plan. Voor de poetsonderdelen kan je gebruik maken van de <a href=\"sectoren/checklist-wekelijkse-kantoorpoets.html\">wekelijkse kantoorchecklist</a>."
    ]
   },
   {
-   "h2": "Tweede stap: bepaal frequentie en volgorde",
+   "h2": "Stap twee: kies de frequentie per taak",
    "p": [
-    "Hoe vaak komt je Zondag, en wat gebeurt er dan? Een kantoor of praktijk vraagt meestal een vast wekelijks of tweewekelijks ritme. Voor een woning kan dat anders: elke week de strijk, om de week het poetsen, en koken wanneer de week druk wordt.",
-    "Neem ook de volgorde mee. Als de Zondag eerst de keuken doet en dan de vloeren, is dat anders dan omgekeerd. Zulke kleine afspraken maken het verschil tussen een goede en een perfecte beurt."
+    "Niet alles moet even vaak. Een mogelijke indeling:",
+    "<ul class=\"ticks\"><li>Elke beurt: sanitair, keuken, vloeren, afval</li><li>Om de week: kasten aan de buitenkant, plinten, glazen wanden</li><li>Eén keer per maand: archief ordenen, kantoormateriaal tellen</li><li>Op afroep: een pakje klaarmaken of een bezoek voorbereiden</li></ul>"
    ]
   },
   {
-   "h2": "Derde stap: kies dag en uur",
+   "h2": "Stap drie: dag en uur",
    "p": [
-    "Zondags werkt overdag op weekdagen. Vroeg in de ochtend of over de middag kan. Nooit 's avonds en nooit in het weekend. Binnen die kaders kies je mee welke dag en welk uur het best werken. Eens afgesproken, ligt het vast: steeds dezelfde persoon, op dezelfde dag en hetzelfde uur.",
-    "Denk vooraf na over drukke dagen, vakanties en periodes waarin jouw zaak of gezin anders draait. Wat dan kan, bespreken we in de intake. Beloften over de vakantieperiodes doen we vooraf niet."
+    "Kies een weekdag en een uur dat past bij je zaak. Zondags werkt overdag, vroeg in de ochtend of over de middag, nooit 's avonds of in het weekend. Een vast ritme heeft twee voordelen: je team weet wanneer er iemand komt, en je Zondag kan de eigen week erop afstemmen."
    ]
   },
   {
-   "h2": "Vierde stap: schrijf de afspraken op",
+   "h2": "Stap vier: noteer de uitzonderingen",
    "p": [
-    "Wie komt er binnen en hoe? Waar staat het materiaal? Wat doet je Zondag als er iets niet klopt? Zulke vragen beantwoord je samen met ons in de intake, zodat ze in het zondagsplan staan. Zo is er geen verrassing, en weet je Zondag waar hij of zij op kan rekenen.",
-    "Bij ziekte of verlof van je Zondag zoeken wij een oplossing. Dat staat niet gelijk aan een vaste vervanger, maar je weet dat er een oplossing wordt gezocht. Klikt het niet, dan zoeken we samen een andere Zondag."
+    "Schrijf op wat niet aangeraakt wordt en wie de contactpersoon is. Vermeld ook hoe je omgaat met een verlofdag van je team of een vakantiesluiting. Bij ziekte of verlof van je Zondag zoeken wij een oplossing; een vervanger beloven we niet. Hoe je de eerste dag aanpakt, lees je in de <a href=\"sectoren/checklist-eerste-dag-nieuwe-poetshulp.html\">checklist voor de eerste dag</a>."
    ]
   },
   {
-   "h2": "Het plan blijven bijsturen",
+   "h2": "Een voorbeeld: kantoor met vier werkplekken",
    "p": [
-    "Een zondagsplan is geen vast gegeven. Uren bijboeken of het plan aanpassen kan, en een plan is maandelijks opzegbaar. Het loont om het plan na enkele weken na te kijken, zodra je ziet wat echt tijd kost.",
-    "Voor wie nog wil lezen over de aanpak, vind je meer op <a href=\"hoe-het-werkt.html\">hoe het werkt</a> en op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."
+    "Stel: je hebt een adviesbureau met vier werkplekken. Je plan zegt: elke dinsdag, vroeg in de ochtend, één blok. Elke week bureaus, keuken, sanitair en vloeren. Om de week de glazen wand. Eén keer per maand de post van de maand klasseren. Contactpersoon: jijzelf. Niet aanraken: de kast met cliëntendossiers."
+   ]
+  },
+  {
+   "h2": "Stap vijf: bijsturen en boeken",
+   "p": [
+    "Plan na enkele weken een kort moment om het plan te herlezen. Klopt de tijd nog, is een taak blijven liggen, mag er iets bij? Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw, en extra uren aan hetzelfde tarief. Een eerste beurt boek je op de <a href=\"boeken.html\">boekpagina</a>. Voor een vast plan vraag je een terugbelverzoek of bel je 0470 56 53 58."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Wat staat er in een zondagsplan?",
-   "a": "De taken, hoe vaak ze gebeuren, de dag en het uur, en de afspraken tussen jou en je Zondag. Per adres is er een eigen plan, ook wanneer dezelfde Zondag voor meerdere adressen komt."
+   "q": "Wat is een zondagsplan?",
+   "a": "Een plan op één pagina met de afspraken tussen jou en je Zondag: welke taken, welke dagen en uren, hoe vaak en wat niet aangeraakt wordt."
   },
   {
-   "q": "Wie maakt het zondagsplan op?",
-   "a": "Jij en Zondags samen, tijdens de intake ter plaatse. Daarvoor komen we bij je langs, bekijken we de ruimtes of het huishouden en bespreken we wat je verwacht."
+   "q": "Wie stelt het zondagsplan op?",
+   "a": "Je legt het samen vast met Zondags in een kort gesprek. Jij kent je zaak, wij stellen de juiste vragen en zetten het op papier."
   },
   {
-   "q": "Kan ik mijn zondagsplan later aanpassen?",
-   "a": "Ja. Uren bijboeken of het plan aanpassen kan altijd, en het plan is maandelijks opzegbaar. Je past het aan wanneer je situatie of je agenda verandert."
+   "q": "Kan ik het zondagsplan later aanpassen?",
+   "a": "Ja. Na enkele weken herlees je het plan samen en pas je taken, frequentie of uren aan. Het plan groeit mee met je zaak."
   },
   {
-   "q": "Moet ik alles vooraf weten voor de intake?",
-   "a": "Nee. Je hoeft niet alles uitgedacht te hebben. Het helpt wel om te weten wat je zelf niet meer wilt doen en welke dagen en uren bij je zaak of gezin passen. De rest werken we samen uit."
+   "q": "Moet ik een zondagsplan hebben voor een eenmalige beurt?",
+   "a": "Nee. Een losse beurt boek je rechtstreeks online. Het plan is bedoeld voor vaste, terugkerende afspraken."
   },
   {
-   "q": "Kunnen kantoor en woning in één zondagsplan?",
-   "a": "Kantoor of praktijk en woning kunnen met dezelfde Zondag, maar elk adres krijgt een eigen plan. De factuur splitst het beroepsmatige en het privégedeelte."
+   "q": "Wat kost het opstellen van een zondagsplan?",
+   "a": "Het plan leg je vast in een kort gesprek. Wat je betaalt, zijn de geboekte uren: 60 euro per uur exclusief btw, per blok van 3 uur."
   }
  ]
 }

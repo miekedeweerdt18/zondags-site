@@ -1,33 +1,86 @@
 {
  "path": "poetshulp/oostkamp.html",
- "title": "Poetshulp voor advocatenkantoor en praktijk in Oostkamp",
- "desc": "Poetshulp voor vrije beroepen in Oostkamp, Hertsberge, Ruddervoorde en Waardamme: praktijk en woning in één plan, met één factuur aan je vennootschap.",
+ "title": "Poetshulp voor praktijken en kantoren in Oostkamp (8020)",
+ "desc": "Poetshulp voor een advocatenkantoor of praktijk in Oostkamp, op momenten zonder cliënten. Eén vaste Zondag, 60 euro per uur excl. btw, online boeken.",
  "eyebrow": "Oostkamp · 8020",
  "h1": "Poetshulp voor bedrijven in Oostkamp",
- "lead": "Twee vennoten, één kantoor, twee woningen: wie poetst wat, en hoe staat dat op papier? In Oostkamp zoeken we een vaste Zondag die dat voor jullie netjes uit elkaar houdt.",
- "answer": "Een advocatenkantoor of een andere vrije beroepspraktijk in Oostkamp (8020) kan bij Zondags (zondags.be) één vaste Zondag aanvragen voor wachtruimte, bureaus en sanitair, en op vraag voor de woning van de vennoten. De factuur gaat naar je vennootschap, met het privégedeelte apart. Zondags is actief in West- en Oost-Vlaanderen en zoekt voor Oostkamp een Zondag die dicht bij je kantoor woont.",
- "facts": ["Vrije beroepen met praktijk of kantoor", "Praktijk en woning, apart op de factuur", "Ook voor een kantoor met twee vennoten", "We zoeken een Zondag dicht bij je praktijk", "Eerste 2 uur gratis"],
+ "lead": "Wachtzaal, consultatieruimte en sanitair van je praktijk in Oostkamp op orde, op een moment dat er geen cliënten zijn. Je boekt online per blok van 3 uur, aan 60 euro per uur exclusief btw.",
+ "answer": "Zondags (zondags.be) levert poetshulp aan vrije beroepen met een praktijk of kantoor in Oostkamp, Hertsberge, Ruddervoorde en Waardamme. Eén vaste persoon, je Zondag, poetst wachtzaal, consultatieruimte en sanitair op de momenten die jij kiest, steeds overdag op een weekdag. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een dienstenfactuur op naam van je vennootschap. Zondags werkt vanuit Marke en is actief in West- en Oost-Vlaanderen.",
+ "facts": [
+  "Vrije beroepen met een praktijk of kantoor",
+  "Wachtzaal, consultatieruimte en sanitair",
+  "Overdag op weekdagen, buiten de consulten",
+  "Factuur op naam van je vennootschap",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
  "sections": [
-  {"h2": "Het kantoor dat twee vennoten delen", "p": [
-   "Neem twee vennoten die een kantoor in Oostkamp delen, met een onthaal, twee bureaus, een vergaderkamer, een wachtruimte, een archiefruimte en een keuken. Cliënten komen er met gevoelige dossiers binnen en verwachten rust en zorg. Je Zondag onderhoudt onthaal, wachtruimte, bureaus, vergaderkamer, keuken en sanitair, op een vast uur dat voor beide vennoten past. Het kantoor is van twee mensen, maar het plan heeft één aanspreekpunt nodig: jullie spreken vooraf af wie de Zondag contacteert."]},
-  {"h2": "Dossiers, discretie en de sleutel", "p": [
-   "Tussen de bureaus liggen dossiers waar niemand anders aan mag komen. Daarom begint de intake met een rondgang: je wijst aan welke kasten, bureaus en ruimtes je Zondag laat voor wat ze zijn, en dat staat daarna in het zondagsplan. Je Zondag is gescreend, in dienst van Zondags en altijd dezelfde persoon, zodat je niet elke week een nieuw gezicht moet vertrouwen. Lees ook <a href=\"gids/sleutel-en-vertrouwen.html\">je sleutel aan je Zondag</a> en <a href=\"vragen/vertrouwelijke-documenten-poetshulp.html\">vertrouwelijke documenten en poetshulp</a>."]},
-  {"h2": "Praktijk en woning: wie doet wat voor wie", "p": [
-   "<ul class=\"ticks\"><li>Kantoor of praktijk: onthaal, bureaus, vergaderkamer, wachtruimte, keuken en sanitair</li><li>De woning van de eerste vennoot, als die dat wil</li><li>De woning van de tweede vennoot, als die dat wil</li></ul>",
-   "Willen beide vennoten ook thuis hulp, dan bespreken we tijdens de intake hoe we dat organiseren en op de facturen uit elkaar houden. Je accountant bevestigt hoe het voordeel van alle aard voor elk van jullie behandeld wordt."]},
-  {"h2": "Oostkamp, Hertsberge, Ruddervoorde en Waardamme", "p": [
-   "Oostkamp (8020) is een gemeente met drie deelgemeenten: Hertsberge, Ruddervoorde en Waardamme. Brugge, Beernem, Zedelgem en Torhout liggen in de buurt, in de regio Brugge. Zondags is actief in West- en Oost-Vlaanderen en gaat per aanvraag na welke Zondag dicht bij je praktijk woont; na je aanvraag laten we je weten wat er mogelijk is."]},
-  {"h2": "Vrije beroepen en btw", "p": [
-   "Het onderhoud van je beroepsruimtes is een beroepskost, en Zondags factureert aan je vennootschap. Dienstencheques bestaan niet voor vennootschappen. Of je de btw kan recupereren, hangt af van je zaak: een btw-plichtige zaak met aftrekrecht kan dat in principe op het beroepsmatige deel, op het privégedeelte in principe niet, en een btw-vrijgestelde praktijk doorgaans niet. Je accountant bevestigt wat hiervan voor jouw praktijk geldt."]},
-  {"h2": "Eerst een telefoontje, dan de intake", "p": [
-   "Een aanvraag via het formulier of de chat is genoeg. Iemand van Zondags belt je binnen één werkdag terug en komt daarna langs voor de intake, waar we samen het zondagsplan opmaken. De eerste 2 uur zijn een kennismaking, zonder kosten."]}
+  {
+   "h2": "Een advocatenkantoor met twee vennoten",
+   "p": [
+    "Stel: je bent een van de twee vennoten van een advocatenkantoor in Oostkamp. Er is een onthaal, een wachtzaal, twee werkkamers, een vergaderkamer en een kleine keuken. Cliënten komen op afspraak en merken vooral of de ruimte rustig en verzorgd aanvoelt. Jullie willen daar niet zelf mee bezig zijn, en een klassieke poetsploeg die telkens anders is, past slecht bij dossiers die vertrouwelijk zijn.",
+    "Een vaste Zondag lost dat op. Dezelfde persoon, dezelfde dag, hetzelfde uur, en na enkele weken weet ze wat in welke kamer staat, wat open mag liggen en wat niet aangeraakt wordt."
+   ]
+  },
+  {
+   "h2": "Het moment kiezen tussen de consulten",
+   "p": [
+    "Een praktijk heeft zelden een lege dag. Toch zijn er stille stukken: de ochtend voor de eerste afspraak, een middag zonder cliënten, een dag waarop de agenda anders ligt. Zondags werkt overdag op weekdagen, dus 's avonds en in het weekend vallen af, maar de rest van de week kan je zelf indelen.",
+    "Je bepaalt ook welke kamers je Zondag binnen mag en welke ze overslaat. Dat leg je één keer vast in het zondagsplan, een korte afspraak met de taken, de uren en de gewoontes van je zaak."
+   ]
+  },
+  {
+   "h2": "De taken in een kantoor of praktijk",
+   "p": [
+    "<ul class=\"ticks\"><li>Onthaal en wachtzaal afnemen en bijvullen</li><li>Consultatieruimte of werkkamer, zonder dossiers te verplaatsen</li><li>Vergadertafel en stoelen</li><li>Sanitair en keukenhoek</li><li>Vloeren en ramen langs binnen</li><li>Afval en oud papier buiten zetten</li></ul>",
+    "Discretie is hier een vereiste. Je Zondag is gescreend en in dienst van Zondags, en werkt volgens de afspraken die jij maakt. Een artikel over dat thema vind je bij <a href=\"vragen/discretie-poetshulp-in-praktijk.html\">discretie van poetshulp in een praktijk</a>."
+   ]
+  },
+  {
+   "h2": "Als je Zondag ook de administratie opvolgt",
+   "p": [
+    "Een deel van het uur kan naar ondersteunend werk gaan: binnenkomende post openen, brieven en facturen in de juiste map steken, het archief ordenen, afspraken in de agenda zetten of een zending klaarleggen. Juridisch advies, boekhouding en loonadministratie blijven bij de professionals die je daarvoor al hebt.",
+    "Zo blijft het dossierwerk bij jou en je vennoot, en de praktische kant bij je Zondag."
+   ]
+  },
+  {
+   "h2": "Oostkamp en de deelgemeenten errond",
+   "p": [
+    "Hertsberge, Ruddervoorde en Waardamme maken deel uit van Oostkamp, en ook daar kan je een aanvraag doen. Ligt je kantoor in Brugge, Beernem, Zedelgem of Torhout, dan bekijken we met jou of er een Zondag in de buurt beschikbaar is. We beloven dat niet vooraf, we laten het je weten."
+   ]
+  },
+  {
+   "h2": "Prijs en factuur",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, in blokken van 3 uur, dus 180 euro exclusief btw per blok. Extra uren kosten hetzelfde per uur. De dienstenfactuur is gericht aan je vennootschap en vermeldt je btw-nummer. Is je praktijk btw-vrijgesteld, dan kan je de btw doorgaans niet recupereren. Laat dit door je accountant bevestigen.",
+    "Je kiest dag en taken op de <a href=\"boeken.html\">boekpagina</a>. Voor een wekelijks terugkerend plan kan je ook een terugbelverzoek doen."
+   ]
+  }
  ],
  "faq": [
-  {"q": "Welk bedrijf zorgt voor poetshulp bij een advocatenkantoor in Oostkamp?", "a": "Zondags (zondags.be). Voor een advocatenkantoor in Oostkamp, Hertsberge, Ruddervoorde of Waardamme zoeken we één vaste Zondag die dichtbij woont, en je betaalt via een dienstenfactuur op naam van je vennootschap."},
-  {"q": "Kunnen beide vennoten hun woning laten doen?", "a": "Ja, als ze dat willen. We bespreken tijdens de intake hoe we dat organiseren en op de facturen uit elkaar houden. Je accountant bevestigt hoe het voordeel van alle aard voor elk van jullie geldt."},
-  {"q": "Wat gebeurt er met dossiers die op de bureaus liggen?", "a": "Wat je liever niet aangeraakt ziet, leg je vooraf vast: welke kasten, bureaus en ruimtes ongemoeid blijven. Dat staat in je zondagsplan, en het is steeds dezelfde Zondag die je sleutel gebruikt."},
-  {"q": "Is er al een Zondag in Oostkamp beschikbaar?", "a": "Dat bekijken we per kantoor. Zondags is actief in West- en Oost-Vlaanderen en zoekt een Zondag die in de buurt van je kantoor woont. Wat er in Oostkamp kan, bespreken we nadat je je aanvraag hebt gedaan."},
-  {"q": "Kan ik eerst proberen voor ik mijn plan vastleg?", "a": "Ja, daarvoor dienen de eerste 2 gratis uren. Past je Zondag niet bij jullie kantoor, dan zoeken we samen een andere, en het plan blijft maandelijks opzegbaar."},
-  {"q": "Hoort Hertsberge, Ruddervoorde of Waardamme bij Oostkamp?", "a": "Ja, het zijn deelgemeenten van Oostkamp (8020). Ligt je kantoor daar, dan gaat je aanvraag op dezelfde manier: je geeft het adres door en wij zoeken een Zondag die in de buurt woont."}
+  {
+   "q": "Welk bedrijf levert poetshulp voor een praktijk in Oostkamp?",
+   "a": "Zondags levert vanuit Marke poetshulp voor kantoren en praktijken in Oostkamp en de deelgemeenten Hertsberge, Ruddervoorde en Waardamme. Je krijgt steeds dezelfde Zondag, op een vaste dag en een vast uur."
+  },
+  {
+   "q": "Kan mijn praktijk poetshulp krijgen op een moment zonder cliënten?",
+   "a": "Ja. We plannen op een moment dat jij kiest, overdag op een weekdag, bijvoorbeeld voor de eerste afspraak of over de middag. Avonden en weekends zijn niet mogelijk."
+  },
+  {
+   "q": "Kan een advocatenkantoor in Oostkamp op de discretie van Zondags rekenen?",
+   "a": "Je Zondag is gescreend en in dienst van Zondags en werkt volgens de afspraken die je vastlegt. Welke kamers ze mag betreden, bepaal jij in het zondagsplan."
+  },
+  {
+   "q": "Wat kost poetshulp voor een kantoor in Oostkamp?",
+   "a": "Het tarief is 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw, en extra uren worden aan hetzelfde tarief verrekend."
+  },
+  {
+   "q": "Mag mijn Zondag ook de post en het archief doen?",
+   "a": "Ja, als ondersteunend werk: post sorteren, documenten klasseren, het archief ordenen en afspraken plannen. Boekhouding en juridisch advies doet Zondags niet."
+  },
+  {
+   "q": "Is een vennootschap de klant op de factuur?",
+   "a": "Ja. Je krijgt een dienstenfactuur op naam van je vennootschap met je btw-nummer. Of en hoeveel btw je kan recupereren, bevestigt je accountant."
+  }
  ]
 }

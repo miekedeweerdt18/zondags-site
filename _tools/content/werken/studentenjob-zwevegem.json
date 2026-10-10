@@ -1,79 +1,81 @@
 {
- "path": "werken/studentenjob-zwevegem.html",
  "title": "Studentenjob met flexibele uren in Zwevegem",
- "desc": "Studentenjob in Zwevegem voor wie graag met kinderen werkt, bijvoorbeeld in de lerarenopleiding. Overdag, geen weekends, uren rond je lessen. Vanaf 18 jaar.",
- "eyebrow": "Studentenjob · Zwevegem",
+ "desc": "Studentenjob in Zwevegem met flexibele uren: overdag op weekdagen, bij vaste klanten, rond je lessenrooster. Planning en administratie inbegrepen.",
+ "eyebrow": "Studentenjob · Zwevegem · 8550",
  "h1": "Studentenjob met flexibele uren in Zwevegem",
- "lead": "Je studeert voor leraar en je voelt je thuis tussen kinderen. In Zwevegem kan je die ervaring opbouwen in een studentenjob die om je lessen heen past.",
- "answer": "Zondags (zondags.be) zoekt studenten vanaf 18 jaar in en rond Zwevegem voor een studentenjob met flexibele uren. Als Zondag werk je overdag op weekdagen bij vaste klanten, zoals ondernemers, praktijken, kantoren en gezinnen, en je kiest mee je dagen en uren rond je lessen. Je werkt met een studentencontract en solliciteert via het formulier, de chat of WhatsApp.",
+ "lead": "Stel: je studeert office management en plannen ligt je beter dan stofzuigen. Bij Zondags kan je allebei doen, overdag op weekdagen en rond je lessenrooster.",
+ "answer": "Zondags (zondags.be) zoekt studenten vanaf 18 jaar in en rond Zwevegem voor een job overdag op weekdagen bij vaste klanten. Die klanten zijn bedrijven: kantoren, praktijken, winkels en bedrijfsleiders. Je werkt als je Zondag, de vaste persoon van een zaak, met een studentencontract. Dagen en uren kies je mee rond je lessen en je vakanties. Solliciteren kan via het formulier, de chat of WhatsApp.",
  "facts": [
   "Studenten vanaf 18 jaar",
-  "Ook met kinderen als focus",
-  "Uren rond je lessenrooster",
-  "Geen weekends of avonden",
-  "Studentencontract"
+  "Overdag op weekdagen, nooit in het weekend",
+  "Klanten zijn enkel bedrijven",
+  "Studentencontract, urensaldo via Student@work",
+  "Dagen en uren kies je mee",
+  "Verloning boven het barema"
  ],
  "sections": [
   {
-   "h2": "Stel: je volgt de lerarenopleiding",
+   "h2": "Stel: je studeert office management",
    "p": [
-    "Je bent student lerarenopleiding en je lessen verschillen van week tot week. Stages, lesblokken, vakken die je maar één keer per week hebt. Een vast uurrooster van een klassiek studentenjob werkt dan niet. Wat wel werkt: afspraken die je zelf mee vastlegt.",
-    "Bij Zondags kan je kiezen voor taken met kinderen. Gezinnen zoeken iemand die hun kinderen ophaalt van school of opvangt tot een ouder thuis is. Daar leer je dingen die je in de klas ook nodig hebt: geduld, een gesprek aanknopen, grenzen aangeven, een snack klaarzetten."
+    "Je volgt lessen waarin agenda's, dossiers en afspraken centraal staan. Dan is een job die daarbij aansluit leuker dan een kassa of een magazijn. Bij Zondags bestaat het werk voor een deel uit precies dat: post sorteren, documenten klasseren, een archief ordenen, gegevens invoeren en afspraken inplannen voor een bedrijfsleider die er zelf niet aan toe komt.",
+    "Je krijgt dus geen anonieme taak, je wordt de Zondag van een zaak. Dezelfde klant, dezelfde plek en dezelfde dag, zodat je al snel weet waar alles ligt en wat de bedrijfsleider verwacht."
    ]
   },
   {
-   "h2": "Een week met wisselende lessen",
+   "h2": "Wat je concreet doet",
    "p": [
-    "Op maandag haal je na je laatste les twee kinderen op en blijf je bij hen tot de ouders thuis zijn. Op woensdag, als je vrij bent, maak je een huis schoon en strijk je een stapel wasgoed. Op vrijdagvoormiddag verzorg je het kantoor van een ondernemer. Zijn je lessen volgende periode anders, dan passen we je dagen samen aan. Zo blijft je studie voorop staan, en blijft het werk iets dat je er met plezier naast doet.",
-    "Die wisselende planning is geen probleem zolang je ze tijdig doorgeeft. Eens afgesproken ligt je rooster vast, bij dezelfde klanten."
+    "<ul class=\"ticks\"><li>Post openen, sorteren en doorgeven</li><li>Facturen en documenten klasseren</li><li>Dossiers en archief in orde brengen</li><li>Afspraken en agenda inplannen</li><li>Kantoor, praktijk of winkel netjes houden</li><li>Koffiehoek en kantoormateriaal bijhouden</li></ul>",
+    "Je kiest mee wat je graag doet. Hou je meer van administratie dan van poetsen, dan zeg je dat in het gesprek en zoeken we klanten waar dat past. Technische klussen en werken op hoogte staan niet op het lijstje, en je werkt enkel in bedrijfsruimtes."
    ]
   },
   {
-   "h2": "Je kiest wat bij je past",
+   "h2": "Hoe je uren rond je lessen passen",
    "p": [
-    "<ul class=\"ticks\"><li>Kinderen ophalen en opvangen na school</li><li>Huishouden en poetsen</li><li>Was en strijk</li><li>Koken of boodschappen</li><li>Een kantoor of praktijk onderhouden</li></ul>",
-    "Hou je meer van kinderen dan van poetsen, zeg het dan. Wij zoeken klanten die bij je voorkeur passen. Technische klussen en werken op hoogte zijn er niet bij."
+    "Je werkt enkel overdag op weekdagen. Een vrije voormiddag, een leeg uur tussen twee lessen of een volledige vakantieweek: je legt samen met ons vast wanneer je beschikbaar bent. Vroeg in de ochtend of over de middag kan ook. Avonden en weekends vallen weg, dus je blokt er geen blok studie of kotleven mee weg.",
+    "Eens een rooster is afgesproken, ligt het vast bij dezelfde klant. Dat is rustig plannen voor jou en voor de zaak."
    ]
   },
   {
-   "h2": "Wat je krijgt",
+   "h2": "Contract en opvolging",
    "p": [
-    "Je werkt in dienst van Zondags met een studentencontract. Je verloning ligt boven het barema en je verplaatsingen worden vergoed. Je volgt zelf je urensaldo op via Student@work en wij nemen de rest van de administratie op ons. Er is geen diploma of ervaring nodig, maar wel betrouwbaarheid, discretie en genoeg Nederlands om afspraken te maken."
+    "Je werkt met een studentencontract in dienst van Zondags. Je volgt zelf je urensaldo op via Student@work, zodat je weet hoeveel ruimte je nog hebt. De verloning ligt boven het barema en je verplaatsingen worden vergoed. Alles staat correct op papier.",
+    "Een diploma of ervaring hoeven we niet. Betrouwbaarheid, discretie en zin in orde tellen, en je spreekt voldoende Nederlands om afspraken te maken."
    ]
   },
   {
-   "h2": "Zwevegem, Heestert, Moen, Otegem en Sint-Denijs",
+   "h2": "Zwevegem en omgeving",
    "p": [
-    "Heestert, Moen, Otegem en Sint-Denijs horen bij Zwevegem. We zoeken Zondags in en rond de gemeente, in de regio Kortrijk, en ook in Kortrijk, Harelbeke, Deerlijk, Avelgem, Spiere-Helkijn en Anzegem. Voor een overzicht van het werk in de buurt, zie ook <a href=\"jobs/huishoudhulp-zwevegem.html\">huishoudhulp in Zwevegem</a>."
+    "Heestert, Moen, Otegem en Sint-Denijs horen bij Zwevegem. We zoeken Zondags in en rond de gemeente, in de regio Kortrijk, en ook richting Kortrijk zelf, Harelbeke, Deerlijk, Avelgem, Spiere-Helkijn en Anzegem. Zo werk je dicht bij waar je woont en blijft de verplaatsing kort."
    ]
   },
   {
-   "h2": "Solliciteren",
+   "h2": "Zo solliciteer je",
    "p": [
-    "Meld je aan via het formulier, de chat of WhatsApp op 0470 56 53 58. Binnen de twee werkdagen bellen we je voor een kort gesprek. Klikt het, dan zoeken we klanten dicht bij je woonplaats en gaan we samen langs bij de start."
+    "Vul het formulier in, stuur een bericht via de chat of app ons op 0470 56 53 58. Binnen de twee werkdagen bellen we je voor een kort gesprek. Klikt het, dan zoeken we klanten dicht bij je woonplaats die passen bij je uren. Bij de start gaan we samen langs en krijgt elke klant een zondagsplan met de taken, de uren en de afspraken. Meer uitleg vind je op <a href=\"jobs/studentenjob-flexibele-uren.html\">studentenjob met flexibele uren</a> en op <a href=\"zondag-worden.html\">zondag worden</a>."
    ]
   }
  ],
  "faq": [
   {
    "q": "Waar vind ik een studentenjob met flexibele uren in Zwevegem?",
-   "a": "Bij Zondags. We zoeken studenten vanaf 18 jaar in en rond Zwevegem voor een job overdag bij vaste klanten. Je kiest mee je dagen en uren rond je lessen."
+   "a": "Bij Zondags. We zoeken studenten in en rond Zwevegem voor werk overdag op weekdagen bij vaste bedrijfsklanten. Je solliciteert via het formulier, de chat of WhatsApp op 0470 56 53 58."
   },
   {
-   "q": "Kan ik als student lerarenopleiding met kinderen werken?",
-   "a": "Ja. Je kan ervoor kiezen om kinderen op te halen van school of op te vangen na school. Je geeft je voorkeur door, dan zoeken we klanten die erbij passen."
+   "q": "Kan ik als student office management ook administratief werk doen?",
+   "a": "Ja. Post sorteren, klasseren, dossiers ordenen, gegevens invoeren en afspraken plannen horen bij het werk. Boekhouding of loonadministratie doe je niet."
   },
   {
-   "q": "Wat als mijn lessenrooster verandert?",
-   "a": "Geef het tijdig door. Dan bekijken we samen welke dagen en uren beter passen. Zodra het nieuwe rooster is afgesproken, ligt het vast."
+   "q": "Moet ik in het weekend of 's avonds werken?",
+   "a": "Nee. Zondags werkt enkel overdag op weekdagen. Vroeg in de ochtend of over de middag kan, avonden en weekends nooit."
   },
   {
-   "q": "Werk ik ook in het weekend?",
-   "a": "Nee. Je werkt enkel overdag op weekdagen, nooit 's avonds en nooit in het weekend."
+   "q": "Moet ik ervaring hebben?",
+   "a": "Nee, een diploma of ervaring is niet nodig. Je bent minstens 18, je bent betrouwbaar en discreet en je houdt van orde. Voldoende Nederlands is nodig om afspraken te maken."
   },
   {
-   "q": "Heb ik ervaring met kinderen nodig?",
-   "a": "Nee. Je hebt geen diploma of ervaring nodig. We gaan bij de start samen langs bij de klant en je krijgt een zondagsplan met de afspraken."
+   "q": "Wie zijn de klanten bij wie ik werk?",
+   "a": "Dat zijn altijd bedrijven: kantoren, praktijken, winkels en bedrijfsleiders in de buurt. Je werkt enkel in bedrijfsruimtes en je bent steeds de vaste persoon van dezelfde zaak."
   }
- ]
+ ],
+ "path": "werken/studentenjob-zwevegem.html"
 }

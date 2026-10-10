@@ -1,35 +1,37 @@
 {
  "path": "poetshulp/moorsele.html",
- "title": "Poetshulp voor bedrijven in Moorsele (8560)",
- "desc": "Poetshulp in Moorsele voor ondernemers met een kantoor of praktijk aan huis. Praktijk en woning in één plan, met een duidelijke splitsing op de factuur.",
+ "title": "Poetshulp en administratieve hulp in Moorsele",
+ "desc": "Poetshulp en administratieve hulp voor je kantoor, bedrijfsunit of groepspraktijk in Moorsele, deelgemeente van Wevelgem. 60 euro per uur exclusief btw.",
  "eyebrow": "Moorsele · 8560",
  "h1": "Poetshulp voor bedrijven in Moorsele",
- "lead": "Wie in Moorsele thuis een praktijk of kantoor heeft, deelt één dak voor werk en privé. Eén vaste Zondag poetst beide, en de factuur houdt ze netjes uit elkaar.",
- "answer": "Ondernemers in Moorsele, een deelgemeente van Wevelgem, met een kantoor of praktijk aan huis kunnen bij Zondags (zondags.be) poetshulp aanvragen. Praktijk en woning zitten in één zondagsplan met dezelfde vaste persoon, en op de dienstenfactuur aan je vennootschap staan het beroepsmatige en het privégedeelte apart. De kennismaking van 2 uur is gratis en het plan kan je per maand opzeggen.",
- "facts": ["Kantoor of praktijk aan huis", "Praktijk en woning in één plan", "Splitsing op de factuur", "Moorsele hoort bij Wevelgem", "Eerste 2 uur gratis"],
+ "lead": "Wie een kantoor of bedrijfsunit huurt in Moorsele, zoekt vaak één partner voor het poetsen en voor de administratieve kleinigheden. Een vaste Zondag doet beide in één bezoek.",
+ "answer": "Zondags (zondags.be) levert poetshulp en administratieve hulp voor bedrijven in Moorsele, een deelgemeente van Wevelgem met postcode 8560. Je Zondag onderhoudt je gehuurde kantoor, bedrijfsunit of praktijk en neemt post, klasseerwerk en kleine regeltaken over. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en ontvangt een dienstenfactuur op naam van je bedrijf.",
+ "facts": ["Gehuurd kantoor, bedrijfsunit of praktijk", "Poetsen en administratie in één bezoek", "Eén vaste Zondag", "Factuur op naam van je bedrijf", "60 euro per uur, per blok van 3 uur", "Online boeken"],
  "sections": [
-  {"h2": "Een logopediste met een praktijk aan huis", "p": [
-   "Neem een logopediste in Moorsele die haar praktijk aan huis heeft: een wachtruimte, een behandelkamer, een toilet voor cliënten en een deur die doorgaat naar haar eigen keuken en woonkamer. Haar werkdag bestaat uit afspraken, en tussen twee cliënten is er geen tijd om de wachtruimte af te nemen.",
-   "Wat voor haar telt, is dat de ruimtes rustig en verzorgd ogen wanneer de eerste cliënt binnenkomt. Dat is werk voor één vaste persoon die het huis en de praktijk allebei kent."]},
-  {"h2": "Waar de praktijk eindigt en het huis begint", "p": [
-   "Bij een praktijk aan huis lopen de ruimtes in elkaar over, maar op papier zijn het twee dingen. De wachtruimte, de behandelkamer en het sanitair voor cliënten zijn beroepsruimtes. De keuken, de slaapkamers en de woonkamer zijn privé. In het zondagsplan staat per ruimte waartoe ze behoort.",
-   "Hoe je de verhouding tussen beide verdeelt, bespreek je met je accountant. Wij houden ruimtes en uren in het plan uit elkaar, zodat de factuur kan splitsen."]},
-  {"h2": "Zo komt het op de factuur", "p": [
-   "Een vennootschap kan geen dienstencheques kopen; die zijn er alleen voor particulieren. Zondags factureert met een gewone dienstenfactuur op naam van je vennootschap, met een regel voor het beroepsgedeelte en een regel voor het privégedeelte. Het onderhoud van beroepsruimtes is een beroepskost.",
-   "Voor het privégedeelte bestaat een forfaitair voordeel van alle aard, mits de beurten regelmatig plaatsvinden en door een onderneming met personeel worden uitgevoerd. Bij btw geldt: op het beroepsdeel is die in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte in principe niet. Is je praktijk btw-vrijgesteld, dan kan je de btw doorgaans niet recupereren. Laat je accountant dit bevestigen voor je eigen situatie. Over de btw bij een vrijgestelde praktijk gaat <a href=\"vragen/btw-vrijgestelde-praktijk-poetshulp.html\">poetshulp voor een btw-vrijgestelde praktijk</a>."]},
-  {"h2": "Eén plan, één persoon", "p": [
-   "Je Zondag kan op één dag beide delen doen, of verdelen: de praktijk op een ochtend vóór de eerste cliënt, het huis op een ander moment van de week. Wij werken overdag op weekdagen, vroeg in de ochtend of over de middag, nooit 's avonds of in het weekend.",
-   "<ul class=\"ticks\"><li>Wachtruimte en behandelkamer: vloeren en vrije oppervlakken</li><li>Sanitair voor cliënten</li><li>Keuken, woonkamer en slaapkamers</li><li>Was en strijk van het gezin</li><li>Boodschappen of schotels voor de week</li></ul>",
-   "Het materiaal dat je in je behandeling gebruikt, blijft bij jou, net als sterilisatie en alles wat medisch materiaal is."]},
-  {"h2": "De eerste stap vanuit Moorsele", "p": [
-   "Moorsele hoort bij Wevelgem. Je start met een aanvraag via het formulier of de chat. Binnen één werkdag word je teruggebeld en volgt de intake in je praktijk. Ook in Gullegem, Ledegem, Lendelede, Wevelgem en Dadizele werken we zo. Bij ziekte of verlof van je Zondag zoeken wij een oplossing."]}
+  {"h2": "Eén aanspreekpunt voor je gehuurde ruimte", "p": [
+   "Een klein bedrijf in een verhuurd kantoor of een bedrijfsunit doet het meestal met een klein team. De zaakvoerder doet het commerciële, één collega de planning, en voor het poetsen is geen vaste afspraak gemaakt. Wie dan een poetsbedrijf plus een administratieve kracht moet zoeken, verliest tijd met twee leveranciers, twee facturen en twee afspraken.",
+   "Bij Zondags regel je beide met één persoon en één factuur. Je Zondag poetst de ruimte, en gebruikt de resterende uren van het blok voor wat er op kantoor blijft liggen."]},
+  {"h2": "Stel: een logopediste met een groepspraktijk", "p": [
+   "Neem een groepspraktijk voor logopedie in Moorsele met drie behandelkamers, een wachtzaal en een kleine keuken voor de behandelaars. Tussen de consultaties door is er geen tijd om af te nemen. Op dinsdag en vrijdag komt de Zondag in de vroege ochtend: wachtzaal, behandelkamers, keuken en sanitair worden gepoetst, de vloeren gedaan en het afval buitengezet.",
+   "Met de resterende tijd opent ze de post, ordent ze dossiers in de kast en bevestigt ze met de agenda welke afspraken er nog open staan. Welke dossiers ze niet aanraakt, spreek je vooraf af. Medisch of therapeutisch materiaal reinigen of steriliseren valt buiten haar taken, net als alles wat met zorg zelf te maken heeft."]},
+  {"h2": "Poetsen en administratie combineren", "p": [
+   "<ul class=\"ticks\"><li>Eerst de ruimte: bureaus, wachtzaal, keuken, sanitair</li><li>Daarna post openen en sorteren</li><li>Facturen en documenten klasseren in de juiste map</li><li>Kantoormateriaal opvolgen en bijbestellen</li><li>Afspraken en agenda mee plannen</li><li>Pakjes en zendingen klaarmaken</li></ul>",
+   "Hoe je de uren verdeelt, bepaal jij. Sommige zaken doen twee uur poetsen en één uur administratie, andere omgekeerd. Voor meer over deze rol, zie <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">de rechterhand voor bedrijfsleiders</a>."]},
+  {"h2": "Wat de verhuurder en wat jij doet", "p": [
+   "In een gehuurde ruimte zijn er soms gemeenschappelijke delen, zoals een gang of inkomhal, die de verhuurder regelt. De ruimtes die jij gebruikt, regel je zelf. Je Zondag poetst enkel wat bij jouw zaak hoort. Welke delen dat zijn, spreken we af bij de start, zodat er geen misverstand ontstaat."]},
+  {"h2": "Moorsele en de buurt", "p": [
+   "Moorsele hoort bij Wevelgem en heeft postcode 8560. In de buurt liggen Gullegem, Ledegem, Lendelede, Wevelgem zelf en Dadizele. Voor elke zaak zoeken we een Zondag die bij het uur en de plek past."]},
+  {"h2": "Kosten en btw", "p": [
+   "Je boekt per blok van 3 uur aan 60 euro per uur exclusief btw, dus 180 euro exclusief btw per blok. Extra uren: hetzelfde tarief. De dienstenfactuur staat op naam van je bedrijf en bevat je btw-nummer. De kost is in principe een beroepskost. De btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, terwijl een btw-vrijgestelde praktijk dat doorgaans niet kan. Je accountant bevestigt dit."]},
+  {"h2": "Een eerste afspraak", "p": [
+   "Via de <a href=\"boeken.html\">boekpagina</a> reserveer je een weekdag, minstens twee werkdagen vooraf. Voor een wekelijks plan spreken we eerst even over taken, dagen en uren."]}
  ],
  "faq": [
-  {"q": "Welk bedrijf regelt de poetshulp voor een praktijk aan huis in Moorsele?", "a": "Zondags regelt die poetshulp, voor praktijken en kantoren aan huis in Moorsele, met één vaste persoon voor praktijk en woning. Op de factuur aan je vennootschap staan beide gedeelten apart."},
-  {"q": "Hoe splitst Zondags de factuur tussen praktijk en woning?", "a": "In het zondagsplan leggen we per ruimte vast of ze beroepsmatig of privé is. De factuur toont beide delen apart. Hoe je dat boekhoudkundig verwerkt, bevestigt je accountant."},
-  {"q": "Moet ik mijn afspraken verplaatsen als mijn Zondag komt?", "a": "Nee. We stemmen het uur af op je agenda. Vroeg in de ochtend of over de middag kan, zodat de wachtruimte klaar is voor je eerste cliënt."},
-  {"q": "Is de btw op poetshulp voor mijn praktijk aan huis recupereerbaar?", "a": "Op het beroepsmatige deel in principe wel voor een btw-plichtige zaak met aftrekrecht, op het privégedeelte niet. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Laat je accountant het bevestigen."},
-  {"q": "Kan ik klein starten met enkel de praktijk?", "a": "Ja. Begin met de praktijk en voeg later de woning toe, of omgekeerd. Je kan uren bijboeken, het plan aanpassen en maandelijks opzeggen. De eerste 2 uur zijn gratis, zodat je rustig kan zien of het ritme bij je agenda past."},
-  {"q": "Is er ook een Zondag voor een praktijk in Gullegem of Ledegem?", "a": "Ja. Voor een praktijk of kantoor aan huis in Gullegem, Ledegem, Lendelede, Wevelgem en Dadizele loopt de aanvraag zoals voor Moorsele. Zondags is gevestigd in Marke en werkt in West- en Oost-Vlaanderen."}
+  {"q": "Welk bedrijf levert poetshulp voor bedrijven in Moorsele?", "a": "Zondags, uit Marke, levert poetshulp en administratieve hulp aan kantoren, bedrijfsunits en praktijken in Moorsele. Je krijgt één vaste persoon en een factuur op naam van je bedrijf."},
+  {"q": "Kan de Zondag zowel poetsen als administratie doen?", "a": "Ja, in hetzelfde blok. Je kiest bij het boeken welke taken je wilt en hoe je de uren verdeelt. Het tarief blijft hetzelfde."},
+  {"q": "Is Moorsele een deelgemeente van Wevelgem?", "a": "Ja. Moorsele hoort bij Wevelgem, postcode 8560. Zondags is actief in heel West- en Oost-Vlaanderen en dus ook daar."},
+  {"q": "Wat kost een combinatie van poetsen en administratie?", "a": "Je betaalt 60 euro per uur exclusief btw, ongeacht de taak. Een blok van 3 uur kost 180 euro exclusief btw, en extra uren boek je aan hetzelfde tarief."},
+  {"q": "Mag mijn Zondag dossiers inkijken?", "a": "Ze ordent en klasseert dossiers, en gaat vertrouwelijk om met wat ze ziet. Wat ze precies mag aanraken, spreken we vooraf samen af in het zondagsplan."},
+  {"q": "Doet Zondags ook de gemeenschappelijke delen van het gebouw?", "a": "Enkel als dat bij jouw zaak hoort en we dat vooraf afspreken. Gemeenschappelijke delen die de verhuurder regelt, vallen er meestal buiten."}
  ]
 }

@@ -1,0 +1,84 @@
+{
+ "title": "Hoeveel dagen vooraf een Zondag boeken?",
+ "desc": "Hoeveel dagen op voorhand boek je een Zondag? Minstens twee werkdagen vooraf, online op weekdagen. Zo plan je slim, ook voor drukke periodes.",
+ "eyebrow": "Vraag",
+ "h1": "Hoeveel dagen op voorhand moet ik een Zondag boeken?",
+ "lead": "Minstens twee werkdagen vooraf, en liefst iets langer als je een drukke week of een vaste datum voor ogen hebt. Zo blijft er keuze in dag en uur.",
+ "answer": "Bij Zondags (zondags.be) boek je een Zondag voor een weekdag, minstens twee werkdagen op voorhand, online via de boekpagina. Je kiest datum en moment, het aantal blokken van 3 uur en de taken, en betaalt online. Een blok kost 180 euro exclusief btw, dus 60 euro per uur exclusief btw. Voor een vast terugkerend plan spreek je de dagen en uren eerst af in een kort gesprek.",
+ "facts": [
+  "Minstens twee werkdagen vooraf",
+  "Enkel weekdagen, overdag",
+  "Blokken van 3 uur",
+  "60 euro per uur, per blok van 3 uur",
+  "Terugkerend plan: eerst een gesprek"
+ ],
+ "sections": [
+  {
+   "h2": "De regel in gewone woorden",
+   "p": [
+    "Een losse boeking leg je minstens twee werkdagen voor de gewenste dag vast. Boek je op maandag, dan is woensdag de vroegste dag. Boek je op donderdag, dan komt dinsdag erna in beeld, omdat het weekend niet meetelt als werkdag.",
+    "Dat is een minimum, geen advies. Hoe vroeger je kijkt, hoe meer dagen en uren er nog openstaan."
+   ]
+  },
+  {
+   "h2": "Wanneer je beter ruimer plant",
+   "p": [
+    "<ul class=\"ticks\"><li>Een klantenevenement of opendeurdag op een vaste datum</li><li>De week voor een verlofperiode of een brugdag</li><li>Een grote poetsbeurt na een verbouwing van een kleine ruimte</li><li>Een bepaald uur dat je team niet in de weg zit, bijvoorbeeld net voor de opening</li></ul>",
+    "Zit je in een van die situaties, kijk dan een week of twee vooruit. Dat is geen regel van ons, maar gewoon verstandig plannen: een populair uur is sneller bezet dan een rustig."
+   ]
+  },
+  {
+   "h2": "Wat als het sneller moet",
+   "p": [
+    "Staat je zaak morgen voor een probleem, dan kan online boeken niet meer, omdat de twee werkdagen niet gehaald worden. Bel of stuur een bericht via WhatsApp op 0470 56 53 58, elke dag van 6 tot 22 uur. We zeggen eerlijk of er iets mogelijk is, zonder dat we iets beloven wat we niet kunnen waarmaken.",
+    "Voor de volgende keer geldt: noteer in je agenda een vast moment om je beurten voor de volgende weken in te plannen."
+   ]
+  },
+  {
+   "h2": "Een voorbeeld: een showroom met een opendeurdag",
+   "p": [
+    "Neem een showroom die op een donderdag klanten ontvangt. De zaakvoerder wil de vloeren, het sanitair en de ontvangstruimte op woensdagochtend laten afwerken. Ze boekt twee weken vooraf een blok van 3 uur vroeg in de ochtend, zodat het team om de klok van negen uur een proper pand vindt. Had ze dat pas de maandag ervoor gedaan, dan was het misschien nog gelukt, maar met minder keuze in het uur."
+   ]
+  },
+  {
+   "h2": "Boeken voor een vast ritme werkt anders",
+   "p": [
+    "Wil je elke week dezelfde Zondag op dezelfde dag, dan boek je niet blok per blok. Je doet een terugbelverzoek of belt, we bespreken taken, dagen en uren, en samen leggen we het zondagsplan vast. Daarna komt je Zondag steeds op het afgesproken moment, zonder dat je elke week opnieuw moet plannen.",
+    "Meer over die keuze lees je in <a href=\"vragen/terugbelverzoek-voor-vast-plan.html\">wanneer een terugbelverzoek beter past</a>."
+   ]
+  },
+  {
+   "h2": "Prijs en betalen",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw. Extra uren boek je aan hetzelfde tarief. Op de <a href=\"boeken.html\">boekpagina</a> vul je de naam en het btw-nummer van je bedrijf in, betaal je met kaart of Bancontact en krijg je een factuur op naam van je bedrijf. Laat je accountant bevestigen hoe je dit best verwerkt."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Kan ik een Zondag boeken voor morgen?",
+   "a": "Online niet, want de regel is minstens twee werkdagen vooraf. Bel of stuur een WhatsApp-bericht naar 0470 56 53 58 en we kijken eerlijk wat mogelijk is, zonder iets te beloven."
+  },
+  {
+   "q": "Tellen zaterdag en zondag mee als dagen vooraf?",
+   "a": "Nee, het gaat om werkdagen. Boek je op vrijdag, dan is de vroegste dag dinsdag. Zondags werkt trouwens enkel op weekdagen, overdag."
+  },
+  {
+   "q": "Hoe ver op voorhand kan ik boeken?",
+   "a": "Je kan ruim op voorhand plannen, zolang het om weekdagen gaat. Voor een vaste datum zoals een bedrijfsevent loont het om enkele weken vooruit te kijken."
+  },
+  {
+   "q": "Moet ik elke week opnieuw boeken?",
+   "a": "Niet als je een vast plan hebt. Dan leggen we dag en uur eenmalig vast in een gesprek en komt je Zondag daarna steeds op hetzelfde moment."
+  },
+  {
+   "q": "Wat kost een boeking?",
+   "a": "Een blok van 3 uur kost 180 euro exclusief btw, dus 60 euro per uur exclusief btw. Extra uren kosten hetzelfde per uur."
+  },
+  {
+   "q": "Kan ik een geboekte beurt verplaatsen?",
+   "a": "Neem zo snel mogelijk contact op via telefoon, WhatsApp of hello@zondags.be. We kijken samen naar een andere weekdag die past."
+  }
+ ],
+ "path": "vragen/hoeveel-dagen-vooraf-boeken.html"
+}

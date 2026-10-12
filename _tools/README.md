@@ -13,12 +13,12 @@ Zondags is een dienst voor bedrijven (geen particulieren): poetshulp voor kantoo
 ## Pagina's
 
 1. Pijlerpagina's uit `geo_pillars.py` (`bedrijven/`, `jobs/*-flexibele-uren`, `over-zondags`).
-2. Unieke pagina's: elke pagina heeft een eigen tekst in `_tools/content/<pad>.json`. Het plan met de gegevens per pagina staat in `_tools/content/plan.json` (gemaakt door `_tools/content_plan.py`; draai dat script niet opnieuw zonder het plan te controleren, want het overschrijft plan.json). Groepen:
-   - `poetshulp/<gemeente>` (94) en per regio (10)
-   - `regio/schoonmaak-{kantoor,praktijk,winkel}-<gemeente>` (134)
-   - `sectoren/`: per type bedrijf, per ruimte, per gelegenheid, checklists (154)
-   - `vragen/`: vragen van bedrijven, de H1 is de vraag (80)
-   - `werken/{studentenjob,flexi-job,vaste-job-overdag}-<gemeente>`: kandidatenpagina's (171) met sollicitatieformulier en JobPosting-schema
+2. Unieke pagina's: elke pagina heeft een eigen tekst in `_tools/content/<pad>.json`. Het plan met de gegevens per pagina staat in `_tools/content/plan.json` (gemaakt door `_tools/content_plan.py`; het script houdt enkel pagina's met een contentbestand plus de blok van de lopende week; controleer na het draaien de diff van plan.json). Groepen:
+   - `poetshulp/<gemeente>` (106) en per regio (10)
+   - `regio/schoonmaak-{kantoor,praktijk,winkel}-<gemeente>` (175), `regio/rechterhand-bedrijfsleider-<gemeente>` (24) en `regio/administratieve-hulp-<gemeente>` (21)
+   - `sectoren/`: per type bedrijf, per ruimte, per gelegenheid, checklists (164)
+   - `vragen/`: vragen van bedrijven, de H1 is de vraag (100)
+   - `werken/{studentenjob,flexi-job,vaste-job-overdag}-<gemeente>`: kandidatenpagina's (243) met sollicitatieformulier en JobPosting-schema
    Hubs: `poetshulp/`, `sectoren/`, `vragen/`, `werken/` (gemaakt door `pseo.py`).
 3. Redirects: `_tools/redirects.json` (oud pad naar nieuw pad). `pseo.py` schrijft voor elk oud pad een stub met meta refresh, canonical en noindex. Stubs staan niet in de sitemap.
 

@@ -109,6 +109,19 @@ PLAATSEN = [
  ("Sint-Niklaas","9100",OV,"stad","",["Belsele","Nieuwkerken-Waas","Sinaai"],["Beveren","Temse","Waasmunster","Stekene","Sint-Gillis-Waas","Lokeren"],"Waasland"),
  ("Eeklo","9900",OV,"stad","",[],["Kaprijke","Maldegem","Lievegem","Sint-Laureins"],"Meetjesland"),
  ("Maldegem","9990",OV,"gemeente","",["Adegem","Middelburg"],["Eeklo","Aalter","Sint-Laureins","Beernem"],"Meetjesland"),
+ # week 3 (12 oktober 2026): 12 extra gemeenten in Oost-Vlaanderen
+ ("Laarne","9270",OV,"gemeente","",["Kalken"],["Wetteren","Berlare","Zele","Destelbergen","Lochristi"],"Scheldeland"),
+ ("Wichelen","9260",OV,"gemeente","",["Schellebelle","Serskamp"],["Wetteren","Lede","Berlare","Dendermonde","Laarne"],"Scheldeland"),
+ ("Lebbeke","9280",OV,"gemeente","",["Denderbelle","Wieze"],["Dendermonde","Buggenhout","Aalst","Opwijk"],"Denderstreek"),
+ ("Buggenhout","9255",OV,"gemeente","",["Opdorp"],["Lebbeke","Dendermonde","Opwijk","Merchtem","Puurs-Sint-Amands"],"Denderstreek"),
+ ("Denderleeuw","9470",OV,"gemeente","",["Iddergem","Welle"],["Ninove","Haaltert","Aalst","Liedekerke","Affligem"],"Denderstreek"),
+ ("Haaltert","9450",OV,"gemeente","",["Denderhoutem","Heldergem","Kerksken"],["Aalst","Denderleeuw","Ninove","Erpe-Mere","Herzele"],"Denderstreek"),
+ ("Sint-Lievens-Houtem","9520",OV,"gemeente","",["Bavegem","Letterhoutem","Vlierzele","Zonnegem"],["Herzele","Oosterzele","Erpe-Mere","Lede","Zottegem"],"Vlaamse Ardennen"),
+ ("Waasmunster","9250",OV,"gemeente","",[],["Lokeren","Hamme","Temse","Sint-Niklaas","Zele"],"Waasland"),
+ ("Temse","9140",OV,"gemeente","",["Elversele","Steendorp","Tielrode"],["Sint-Niklaas","Waasmunster","Hamme","Bornem"],"Waasland"),
+ ("Stekene","9190",OV,"gemeente","",["Kemzeke"],["Sint-Niklaas","Sint-Gillis-Waas","Moerbeke","Lokeren"],"Waasland"),
+ ("Sint-Gillis-Waas","9170",OV,"gemeente","",["De Klinge","Meerdonk","Sint-Pauwels"],["Stekene","Sint-Niklaas","Beveren-Kruibeke-Zwijndrecht"],"Waasland"),
+ ("Assenede","9960",OV,"gemeente","",["Bassevelde","Boekhoute","Oosteeklo"],["Zelzate","Evergem","Kaprijke","Eeklo"],"Meetjesland"),
 ]
 
 ANGLES = [
@@ -565,9 +578,92 @@ def block8():
 def block_nieuw():
     return block1() + block2() + block3() + block4() + block5() + block6() + block_vragen() + block8()
 
+
+# ---------------- WEEK 3 (12 OKTOBER 2026): 200 extra B2B- en kandidatenpagina's ----------------
+# Sinds 10 oktober werkt Zondags enkel voor bedrijven. Oude groepen (kookhulp, hulp in huis, au pair, kinderen) blijven uit het plan:
+# plan() houdt enkel pagina's met een contentbestand, plus de nieuwe pagina's van deze week (W3).
+W3_NEW_OV = ["Laarne", "Wichelen", "Lebbeke", "Buggenhout", "Denderleeuw", "Haaltert", "Sint-Lievens-Houtem", "Waasmunster", "Temse", "Stekene", "Sint-Gillis-Waas", "Assenede"]
+W3_SERV = {
+ "rechterhand-bedrijfsleider": ("Rechterhand voor bedrijfsleiders in {p}", "een vaste Zondag als rechterhand voor een drukke zaakvoerder of bedrijfsleider: boodschappen en regelwerk voor de zaak (kantoormateriaal, apotheek of drogisterij voor de EHBO-kast, pakjes ophalen en wegbrengen), koffiehoek en keuken bevoorraden, kleine zaken met leveranciers regelen, afspraken opvolgen, de zaak klaarzetten voor klantenbezoek; overdag op weekdagen, enkel voor de zaak, niets privé"),
+ "administratieve-hulp": ("Administratieve hulp voor bedrijven in {p}", "ondersteunende administratie op kantoor of in de praktijk: post openen en sorteren, facturen en documenten klasseren, dossiers en archief ordenen, gegevens invoeren, afspraken plannen, kantoorbenodigdheden bestellen, zendingen klaarmaken; geen boekhouding, geen loonadministratie, geen fiscaal of juridisch advies; te combineren met poetshulp in hetzelfde blok"),
+}
+W3_RECHTERHAND = ["Kortrijk", "Roeselare", "Waregem", "Ieper", "Izegem", "Menen", "Harelbeke", "Wevelgem", "Tielt", "Oudenaarde", "Brugge", "Gent",
+                  "Aalst", "Sint-Niklaas", "Dendermonde", "Lokeren", "Deinze", "Eeklo", "Ninove", "Geraardsbergen", "Zottegem", "Ronse", "Wetteren", "Oostende"]
+W3_ADMIN = ["Kortrijk", "Roeselare", "Waregem", "Ieper", "Izegem", "Menen", "Harelbeke", "Brugge", "Gent", "Aalst", "Sint-Niklaas", "Dendermonde",
+            "Lokeren", "Deinze", "Oudenaarde", "Tielt", "Zottegem", "Ninove", "Eeklo", "Torhout", "Oostende"]
+W3_K_CITIES = ['Lochristi', 'Destelbergen', 'Evergem', 'Lievegem', 'Wetteren', 'Oosterzele', 'Herzele', 'Brakel', 'Zwalm', 'Maarkedal', 'Lierde', 'Geraardsbergen',
+               'Ninove', 'Aalst', 'Lede', 'Erpe-Mere', 'Dendermonde', 'Zele', 'Berlare', 'Hamme', 'Lokeren', 'Sint-Niklaas', 'Eeklo', 'Maldegem']
+W3_KANTOOR = [p[0] for p in PLAATSEN if p[3] != 'deelgemeente' and p[0] not in N_CITIES and p[0] not in W3_NEW_OV]
+W3_SECTOREN = [
+ ("advocatenkantoren", "Poetshulp voor advocatenkantoren", "kantoor met vergaderruimte voor cliënten, dossierkasten, onthaal en wachtruimte, keuken en sanitair; discretie rond dossiers (de Zondag leest niets, verplaatst geen dossiers zonder afspraak)"),
+ ("notariskantoren", "Poetshulp voor notariskantoren", "onthaal, wachtzaal en verlijdingszaal waar cliënten ondertekenen, kantoren, archief stofvrij, sanitair; representatief en discreet"),
+ ("accountantskantoren", "Poetshulp voor accountantskantoren", "kantoren met veel papier en schermen, vergaderruimte voor klanten, keuken; drukke periodes rond deadlines; poetsen buiten de klantgesprekken"),
+ ("architectenbureaus", "Poetshulp voor architectenbureaus", "open studio met tekentafels en maquettes (enkel afstoffen in overleg), grote schermen, vergaderzaal met stalen en materialen, keuken, sanitair"),
+ ("tandartspraktijken", "Poetshulp voor tandartspraktijken", "wachtzaal, onthaal, sanitair, personeelsruimte en vloeren; het behandelgedeelte enkel volgens de afspraken van de praktijk; geen sterilisatie of medisch materiaal"),
+ ("immokantoren", "Poetshulp voor immokantoren", "kantoor met etalage langs binnen, onthaal en gesprekstafels, vergaderruimte, keuken; veel binnenlopende klanten"),
+ ("verzekeringskantoren", "Poetshulp voor verzekeringskantoren en bankagentschappen", "kantoor met onthaal en gespreksruimtes, folders en vitrines, keuken en sanitair; discretie rond klantendossiers"),
+ ("apotheken", "Poetshulp voor apotheken", "winkelruimte, toog, rekken langs de buitenkant, etalage langs binnen, personeelsruimte en sanitair; de geneesmiddelen, het labo en de bereidingen blijven bij de apotheker"),
+ ("fietsenwinkels", "Poetshulp voor fietsenwinkels", "winkel en toonzaal met fietsen, toog, paskamer voor kledij, kantoor en sanitair; geen reiniging van de werkplaats of van fietsen"),
+ ("studiebureaus", "Poetshulp voor studie- en ingenieursbureaus", "kantoren met veel schermen, plotters en printers, vergaderruimtes, keuken, archief met plannen"),
+]
+W3_VRAGEN = [
+ ("wat-doet-een-rechterhand-voor-een-bedrijfsleider", "Wat doet een rechterhand voor een bedrijfsleider?"),
+ ("boodschappen-voor-de-zaak-uitbesteden", "Kan ik boodschappen voor de zaak laten doen door iemand anders?"),
+ ("administratieve-hulp-zonder-boekhouding", "Wat is administratieve hulp als je geen boekhouder nodig hebt?"),
+ ("post-en-facturen-laten-sorteren", "Kan ik de post en facturen van mijn bedrijf laten sorteren en klasseren?"),
+ ("poetshulp-en-administratie-in-een-blok", "Kan ik poetsen en administratie combineren in één blok van 3 uur?"),
+ ("hoe-werkt-online-boeken-bij-zondags", "Hoe boek ik online een Zondag voor mijn bedrijf?"),
+ ("waarom-per-blok-van-3-uur", "Waarom boek je bij Zondags per blok van 3 uur?"),
+ ("extra-uren-bijboeken", "Kan ik extra uren bijboeken bovenop een blok van 3 uur?"),
+ ("factuur-op-naam-van-de-vennootschap", "Krijg ik een factuur op naam van mijn vennootschap?"),
+ ("betalen-met-bancontact-of-kaart", "Kan ik als bedrijf online betalen met Bancontact of kaart?"),
+ ("hoeveel-dagen-vooraf-boeken", "Hoeveel dagen op voorhand moet ik een Zondag boeken?"),
+ ("terugbelverzoek-voor-vast-plan", "Wanneer vraag ik beter een terugbelverzoek dan online te boeken?"),
+ ("koffiehoek-en-keuken-laten-bevoorraden", "Kan iemand de koffiehoek en keuken op kantoor bevoorraden?"),
+ ("kantoor-klaarzetten-voor-klantenbezoek", "Hoe zet ik mijn kantoor klaar voor een belangrijk klantenbezoek?"),
+ ("pakjes-en-zendingen-laten-klaarmaken", "Kan ik pakjes en zendingen laten klaarmaken door een vaste hulp?"),
+ ("archief-op-kantoor-ordenen", "Hoe pak ik een rommelig archief op kantoor aan?"),
+ ("vroeg-in-de-ochtend-poetsen", "Kan een poetshulp vroeg in de ochtend komen, voor het team begint?"),
+ ("poetshulp-over-de-middag", "Kan de poetshulp over de middag komen in plaats van na de uren?"),
+ ("waarom-geen-avondpoets", "Waarom komt Zondags niet 's avonds of in het weekend?"),
+ ("wat-als-het-niet-klikt-met-je-zondag", "Wat als het niet klikt met mijn vaste Zondag?"),
+]
+def block_w3():
+    out = []
+    for key, (h1, scope) in W3_SERV.items():
+        lst = W3_RECHTERHAND if key == "rechterhand-bedrijfsleider" else W3_ADMIN
+        for i, c in enumerate(lst):
+            out.append(dict(id=f'regio/{key}-{slug(c)}', path=f'regio/{key}-{slug(c)}.html', kind='dienst-stad', group='regio',
+                h1=h1.format(p=c), dienst=key, scope=scope, scenario=SCEN[(i * 5 + len(key)) % len(SCEN)],
+                angle=ANGLES[(i * 7 + len(key)) % len(ANGLES)], **_ctx(c)))
+    out += [_dienst_page("schoonmaak-kantoor", c, i + 40) for i, c in enumerate(W3_KANTOOR)]
+    for i, c in enumerate(W3_NEW_OV):
+        p = PL_MAP[c]; j = PLAATSEN.index(p)
+        out.append(dict(id=f'poetshulp/{slug(c)}', path=f'poetshulp/{slug(c)}.html', kind='stad', group='poetshulp',
+            h1=f'Poetshulp voor bedrijven in {c}', place=c, postcode=p[1], provincie=p[2], soort=p[3], deel_van=p[4],
+            deelgemeenten=p[5], in_de_buurt=p[6], streek=p[7], angle=ANGLES[(j * 5) % len(ANGLES)], scenario=SCEN[(j * 7) % len(SCEN)]))
+    for si, (key, h1, scope, emp) in enumerate(K_SOORT):
+        for ci, c in enumerate(W3_K_CITIES):
+            p = PL_MAP[c]
+            out.append(dict(id=f'werken/{key}-{slug(c)}', path=f'werken/{key}-{slug(c)}.html', kind='kandidaat', group='werken',
+                h1=h1.format(p=c), soort_job=key, scope=scope, employment=emp, place=c, postcode=p[1], provincie=p[2],
+                deelgemeenten=p[5], in_de_buurt=p[6], streek=p[7], persona=K_PERSONA[(ci * 5 + si * 3 + 1) % len(K_PERSONA)]))
+    for s, h1, scope in W3_SECTOREN:
+        out.append(dict(id=f'sectoren/{s}', path=f'sectoren/{s}.html', kind='sector', group='sectoren', h1=h1, scope=scope))
+    for s, q in W3_VRAGEN:
+        out.append(dict(id=f'vragen/{s}', path=f'vragen/{s}.html', kind='vraag', group='vragen', h1=q))
+    return out
+
+EXTRA_VRAGEN = [("werkt-zondags-enkel-voor-bedrijven", "Werkt Zondags enkel voor bedrijven?")]
+def _has_content(p):
+    return os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'content', p['id'] + '.json'))
+
 def plan():
     pages = city_pages() + region_pages() + service_city_pages() + sector_pages() + question_pages() + candidate_pages() + block_nieuw()
-    return pages
+    pages += [dict(id=f'vragen/{s}', path=f'vragen/{s}.html', kind='vraag', group='vragen', h1=q) for s, q in EXTRA_VRAGEN]
+    w3 = block_w3(); w3_ids = {p['id'] for p in w3}
+    pages = [p for p in pages if p['id'] not in w3_ids and _has_content(p)]
+    return pages + w3
 
 if __name__ == '__main__':
     P = plan()

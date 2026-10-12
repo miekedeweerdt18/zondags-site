@@ -1,0 +1,84 @@
+{
+ "title": "Post en facturen van je bedrijf laten sorteren",
+ "desc": "Kan je de post en facturen van je bedrijf laten sorteren en klasseren? Ja, door een vaste Zondag in je zaak. Zo werkt het, wat het kost en wat je zelf beslist.",
+ "eyebrow": "Vraag",
+ "h1": "Kan ik de post en facturen van mijn bedrijf laten sorteren en klasseren?",
+ "lead": "Ja. Een vaste Zondag komt op een vaste dag in je zaak, opent en sorteert de post en klasseert de facturen volgens het systeem dat jij kiest.",
+ "answer": "Ja, bij Zondags (zondags.be) kan je de post en facturen van je bedrijf laten sorteren en klasseren door je vaste Zondag, ter plaatse in je kantoor, praktijk of winkel. Ze opent de post, scheidt facturen, offertes en reclame, klasseert alles per leverancier, klant of maand en legt twijfelgevallen apart. Boekhouding en advies zijn uitgesloten. Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, en je boekt online.",
+ "facts": [
+  "Post openen en sorteren",
+  "Facturen klasseren per leverancier of maand",
+  "Twijfelgevallen apart gelegd",
+  "Geen boekhouding of advies",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
+ "sections": [
+  {
+   "h2": "Wat sorteren en klasseren hier betekent",
+   "p": [
+    "Sorteren is beslissen waar iets heen gaat: dossier, factuurbak, de gemeenschappelijke ruimte of de papiermand. Klasseren is het daarna op de juiste plaats leggen, in een map, een ordner of een digitaal dossier. Samen zorgen die twee stappen ervoor dat je later niets meer hoeft te zoeken."
+   ]
+  },
+  {
+   "h2": "Een gewone sorteerronde",
+   "p": [
+    "<ul class=\"ticks\"><li>Post openen en het stuk bij de envelop houden als dat nodig is</li><li>Facturen scheiden van offertes, brieven en reclame</li><li>Elke factuur markeren als ontvangen en klaar voor je boekhouder</li><li>Per leverancier, klant of maand klasseren</li><li>Dubbels en onduidelijke stukken apart leggen voor jou</li><li>Een korte lijst achterlaten van wat dringend is</li></ul>",
+    "Zo werkt een Zondag ook voor een kleine zaak. Het systeem hoeft niet ingewikkeld te zijn, maar wel consequent."
+   ]
+  },
+  {
+   "h2": "Wat jij zelf blijft beslissen",
+   "p": [
+    "Een Zondag betaalt geen facturen en keurt ze niet goed. Betalingen, betwistingen en alles wat een beslissing van jou vraagt, blijven bij jou. Ook de boekhoudkundige verwerking is voor je boekhouder. Dat is geen beperking, het is een duidelijke werkverdeling: zij ordent, jij beslist, je boekhouder boekt."
+   ]
+  },
+  {
+   "h2": "Neem een bouwwinkel met een kantoortje achteraan",
+   "p": [
+    "Stel: je baat een kleine winkel met een bureau achteraan. De vrijdag brengt de meeste post: facturen van leveranciers, aanmaningen, uitnodigingen. De volgende maandag komt je Zondag. Ze sorteert de stapel per soort en klasseert de facturen per leverancier. De openstaande stukken legt ze bovenaan met een briefje met de vervaldag. Wat ze niet begrijpt, laat ze liggen met een vraag erbij.",
+    "Op dinsdag opent de winkel met een leeg bureau en een korte lijst van wat betaald moet worden."
+   ]
+  },
+  {
+   "h2": "Digitaal of op papier",
+   "p": [
+    "Veel bedrijven werken gemengd. Je Zondag kan papieren stukken in ordners leggen of inscannen en opslaan in de mappenstructuur die jij kiest. Spreek vooraf af welk systeem je gebruikt, en wie toegang geeft tot je computer of scanner. Zonder toegang blijft het bij papier. Lees je liever meer over het aanbod, ga naar <a href=\"bedrijven/administratie-hulp-voor-bedrijven.html\">administratieve hulp voor bedrijven</a>."
+   ]
+  },
+  {
+   "h2": "Prijs en eerste boeking",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, in blokken van 3 uur van 180 euro exclusief btw. Extra uren aan hetzelfde uurtarief. De factuur is op naam van je bedrijf. In principe is het een beroepskost; je accountant bevestigt hoe dat voor jouw situatie werkt.",
+    "Boek op de <a href=\"boeken.html\">boekpagina</a> een weekdag, minstens twee werkdagen vooraf. Voor een vast ritme bespreken we eerst de dagen en uren."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Hoe vaak moet de post gesorteerd worden?",
+   "a": "Voor een kleine zaak is een wekelijkse of tweewekelijkse ronde meestal genoeg. Wie veel post krijgt, kiest voor een vaste dag per week."
+  },
+  {
+   "q": "Mag mijn Zondag mijn post openen?",
+   "a": "Alleen als jij dat wil en afspreekt. Je kan ook vragen dat bepaalde post gesloten blijft, zoals stukken die aan jou persoonlijk gericht zijn."
+  },
+  {
+   "q": "Kan ze facturen scannen en digitaal opslaan?",
+   "a": "Ja, als jij een scanner en een mappenstructuur voorziet. Welke naamgeving je kiest, leg je vooraf uit."
+  },
+  {
+   "q": "Wat doet ze met stukken waar ze niet zeker van is?",
+   "a": "Die legt ze apart met een korte vraag, zodat jij of je boekhouder beslist. Zondags raadt of boekt niets zelf."
+  },
+  {
+   "q": "Kost het meer als de achterstand groot is?",
+   "a": "Je betaalt per uur, dus een grote stapel vraagt meer uren. Boek een of meer blokken van 3 uur, en extra uren aan hetzelfde uurtarief."
+  },
+  {
+   "q": "Is dit hetzelfde als een virtueel secretariaat?",
+   "a": "Nee. Je Zondag komt fysiek langs in je zaak en werkt met je papieren post en je archief. Het is gescreend personeel van Zondags, op een vast uur."
+  }
+ ],
+ "path": "vragen/post-en-facturen-laten-sorteren.html"
+}

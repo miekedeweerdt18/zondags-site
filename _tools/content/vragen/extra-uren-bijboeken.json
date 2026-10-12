@@ -1,0 +1,85 @@
+{
+ "path": "vragen/extra-uren-bijboeken.html",
+ "title": "Kan je extra uren bijboeken bovenop een blok van 3 uur?",
+ "desc": "Extra uren bijboeken bovenop een blok van 3 uur bij Zondags: aan dezelfde 60 euro per uur excl. btw, online of via een telefoontje. Zo werkt het.",
+ "eyebrow": "Vraag",
+ "h1": "Kan ik extra uren bijboeken bovenop een blok van 3 uur?",
+ "lead": "Ja. Heb je meer tijd nodig dan een blok, dan voeg je extra uren toe aan precies hetzelfde tarief.",
+ "answer": "Ja, bij Zondags (zondags.be) kan je extra uren bijboeken bovenop een blok van 3 uur. Je betaalt dezelfde 60 euro per uur exclusief btw, zonder toeslag. Je voegt de uren toe tijdens het online boeken, of je vraagt het aan je Zondag voor een volgend bezoek. De extra uren staan op dezelfde factuur op naam van je bedrijf. Of je Zondag effectief langer kan blijven, hangt af van haar planning, dus vraag het liefst vooraf.",
+ "facts": [
+  "Extra uren aan 60 euro per uur",
+  "Exclusief btw, geen toeslag",
+  "Toevoegen bij het online boeken",
+  "Op dezelfde factuur",
+  "Planning bepaalt of het kan"
+ ],
+ "sections": [
+  {
+   "h2": "Wanneer extra uren zinvol zijn",
+   "p": [
+    "Een blok van 3 uur dekt een gewoon ritme. Soms is er meer werk. Je hebt een klantenevenement, je team groeit, een verbouwing van een kleine ruimte laat stof achter of er ligt een achterstand in het archief.",
+    "In die gevallen voeg je één of twee uur toe. Je hoeft niet meteen een tweede blok te nemen en betaalt enkel wat je nodig hebt.",
+    "Een bijkomend voordeel van extra uren is dat je Zondag dan al in je zaak is en de ruimte kent. Ze hoeft niet opnieuw te beginnen, en kan meteen het extra werk oppakken waar ze gebleven was."
+   ]
+  },
+  {
+   "h2": "Een voorbeeld",
+   "p": [
+    "Neem een kantoor met tien medewerkers dat elke week een blok boekt. In de week voor het jaarlijkse klantenevent wil de zaakvoerder ook de vergaderzaal, de ontvangstruimte en het sanitair grondig laten doen. Hij boekt twee extra uren bij: samen vijf uur voor die week, aan 60 euro per uur exclusief btw.",
+    "Volgende week boekt hij weer één blok. Het vaste ritme is niet gewijzigd."
+   ]
+  },
+  {
+   "h2": "Zo voeg je ze toe",
+   "p": [
+    "<ul class=\"ticks\"><li>Online: duid bij het boeken het aantal extra uren aan</li><li>Via je Zondag: vraag het voor een volgend bezoek</li><li>Via een telefoontje of WhatsApp naar 0470 56 53 58</li><li>Bij een vast plan: spreek de extra uren per periode af</li></ul>",
+    "Op de <a href=\"boeken.html\">boekpagina</a> vul je ze meteen in."
+   ]
+  },
+  {
+   "h2": "Kan het ook op dezelfde dag",
+   "p": [
+    "Online boeken kan voor weekdagen, minstens twee werkdagen vooraf. Wil je op de dag zelf langer, vraag het dan rechtstreeks aan je Zondag of bel. Dat is geen automatisch recht: het hangt af van haar planning en van de afspraken die al staan. Daarom leg je een geplande piek het best twee werkdagen vooraf vast."
+   ]
+  },
+  {
+   "h2": "Hoe het op de factuur komt",
+   "p": [
+    "Het tarief blijft 60 euro per uur exclusief btw. De extra uren komen op dezelfde dienstenfactuur op naam van je bedrijf, met je btw-nummer, in de regel op de factuur van de boeking waaraan ze verbonden zijn. Is de btw recupereerbaar? In principe wel voor een btw-plichtige zaak met aftrekrecht, maar laat dit door je accountant bevestigen.",
+    "Heb je een vast plan, dan spreken we af of de extra uren elke week terugkomen of enkel in drukke periodes. Zo kan je zaakvoerder of kantoormanager vooraf inschatten hoeveel een maand kost."
+   ]
+  },
+  {
+   "h2": "Extra uren of een extra blok",
+   "p": [
+    "Heb je regelmatig meer nodig, dan is een vast tweede blok eenvoudiger dan telkens extra uren. Heb je maar af en toe meer tijd nodig, dan zijn extra uren de lichtere keuze. In beide gevallen betaal je hetzelfde per uur."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Wat kosten extra uren bij Zondags?",
+   "a": "Extra uren kosten dezelfde 60 euro per uur exclusief btw als het blok zelf, zonder toeslag of opslag, ook als je ze maar één keer bijboekt voor een drukke week."
+  },
+  {
+   "q": "Moet ik extra uren vooraf boeken?",
+   "a": "Het best wel, liefst twee werkdagen vooraf. Op de dag zelf langer blijven hangt af van de planning van je Zondag."
+  },
+  {
+   "q": "Kan ik halve uren bijboeken?",
+   "a": "Je boekt extra uren per uur. Past dat niet, bespreek het dan met je Zondag of bel naar 0470 56 53 58."
+  },
+  {
+   "q": "Kan ik minder dan 3 uur boeken?",
+   "a": "Je boekt per blok van 3 uur. Heb je minder nodig, boek dan minder vaak, bijvoorbeeld om de twee weken."
+  },
+  {
+   "q": "Staan de extra uren op dezelfde factuur?",
+   "a": "Ja, ze komen op een dienstenfactuur op naam van je bedrijf met je btw-nummer, aan hetzelfde tarief per uur."
+  },
+  {
+   "q": "Wordt het goedkoper per uur bij extra uren?",
+   "a": "Nee. Zondags werkt met één tarief: 60 euro per uur exclusief btw, voor het blok en voor elk extra uur."
+  }
+ ]
+}

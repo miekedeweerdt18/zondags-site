@@ -1,0 +1,83 @@
+{
+ "title": "Terugbelverzoek of online boeken: wat past?",
+ "desc": "Wanneer kies je een terugbelverzoek en wanneer boek je online? Een korte gids voor wie een vast plan wil, met uitleg over prijs en werking bij Zondags.",
+ "eyebrow": "Vraag",
+ "h1": "Wanneer vraag ik beter een terugbelverzoek dan online te boeken?",
+ "lead": "Online boeken past bij een losse beurt. Wil je een vast terugkerend ritme of een mix van taken, dan vraag je beter eerst een terugbelverzoek.",
+ "answer": "Bij Zondags (zondags.be) vraag je best een terugbelverzoek als je een vast terugkerend plan wilt, bijvoorbeeld elke week dezelfde Zondag, of als je poetsen, administratie en regelwerk wilt combineren. Voor een losse beurt boek je gewoon online. De prijs is in beide gevallen gelijk: 60 euro per uur exclusief btw, per blok van 3 uur. In het gesprek leggen we samen het zondagsplan vast.",
+ "facts": [
+  "Losse beurt: online boeken",
+  "Vast ritme: eerst een gesprek",
+  "Taken combineren: gesprek helpt",
+  "Prijs blijft 60 euro per uur",
+  "Kort gesprek, geen verplichting"
+ ],
+ "sections": [
+  {
+   "h2": "Het verschil in één zin",
+   "p": [
+    "Online boeken is een snelle weg voor een afgebakende vraag: een datum, een aantal blokken, een lijst taken. Een terugbelverzoek is de weg voor alles waar eerst een kort gesprek zinvol is, omdat er keuzes te maken zijn over dagen, uren en inhoud."
+   ]
+  },
+  {
+   "h2": "Kies een terugbelverzoek als",
+   "p": [
+    "<ul class=\"ticks\"><li>je elke week of om de twee weken dezelfde Zondag wilt</li><li>je meerdere soorten werk wilt mengen, zoals poetsen en post klasseren</li><li>je pand meerdere ruimtes of verdiepingen heeft en je niet weet hoeveel uren dat vraagt</li><li>de sleutel, het alarm of de toegang eerst besproken moet worden</li><li>je graag eerst een vraag stelt voor je een betaling doet</li></ul>"
+   ]
+  },
+  {
+   "h2": "Kies online boeken als",
+   "p": [
+    "Je weet wat je nodig hebt, je zoekt een weekdag die past en je wilt direct bevestiging. Dat geldt voor een eenmalige grote beurt, een extra blok in een drukke week of een eerste proef. Je kiest datum en moment, het aantal blokken van 3 uur, eventuele extra uren en de taken. Je geeft de gegevens van je bedrijf in en betaalt via Stripe, met kaart of Bancontact.",
+    "Hier geldt wel de regel van minstens twee werkdagen vooraf. Lees er meer over in <a href=\"vragen/hoeveel-dagen-vooraf-boeken.html\">hoeveel dagen vooraf je boekt</a>."
+   ]
+  },
+  {
+   "h2": "Wat er in het gesprek gebeurt",
+   "p": [
+    "Een van ons belt je terug en overloopt je zaak: soort ruimte, aantal mensen, welke taken, welke dagen en uren passen. Geen verkoopgesprek met een vragenlijst vol jargon, maar een praktisch overzicht. Daarna leggen we het zondagsplan vast: welke taken, welke dagen, welke uren, en wat je Zondag wel en niet doet.",
+    "Daarna werk je met één vaste persoon die je zaak leert kennen. Een uitleg over het plan zelf staat op <a href=\"vragen/wat-is-een-zondagsplan.html\">wat is een zondagsplan</a>."
+   ]
+  },
+  {
+   "h2": "Een voorbeeld: een tandartspraktijk die wekelijks wil starten",
+   "p": [
+    "Stel: een tandartspraktijk met een wachtzaal, twee behandelkamers en een kleine keuken wil elke dinsdag over de middag laten poetsen en daarnaast een uur per week de post en het archief laten ordenen. Dat is geen standaard bestelling. De zaakvoerder vraagt een terugbelverzoek, bespreekt de hygiëneafspraken van de praktijk en krijgt een plan op maat, met vaste dag en vast uur."
+   ]
+  },
+  {
+   "h2": "Prijs en wat er niet verandert",
+   "p": [
+    "Er is maar één pakket. Of je nu online boekt of via een terugbelverzoek, je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw. Extra uren kosten hetzelfde per uur. Je krijgt altijd een dienstenfactuur op naam van je bedrijf. Een terugbelverzoek kost niets extra en verplicht je tot niets.",
+    "Op de <a href=\"boeken.html\">boekpagina</a> kan je zowel boeken als een terugbelverzoek achterlaten."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Kost een terugbelverzoek iets?",
+   "a": "Nee. Je laat je gegevens achter, we bellen je terug voor een kort gesprek over je zaak. Het prijsbeleid blijft hetzelfde: 60 euro per uur exclusief btw."
+  },
+  {
+   "q": "Hoe snel word ik teruggebeld?",
+   "a": "We doen ons best om je snel terug te bellen. Wil je het liever zelf versnellen, bel of stuur een WhatsApp-bericht naar 0470 56 53 58, elke dag van 6 tot 22 uur."
+  },
+  {
+   "q": "Is een vast plan duurder dan losse boekingen?",
+   "a": "Nee. Het tarief is hetzelfde, 60 euro per uur exclusief btw, per blok van 3 uur. Het verschil zit in het gemak: dag en uur liggen vast."
+  },
+  {
+   "q": "Kan ik na het gesprek nog van gedachten veranderen?",
+   "a": "Ja. Het gesprek is bedoeld om te bekijken wat past. Past het niet, dan boek je niets of kies je een andere vorm."
+  },
+  {
+   "q": "Kan ik ook gewoon bellen in plaats van een terugbelverzoek?",
+   "a": "Ja, bel of stuur een WhatsApp-bericht naar 0470 56 53 58. Je kan ook mailen naar hello@zondags.be of de chat op de site gebruiken."
+  },
+  {
+   "q": "Kan een vast plan later worden aangepast?",
+   "a": "Ja. Na de eerste weken bekijk je of de taken en uren kloppen. Je kan blokken toevoegen of aanpassen, aan hetzelfde tarief."
+  }
+ ],
+ "path": "vragen/terugbelverzoek-voor-vast-plan.html"
+}

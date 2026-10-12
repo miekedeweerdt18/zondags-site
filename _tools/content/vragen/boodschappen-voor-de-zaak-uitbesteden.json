@@ -1,0 +1,85 @@
+{
+ "title": "Boodschappen voor de zaak uitbesteden: kan dat?",
+ "desc": "Kan je boodschappen voor je zaak laten doen door iemand anders? Wat kan, wat niet, wie ervoor betaalt en hoe je het regelt met Zondags aan 60 euro per uur.",
+ "eyebrow": "Vraag",
+ "h1": "Kan ik boodschappen voor de zaak laten doen door iemand anders?",
+ "lead": "Ja, zolang het om aankopen en ophaalwerk voor het bedrijf gaat. Een vaste Zondag kan dat overnemen, in een blok dat je zelf indeelt.",
+ "answer": "Ja, je kan boodschappen voor je zaak laten doen door een vaste Zondag van Zondags (zondags.be): kantoormateriaal, koffie en verbruiksartikelen, spullen voor de EHBO-kast bij apotheek of drogisterij, en pakjes ophalen of wegbrengen. Het gaat alleen om opdrachten voor het bedrijf, nooit om persoonlijke boodschappen. Je betaalt de uren aan 60 euro per uur exclusief btw, in blokken van 3 uur. De aankopen zelf reken je apart af op basis van bewijsstukken.",
+ "facts": [
+  "Alleen boodschappen voor het bedrijf",
+  "Kantoormateriaal, EHBO, pakjes",
+  "Aankopen apart af te rekenen",
+  "Lijst en grens op voorhand",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
+ "sections": [
+  {
+   "h2": "Wanneer het zin heeft",
+   "p": [
+    "Boodschappen voor de zaak lijken klein, maar ze verspreiden zich. Even langs de kantoorboekhandel, de apotheek, het postkantoor of een leverancier. Voor een zaakvoerder is dat zelden een goede besteding van de tijd, zeker niet op een drukke dag. Wie het uitbesteedt, wint niet alleen tijd, maar ook rust: de koffiehoek is niet leeg wanneer de klant komt.",
+    "Het loont vooral wanneer de boodschappen zich herhalen. Dan kan je ze in een vast blok bundelen."
+   ]
+  },
+  {
+   "h2": "Wat wel en niet kan",
+   "p": [
+    "<ul class=\"ticks\"><li>Kantoormateriaal, papier, toners en mappen halen</li><li>Koffie, thee, water en verbruiksartikelen voor het onthaal</li><li>Spullen voor de EHBO-kast, handgel en afvalzakken</li><li>Pakjes ophalen of wegbrengen</li><li>Een bestelling controleren bij levering</li></ul>",
+    "Niet wat buiten de zaak valt. Persoonlijke boodschappen, aankopen voor familie of vrienden en alles wat niet voor het bedrijf is, doen we niet. Zondags werkt enkel voor bedrijven."
+   ]
+  },
+  {
+   "h2": "Wie betaalt de aankopen?",
+   "p": [
+    "Je betaalt de uren van je Zondag aan Zondags en de aankopen zelf aan de winkel. De meest werkbare manier: je geeft je Zondag vooraf een lijst en een maximumgrens, en ze geeft je daarna bonnetjes of kassabonnen. Zo heb je een duidelijk bewijsstuk voor je boekhouder. Hoe je dat boekhoudkundig verwerkt, bespreek je met je accountant."
+   ]
+  },
+  {
+   "h2": "Een voorbeeld uit een praktijk",
+   "p": [
+    "Stel: je hebt een tandartspraktijk met twee behandelkamers. Elke twee weken moeten de handschoenen, papieren onderleggers en handgel aangevuld worden, en de koffiemachine heeft nieuwe bonen nodig. Je Zondag controleert op maandag de voorraad, maakt een lijst, doet de aankopen bij de leverancier of drogisterij en zet alles op zijn plek. Dat past in een half uur binnen een blok dat voor het overige naar de wachtzaal en het sanitair gaat.",
+    "Doe je zoiets voor een medische praktijk, dan blijft de beslissing over wat besteld wordt altijd bij jou of je praktijkmanager. Sterilisatie of medisch materiaal behandelen we niet."
+   ]
+  },
+  {
+   "h2": "Wanneer boodschappen onderweg gaan",
+   "p": [
+    "Een Zondag werkt overdag op weekdagen. Zorg dat er genoeg tijd in het blok zit voor de rit en het in- en uitladen. Een blok van 3 uur is voor een boodschappenronde met meerdere winkels vaak net genoeg. Een uitgebreid plan lees je op <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">rechterhand voor bedrijfsleiders</a>."
+   ]
+  },
+  {
+   "h2": "Kosten en boeken",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, geboekt per blok van 3 uur van 180 euro exclusief btw. Extra uren aan hetzelfde tarief. De factuur is op naam van je bedrijf. In principe is het een beroepskost; je accountant bevestigt hoe dat voor jouw situatie ligt.",
+    "Boeken doe je via de <a href=\"boeken.html\">boekpagina</a>, voor een weekdag en minstens twee werkdagen vooraf."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Wat mag mijn Zondag allemaal kopen voor de zaak?",
+   "a": "Wat jij vooraf bepaalt: kantoormateriaal, koffie, verbruiksartikelen en spullen voor de EHBO-kast. Je geeft een lijst en een grens, en voor alles daarbuiten vraagt ze eerst jouw akkoord."
+  },
+  {
+   "q": "Hoe reken ik de aankopen af?",
+   "a": "De aankopen betaal je aan de winkel, bijvoorbeeld met een bedrijfskaart of via terugbetaling op bewijsstuk. De uren van je Zondag worden gefactureerd door Zondags."
+  },
+  {
+   "q": "Kan ik ook persoonlijke boodschappen laten doen?",
+   "a": "Nee. Zondags werkt alleen voor bedrijven en doet geen persoonlijke opdrachten. Alles wat je aan je Zondag vraagt, moet voor de zaak zijn."
+  },
+  {
+   "q": "Telt de rijtijd mee in het blok?",
+   "a": "Ja, de uren in het blok worden volledig gebruikt voor de opdrachten, de rit en het wegzetten. Daarom plan je liefst een ronde met alle boodschappen tegelijk."
+  },
+  {
+   "q": "Kan het ook wekelijks?",
+   "a": "Ja. Voor een terugkerend plan, bijvoorbeeld elke maandag, overleggen we eerst kort. Je krijgt dezelfde Zondag op dezelfde dag en hetzelfde uur."
+  },
+  {
+   "q": "Wat kost het om boodschappen te laten doen?",
+   "a": "60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw per blok. De aankopen zelf komen daar bovenop."
+  }
+ ],
+ "path": "vragen/boodschappen-voor-de-zaak-uitbesteden.html"
+}

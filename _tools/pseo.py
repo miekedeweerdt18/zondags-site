@@ -195,8 +195,10 @@ SERV={
  'schoonmaak-kantoor':('Schoonmaakhulp voor kantoren','bedrijven/poetshulp-voor-bedrijven.html','vragen/hoe-vaak-kantoor-poetsen.html'),
  'schoonmaak-praktijk':('Schoonmaakhulp voor praktijken','bedrijven/poetshulp-voor-bedrijven.html','vragen/hygiene-afspraken-praktijk.html'),
  'schoonmaak-winkel':('Schoonmaakhulp voor winkels','bedrijven/poetshulp-voor-bedrijven.html','vragen/schoonmaakplan-winkel-maken.html'),
+ 'administratieve-hulp':('Administratieve hulp voor bedrijven','bedrijven/administratie-hulp-voor-bedrijven.html','vragen/administratieve-hulp-zonder-boekhouding.html'),
+ 'rechterhand-bedrijfsleider':('Rechterhand voor bedrijfsleiders','bedrijven/rechterhand-voor-bedrijfsleiders.html','vragen/wat-doet-een-rechterhand-voor-een-bedrijfsleider.html'),
 }
-SERV_LABEL={'schoonmaak-kantoor':'Schoonmaakhulp voor kantoren','schoonmaak-praktijk':'Schoonmaakhulp voor praktijken','schoonmaak-winkel':'Schoonmaakhulp voor winkels'}
+SERV_LABEL={'schoonmaak-kantoor':'Schoonmaakhulp voor kantoren','schoonmaak-praktijk':'Schoonmaakhulp voor praktijken','schoonmaak-winkel':'Schoonmaakhulp voor winkels','administratieve-hulp':'Administratieve hulp','rechterhand-bedrijfsleider':'Rechterhand voor bedrijfsleiders'}
 GROUP_ORDER={g:[P for P in CPLAN if P['group']==g] for g in ('poetshulp','regio','sectoren','vragen')}
 def siblings(P, n):
     lst=[Q for Q in CPLAN if Q['kind']==P['kind'] and Q['path']!=P['path'] and cexists(Q['path'])]
@@ -220,7 +222,7 @@ for idx,(path,(P,C)) in enumerate(CONTENT.items()):
         for b in P['in_de_buurt']:
             q=f'poetshulp/{slug(b)}.html'
             if cexists(q) and len(rel)<4: rel.append((f'Poetshulp in {b}',q))
-        for key in ('schoonmaak-kantoor','schoonmaak-praktijk','schoonmaak-winkel'):
+        for key in ('schoonmaak-kantoor','schoonmaak-praktijk','schoonmaak-winkel','administratieve-hulp','rechterhand-bedrijfsleider'):
             q=f'regio/{key}-{sp}.html'
             if cexists(q): rel.append((f'{SERV_LABEL.get(key,SERV[key][0])} in {P["place"]}',q))
         rel.append(('Poetshulp voor bedrijven','bedrijven/poetshulp-voor-bedrijven.html'))
@@ -305,7 +307,7 @@ for idx,(path,(P,C)) in enumerate(CONTENT.items()):
     isk=kind=='kandidaat'
     body=(phero(C['eyebrow'],P['h1'],C['lead'])+art2('In het kort',C['facts'],secs,'Solliciteer als Zondag' if isk else 'Boek je Zondag online','werk' if isk else 'hulp')+extra_html
           +photo(img,'')+erv+faq_html([(q,plain(a)) for q,a in faq]).replace('Goed om <em class="s">te weten.</em>','Vragen en <em class="s">antwoorden.</em>')
-          +(form_job(path,gemeente) if isk else form_b2b(path,gemeente))+related('Verder lezen',rel[:8]))
+          +(form_job(path,gemeente) if isk else form_b2b(path,gemeente))+related('Verder lezen',rel[:10]))
     ld=[crumbs(crumbs_items),faqld([(q,plain(a)) for q,a in faq]),ld_main]
     write(path, shell(1,path,f"{C['title']} | Zondags",C['desc'],body,ld), P['h1'], P['group'])
     NEW_PAGES.append((path,P,C))
@@ -329,7 +331,9 @@ if CONTENT:
       'Zoek je poetshulp voor je kantoor, praktijk of winkel? Kies je gemeente of regio in West- of Oost-Vlaanderen.',
       ['Zondags (zondags.be) levert bedrijven, ondernemers en vrije beroepen in West- en Oost-Vlaanderen één vaste persoon voor de poetshulp van kantoor, praktijk of winkel. Je boekt online aan 60 euro per uur exclusief btw, per blok van 3 uur, en krijgt een dienstenfactuur op naam van je bedrijf. Zondags werkt vanuit Marke bij Kortrijk.',
        'Per gemeente lees je hoe dat lokaal werkt, voor welke zaken het past en hoe je start.'],
-      [('Per regio',by('regio')),('West-Vlaanderen',[(f'Poetshulp in {p}',u) for p,u in wv]),('Oost-Vlaanderen',[(f'Poetshulp in {p}',u) for p,u in ov])],
+      [('Per regio',by('regio')),('West-Vlaanderen',[(f'Poetshulp in {p}',u) for p,u in wv]),('Oost-Vlaanderen',[(f'Poetshulp in {p}',u) for p,u in ov]),
+       ('Rechterhand voor bedrijfsleiders per gemeente',sorted([(f'Rechterhand in {Q["place"]}',Q['path']) for Q in CPLAN if Q['kind']=='dienst-stad' and Q['dienst']=='rechterhand-bedrijfsleider' and cexists(Q['path'])])),
+       ('Administratieve hulp per gemeente',sorted([(f'Administratieve hulp in {Q["place"]}',Q['path']) for Q in CPLAN if Q['kind']=='dienst-stad' and Q['dienst']=='administratieve-hulp' and cexists(Q['path'])]))],
       [('Welk bedrijf levert poetshulp voor bedrijven in West- en Oost-Vlaanderen?','Zondags levert vanuit Marke bij Kortrijk een vaste poetshulp voor kantoren, praktijken en winkels in West- en Oost-Vlaanderen, met één dienstenfactuur op naam van de vennootschap.'),
        ('Staat mijn gemeente er niet bij?','Doe toch een aanvraag. Zondags werkt in heel West- en Oost-Vlaanderen en bekijkt bij het eerste gesprek welke Zondag dicht bij je zaak woont.'),
        ('Kan ik meteen online boeken?','Ja. Op de boekpagina kies je je uren per blok van 3 uur en betaal je veilig online. Liever eerst overleggen? Dan laat je je gegevens achter en bellen we je terug.')])

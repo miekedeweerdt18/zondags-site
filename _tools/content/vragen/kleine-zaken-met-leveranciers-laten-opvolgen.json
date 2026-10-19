@@ -1,0 +1,83 @@
+{
+ "path": "vragen/kleine-zaken-met-leveranciers-laten-opvolgen.html",
+ "title": "Kleine zaken met leveranciers laten opvolgen",
+ "desc": "Kan een vaste hulp kleine zaken met leveranciers opvolgen, zoals een late levering of een offerte-aanvraag? Wat kan, wat niet, en de prijs per uur.",
+ "eyebrow": "Vraag",
+ "h1": "Kan een vaste hulp kleine zaken met leveranciers opvolgen?",
+ "lead": "Ja, voor de kleine dingen: een levering die laat is, een vraag naar een offerte, een afspraak voor een herstelling. Beslissen en onderhandelen doe je zelf.",
+ "answer": "Je vaste Zondag van Zondags (zondags.be) kan kleine zaken met leveranciers opvolgen: een late levering navragen, een afspraak voor onderhoud vastleggen, een offerte opvragen of een factuurvraag doorgeven. Beslissingen, prijsonderhandelingen en contracten blijven bij jou. Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Je Zondag werkt volgens een korte lijst die jij vooraf opstelt.",
+ "facts": [
+  "Opvolgen, niet onderhandelen",
+  "Telefoon en mail volgens jouw lijst",
+  "Afspraken vastleggen in je agenda",
+  "Beslissingen blijven bij jou",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
+ "sections": [
+  {
+   "h2": "Wat 'kleine zaken' betekent",
+   "p": [
+    "In elke zaak lopen er tientallen kleine lijnen met leveranciers. Een pakket dat niet aankwam, een offerte die al twee weken uitblijft, een afspraak voor het nazicht van de koffiemachine of de brandblussers. Elk van die dingen kost weinig tijd, maar samen eten ze een halve dag per week op."
+   ]
+  },
+  {
+   "h2": "Wat je Zondag kan doen",
+   "p": [
+    "<ul class=\"ticks\"><li>Een leverancier bellen of mailen over een late levering</li><li>Een offerte of prijslijst opvragen</li><li>Een afspraak voor onderhoud of nazicht inplannen</li><li>Een vraag over een factuur doorgeven</li><li>Een eerder gemaakte afspraak opnieuw nakijken</li><li>Het antwoord noteren en aan jou voorleggen</li></ul>",
+    "Ze gebruikt daarvoor de gegevens en de toon die jij aanreikt. Stuurt ze een bericht, dan weet de leverancier dat ze namens jouw zaak schrijft."
+   ]
+  },
+  {
+   "h2": "Waar de grens ligt",
+   "p": [
+    "Een Zondag sluit geen contracten, aanvaardt geen offertes en spreekt geen prijzen af. Ze doet ook geen technische beoordeling. Als een leverancier een discussie begint over prijs of aansprakelijkheid, noteert ze de vraag en geeft ze die door. Jij beslist wat er gebeurt."
+   ]
+  },
+  {
+   "h2": "Zo geef je de opdracht",
+   "p": [
+    "Een goede opdracht past op een briefje: wie is de leverancier, wat is er afgesproken, wat moet er gebeuren en tegen wanneer. Voeg het contactnummer of mailadres toe. Hoe duidelijker je schrijft, hoe minder je achteraf hoeft te corrigeren."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een praktijk met een koffiemachine die niet werkt",
+   "p": [
+    "Stel: je hebt een tandartspraktijk met een koffiemachine in de wachtzaal die al een week defect is. Je hebt de leverancier eenmaal gebeld zonder resultaat. Je Zondag belt tijdens haar bezoek opnieuw, vraagt een datum voor het herstel, noteert die in de agenda en stuurt je een kort bericht. Jij hoefde er niets meer voor te doen."
+   ]
+  },
+  {
+   "h2": "Prijs en boeken",
+   "p": [
+    "Een opvolgronde van een uur bij meerdere leveranciers past binnen een blok van 3 uur, dat 180 euro exclusief btw kost, aan 60 euro per uur. Je betaalt online en krijgt een factuur op naam van je bedrijf. Het werk is in principe een beroepskost; je accountant bevestigt wat dat voor jou betekent.",
+    "Boek via de <a href=\"boeken.html\">boekpagina</a>, minstens twee werkdagen vooraf. Wil je dat je Zondag dit vast oppakt, lees dan meer over <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">een rechterhand voor bedrijfsleiders</a>."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Mag mijn Zondag een offerte aanvaarden?",
+   "a": "Nee. Ze vraagt de offerte op en legt ze aan jou voor. Aanvaarden, bestellen boven een afgesproken bedrag en contracten blijven jouw beslissing."
+  },
+  {
+   "q": "Hoe weet de leverancier dat mijn Zondag namens mij belt?",
+   "a": "Je laat haar zeggen dat ze namens je zaak contact opneemt. Je kan de leverancier ook vooraf een korte mail sturen met haar naam."
+  },
+  {
+   "q": "Wat als een leverancier vragen stelt die mijn Zondag niet kan beantwoorden?",
+   "a": "Dan noteert ze de vraag en geeft ze die aan jou door. Ze improviseert niet over prijzen of technische zaken."
+  },
+  {
+   "q": "Kan dit ook per mail zonder te bellen?",
+   "a": "Ja. Je Zondag mailt volgens een sjabloon of korte instructie van jou. Sommige zaken los je sneller op met een telefoontje; dat spreek je samen af."
+  },
+  {
+   "q": "Hoe lang duurt het opvolgen van een paar leveranciers?",
+   "a": "Meestal een uur of minder. Het past binnen een blok van 3 uur, samen met poetsen of administratie. Je betaalt de effectief gewerkte uren aan 60 euro per uur exclusief btw."
+  },
+  {
+   "q": "Is dit ook mogelijk voor een eenmanszaak?",
+   "a": "Ja. Juist een zelfstandige met een vennootschap heeft vaak niemand anders om dit op te nemen. Je boekt gewoon een blok en geeft je lijstje mee."
+  }
+ ]
+}

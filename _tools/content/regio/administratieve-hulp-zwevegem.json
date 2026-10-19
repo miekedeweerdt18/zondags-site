@@ -1,0 +1,84 @@
+{
+ "path": "regio/administratieve-hulp-zwevegem.html",
+ "title": "Administratieve hulp voor bedrijven in Zwevegem",
+ "desc": "Een groepspraktijk of kantoor in Zwevegem met administratie die blijft liggen? Eén vaste Zondag, 60 euro per uur excl. btw, per blok van 3 uur.",
+ "eyebrow": "Zwevegem · 8550",
+ "h1": "Administratieve hulp voor bedrijven in Zwevegem",
+ "lead": "In een kantoor met een handvol mensen krijgt administratie zelden voorrang. In Zwevegem pakt een vaste Zondag ze op, voor 60 euro per uur exclusief btw per blok van 3 uur.",
+ "answer": "Zondags (zondags.be) levert in Zwevegem administratieve hulp ter plaatse aan kleine kantoren en praktijken van een handvol tot vijftien mensen: post openen, documenten klasseren, dossiers en archief ordenen, afspraken plannen, bestellingen opvolgen en pakjes klaarmaken. Het blijft ondersteunend werk, zonder boekhouding of advies. Je boekt online per blok van 3 uur aan 60 euro per uur exclusief btw en krijgt een factuur op naam van je bedrijf.",
+ "facts": [
+  "Post, klasseren, archief, agenda",
+  "Geen boekhouding of advies",
+  "Te combineren met poetshulp",
+  "Factuur op naam van je bedrijf",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
+ "sections": [
+  {
+   "h2": "Administratie die niemand als eerste doet",
+   "p": [
+    "In een groepspraktijk vult elke zorgverlener zijn agenda met patiënten, niet met klasseerwerk. Het gevolg: een gedeelde bak met post die een week blijft liggen, bestelformulieren die niemand invult en een archief waar niemand nog iets terugvindt. Dat is niet slecht bedoeld, het is gewoon geen prioriteit.",
+    "Een vaste Zondag maakt er wel een prioriteit van, op een vaste dag in de week. Eén persoon, één lijst, en iedereen weet wanneer de stapel kleiner wordt. Dat geeft rust aan het team en ruimte aan de zorgverleners om bij hun patiënten te blijven."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een groepspraktijk van huisartsen",
+   "p": [
+    "Neem een groepspraktijk van huisartsen in Zwevegem met een gedeelde balie en een wachtzaal. Op vrijdagochtend, wanneer het rustiger is, komt de Zondag. Ze opent de post, scheidt de facturen van de rest en klasseert de documenten volgens het schema van de praktijk. Ze noteert welke voorraden bijna op zijn, bestelt kantoorbenodigdheden en zet de afspraken voor de volgende week in het planningssysteem.",
+    "Dossiers van patiënten raakt ze niet aan. Dat blijft in handen van het medisch team, en dat is een duidelijke afspraak vooraf."
+   ]
+  },
+  {
+   "h2": "Werk dat je kan overlaten",
+   "p": [
+    "<ul class=\"ticks\"><li>Algemene post en facturen sorteren</li><li>Leveranciersdocumenten klasseren</li><li>Het niet-medische archief ordenen</li><li>Kantoorbenodigdheden en koffie bestellen</li><li>Afspraken met leveranciers inplannen</li><li>Wachtzaal, balie en sanitair poetsen</li></ul>",
+    "Wat het niet is: geen boekhouding, geen jaarrekeningen, geen loonadministratie en geen fiscaal of juridisch advies. Je boekhouder of accountant blijft de boekhouder. Een overzicht vind je bij <a href=\"bedrijven/administratie-hulp-voor-bedrijven.html\">administratieve hulp voor bedrijven</a>."
+   ]
+  },
+  {
+   "h2": "Zwevegem en de deelgemeenten",
+   "p": [
+    "Zwevegem heeft de deelgemeenten Heestert, Moen, Otegem en Sint-Denijs. In de buurt liggen Kortrijk, Harelbeke, Deerlijk, Avelgem, Spiere-Helkijn en Anzegem. Zo zoeken we een Zondag die dichtbij je praktijk woont."
+   ]
+  },
+  {
+   "h2": "Prijs en btw",
+   "p": [
+    "60 euro per uur exclusief btw, per blok van 3 uur: 180 euro exclusief btw. Extra uren aan hetzelfde tarief. Je ontvangt één factuur op naam van de praktijk of vennootschap. Een btw-plichtige zaak met aftrekrecht kan de btw in principe recupereren, een btw-vrijgestelde praktijk doorgaans niet. Je accountant bevestigt het."
+   ]
+  },
+  {
+   "h2": "Zo begin je",
+   "p": [
+    "Boek via de <a href=\"boeken.html\">boekpagina</a>, minstens twee werkdagen vooraf. Voor een terugkerend plan vragen we eerst een gesprek, zodat het zondagsplan goed bij de praktijk past."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Wat doet een Zondag in een groepspraktijk in Zwevegem?",
+   "a": "Ze doet ondersteunend administratief werk en poetst: post sorteren, facturen klasseren, bestellingen, planning, wachtzaal en balie. Medische dossiers blijven bij het team."
+  },
+  {
+   "q": "Heeft een Zondag toegang tot patiëntendossiers?",
+   "a": "Nee, dat spreken we vooraf af. Ze werkt enkel met algemene post, facturen en kantoorbenodigdheden en laat medische dossiers met rust."
+  },
+  {
+   "q": "Wat kost het per blok?",
+   "a": "Een blok van 3 uur kost 180 euro exclusief btw, dus 60 euro per uur. Extra uren kosten hetzelfde per uur."
+  },
+  {
+   "q": "Kan de administratie ook op een andere dag dan het poetsen?",
+   "a": "Ja. Je kan blokken op verschillende dagen boeken, of in één blok de uren verdelen over administratie en poetsen."
+  },
+  {
+   "q": "Is het altijd dezelfde persoon?",
+   "a": "Ja, bij een vast plan wel. Eén Zondag op een vaste dag en uur, in dienst van Zondags."
+  },
+  {
+   "q": "Kan ik online betalen?",
+   "a": "Ja, met kaart of Bancontact via Stripe. Je geeft de naam en het btw-nummer van je bedrijf in en ontvangt een factuur op naam van je zaak."
+  }
+ ]
+}

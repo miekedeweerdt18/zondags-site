@@ -1,0 +1,83 @@
+{
+ "path": "vragen/ehbo-kast-op-kantoor-aanvullen.html",
+ "title": "Wie vult de EHBO-kast op kantoor aan?",
+ "desc": "Wie houdt de EHBO-kast op kantoor aangevuld? Een praktische routine voor je zaak, wat je vaste Zondag kan doen en wat bij jou blijft. 60 euro per uur.",
+ "eyebrow": "Vraag",
+ "h1": "Wie houdt de EHBO-kast op kantoor aangevuld?",
+ "lead": "Iemand moet het doen, en meestal is dat niemand. Zo maak je er een vaste afspraak van in plaats van een vergeten klusje.",
+ "answer": "In je zaak is de bedrijfsleider verantwoordelijk voor de EHBO-kast, maar de praktische controle en bevoorrading kan je delegeren. Bij Zondags (zondags.be) kan je vaste Zondag de inhoud nakijken, een lijst van wat ontbreekt opmaken en de producten in de apotheek of drogisterij ophalen. Jij beslist wat erin hoort. Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, en het past in hetzelfde bezoek als het poetsen.",
+ "facts": [
+  "Jij bepaalt de inhoud, je Zondag checkt",
+  "Houdbaarheidsdata nakijken",
+  "Aankopen in apotheek of drogisterij",
+  "Past in een blok met poetsen",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
+ "sections": [
+  {
+   "h2": "De verantwoordelijkheid blijft bij jou",
+   "p": [
+    "Wat er precies in een EHBO-kast moet zitten, hangt af van je zaak en de regels die op jou van toepassing zijn. Dat is iets voor je preventieadviseur of externe dienst voor preventie, niet voor een algemene lijst op een website. Zondags beslist dus nooit over de inhoud. Wel zorgen we dat wat jij vastlegt, ook echt aanwezig is."
+   ]
+  },
+  {
+   "h2": "De routine die het werkt maakt",
+   "p": [
+    "Schrijf op een blad wat er in de kast hoort, met aantallen. Hang dat binnen in het deurtje. Je Zondag loopt de lijst af en noteert wat ontbreekt of bijna op is.",
+    "<ul class=\"ticks\"><li>Pleisters, kompressen en verbandmateriaal tellen</li><li>Houdbaarheidsdata van ontsmettingsmiddel en oogspoeling nakijken</li><li>Verbruikte of vervallen producten uit de kast halen</li><li>Een aankooplijstje opmaken en aan jou voorleggen</li><li>Na jouw akkoord inkopen in de apotheek of drogisterij</li></ul>",
+    "Zo ligt er na elk bezoek een kast die klopt met jouw lijst."
+   ]
+  },
+  {
+   "h2": "Waarom dit blijft liggen",
+   "p": [
+    "Niemand ziet een EHBO-kast tot er iets gebeurt. Een kleine snijwonde, een brandwonde in de keuken of een klant die flauwvalt in de showroom: dan blijkt de pleister op te zijn. Net omdat het nooit dringend lijkt, is het een ideaal klusje voor een vast ritme."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een kantoor met een kleine keuken",
+   "p": [
+    "Stel: je hebt een kantoor met acht werkplekken en een kitchenette. Elke maand komt je Zondag voor het poetsen. Aan het einde van het bezoek controleert ze de EHBO-kast, noteert twee producten die bijna op zijn en brengt de volgende keer de vervangers mee uit de apotheek. Jij kijkt het lijstje na op je telefoon en geeft je akkoord."
+   ]
+  },
+  {
+   "h2": "Wat het kost",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw. De controle van de kast is een kwestie van enkele minuten binnen een blok van 3 uur, dat 180 euro exclusief btw kost. De aangekochte producten betaal je apart; je spreekt vooraf af wat er gekocht mag worden. De factuur staat op naam van je bedrijf. Of de btw recupereerbaar is, hangt af van je situatie, dus laat je accountant dat bevestigen."
+   ]
+  },
+  {
+   "h2": "Combineren met andere taken",
+   "p": [
+    "Het vullen van de EHBO-kast past in de lijn van het regelwerk dat een Zondag oppakt: kantoormateriaal bestellen, de koffiehoek bevoorraden, pakjes klaarmaken. Meer daarover vind je op <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">een rechterhand voor bedrijfsleiders</a>. Boeken doe je via de <a href=\"boeken.html\">boekpagina</a>."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Mag een Zondag zelf bepalen wat er in de EHBO-kast moet?",
+   "a": "Nee. Jij of je preventieadviseur legt de inhoud vast. Je Zondag controleert, noteert wat ontbreekt en haalt aan op jouw vraag."
+  },
+  {
+   "q": "Geeft een Zondag eerste hulp?",
+   "a": "Nee. Een Zondag is er voor poetsen, administratie en regelwerk, niet als hulpverlener. Voor de eerste hulp in je zaak volgt je team de afspraken van je eigen preventiebeleid."
+  },
+  {
+   "q": "Kan mijn Zondag medicatie halen in de apotheek?",
+   "a": "Ze haalt producten voor de EHBO-kast van je zaak, volgens jouw lijst. Het gaat om materiaal voor het bedrijf, niet om persoonlijke medicatie van medewerkers."
+  },
+  {
+   "q": "Hoe vaak moet de EHBO-kast nagekeken worden?",
+   "a": "Dat bepaal je zelf of samen met je preventieadviseur. Veel zaken kiezen een vast moment, bijvoorbeeld één keer per maand tijdens het poetsbezoek."
+  },
+  {
+   "q": "Wat kost het nakijken van de EHBO-kast?",
+   "a": "Je betaalt 60 euro per uur exclusief btw voor de tijd die het kost. Meestal past het binnen een blok van 3 uur dat je toch al boekt voor poetsen."
+  },
+  {
+   "q": "Kan ik dit laten doen zonder vast plan?",
+   "a": "Ja. Je boekt op de boekpagina een blok, minstens twee werkdagen vooraf, en vermeldt de taak. Voor een vast ritme bespreken we eerst het zondagsplan."
+  }
+ ]
+}

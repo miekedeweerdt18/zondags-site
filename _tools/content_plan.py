@@ -122,6 +122,12 @@ PLAATSEN = [
  ("Stekene","9190",OV,"gemeente","",["Kemzeke"],["Sint-Niklaas","Sint-Gillis-Waas","Moerbeke","Lokeren"],"Waasland"),
  ("Sint-Gillis-Waas","9170",OV,"gemeente","",["De Klinge","Meerdonk","Sint-Pauwels"],["Stekene","Sint-Niklaas","Beveren-Kruibeke-Zwijndrecht"],"Waasland"),
  ("Assenede","9960",OV,"gemeente","",["Bassevelde","Boekhoute","Oosteeklo"],["Zelzate","Evergem","Kaprijke","Eeklo"],"Meetjesland"),
+ # week 4 (19 oktober 2026): 5 extra gemeenten in Oost-Vlaanderen (geen fusiegemeenten van 2025)
+ ("Zelzate","9060",OV,"gemeente","",[],["Evergem","Assenede","Wachtebeke"],"Meetjesland"),
+ ("Kaprijke","9970",OV,"gemeente","",["Lembeke"],["Eeklo","Assenede","Sint-Laureins","Evergem","Lievegem"],"Meetjesland"),
+ ("Sint-Laureins","9980",OV,"gemeente","",["Sint-Margriete","Sint-Jan-in-Eremo","Waterland-Oudeman","Watervliet"],["Maldegem","Eeklo","Kaprijke","Assenede"],"Meetjesland"),
+ ("Wachtebeke","9185",OV,"gemeente","",[],["Zelzate","Lochristi","Evergem","Lokeren"],"regio Gent"),
+ ("Horebeke","9667",OV,"gemeente","",["Sint-Kornelis-Horebeke","Sint-Maria-Horebeke"],["Maarkedal","Brakel","Zwalm","Oudenaarde"],"Vlaamse Ardennen"),
 ]
 
 ANGLES = [
@@ -654,6 +660,75 @@ def block_w3():
         out.append(dict(id=f'vragen/{s}', path=f'vragen/{s}.html', kind='vraag', group='vragen', h1=q))
     return out
 
+# ---------------- WEEK 4 (19 OKTOBER 2026): 200 extra B2B- en kandidatenpagina's ----------------
+W4_NEW_OV = ["Zelzate", "Kaprijke", "Sint-Laureins", "Wachtebeke", "Horebeke"]
+_HOOFD = [p[0] for p in PLAATSEN if p[3] != 'deelgemeente' and p[0] not in W4_NEW_OV]
+W4_RECHTERHAND = [c for c in _HOOFD if c not in W3_RECHTERHAND][:48]
+W4_ADMIN = [c for c in _HOOFD if c not in W3_ADMIN][:47]
+W4_K_CITIES = W3_NEW_OV + W4_NEW_OV
+W4_KANTOOR = W3_NEW_OV + W4_NEW_OV
+W4_SECTOREN = [
+ ("dierenartspraktijken", "Poetshulp voor dierenartspraktijken", "onthaal en wachtzaal met veel passage, balie, sanitair, personeelsruimte en kantoor; de consultatie- en behandelruimtes, het materiaal en alles wat met de dieren zelf te maken heeft blijven bij de praktijk; geen sterilisatie"),
+ ("kinesitherapiepraktijken", "Poetshulp voor kinesitherapiepraktijken", "wachtzaal, onthaal, behandelruimtes met tafels en oefenmateriaal afstoffen en vloeren, kleedhokjes, sanitair; poetsen buiten de consulturen; geen medisch materiaal"),
+ ("psychologenpraktijken", "Poetshulp voor psychologen- en therapiepraktijken", "rustige gespreksruimtes, kleine wachtruimte, sanitair, kitchenette; discretie en stilte, poetsen tussen of voor de gesprekken; niets lezen of verplaatsen"),
+ ("marketingbureaus", "Poetshulp voor marketing- en communicatiebureaus", "open kantoor met flexplekken, schermen en camera- of fotohoek, vergaderzaal voor klantenpitches, koffiebar en keuken, sanitair; plus regelwerk zoals pakjes en stalen versturen"),
+ ("hr-en-selectiekantoren", "Poetshulp voor HR- en selectiekantoren", "onthaal, gesprekslokalen voor kandidaten, kantoren, vergaderzaal, keuken en sanitair; discretie rond cv's en dossiers; administratieve hulp bij post en klasseren"),
+ ("boekhandels", "Poetshulp voor boekhandels", "winkelvloer, rekken en tafels afstoffen zonder de boeken te verschikken, toonbank, etalage langs binnen, stockruimte en sanitair; poetsen voor de winkel opengaat"),
+ ("bloemenwinkels", "Poetshulp voor bloemenwinkels", "winkelvloer met water en plantresten, toonbank, werktafel na het binden opruimen in overleg, koelcel enkel langs de buitenkant, sanitair en personeelsruimte; de bloemen zelf blijven bij de bloemist"),
+ ("juweliers", "Poetshulp voor juweliers", "vitrines en toonbanken langs de buitenkant streeploos, spiegels, winkelvloer, onthaal, sanitair; de juwelen, de kluis en de vitrines langs binnen blijven bij de juwelier; discretie rond sleutels en alarm"),
+ ("kledingwinkels", "Poetshulp voor kledingwinkels en boetieks", "winkelvloer, paskamers met spiegels, toonbank, etalage langs binnen, stockruimte, sanitair; poetsen voor opening; het plooien en herschikken van kledij in overleg"),
+ ("fotostudios", "Poetshulp voor fotostudio's", "studio met achtergronden en lampen (enkel afstoffen in overleg, niets verplaatsen), ontvangstruimte, kleedruimte met spiegel, kantoor, sanitair"),
+ ("wijnhandels", "Poetshulp voor wijnhandels en drankenzaken", "winkelruimte en proeftafel, rekken langs de buitenkant afstoffen, glazen na een proeverij op een weekdag, toonbank, stockruimte, sanitair"),
+ ("syndicuskantoren", "Poetshulp voor syndicus- en vastgoedbeheerkantoren", "kantoor met veel dossiers, onthaal, vergaderruimte voor mede-eigenaars, keuken en sanitair; administratieve hulp bij post, klasseren en archief; geen opkuis van gemeenschappelijke delen van gebouwen"),
+]
+W4_VRAGEN = [
+ ("hoeveel-kost-een-rechterhand-voor-een-bedrijfsleider", "Hoeveel kost een rechterhand voor een bedrijfsleider?"),
+ ("hoeveel-uur-administratieve-hulp-klein-bedrijf", "Hoeveel uur administratieve hulp heeft een klein bedrijf nodig?"),
+ ("ehbo-kast-op-kantoor-aanvullen", "Wie houdt de EHBO-kast op kantoor aangevuld?"),
+ ("kantoormateriaal-bestellen-uitbesteden", "Kan ik het bestellen van kantoormateriaal uitbesteden?"),
+ ("kleine-zaken-met-leveranciers-laten-opvolgen", "Kan een vaste hulp kleine zaken met leveranciers opvolgen?"),
+ ("afspraken-en-agenda-laten-inplannen", "Kan iemand afspraken en de agenda van mijn bedrijf inplannen?"),
+ ("gegevensinvoer-laten-doen", "Kan ik gegevensinvoer voor mijn bedrijf laten doen door een vaste hulp?"),
+ ("papierstapels-op-kantoor-wegwerken", "Hoe raak ik de papierstapels op mijn kantoor kwijt?"),
+ ("office-manager-of-rechterhand", "Heb ik een office manager nodig of volstaat een rechterhand voor een paar uur?"),
+ ("poetshulp-voor-praktijk-met-een-zorgverlener", "Heeft een praktijk met één zorgverlener poetshulp nodig?"),
+ ("eerste-afspraak-met-je-zondag-voorbereiden", "Hoe bereid ik de eerste afspraak met mijn Zondag voor?"),
+ ("moet-ik-aanwezig-zijn-als-mijn-zondag-komt", "Moet ik aanwezig zijn als mijn Zondag komt?"),
+ ("een-blok-per-maand-boeken", "Kan ik een Zondag boeken voor één blok per maand?"),
+ ("wat-past-in-een-blok-van-3-uur", "Wat kan een Zondag doen in een blok van 3 uur?"),
+ ("showroom-klaarzetten-voor-opendeur", "Kan een Zondag mijn showroom klaarzetten voor een opendeur?"),
+ ("flexplekken-proper-houden", "Hoe hou ik gedeelde bureaus en flexplekken proper?"),
+ ("poetsen-en-boodschappen-combineren", "Kan ik poetsen en boodschappen voor de zaak combineren in één bezoek?"),
+ ("feedback-geven-aan-je-zondag", "Hoe geef ik feedback aan mijn vaste Zondag?"),
+ ("werkplek-klaarzetten-nieuwe-medewerker", "Kan een Zondag de werkplek klaarzetten voor een nieuwe medewerker?"),
+ ("is-zondags-actief-in-oost-vlaanderen", "Is Zondags ook actief in Oost-Vlaanderen?"),
+]
+def block_w4():
+    out = []
+    for key, lst in (("rechterhand-bedrijfsleider", W4_RECHTERHAND), ("administratieve-hulp", W4_ADMIN)):
+        h1, scope = W3_SERV[key]
+        for i, c in enumerate(lst):
+            out.append(dict(id=f'regio/{key}-{slug(c)}', path=f'regio/{key}-{slug(c)}.html', kind='dienst-stad', group='regio',
+                h1=h1.format(p=c), dienst=key, scope=scope, scenario=SCEN[(i * 7 + 3 + len(key)) % len(SCEN)],
+                angle=ANGLES[(i * 5 + 2 + len(key)) % len(ANGLES)], **_ctx(c)))
+    out += [_dienst_page("schoonmaak-kantoor", c, i + 80) for i, c in enumerate(W4_KANTOOR)]
+    for c in W4_NEW_OV:
+        p = PL_MAP[c]; j = PLAATSEN.index(p)
+        out.append(dict(id=f'poetshulp/{slug(c)}', path=f'poetshulp/{slug(c)}.html', kind='stad', group='poetshulp',
+            h1=f'Poetshulp voor bedrijven in {c}', place=c, postcode=p[1], provincie=p[2], soort=p[3], deel_van=p[4],
+            deelgemeenten=p[5], in_de_buurt=p[6], streek=p[7], angle=ANGLES[(j * 5) % len(ANGLES)], scenario=SCEN[(j * 7) % len(SCEN)]))
+    for si, (key, h1, scope, emp) in enumerate(K_SOORT):
+        for ci, c in enumerate(W4_K_CITIES):
+            p = PL_MAP[c]
+            out.append(dict(id=f'werken/{key}-{slug(c)}', path=f'werken/{key}-{slug(c)}.html', kind='kandidaat', group='werken',
+                h1=h1.format(p=c), soort_job=key, scope=scope, employment=emp, place=c, postcode=p[1], provincie=p[2],
+                deelgemeenten=p[5], in_de_buurt=p[6], streek=p[7], persona=K_PERSONA[(ci * 3 + si * 7 + 2) % len(K_PERSONA)]))
+    for s_, h1, scope in W4_SECTOREN:
+        out.append(dict(id=f'sectoren/{s_}', path=f'sectoren/{s_}.html', kind='sector', group='sectoren', h1=h1, scope=scope))
+    for s_, q in W4_VRAGEN:
+        out.append(dict(id=f'vragen/{s_}', path=f'vragen/{s_}.html', kind='vraag', group='vragen', h1=q))
+    return out
+
 EXTRA_VRAGEN = [("werkt-zondags-enkel-voor-bedrijven", "Werkt Zondags enkel voor bedrijven?")]
 def _has_content(p):
     return os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'content', p['id'] + '.json'))
@@ -662,8 +737,10 @@ def plan():
     pages = city_pages() + region_pages() + service_city_pages() + sector_pages() + question_pages() + candidate_pages() + block_nieuw()
     pages += [dict(id=f'vragen/{s}', path=f'vragen/{s}.html', kind='vraag', group='vragen', h1=q) for s, q in EXTRA_VRAGEN]
     w3 = block_w3(); w3_ids = {p['id'] for p in w3}
-    pages = [p for p in pages if p['id'] not in w3_ids and _has_content(p)]
-    return pages + w3
+    w4 = block_w4(); w4_ids = {p['id'] for p in w4}
+    w3 = [p for p in w3 if p['id'] not in w4_ids and _has_content(p)]
+    pages = [p for p in pages if p['id'] not in w3_ids and p['id'] not in w4_ids and _has_content(p)]
+    return pages + w3 + w4
 
 if __name__ == '__main__':
     P = plan()

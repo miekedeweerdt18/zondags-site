@@ -1,0 +1,88 @@
+{
+ "path": "vragen/afspraken-en-agenda-laten-inplannen.html",
+ "title": "Afspraken en agenda laten inplannen door een vaste hulp",
+ "desc": "Kan iemand de afspraken en agenda van je bedrijf inplannen? Wat een vaste Zondag overneemt, wat je zelf beslist en wat het kost: 60 euro per uur excl. btw.",
+ "eyebrow": "Vraag",
+ "h1": "Kan iemand afspraken en de agenda van mijn bedrijf inplannen?",
+ "lead": "Ja, de praktische kant van je agenda kan een ander voor jou doen: afspraken vastleggen, verplaatsen en opvolgen. Jij geeft de regels, zij houdt het overzicht.",
+ "answer": "Een vaste Zondag van Zondags (zondags.be) kan afspraken en de agenda van je bedrijf inplannen: klantafspraken vastleggen, bevestigen en verplaatsen, vergaderingen koppelen aan vrije momenten en herinneringen noteren. Jij bepaalt wat voorrang krijgt en welke momenten vrij blijven. Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur. Het werk gebeurt ter plaatse in je zaak, overdag op weekdagen.",
+ "facts": [
+  "Afspraken vastleggen en verplaatsen",
+  "Jij bepaalt de voorrangsregels",
+  "Herinneringen en opvolging",
+  "Ter plaatse in je zaak",
+  "60 euro per uur, per blok van 3 uur",
+  "Online boeken en betalen"
+ ],
+ "sections": [
+  {
+   "h2": "Een agenda is meer dan een kalender",
+   "p": [
+    "Wie zijn eigen agenda beheert, merkt snel dat het niet bij invullen blijft. Afspraken verschuiven, klanten bellen terug, een leverancier wil een ander uur, en intussen moet er ook nog gewerkt worden. Het plannen zelf is administratief werk, en dat kan je uit handen geven zonder de controle kwijt te raken."
+   ]
+  },
+  {
+   "h2": "Wat je Zondag voor je plant",
+   "p": [
+    "<ul class=\"ticks\"><li>Klantafspraken inplannen en bevestigen</li><li>Verplaatsingen regelen en de nieuwe datum doorgeven</li><li>Afspraken met leveranciers en onderhoudsbeurten vastleggen</li><li>Vergaderzaal en materiaal reserveren</li><li>Herinneringen noteren voor vervaldata en opvolgacties</li><li>De agenda van de week klaarzetten voor jou of je team</li></ul>",
+    "Ze werkt in de agenda of de kalender die jij gebruikt. Jij geeft toegang en uitleg, ze volgt de regels."
+   ]
+  },
+  {
+   "h2": "De regels die jij vastlegt",
+   "p": [
+    "Geef vooraf mee wat vaststaat: de dagen waarop je niet beschikbaar bent, de duur van een standaardafspraak, welke klanten voorrang krijgen en wat je zelf wil bevestigen. Hoe scherper de regels, hoe minder vragen er komen. Twijfelt je Zondag, dan legt ze een voorstel aan je voor in plaats van zelf te kiezen."
+   ]
+  },
+  {
+   "h2": "Wat het niet is",
+   "p": [
+    "Een Zondag is geen telefonist die de hele dag je lijn bewaakt, en geen virtueel secretariaat op afstand. Ze komt in je zaak langs, op een vaste dag en een vast uur, en werkt dan het plannen af dat is blijven liggen. Voor wie de hele dag een bezette receptie nodig heeft, is dit niet de juiste oplossing."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een architectenbureau",
+   "p": [
+    "Stel: je hebt een klein architectenbureau en elke week wisselen plaatsbezoeken, klantgesprekken en leveranciersafspraken elkaar af. Op maandag komt je Zondag voor een blok van 3 uur. Ze legt de bevestigingen vast, plant de komende week in en zet drie dingen apart waarover ze een beslissing van jou nodig heeft. Je start de week met een agenda die klopt."
+   ]
+  },
+  {
+   "h2": "Prijs en factuur",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, dus 180 euro exclusief btw per blok van 3 uur. Extra uren boek je aan hetzelfde tarief. De factuur staat op naam van je bedrijf. Het plannen voor je zaak is in principe een beroepskost; laat je accountant dat voor jouw situatie bevestigen."
+   ]
+  },
+  {
+   "h2": "Zo start je",
+   "p": [
+    "Boek een eerste blok via de <a href=\"boeken.html\">boekpagina</a>, minstens twee werkdagen vooraf. Wil je een vast moment, bijvoorbeeld elke maandagochtend, bespreek dat dan eerst in een kort gesprek. Meer over het aanbod vind je op <a href=\"bedrijven/administratie-hulp-voor-bedrijven.html\">administratieve hulp voor bedrijven</a>."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Kan mijn Zondag afspraken met klanten bevestigen?",
+   "a": "Ja, met de berichten of het sjabloon dat jij aanreikt. Ze verstuurt de bevestiging en legt de afspraak vast in je agenda."
+  },
+  {
+   "q": "Moet ik toegang geven tot mijn mailbox?",
+   "a": "Alleen als dat nodig is voor de taak, en dan beperkt tot wat jij afspreekt. Veel zaken werken met een gedeelde agenda of een aparte lijst. Dat bespreek je in het kennismakingsgesprek."
+  },
+  {
+   "q": "Beantwoordt een Zondag de telefoon van mijn bedrijf?",
+   "a": "Nee, dat is niet de bedoeling. Ze plant en volgt op tijdens haar bezoek. Voor permanent onthaal heb je een eigen medewerker of ander systeem nodig."
+  },
+  {
+   "q": "Hoe vaak moet iemand de agenda bijwerken?",
+   "a": "Dat verschilt. Voor veel zaken volstaat één vaste ronde per week. Zit je in een drukke periode, dan boek je een extra blok."
+  },
+  {
+   "q": "Wat als een klant een afspraak annuleert?",
+   "a": "Je Zondag verwerkt de annulering volgens jouw regels: de agenda aanpassen, de volgende klant op de wachtlijst verwittigen en je op de hoogte brengen."
+  },
+  {
+   "q": "Wat kost agendabeheer per maand?",
+   "a": "Dat hangt af van je ritme. Eén blok van 3 uur per week is 180 euro exclusief btw per week. Je kiest zelf hoe vaak je Zondag langskomt."
+  }
+ ]
+}

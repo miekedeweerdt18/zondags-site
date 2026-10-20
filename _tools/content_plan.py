@@ -729,6 +729,36 @@ def block_w4():
         out.append(dict(id=f'vragen/{s_}', path=f'vragen/{s_}.html', kind='vraag', group='vragen', h1=q))
     return out
 
+# ---------------- WEEK 5 (20 OKTOBER 2026): artsen en medische praktijken, en bedrijven per functie ----------------
+# Mieke wil vooral veel bedrijven en artsen aantrekken. Zelfde sjabloon als de sectorpagina's, met een eigen doelgroep voor de hubs.
+W5_ARTSEN = [
+ ("huisartsenpraktijken", "Poetshulp voor huisartsenpraktijken", "wachtzaal met veel passage, onthaal en secretariaat, sanitair voor patiënten, personeelsruimte, gangen; consultatieruimtes enkel volgens afspraak (bijvoorbeeld enkel de vloer); geen sterilisatie, medisch materiaal of medisch afval; patiëntendossiers blijven bij de praktijk"),
+ ("praktijken-artsen-specialisten", "Poetshulp voor praktijken van artsen-specialisten", "privépraktijk of kabinet van een specialist in een praktijkgebouw: wachtruimte, onthaal, kantoor, sanitair; onderzoeksruimtes en toestellen enkel volgens afspraak en nooit het toestel zelf; geen medisch materiaal; administratieve hulp voor niet-medische taken"),
+ ("medische-centra", "Poetshulp voor medische centra en gezondheidscentra", "centra met meerdere zorgverleners onder één dak: gedeelde wachtzalen, onthaal, gangen en trappen, sanitair, vergaderruimte en keuken voor het team; afspraken met meerdere zorgverleners in één zondagsplan; behandelruimtes enkel volgens afspraak"),
+ ("oogartsenpraktijken", "Poetshulp voor oogartsenpraktijken", "wachtzaal, onthaal, sanitair, kantoor; donkere onderzoeksruimtes met toestellen: enkel vloer en meubels langs de buitenkant volgens afspraak, toestellen en lenzen nooit aanraken; monturen of brillen niet"),
+ ("dermatologiepraktijken", "Poetshulp voor dermatologiepraktijken", "wachtzaal, onthaal, sanitair, kantoor en personeelsruimte; behandelruimtes enkel vloer en buitenkant van meubels volgens afspraak; geen medisch materiaal, geen producten of toestellen van de praktijk"),
+ ("gynaecologiepraktijken", "Poetshulp voor gynaecologiepraktijken", "rustige wachtzaal, onthaal, sanitair, kleedruimte langs de buitenkant volgens afspraak, kantoor; discretie; onderzoeksruimte enkel volgens afspraak; geen medisch materiaal"),
+ ("administratieve-hulp-voor-artsen", "Administratieve hulp voor artsenpraktijken", "ondersteunende, niet-medische administratie in de praktijk: post openen en sorteren (geen medische uitslagen lezen), facturen van leveranciers klasseren voor de accountant, kantoorbenodigdheden en wegwerpartikelen bestellen, archief van niet-medische documenten ordenen, pakjes klaarmaken; geen patiëntendossiers, geen medisch secretariaat, geen boekhouding"),
+ ("rechterhand-voor-artsen", "Een rechterhand voor drukke artsen", "praktische zaken voor de praktijk die blijven liggen tussen consultaties: koffiehoek en keuken bevoorraden, pakjes ophalen en afgeven, kantoormateriaal halen, kleine afspraken met leveranciers en onderhoud van het praktijkgebouw opvolgen, de wachtzaal klaarzetten; nooit medische taken"),
+]
+W5_FUNCTIES = [
+ ("office-managers", "Hulp voor office managers", "een office manager die alles op kantoor draaiende houdt en de praktische taken wil doorgeven: schoonmaak opvolgen, koffiehoek, post, bestellingen, vergaderzalen klaarzetten; de office manager houdt de regie, de Zondag voert uit"),
+ ("facility-managers", "Hulp voor facility managers in kmo's", "een facility verantwoordelijke in een kmo met kantoor, refter en sanitair naast een atelier of magazijn: één vaste persoon voor het dagelijkse onderhoud van de kantoorruimtes en kleine regeltaken; geen industriële reiniging of technische klussen"),
+ ("hr-verantwoordelijken", "Hulp voor HR-verantwoordelijken", "een HR-verantwoordelijke die wil dat het team graag naar kantoor komt: een propere refter en sanitair, een aangevulde koffiehoek, een klaargezette werkplek voor een nieuwe medewerker, een vergaderzaal voor een sollicitatiegesprek; geen loonadministratie"),
+ ("consultancybureaus", "Poetshulp voor consultancybureaus", "kantoor met flexplekken en vergaderzalen voor klanten, veel consultants die vaak op verplaatsing zijn; vergaderzaal klaarzetten voor klantenbezoek, keuken en sanitair, post en pakjes"),
+ ("groothandels", "Poetshulp voor groothandels", "kantoor, toonzaal of afhaalbalie voor professionele klanten, refter en sanitair naast het magazijn; enkel de kantoor- en klantenruimtes, geen magazijnvloer of industriële reiniging"),
+ ("logistieke-bedrijven", "Poetshulp voor logistieke bedrijven", "kantoren van planners en dispatch, chauffeursruimte en refter, sanitair en kleedruimte; overdag op weekdagen; geen loodsen, laadkades of voertuigen"),
+ ("klantendiensten-en-callcenters", "Poetshulp voor klantendiensten en callcenters", "open kantoor met veel gedeelde werkplekken, headsets en schermen (enkel bureaus en buitenkant van toestellen), keuken, rustruimte, sanitair; poetsen vroeg in de ochtend of over de middag"),
+ ("bedrijven-met-meerdere-vestigingen", "Poetshulp voor bedrijven met meerdere vestigingen", "een bedrijf met twee of meer kantoren, winkels of praktijken in West- en Oost-Vlaanderen: per vestiging een vaste Zondag of één Zondag die op vaste dagen meerdere vestigingen doet, één aanspreekpunt en facturen op naam van het bedrijf"),
+]
+def block_w5():
+    out = []
+    for s_, h1, scope in W5_ARTSEN:
+        out.append(dict(id=f'sectoren/{s_}', path=f'sectoren/{s_}.html', kind='sector', group='sectoren', h1=h1, scope=scope, doelgroep='artsen'))
+    for s_, h1, scope in W5_FUNCTIES:
+        out.append(dict(id=f'sectoren/{s_}', path=f'sectoren/{s_}.html', kind='sector', group='sectoren', h1=h1, scope=scope, doelgroep='bedrijven'))
+    return out
+
 EXTRA_VRAGEN = [("werkt-zondags-enkel-voor-bedrijven", "Werkt Zondags enkel voor bedrijven?")]
 def _has_content(p):
     return os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'content', p['id'] + '.json'))
@@ -740,7 +770,9 @@ def plan():
     w4 = block_w4(); w4_ids = {p['id'] for p in w4}
     w3 = [p for p in w3 if p['id'] not in w4_ids and _has_content(p)]
     pages = [p for p in pages if p['id'] not in w3_ids and p['id'] not in w4_ids and _has_content(p)]
-    return pages + w3 + w4
+    w5 = block_w5(); w5_ids = {p['id'] for p in w5}
+    pages = [p for p in pages if p['id'] not in w5_ids]
+    return pages + w3 + w4 + w5
 
 if __name__ == '__main__':
     P = plan()

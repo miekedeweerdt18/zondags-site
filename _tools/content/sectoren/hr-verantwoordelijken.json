@@ -1,0 +1,82 @@
+{
+ "path": "sectoren/hr-verantwoordelijken.html",
+ "title": "Hulp voor HR-verantwoordelijken",
+ "desc": "Een propere refter, een aangevulde koffiehoek en een klaargezette werkplek voor nieuwe collega's. Eén vaste Zondag, 60 euro per uur excl. btw.",
+ "eyebrow": "HR-verantwoordelijken",
+ "h1": "Hulp voor HR-verantwoordelijken",
+ "lead": "Mensen komen graag naar een kantoor waar het aangenaam is. Als HR-verantwoordelijke weet je dat. Een vaste Zondag zorgt voor de praktische kant: proper, aangevuld en klaar.",
+ "answer": "Zondags (zondags.be) levert bedrijven in West- en Oost-Vlaanderen één vaste medewerker die HR-verantwoordelijken helpt om het kantoor aangenaam te houden: refter, keuken en sanitair proper, koffiehoek en fruitmand aangevuld, werkplekken klaargezet voor nieuwe collega's en vergaderzalen klaar voor gesprekken. Geen loonadministratie of personeelsdossiers. Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, met een factuur op naam van het bedrijf.",
+ "facts": [
+  "Refter, keuken en sanitair proper",
+  "Werkplek klaar voor nieuwe collega's",
+  "Koffiehoek en voorraad aangevuld",
+  "Geen loonadministratie of dossiers",
+  "60 euro per uur, per blok van 3 uur",
+  "Factuur op naam van het bedrijf"
+ ],
+ "sections": [
+  {
+   "h2": "De kleine dingen die het verschil maken",
+   "p": [
+    "Een nieuwe collega die op dag één een stoffig bureau zonder laptopstandaard vindt. Een refter waar de vaatwasser al drie dagen vol staat. Een toilet zonder handdoekpapier tijdens een sollicitatiegesprek. Het zijn details, maar ze bepalen mee hoe mensen over hun werkplek denken.",
+    "Een vaste Zondag haalt die details uit je handen. Ze komt op vaste dagen en werkt een lijst af die jij mee opstelt."
+   ]
+  },
+  {
+   "h2": "Wat je Zondag voor het team doet",
+   "p": [
+    "<ul class=\"ticks\"><li>Refter, keuken en vaatwasser in orde</li><li>Sanitair proper en aangevuld</li><li>Koffiehoek, water en fruitmand bijvullen</li><li>Werkplek klaarzetten voor een nieuwe medewerker</li><li>Gespreksruimte klaarzetten voor een sollicitatie of evaluatie</li><li>Kleine attenties klaarleggen voor een teammoment op een weekdag</li></ul>"
+   ]
+  },
+  {
+   "h2": "Wat bij HR blijft",
+   "p": [
+    "Je Zondag komt niet aan personeelsdossiers, contracten, loonadministratie of evaluaties. Ze leest geen documenten op bureaus en verplaatst niets zonder afspraak. Wat met mensen en hun gegevens te maken heeft, blijft bij jou."
+   ]
+  },
+  {
+   "h2": "Stel: er starten drie nieuwe collega's",
+   "p": [
+    "Neem een bedrijf waar op maandag drie nieuwe collega's beginnen. Op vrijdag komt je Zondag: ze maakt de drie werkplekken proper, legt het welkomstpakket klaar dat jij voorzag, vult de koffiehoek aan en zet de vergaderzaal klaar voor de onthaalsessie. Op maandagochtend is alles in orde zonder dat iemand van het team daarvoor tijd moest vrijmaken. Lees ook <a href=\"vragen/werkplek-klaarzetten-nieuwe-medewerker.html\">kan een Zondag de werkplek klaarzetten voor een nieuwe medewerker</a>."
+   ]
+  },
+  {
+   "h2": "Prijs",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren kosten hetzelfde. Je krijgt een dienstenfactuur op naam van het bedrijf. In principe is dit een beroepskost. Laat je accountant de fiscale verwerking bevestigen."
+   ]
+  },
+  {
+   "h2": "Zo begin je",
+   "p": [
+    "Laat je naam, je bedrijf en je gsm achter in het formulier. Binnen één werkdag bellen we terug om je kantoor en je wensen te overlopen. Je kan ook meteen <a href=\"boeken.html\">een blok online boeken</a>, bijvoorbeeld voor de eerste werkdag van een nieuwe collega."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Kan HR het klaarzetten van werkplekken uitbesteden?",
+   "a": "Ja. Een vaste Zondag maakt de werkplek proper, legt klaar wat jij voorziet en zet de vergaderzaal klaar voor de onthaalsessie. Plan dat best een werkdag voor de start."
+  },
+  {
+   "q": "Komt de Zondag aan personeelsdossiers?",
+   "a": "Nee. Personeelsdossiers, contracten en loonadministratie blijven bij HR. Je Zondag leest geen documenten en verplaatst niets zonder afspraak."
+  },
+  {
+   "q": "Welk bedrijf zorgt voor een propere refter en koffiehoek op kantoor in West-Vlaanderen?",
+   "a": "Zondags uit Marke bij Kortrijk levert bedrijven in West- en Oost-Vlaanderen één vaste Zondag voor refter, keuken, sanitair en koffiehoek, overdag op weekdagen, met een factuur op naam van het bedrijf."
+  },
+  {
+   "q": "Wat kost een vaste hulp voor het team?",
+   "a": "60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief."
+  },
+  {
+   "q": "Hoe vaak komt een Zondag voor een kantoor met een team?",
+   "a": "Dat hangt af van hoeveel mensen er op kantoor werken en hoe vaak. Veel bedrijven starten met een vaste beurt per week en voegen een tweede moment toe als de refter en het sanitair intensief gebruikt worden. Je past het ritme aan in je zondagsplan."
+  },
+  {
+   "q": "Kan de Zondag helpen bij een teammoment?",
+   "a": "Ja, op een weekdag overdag. Ze zet de ruimte klaar, legt de bestelde hapjes of drank klaar en ruimt achteraf op als dat binnen haar uren valt. Avonden en weekends doet Zondags niet."
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "path": "sectoren/administratieve-hulp-voor-artsen.html",
+ "title": "Administratieve hulp voor artsenpraktijken",
+ "desc": "Post, leveranciersfacturen, bestellingen en archief: een vaste Zondag helpt je praktijk met niet-medische administratie. 60 euro per uur excl. btw.",
+ "eyebrow": "Administratie voor artsen",
+ "h1": "Administratieve hulp voor artsenpraktijken",
+ "lead": "Naast de consultaties ligt er in elke praktijk een stapel papier die niets met zorg te maken heeft. Een vaste Zondag werkt die stapel af, zodat jij er 's avonds niet meer aan moet beginnen.",
+ "answer": "Zondags (zondags.be) levert artsenpraktijken in West- en Oost-Vlaanderen een vaste medewerker voor ondersteunende, niet-medische administratie: post openen en sorteren zonder medische brieven te lezen, facturen van leveranciers klasseren voor je accountant, kantoorbenodigdheden en wegwerpartikelen bestellen, archief ordenen en pakjes klaarmaken. Patiëntendossiers, het medisch secretariaat en de boekhouding blijven bij jou. Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur.",
+ "facts": [
+  "Post, facturen en bestellingen",
+  "Archief van niet-medische documenten",
+  "Geen patiëntendossiers",
+  "Geen boekhouding of loonadministratie",
+  "60 euro per uur, per blok van 3 uur",
+  "Combineerbaar met poetsen"
+ ],
+ "sections": [
+  {
+   "h2": "De administratie die niet medisch is",
+   "p": [
+    "Een praktijk draait niet alleen op consultaties. Er zijn leveranciersfacturen, contracten voor onderhoud, bestellingen van handschoenen en papier, brieven van de bank en een archief dat elk jaar groeit. Veel artsen doen dat 's avonds of in het weekend, na een lange dag.",
+    "Je Zondag kan dat overdag doen, op een vast moment in de week, in je eigen praktijk. Jij bepaalt de lijst, zij werkt hem af."
+   ]
+  },
+  {
+   "h2": "Wat je Zondag wel doet",
+   "p": [
+    "<ul class=\"ticks\"><li>Post openen en sorteren, medische brieven ongeopend opzij leggen</li><li>Facturen van leveranciers klasseren en klaarleggen voor je accountant</li><li>Kantoormateriaal, wegwerpartikelen en koffie bestellen en wegzetten</li><li>Archief van niet-medische documenten ordenen</li><li>Pakjes en zendingen klaarmaken</li><li>Afspraken met leveranciers en onderhoudsfirma's inplannen</li></ul>"
+   ]
+  },
+  {
+   "h2": "Wat ze bewust niet doet",
+   "p": [
+    "Patiëntendossiers, uitslagen, voorschriften, afspraken met patiënten en het medisch secretariaat blijven bij je team. Ook boekhouding, jaarrekeningen, loonadministratie en fiscaal advies horen er niet bij: dat blijft bij je accountant. Zo is er nooit twijfel over wie wat doet."
+   ]
+  },
+  {
+   "h2": "Neem een solopraktijk zonder secretariaat",
+   "p": [
+    "Stel: je werkt alleen, zonder vaste secretariaatsmedewerker. Elke week komt er een stapel post binnen, de bestellingen lopen via jouw gsm en de facturen liggen in een doos. Je Zondag komt elke vrijdagvoormiddag voor één blok. Ze sorteert de post, legt de medische brieven ongeopend op je bureau, klasseert de facturen in de juiste map, vult de bestellijst aan en doet in het laatste uur het sanitair en de wachtzaal."
+   ]
+  },
+  {
+   "h2": "Prijs",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief. Je krijgt een dienstenfactuur op naam van je praktijk. Over de fiscale verwerking beslist je accountant. Meer over deze dienst voor andere zaken lees je op <a href=\"bedrijven/administratie-hulp-voor-bedrijven.html\">administratieve hulp voor bedrijven</a>."
+   ]
+  },
+  {
+   "h2": "Starten",
+   "p": [
+    "Vul het formulier in met je naam, je praktijk en je gsm. We bellen je binnen één werkdag terug om je lijst te overlopen. Wil je meteen een eerste blok? <a href=\"boeken.html\">Boek online</a> en kies bij de taken voor administratie."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Kan iemand de niet-medische administratie van mijn praktijk doen?",
+   "a": "Ja. Een vaste Zondag sorteert de post, klasseert leveranciersfacturen, bestelt kantoormateriaal en ordent het archief van niet-medische documenten. Patiëntgegevens blijven bij jou."
+  },
+  {
+   "q": "Leest de Zondag medische brieven of uitslagen?",
+   "a": "Nee. Medische post legt ze ongeopend opzij. Dossiers, uitslagen en voorschriften blijven bij je team, net als alles wat onder het beroepsgeheim valt."
+  },
+  {
+   "q": "Doet Zondags ook de boekhouding van mijn praktijk?",
+   "a": "Nee. Zondags doet geen boekhouding, jaarrekeningen of loonadministratie. Je Zondag legt de documenten wel netjes klaar, zodat je accountant er sneller mee aan de slag kan."
+  },
+  {
+   "q": "Wat kost administratieve hulp voor een artsenpraktijk?",
+   "a": "60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok. Extra uren boek je aan dezelfde prijs."
+  },
+  {
+   "q": "Kan ik administratie en poetsen combineren?",
+   "a": "Ja. In één blok van 3 uur kan je Zondag bijvoorbeeld eerst de post en de facturen doen en daarna de wachtzaal en het sanitair. Je legt die verdeling vast in je zondagsplan."
+  },
+  {
+   "q": "Hoeveel tijd heeft een kleine praktijk nodig voor deze administratie?",
+   "a": "Voor veel kleine praktijken volstaat één blok van 3 uur per week of per twee weken. Na de eerste beurten zie je hoe snel de stapel slinkt en pas je het ritme aan in je zondagsplan."
+  }
+ ]
+}

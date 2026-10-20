@@ -17,7 +17,7 @@ def pick(key, options):
     return options[h%len(options)]
 def words(t): return len(re.sub('<[^>]+>',' ',t).split())
 
-def shell(depth, path, title, desc, body, ld_list, noindex=False):
+def shell(depth, path, title, desc, body, ld_list, noindex=False, robots=None):
     pre='../'*depth
     h=HEAD
     h=re.sub(r'<title>.*?</title>',f'<title>{H(title)}</title>',h)
@@ -30,6 +30,7 @@ def shell(depth, path, title, desc, body, ld_list, noindex=False):
     h=h.replace(' aria-current="page"','')
     extra=''.join('<script type="application/ld+json">'+json.dumps(x,ensure_ascii=False)+'</script>\n' for x in ld_list)
     if noindex: extra+='<meta name="robots" content="noindex">\n'
+    elif robots: extra+=f'<meta name="robots" content="{robots}">\n'
     h=h.replace('</head>',extra+'</head>')
     t=TAIL
     page=h+'<main>\n'+body+'</main>\n'+t
@@ -55,35 +56,42 @@ def phero(eyebrow,title,lead,dark=False):
 '''
 
 def article(aside_title, aside_items, sections, cta_href, cta_label):
-    secs=''.join(f'<h2>{H(h)}</h2>'+''.join(f'<p>{p}</p>' for p in (ps if isinstance(ps,list) else [ps])) for h,ps in sections)
+    secs=''.join(f'<h2>{H(h)}</h2>'+''.join(p if p.lstrip().startswith('<ul') else f'<p>{p}</p>' for p in (ps if isinstance(ps,list) else [ps])) for h,ps in sections)
     lis=''.join(f'<li>{H(i)}</li>' for i in aside_items)
+    cta=(f'<a class="btn btn--zon" href="#formulier">Vraag vrijblijvend info <span class="arr">&rarr;</span></a><a class="art__alt" href="boeken.html">of boek meteen online</a>'
+         if cta_href=='boeken.html' else f'<a class="btn btn--zon" href="{cta_href}">{H(cta_label)} <span class="arr">&rarr;</span></a>')
     return f'''<section class="art wrap">
-  <aside class="art__aside"><div class="art__card"><p class="eyebrow" style="color:var(--muted)">{H(aside_title)}</p><ul>{lis}</ul><a class="btn btn--zon" href="{cta_href}">{H(cta_label)} <span class="arr">&rarr;</span></a></div></aside>
+  <aside class="art__aside"><div class="art__card"><p class="eyebrow" style="color:var(--muted)">{H(aside_title)}</p><ul>{lis}</ul>{cta}</div></aside>
   <div class="art__body">{secs}</div>
 </section>
 '''
 
-def photo(img, alt):
-    return f'<section class="pband" aria-hidden="true"><img src="assets/img/{img}.webp" alt="" loading="lazy"></section>\n'
+IMG_ALT={'01-poetsen':'Een Zondag houdt een lichte ruimte met planten netjes bij',
+         '10-boodschappen':'Boodschappen in papieren zakken, klaar om weg te zetten'}
+def photo(img, alt=''):
+    return f'<section class="pband"><img src="assets/img/{img}.webp" alt="{H(alt or IMG_ALT.get(img,""))}" loading="lazy" width="1350" height="900"></section>\n'
 
-def form_b2b(source, gemeente=''):
+QFORM_LEFT='''<div><p class="eyebrow" style="color:var(--muted)">Vrijblijvend info</p><h2>Vraag je <em class="s">Zondag aan.</em></h2><p>Laat je naam, je bedrijf en je gsm achter. Binnen één werkdag bellen we je terug om te bespreken wat je Zondag voor je zaak kan doen.</p><p class="qform__tel">Liever meteen iemand spreken? <a href="https://wa.me/32470565358">0470 56 53 58</a>, elke dag van 6 tot 22 uur.</p></div>'''
+TAKEN=['Poetsen van kantoor, praktijk of winkel','Administratie en post','Boodschappen en regelwerk','Een rechterhand voor mij','Weet ik nog niet']
+def form_b2b(source, gemeente='', taken=None):
+    opts=''.join(f'<option>{H(t)}</option>' for t in (taken or TAKEN))
+    gem=f'<input type="hidden" name="Gemeente" value="{H(gemeente)}">' if gemeente else ''
     return f'''<section class="qform wrap" id="formulier">
-  <div><p class="eyebrow" style="color:var(--muted)">Liever eerst praten?</p><h2>Vraag je <em class="s">Zondag aan.</em></h2><p>Wil je meteen starten? <a href="boeken.html">Boek online</a> per blok van 3 uur aan 60 euro per uur exclusief btw. Liever eerst even overleggen? Laat je gegevens achter en we bellen je binnen één werkdag terug.</p></div>
-  <form class="form qf" data-quick novalidate action="https://formsubmit.co/mieke@hummingbirds.be" method="POST">
-    <input type="hidden" name="_subject" value="Aanvraag bedrijf via zondags.be/{H(source)}">
+  {QFORM_LEFT}
+  <form class="form qf" id="infoform" data-quick data-lead="klant" novalidate action="https://formsubmit.co/mieke@hummingbirds.be" method="POST">
+    <input type="hidden" name="_subject" value="Infoaanvraag bedrijf via zondags.be/{H(source)}">
     <input type="hidden" name="_template" value="table"><input type="hidden" name="_captcha" value="false">
-    <input type="hidden" name="_next" value="https://zondags.be/bedankt"><input type="hidden" name="Pagina" value="{H(source)}">
+    <input type="hidden" name="_next" value="https://zondags.be/bedankt"><input type="hidden" name="Pagina" value="{H(source)}">{gem}
     <input type="text" name="_honey" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
     <div class="fgrid">
       <div class="f"><label for="q-naam">Naam *</label><input id="q-naam" name="Naam" autocomplete="name" required></div>
       <div class="f"><label for="q-bedrijf">Bedrijf *</label><input id="q-bedrijf" name="Bedrijf" autocomplete="organization" required></div>
-      <div class="f"><label for="q-mail">E-mail *</label><input id="q-mail" name="E-mail" type="email" autocomplete="email" required></div>
-      <div class="f"><label for="q-gsm">GSM *</label><input id="q-gsm" name="GSM" type="tel" autocomplete="tel" required></div>
-      <div class="f f--full"><label for="q-gem">Gemeente</label><input id="q-gem" name="Gemeente" autocomplete="address-level2" value="{H(gemeente)}"></div>
-      <div class="f f--full"><label for="q-msg">Waarmee kunnen we helpen? (optioneel)</label><textarea id="q-msg" name="Bericht"></textarea></div>
+      <div class="f"><label for="q-gsm">GSM *</label><input id="q-gsm" name="GSM" type="tel" inputmode="tel" autocomplete="tel" required></div>
+      <div class="f"><label for="q-wat">Waarvoor? *</label><select id="q-wat" name="Taken" required><option value="">Maak een keuze</option>{opts}</select></div>
     </div>
-    <p class="err" data-err hidden>Vul je naam, bedrijf, een geldig e-mailadres en je gsm-nummer in.</p>
-    <div class="form__foot"><p>Vrijblijvend. We gebruiken je gegevens enkel om je terug te bellen.</p><button class="btn btn--zon" type="submit">Verstuur mijn aanvraag <span class="arr">&rarr;</span></button></div>
+    <p class="err" data-err hidden>Vul je naam, je bedrijf en je gsm-nummer in en kies waarvoor.</p>
+    <div class="form__foot"><p>Vrijblijvend. We gebruiken je gegevens enkel om je terug te bellen.</p><button class="btn btn--zon" type="submit">Bel mij terug <span class="arr">&rarr;</span></button></div>
+    <p class="form__alt">Liever meteen starten? <a href="boeken.html">Boek online</a> per blok van 3 uur.</p>
   </form>
 </section>
 '''
@@ -91,10 +99,10 @@ def form_b2b(source, gemeente=''):
 def form_job(source, gemeente=''):
     return f'''<section class="qform wrap" id="formulier">
   <div><p class="eyebrow" style="color:var(--muted)">Solliciteer</p><h2>Werk bij <em class="s">Zondags.</em></h2><p>Laat je gegevens achter. Wij bellen je binnen de twee werkdagen.</p></div>
-  <form class="form qf" data-quick novalidate action="https://formsubmit.co/mieke@hummingbirds.be" method="POST">
+  <form data-lead="kandidaat" class="form qf" data-quick novalidate action="https://formsubmit.co/mieke@hummingbirds.be" method="POST">
     <input type="hidden" name="_subject" value="Kandidaat via zondags.be/{H(source)}">
     <input type="hidden" name="_template" value="table"><input type="hidden" name="_captcha" value="false">
-    <input type="hidden" name="_next" value="https://zondags.be/bedankt"><input type="hidden" name="Pagina" value="{H(source)}">
+    <input type="hidden" name="_next" value="https://zondags.be/bedankt-kandidaat"><input type="hidden" name="Pagina" value="{H(source)}">
     <input type="text" name="_honey" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
     <div class="fgrid">
       <div class="f"><label for="q-naam">Naam *</label><input id="q-naam" name="Naam" autocomplete="name" required></div>
@@ -184,7 +192,7 @@ def art2(aside_title, aside_items, sections, cta_label, flow='hulp'):
     secs=''.join(f'<h2>{H(h)}</h2>'+''.join(para(p) for p in ps) for h,ps in sections)
     lis=''.join(f'<li>{H(i)}</li>' for i in aside_items)
     return f'''<section class="art wrap">
-  <aside class="art__aside"><div class="art__card"><p class="eyebrow" style="color:var(--muted)">{H(aside_title)}</p><ul>{lis}</ul><a class="btn btn--zon" href="{'boeken.html' if flow=='hulp' else '#formulier'}"{'' if flow=='hulp' else ' data-chat="'+flow+'"'}>{H(cta_label)} <span class="arr">&rarr;</span></a></div></aside>
+  <aside class="art__aside"><div class="art__card"><p class="eyebrow" style="color:var(--muted)">{H(aside_title)}</p><ul>{lis}</ul>{'<a class="btn btn--zon" href="#formulier">Vraag vrijblijvend info <span class="arr">&rarr;</span></a><a class="art__alt" href="boeken.html">of boek meteen online</a>' if flow=='hulp' else '<a class="btn btn--zon" href="#formulier" data-chat="'+flow+'">'+H(cta_label)+' <span class="arr">&rarr;</span></a>'}</div></aside>
   <div class="art__body">{secs}</div>
 </section>
 '''
@@ -201,9 +209,9 @@ SERV={
 SERV_LABEL={'schoonmaak-kantoor':'Schoonmaakhulp voor kantoren','schoonmaak-praktijk':'Schoonmaakhulp voor praktijken','schoonmaak-winkel':'Schoonmaakhulp voor winkels','administratieve-hulp':'Administratieve hulp','rechterhand-bedrijfsleider':'Rechterhand voor bedrijfsleiders'}
 GROUP_ORDER={g:[P for P in CPLAN if P['group']==g] for g in ('poetshulp','regio','sectoren','vragen')}
 def siblings(P, n):
-    lst=[Q for Q in CPLAN if Q['kind']==P['kind'] and Q['path']!=P['path'] and cexists(Q['path'])]
+    lst=[Q for Q in CPLAN if Q['kind']==P['kind'] and not Q.get('doelgroep') and Q['path']!=P['path'] and cexists(Q['path'])]
     if not lst: return []
-    i=[Q['path'] for Q in CPLAN if Q['kind']==P['kind']].index(P['path'])
+    i=[Q['path'] for Q in CPLAN if Q['kind']==P['kind'] and not Q.get('doelgroep')].index(P['path'])
     return (lst[i:]+lst[:i])[:n]
 def place_area(P):
     return {"@type":"City","name":P['place'],"containedInPlace":{"@type":"AdministrativeArea","name":P.get('provincie','West-Vlaanderen')}}
@@ -271,6 +279,18 @@ for idx,(path,(P,C)) in enumerate(CONTENT.items()):
         crumbs_items=[('Home',''),('Per type bedrijf','sectoren/'),(P['h1'],path[:-5])]
         ld_main={"@context":"https://schema.org","@type":"Service","name":P['h1'],"description":C['lead'],"serviceType":P['h1'],
                  "provider":{"@id":BASE+"#org"},"areaServed":AREAS,"audience":{"@type":"BusinessAudience","name":"Bedrijven, ondernemers en vrije beroepen"}}
+    elif kind=='sector' and P.get('doelgroep'):
+        # week 5: artsen en bedrijven per functie, met links binnen de eigen doelgroep
+        img=pick(path,NEUTRAL_IMG); dg=P['doelgroep']
+        same=[Q for Q in CPLAN if Q.get('doelgroep')==dg and Q['path']!=path and cexists(Q['path'])]
+        if dg=='artsen':
+            rel=[('Zondags voor artsen en praktijken','bedrijven/voor-artsen.html')]+[(Q['h1'],Q['path']) for Q in same]+[('Poetshulp zonder dienstencheques','bedrijven/praktijk-poetsen-zonder-dienstencheques.html')]
+            crumbs_items=[('Home',''),('Voor artsen','bedrijven/voor-artsen'),(P['h1'],path[:-5])]
+        else:
+            rel=[(Q['h1'],Q['path']) for Q in same]+[('Voor bedrijven','bedrijven/'),('Schoonmaak kantoor','bedrijven/kantoor-laten-schoonmaken.html')]
+            crumbs_items=[('Home',''),('Voor bedrijven','bedrijven/'),(P['h1'],path[:-5])]
+        ld_main={"@context":"https://schema.org","@type":"Service","name":P['h1'],"description":C['lead'],"serviceType":P['h1'],
+                 "provider":{"@id":BASE+"#org"},"areaServed":AREAS,"audience":{"@type":"BusinessAudience","name":"Artsen en medische praktijken" if dg=='artsen' else "Bedrijven, ondernemers en vrije beroepen"}}
     elif kind in ('sector','ruimte','situatie','gids'):
         img=pick(path,NEUTRAL_IMG)
         rel=[(Q['h1'],Q['path']) for Q in siblings(P,4)]+[('Poetshulp voor bedrijven','bedrijven/poetshulp-voor-bedrijven.html'),('Poetshulp per gemeente','poetshulp/')]
@@ -309,7 +329,7 @@ for idx,(path,(P,C)) in enumerate(CONTENT.items()):
           +photo(img,'')+erv+faq_html([(q,plain(a)) for q,a in faq]).replace('Goed om <em class="s">te weten.</em>','Vragen en <em class="s">antwoorden.</em>')
           +(form_job(path,gemeente) if isk else form_b2b(path,gemeente))+related('Verder lezen',rel[:10]))
     ld=[crumbs(crumbs_items),faqld([(q,plain(a)) for q,a in faq]),ld_main]
-    write(path, shell(1,path,f"{C['title']} | Zondags",C['desc'],body,ld), P['h1'], P['group'])
+    write(path, shell(1,path,f"{C['title']} | Zondags",C['desc'],body,ld,robots='noindex, follow' if isk else None), P['h1'], P['group'])
     NEW_PAGES.append((path,P,C))
 
 # hubs voor de nieuwe groepen
@@ -342,7 +362,9 @@ if CONTENT:
       'Van kapsalon tot transportbedrijf, van refter tot kantoorverhuis: zo werkt poetshulp voor jouw soort zaak.',
       ['Elke zaak vraagt iets anders: een winkel wil proper open, een praktijk wil een frisse wachtzaal, een kmo wil een refter en sanitair die de ploeg graag gebruikt. Zondags levert daarvoor één vaste persoon, overdag op weekdagen, met een factuur op naam van je vennootschap.',
        'Kies hieronder je sector, de ruimte die je wil laten onderhouden of de gelegenheid waarvoor je hulp zoekt.'],
-      [('Per sector',by('sector')),('Per ruimte',by('ruimte')),('Per ruimte in Kortrijk en omgeving',by('ruimte-stad')),('Checklists en gidsen',by('gids')),('Per sector uitgewerkt',by('sector-dienst')),('Bij een bijzondere gelegenheid',by('situatie'))],
+      [('Voor artsen en medische praktijken',[(Q['h1'],Q['path']) for Q in CPLAN if Q.get('doelgroep')=='artsen' and cexists(Q['path'])]),
+       ('Per functie en type organisatie',[(Q['h1'],Q['path']) for Q in CPLAN if Q.get('doelgroep')=='bedrijven' and cexists(Q['path'])]),
+       ('Per sector',[(Q['h1'],Q['path']) for Q in CPLAN if Q['kind']=='sector' and not Q.get('doelgroep') and cexists(Q['path'])]),('Per ruimte',by('ruimte')),('Per ruimte in Kortrijk en omgeving',by('ruimte-stad')),('Checklists en gidsen',by('gids')),('Per sector uitgewerkt',by('sector-dienst')),('Bij een bijzondere gelegenheid',by('situatie'))],
       [('Welke bedrijven kunnen bij Zondags terecht?',"Kantoren, praktijken, winkels, showrooms, kmo's, vzw's en zelfstandigen met een vennootschap in West- en Oost-Vlaanderen. Industriële reiniging, werken op hoogte en technische klussen doen we niet."),
        ('Kan ik ook een losse opdracht vragen?','Ja. Een grote poetsbeurt, een kantoorverhuis of een opkuis na een receptie kan als losse opdracht, naast of zonder een vast plan.'),
        ('Wanneer komt de poetshulp?',"Overdag op weekdagen, ook vroeg in de ochtend of over de middag. Niet 's avonds en niet in het weekend.")])
@@ -386,7 +408,8 @@ for old,target in REDIR.items(): stub(old,target)
 
 # ---------------- SITEMAP ----------------
 core=['','wat-we-doen','hoe-het-werkt','boeken','zondag-worden','aanvraag']+NEW_HUBS
-allu=core+[re.sub(r'(^|/)index$',r'\1',p[0].replace('.html','')) for p in pages]
+# keuze A (20/10/2026): de jobpagina's per gemeente (werken/<job>-<gemeente>) staan op noindex, follow en niet in de sitemap
+allu=core+[re.sub(r'(^|/)index$',r'\1',p[0].replace('.html','')) for p in pages if p[3]!='werken']
 open('sitemap.xml','w').write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join(f'  <url><loc>{BASE}{u}</loc><lastmod>{TODAY}</lastmod></url>\n' for u in allu)+'</urlset>\n')
 json.dump([{'path':p[0],'title':p[1],'words':p[2],'group':p[3]} for p in pages],open('_tools/pages.json','w'),ensure_ascii=False,indent=0)
 wc=[p[2] for p in pages]

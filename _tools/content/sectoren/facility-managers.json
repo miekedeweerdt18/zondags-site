@@ -1,0 +1,79 @@
+{
+ "path": "sectoren/facility-managers.html",
+ "title": "Hulp voor facility managers in kmo's",
+ "desc": "Eén vaste Zondag voor het dagelijkse onderhoud van kantoor, refter en sanitair in je kmo, plus kleine regeltaken. 60 euro per uur excl. btw.",
+ "eyebrow": "Facility managers",
+ "h1": "Hulp voor facility managers in kmo's",
+ "lead": "In een kmo draagt de facility verantwoordelijke vaak nog een tweede petje. Een vaste Zondag neemt het dagelijkse onderhoud van de kantoorruimtes over, zodat jij je op de grotere dossiers kan richten.",
+ "answer": "Zondags (zondags.be) levert kmo's in West- en Oost-Vlaanderen één vaste medewerker voor het dagelijkse onderhoud van kantoren, refter, kleedruimte en sanitair, en voor kleine regeltaken zoals voorraad aanvullen en afspraken met leveranciers opvolgen. Geen industriële reiniging, geen productiehallen en geen technische klussen. Zondags werkt overdag op weekdagen, aan 60 euro per uur exclusief btw, per blok van 3 uur, met een factuur op naam van je bedrijf.",
+ "facts": [
+  "Kantoren, refter, kleedruimte, sanitair",
+  "Kleine regeltaken en voorraad",
+  "Geen productiehallen of technische klussen",
+  "Overdag op weekdagen",
+  "60 euro per uur, per blok van 3 uur",
+  "Eén factuur op naam van je bedrijf"
+ ],
+ "sections": [
+  {
+   "h2": "Facility in een kmo: veel petjes",
+   "p": [
+    "In een groot bedrijf is facility management een afdeling. In een kmo is het vaak de preventieadviseur, de productieverantwoordelijke of de zaakvoerder zelf die erbij moet springen. De refter die er na de middag rommelig bij ligt, het sanitair bij de kleedruimte en de kantoren boven het atelier vragen dan aandacht op momenten dat je ze niet hebt.",
+    "Een vaste Zondag neemt dat dagelijkse werk over. Ze komt op vaste dagen, werkt een afgesproken lijst af en jij hoeft enkel bij te sturen."
+   ]
+  },
+  {
+   "h2": "Wat wel en wat niet",
+   "p": [
+    "<ul class=\"ticks\"><li>Kantoren en vergaderruimtes</li><li>Refter en keuken, ook na de middagpauze</li><li>Kleedruimte, douches en sanitair</li><li>Onthaal en inkom voor bezoekers</li><li>Voorraad van zeep, papier en koffie aanvullen</li></ul>",
+    "Industriële reiniging, productiehallen, magazijnvloeren, werken op hoogte, gevelreiniging en technische herstellingen doet Zondags niet. Daarvoor werk je beter met een gespecialiseerde firma. Zondags vult dat aan voor de ruimtes waar mensen werken, eten en zich omkleden."
+   ]
+  },
+  {
+   "h2": "Stel: een kmo met atelier en kantoor",
+   "p": [
+    "Neem een kmo met een atelier op het gelijkvloers, kantoren op de verdieping, een refter voor de ploeg en een kleedruimte met douches. De Zondag komt op maandag-, woensdag- en vrijdagvoormiddag. Ze begint bij de kleedruimte en het sanitair, gaat dan naar de kantoren en sluit af in de refter, zodat die klaar is voor de middagpauze. Op vrijdag vult ze de voorraadkast aan en noteert ze wat er besteld moet worden. Lees ook <a href=\"sectoren/kmo.html\">poetshulp voor kmo's</a>."
+   ]
+  },
+  {
+   "h2": "Kleine regeltaken erbij",
+   "p": [
+    "Naast het onderhoud kan je Zondag in hetzelfde blok kleine zaken opvolgen: de leverancier van koffie of water contacteren, een afspraak met de glazenwasser inplannen, de EHBO-kast nakijken en de lijst doorgeven, een werkplek klaarzetten voor een nieuwe medewerker. De beslissingen blijven bij jou."
+   ]
+  },
+  {
+   "h2": "Kosten en factuur",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur: 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief. Je krijgt een dienstenfactuur op naam van je bedrijf. In principe is dit een beroepskost en is de btw recupereerbaar voor een btw-plichtig bedrijf met aftrekrecht. Je accountant bevestigt wat voor jouw bedrijf geldt."
+   ]
+  },
+  {
+   "h2": "Aan de slag",
+   "p": [
+    "Laat je naam, je bedrijf en je gsm achter in het formulier. Binnen één werkdag bellen we terug om je gebouw, de ruimtes en het ritme te bespreken. Een eerste beurt kan je ook meteen <a href=\"boeken.html\">online boeken</a>."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Kan een kmo het onderhoud van refter en sanitair uitbesteden aan één vaste persoon?",
+   "a": "Ja. Bij Zondags komt steeds dezelfde Zondag op vaste dagen voor kantoren, refter, kleedruimte en sanitair. Ze is gescreend en in dienst van Zondags."
+  },
+  {
+   "q": "Doet Zondags ook de productiehal of het magazijn?",
+   "a": "Nee. Industriële reiniging, productiehallen en magazijnvloeren doet Zondags niet. Zondags onderhoudt de ruimtes waar je team werkt op kantoor, eet en zich omkleedt."
+  },
+  {
+   "q": "Welk bedrijf levert poetshulp voor kantoren van kmo's in Oost-Vlaanderen?",
+   "a": "Zondags uit Marke bij Kortrijk werkt in West- en Oost-Vlaanderen. Je boekt één vaste Zondag per blok van 3 uur, overdag op weekdagen, met een factuur op naam van je bedrijf."
+  },
+  {
+   "q": "Wat kost een vaste poetshulp voor een kmo?",
+   "a": "60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok. Een groter gebouw boek je met meerdere blokken of extra uren, aan dezelfde prijs."
+  },
+  {
+   "q": "Kan de Zondag de refter na de middagpauze doen?",
+   "a": "Ja, als je een blok over de middag of in de vroege namiddag kiest. Dan ruimt ze de refter op en doet ze de keuken, zodat die de volgende dag klaar is."
+  }
+ ]
+}

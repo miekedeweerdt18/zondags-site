@@ -1,0 +1,83 @@
+{
+ "path": "sectoren/groothandels.html",
+ "title": "Poetshulp voor groothandels",
+ "desc": "Kantoor, toonzaal, afhaalbalie en refter van je groothandel netjes, door één vaste Zondag. Geen magazijnvloer. 60 euro per uur excl. btw.",
+ "eyebrow": "Groothandels",
+ "h1": "Poetshulp voor groothandels",
+ "lead": "In een groothandel draait alles rond het magazijn. Maar je professionele klanten komen binnen via de toonzaal of de afhaalbalie, en je team eet in de refter. Daar zorgt een vaste Zondag voor.",
+ "answer": "Zondags (zondags.be) uit Marke bij Kortrijk levert groothandels in West- en Oost-Vlaanderen één vaste medewerker voor de kantoren, de toonzaal of afhaalbalie, de refter, de kleedruimte en het sanitair. Het magazijn, laadkades en industriële reiniging doet Zondags niet. Je Zondag komt overdag op weekdagen, aan 60 euro per uur exclusief btw, per blok van 3 uur, met een factuur op naam van je bedrijf.",
+ "facts": [
+  "Kantoor, toonzaal en afhaalbalie",
+  "Refter, kleedruimte en sanitair",
+  "Geen magazijn of laadkades",
+  "Steeds dezelfde Zondag",
+  "60 euro per uur, per blok van 3 uur",
+  "Factuur op naam van je bedrijf"
+ ],
+ "sections": [
+  {
+   "h2": "Waar je klanten en je team komen",
+   "p": [
+    "Een vakman die materiaal komt ophalen, een vertegenwoordiger die stalen toont in de toonzaal, een chauffeur die even binnenspringt voor zijn papieren. Ze zien allemaal dezelfde balie, dezelfde inkom en hetzelfde sanitair. Achteraan eet je ploeg in de refter en kleedt ze zich om.",
+    "Die ruimtes zijn het visitekaartje van je bedrijf, en ze worden intensief gebruikt. Een vaste Zondag houdt ze bij op vaste dagen."
+   ]
+  },
+  {
+   "h2": "Wat je Zondag onderhoudt",
+   "p": [
+    "<ul class=\"ticks\"><li>Afhaalbalie en inkom, vaak met veel stof van buiten</li><li>Toonzaal: vloer, rekken langs de buitenkant, toonbank</li><li>Kantoren van verkoop en administratie</li><li>Refter en keuken voor de ploeg</li><li>Kleedruimte en sanitair</li></ul>",
+    "Het magazijn, de laadkades, stellingen, heftrucks en alles wat met industriële reiniging te maken heeft, horen er niet bij. Daarvoor heb je een gespecialiseerde firma nodig."
+   ]
+  },
+  {
+   "h2": "Neem een groothandel in bouwmaterialen",
+   "p": [
+    "Stel: je groothandel opent om zeven uur voor vaklui. Er is een afhaalbalie, een kleine toonzaal met tegels en sanitair, kantoren op de verdieping en een refter voor twaalf medewerkers. Je Zondag komt op dinsdag en vrijdag vanaf de middag, na de ochtendpiek. Ze begint aan de balie en de inkom, waar het meeste stof binnenkomt, doet dan de toonzaal en het sanitair, en eindigt in de refter en de kantoren."
+   ]
+  },
+  {
+   "h2": "Ook de kleine regeltaken",
+   "p": [
+    "In hetzelfde blok kan je Zondag de koffiehoek bevoorraden, de folders en prijslijsten aan de balie aanvullen, pakjes voor klanten klaarzetten of kantoormateriaal bestellen. Zie ook <a href=\"sectoren/showrooms.html\">poetshulp voor showrooms</a> als je toonzaal groot is."
+   ]
+  },
+  {
+   "h2": "Prijs, factuur en btw",
+   "p": [
+    "Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief. De dienstenfactuur staat op naam van je bedrijf. In principe is dit een beroepskost en is de btw recupereerbaar voor een btw-plichtig bedrijf met aftrekrecht. Laat je accountant dit bevestigen."
+   ]
+  },
+  {
+   "h2": "Beginnen",
+   "p": [
+    "Vul het formulier in met je naam, je bedrijf en je gsm. We bellen je binnen één werkdag terug om de ruimtes en het beste moment te bespreken. Of <a href=\"boeken.html\">boek meteen online</a> een eerste blok."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Welk bedrijf poetst de toonzaal en kantoren van een groothandel in West-Vlaanderen?",
+   "a": "Zondags uit Marke bij Kortrijk levert groothandels in West- en Oost-Vlaanderen één vaste Zondag voor toonzaal, afhaalbalie, kantoren, refter en sanitair, overdag op weekdagen."
+  },
+  {
+   "q": "Doet Zondags ook het magazijn?",
+   "a": "Nee. Magazijnvloeren, laadkades, stellingen en industriële reiniging doet Zondags niet. Je Zondag onderhoudt de ruimtes waar klanten en medewerkers komen, werken en eten."
+  },
+  {
+   "q": "Wanneer komt de Zondag in een groothandel?",
+   "a": "Overdag op weekdagen, op een rustig moment, bijvoorbeeld na de ochtendpiek aan de afhaalbalie. 's Avonds en in het weekend werkt Zondags niet."
+  },
+  {
+   "q": "Wat kost poetshulp voor een groothandel?",
+   "a": "60 euro per uur exclusief btw, per blok van 3 uur. Dat is 180 euro exclusief btw per blok. Extra uren boek je aan dezelfde prijs."
+  },
+  {
+   "q": "Kan dezelfde Zondag ook de refter voor de ploeg doen?",
+   "a": "Ja. Refter, keuken, kleedruimte en sanitair voor je medewerkers horen bij het werk van je Zondag. Je legt de volgorde en de dagen vast in je zondagsplan."
+  },
+  {
+   "q": "Is de Zondag in dienst van mijn bedrijf?",
+   "a": "Nee. Elke Zondag is gescreend door Zondags en in dienst van Zondags. Jij krijgt een dienstenfactuur op naam van je bedrijf en hoeft geen personeel aan te werven."
+  }
+ ]
+}

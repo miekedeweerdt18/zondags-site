@@ -1,19 +1,28 @@
 
 /* Layout: full-bleed editorial scroll. Huge grotesk headlines, italic serif accents, colour blocks that switch per section, photos edge to edge. Single deliberate light look (brand site). Rustig: ink, papier, steen en één zonnegeel accent. */
 :root{
-  --ink:#17221E;     /* diep groen-zwart: zakelijk anker */
-  --paper:#F6F2EB;   /* warm papier */
-  --geel:#E9BE55;    /* gouden zon: het enige accent */
-  --stone:#EAE2D5;   /* zand: rustvlak */
+  /* Premium branding (oktober 2026): Ink, Paper en Stone blijven, goud enkel als accent, drie rustige neutralen erbij */
+  --ink:#17221E;        /* koppen, tekst, primaire knop, donkere secties */
+  --woud:#2B3A33;       /* kaarten en vlakken binnen een Ink-sectie */
+  --paper:#F6F2EB;      /* hoofdachtergrond */
+  --linnen:#FBF9F5;     /* formulieren, kaarten op Paper */
+  --stone:#EAE2D5;      /* afwisselende secties, beeldkaders */
+  --taupe:#8C7B6B;      /* lijnen, iconvlakken, tekst vanaf 24px */
+  --taupe-diep:#6B5E51; /* kleine tekst in warme tint */
+  --muted:#6A6A5E;      /* Mos: secundaire tekst op Paper en Linnen */
+  --geel:#E9BE55;       /* Goud: alleen accent (zon, punt, dunne lijn), nooit tekst op licht */
+  --brons:#8A6A22;      /* goudtint voor kleine tekst op licht */
   --zon:var(--ink);
   --zon-deep:var(--ink);
   --blush:var(--stone);
-  --muted:#6A6A5E;
-  --line:rgba(23,34,30,.13);
-  --f-display:"Bricolage Grotesque", "Helvetica Neue", Arial, sans-serif;
-  --f-serif:"Instrument Serif", Georgia, "Times New Roman", serif;
-  --f-body:"Geist", "Helvetica Neue", Arial, sans-serif;
-  --gut:clamp(16px,4vw,56px);
+  --line:rgba(23,34,30,.12);
+  --line-dark:rgba(246,242,235,.14);
+  --f-serif:"Instrument Serif", "Iowan Old Style", Georgia, serif;
+  --f-body:"Geist", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+  --f-display:var(--f-serif);
+  --gut:clamp(20px,5vw,80px);
+  --radius-img:4px; --radius-card:6px; --radius-btn:999px;
+  --btn-h:52px;
   --ease:cubic-bezier(.22,1,.36,1);
   color-scheme:light;
 }
@@ -519,3 +528,57 @@ section+section.svc,section+section.fisc,section+section.band,.marquee+section{m
 .tot__r--s{color:var(--muted);font-size:14px}
 .tot__r--t{border-top:1px solid var(--line);padding-top:10px;margin-top:4px;font-family:var(--f-display);font-size:22px;font-weight:600}
 .form .f input[type=date]{min-height:48px}
+
+
+/* ================= Premium branding (oktober 2026) =================
+   Koppen in Instrument Serif 400, tekst en UI in Geist, goud enkel als accent (zon, punt, dunne lijn).
+   Geen gele knoppen of vlakken meer, geen preloader, geen ticker, geen prijsbolletje. */
+body{font-size:clamp(16px,1.2vw,17px);line-height:1.65}
+h1,h2,h3{font-family:var(--f-serif);font-weight:400;letter-spacing:-.012em;line-height:1.04}
+h1 em.s,h2 em.s,h3 em.s,em.s{font-family:var(--f-serif);font-style:italic;font-weight:400;letter-spacing:0}
+.hero h1,.phero h1,.band h2,.links__head h2,.how h2,.faq h2,.qform h2,.open__txt h2{font-weight:400;letter-spacing:-.015em}
+.phero h1{font-size:clamp(44px,6vw,92px);line-height:1.02}
+.art__body h2{font-size:clamp(28px,2.6vw,40px);letter-spacing:-.01em;line-height:1.08}
+.def__entry,.proof li,.card--end p,.menu__price,.dish b,.fisc__num,.slider__val,.thanks,.state p,.foot__cta,.mmenu a,.lrow b,.contact p,.qa summary,.erv__item p,.pack__price,.form__title,.next b,.perks h3{font-family:var(--f-serif);font-weight:400;letter-spacing:-.005em}
+.tiers li b,.form__sum,.bk__row b,.step output,.tot__r--t,.rel__a,.sticker{font-family:var(--f-body);font-weight:500;letter-spacing:0}
+.qa summary{font-size:clamp(21px,1.9vw,27px)}
+.next b{font-size:23px}
+.eyebrow{font:500 12px/1.2 var(--f-body);letter-spacing:.18em;text-transform:uppercase}
+/* logo als SVG */
+.logo img{display:block;height:30px;width:auto}
+.foot__logo img{display:block;width:min(100%,760px);height:auto;opacity:.95}
+/* knoppen: pilvorm, 52px, rand 1px; primair Ink */
+.btn{min-height:var(--btn-h);padding:0 26px;border-width:1px;justify-content:center}
+.btn--zon,.btn--fill{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.btn--zon:hover,.btn--fill:hover{background:var(--woud);border-color:var(--woud)}
+body.dark-top .nav:not(.is-scrolled) .btn--fill{background:var(--paper);border-color:var(--paper);color:var(--ink)}
+/* tekstlinks: Ink met een gouden onderlijn van 1px */
+.art__body a,.phero p a,.qform>div>p a,.form__alt a,.faq a{color:var(--ink);text-decoration:underline;text-decoration-color:var(--geel);text-decoration-thickness:1px;text-underline-offset:3px}
+/* vlakken: geen geel meer */
+.band{background:var(--stone)}
+.band .btn .arr{background:none}
+.card--geel{background:var(--stone)}
+.tiers li.on{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.rot{background:none;border-bottom:1px solid var(--geel)}
+.state .w.hl{background:none;text-decoration:underline;text-decoration-color:var(--geel);text-decoration-thickness:1px}
+.next li::before{background:transparent;border:1px solid var(--taupe);color:var(--ink)}
+.qa[open] summary span{background:var(--ink);border-color:var(--ink);color:var(--paper)}
+.lrow:hover .go{background:var(--ink);border-color:var(--ink);color:var(--paper)}
+.art__card{background:var(--linnen);border:1px solid var(--line);border-radius:var(--radius-card)}
+.art__card li::before{width:7px;height:7px;top:.62em}
+.erv__item figcaption::before{background:var(--stone);border:1px solid var(--geel)}
+.consent button[data-c="ja"]{background:var(--paper);border-color:var(--paper);color:var(--ink)}
+.foot a:hover{color:var(--paper);text-decoration:underline;text-decoration-color:var(--geel)}
+.foot__sun{opacity:.18}
+.form{background:var(--linnen);border:1px solid var(--line);border-radius:var(--radius-card);box-shadow:none}
+.form .f input,.form .f select,.form .f textarea{border:1px solid rgba(23,34,30,.22);background:#fff;border-radius:4px}
+.pband img,.lrow__img img,.open__img img{border-radius:var(--radius-img)}
+.pre,.sticker,.bt--sun,.marquee{display:none!important}
+@media (prefers-reduced-motion:no-preference){.reveal{transition-duration:.6s}}
+.logo .lg-paper{display:none}
+body.dark-top .nav:not(.is-scrolled) .logo .lg-ink{display:none}
+body.dark-top .nav:not(.is-scrolled) .logo .lg-paper{display:block}
+body.dark-top.menu-open .nav .logo .lg-ink{display:block}
+body.dark-top.menu-open .nav .logo .lg-paper{display:none}
+/* Akkoord-vinkje in formulieren deelde de klasse met de cookiebalk en zweefde onderaan het scherm */
+label.consent{position:static;left:auto;right:auto;bottom:auto;z-index:auto;max-width:none;background:none;color:var(--muted);padding:0;border-radius:0;box-shadow:none;font-size:13px;line-height:1.5}

@@ -117,6 +117,7 @@
 
   /* Meting voor Google Ads (conversie "Aanvraag verzonden"), alleen na toestemming van de bezoeker */
   const AW='AW-18500746602', CONV='AW-18500746602/yeOuCKajopUdEOr66_VE';
+  const GA4=''; /* INVUL: GA4-meet-ID van Zondags (G-...). Leeg = enkel Google Ads en dataLayer */
   window.ZD_CONV=CONV;
   window.dataLayer=window.dataLayer||[];
   if(!window.gtag) window.gtag=function(){window.dataLayer.push(arguments);};
@@ -125,11 +126,13 @@
     let ok=null; try{ok=localStorage.getItem('zd_consent');}catch(e){}
     gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',wait_for_update:400});
     if(ok==='ja') gtag('consent','update',grant);
-    gtag('js',new Date()); gtag('config',AW);
+    gtag('js',new Date()); gtag('config',AW); if(GA4) gtag('config',GA4);
     const gs=document.createElement('script'); gs.async=true; gs.src='https://www.googletagmanager.com/gtag/js?id='+AW; document.head.appendChild(gs);
     if(/^\/bedankt(\.html)?\/?$/.test(location.pathname)){
       let done=null; try{done=sessionStorage.getItem('zd_conv');}catch(e){}
-      if(!done){gtag('event','conversion',{send_to:CONV});try{sessionStorage.setItem('zd_conv','1');}catch(e){}}
+      let lt=null; try{lt=sessionStorage.getItem('zd_lead');}catch(e){}
+      /* Enkel een klantaanvraag telt als conversie. Kandidaten komen op /bedankt-kandidaat en tellen niet mee. */
+      if(!done&&lt==='klant'){gtag('event','conversion',{send_to:CONV});try{sessionStorage.setItem('zd_conv','1');}catch(e){}}
     }
     if(ok===null){
       const bar=document.createElement('div'); bar.className='consent'; bar.setAttribute('role','dialog'); bar.setAttribute('aria-label','Cookies');
@@ -150,7 +153,13 @@
     const add=(n,v)=>{let h=f.querySelector('input[type=hidden][name="'+n+'"]');if(!h){h=document.createElement('input');h.type='hidden';h.name=n;f.appendChild(h);}h.value=v;};
     if(SRC){add('Bron',SRC.bron);add('Kanaal',SRC.kanaal);add('Eerste pagina',SRC.landing);}
     const fd=new FormData(f), g=ns=>{for(const n of ns){const v=fd.get(n);if(v&&String(v).trim())return String(v).trim();}return '';};
-    const subj=g(['_subject']), kand=/kandidaat/i.test(subj)||!!f.querySelector('[name="Statuut"]');
+    const subj=g(['_subject']), kand=f.dataset.lead==='kandidaat'||/kandidaat|sollicit/i.test(subj)||!!f.querySelector('[name="Statuut"]');
+    /* Leadmeting: generate_lead enkel voor klantformulieren */
+    const lt=kand?'kandidaat':'klant';
+    try{sessionStorage.setItem('zd_lead',lt);sessionStorage.removeItem('zd_conv');}catch(err){}
+    window.dataLayer=window.dataLayer||[];
+    window.dataLayer.push({event:kand?'kandidaat_aanmelding':'generate_lead',lead_type:lt,form_id:f.id||'formulier',page_path:location.pathname,kanaal:SRC?SRC.kanaal:'Direct'});
+    if(!kand&&typeof GA4!=='undefined'&&GA4&&window.gtag) gtag('event','generate_lead',{lead_type:'klant',form_id:f.id||'formulier',page_path:location.pathname,transport_type:'beacon'});
     const tel=g(['GSM','gsm','Telefoon','telefoon']), naam=g(['Naam','naam'])||(g(['voornaam'])+' '+g(['achternaam'])).trim();
     const p={source:'zondags-chat',type:kand?'Kandidaat via formulier':'Bedrijf via formulier',naam:naam,bedrijf:g(['Bedrijf','bedrijf']),statuut:g(['Statuut']),
       telefoon:tel,e_mail:g(['E-mail','email']),gemeente:g(['Gemeente','gemeente','Woonplaats','woonplaats']),wat:g(['Taken','waarvoor']),uren:g(['uren','Dagen per week','dagen']),

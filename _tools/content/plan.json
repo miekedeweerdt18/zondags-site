@@ -24716,5 +24716,149 @@
   "kind": "vraag",
   "group": "vragen",
   "h1": "Is Zondags ook actief in Oost-Vlaanderen?"
+ },
+ {
+  "id": "sectoren/huisartsenpraktijken",
+  "path": "sectoren/huisartsenpraktijken.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor huisartsenpraktijken",
+  "scope": "wachtzaal met veel passage, onthaal en secretariaat, sanitair voor patiënten, personeelsruimte, gangen; consultatieruimtes enkel volgens afspraak (bijvoorbeeld enkel de vloer); geen sterilisatie, medisch materiaal of medisch afval; patiëntendossiers blijven bij de praktijk",
+  "doelgroep": "artsen"
+ },
+ {
+  "id": "sectoren/praktijken-artsen-specialisten",
+  "path": "sectoren/praktijken-artsen-specialisten.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor praktijken van artsen-specialisten",
+  "scope": "privépraktijk of kabinet van een specialist in een praktijkgebouw: wachtruimte, onthaal, kantoor, sanitair; onderzoeksruimtes en toestellen enkel volgens afspraak en nooit het toestel zelf; geen medisch materiaal; administratieve hulp voor niet-medische taken",
+  "doelgroep": "artsen"
+ },
+ {
+  "id": "sectoren/medische-centra",
+  "path": "sectoren/medische-centra.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor medische centra en gezondheidscentra",
+  "scope": "centra met meerdere zorgverleners onder één dak: gedeelde wachtzalen, onthaal, gangen en trappen, sanitair, vergaderruimte en keuken voor het team; afspraken met meerdere zorgverleners in één zondagsplan; behandelruimtes enkel volgens afspraak",
+  "doelgroep": "artsen"
+ },
+ {
+  "id": "sectoren/oogartsenpraktijken",
+  "path": "sectoren/oogartsenpraktijken.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor oogartsenpraktijken",
+  "scope": "wachtzaal, onthaal, sanitair, kantoor; donkere onderzoeksruimtes met toestellen: enkel vloer en meubels langs de buitenkant volgens afspraak, toestellen en lenzen nooit aanraken; monturen of brillen niet",
+  "doelgroep": "artsen"
+ },
+ {
+  "id": "sectoren/dermatologiepraktijken",
+  "path": "sectoren/dermatologiepraktijken.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor dermatologiepraktijken",
+  "scope": "wachtzaal, onthaal, sanitair, kantoor en personeelsruimte; behandelruimtes enkel vloer en buitenkant van meubels volgens afspraak; geen medisch materiaal, geen producten of toestellen van de praktijk",
+  "doelgroep": "artsen"
+ },
+ {
+  "id": "sectoren/gynaecologiepraktijken",
+  "path": "sectoren/gynaecologiepraktijken.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor gynaecologiepraktijken",
+  "scope": "rustige wachtzaal, onthaal, sanitair, kleedruimte langs de buitenkant volgens afspraak, kantoor; discretie; onderzoeksruimte enkel volgens afspraak; geen medisch materiaal",
+  "doelgroep": "artsen"
+ },
+ {
+  "id": "sectoren/administratieve-hulp-voor-artsen",
+  "path": "sectoren/administratieve-hulp-voor-artsen.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Administratieve hulp voor artsenpraktijken",
+  "scope": "ondersteunende, niet-medische administratie in de praktijk: post openen en sorteren (geen medische uitslagen lezen), facturen van leveranciers klasseren voor de accountant, kantoorbenodigdheden en wegwerpartikelen bestellen, archief van niet-medische documenten ordenen, pakjes klaarmaken; geen patiëntendossiers, geen medisch secretariaat, geen boekhouding",
+  "doelgroep": "artsen"
+ },
+ {
+  "id": "sectoren/rechterhand-voor-artsen",
+  "path": "sectoren/rechterhand-voor-artsen.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Een rechterhand voor drukke artsen",
+  "scope": "praktische zaken voor de praktijk die blijven liggen tussen consultaties: koffiehoek en keuken bevoorraden, pakjes ophalen en afgeven, kantoormateriaal halen, kleine afspraken met leveranciers en onderhoud van het praktijkgebouw opvolgen, de wachtzaal klaarzetten; nooit medische taken",
+  "doelgroep": "artsen"
+ },
+ {
+  "id": "sectoren/office-managers",
+  "path": "sectoren/office-managers.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Hulp voor office managers",
+  "scope": "een office manager die alles op kantoor draaiende houdt en de praktische taken wil doorgeven: schoonmaak opvolgen, koffiehoek, post, bestellingen, vergaderzalen klaarzetten; de office manager houdt de regie, de Zondag voert uit",
+  "doelgroep": "bedrijven"
+ },
+ {
+  "id": "sectoren/facility-managers",
+  "path": "sectoren/facility-managers.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Hulp voor facility managers in kmo's",
+  "scope": "een facility verantwoordelijke in een kmo met kantoor, refter en sanitair naast een atelier of magazijn: één vaste persoon voor het dagelijkse onderhoud van de kantoorruimtes en kleine regeltaken; geen industriële reiniging of technische klussen",
+  "doelgroep": "bedrijven"
+ },
+ {
+  "id": "sectoren/hr-verantwoordelijken",
+  "path": "sectoren/hr-verantwoordelijken.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Hulp voor HR-verantwoordelijken",
+  "scope": "een HR-verantwoordelijke die wil dat het team graag naar kantoor komt: een propere refter en sanitair, een aangevulde koffiehoek, een klaargezette werkplek voor een nieuwe medewerker, een vergaderzaal voor een sollicitatiegesprek; geen loonadministratie",
+  "doelgroep": "bedrijven"
+ },
+ {
+  "id": "sectoren/consultancybureaus",
+  "path": "sectoren/consultancybureaus.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor consultancybureaus",
+  "scope": "kantoor met flexplekken en vergaderzalen voor klanten, veel consultants die vaak op verplaatsing zijn; vergaderzaal klaarzetten voor klantenbezoek, keuken en sanitair, post en pakjes",
+  "doelgroep": "bedrijven"
+ },
+ {
+  "id": "sectoren/groothandels",
+  "path": "sectoren/groothandels.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor groothandels",
+  "scope": "kantoor, toonzaal of afhaalbalie voor professionele klanten, refter en sanitair naast het magazijn; enkel de kantoor- en klantenruimtes, geen magazijnvloer of industriële reiniging",
+  "doelgroep": "bedrijven"
+ },
+ {
+  "id": "sectoren/logistieke-bedrijven",
+  "path": "sectoren/logistieke-bedrijven.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor logistieke bedrijven",
+  "scope": "kantoren van planners en dispatch, chauffeursruimte en refter, sanitair en kleedruimte; overdag op weekdagen; geen loodsen, laadkades of voertuigen",
+  "doelgroep": "bedrijven"
+ },
+ {
+  "id": "sectoren/klantendiensten-en-callcenters",
+  "path": "sectoren/klantendiensten-en-callcenters.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor klantendiensten en callcenters",
+  "scope": "open kantoor met veel gedeelde werkplekken, headsets en schermen (enkel bureaus en buitenkant van toestellen), keuken, rustruimte, sanitair; poetsen vroeg in de ochtend of over de middag",
+  "doelgroep": "bedrijven"
+ },
+ {
+  "id": "sectoren/bedrijven-met-meerdere-vestigingen",
+  "path": "sectoren/bedrijven-met-meerdere-vestigingen.html",
+  "kind": "sector",
+  "group": "sectoren",
+  "h1": "Poetshulp voor bedrijven met meerdere vestigingen",
+  "scope": "een bedrijf met twee of meer kantoren, winkels of praktijken in West- en Oost-Vlaanderen: per vestiging een vaste Zondag of één Zondag die op vaste dagen meerdere vestigingen doet, één aanspreekpunt en facturen op naam van het bedrijf",
+  "doelgroep": "bedrijven"
  }
 ]

@@ -493,3 +493,7 @@ html.form-in-view .zc-teaser,html.form-in-view .zc-teaser.is-on{opacity:0!import
 .open__txt p{color:rgba(245,242,234,.94)}
 .phero p a.btn,.art__body a.btn--zon,.price a.btn--zon,.def a.btn--zon,.faq a.btn--zon{color:var(--paper);text-decoration:none}
 .phero.phero--dark p a.btn--zon{color:var(--ink)}
+
+/* Chat-teaser: onder 560px nooit (de ronde chatknoppen blijven); op desktop verborgen zolang hij tekst zou raken (klasse teaser-over-tekst via site.js) */
+@media (max-width:560px){.zc-teaser,.zc-teaser.is-on{display:none!important}}
+html.teaser-over-tekst .zc-teaser,html.teaser-over-tekst .zc-teaser.is-on{opacity:0!important;transform:translateY(12px)!important;pointer-events:none!important;visibility:hidden}

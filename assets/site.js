@@ -148,6 +148,38 @@
     }
   }
 
+  /* Chat-teaser op desktop nooit over tekst: liggen er tekstregels, knoppen, velden of beelden onder de teaser (+16px marge),
+     dan krijgt <html> de klasse teaser-over-tekst en verbergt site.css de teaser. Onder 560px is de teaser altijd weg (site.css). */
+  (function(){
+    const H=document.documentElement, PAD=16, BOX=/^(IMG|SVG|VIDEO|IFRAME|INPUT|TEXTAREA|SELECT|BUTTON|PICTURE|CANVAS)$/;
+    const hit=(a,b)=>a.left<b.right&&a.right>b.left&&a.top<b.bottom&&a.bottom>b.top;
+    function over(){
+      const t=document.querySelector('.zc-teaser'); if(!t) return false;
+      const r=t.getBoundingClientRect(); if(!r.width||!r.height) return false;
+      const z={left:r.left-PAD,right:r.right+PAD,top:r.top-PAD,bottom:r.bottom+PAD}, seen=new Set();
+      for(let i=0;i<=5;i++)for(let j=0;j<=4;j++){
+        const x=Math.min(innerWidth-1,Math.max(0,z.left+(z.right-z.left)*i/5)), y=Math.min(innerHeight-1,Math.max(0,z.top+(z.bottom-z.top)*j/4));
+        const e=(document.elementsFromPoint(x,y)||[]).find(n=>!n.closest('.zc')&&n!==H&&n!==document.body);
+        if(!e||seen.has(e)) continue; seen.add(e);
+        if(BOX.test(e.tagName.toUpperCase())){ if(hit(e.getBoundingClientRect(),z)) return true; continue; }
+        const w=document.createTreeWalker(e,NodeFilter.SHOW_TEXT); let n,k=0;
+        while((n=w.nextNode())&&k++<400){
+          if(!n.nodeValue.trim()) continue;
+          const p=n.parentElement; if(p&&p.closest('.zc')) continue;
+          const g=document.createRange(); g.selectNodeContents(n);
+          for(const q of g.getClientRects()) if(q.width&&hit(q,z)) return true;
+        }
+        const m=e.querySelectorAll('img,svg,input,textarea,select,button,video,iframe');
+        for(let k2=0;k2<m.length&&k2<200;k2++) if(!m[k2].closest('.zc')&&hit(m[k2].getBoundingClientRect(),z)) return true;
+      }
+      return false;
+    }
+    let busy=false;
+    const upd=()=>{ if(busy) return; busy=true; requestAnimationFrame(()=>{ busy=false; H.classList.toggle('teaser-over-tekst',over()); }); };
+    addEventListener('scroll',upd,{passive:true}); addEventListener('resize',upd); addEventListener('load',upd);
+    setInterval(upd,700); upd();
+  })();
+
   /* Rustige beweging: secties schuiven 12px op en vagen in (600ms), niet bij "minder beweging" */
   if(reduce||!('IntersectionObserver' in window)) return;
   const els=$$('main section h2, main .lrow, main .aud__c, main .qa, main .next li, main .art__body > h2, main .pband, main .open, main .erv__item, main .card, main .steps .step');

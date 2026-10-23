@@ -40,7 +40,7 @@ LABELS = [
     (r'^(?:Online betalen met kaart of Bancontact|Bancontact of kaart|Online via Stripe|Betalen bij het boeken)$', ''),
 ]
 def label(t):
-    for p, r in LABELS:
+    for p, r in ONLINE_LABELS + LABELS:
         n = re.sub(p, r, t)
         if n != t: return n
     if PAY.search(t) or BOOK.search(t):
@@ -60,6 +60,77 @@ CLAUSES = [
     (r'\bMeteen starten kan ook online\.', 'Meteen starten kan ook via het aanvraagformulier.'),
     (r'(^|[.!?] )Online te boeken\.', r'\1Online aan te vragen.'),
 ]
+
+# ---- losse zinnen over online boeken die BOOK niet vangt (23/10, 19u): natuurlijk herschreven ----
+F = 'via het aanvraagformulier'
+ONLINE = [
+    (r'\bBoeken kan online voor een weekdag, minstens twee werkdagen vooraf\.', f'Vraag het aan {F}, dan spreken we samen een weekdag af.'),
+    (r'\bJe boekt een extra blok online, minstens twee werkdagen vooraf, aan hetzelfde uurtarief\.', f'Een extra blok vraag je aan {F}, aan hetzelfde uurtarief.'),
+    (r'\bBoeken kan online per blok van 3 uur\b', f'Aanvragen kan {F}, per blok van 3 uur'),
+    (r'\bBoeken kan online\.', f'Aanvragen kan {F}.'),
+    (r'\bJe boekt (per blok van 3 uur), online, en\b', r'Je boekt \1 en'),
+    (r'\b(Je boekt (?:per blok van 3 uur|blokken van 3 uur|per blok|binnen regio [^,.]+ één vaste persoon)),? online(?=[,.])', r'\1'),
+    (r'\bJe boekt (per blok van 3 uur), online,', r'Je boekt \1,'),
+    (r'\bJe boekt blokken van 3 uur, online of na een telefoontje\.', f'Je boekt blokken van 3 uur, {F} of na een telefoontje.'),
+    (r'\bBoek (een eerste blok(?: van 3 uur)?|eerst|één blok|een blok van 3 uur)( online|)(?: een blok van 3 uur)?(?: online)?(?:, minstens twee werkdagen vooraf)?(?: voor een weekdag, minstens twee werkdagen vooraf)?(?=[,. ])',
+        lambda m: {'een eerste blok': 'Vraag een eerste blok aan ' + F, 'een eerste blok van 3 uur': 'Vraag een eerste blok van 3 uur aan ' + F,
+                   'eerst': 'Vraag eerst een blok van 3 uur aan ' + F, 'één blok': 'Vraag één blok aan ' + F + ', dan spreken we samen een weekdag af',
+                   'een blok van 3 uur': 'Vraag een blok van 3 uur aan ' + F}[m.group(1)]),
+    (r'\bEen losse boeking kan je ook meteen online regelen\.', f'Een losse beurt vraag je ook meteen aan {F}.'),
+    (r'\bJe boekt één blok van 3 uur online aan het normale tarief en beslist', f'Je vraagt één blok van 3 uur aan {F}, aan het normale tarief, en beslist'),
+    (r'\bJe boekt (één blok van 3 uur|een eerste blok|extra blokken|het) online\b', lambda m: f'Je vraagt {m.group(1)} aan {F}'),
+    (r'\bje boekt (extra blokken|het) online\b', lambda m: f'je vraagt {m.group(1)} aan {F}'),
+    (r'\ben je boekt de eerste beurt online\.', 'en spreken samen de eerste beurt af.'),
+    (r'\bboek je gewoon een blok online\.', f'vraag je gewoon een blok aan {F}.'),
+    (r'\bJe kan online een eerste blok boeken of\b', f'Je kan een eerste blok aanvragen {F} of'),
+    (r'\bNiet voor een losse boeking, die kan je online doen\.', f'Niet voor een losse beurt, die vraag je aan {F}.'),
+    (r'\bEen losse beurt boek je rechtstreeks online\.', f'Een losse beurt vraag je rechtstreeks aan {F}.'),
+    (r'\bVoor een losse boeking krijg je een bevestiging na je online bestelling\.', 'Voor een losse beurt nemen we na je aanvraag binnen één werkdag contact op.'),
+    (r'\bLosse extra blokken kan je online bijboeken\.', f'Losse extra blokken vraag je aan {F}.'),
+    (r'\bEen extra blok boeken voor een drukke periode kan online,', f'Een extra blok voor een drukke periode vraag je aan {F},'),
+    (r'\bboek je dat online voor een weekdag in blokken van 3 uur, extra uren kan je erbij boeken\.', f'vraag je dat aan {F}, voor een weekdag in blokken van 3 uur, en extra uren kan je erbij vragen.'),
+    # dubbel/scheef na de eerste pass
+    (r'via het aanvraagformulier (?:op|via) de (<a\b[^>]*>)aanvraagformulier</a>', r'via het \1aanvraagformulier</a>'),
+    (r'via het aanvraagformulier (?:op|via) de boekpagina', 'via het aanvraagformulier'),
+    (r'via het aanvraagformulier (?:op|via) (<a\b[^>]*>)de aanvraagformulier</a>', r'via het \1aanvraagformulier</a>'),
+    (r'(aanvraagformulier</a>)(?=[A-Z])', r'\1. '),
+    (r'\b(op|via) de (<a\b[^>]*>)?aanvraagformulier\b', r'\1 het \2aanvraagformulier'),
+    (r'\bOnline aanvragen via het aanvraagformulier\b', 'Aanvragen via het formulier'),
+    # oude online betaling / online kiezen
+    (r': datum, aantal blokken, taken en de gegevens van je bedrijf, daarna betaal je online\.', ': je gegevens, de taken en wanneer je wil starten. Binnen één werkdag nemen we contact op.'),
+    (r'\bBetalen doe je online, de factuur komt\b', 'De factuur komt'),
+    (r'\bBetalen (?:doe je|gaat) online\.', 'Je krijgt een factuur op naam van je bedrijf.'),
+    (r'\bJe rekent online af en (?:krijgt|ontvangt) een dienstenfactuur\b', 'Je krijgt een dienstenfactuur'),
+    (r'\bJe geeft de gegevens van je bedrijf in en rekent online af\.', f'Je geeft de gegevens van je bedrijf in {F}.'),
+    (r'\bOmdat je online betaalt, is de factuur bij ontvangst al vereffend\. Dat is handig voor je boekhouder: de betaling zit meteen in je bankuittreksel of in het overzicht van je kaart, en de factuur hoeft niet in een betaalrun terecht te komen\.', 'Hoe en wanneer je de factuur betaalt, spreken we samen af na je aanvraag.'),
+    (r'\bJe betaalt dat blok online\. ?', ''),
+    (r'\bJe kiest datum en moment online of belt\b', f'Je vraagt het aan {F} of belt'),
+    (r'\bJe kiest online de datum en het aantal blokken van 3 uur,', f'Je vraagt de blokken van 3 uur aan {F},'),
+    (r'\bJe kiest dat zelf online\.', 'Dat spreek je gewoon met ons af.'),
+    (r'\bOnline kan voor een weekdag, minstens twee werkdagen vooraf\.', f'Vraag het aan {F}, dan nemen we binnen één werkdag contact op en spreken we samen een weekdag af.'),
+    (r'\bEen eerste beurt boek je bij Zondags \(zondags\.be\) online voor een weekdag, minstens twee werkdagen vooraf\.', f'Een eerste beurt vraag je bij Zondags (zondags.be) aan {F}. Binnen één werkdag nemen we contact op en spreken we samen een weekdag af.'),
+]
+ONLINE_LABELS = [(r'^Boeken (?:en betalen|en bijsturen|kan) online$', 'Aanvragen via het formulier'), (r'^Online aanvragen via (?:de|het) aanvraagformulier$', 'Aanvragen via het formulier')]
+
+def qfix(q):
+    """FAQ-vragen 'Hoe boek ik...?' / 'Hoe snel kan ik ... boeken?' -> aanvragen"""
+    if 'boekhoud' in q: return q
+    m = re.match(r'^Hoe boek ik(.*)\?$', q)
+    if m:
+        rest = m.group(1)
+        if rest.startswith(' de eerste keer'): return 'Hoe vraag ik de eerste keer een Zondag aan' + rest[len(' de eerste keer'):] + '?'
+        k = re.search(r' (?:binnen|voor|uit|als)\b|,', rest)
+        obj, tail = (rest[:k.start()], rest[k.start():]) if k else (rest, '')
+        return f'Hoe vraag ik{obj or " een Zondag"} aan{tail}?'
+    m = re.match(r'^Hoe snel kan ik (.*?)boeken(.*)\?$', q)
+    if m: return f'Hoe snel kan ik {m.group(1) or "een Zondag "}aanvragen{m.group(2)}?'
+    q = re.sub(r'\b(voor|voordat) ik boek\?$', r'\1 ik aanvraag?', q)
+    q = re.sub(r'\bvoor we boeken\?$', 'voor we aanvragen?', q)
+    return q
+
+def online(t):
+    for p, r in ONLINE: t = re.sub(p, r, t)
+    return t
 
 CANON_LINK = 'Vraag je Zondag aan via het {a}aanvraagformulier</a>, dan nemen we binnen één werkdag contact op om de rest af te spreken.'
 CANON_TXT = 'Je vraagt je Zondag aan via het aanvraagformulier op zondags.be/boeken, en binnen één werkdag nemen we contact op om de rest af te spreken.'
@@ -98,6 +169,7 @@ LEAD_Q = re.compile(r'^(?:Liever|Wil je|Wilt u|Zin om|Klaar om)\b.*\?$')
 
 def text(t, inline_html=True):
     """Lopende tekst (een blok of een plain string)."""
+    t = online(t)
     if not (PAY.search(plain(t)) or BOOK.search(plain(t))): return t
     if 'aanvraagformulier' in plain(t) and not PAY.search(plain(t)) and not BOOK.search(re.sub(r'aanvraagformulier op zondags\.be/boeken', '', plain(t))): return t
     parts = SPLIT.split(t)
@@ -123,6 +195,7 @@ CANON_A_PAY = 'Je krijgt een factuur op naam van je bedrijf. De praktische afspr
 
 def faq_pair(q, a):
     """Vraag + antwoord (plain). Gaat de vraag over online boeken/betalen, dan beide vervangen."""
+    q = qfix(q)
     tq = plain(q)
     if PAY.search(tq) or BOOK.search(tq) or re.search(r'\bboek(?:en)?\b.*\?$', tq) and re.search(r'online', tq, re.I):
         if PAY.search(tq) and not BOOK.search(tq): return CANON_Q_PAY, CANON_A_PAY
@@ -171,6 +244,7 @@ def body(b):
 def plain_text(t):
     """metas, JSON-LD (geen tags)"""
     if len(t) <= 70 and not t.rstrip().endswith(('.', '?', '!')): return label(t)
+    if len(t) <= 140 and t.rstrip().endswith('?'): t = qfix(t)
     keep = STATE['n']; STATE['n'] = 0          # metas en JSON-LD krijgen altijd de volledige zin
     try: return text(t, False)
     finally: STATE['n'] = keep

@@ -2,6 +2,7 @@
   const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
   const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
   const LIVE=/(^|\.)zondags\.be$/.test(location.hostname);
+  if(/\/boeken(\.html)?\/?$/.test(location.pathname)) document.documentElement.classList.add('pg-boeken');
 
   /* Mobiel menu */
   const burger=$('.burger');

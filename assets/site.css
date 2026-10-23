@@ -448,3 +448,6 @@ label.consent{position:static;max-width:none;background:none;padding:0;border-ra
 
 /* Chat-teaser niet over formulieren (klasse gezet door site.js) */
 html.form-in-view .zc-teaser,html.form-in-view .zc-teaser.is-on{opacity:0!important;transform:translateY(12px)!important;pointer-events:none!important;visibility:hidden}
+
+/* /boeken is zelf het aanvraagformulier: op mobiel geen chat-teaser die over de inhoud schuift (klasse pg-boeken via site.js; :has als vangnet) */
+@media (max-width:560px){html.pg-boeken .zc-teaser,body:has(input[name="Pagina"][value="boeken.html"]) .zc-teaser{display:none!important}}

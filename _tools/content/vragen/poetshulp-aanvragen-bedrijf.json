@@ -1,54 +1,54 @@
 {
  "path": "vragen/poetshulp-aanvragen-bedrijf.html",
  "title": "Poetshulp voor je bedrijf aanvragen",
- "desc": "Hoe vraag je poetshulp voor je bedrijf aan? Online boeken of terugbelverzoek, wat je klaar hebt, hoe je betaalt en wat daarna gebeurt, stap voor stap.",
+ "desc": "Hoe vraag je poetshulp voor je bedrijf aan? Via het aanvraagformulier of een terugbelverzoek, wat je klaar hebt en wat daarna gebeurt, stap voor stap.",
  "eyebrow": "Vraag",
  "h1": "Hoe vraag je poetshulp voor je bedrijf aan?",
- "lead": "Poetshulp aanvragen kan in enkele minuten. Je kiest tussen online boeken of een terugbelverzoek. Dit heb je nodig en zo verloopt het.",
- "answer": "Je vraagt poetshulp aan bij Zondags (zondags.be) door online te boeken op zondags.be/boeken: je kiest een weekdag (minstens twee werkdagen vooraf), het aantal blokken van 3 uur, extra uren en taken, geeft de naam en het btw-nummer van je bedrijf en betaalt online. Voor een vast plan laat je een terugbelverzoek achter of bel je 0470 56 53 58. Tarief: 60 euro per uur exclusief btw.",
+ "lead": "Poetshulp aanvragen kan in enkele minuten, via het aanvraagformulier of met een terugbelverzoek. Dit heb je nodig en zo verloopt het.",
+ "answer": "Je vraagt poetshulp aan bij Zondags (zondags.be) via het aanvraagformulier op zondags.be/boeken: je naam, je bedrijf of praktijk, je e-mail, je gsm-nummer, je gemeente, de taken en wanneer je wil starten. Binnen één werkdag nemen we contact op om de taken, de dagen en de uren af te spreken. Heb je eerst vragen, laat dan een terugbelverzoek achter of bel 0470 56 53 58. Je krijgt een factuur op naam van je bedrijf.",
  "facts": [
-  "Online boeken op zondags.be/boeken",
-  "Terugbelverzoek voor een vast plan",
-  "Naam en btw-nummer van je bedrijf nodig",
-  "Betalen met kaart of Bancontact",
-  "60 euro per uur, per blok van 3 uur"
+  "Aanvraag via zondags.be/boeken",
+  "Terugbelverzoek als je eerst vragen hebt",
+  "Binnen één werkdag contact",
+  "Per blok van 3 uur",
+  "Factuur op naam van je bedrijf"
  ],
  "sections": [
   {
    "h2": "Twee manieren om aan te vragen",
    "p": [
-    "De eerste manier is online boeken via <a href=\"boeken.html\">de boekpagina</a>. Dat past bij een losse beurt of bij iemand die graag zelf plant. De tweede manier is een terugbelverzoek of een telefoontje, handig voor een vast terugkerend plan, bijvoorbeeld elke week op dezelfde dag. De prijs is in beide gevallen hetzelfde."
+    "De eerste manier is het <a href=\"boeken.html\">aanvraagformulier</a>. Dat past als je al weet welke hulp je nodig hebt en wanneer je wil starten. De tweede manier is een terugbelverzoek via <a href=\"aanvraag.html\">vrijblijvend info</a> of een telefoontje, handig als je eerst vragen hebt. In beide gevallen nemen we binnen één werkdag contact op."
    ]
   },
   {
    "h2": "Wat je klaar hebt",
    "p": [
-    "<ul class=\"ticks\"><li>De naam en het btw-nummer van je bedrijf</li><li>Het adres van je kantoor, praktijk of winkel</li><li>De taken die je wil laten doen</li><li>Een of twee voorkeursdagen en een dagdeel</li><li>Wie je aanspreekpunt is op de dag zelf</li></ul>",
-    "Met deze gegevens ben je in enkele minuten klaar."
+    "<ul class=\"ticks\"><li>Je naam, je e-mail en je gsm-nummer</li><li>De naam van je bedrijf of praktijk</li><li>De gemeente van je kantoor, praktijk of winkel</li><li>De taken die je wil laten doen</li><li>Wanneer je wil starten</li></ul>",
+    "Met deze gegevens ben je in enkele minuten klaar. Een voorkeursdag of iets over de toegang tot je zaak kan je kwijt in het vrije veld."
    ]
   },
   {
-   "h2": "Stap voor stap online boeken",
+   "h2": "Wat er na je aanvraag gebeurt",
    "p": [
-    "Kies een weekdag, minstens twee werkdagen vooraf. Kies het aantal blokken van 3 uur en eventuele extra uren. Duid de taken aan: poetsen, administratieve hulp, regelwerk voor de bedrijfsleider. Vul de gegevens van je bedrijf in. Betaal online met kaart of Bancontact. Zondags bevestigt je boeking en je Zondag komt op de afgesproken dag en het afgesproken uur."
+    "Binnen één werkdag neemt een van ons contact op. Samen spreken we af welke taken je Zondag doet, op welke dagen en uren, en hoe de toegang en de facturatie verlopen. Je Zondag start op de afgesproken dag, per blok van 3 uur, en het is steeds dezelfde persoon."
    ]
   },
   {
-   "h2": "Een vast plan aanvragen",
+   "h2": "Een vast plan",
    "p": [
-    "Wil je dat dezelfde persoon wekelijks komt, laat dan een terugbelverzoek achter of bel 0470 56 53 58, elke dag van 6 tot 22 uur. Een van ons belt je binnen één werkdag terug voor een kort gesprek. Daarna leggen we samen het zondagsplan vast: welke taken, welke dagen, welke uren. De prijs blijft 60 euro per uur exclusief btw."
+    "Wil je dat dezelfde persoon wekelijks komt, vermeld dat dan in je aanvraag, of bel 0470 56 53 58, elke dag van 6 tot 22 uur. In het gesprek leggen we samen het zondagsplan vast: welke taken, welke dagen, welke uren."
    ]
   },
   {
    "h2": "Een voorbeeld: een zaakvoerder van een reisbureau",
    "p": [
-    "Stel: je hebt een reisbureau met drie medewerkers en een etalage. Dinsdagavond boek je online een eerste blok van 3 uur voor vrijdagochtend, met poetsen en de koffiehoek bijvullen. Je geeft de naam en het btw-nummer van je bedrijf door en betaalt met Bancontact. Vrijdag staat je Zondag aan de deur. Bevalt het, dan vraag je een terugbelverzoek voor een vast weekritme."
+    "Stel: je hebt een reisbureau met drie medewerkers en een etalage. Op dinsdagavond vul je het aanvraagformulier in: poetsen en de koffiehoek bijvullen, starten zo snel mogelijk. Woensdag belt een van ons terug en samen leggen jullie een eerste blok van 3 uur vast. Bevalt het, dan spreken jullie een vast weekritme af."
    ]
   },
   {
-   "h2": "Wat je krijgt na het aanvragen",
+   "h2": "Factuur en btw",
    "p": [
-    "Je ontvangt een bevestiging en een factuur op naam van je bedrijf. Het onderhoud van je zaak is in principe een beroepskost, en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant dit bevestigen voor je eigen situatie."
+    "Je krijgt een factuur op naam van je bedrijf. Het onderhoud van je zaak is in principe een beroepskost, en de btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht. Laat je accountant dit bevestigen voor je eigen situatie."
    ]
   },
   {
@@ -61,19 +61,19 @@
  "faq": [
   {
    "q": "Hoe vraag ik poetshulp aan voor mijn bedrijf?",
-   "a": "Boek online op zondags.be/boeken met de naam en het btw-nummer van je bedrijf, of laat een terugbelverzoek achter voor een vast plan. Je kan ook bellen op 0470 56 53 58."
+   "a": "Via het aanvraagformulier op zondags.be/boeken, of met een terugbelverzoek als je eerst vragen hebt. Je kan ook bellen op 0470 56 53 58."
   },
   {
-   "q": "Hoeveel tijd vooraf moet ik aanvragen?",
-   "a": "Online boeken kan voor weekdagen, minstens twee werkdagen vooraf. Voor een vast terugkerend plan bespreken we de start in een kort gesprek."
+   "q": "Hoe snel nemen jullie contact op?",
+   "a": "Binnen één werkdag na je aanvraag. Dan spreken we samen de taken, de dagen en de uren af."
   },
   {
-   "q": "Wat kost poetshulp voor mijn bedrijf?",
-   "a": "60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw per blok, en extra uren boek je aan hetzelfde tarief."
+   "q": "Is een aanvraag vrijblijvend?",
+   "a": "Ja. Je aanvraag verplicht je tot niets. In het gesprek erna bekijken we samen wat past."
   },
   {
-   "q": "Hoe betaal ik bij het boeken?",
-   "a": "Online met kaart of Bancontact via Stripe. Je krijgt een factuur op naam van je bedrijf, met je btw-nummer."
+   "q": "Hoe verloopt de facturatie?",
+   "a": "Je krijgt een factuur op naam van je bedrijf, met je btw-nummer. De praktische afspraken maken we samen na je aanvraag."
   },
   {
    "q": "Kan ik eerst bellen voor ik aanvraag?",

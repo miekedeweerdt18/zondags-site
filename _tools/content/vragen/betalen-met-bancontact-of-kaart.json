@@ -4,82 +4,69 @@
  "desc": "Hoe betaal je als bedrijf voor een Zondag? Je krijgt een factuur op naam van je bedrijf, de praktische afspraken maken we samen na je aanvraag.",
  "eyebrow": "Vraag",
  "h1": "Hoe betaal ik als bedrijf voor een Zondag?",
- "lead": "Ja. Bij het boeken betaal je online met Bancontact of kaart, en je ontvangt daarvoor een factuur op naam van je bedrijf.",
- "answer": "Ja, bedrijven betalen bij Zondags (zondags.be) online met Bancontact of kaart. De betaling verloopt via Stripe op het einde van het boeken, nadat je de naam en het btw-nummer van je bedrijf hebt ingevuld. Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw per blok. Je krijgt een factuur op naam van je bedrijf. Voor een vast terugkerend plan kan je eerst bellen om de afspraken te bespreken.",
+ "lead": "Je krijgt een factuur op naam van je bedrijf. Hoe en wanneer je betaalt, spreken we samen af nadat je je aanvraag hebt doorgegeven.",
+ "answer": "Bij Zondags (zondags.be) betaal je als bedrijf op basis van een factuur op naam van je bedrijf, met je btw-nummer. Je betaalt niets bij je aanvraag: je laat je gegevens achter via het aanvraagformulier op zondags.be/boeken, en binnen één werkdag nemen we contact op. In dat gesprek spreken we de taken, de dagen en de uren af, en ook de praktische afspraken rond de facturatie. Je boekt per blok van 3 uur.",
  "facts": [
-  "Bancontact of kaart",
-  "Online via Stripe",
-  "Betalen bij het boeken",
   "Factuur op naam van je bedrijf",
-  "60 euro per uur, per blok van 3 uur"
+  "Met je btw-nummer",
+  "Geen betaling bij de aanvraag",
+  "Afspraken samen na je aanvraag",
+  "Per blok van 3 uur"
  ],
  "sections": [
   {
-   "h2": "Zo verloopt de betaling",
+   "h2": "Zo verloopt het",
    "p": [
-    "Je doorloopt de boeking op de <a href=\"boeken.html\">boekpagina</a>: datum, aantal blokken, extra uren, taken en de gegevens van je bedrijf. Op het einde kom je bij de betaling. Kies Bancontact of kaart en bevestig. Daarna bevestigt Zondags de boeking.",
-    "Het hele traject, van datum kiezen tot betalen, kost enkele minuten. Je hoeft geen account te maken en geen contract te tekenen om één blok te boeken."
+    "Je vult het <a href=\"boeken.html\">aanvraagformulier</a> in: je naam, je bedrijf of praktijk, je e-mail, je gsm-nummer, je gemeente, welke hulp je nodig hebt en wanneer je wil starten. Dat is vrijblijvend en je betaalt op dat moment niets.",
+    "Binnen één werkdag nemen we contact op. Samen spreken we de taken, de dagen en de uren af, en hoe de facturatie verloopt. Daarna start je Zondag op de afgesproken dag."
    ]
   },
   {
-   "h2": "Welke kaart of rekening",
+   "h2": "Een factuur op naam van je bedrijf",
    "p": [
-    "Je kan met de bedrijfskaart betalen, of met Bancontact vanuit de rekening van je bedrijf. Gebruik bij voorkeur de betaalmiddelen van de vennootschap, zodat de betaling en de factuur bij dezelfde naam horen. Voor je boekhouder is dat eenvoudiger om te koppelen.",
-    "Gebruikt je zaak een gedeelde bedrijfskaart, spreek dan intern af wie boekingen mag plaatsen, zodat je niet twee keer hetzelfde blok boekt."
+    "Zondags werkt enkel voor bedrijven, zaakvoerders en vrije beroepen. Je krijgt daarom altijd een factuur op naam van je bedrijf, met je btw-nummer. Zo kan je boekhouder die meteen koppelen aan je andere aankoopfacturen.",
+    "Controleer bij de eerste factuur of de naam en het btw-nummer juist zijn. Klopt er iets niet, laat het ons dan weten via hello@zondags.be."
    ]
   },
   {
-   "h2": "Wat je krijgt na de betaling",
+   "h2": "Voorbeeld: een kantoor met een vaste donderdagochtend",
    "p": [
-    "<ul class=\"ticks\"><li>Een bevestiging van de boeking</li><li>Een factuur op naam van je bedrijf met btw-nummer</li><li>De afgesproken dag en het afgesproken uur voor je Zondag</li></ul>",
-    "Bewaar de factuur bij je andere aankoopfacturen. Haar bedragen staan exclusief btw.",
-    "Controleer of de naam en het btw-nummer op de bevestiging juist zijn. Dat is de basis voor je factuur en voor de verwerking in je boekhouding."
+    "Neem een kantoor dat elke donderdagochtend een Zondag wil. De zaakvoerder laat een aanvraag achter via het formulier. Een dag later belt een van ons terug en samen leggen ze de dag, het uur en de taken vast. De factuur komt op naam van het kantoor en gaat rechtstreeks door naar de boekhouder."
    ]
   },
   {
-   "h2": "Voorbeeld: een kantoor dat elke week boekt",
+   "h2": "Vragen over je factuur",
    "p": [
-    "Neem een kantoor met een vaste donderdagochtend. De zaakvoerder boekt telkens één blok online, betaalt met de bedrijfskaart en stuurt de factuur door naar zijn boekhouder. Elke betaling gaat zo met één boeking mee, 180 euro exclusief btw per blok. Wil hij liever eerst een plan afspreken, dan belt hij of laat hij een terugbelverzoek achter."
-   ]
-  },
-  {
-   "h2": "Als de betaling niet lukt",
-   "p": [
-    "Mislukt de betaling, probeer dan opnieuw of kies de andere betaalmethode. Lukt het nog niet, mail dan naar hello@zondags.be of bel 0470 56 53 58, elke dag van 6 tot 22 uur. Wacht niet tot de dag zelf, want boeken kan voor weekdagen, minstens twee werkdagen vooraf."
+    "Heb je een vraag over een factuur, mail dan naar hello@zondags.be of bel of stuur een WhatsApp naar 0470 56 53 58, elke dag van 6 tot 22 uur."
    ]
   },
   {
    "h2": "Btw en boekhouding",
    "p": [
-    "Het bedrag op de factuur is exclusief btw. In principe is de btw recupereerbaar voor een btw-plichtige zaak met aftrekrecht en is de dienst een beroepskost. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Laat je accountant dit bevestigen voor jouw situatie.",
-    "Betaal je liever na een gesprek, bijvoorbeeld omdat het om een grotere of terugkerende afspraak gaat, dan bel je eerst. De prijs blijft dezelfde: 60 euro per uur exclusief btw."
+    "In principe is de btw recupereerbaar voor een btw-plichtige zaak met aftrekrecht en is de dienst een beroepskost. Een btw-vrijgestelde praktijk kan de btw doorgaans niet recupereren. Laat je accountant dit bevestigen voor jouw situatie."
    ]
   }
  ],
  "faq": [
   {
-   "q": "Welke betaalmethodes accepteert Zondags?",
-   "a": "Bancontact en kaart, online via Stripe, op het einde van het boeken. Je betaalt het bedrag van je boeking in één keer, exclusief btw, en krijgt daarna je factuur."
+   "q": "Moet ik betalen bij mijn aanvraag?",
+   "a": "Nee. Je aanvraag via het aanvraagformulier is vrijblijvend. Binnen één werkdag nemen we contact op en spreken we samen de rest af, ook de facturatie."
   },
   {
-   "q": "Kan ik op rekening of achteraf betalen?",
-   "a": "Je betaalt online bij het boeken. Voor een terugkerend plan kan je eerst bellen om de afspraken te bespreken."
+   "q": "Op wiens naam komt de factuur?",
+   "a": "Altijd op naam van je bedrijf, met je btw-nummer. Zondags werkt enkel voor bedrijven, zaakvoerders en vrije beroepen."
   },
   {
    "q": "Wanneer krijg ik de factuur?",
-   "a": "Na de boeking en de betaling krijg je een factuur op naam van je bedrijf met je btw-nummer, die je rechtstreeks aan je boekhouder kan doorgeven."
+   "a": "Dat spreken we samen af in het gesprek na je aanvraag, samen met de taken, de dagen en de uren."
   },
   {
-   "q": "Hoeveel moet ik betalen?",
-   "a": "60 euro per uur exclusief btw, per blok van 3 uur. Een blok is dus 180 euro exclusief btw, plus eventuele extra uren."
+   "q": "Welke gegevens heb je nodig voor de factuur?",
+   "a": "De naam van je bedrijf en je btw-nummer. Die vragen we na je aanvraag, als we de praktische afspraken maken."
   },
   {
-   "q": "Welke kaart gebruik ik best om te betalen?",
-   "a": "Gebruik bij voorkeur de betaalmiddelen van je bedrijf, zodat betaling en factuur bij dezelfde naam horen. Zondags werkt enkel voor bedrijven."
-  },
-  {
-   "q": "Is online betalen veilig?",
-   "a": "De betaling verloopt via Stripe, een bekende betaalprovider. Je betaalt op een beveiligde pagina, net zoals bij andere online aankopen voor je bedrijf."
+   "q": "Bij wie kan ik terecht met een vraag over mijn factuur?",
+   "a": "Mail naar hello@zondags.be of bel of stuur een WhatsApp naar 0470 56 53 58, elke dag van 6 tot 22 uur."
   }
  ]
 }

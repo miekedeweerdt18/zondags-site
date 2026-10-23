@@ -4,50 +4,45 @@
  "desc": "Een Zondag aanvragen voor je bedrijf: via het aanvraagformulier, waarna we binnen één werkdag contact opnemen om de rest af te spreken. Stap voor stap uitgelegd.",
  "eyebrow": "Vraag",
  "h1": "Hoe vraag ik een Zondag aan voor mijn bedrijf?",
- "lead": "Online boeken duurt enkele minuten en loopt in vijf stappen: moment kiezen, blokken bepalen, taken aanduiden, bedrijfsgegevens invullen en betalen.",
- "answer": "Je boekt een Zondag voor je bedrijf op de boekpagina van zondags.be. Je kiest een weekdag en een moment, het aantal blokken van 3 uur, eventuele extra uren en de taken. Daarna geef je de naam en het btw-nummer van je bedrijf in en betaal je online met kaart of Bancontact via Stripe. Een blok kost 180 euro exclusief btw, dus 60 euro per uur exclusief btw. Zondags bevestigt je boeking en je krijgt een factuur op naam van je bedrijf.",
+ "lead": "Je vult het aanvraagformulier in, wij nemen binnen één werkdag contact op en samen spreken we taken, dagen en uren af. Daarna start je Zondag.",
+ "answer": "Je vraagt een Zondag voor je bedrijf aan via het aanvraagformulier op zondags.be/boeken. Je geeft je naam, je bedrijf of praktijk, je e-mail, je gsm-nummer en je gemeente in, duidt aan welke hulp je nodig hebt en wanneer je wil starten. Binnen één werkdag nemen we contact op om de taken, de dagen en de uren af te spreken. Je Zondag start op de afgesproken dag, per blok van 3 uur, en je krijgt een factuur op naam van je bedrijf.",
  "facts": [
-  "Vijf stappen op de boekpagina",
-  "Weekdag, minstens twee werkdagen vooraf",
-  "Blokken van 3 uur, extra uren mogelijk",
-  "Betalen met kaart of Bancontact",
-  "60 euro per uur, per blok van 3 uur"
+  "Aanvraag via het formulier",
+  "Binnen één werkdag contact",
+  "Taken, dagen en uren samen afgesproken",
+  "Per blok van 3 uur, steeds dezelfde persoon",
+  "Factuur op naam van je bedrijf"
  ],
  "sections": [
   {
-   "h2": "Stap 1 en 2: kies je moment en je blokken",
+   "h2": "Stap 1: vul het aanvraagformulier in",
    "p": [
-    "Open de <a href=\"boeken.html\">boekpagina</a> en kies een weekdag. Boeken kan voor werkdagen, minstens twee werkdagen vooraf. Kies daarna een moment: vroeg in de ochtend of over de middag. Zo zit je Zondag niemand in de weg.",
-    "Dan bepaal je hoeveel blokken van 3 uur je wil. Eén blok volstaat voor een kantoor of praktijk van gemiddelde grootte. Heb je een drukke week of een klantenevenement, kies dan twee blokken of voeg extra uren toe."
+    "Open het <a href=\"boeken.html\">aanvraagformulier</a>. Je vult je naam, je bedrijf of praktijk, je e-mail, je gsm-nummer en je gemeente in. Dan kies je wanneer je wil starten: zo snel mogelijk, binnen twee weken, binnen de maand of later.",
+    "Je duidt ook aan welke hulp je nodig hebt. Meerdere keuzes kunnen:",
+    "<ul class=\"ticks\"><li>Poetsen van kantoor, praktijk of winkel</li><li>Administratie en post</li><li>Boodschappen en regelwerk</li><li>Een rechterhand voor de bedrijfsleider</li></ul>",
+    "Wil je nog iets kwijt, zoals het soort ruimte of een voorkeursdag, dan schrijf je dat in het vrije veld. De aanvraag is vrijblijvend."
    ]
   },
   {
-   "h2": "Stap 3: duid de taken aan",
+   "h2": "Stap 2: we nemen binnen één werkdag contact op",
    "p": [
-    "Je geeft aan wat je Zondag moet doen. Dat is wat je gewoonlijk vraagt, in één of meer van de drie domeinen:",
-    "<ul class=\"ticks\"><li>Poetsen van kantoor, praktijk, winkel, refter, sanitair en vloeren</li><li>Administratieve hulp: post, klasseren, archief, afspraken, bestellingen</li><li>Regelwerk voor de zaak: pakjes, koffiehoek, kleine zaken met leveranciers</li></ul>"
+    "Een van ons neemt binnen één werkdag contact met je op. Samen overlopen we je zaak en spreken we af welke taken je Zondag doet, op welke dagen en op welke uren. Ook de toegang, zoals een sleutel of een code, en de facturatie komen dan aan bod."
    ]
   },
   {
-   "h2": "Stap 4: de gegevens van je bedrijf",
+   "h2": "Stap 3: je Zondag start",
    "p": [
-    "Vul de naam van je bedrijf en je btw-nummer in, plus het adres waar je Zondag moet zijn. Dat adres is altijd een zakelijke ruimte, zoals een kantoor, praktijk, winkel of bedrijfsunit. Een ander adres dan een zaak zijn uitgesloten. Je factuur wordt op naam van dat bedrijf opgemaakt."
+    "Op de afgesproken dag staat je Zondag aan de deur. Je boekt per blok van 3 uur, en het is steeds dezelfde persoon die je zaak leert kennen. Je krijgt een factuur op naam van je bedrijf, met je btw-nummer."
    ]
   },
   {
-   "h2": "Stap 5: betalen en bevestiging",
+   "h2": "Liever eerst iemand spreken",
    "p": [
-    "Je betaalt online met de kaart of via Bancontact, verwerkt door Stripe. Zondags bevestigt daarna je boeking. Op de afgesproken dag en het afgesproken uur staat je Zondag aan de deur. Heb je een sleutel of toegangscode nodig, bespreek dat dan vooraf."
+    "Heb je eerst een vraag, laat dan je naam, je bedrijf en je gsm achter via <a href=\"aanvraag.html\">vrijblijvend info</a>, dan bellen we je binnen één werkdag terug. Je kan ook bellen of een WhatsApp sturen naar 0470 56 53 58, elke dag van 6 tot 22 uur."
    ]
   },
   {
-   "h2": "Wanneer je beter eerst belt",
-   "p": [
-    "Voor grotere of terugkerende afspraken, zoals elke week op dezelfde dag, laat je liever een terugbelverzoek achter of bel je 0470 56 53 58, elke dag van 6 tot 22 uur. We bespreken dan taken, dagen en uren en leggen het zondagsplan vast. De prijs blijft hetzelfde: 60 euro per uur exclusief btw."
-   ]
-  },
-  {
-   "h2": "Wat je niet kan boeken",
+   "h2": "Wat je niet kan aanvragen",
    "p": [
     "Zondags werkt overdag op weekdagen. Avonden en weekends zijn niet mogelijk. Technische klussen, werken op hoogte, gevelreiniging en industriële reiniging doen we ook niet, en de administratieve hulp is ondersteunend: geen boekhouding, geen loonadministratie en geen fiscaal of juridisch advies."
    ]
@@ -55,23 +50,23 @@
  ],
  "faq": [
   {
-   "q": "Kan ik online een Zondag boeken voor mijn kantoor?",
-   "a": "Ja, op zondags.be/boeken. Je kiest een weekdag, het aantal blokken van 3 uur en de taken, geeft de gegevens van je bedrijf in en betaalt online."
+   "q": "Kan ik online een Zondag aanvragen voor mijn kantoor?",
+   "a": "Ja, via het aanvraagformulier op zondags.be/boeken. Binnen één werkdag nemen we contact op om de taken, de dagen en de uren af te spreken."
   },
   {
-   "q": "Hoe ver vooraf moet ik boeken?",
-   "a": "Minstens twee werkdagen vooraf, voor een weekdag. Voor een vast terugkerend plan bespreken we eerst de dagen en uren in een kort gesprek."
+   "q": "Wat vul ik in op het aanvraagformulier?",
+   "a": "Je naam, je bedrijf of praktijk, je e-mail, je gsm-nummer, je gemeente, welke hulp je nodig hebt en wanneer je wil starten. Een extra bericht is optioneel."
   },
   {
-   "q": "Wat heb ik nodig om te boeken?",
-   "a": "De naam en het btw-nummer van je bedrijf, het zakelijke adres waar je Zondag moet zijn en een kaart of Bancontact om online te betalen."
+   "q": "Wanneer start mijn Zondag?",
+   "a": "Op de dag die we samen afspreken in het gesprek na je aanvraag. In het formulier geef je al aan wanneer je wil starten."
   },
   {
-   "q": "Krijg ik meteen een factuur?",
-   "a": "Je krijgt een factuur op naam van je bedrijf, met je btw-nummer. Het bedrag is 60 euro per uur exclusief btw, dus 180 euro exclusief btw per blok van 3 uur."
+   "q": "Krijg ik een factuur?",
+   "a": "Ja, een factuur op naam van je bedrijf, met je btw-nummer. De praktische afspraken daarover maken we samen na je aanvraag."
   },
   {
-   "q": "Kan ik ook bellen in plaats van online te boeken?",
+   "q": "Kan ik ook bellen in plaats van het formulier te gebruiken?",
    "a": "Ja, bel of stuur een WhatsApp naar 0470 56 53 58, elke dag van 6 tot 22 uur. Je kan ook mailen naar hello@zondags.be of de chat op de site gebruiken."
   },
   {

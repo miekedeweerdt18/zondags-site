@@ -18,6 +18,7 @@ Nooit 'in X', 'in regio X' of 'in de regio X'.
 """
 import re, json, os, html as _html
 from premium import deprice_html, deprice_text, PRICE
+import premium_aanvraag as AANVRAAG  # /boeken = aanvraagformulier: geen online boeken/betalen meer in de tekst
 
 ALLOW_IN = {'Marke'}          # <- de enige schakelaar
 
@@ -115,7 +116,7 @@ def zin(t): return regio_text(t, False)
 
 def clean_text(t, as_label=False):
     """prijs weg + regio, in die volgorde"""
-    return regio_text(deprice_text(t), as_label)
+    return regio_text(AANVRAAG.plain_text(deprice_text(t)), as_label)
 
 # ---------------- HTML ----------------
 LABEL_KEYS = {'name', 'headline', 'title', 'serviceType', 'alternativeHeadline'}
@@ -164,6 +165,8 @@ def _fix_ld(page):
             if vis and len(vis) == len(me):
                 for qa, (q, a) in zip(me, vis):
                     qa['name'] = q; qa['acceptedAnswer']['text'] = a
+            elif vis and me:   # zichtbare dubbele vraag weggelaten (aanvraagpass): schema volgt de zichtbare lijst
+                f['mainEntity'] = [{'@type': 'Question', 'name': q, 'acceptedAnswer': {'@type': 'Answer', 'text': a}} for q, a in vis]
         if new == data: return m.group(0)
         compact = '","' in raw or '":{' in raw
         out = json.dumps(new, ensure_ascii=False, separators=(',', ':') if compact else None)
@@ -228,7 +231,7 @@ def finalize_html(page, path=''):
     page = deprice_html(page)
     b = page.find('<body')
     if b < 0: return page
-    page = _head(page[:b]) + _body(page[b:])
+    page = _head(page[:b]) + _body(AANVRAAG.body(page[b:]))
     page = _fix_ld(page)
     # na het weghalen van '60 euro per uur.' begint de volgende zin soms met kleine letter: '. per blok' -> '. Per blok'
     return re.sub(r'([.!?]["\u201d]?\s)per blok\b', r'\1Per blok', page)

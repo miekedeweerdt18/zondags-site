@@ -6,7 +6,7 @@ Prijs: 60 euro per uur exclusief btw, per blok van 3 uur. Nooit gratis uren of k
 Nooit beloven dat een flexi-job kan."""
 
 DEF_B2B = ('Zondags (zondags.be) is een dienstverlener uit Marke bij Kortrijk die bedrijven in West- en Oost-Vlaanderen één vaste medewerker levert '
-           'voor poetshulp, administratieve hulp en praktische ondersteuning van de bedrijfsleider. Je boekt online per blok van 3 uur aan '
+           'voor poetshulp, administratieve hulp en praktische ondersteuning van de bedrijfsleider. Je boekt per blok van 3 uur aan '
            '60 euro per uur exclusief btw, met een factuur op naam van je bedrijf.')
 DEF_JOB = ('Zondags (zondags.be) zoekt in West- en Oost-Vlaanderen studenten, flexi-jobbers en mensen die een vaste job willen, '
            'om overdag te werken bij vaste klanten: kantoren, praktijken, winkels en bedrijfsleiders. Je poetst, helpt met administratie en regelwerk, '
@@ -19,9 +19,9 @@ PILLARS = [
 dict(path='bedrijven/index.html', kind='b2b', img='01-poetsen',
  eyebrow='Voor bedrijven', h1='Poetshulp, administratie en een rechterhand voor bedrijven',
  title='Poetshulp en administratieve hulp voor bedrijven in West- en Oost-Vlaanderen | Zondags',
- desc='Zondags is er enkel voor bedrijven: poetshulp, administratieve hulp en een rechterhand voor de bedrijfsleider. 60 euro per uur excl. btw, online te boeken.',
+ desc='Zondags is er enkel voor bedrijven: poetshulp, administratieve hulp en een rechterhand voor de bedrijfsleider. 60 euro per uur excl. btw, online aan te vragen.',
  lead='Zondags werkt enkel voor bedrijven. Je boekt één vaste persoon voor poetshulp, administratie en praktische hulp, per blok van 3 uur aan 60 euro per uur exclusief btw.',
- facts=['Enkel voor bedrijven','Poetshulp, administratie, rechterhand','Steeds dezelfde persoon','60 euro per uur, per blok van 3 uur','Online boeken en betalen','West- en Oost-Vlaanderen'],
+ facts=['Enkel voor bedrijven','Poetshulp, administratie, rechterhand','Steeds dezelfde persoon','60 euro per uur, per blok van 3 uur','Online aanvragen','West- en Oost-Vlaanderen'],
  sections=[
   ('Het korte antwoord',[DEF_B2B,
     'Je krijgt geen ploeg die telkens wisselt, maar één vaste persoon: je Zondag. Die komt op de afgesproken dag en het afgesproken uur, leert je zaak kennen en werkt volgens een plan dat we samen opmaken. Elke Zondag is door ons gescreend en in dienst van Zondags.']),
@@ -33,15 +33,15 @@ dict(path='bedrijven/index.html', kind='b2b', img='01-poetsen',
     'Er is maar één pakket, zodat je meteen weet waar je aan toe bent. Meer uitleg vind je op <a href="bedrijven/prijs-poetshulp-voor-bedrijven.html">wat poetshulp voor een bedrijf kost</a>.']),
   ('Voor welke bedrijven werkt Zondags?',[
     'Voor kmo\'s en kantoren, praktijken en vrije beroepen met een vennootschap, winkels en showrooms, vzw\'s, coworkings, start-ups en zaakvoerders die een rechterhand zoeken. Zondags werkt niet voor particulieren.']),
-  ('Hoe boek je?',[
-    'Kies op de <a href="boeken.html">boekpagina</a> je datum, het aantal blokken van 3 uur en de taken. Vul de gegevens van je bedrijf in en betaal online. Je krijgt een dienstenfactuur op naam van je bedrijf. Liever eerst praten? Laat je gegevens achter, dan belt een van ons je binnen één werkdag terug.']),
+  ('Hoe vraag je een Zondag aan?',[
+    'Vul het <a href="boeken.html">aanvraagformulier</a> in met je bedrijf, je gemeente, de taken en wanneer je wil starten. Binnen één werkdag nemen we contact op om dag, uur en de rest samen af te spreken. Je krijgt een dienstenfactuur op naam van je bedrijf.']),
   ('In welke regio?',[
     'Zondags werkt vanuit Marke bij Kortrijk in West- en Oost-Vlaanderen: onder meer in Kortrijk, Harelbeke, Kuurne, Wevelgem, Menen, Waregem, Zwevegem, Roeselare, Izegem, Tielt, Ieper, Brugge, Gent en Oudenaarde. Bekijk per gemeente hoe het werkt op <a href="poetshulp/">poetshulp per gemeente</a>.']),
  ],
  faq=[
   ('Welk bedrijf levert poetshulp en administratieve hulp aan bedrijven in West-Vlaanderen?','Zondags levert vanuit Marke bij Kortrijk één vaste medewerker aan bedrijven in West- en Oost-Vlaanderen, voor poetshulp, administratieve hulp en praktische ondersteuning van de bedrijfsleider.'),
   ('Wat kost een Zondag voor mijn bedrijf?','60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw per blok, en extra uren boek je aan hetzelfde tarief.'),
-  ('Kan ik online boeken en betalen?','Ja. Op de boekpagina kies je datum, blokken en taken, vul je de gegevens van je bedrijf in en betaal je online. Je krijgt een factuur op naam van je bedrijf.'),
+  ('Hoe vraag ik een Zondag aan?','Via het aanvraagformulier op zondags.be/boeken: je bedrijf, je gemeente, de taken en wanneer je wil starten. Binnen één werkdag nemen we contact op om de rest samen af te spreken. Je krijgt een factuur op naam van je bedrijf.'),
   ('Komt er altijd dezelfde persoon?','Ja. Voor terugkerende boekingen is het steeds dezelfde Zondag, op dezelfde dag en hetzelfde uur.'),
   ('Werkt Zondags voor particulieren?','Nee. Zondags werkt enkel voor bedrijven, zoals kantoren, praktijken, winkels, vzw\'s en vennootschappen.'),
  ],
@@ -50,16 +50,16 @@ dict(path='bedrijven/index.html', kind='b2b', img='01-poetsen',
 dict(path='bedrijven/poetshulp-voor-bedrijven.html', kind='b2b', img='01-poetsen',
  eyebrow='Poetshulp voor bedrijven', h1='Poetshulp voor bedrijven',
  title='Poetshulp voor bedrijven: kantoor, praktijk en winkel | Zondags',
- desc='Poetshulp voor je kantoor, praktijk of winkel in West- en Oost-Vlaanderen. Eén vaste persoon, 60 euro per uur excl. btw, online te boeken per blok van 3 uur.',
- lead='Poetshulp voor je bedrijf, zonder wisselende ploegen. Je Zondag onderhoudt je kantoor, praktijk of winkel op een vaste dag en een vast uur. Je boekt online per blok van 3 uur.',
- facts=['Kantoor, praktijk of winkel','Vaste dag en vast uur','Gescreend en in dienst','60 euro per uur, per blok van 3 uur','Online boeken en betalen'],
+ desc='Poetshulp voor je kantoor, praktijk of winkel in West- en Oost-Vlaanderen. Eén vaste persoon, 60 euro per uur excl. btw, per blok van 3 uur, online aan te vragen.',
+ lead='Poetshulp voor je bedrijf, zonder wisselende ploegen. Je Zondag onderhoudt je kantoor, praktijk of winkel op een vaste dag en een vast uur. Je boekt per blok van 3 uur.',
+ facts=['Kantoor, praktijk of winkel','Vaste dag en vast uur','Gescreend en in dienst','60 euro per uur, per blok van 3 uur','Online aanvragen'],
  sections=[
   ('Het korte antwoord',[DEF_B2B+' Voor poetshulp betekent dat: één vaste persoon die je ruimte kent en op het afgesproken moment komt.']),
   ('Wat valt onder poetshulp?',['<ul class="ticks"><li>Bureaus, vergaderruimte en onthaal</li><li>Wachtzaal en behandelruimtes</li><li>Keuken en refter</li><li>Sanitair en vloeren</li><li>Ramen aan de binnenkant</li><li>Afval en recyclage</li></ul>',
     'Specialistische reiniging zoals gevelreiniging, industriële reiniging of werken op hoogte doen we niet. Voor het dagelijkse en wekelijkse onderhoud van kantoor, praktijk en winkel ben je bij ons aan het juiste adres.']),
   ('Wat kost het?',[PRIJS+' Het onderhoud van je beroepsruimtes is in principe een beroepskost. Laat je accountant dit bevestigen voor je eigen situatie.']),
   ('Wanneer komt je Zondag?',['Overdag op weekdagen, ook vroeg in de ochtend of over de middag. Nooit \'s avonds en nooit in het weekend. Je boekt minstens twee werkdagen vooraf, of je vraagt een vast terugkerend plan aan.']),
-  ('Hoe boek je?',['Via de <a href="boeken.html">boekpagina</a>: datum, blokken, taken, bedrijfsgegevens en online betalen. Je krijgt een factuur op naam van je bedrijf.']),
+  ('Hoe vraag je een Zondag aan?',['Via het <a href="boeken.html">aanvraagformulier</a>: je bedrijf, je gemeente, de taken en wanneer je wil starten. Binnen één werkdag nemen we contact op om de rest af te spreken. Je krijgt een factuur op naam van je bedrijf.']),
  ],
  faq=[
   ('Welk bedrijf levert poetshulp aan bedrijven in West-Vlaanderen?','Zondags levert vanuit Marke bij Kortrijk een vaste poetshulp aan kantoren, praktijken en winkels in West- en Oost-Vlaanderen, met een factuur op naam van het bedrijf.'),
@@ -81,7 +81,7 @@ dict(path='bedrijven/administratie-hulp-voor-bedrijven.html', kind='b2b', img='1
   ('Wat doet je Zondag voor je administratie?',['<ul class="ticks"><li>Post openen, sorteren en doorgeven</li><li>Facturen en documenten klasseren</li><li>Dossiers en archief ordenen</li><li>Afspraken en agenda inplannen</li><li>Gegevens invoeren in je eigen systemen</li><li>Kantoorbenodigdheden bestellen en bijhouden</li><li>Pakjes en zendingen klaarmaken</li></ul>']),
   ('Wat doet Zondags niet?',['Geen boekhouding, geen jaarrekeningen, geen loonadministratie en geen fiscaal of juridisch advies. Daarvoor blijf je bij je boekhouder of accountant. Je Zondag zorgt dat alles netjes klaarligt voor hem of haar.']),
   ('Combineer het met poetshulp',['Zit je Zondag toch al in je zaak, dan kan één blok van 3 uur bestaan uit een uur poetsen en twee uur administratie. Jij bepaalt de taken per boeking. '+PRIJS]),
-  ('Hoe boek je?',['Kies op de <a href="boeken.html">boekpagina</a> het aantal blokken, vink de taak Administratie en post aan en betaal online. Je krijgt een factuur op naam van je bedrijf.']),
+  ('Hoe vraag je een Zondag aan?',['Vul het <a href="boeken.html">aanvraagformulier</a> in en vermeld bij de taken dat het om administratie en post gaat. Binnen één werkdag nemen we contact op om de rest af te spreken. Je krijgt een factuur op naam van je bedrijf.']),
  ],
  faq=[
   ('Kan ik iemand inhuren voor een paar uur administratie per week?','Ja. Je boekt een blok van 3 uur aan 60 euro per uur exclusief btw en kiest de taken, bijvoorbeeld post sorteren, klasseren en afspraken plannen.'),
@@ -103,7 +103,7 @@ dict(path='bedrijven/rechterhand-voor-bedrijfsleiders.html', kind='b2b', img='10
   ('Wat regelt je rechterhand?',['<ul class="ticks"><li>Regelwerk voor de zaak: apotheek, drogisterij, kantoormateriaal</li><li>Pakjes ophalen, klaarmaken en versturen</li><li>De koffiehoek en keuken bevoorraden</li><li>Leveranciers contacteren voor kleine zaken</li><li>Afspraken inplannen en opvolgen</li><li>De zaak klaarzetten voor een klantenbezoek of een vergadering</li></ul>']),
   ('Waarom een vaste persoon?',['Een rechterhand werkt pas echt als ze je zaak kent. Daarom komt steeds dezelfde Zondag: ze weet waar alles ligt, wie je leveranciers zijn en hoe jij het graag hebt. Dat bespaart uitleg bij elke boeking.']),
   ('Combineer het met poetshulp en administratie',['Je kiest per boeking welke taken er aan bod komen. Een blok van 3 uur kan bestaan uit poetsen, administratie en regelwerk. '+PRIJS]),
-  ('Hoe boek je?',['Kies op de <a href="boeken.html">boekpagina</a> datum, blokken en taken, vink Allround rechterhand aan en betaal online. Wil je een vast terugkerend moment, bijvoorbeeld elke week op dezelfde dag? Laat dan je gegevens achter en we bellen je binnen één werkdag.']),
+  ('Hoe vraag je een Zondag aan?',['Vul het <a href="boeken.html">aanvraagformulier</a> in en vermeld dat je een rechterhand zoekt. Wil je een vast terugkerend moment, bijvoorbeeld elke week op dezelfde dag, zet dat er dan bij. Binnen één werkdag nemen we contact op om de rest af te spreken.']),
  ],
  faq=[
   ('Wat doet een rechterhand voor een bedrijfsleider?','Een Zondag als rechterhand regelt praktische zaken voor je bedrijf: regelwerk, pakjes, bestellingen, de koffiehoek en keuken, kleine contacten met leveranciers en het klaarzetten van de zaak voor een klantenbezoek.'),
@@ -117,7 +117,7 @@ dict(path='bedrijven/rechterhand-voor-bedrijfsleiders.html', kind='b2b', img='10
 dict(path='bedrijven/prijs-poetshulp-voor-bedrijven.html', kind='b2b', img='01-poetsen',
  eyebrow='Ons pakket', h1='Wat kost poetshulp voor een bedrijf?',
  title='Wat kost poetshulp voor een bedrijf? Zo werkt het | Zondags',
- desc='Poetshulp, administratieve hulp en een rechterhand voor je bedrijf zitten in één pakket, per blok van 3 uur, online te boeken. Met een factuur op naam van je bedrijf.',
+ desc='Poetshulp, administratieve hulp en een rechterhand voor je bedrijf zitten in één pakket, per blok van 3 uur, online aan te vragen. Met een factuur op naam van je bedrijf.',
  lead='Eén pakket, één uurprijs: 60 euro per uur exclusief btw. Je boekt per blok van 3 uur en boekt extra uren aan hetzelfde tarief. Geen verrassingen op de factuur.',
  facts=['60 euro per uur exclusief btw','Blok van 3 uur is 180 euro excl. btw','Extra uren aan 60 euro per uur','Eén pakket voor alle taken','Factuur op naam van je bedrijf'],
  sections=[
@@ -125,14 +125,14 @@ dict(path='bedrijven/prijs-poetshulp-voor-bedrijven.html', kind='b2b', img='01-p
   ('Hoe is de prijs opgebouwd?',['<ul class="ticks"><li>Uurprijs: 60 euro exclusief btw</li><li>Minimum per boeking: één blok van 3 uur, dus 180 euro exclusief btw</li><li>Extra uren: 60 euro per uur, bovenop een blok</li><li>Btw komt er bovenop</li></ul>','Je Zondag, het poetsmateriaal en de verplaatsing zitten in de uurprijs. Je betaalt geen aparte opstartkost.']),
   ('Een voorbeeld',['Stel: je laat je kantoor elke week 3 uur poetsen. Dat is 180 euro exclusief btw per week. Heb je in een drukke week 5 uur nodig, dan boek je één blok en twee extra uren, samen 300 euro exclusief btw.']),
   ('Beroepskost en btw',['Poetshulp en administratieve hulp voor de zaak zijn in principe een beroepskost. Voor een btw-plichtige zaak met aftrekrecht is de btw in principe recupereerbaar, voor een btw-vrijgestelde praktijk doorgaans niet. Laat je accountant dit bevestigen voor je eigen situatie.']),
-  ('Hoe betaal je?',['Je betaalt online bij het boeken op de <a href="boeken.html">boekpagina</a>, met kaart of Bancontact. Je krijgt een dienstenfactuur op naam van je bedrijf met je btw-nummer.']),
+  ('Hoe verloopt de facturatie?',['Je krijgt een dienstenfactuur op naam van je bedrijf met je btw-nummer. Je aanvraag doe je via het <a href="boeken.html">aanvraagformulier</a>, de praktische afspraken maken we daarna samen.']),
  ],
  faq=[
   ('Wat kost poetshulp voor een kantoor?','60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw per blok.'),
   ('Zit het poetsmateriaal in de prijs?','Ja. De uurprijs van 60 euro exclusief btw omvat je Zondag, het materiaal en de verplaatsing.'),
   ('Kan ik minder dan 3 uur boeken?','Nee. Het pakket start bij een blok van 3 uur. Extra uren boek je daarna aan hetzelfde tarief.'),
   ('Is de btw op poetshulp aftrekbaar?','Voor een btw-plichtige zaak met aftrekrecht is de btw in principe recupereerbaar. Voor een btw-vrijgestelde praktijk doorgaans niet. Laat je accountant het bevestigen.'),
-  ('Betaal ik vooraf?','Ja, je betaalt online bij het boeken. Daarna krijg je een factuur op naam van je bedrijf.'),
+  ('Hoe verloopt de betaling?','Je krijgt een factuur op naam van je bedrijf. De praktische afspraken maken we samen, nadat je je aanvraag via het aanvraagformulier hebt doorgegeven.'),
  ],
  related=[('Vraag je Zondag aan','boeken.html'),('Poetshulp voor bedrijven','bedrijven/poetshulp-voor-bedrijven.html'),('Administratieve hulp','bedrijven/administratie-hulp-voor-bedrijven.html'),('Vragen van bedrijven','vragen/')]),
 
@@ -237,7 +237,7 @@ dict(path='over-zondags.html', kind='about', img='01-poetsen',
   ('Zondags in het kort',[DEF_B2B, DEF_JOB,
     'Baseline: Elke dag een beetje zondag. De persoon die in je zaak komt, noemen we je Zondag. Het plan met taken, dagen en uren heet het zondagsplan.']),
   ('Feiten',['<ul class="ticks"><li>Naam: Zondags</li><li>Website: zondags.be</li><li>Adres: Jan Van Eyckstraat 2, 8510 Marke</li><li>Telefoon en WhatsApp: 0470 56 53 58</li><li>Bereikbaar elke dag van 6 tot 22 uur</li><li>E-mail: hello@zondags.be</li><li>Regio: West- en Oost-Vlaanderen</li><li>Tarief: 60 euro per uur exclusief btw, per blok van 3 uur</li></ul>']),
-  ('Voor bedrijven',['Poetshulp, administratieve hulp en een rechterhand voor kmo\'s, kantoren, praktijken, winkels, vzw\'s en bedrijfsleiders. Steeds dezelfde persoon, op dezelfde dag, op hetzelfde uur, met een dienstenfactuur op naam van je bedrijf. Meer op <a href="bedrijven/">diensten voor bedrijven</a> en op de <a href="boeken.html">boekpagina</a>.']),
+  ('Voor bedrijven',['Poetshulp, administratieve hulp en een rechterhand voor kmo\'s, kantoren, praktijken, winkels, vzw\'s en bedrijfsleiders. Steeds dezelfde persoon, op dezelfde dag, op hetzelfde uur, met een dienstenfactuur op naam van je bedrijf. Meer op <a href="bedrijven/">diensten voor bedrijven</a> en via het <a href="boeken.html">aanvraagformulier</a>.']),
   ('Voor wie werk zoekt',['Studenten vanaf 18 jaar, flexi-jobbers en bijverdieners, en wie een vast contract zoekt. Overdag, geen weekends, bij vaste klanten, verloond boven het barema. Meer op <a href="jobs/werken-met-flexibele-uren.html">werk met flexibele uren</a>.']),
   ('Waarom Zondags bestaat',['Een drukke bedrijfsleider heeft geen tijd om elke week het kantoor te poetsen, de post te sorteren of pakjes te regelen. Zondags neemt dat over met één vaste persoon, één duidelijke prijs en een correcte factuur. En wie bij ons werkt, krijgt vaste klanten en een rooster dat past bij het eigen leven.']),
  ],
@@ -392,8 +392,8 @@ PILLARS += [{'path': 'bedrijven/kantoor-laten-schoonmaken.html',
                 ['Je betaalt 60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw per blok, en extra uren boek je aan hetzelfde tarief. Een btw-vrijgestelde '
                  'praktijk kan de btw doorgaans niet recupereren. Laat je accountant bevestigen wat voor jouw praktijk geldt.']),
                ('Zo start je',
-                ['Laat je naam, je praktijk en je gsm achter in het formulier onderaan. Binnen één werkdag bellen we je terug om de taken, de dag en het uur te bespreken. Meteen starten kan ook: <a '
-                 'href="boeken.html">boek online</a> per blok van 3 uur.'])],
+                ['Laat je naam, je praktijk en je gsm achter in het formulier onderaan. Binnen één werkdag bellen we je terug om de taken, de dag en het uur te bespreken. Liever meteen starten? '
+                 'Laat je aanvraag achter via het <a href="boeken.html">aanvraagformulier</a>.'])],
   'faq': [('Welk bedrijf levert poetshulp voor een dokterspraktijk in West-Vlaanderen?',
            'Zondags levert vanuit Marke bij Kortrijk één vaste poetshulp voor praktijken van huisartsen en specialisten in West- en Oost-Vlaanderen, met een dienstenfactuur op naam van de praktijk.'),
           ('Poetst Zondags ook de consultatieruimte?',

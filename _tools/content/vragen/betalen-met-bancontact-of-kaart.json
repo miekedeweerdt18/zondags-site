@@ -1,9 +1,9 @@
 {
  "path": "vragen/betalen-met-bancontact-of-kaart.html",
- "title": "Kan je als bedrijf online betalen met Bancontact of kaart?",
- "desc": "Bedrijven betalen bij Zondags online met Bancontact of kaart via Stripe. Wat je nodig hebt, wanneer je betaalt en de factuur op naam van je bedrijf.",
+ "title": "Hoe betaal je als bedrijf voor een Zondag?",
+ "desc": "Hoe betaal je als bedrijf voor een Zondag? Je krijgt een factuur op naam van je bedrijf, de praktische afspraken maken we samen na je aanvraag.",
  "eyebrow": "Vraag",
- "h1": "Kan ik als bedrijf online betalen met Bancontact of kaart?",
+ "h1": "Hoe betaal ik als bedrijf voor een Zondag?",
  "lead": "Ja. Bij het boeken betaal je online met Bancontact of kaart, en je ontvangt daarvoor een factuur op naam van je bedrijf.",
  "answer": "Ja, bedrijven betalen bij Zondags (zondags.be) online met Bancontact of kaart. De betaling verloopt via Stripe op het einde van het boeken, nadat je de naam en het btw-nummer van je bedrijf hebt ingevuld. Je betaalt 60 euro per uur exclusief btw, per blok van 3 uur, dus 180 euro exclusief btw per blok. Je krijgt een factuur op naam van je bedrijf. Voor een vast terugkerend plan kan je eerst bellen om de afspraken te bespreken.",
  "facts": [

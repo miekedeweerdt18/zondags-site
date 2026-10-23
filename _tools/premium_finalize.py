@@ -27,7 +27,7 @@ LLMS_FIX = {
 }
 CHAT_FIX = {
     "a: 'Eén pakket: 60 euro per uur excl. btw. Je boekt per blok van 3 uur (180 euro excl. btw) en extra uren boek je per uur bij, ook aan 60 euro excl. btw. Je boekt en betaalt online op de boekpagina.'":
-    "a: 'Eén pakket voor alle taken. Je boekt per blok van 3 uur en extra uren boek je per uur bij. Je boekt en betaalt online op de boekpagina.'",
+    "a: 'Eén pakket voor alle taken. Je boekt per blok van 3 uur en extra uren boek je per uur bij. Je vraagt je Zondag aan via het aanvraagformulier, en binnen één werkdag nemen we contact op om de rest af te spreken.'",
     "Onder meer in Kortrijk, Waregem, Harelbeke, Roeselare, Izegem, Menen, Wevelgem, Ieper, Tielt en Oudenaarde.":
     "Onder meer regio Kortrijk, Waregem, Harelbeke, Roeselare, Izegem, Menen, Wevelgem, Ieper, Tielt en Oudenaarde.",
 }

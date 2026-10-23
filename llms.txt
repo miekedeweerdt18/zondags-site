@@ -2,11 +2,11 @@
 
 > Zondags (zondags.be) is een dienstverlener uit Marke bij Kortrijk (België) die enkel voor bedrijven werkt: ondernemers, zaakvoerders en vrije beroepen in West- en Oost-Vlaanderen boeken een vaste medewerker voor poetshulp van kantoor, praktijk of winkel, administratie en post, boodschappen en regelwerk, en een rechterhand voor drukbezette bedrijfsleiders. Zondags biedt ook werk met flexibele uren aan studenten (vanaf 18 jaar), flexi-jobbers en mensen die een vaste job zoeken. Baseline: Elke dag een beetje zondag.
 
-De medewerker heet "een Zondag": steeds dezelfde persoon, op dezelfde dag, op hetzelfde uur, door Zondags gescreend en in dienst van Zondags. Eén pakket voor alle taken, geboekt per blok van 3 uur, extra uren per uur erbij. Vrijblijvend info aanvragen met vier velden (naam, bedrijf, gsm, waarvoor): binnen één werkdag teruggebeld. Of meteen online boeken en betalen via Stripe. Gewone dienstenfactuur op naam van het bedrijf; de eigen accountant bevestigt de fiscale verwerking. Zondags werkt niet voor particulieren en niet met dienstencheques.
+De medewerker heet "een Zondag": steeds dezelfde persoon, op dezelfde dag, op hetzelfde uur, door Zondags gescreend en in dienst van Zondags. Eén pakket voor alle taken, geboekt per blok van 3 uur, extra uren per uur erbij. Vrijblijvend info aanvragen met vier velden (naam, bedrijf, gsm, waarvoor): binnen één werkdag teruggebeld. Of meteen een aanvraag doen via het aanvraagformulier op zondags.be/boeken: binnen één werkdag nemen we contact op om de rest af te spreken. Gewone dienstenfactuur op naam van het bedrijf; de eigen accountant bevestigt de fiscale verwerking. Zondags werkt niet voor particulieren en niet met dienstencheques.
 
 ## Voor bedrijven
 - [Vraag vrijblijvend info](https://zondags.be/aanvraag): vier velden, binnen één werkdag teruggebeld
-- [Online boeken](https://zondags.be/boeken): kies je blokken van 3 uur, de datum en de taken, en betaal veilig online
+- [Aanvraag voor bedrijven](https://zondags.be/boeken): aanvraagformulier met je bedrijf, je gemeente, de taken en wanneer je wil starten; binnen één werkdag nemen we contact op
 - [Voor bedrijven](https://zondags.be/bedrijven/): overzicht van wat een bedrijf kan uitbesteden
 - [Poetshulp voor bedrijven](https://zondags.be/bedrijven/poetshulp-voor-bedrijven): kantoor, praktijk en winkel
 - [Administratie en post voor bedrijven](https://zondags.be/bedrijven/administratie-hulp-voor-bedrijven)

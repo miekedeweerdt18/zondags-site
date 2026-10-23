@@ -184,23 +184,23 @@
 
   /* ---------- kennisbank ---------- */
   var KB = [
-    { k: /prijs|kost|tarief|euro|duur|betalen per uur|uurprijs|offerte|pakket/i, a: 'Eén pakket voor alle taken. Je boekt per blok van 3 uur en extra uren boek je per uur bij. Je boekt en betaalt online op de boekpagina.', cta: 'boek' },
+    { k: /prijs|kost|tarief|euro|duur|betalen per uur|uurprijs|offerte|pakket/i, a: 'Eén pakket voor alle taken. Je boekt per blok van 3 uur en extra uren boek je per uur bij. Je vraagt je Zondag aan via het aanvraagformulier, en binnen één werkdag nemen we contact op om de rest af te spreken.', cta: 'boek' },
     { k: /vennootschap|factuur|aftrek|fiscaal|btw|boekhoud|accountant/i, a: 'Zondags werkt enkel voor bedrijven en factureert met een gewone dienstenfactuur op naam van je bedrijf. Over de fiscale verwerking beslist je accountant. Hij bevestigt wat voor jouw bedrijf geldt.', cta: 'boek' },
     { k: /dienstencheque|particulier|prive persoon|privé persoon|thuis|woning/i, a: 'Zondags werkt enkel voor bedrijven: vennootschappen, eenmanszaken, vrije beroepen en verenigingen. We doen geen schoonmaak of hulp voor particulieren, en we werken niet met dienstencheques.', cta: 'boek' },
     { k: /regio|gemeente|waar|stad|kortrijk|roeselare|waregem|gent|brugge|ieper|oost-vlaanderen|west-vlaanderen/i, a: 'We werken in West- en Oost-Vlaanderen, vanuit Marke bij Kortrijk. Onder meer regio Kortrijk, Waregem, Harelbeke, Roeselare, Izegem, Menen, Wevelgem, Ieper, Tielt en Oudenaarde. Twijfel je over jouw gemeente? Laat ze achter, dan kijken we het na.' },
     { k: /dezelfde|vaste persoon|wisselend|vervang|ziek|verlof/i, a: 'Ja, steeds dezelfde Zondag, op dezelfde dag, op hetzelfde uur. Bij verlof of ziekte zoeken wij een oplossing. Jij hoeft niets te regelen.' },
     { k: /loon|verdien|uurloon|barema|betaald|salaris|vergoed/i, a: 'Beter dan het barema, met vergoede verplaatsingen en alles in orde op papier. Het precieze loon hangt af van je statuut en je uren. Dat bespreken we in het eerste gesprek.', cta: 'werk' },
     { k: /student|flexi|bijverdien|bijjob|statuut|weekend|avond|flexibel/i, a: 'Studenten vanaf 18 jaar zijn welkom, net als wie wil bijverdienen naast een job of een vast contract zoekt. Je kiest mee je dagen, overdag op weekdagen en zonder weekends. Je statuut bekijken we samen.', cta: 'werk' },
-    { k: /poets|boodschap|administratie|post|rechterhand|regelwerk|kantoor|praktijk|winkel/i, a: 'Een Zondag poetst je kantoor, praktijk of winkel, houdt de administratie en de post bij, doet de boodschappen en regelt de kleine dingen. Voor een drukbezette bedrijfsleider is dat een rechterhand. Eén vaste persoon, online te boeken.', cta: 'boek' },
-    { k: /start|wanneer|hoe snel|beginnen|intake|boeken/i, a: 'Je kiest je blokken van 3 uur, de datum en wat er moet gebeuren op de boekpagina, en betaalt veilig online. Binnen één werkdag krijg je een bevestiging met de naam van je Zondag. Voor een vast ritme leggen we daarna samen een zondagsplan vast.', cta: 'boek' },
-    { k: /opzeg|contract|abonnement|extra uren/i, a: 'Extra uren boek je bij tijdens het boeken of nadien via hello@zondags.be of WhatsApp. Een vast ritme is maandelijks opzegbaar.', cta: 'boek' }
+    { k: /poets|boodschap|administratie|post|rechterhand|regelwerk|kantoor|praktijk|winkel/i, a: 'Een Zondag poetst je kantoor, praktijk of winkel, houdt de administratie en de post bij, doet de boodschappen en regelt de kleine dingen. Voor een drukbezette bedrijfsleider is dat een rechterhand. Eén vaste persoon, online aan te vragen.', cta: 'boek' },
+    { k: /start|wanneer|hoe snel|beginnen|intake|boeken/i, a: 'Laat je aanvraag achter via het aanvraagformulier: je bedrijf, de taken en wanneer je wil starten. Binnen één werkdag nemen we contact op om de rest af te spreken. Voor een vast ritme leggen we daarna samen een zondagsplan vast.', cta: 'boek' },
+    { k: /opzeg|contract|abonnement|extra uren/i, a: 'Extra uren geef je mee in je aanvraag, of later via hello@zondags.be of WhatsApp. Een vast ritme is maandelijks opzegbaar.', cta: 'boek' }
   ];
   function answer(v) {
     var hit = null; for (var i = 0; i < KB.length; i++) if (KB[i].k.test(v)) { hit = KB[i]; break; }
     if (hit) {
       say(hit.a, function () {
         var list = [];
-        if (hit.cta === 'boek') list.push({ label: 'Boek nu online', href: 'https://zondags.be/boeken.html' });
+        if (hit.cta === 'boek') list.push({ label: 'Vraag je Zondag aan', href: 'https://zondags.be/boeken.html' });
         if (hit.cta === 'hulp') list.push({ label: 'Meld je aan als bedrijf', go: function () { start('hulp', true); } });
         if (hit.cta === 'werk') list.push({ label: 'Meld je aan voor werk', go: function () { start('werk', true); } });
         list.push({ label: 'Nog een vraag', go: function () { say('Zeg het maar.'); } });

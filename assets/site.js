@@ -136,7 +136,16 @@
       vraag:g(['Bericht','bericht','motivatie']),pagina:location.href.split('#')[0],bron:SRC?SRC.bron:'Direct',kanaal:SRC?SRC.kanaal:'Direct',campagne:SRC?SRC.campagne:'',verwijzer:SRC?SRC.verwijzer:'',eerste_bezoek:SRC?SRC.datum:'',eerste_pagina:SRC?SRC.landing:'',
       tijdstip:new Date().toLocaleString('nl-BE',{timeZone:'Europe/Brussels'}),
       wa_link:tel?'https://wa.me/'+waNum(tel)+'?text='+encodeURIComponent('Hallo '+naam.split(' ')[0]+', met Mieke van Zondags. Bedankt voor je aanvraag via onze website.'):''};
-    if(LIVE&&tel){try{const b=new URLSearchParams(p);if(!(navigator.sendBeacon&&navigator.sendBeacon(HOOK,b)))fetch(HOOK,{method:'POST',mode:'no-cors',keepalive:true,body:b});}catch(err){}}
+    /* Sollicitaties: altijd naar Make (ook zonder telefoon), source=zondags-kandidaat: rij in de kandidatensheet + bevestigingsmail. Geen geboortedatum of andere gevoelige gegevens. */
+    if(kand){
+      const leeg=v=>/^(kies je statuut|maak een keuze|niets aangeduid)$/i.test(v)?'':v;
+      const vn0=g(['voornaam']), an0=g(['achternaam']), nm=g(['Naam','naam']).replace(/\s+/g,' ');
+      const vn=vn0||(nm?nm.split(' ')[0]:''), an=vn0?an0:(nm.indexOf(' ')>0?nm.slice(nm.indexOf(' ')+1):'');
+      Object.assign(p,{source:'zondags-kandidaat',type:'Kandidaat via formulier',voornaam:vn,achternaam:an,naam:(vn+' '+an).trim(),
+        statuut:leeg(g(['Statuut'])),uren:leeg(g(['Dagen per week','dagen'])),rijbewijs:leeg(g(['rijbewijs'])),vanaf:g(['vanaf']),
+        doet_graag:leeg(g(['Doet graag'])),wat:leeg(g(['Doet graag'])),cv:(()=>{const c=fd.get('cv');return c&&c.name?'ja':'';})()});
+    }
+    if(LIVE&&(tel||kand)){try{const b=new URLSearchParams(p);if(!(navigator.sendBeacon&&navigator.sendBeacon(HOOK,b)))fetch(HOOK,{method:'POST',mode:'no-cors',keepalive:true,body:b});}catch(err){}}
   }));
 
   /* Chat-teaser (chat.js) nooit over een formulier: zolang een formulier in beeld is, krijgt <html> de klasse form-in-view en verbergt site.css de teaser */

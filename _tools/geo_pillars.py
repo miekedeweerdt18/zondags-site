@@ -58,7 +58,7 @@ dict(path='bedrijven/poetshulp-voor-bedrijven.html', kind='b2b', img='01-poetsen
   ('Wat valt onder poetshulp?',['<ul class="ticks"><li>Bureaus, vergaderruimte en onthaal</li><li>Wachtzaal en behandelruimtes</li><li>Keuken en refter</li><li>Sanitair en vloeren</li><li>Ramen aan de binnenkant</li><li>Afval en recyclage</li></ul>',
     'Specialistische reiniging zoals gevelreiniging, industriële reiniging of werken op hoogte doen we niet. Voor het dagelijkse en wekelijkse onderhoud van kantoor, praktijk en winkel ben je bij ons aan het juiste adres.']),
   ('Wat kost het?',[PRIJS+' Het onderhoud van je beroepsruimtes is in principe een beroepskost. Laat je accountant dit bevestigen voor je eigen situatie.']),
-  ('Wanneer komt je Zondag?',['Overdag op weekdagen, ook vroeg in de ochtend of over de middag. Nooit \'s avonds en nooit in het weekend. Je boekt minstens twee werkdagen vooraf, of je vraagt een vast terugkerend plan aan.']),
+  ('Wanneer komt je Zondag?',['Overdag op weekdagen, ook vroeg in de ochtend of over de middag. Nooit \'s avonds en nooit in het weekend. Je vraagt een losse beurt of een vast terugkerend plan aan, en de dag spreken we samen af.']),
   ('Hoe vraag je een Zondag aan?',['Via het <a href="boeken.html">aanvraagformulier</a>: je bedrijf, je gemeente, de taken en wanneer je wil starten. Binnen één werkdag nemen we contact op om de rest af te spreken. Je krijgt een factuur op naam van je bedrijf.']),
  ],
  faq=[
@@ -274,8 +274,8 @@ PILLARS += [{'path': 'bedrijven/kantoor-laten-schoonmaken.html',
                 ['60 euro per uur exclusief btw. Je boekt per blok van 3 uur, dus 180 euro exclusief btw per blok. Extra uren boek je aan hetzelfde tarief. Het onderhoud van je beroepsruimtes is in '
                  'principe een beroepskost. Laat je accountant dit bevestigen voor je eigen situatie.']),
                ('Wanneer komt je Zondag?',
-                ["Overdag op weekdagen, ook vroeg in de ochtend of over de middag. Nooit 's avonds en nooit in het weekend. Je boekt minstens twee werkdagen vooraf, of je vraagt een vast terugkerend "
-                 'plan aan.']),
+                ["Overdag op weekdagen, ook vroeg in de ochtend of over de middag. Nooit 's avonds en nooit in het weekend. Je vraagt een losse beurt of een vast terugkerend "
+                 'plan aan, en de dag spreken we samen af.']),
                ('In jouw gemeente',
                 ['We werken in West- en Oost-Vlaanderen. Bekijk onder meer <a href="regio/schoonmaak-kantoor-kortrijk.html">schoonmaak van kantoren in Kortrijk</a>, <a '
                  'href="regio/schoonmaak-kantoor-gent.html">Gent</a>, <a href="regio/schoonmaak-kantoor-brugge.html">Brugge</a>, <a href="regio/schoonmaak-kantoor-roeselare.html">Roeselare</a> en <a '

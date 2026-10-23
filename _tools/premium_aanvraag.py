@@ -40,6 +40,7 @@ LABELS = [
     (r'^(?:Online betalen met kaart of Bancontact|Bancontact of kaart|Online via Stripe|Betalen bij het boeken)$', ''),
 ]
 def label(t):
+    t = lead_label(t)
     for p, r in ONLINE_LABELS + LABELS:
         n = re.sub(p, r, t)
         if n != t: return n
@@ -128,6 +129,60 @@ def qfix(q):
     q = re.sub(r'\bvoor we boeken\?$', 'voor we aanvragen?', q)
     return q
 
+# ---- geen vaste aanlooptijd meer (Mieke, 23/10: 'minstens twee werkdagen vooraf' weg) ----
+_W = r'(?:minstens|zeker) twee werkdagen (?:vooraf|op voorhand)'
+_DAG = 'Je Zondag komt op een weekdag die we samen afspreken.'
+_START = 'De startdag spreken we samen af.'
+LEAD_LABELS = [
+    (r'^Losse beurt: ' + _W + r'$', 'Losse beurt: dag in overleg'),
+    (r'^Boeken ' + _W + r'$', 'Startdag samen afspreken'),
+    (r'^Op een weekdag, ' + _W + r'$', 'Op een weekdag, in overleg'),
+    (r'^(?:Online boeken(?: en betalen)?|Boeken), ' + _W + r'$', 'Startdag samen afspreken'),
+]
+LEAD = [
+    # antwoorden die enkel uit de regel bestaan
+    (r'(?:(?<=^)|(?<=[>"] )|(?<=[.?!] ))(?:Minstens twee werkdagen vooraf, voor een weekdag|Minstens twee werkdagen voor een weekdag|Voor een weekdag, ' + _W + r'|Minstens twee werkdagen na je boeking, op een weekdag)\.', 'Op een weekdag die we samen afspreken.'),
+    (r'^Minstens twee werkdagen (?:vooraf|op voorhand)\.', 'Dat spreken we samen af na je aanvraag.'),
+    (r'(?:(?<=[>"] )|(?<=[.?!] ))Minstens twee werkdagen (?:vooraf|op voorhand)\.', '\x00'),
+    (r'\bBoek liever iets eerder, zodat\b', 'Vraag liever op tijd aan, zodat'),
+    # zinnen die enkel de regel geven
+    (r'\bEr is geen haast: boeken kan (?:voor|op) een weekdag, ' + _W + r'\.', 'Er is geen haast: je Zondag komt op een weekdag die we samen afspreken.'),
+    (r'\b(?:Boeken kan (?:voor|op) (?:een weekdag|weekdagen), ' + _W + r'|Boeken kan ' + _W + r', (?:voor een weekdag|op weekdagen)|Je boekt (?:voor )?een weekdag, ' + _W + r'|Dat kan voor een weekdag, ' + _W + r'|Een boeking moet ' + _W + r' vastliggen, voor een weekdag)\.', _DAG),
+    (r'\bJa, op weekdagen, ' + _W + r'\.', 'Ja, op weekdagen, op een dag die we samen afspreken.'),
+    (r'\bJe boekt ' + _W + r', of je vraagt een vast terugkerend plan aan\.', 'Je vraagt een losse beurt of een vast terugkerend plan aan, en de dag spreken we samen af.'),
+    (r'\b(?:Een enkel blok|Een eenmalige beurt) boek je ' + _W + r'\.', lambda m: 'Ook ' + m.group(0)[0].lower() + m.group(0)[1:].split(' boek je')[0] + ' kan, op een dag die we samen afspreken.'),
+    (r'\bVoor een eenmalige beurt boek je ' + _W + r'\.', 'Ook een eenmalige beurt kan, op een dag die we samen afspreken.'),
+    (r'\bEen eerste blok boek je ' + _W + r'\.', 'Voor een eerste blok spreken we de dag samen af.'),
+    (r'\bEen blok boek je ' + _W + r' voor een weekdag\.', 'Een blok plannen we samen in, op een weekdag.'),
+    (r'\bBoek zeker twee werkdagen (?:vooraf|op voorhand)\.', 'Spreek die dag op tijd met ons af.'),
+    (r'\bSpreek (dat|het) vooraf af, (?:minstens twee werkdagen voor je boekt|boeken kan ' + _W + r')\.', r'Spreek \1 vooraf met ons af.'),
+    (r'\bDe dagen kies je zelf, zolang het een weekdag is en je ' + _W + r' boekt\.', 'De dagen kies je zelf, zolang het een weekdag is.'),
+    (r'\bJe boekt per blok van 3 uur, en je boekt ' + _W + r'\.', 'Je boekt per blok van 3 uur, en de dag spreken we samen af.'),
+    (r'\b(?:Het boeken kan|Boeken kan|Dat kan|Boek|Houd er rekening mee dat je) ' + _W + r'(?: boekt)?\.|\bMinstens twee werkdagen vooraf boeken (?:is nodig|volstaat)\.|\bDe afspraak moet ' + _W + r' vastliggen\.', '\x00'),
+    # bijzin weglaten, de rest van de zin blijft
+    (r' met minstens twee werkdagen voorsprong', ''),
+    (r',? ' + _W + r'(?=[,.])', ''),
+]
+_SAMEN = re.compile(r'af te spreken|spreken we samen|samen af|in overleg', re.I)
+def lead(t):
+    if not re.search(r'twee werkdagen', t): return t
+    for p, r in LEAD: t = re.sub(p, r, t)
+    return t
+def lead_fix(t):
+    """marker \\x00 = weggevallen regelzin: weg als de tekst de afspraak al noemt, anders de startdagzin"""
+    if '\x00' in t:
+        rest = plain(t.replace('\x00', ''))
+        if rest and _SAMEN.search(rest): t = re.sub(r'\s*\x00', '', t).lstrip()
+        else: t = t.replace('\x00', _START)
+    if 'die we samen afspreken' in t:   # niet twee keer 'afspreken' na elkaar
+        t = re.sub(r'(af te spreken\.|samen de rest af\.)(\s*)Je Zondag komt op een weekdag die we samen afspreken\.', r'\1\2Je Zondag komt op een weekdag.', t)
+    return t
+def lead_label(t):
+    for p, r in LEAD_LABELS:
+        n = re.sub(p, r, t)
+        if n != t: return n
+    return lead_fix(lead(t))
+
 def online(t):
     for p, r in ONLINE: t = re.sub(p, r, t)
     return t
@@ -169,7 +224,9 @@ LEAD_Q = re.compile(r'^(?:Liever|Wil je|Wilt u|Zin om|Klaar om)\b.*\?$')
 
 def text(t, inline_html=True):
     """Lopende tekst (een blok of een plain string)."""
-    t = online(t)
+    return lead_fix(_text(lead(online(t)), inline_html))
+
+def _text(t, inline_html=True):
     if not (PAY.search(plain(t)) or BOOK.search(plain(t))): return t
     if 'aanvraagformulier' in plain(t) and not PAY.search(plain(t)) and not BOOK.search(re.sub(r'aanvraagformulier op zondags\.be/boeken', '', plain(t))): return t
     parts = SPLIT.split(t)

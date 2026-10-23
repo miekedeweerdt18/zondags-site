@@ -445,3 +445,6 @@ label.consent{position:static;max-width:none;background:none;padding:0;border-ra
 @media (prefers-reduced-motion:reduce){.fx{opacity:1;transform:none;transition:none}*{scroll-behavior:auto!important}}
 @media (max-width:900px){.svc__track{grid-template-columns:1fr 1fr}.card--end{grid-column:1/-1}}
 @media (max-width:600px){.svc__track{grid-template-columns:1fr}.card{min-height:380px}}
+
+/* Chat-teaser niet over formulieren (klasse gezet door site.js) */
+html.form-in-view .zc-teaser,html.form-in-view .zc-teaser.is-on{opacity:0!important;transform:translateY(12px)!important;pointer-events:none!important;visibility:hidden}

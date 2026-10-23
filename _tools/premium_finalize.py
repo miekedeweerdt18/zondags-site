@@ -2,12 +2,12 @@
 """Premium uitrol (23/10/2026): pass voor alles wat pseo.py NIET genereert (handgeschreven pagina's, llms.txt, chat.js).
 Idempotent. Draai daarna pseo.py, dat via write() dezelfde finalize_html() toepast op alle gegenereerde pagina's.
     PYTHONPATH=_tools python3 _tools/premium_finalize.py && PYTHONPATH=_tools python3 _tools/pseo.py
-NIET aangeraakt: boeken.html en assets/boeken.js (wachten op Mieke), redirect-stubs, Google-verificatiebestand."""
+NIET aangeraakt: redirect-stubs, Google-verificatiebestand. (boeken.html is sinds 23/10 een aanvraagformulier zonder prijs; assets/boeken.js wordt niet meer geladen maar blijft staan.)"""
 import re, glob, sys
 from premium import deprice_text
 from premium_regio import finalize_html, regio_text, label, RX
 
-SKIP = {'boeken.html', 'google051c53e5f6987c1b.html'}
+SKIP = {'google051c53e5f6987c1b.html'}  # boeken.html: sinds 23/10 aanvraagformulier zonder prijs, mag mee door de premium-pass
 MENU_OLD, MENU_NEW = '>Prijs</a>', '>Ons pakket</a>'   # menu-label naar bedrijven/prijs-poetshulp-voor-bedrijven (URL blijft)
 
 def menu(page):

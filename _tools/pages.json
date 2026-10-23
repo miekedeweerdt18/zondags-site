@@ -26,7 +26,7 @@
 {
 "path": "bedrijven/prijs-poetshulp-voor-bedrijven.html",
 "title": "Wat kost poetshulp voor een bedrijf?",
-"words": 520,
+"words": 521,
 "group": "bedrijven"
 },
 {
@@ -4172,7 +4172,7 @@
 {
 "path": "regio/administratieve-hulp-oudenaarde.html",
 "title": "Administratieve hulp voor bedrijven in Oudenaarde",
-"words": 897,
+"words": 898,
 "group": "regio"
 },
 {
@@ -5468,7 +5468,7 @@
 {
 "path": "regio/administratieve-hulp-avelgem.html",
 "title": "Administratieve hulp voor bedrijven in Avelgem",
-"words": 845,
+"words": 846,
 "group": "regio"
 },
 {
@@ -6380,19 +6380,19 @@
 {
 "path": "sectoren/administratieve-hulp-voor-artsen.html",
 "title": "Administratieve hulp voor artsenpraktijken",
-"words": 833,
+"words": 834,
 "group": "sectoren"
 },
 {
 "path": "sectoren/rechterhand-voor-artsen.html",
 "title": "Een rechterhand voor drukke artsen",
-"words": 829,
+"words": 830,
 "group": "sectoren"
 },
 {
 "path": "sectoren/office-managers.html",
 "title": "Hulp voor office managers",
-"words": 863,
+"words": 864,
 "group": "sectoren"
 },
 {
@@ -6404,7 +6404,7 @@
 {
 "path": "sectoren/hr-verantwoordelijken.html",
 "title": "Hulp voor HR-verantwoordelijken",
-"words": 838,
+"words": 839,
 "group": "sectoren"
 },
 {
@@ -6428,13 +6428,13 @@
 {
 "path": "sectoren/klantendiensten-en-callcenters.html",
 "title": "Poetshulp voor klantendiensten en callcenters",
-"words": 826,
+"words": 827,
 "group": "sectoren"
 },
 {
 "path": "sectoren/bedrijven-met-meerdere-vestigingen.html",
 "title": "Poetshulp voor bedrijven met meerdere vestigingen",
-"words": 846,
+"words": 847,
 "group": "sectoren"
 }
 ]

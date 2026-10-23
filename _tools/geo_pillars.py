@@ -115,7 +115,7 @@ dict(path='bedrijven/rechterhand-voor-bedrijfsleiders.html', kind='b2b', img='10
  related=[('Conciergedienst voor bedrijven','bedrijven/conciergedienst-voor-bedrijven.html'),('Een rechterhand voor artsen','sectoren/rechterhand-voor-artsen.html'),('Boek je Zondag','boeken.html'),('Administratieve hulp','bedrijven/administratie-hulp-voor-bedrijven.html'),('Poetshulp voor bedrijven','bedrijven/poetshulp-voor-bedrijven.html'),('Vragen van bedrijven','vragen/')]),
 
 dict(path='bedrijven/prijs-poetshulp-voor-bedrijven.html', kind='b2b', img='01-poetsen',
- eyebrow='Prijs', h1='Wat kost poetshulp voor een bedrijf?',
+ eyebrow='Ons pakket', h1='Wat kost poetshulp voor een bedrijf?',
  title='Wat kost poetshulp voor een bedrijf? Zo werkt het | Zondags',
  desc='Poetshulp, administratieve hulp en een rechterhand voor je bedrijf zitten in één pakket, per blok van 3 uur, online te boeken. Met een factuur op naam van je bedrijf.',
  lead='Eén pakket, één uurprijs: 60 euro per uur exclusief btw. Je boekt per blok van 3 uur en boekt extra uren aan hetzelfde tarief. Geen verrassingen op de factuur.',

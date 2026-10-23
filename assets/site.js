@@ -135,6 +135,15 @@
     if(LIVE&&tel){try{const b=new URLSearchParams(p);if(!(navigator.sendBeacon&&navigator.sendBeacon(HOOK,b)))fetch(HOOK,{method:'POST',mode:'no-cors',keepalive:true,body:b});}catch(err){}}
   }));
 
+  /* Chat-teaser (chat.js) nooit over een formulier: zolang een formulier in beeld is, krijgt <html> de klasse form-in-view en verbergt site.css de teaser */
+  if('IntersectionObserver' in window){
+    const forms=$$('form[action*="formsubmit"]'), vis=new Set();
+    if(forms.length){
+      const fio=new IntersectionObserver(es=>{es.forEach(x=>x.isIntersecting?vis.add(x.target):vis.delete(x.target));document.documentElement.classList.toggle('form-in-view',vis.size>0);},{rootMargin:'0px 0px 120px 0px'});
+      forms.forEach(f=>fio.observe(f));
+    }
+  }
+
   /* Rustige beweging: secties schuiven 12px op en vagen in (600ms), niet bij "minder beweging" */
   if(reduce||!('IntersectionObserver' in window)) return;
   const els=$$('main section h2, main .lrow, main .aud__c, main .qa, main .next li, main .art__body > h2, main .pband, main .open, main .erv__item, main .card, main .steps .step');

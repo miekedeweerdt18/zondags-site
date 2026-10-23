@@ -5,6 +5,7 @@ Gebruik (vanuit de repo-root): PYTHONPATH=_tools python3 _tools/pseo.py"""
 import re, json, html, hashlib, os, datetime
 from jevorm import convert_html
 from premium import pband_html, deprice_html
+from premium_regio import finalize_html, label as regio_label  # premium: geen prijzen in head/JSON-LD, 'regio X' i.p.v. 'in X'
 
 TODAY=datetime.date.today().isoformat()
 BASE='https://zondags.be/'
@@ -48,6 +49,7 @@ def faq_html(faq):
     return '<section class="faq wrap"><div class="faq__head"><p class="eyebrow" style="color:var(--muted)">Veelgestelde vragen</p><h2 style="margin-top:18px">Goed om <em class="s">te weten.</em></h2></div><div class="faq__list">'+''.join(f'<details class="qa"><summary>{H(q)}<span aria-hidden="true">+</span></summary><p>{H(a)}</p></details>' for q,a in faq)+'</div></section>\n'
 
 def phero(eyebrow,title,lead,dark=False):
+    title=regio_label(title)  # vóór de split over twee regels
     w=title.split(); k=max(1,len(w)//2)
     l1,l2=' '.join(w[:k]),' '.join(w[k:])
     return f'''<section class="phero{' phero--dark' if dark else ''}">
@@ -143,7 +145,7 @@ def slug(s): return re.sub(r'[^a-z0-9]+','-',s.lower().replace('é','e').replace
 pages=[]   # (path, title, wordcount, group)
 def write(path, content, title, group):
     os.makedirs(os.path.dirname(path) or '.', exist_ok=True)
-    content=deprice_html(convert_html(content))  # premium: geen bedragen in zichtbare tekst
+    content=finalize_html(convert_html(content),path)  # premium: geen bedragen, 'regio X' (premium_regio.py)
     open(path,'w').write(content)
     m=re.search(r'<main>(.*)</main>',content,re.S)
     pages.append((path,title,words(m.group(1)),group))
@@ -342,7 +344,7 @@ def hub_page(folder, eyebrow, h1, lead, intro, blocks, faq, job=False):
     body=phero(eyebrow,h1,lead)+f'<section class="art wrap"><div class="art__body" style="grid-column:1/-1">'+''.join(f'<p>{p}</p>' for p in intro)+'</div></section>\n'+secs+faq_html(faq)+(form_job(folder+'/') if job else form_b2b(folder+'/'))
     ld=[crumbs([('Home',''),(h1,folder+'/')]),faqld(faq),{"@context":"https://schema.org","@type":"CollectionPage","name":h1,"description":lead,"url":BASE+folder+'/',"inLanguage":"nl-BE","about":{"@id":BASE+"#org"}}]
     pg=shell(1,folder+'/index.html',f'{h1} | Zondags',lead[:158],body,ld)
-    os.makedirs(folder,exist_ok=True); open(f'{folder}/index.html','w').write(deprice_html(convert_html(pg)))
+    os.makedirs(folder,exist_ok=True); open(f'{folder}/index.html','w').write(finalize_html(convert_html(pg),f'{folder}/index.html'))
 NEW_HUBS=[]
 if CONTENT:
     by=lambda kind:[(Q['h1'],Q['path']) for Q in CPLAN if Q['kind']==kind and cexists(Q['path'])]

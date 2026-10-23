@@ -116,8 +116,8 @@ dict(path='bedrijven/rechterhand-voor-bedrijfsleiders.html', kind='b2b', img='10
 
 dict(path='bedrijven/prijs-poetshulp-voor-bedrijven.html', kind='b2b', img='01-poetsen',
  eyebrow='Prijs', h1='Wat kost poetshulp voor een bedrijf?',
- title='Wat kost poetshulp voor een bedrijf? 60 euro per uur | Zondags',
- desc='Poetshulp, administratieve hulp en een rechterhand voor je bedrijf kosten 60 euro per uur exclusief btw, per blok van 3 uur. Eén pakket, online te boeken.',
+ title='Wat kost poetshulp voor een bedrijf? Zo werkt het | Zondags',
+ desc='Poetshulp, administratieve hulp en een rechterhand voor je bedrijf zitten in één pakket, per blok van 3 uur, online te boeken. Met een factuur op naam van je bedrijf.',
  lead='Eén pakket, één uurprijs: 60 euro per uur exclusief btw. Je boekt per blok van 3 uur en boekt extra uren aan hetzelfde tarief. Geen verrassingen op de factuur.',
  facts=['60 euro per uur exclusief btw','Blok van 3 uur is 180 euro excl. btw','Extra uren aan 60 euro per uur','Eén pakket voor alle taken','Factuur op naam van je bedrijf'],
  sections=[
@@ -151,7 +151,7 @@ dict(path='jobs/werken-met-flexibele-uren.html', kind='job', img='01-poetsen', e
     '<b>Als flexi-jobber of bijverdiener.</b> Naast je hoofdjob of als gepensioneerde. Of een flexi-job voor jou kan, bekijken we samen. Zie <a href="jobs/flexi-job-flexibele-uren.html">flexi-job met flexibele uren</a>.',
     '<b>Met een vast contract.</b> Deeltijds of voltijds, overdag en zonder weekends. Zie <a href="jobs/vaste-job-flexibele-uren.html">vaste job met flexibele uren</a>.']),
   ('Wat doe je als Zondag?',['Je poetst kantoren, praktijken en winkels, helpt met administratie zoals post sorteren en klasseren, en regelt praktische zaken voor een drukke bedrijfsleider. Je kiest mee wat je graag doet. Bij ons ben je geen anonieme schoonmaakhulp. Je bent iemands Zondag: de vaste persoon op wie een bedrijf rekent.']),
-  ('Waar?',['In West- en Oost-Vlaanderen, onder meer in <a href="werken/">Kortrijk, Waregem, Roeselare, Izegem, Menen, Ieper en Oudenaarde</a>. We zoeken klanten dicht bij waar je woont.']),
+  ('Waar?',['In West- en Oost-Vlaanderen, onder meer <a href="werken/">regio Kortrijk, Waregem, Roeselare, Izegem, Menen, Ieper en Oudenaarde</a>. We zoeken klanten dicht bij waar je woont.']),
   ('Hoe solliciteren werkt',['Meld je aan via de chat of het formulier. We bellen je binnen de twee werkdagen voor een kort gesprek. Klikt het, dan zoeken we klanten die passen bij je woonplaats, je uren en wat je graag doet. Bij de start gaan we samen langs.']),
  ],
  faq=[

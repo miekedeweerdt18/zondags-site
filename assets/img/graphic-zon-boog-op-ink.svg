@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 800" width="1600" height="800" fill="none">
+  <rect width="1600" height="800" fill="#17221E"/>
+  <g stroke="#F6F2EB" stroke-opacity=".10" stroke-width="1">
+    <path d="M200 800a600 600 0 0 1 1200 0"/>
+    <path d="M330 800a470 470 0 0 1 940 0"/>
+    <path d="M460 800a340 340 0 0 1 680 0"/>
+    <path d="M590 800a210 210 0 0 1 420 0"/>
+  </g>
+  <path d="M720 800a80 80 0 0 1 160 0Z" fill="#E9BE55"/>
+</svg>

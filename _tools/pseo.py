@@ -4,6 +4,7 @@ hubpagina's, redirect-stubs voor verwijderde pagina's en de sitemap.
 Gebruik (vanuit de repo-root): PYTHONPATH=_tools python3 _tools/pseo.py"""
 import re, json, html, hashlib, os, datetime
 from jevorm import convert_html
+from premium import pband_html
 
 TODAY=datetime.date.today().isoformat()
 BASE='https://zondags.be/'
@@ -68,8 +69,9 @@ def article(aside_title, aside_items, sections, cta_href, cta_label):
 
 IMG_ALT={'01-poetsen':'Een Zondag houdt een lichte ruimte met planten netjes bij',
          '10-boodschappen':'Boodschappen in papieren zakken, klaar om weg te zetten'}
-def photo(img, alt=''):
-    return f'<section class="pband"><img src="assets/img/{img}.webp" alt="{H(alt or IMG_ALT.get(img,""))}" loading="lazy" width="1350" height="900"></section>\n'
+def photo(img, alt='', path=''):
+    # premium beelden (zie _tools/premium.py); de oude sleutel stuurt enkel de keuze bij
+    return pband_html(path, img)
 
 QFORM_LEFT='''<div><p class="eyebrow" style="color:var(--muted)">Vrijblijvend info</p><h2>Vraag je <em class="s">Zondag aan.</em></h2><p>Laat je naam, je bedrijf en je gsm achter. Binnen één werkdag bellen we je terug om te bespreken wat je Zondag voor je zaak kan doen.</p><p class="qform__tel">Liever meteen iemand spreken? <a href="https://wa.me/32470565358">0470 56 53 58</a>, elke dag van 6 tot 22 uur.</p></div>'''
 TAKEN=['Poetsen van kantoor, praktijk of winkel','Administratie en post','Boodschappen en regelwerk','Een rechterhand voor mij','Weet ik nog niet']
@@ -167,7 +169,7 @@ for P in PILLARS:
     elif kind=='b2b' and not has_fisc: secs+=[FISC]
     art=article('In het kort',P['facts'],secs,'boeken.html' if kind!='job' else '#formulier','Boek je Zondag online' if kind!='job' else 'Meld je aan via de chat')
     if kind=='job': art=art.replace('class="btn btn--zon" href="#formulier"','class="btn btn--zon" href="#formulier" data-chat="%s"'%flow,1)
-    body=phero(P['eyebrow'],P['h1'],P['lead'])+art+photo(P['img'],'')+faq_html(P['faq'])+(form_job(path) if kind=='job' else form_b2b(path))+related('Verder lezen',P['related'])
+    body=phero(P['eyebrow'],P['h1'],P['lead'])+art+photo(P['img'],'',path)+faq_html(P['faq'])+(form_job(path) if kind=='job' else form_b2b(path))+related('Verder lezen',P['related'])
     clean=re.sub(r'(^|/)index$',r'\1',path.replace('.html',''))
     if kind=='job':
         cr=crumbs([('Home',''),('Werken bij Zondags','werken/'),(P['h1'],clean)])
@@ -326,7 +328,7 @@ for idx,(path,(P,C)) in enumerate(CONTENT.items()):
                  "author":{"@id":BASE+"#org"},"publisher":{"@id":BASE+"#org"},"about":{"@type":"Thing","name":"Poetshulp en hulp voor bedrijven"}}
     isk=kind=='kandidaat'
     body=(phero(C['eyebrow'],P['h1'],C['lead'])+art2('In het kort',C['facts'],secs,'Solliciteer als Zondag' if isk else 'Boek je Zondag online','werk' if isk else 'hulp')+extra_html
-          +photo(img,'')+erv+faq_html([(q,plain(a)) for q,a in faq]).replace('Goed om <em class="s">te weten.</em>','Vragen en <em class="s">antwoorden.</em>')
+          +photo(img,'',path)+erv+faq_html([(q,plain(a)) for q,a in faq]).replace('Goed om <em class="s">te weten.</em>','Vragen en <em class="s">antwoorden.</em>')
           +(form_job(path,gemeente) if isk else form_b2b(path,gemeente))+related('Verder lezen',rel[:10]))
     ld=[crumbs(crumbs_items),faqld([(q,plain(a)) for q,a in faq]),ld_main]
     write(path, shell(1,path,f"{C['title']} | Zondags",C['desc'],body,ld,robots='noindex, follow' if isk else None), P['h1'], P['group'])

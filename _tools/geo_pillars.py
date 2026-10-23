@@ -45,7 +45,7 @@ dict(path='bedrijven/index.html', kind='b2b', img='01-poetsen',
   ('Komt er altijd dezelfde persoon?','Ja. Voor terugkerende boekingen is het steeds dezelfde Zondag, op dezelfde dag en hetzelfde uur.'),
   ('Werkt Zondags voor particulieren?','Nee. Zondags werkt enkel voor bedrijven, zoals kantoren, praktijken, winkels, vzw\'s en vennootschappen.'),
  ],
- related=[('Boek je Zondag','boeken.html'),('Voor artsen en praktijken','bedrijven/voor-artsen.html'),('Schoonmaak kantoor','bedrijven/kantoor-laten-schoonmaken.html'),('Zonder dienstencheques','bedrijven/praktijk-poetsen-zonder-dienstencheques.html'),('Conciergedienst','bedrijven/conciergedienst-voor-bedrijven.html'),('Poetshulp voor bedrijven','bedrijven/poetshulp-voor-bedrijven.html'),('Administratieve hulp','bedrijven/administratie-hulp-voor-bedrijven.html'),('Rechterhand voor bedrijfsleiders','bedrijven/rechterhand-voor-bedrijfsleiders.html'),('Hulp voor office managers','sectoren/office-managers.html'),('Hulp voor HR-verantwoordelijken','sectoren/hr-verantwoordelijken.html'),('Bedrijven met meerdere vestigingen','sectoren/bedrijven-met-meerdere-vestigingen.html'),('Poetshulp per gemeente','poetshulp/'),('Poetshulp per type bedrijf','sectoren/'),('Vragen van bedrijven','vragen/')]),
+ related=[('Vraag je Zondag aan','boeken.html'),('Voor artsen en praktijken','bedrijven/voor-artsen.html'),('Schoonmaak kantoor','bedrijven/kantoor-laten-schoonmaken.html'),('Zonder dienstencheques','bedrijven/praktijk-poetsen-zonder-dienstencheques.html'),('Conciergedienst','bedrijven/conciergedienst-voor-bedrijven.html'),('Poetshulp voor bedrijven','bedrijven/poetshulp-voor-bedrijven.html'),('Administratieve hulp','bedrijven/administratie-hulp-voor-bedrijven.html'),('Rechterhand voor bedrijfsleiders','bedrijven/rechterhand-voor-bedrijfsleiders.html'),('Hulp voor office managers','sectoren/office-managers.html'),('Hulp voor HR-verantwoordelijken','sectoren/hr-verantwoordelijken.html'),('Bedrijven met meerdere vestigingen','sectoren/bedrijven-met-meerdere-vestigingen.html'),('Poetshulp per gemeente','poetshulp/'),('Poetshulp per type bedrijf','sectoren/'),('Vragen van bedrijven','vragen/')]),
 
 dict(path='bedrijven/poetshulp-voor-bedrijven.html', kind='b2b', img='01-poetsen',
  eyebrow='Poetshulp voor bedrijven', h1='Poetshulp voor bedrijven',
@@ -68,7 +68,7 @@ dict(path='bedrijven/poetshulp-voor-bedrijven.html', kind='b2b', img='01-poetsen
   ('Komt er altijd dezelfde persoon?','Ja. Steeds dezelfde Zondag, op dezelfde dag en hetzelfde uur.'),
   ('Zijn de poetskosten van mijn bedrijf aftrekbaar?','Het onderhoud van beroepsruimtes is in principe een beroepskost. Laat je accountant dit altijd bevestigen voor je eigen situatie.'),
  ],
- related=[('Schoonmaak kantoor','bedrijven/kantoor-laten-schoonmaken.html'),('Zonder dienstencheques','bedrijven/praktijk-poetsen-zonder-dienstencheques.html'),('Voor artsen en praktijken','bedrijven/voor-artsen.html'),('Boek je Zondag','boeken.html'),('Poetshulp per gemeente','poetshulp/'),('Poetshulp per type bedrijf','sectoren/'),('Vragen van bedrijven','vragen/'),('Administratieve hulp','bedrijven/administratie-hulp-voor-bedrijven.html')]),
+ related=[('Schoonmaak kantoor','bedrijven/kantoor-laten-schoonmaken.html'),('Zonder dienstencheques','bedrijven/praktijk-poetsen-zonder-dienstencheques.html'),('Voor artsen en praktijken','bedrijven/voor-artsen.html'),('Vraag je Zondag aan','boeken.html'),('Poetshulp per gemeente','poetshulp/'),('Poetshulp per type bedrijf','sectoren/'),('Vragen van bedrijven','vragen/'),('Administratieve hulp','bedrijven/administratie-hulp-voor-bedrijven.html')]),
 
 dict(path='bedrijven/administratie-hulp-voor-bedrijven.html', kind='b2b', img='10-boodschappen',
  eyebrow='Administratieve hulp', h1='Administratieve hulp voor bedrijven',
@@ -90,7 +90,7 @@ dict(path='bedrijven/administratie-hulp-voor-bedrijven.html', kind='b2b', img='1
   ('Wat als mijn dossiers vertrouwelijk zijn?','Elke Zondag is gescreend en in dienst van Zondags. Vertrouwelijke afspraken leggen we vast in het zondagsplan, bijvoorbeeld welke dossiers je Zondag niet inkijkt.'),
   ('Kan ik poetshulp en administratie combineren?','Ja. Je kiest per boeking welke taken je Zondag doet, binnen hetzelfde blok van 3 uur.'),
  ],
- related=[('Boek je Zondag','boeken.html'),('Rechterhand voor bedrijfsleiders','bedrijven/rechterhand-voor-bedrijfsleiders.html'),('Poetshulp voor bedrijven','bedrijven/poetshulp-voor-bedrijven.html'),('Vragen van bedrijven','vragen/')]),
+ related=[('Vraag je Zondag aan','boeken.html'),('Rechterhand voor bedrijfsleiders','bedrijven/rechterhand-voor-bedrijfsleiders.html'),('Poetshulp voor bedrijven','bedrijven/poetshulp-voor-bedrijven.html'),('Vragen van bedrijven','vragen/')]),
 
 dict(path='bedrijven/rechterhand-voor-bedrijfsleiders.html', kind='b2b', img='10-boodschappen',
  eyebrow='Rechterhand', h1='Een rechterhand voor bedrijfsleiders',
@@ -112,7 +112,7 @@ dict(path='bedrijven/rechterhand-voor-bedrijfsleiders.html', kind='b2b', img='10
   ('Doet Zondags ook persoonlijke klusjes?','Nee. Zondags werkt enkel voor bedrijven. Alle taken gebeuren voor je zaak.'),
   ('Kan ik elke week dezelfde persoon krijgen?','Ja. Voor een vast terugkerend plan komt steeds dezelfde Zondag, op dezelfde dag en hetzelfde uur.'),
  ],
- related=[('Conciergedienst voor bedrijven','bedrijven/conciergedienst-voor-bedrijven.html'),('Een rechterhand voor artsen','sectoren/rechterhand-voor-artsen.html'),('Boek je Zondag','boeken.html'),('Administratieve hulp','bedrijven/administratie-hulp-voor-bedrijven.html'),('Poetshulp voor bedrijven','bedrijven/poetshulp-voor-bedrijven.html'),('Vragen van bedrijven','vragen/')]),
+ related=[('Conciergedienst voor bedrijven','bedrijven/conciergedienst-voor-bedrijven.html'),('Een rechterhand voor artsen','sectoren/rechterhand-voor-artsen.html'),('Vraag je Zondag aan','boeken.html'),('Administratieve hulp','bedrijven/administratie-hulp-voor-bedrijven.html'),('Poetshulp voor bedrijven','bedrijven/poetshulp-voor-bedrijven.html'),('Vragen van bedrijven','vragen/')]),
 
 dict(path='bedrijven/prijs-poetshulp-voor-bedrijven.html', kind='b2b', img='01-poetsen',
  eyebrow='Ons pakket', h1='Wat kost poetshulp voor een bedrijf?',
@@ -134,7 +134,7 @@ dict(path='bedrijven/prijs-poetshulp-voor-bedrijven.html', kind='b2b', img='01-p
   ('Is de btw op poetshulp aftrekbaar?','Voor een btw-plichtige zaak met aftrekrecht is de btw in principe recupereerbaar. Voor een btw-vrijgestelde praktijk doorgaans niet. Laat je accountant het bevestigen.'),
   ('Betaal ik vooraf?','Ja, je betaalt online bij het boeken. Daarna krijg je een factuur op naam van je bedrijf.'),
  ],
- related=[('Boek je Zondag','boeken.html'),('Poetshulp voor bedrijven','bedrijven/poetshulp-voor-bedrijven.html'),('Administratieve hulp','bedrijven/administratie-hulp-voor-bedrijven.html'),('Vragen van bedrijven','vragen/')]),
+ related=[('Vraag je Zondag aan','boeken.html'),('Poetshulp voor bedrijven','bedrijven/poetshulp-voor-bedrijven.html'),('Administratieve hulp','bedrijven/administratie-hulp-voor-bedrijven.html'),('Vragen van bedrijven','vragen/')]),
 
 # ---------------------------------------------------------------- JOBS
 dict(path='jobs/werken-met-flexibele-uren.html', kind='job', img='01-poetsen', emp=['PART_TIME','FULL_TIME','TEMPORARY'],
@@ -246,7 +246,7 @@ dict(path='over-zondags.html', kind='about', img='01-poetsen',
   ('Hoe contacteer ik Zondags?','Via de chat op zondags.be, telefonisch of via WhatsApp op 0470 56 53 58, elke dag van 6 tot 22 uur, of via hello@zondags.be.'),
   ('Werft Zondags medewerkers?','Ja. Zondags zoekt studenten vanaf 18 jaar, flexi-jobbers en mensen voor een vaste job, overdag en zonder weekends.'),
  ],
- related=[('Diensten voor bedrijven','bedrijven/'),('Boek je Zondag','boeken.html'),('Werk met flexibele uren','jobs/werken-met-flexibele-uren.html'),('Hoe het werkt','hoe-het-werkt.html'),('Contact','aanvraag.html')]),
+ related=[('Diensten voor bedrijven','bedrijven/'),('Vraag je Zondag aan','boeken.html'),('Werk met flexibele uren','jobs/werken-met-flexibele-uren.html'),('Hoe het werkt','hoe-het-werkt.html'),('Contact','aanvraag.html')]),
 ]
 
 

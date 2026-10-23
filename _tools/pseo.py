@@ -79,7 +79,7 @@ def phero(eyebrow,title,lead,dark=False):
 def article(aside_title, aside_items, sections, cta_href, cta_label):
     secs=''.join(f'<h2>{H(h)}</h2>'+''.join(p if p.lstrip().startswith('<ul') else f'<p>{p}</p>' for p in (ps if isinstance(ps,list) else [ps])) for h,ps in sections)
     lis=''.join(f'<li>{H(i)}</li>' for i in aside_items)
-    cta=(f'<a class="btn btn--zon" href="#formulier">Vraag vrijblijvend info <span class="arr">&rarr;</span></a><a class="art__alt" href="boeken.html">of boek meteen online</a>'
+    cta=(f'<a class="btn btn--zon" href="#formulier">Vraag vrijblijvend info <span class="arr">&rarr;</span></a><a class="art__alt" href="boeken.html">of vraag meteen aan</a>'
          if cta_href=='boeken.html' else f'<a class="btn btn--zon" href="{cta_href}">{H(cta_label)} <span class="arr">&rarr;</span></a>')
     return f'''<section class="art wrap">
   <aside class="art__aside"><div class="art__card"><p class="eyebrow" style="color:var(--muted)">{H(aside_title)}</p><ul>{lis}</ul>{cta}</div></aside>
@@ -113,7 +113,7 @@ def form_b2b(source, gemeente='', taken=None):
     </div>
     <p class="err" data-err hidden>Vul je naam, je bedrijf en je gsm-nummer in en kies waarvoor.</p>
     <div class="form__foot"><p>Vrijblijvend. We gebruiken je gegevens enkel om je terug te bellen.</p><button class="btn btn--zon" type="submit">Bel mij terug <span class="arr">&rarr;</span></button></div>
-    <p class="form__alt">Liever meteen starten? <a href="boeken.html">Boek online</a> per blok van 3 uur.</p>
+    <p class="form__alt">Liever meteen starten? <a href="boeken.html">Laat je aanvraag achter</a>.</p>
   </form>
 </section>
 '''
@@ -187,7 +187,7 @@ for P in PILLARS:
     has_fisc=any('fisca' in h.lower() or 'vennootschap' in h.lower() for h,_ in secs)
     if kind=='job': secs+=[dag(path), VERWACHT, BEGELEID]
     elif kind=='b2b' and not has_fisc: secs+=[FISC]
-    art=article('In het kort',P['facts'],secs,'boeken.html' if kind!='job' else '#formulier','Boek je Zondag online' if kind!='job' else 'Meld je aan via de chat')
+    art=article('In het kort',P['facts'],secs,'boeken.html' if kind!='job' else '#formulier','Vraag je Zondag aan' if kind!='job' else 'Meld je aan via de chat')
     if kind=='job': art=art.replace('class="btn btn--zon" href="#formulier"','class="btn btn--zon" href="#formulier" data-chat="%s"'%flow,1)
     body=phero(P['eyebrow'],P['h1'],P['lead'])+art+photo(P['img'],'',path)+faq_html(P['faq'])+(form_job(path) if kind=='job' else form_b2b(path))+related('Verder lezen',P['related'])
     clean=re.sub(r'(^|/)index$',r'\1',path.replace('.html',''))
@@ -214,7 +214,7 @@ def art2(aside_title, aside_items, sections, cta_label, flow='hulp'):
     secs=''.join(f'<h2>{H(h)}</h2>'+''.join(para(p) for p in ps) for h,ps in sections)
     lis=''.join(f'<li>{H(i)}</li>' for i in aside_items)
     return f'''<section class="art wrap">
-  <aside class="art__aside"><div class="art__card"><p class="eyebrow" style="color:var(--muted)">{H(aside_title)}</p><ul>{lis}</ul>{'<a class="btn btn--zon" href="#formulier">Vraag vrijblijvend info <span class="arr">&rarr;</span></a><a class="art__alt" href="boeken.html">of boek meteen online</a>' if flow=='hulp' else '<a class="btn btn--zon" href="#formulier" data-chat="'+flow+'">'+H(cta_label)+' <span class="arr">&rarr;</span></a>'}</div></aside>
+  <aside class="art__aside"><div class="art__card"><p class="eyebrow" style="color:var(--muted)">{H(aside_title)}</p><ul>{lis}</ul>{'<a class="btn btn--zon" href="#formulier">Vraag vrijblijvend info <span class="arr">&rarr;</span></a><a class="art__alt" href="boeken.html">of vraag meteen aan</a>' if flow=='hulp' else '<a class="btn btn--zon" href="#formulier" data-chat="'+flow+'">'+H(cta_label)+' <span class="arr">&rarr;</span></a>'}</div></aside>
   <div class="art__body">{secs}</div>
 </section>
 '''
@@ -341,13 +341,13 @@ for idx,(path,(P,C)) in enumerate(CONTENT.items()):
                  "industry":"Zakelijke dienstverlening","directApply":True}
     else:  # vraag
         img=pick(path,NEUTRAL_IMG)
-        rel=[(Q['h1'],Q['path']) for Q in siblings(P,5)]+[('Voor bedrijven','bedrijven/'),('Online boeken','boeken.html')]
+        rel=[(Q['h1'],Q['path']) for Q in siblings(P,5)]+[('Voor bedrijven','bedrijven/'),('Aanvraag voor bedrijven','boeken.html')]
         crumbs_items=[('Home',''),('Vragen van bedrijven','vragen/'),(P['h1'],path[:-5])]
         ld_main={"@context":"https://schema.org","@type":"Article","headline":P['h1'][:110],"description":C['lead'],"inLanguage":"nl-BE",
                  "datePublished":TODAY,"dateModified":TODAY,"mainEntityOfPage":BASE+path[:-5],
                  "author":{"@id":BASE+"#org"},"publisher":{"@id":BASE+"#org"},"about":{"@type":"Thing","name":"Poetshulp en hulp voor bedrijven"}}
     isk=kind=='kandidaat'
-    body=(phero(C['eyebrow'],P['h1'],C['lead'])+art2('In het kort',C['facts'],secs,'Solliciteer als Zondag' if isk else 'Boek je Zondag online','werk' if isk else 'hulp')+extra_html
+    body=(phero(C['eyebrow'],P['h1'],C['lead'])+art2('In het kort',C['facts'],secs,'Solliciteer als Zondag' if isk else 'Vraag je Zondag aan','werk' if isk else 'hulp')+extra_html
           +photo(img,'',path)+erv+faq_html([(q,plain(a)) for q,a in faq]).replace('Goed om <em class="s">te weten.</em>','Vragen en <em class="s">antwoorden.</em>')
           +(form_job(path,gemeente) if isk else form_b2b(path,gemeente))+related('Verder lezen',rel[:10]))
     ld=[crumbs(crumbs_items),faqld([(q,plain(a)) for q,a in faq]),ld_main]

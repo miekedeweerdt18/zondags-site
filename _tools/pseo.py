@@ -7,7 +7,25 @@ from jevorm import convert_html
 from premium import pband_html, deprice_html
 from premium_regio import finalize_html, label as regio_label  # premium: geen prijzen in head/JSON-LD, 'regio X' i.p.v. 'in X'
 
-TODAY=datetime.date.today().isoformat()
+# PSEO_TODAY=JJJJ-MM-DD om een andere bouwdatum te simuleren (test van de stabiele datums hieronder)
+_TODAY_D=datetime.date.fromisoformat(os.environ['PSEO_TODAY']) if os.environ.get('PSEO_TODAY') else datetime.date.today()
+TODAY=_TODAY_D.isoformat()
+
+# Stabiele datums (23/10/2026): een pagina die inhoudelijk niet veranderde, wordt niet herschreven, zodat
+# datePosted/validThrough/datePublished/dateModified en de sitemap-lastmod hun oude waarde houden.
+# Vacatures (datePosted) worden wel ververst zodra ze ouder zijn dan REFRESH_DAYS, zodat validThrough
+# (bouwdatum + 90 dagen) nooit verloopt zolang er minstens maandelijks gebouwd wordt.
+REFRESH_DAYS=30
+_DATE_RX=re.compile(r'("(?:datePosted|validThrough|datePublished|dateModified)":\s*")(\d{4}-\d{2}-\d{2})(")')
+CHANGED=set()
+def stable_write(path, content):
+    if os.path.exists(path):
+        old=open(path,encoding='utf-8').read()
+        if _DATE_RX.sub(r'\1D\3',old)==_DATE_RX.sub(r'\1D\3',content):
+            posted=[datetime.date.fromisoformat(m.group(2)) for m in _DATE_RX.finditer(old) if 'datePosted' in m.group(1)]
+            if not posted or (_TODAY_D-min(posted)).days<REFRESH_DAYS:
+                return False
+    open(path,'w').write(content); CHANGED.add(os.path.normpath(path)); return True
 BASE='https://zondags.be/'
 SHELL=open('aanvraag.html').read()
 HEAD=SHELL[:SHELL.index('<main>')]
@@ -146,7 +164,7 @@ pages=[]   # (path, title, wordcount, group)
 def write(path, content, title, group):
     os.makedirs(os.path.dirname(path) or '.', exist_ok=True)
     content=finalize_html(convert_html(content),path)  # premium: geen bedragen, 'regio X' (premium_regio.py)
-    open(path,'w').write(content)
+    stable_write(path,content)
     m=re.search(r'<main>(.*)</main>',content,re.S)
     pages.append((path,title,words(m.group(1)),group))
 
@@ -344,7 +362,7 @@ def hub_page(folder, eyebrow, h1, lead, intro, blocks, faq, job=False):
     body=phero(eyebrow,h1,lead)+f'<section class="art wrap"><div class="art__body" style="grid-column:1/-1">'+''.join(f'<p>{p}</p>' for p in intro)+'</div></section>\n'+secs+faq_html(faq)+(form_job(folder+'/') if job else form_b2b(folder+'/'))
     ld=[crumbs([('Home',''),(h1,folder+'/')]),faqld(faq),{"@context":"https://schema.org","@type":"CollectionPage","name":h1,"description":lead,"url":BASE+folder+'/',"inLanguage":"nl-BE","about":{"@id":BASE+"#org"}}]
     pg=shell(1,folder+'/index.html',f'{h1} | Zondags',lead[:158],body,ld)
-    os.makedirs(folder,exist_ok=True); open(f'{folder}/index.html','w').write(finalize_html(convert_html(pg),f'{folder}/index.html'))
+    os.makedirs(folder,exist_ok=True); stable_write(f'{folder}/index.html',finalize_html(convert_html(pg),f'{folder}/index.html'))
 NEW_HUBS=[]
 if CONTENT:
     by=lambda kind:[(Q['h1'],Q['path']) for Q in CPLAN if Q['kind']==kind and cexists(Q['path'])]
@@ -414,7 +432,14 @@ for old,target in REDIR.items(): stub(old,target)
 core=['','wat-we-doen','hoe-het-werkt','boeken','zondag-worden','aanvraag']+NEW_HUBS
 # keuze A (20/10/2026): de jobpagina's per gemeente (werken/<job>-<gemeente>) staan op noindex, follow en niet in de sitemap
 allu=core+[re.sub(r'(^|/)index$',r'\1',p[0].replace('.html','')) for p in pages if p[3]!='werken']
-open('sitemap.xml','w').write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join(f'  <url><loc>{BASE}{u}</loc><lastmod>{TODAY}</lastmod></url>\n' for u in allu)+'</urlset>\n')
+# lastmod: oude waarde behouden tenzij de pagina in deze run herschreven werd (of nieuw is)
+_oldlm=dict(re.findall(r'<loc>([^<]*)</loc><lastmod>([^<]*)</lastmod>',open('sitemap.xml').read())) if os.path.exists('sitemap.xml') else {}
+_u2f={re.sub(r'(^|/)index$',r'\1',p[0].replace('.html','')):os.path.normpath(p[0]) for p in pages}
+def _lm(u):
+    if u in _u2f and _u2f[u] in CHANGED: return TODAY
+    return _oldlm.get(BASE+u,TODAY)
+open('sitemap.xml','w').write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join(f'  <url><loc>{BASE}{u}</loc><lastmod>{_lm(u)}</lastmod></url>\n' for u in allu)+'</urlset>\n')
+print('herschreven:',len(CHANGED))
 json.dump([{'path':p[0],'title':p[1],'words':p[2],'group':p[3]} for p in pages],open('_tools/pages.json','w'),ensure_ascii=False,indent=0)
 wc=[p[2] for p in pages]
 print("pagina's:",len(pages),'min woorden:',min(wc),'gem:',sum(wc)//len(wc),'stubs:',len(REDIR))

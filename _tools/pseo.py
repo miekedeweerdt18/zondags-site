@@ -4,7 +4,7 @@ hubpagina's, redirect-stubs voor verwijderde pagina's en de sitemap.
 Gebruik (vanuit de repo-root): PYTHONPATH=_tools python3 _tools/pseo.py"""
 import re, json, html, hashlib, os, datetime
 from jevorm import convert_html
-from premium import pband_html
+from premium import pband_html, deprice_html
 
 TODAY=datetime.date.today().isoformat()
 BASE='https://zondags.be/'
@@ -143,7 +143,7 @@ def slug(s): return re.sub(r'[^a-z0-9]+','-',s.lower().replace('é','e').replace
 pages=[]   # (path, title, wordcount, group)
 def write(path, content, title, group):
     os.makedirs(os.path.dirname(path) or '.', exist_ok=True)
-    content=convert_html(content)
+    content=deprice_html(convert_html(content))  # premium: geen bedragen in zichtbare tekst
     open(path,'w').write(content)
     m=re.search(r'<main>(.*)</main>',content,re.S)
     pages.append((path,title,words(m.group(1)),group))
@@ -342,7 +342,7 @@ def hub_page(folder, eyebrow, h1, lead, intro, blocks, faq, job=False):
     body=phero(eyebrow,h1,lead)+f'<section class="art wrap"><div class="art__body" style="grid-column:1/-1">'+''.join(f'<p>{p}</p>' for p in intro)+'</div></section>\n'+secs+faq_html(faq)+(form_job(folder+'/') if job else form_b2b(folder+'/'))
     ld=[crumbs([('Home',''),(h1,folder+'/')]),faqld(faq),{"@context":"https://schema.org","@type":"CollectionPage","name":h1,"description":lead,"url":BASE+folder+'/',"inLanguage":"nl-BE","about":{"@id":BASE+"#org"}}]
     pg=shell(1,folder+'/index.html',f'{h1} | Zondags',lead[:158],body,ld)
-    os.makedirs(folder,exist_ok=True); open(f'{folder}/index.html','w').write(convert_html(pg))
+    os.makedirs(folder,exist_ok=True); open(f'{folder}/index.html','w').write(deprice_html(convert_html(pg)))
 NEW_HUBS=[]
 if CONTENT:
     by=lambda kind:[(Q['h1'],Q['path']) for Q in CPLAN if Q['kind']==kind and cexists(Q['path'])]

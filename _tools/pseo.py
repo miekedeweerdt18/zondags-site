@@ -4,8 +4,9 @@ hubpagina's, redirect-stubs voor verwijderde pagina's en de sitemap.
 Gebruik (vanuit de repo-root): PYTHONPATH=_tools python3 _tools/pseo.py"""
 import re, json, html, hashlib, os, datetime
 from jevorm import convert_html
-from premium import pband_html, deprice_html
+from premium import pband_html, deprice_html, PB
 from premium_regio import finalize_html, label as regio_label  # premium: geen prijzen in head/JSON-LD, 'regio X' i.p.v. 'in X'
+from premium_b2b import b2b_html, gain_html, audience, PHERO_CTA  # B2B-focus: CTA naar aanvraag.html, voordelen per doelgroep
 
 # PSEO_TODAY=JJJJ-MM-DD om een andere bouwdatum te simuleren (test van de stabiele datums hieronder)
 _TODAY_D=datetime.date.fromisoformat(os.environ['PSEO_TODAY']) if os.environ.get('PSEO_TODAY') else datetime.date.today()
@@ -66,20 +67,20 @@ def faqld(faq):
 def faq_html(faq):
     return '<section class="faq wrap"><div class="faq__head"><p class="eyebrow" style="color:var(--muted)">Veelgestelde vragen</p><h2 style="margin-top:18px">Goed om <em class="s">te weten.</em></h2></div><div class="faq__list">'+''.join(f'<details class="qa"><summary>{H(q)}<span aria-hidden="true">+</span></summary><p>{H(a)}</p></details>' for q,a in faq)+'</div></section>\n'
 
-def phero(eyebrow,title,lead,dark=False):
+def phero(eyebrow,title,lead,dark=False,cta=False):
     title=regio_label(title)  # vóór de split over twee regels
     w=title.split(); k=max(1,len(w)//2)
     l1,l2=' '.join(w[:k]),' '.join(w[k:])
     return f'''<section class="phero{' phero--dark' if dark else ''}">
   <div><p class="eyebrow">{H(eyebrow)}</p><h1 data-split><span class="line">{H(l1)}</span><span class="line"><em class="s">{H(l2)}</em></span></h1></div>
-  <p>{H(lead)}</p>
+  {'<div class="phero__side"><p>'+H(lead)+'</p>'+PHERO_CTA+'</div>' if cta else '<p>'+H(lead)+'</p>'}
 </section>
 '''
 
 def article(aside_title, aside_items, sections, cta_href, cta_label):
     secs=''.join(f'<h2>{H(h)}</h2>'+''.join(p if p.lstrip().startswith('<ul') else f'<p>{p}</p>' for p in (ps if isinstance(ps,list) else [ps])) for h,ps in sections)
     lis=''.join(f'<li>{H(i)}</li>' for i in aside_items)
-    cta=(f'<a class="btn btn--zon" href="#formulier">Vraag vrijblijvend info <span class="arr">&rarr;</span></a><a class="art__alt" href="boeken.html">of vraag meteen aan</a>'
+    cta=(f'<a class="btn btn--zon" href="aanvraag.html">Vraag vrijblijvend info <span class="arr">&rarr;</span></a><a class="art__alt" href="#formulier">of laat hier je nummer achter</a>'
          if cta_href=='boeken.html' else f'<a class="btn btn--zon" href="{cta_href}">{H(cta_label)} <span class="arr">&rarr;</span></a>')
     return f'''<section class="art wrap">
   <aside class="art__aside"><div class="art__card"><p class="eyebrow" style="color:var(--muted)">{H(aside_title)}</p><ul>{lis}</ul>{cta}</div></aside>
@@ -91,6 +92,10 @@ IMG_ALT={'01-poetsen':'Een Zondag houdt een lichte ruimte met planten netjes bij
          '10-boodschappen':'Boodschappen in papieren zakken, klaar om weg te zetten'}
 def photo(img, alt='', path=''):
     # premium beelden (zie _tools/premium.py); de oude sleutel stuurt enkel de keuze bij
+    # B2B-focus: pagina's voor artsen en praktijken krijgen altijd het beeld van de wachtzaal
+    p=path.replace('\\','/')
+    if not p.startswith(('werken/','jobs/')) and 'administra' not in p and audience(p)=='artsen':
+        return pband_html(path, '').replace(PB['tafel'][0], PB['praktijk'][0]).replace(PB['tafel'][1], PB['praktijk'][1])
     return pband_html(path, img)
 
 QFORM_LEFT='''<div><p class="eyebrow" style="color:var(--muted)">Vrijblijvend info</p><h2>Vraag je <em class="s">Zondag aan.</em></h2><p>Laat je naam, je bedrijf en je gsm achter. Binnen één werkdag bellen we je terug om te bespreken wat je Zondag voor je zaak kan doen.</p><p class="qform__tel">Liever meteen iemand spreken? <a href="https://wa.me/32470565358">0470 56 53 58</a>, elke dag van 6 tot 22 uur.</p></div>'''
@@ -163,7 +168,7 @@ def slug(s): return re.sub(r'[^a-z0-9]+','-',s.lower().replace('é','e').replace
 pages=[]   # (path, title, wordcount, group)
 def write(path, content, title, group):
     os.makedirs(os.path.dirname(path) or '.', exist_ok=True)
-    content=finalize_html(convert_html(content),path)  # premium: geen bedragen, 'regio X' (premium_regio.py)
+    content=finalize_html(convert_html(b2b_html(content)),path)  # premium: geen bedragen, 'regio X' (premium_regio.py)
     stable_write(path,content)
     m=re.search(r'<main>(.*)</main>',content,re.S)
     pages.append((path,title,words(m.group(1)),group))
@@ -189,7 +194,7 @@ for P in PILLARS:
     elif kind=='b2b' and not has_fisc: secs+=[FISC]
     art=article('In het kort',P['facts'],secs,'boeken.html' if kind!='job' else '#formulier','Vraag je Zondag aan' if kind!='job' else 'Meld je aan via de chat')
     if kind=='job': art=art.replace('class="btn btn--zon" href="#formulier"','class="btn btn--zon" href="#formulier" data-chat="%s"'%flow,1)
-    body=phero(P['eyebrow'],P['h1'],P['lead'])+art+photo(P['img'],'',path)+faq_html(P['faq'])+(form_job(path) if kind=='job' else form_b2b(path))+related('Verder lezen',P['related'])
+    body=phero(P['eyebrow'],P['h1'],P['lead'],cta=kind=='b2b')+art+(gain_html(audience(path)) if kind=='b2b' else '')+photo(P['img'],'',path)+faq_html(P['faq'])+(form_job(path) if kind=='job' else form_b2b(path))+related('Verder lezen',P['related'])
     clean=re.sub(r'(^|/)index$',r'\1',path.replace('.html',''))
     if kind=='job':
         cr=crumbs([('Home',''),('Werken bij Zondags','werken/'),(P['h1'],clean)])
@@ -214,7 +219,7 @@ def art2(aside_title, aside_items, sections, cta_label, flow='hulp'):
     secs=''.join(f'<h2>{H(h)}</h2>'+''.join(para(p) for p in ps) for h,ps in sections)
     lis=''.join(f'<li>{H(i)}</li>' for i in aside_items)
     return f'''<section class="art wrap">
-  <aside class="art__aside"><div class="art__card"><p class="eyebrow" style="color:var(--muted)">{H(aside_title)}</p><ul>{lis}</ul>{'<a class="btn btn--zon" href="#formulier">Vraag vrijblijvend info <span class="arr">&rarr;</span></a><a class="art__alt" href="boeken.html">of vraag meteen aan</a>' if flow=='hulp' else '<a class="btn btn--zon" href="#formulier" data-chat="'+flow+'">'+H(cta_label)+' <span class="arr">&rarr;</span></a>'}</div></aside>
+  <aside class="art__aside"><div class="art__card"><p class="eyebrow" style="color:var(--muted)">{H(aside_title)}</p><ul>{lis}</ul>{'<a class="btn btn--zon" href="aanvraag.html">Vraag vrijblijvend info <span class="arr">&rarr;</span></a><a class="art__alt" href="#formulier">of laat hier je nummer achter</a>' if flow=='hulp' else '<a class="btn btn--zon" href="#formulier" data-chat="'+flow+'">'+H(cta_label)+' <span class="arr">&rarr;</span></a>'}</div></aside>
   <div class="art__body">{secs}</div>
 </section>
 '''
@@ -347,7 +352,7 @@ for idx,(path,(P,C)) in enumerate(CONTENT.items()):
                  "datePublished":TODAY,"dateModified":TODAY,"mainEntityOfPage":BASE+path[:-5],
                  "author":{"@id":BASE+"#org"},"publisher":{"@id":BASE+"#org"},"about":{"@type":"Thing","name":"Poetshulp en hulp voor bedrijven"}}
     isk=kind=='kandidaat'
-    body=(phero(C['eyebrow'],P['h1'],C['lead'])+art2('In het kort',C['facts'],secs,'Solliciteer als Zondag' if isk else 'Vraag je Zondag aan','werk' if isk else 'hulp')+extra_html
+    body=(phero(C['eyebrow'],P['h1'],C['lead'],cta=not isk)+art2('In het kort',C['facts'],secs,'Solliciteer als Zondag' if isk else 'Vraag je Zondag aan','werk' if isk else 'hulp')+('' if isk else gain_html(audience(path,P)))+extra_html
           +photo(img,'',path)+erv+faq_html([(q,plain(a)) for q,a in faq]).replace('Goed om <em class="s">te weten.</em>','Vragen en <em class="s">antwoorden.</em>')
           +(form_job(path,gemeente) if isk else form_b2b(path,gemeente))+related('Verder lezen',rel[:10]))
     ld=[crumbs(crumbs_items),faqld([(q,plain(a)) for q,a in faq]),ld_main]
@@ -359,10 +364,10 @@ def hub_list(items):
     return '<div class="rel__grid rel__grid--hub">'+''.join(f'<a class="rel__a" href="{u}">{H(t)}<span aria-hidden="true">&rarr;</span></a>' for t,u in items)+'</div>'
 def hub_page(folder, eyebrow, h1, lead, intro, blocks, faq, job=False):
     secs=''.join(f'<section class="rel wrap" style="padding-top:0"><p class="eyebrow" style="color:var(--muted)">{H(t)}</p>{hub_list(items)}</section>\n' for t,items in blocks if items)
-    body=phero(eyebrow,h1,lead)+f'<section class="art wrap"><div class="art__body" style="grid-column:1/-1">'+''.join(f'<p>{p}</p>' for p in intro)+'</div></section>\n'+secs+faq_html(faq)+(form_job(folder+'/') if job else form_b2b(folder+'/'))
+    body=phero(eyebrow,h1,lead,cta=not job)+f'<section class="art wrap"><div class="art__body" style="grid-column:1/-1">'+''.join(f'<p>{p}</p>' for p in intro)+'</div></section>\n'+secs+('' if job else gain_html('alle'))+faq_html(faq)+(form_job(folder+'/') if job else form_b2b(folder+'/'))
     ld=[crumbs([('Home',''),(h1,folder+'/')]),faqld(faq),{"@context":"https://schema.org","@type":"CollectionPage","name":h1,"description":lead,"url":BASE+folder+'/',"inLanguage":"nl-BE","about":{"@id":BASE+"#org"}}]
     pg=shell(1,folder+'/index.html',f'{h1} | Zondags',lead[:158],body,ld)
-    os.makedirs(folder,exist_ok=True); stable_write(f'{folder}/index.html',finalize_html(convert_html(pg),f'{folder}/index.html'))
+    os.makedirs(folder,exist_ok=True); stable_write(f'{folder}/index.html',finalize_html(convert_html(b2b_html(pg)),f'{folder}/index.html'))
 NEW_HUBS=[]
 if CONTENT:
     by=lambda kind:[(Q['h1'],Q['path']) for Q in CPLAN if Q['kind']==kind and cexists(Q['path'])]

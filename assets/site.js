@@ -4,6 +4,9 @@
   const LIVE=/(^|\.)zondags\.be$/.test(location.hostname);
   if(/\/boeken(\.html)?\/?$/.test(location.pathname)) document.documentElement.classList.add('pg-boeken');
 
+  /* B2B-focus: buiten de jobpagina's geen sollicitanten-pil in de chat-teaser (zie .zd-b2b in site.css) */
+  if(!/\/(jobs|zondag-worden|studentenjob|flexi|werken)/.test(location.pathname)) document.documentElement.classList.add('zd-b2b');
+
   /* Mobiel menu */
   const burger=$('.burger');
   if(burger) burger.addEventListener('click',()=>{const o=document.body.classList.toggle('menu-open');burger.setAttribute('aria-expanded',o);});
@@ -150,4 +153,8 @@
   const els=$$('main section h2, main .lrow, main .aud__c, main .qa, main .next li, main .art__body > h2, main .pband, main .open, main .erv__item, main .card, main .steps .step');
   const io=new IntersectionObserver(es=>es.forEach(en=>{if(en.isIntersecting){en.target.classList.add('in');io.unobserve(en.target);}}),{rootMargin:'0px 0px -8% 0px'});
   els.forEach(el=>{if(el.getBoundingClientRect().top>innerHeight){el.classList.add('fx');io.observe(el);}});
+  /* Fallback: .fx wordt altijd zichtbaar, ook als de observer niet vuurt (afdrukken, schermopnames van de volledige pagina) */
+  const showAll=()=>$$('.fx').forEach(el=>{el.classList.add('in');io.unobserve(el);});
+  addEventListener('beforeprint',showAll);
+  setTimeout(showAll,2500);
 })();

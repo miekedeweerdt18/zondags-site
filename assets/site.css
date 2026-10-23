@@ -451,3 +451,45 @@ html.form-in-view .zc-teaser,html.form-in-view .zc-teaser.is-on{opacity:0!import
 
 /* /boeken is zelf het aanvraagformulier: op mobiel geen chat-teaser die over de inhoud schuift (klasse pg-boeken via site.js; :has als vangnet) */
 @media (max-width:560px){html.pg-boeken .zc-teaser,body:has(input[name="Pagina"][value="boeken.html"]) .zc-teaser{display:none!important}}
+/* ---- B2B-focus (23/10/2026) ---- */
+.zd-b2b .zc-pill--w{display:none!important}
+@media print{.fx{opacity:1!important;transform:none!important}}
+/* Doelgroepen met beeld */
+.aud--img .aud__c{padding:0;overflow:hidden;gap:0}
+.aud__img{display:block;aspect-ratio:16/9;overflow:hidden;background:var(--stone)}
+.aud__img img{width:100%;height:100%;object-fit:cover;display:block;transition:transform 1.2s var(--ease)}
+.aud__c:hover .aud__img img{transform:scale(1.03)}
+.aud__c--art .aud__img img{object-position:50% 30%}
+.aud__txt{display:flex;flex-direction:column;gap:14px;padding:clamp(26px,3vw,44px);flex:1}
+.aud__txt .eyebrow{color:var(--muted)}
+/* Waarom Zondags */
+.trust{padding-block:var(--sec);display:grid;grid-template-columns:.8fr 1.2fr;gap:clamp(32px,6vw,100px);align-items:start}
+.trust h2{font-size:clamp(38px,4.4vw,64px)}
+.trust__list{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,1fr);border-top:1px solid var(--line-strong)}
+.trust__list li{padding:24px 24px 26px 0;border-bottom:1px solid var(--line-strong)}
+.trust__list b{display:block;font:400 clamp(21px,1.8vw,25px)/1.2 var(--f-serif);margin-bottom:8px}
+.trust__list span{display:block;font-size:15px;color:var(--muted);max-width:36ch}
+@media (max-width:900px){.trust{grid-template-columns:1fr}}
+@media (max-width:560px){.trust__list{grid-template-columns:1fr}.trust__list li{padding-right:0}}
+/* Voordelen per doelgroep */
+.gain{padding-block:var(--sec) 0;display:grid;grid-template-columns:.8fr 1.2fr;gap:clamp(32px,6vw,100px);align-items:start}
+.gain h2{font-size:clamp(34px,3.8vw,56px);margin-top:18px}
+.gain__head .eyebrow{color:var(--muted)}
+.gain__head p:not(.eyebrow){margin-top:20px;max-width:40ch;color:#33403A}
+.gain__head .btn{margin-top:28px}
+.gain__list{list-style:none;margin:0;padding:0;border-top:1px solid var(--line-strong)}
+.gain__list li{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);gap:12px 32px;padding:22px 0;border-bottom:1px solid var(--line-strong)}
+.gain__list b{font:400 clamp(20px,1.7vw,24px)/1.25 var(--f-serif)}
+.gain__list span{font-size:15.5px;color:#3A443F}
+@media (max-width:900px){.gain{grid-template-columns:1fr}}
+@media (max-width:600px){.gain__list li{grid-template-columns:1fr}}
+/* CTA in de paginakop */
+.phero__side{display:flex;flex-direction:column;gap:24px;align-items:flex-start}
+.phero__cta{display:flex;flex-wrap:wrap;align-items:center;gap:10px 18px}
+.phero__cta a:not(.btn){font-size:15px;color:var(--ink);text-decoration:underline;text-decoration-color:var(--geel);text-underline-offset:4px}
+.phero--dark .phero__cta a:not(.btn){color:var(--paper)}
+.phero--dark .phero__cta .btn--zon{background:var(--paper);color:var(--ink);border-color:var(--paper)}
+.open__img::after{background:linear-gradient(180deg,rgba(24,34,30,0) 25%,rgba(24,34,30,.5) 62%,rgba(24,34,30,.82))}
+.open__txt p{color:rgba(245,242,234,.94)}
+.phero p a.btn,.art__body a.btn--zon,.price a.btn--zon,.def a.btn--zon,.faq a.btn--zon{color:var(--paper);text-decoration:none}
+.phero.phero--dark p a.btn--zon{color:var(--ink)}

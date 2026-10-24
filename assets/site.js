@@ -46,10 +46,14 @@
     if(!LIVE){e.preventDefault();f.innerHTML='<p class="thanks">Dank je. We nemen snel contact op.</p>';}
   }));
 
+  /* Keuzelijst met data-other (Waarvoor?): bij 'Iets anders' verschijnt het tekstveld met die naam */
+  $$('select[data-other]').forEach(s=>{const o=s.form&&s.form.querySelector('[name="'+s.dataset.other+'"]'),w=o&&o.closest('.f');if(!w)return;const t=e=>{const on=s.value==='Iets anders';w.hidden=!on;if(on&&e)o.focus();};s.addEventListener('change',t);t();});
+
   /* Aangevinkte keuzes samenvoegen tot één veld (leesbaar in de mail) */
   $$('form[action*="formsubmit"]').forEach(f=>f.addEventListener('submit',e=>{
     if(e.defaultPrevented) return;
     const groups={};
+    f.querySelectorAll('select[data-other]').forEach(s=>{const o=f.querySelector('[name="'+s.dataset.other+'"]');if(o&&s.value!=='Iets anders')o.value='';});
     f.querySelectorAll('input[type=checkbox][data-group]').forEach(c=>{(groups[c.dataset.group]=groups[c.dataset.group]||[]);const o=c.dataset.other?f.querySelector('[name="'+c.dataset.other+'"]'):null;if(o&&!c.checked)o.value='';if(c.checked)groups[c.dataset.group].push(o&&o.value.trim()?c.value+': '+o.value.trim():c.value);});
     Object.entries(groups).forEach(([k,v])=>{let h=f.querySelector('input[type=hidden][name="'+k+'"]');if(!h){h=document.createElement('input');h.type='hidden';h.name=k;f.appendChild(h);}h.value=v.join(', ')||'niets aangeduid';});
   }));
@@ -136,6 +140,7 @@
       iets_anders:g(['Iets anders']),vraag:g(['Bericht','bericht','motivatie']),pagina:location.href.split('#')[0],bron:SRC?SRC.bron:'Direct',kanaal:SRC?SRC.kanaal:'Direct',campagne:SRC?SRC.campagne:'',verwijzer:SRC?SRC.verwijzer:'',eerste_bezoek:SRC?SRC.datum:'',eerste_pagina:SRC?SRC.landing:'',
       tijdstip:new Date().toLocaleString('nl-BE',{timeZone:'Europe/Brussels'}),
       wa_link:tel?'https://wa.me/'+waNum(tel)+'?text='+encodeURIComponent('Hallo '+naam.split(' ')[0]+', met Mieke van Zondags. Bedankt voor je aanvraag via onze website.'):''};
+    if(p.iets_anders&&p.wat==='Iets anders')p.wat='Iets anders: '+p.iets_anders;
     /* Sollicitaties: altijd naar Make (ook zonder telefoon), source=zondags-kandidaat: rij in de kandidatensheet + bevestigingsmail. Geen geboortedatum of andere gevoelige gegevens. */
     if(kand){
       const leeg=v=>/^(kies je statuut|maak een keuze|niets aangeduid)$/i.test(v)?'':v;

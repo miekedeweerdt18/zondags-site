@@ -278,6 +278,8 @@ fieldset.f{border:0;margin:0;padding:0}
 .chips .chips__other label{display:block;min-height:0;padding:0;border:0;border-radius:0;background:none;cursor:default;font:500 14px var(--f-body)}
 .chips .chips__other input{position:static;opacity:1;pointer-events:auto;width:100%;height:auto}
 @media (max-width:520px){.chips--list{grid-template-columns:1fr}}
+/* Waarvoor-keuzelijst: veld Iets anders blijft verborgen tot die optie gekozen is (site.js zet hidden) */
+.f[hidden]{display:none}
 .form__foot{margin-top:24px;display:flex;flex-wrap:wrap;gap:16px;align-items:center;justify-content:space-between}
 .form__foot p{font-size:13px;color:var(--muted);max-width:36ch}
 .form__alt{margin:16px 0 0;font-size:14px;color:var(--muted)}

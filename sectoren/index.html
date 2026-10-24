@@ -65,7 +65,8 @@
       <div class="f"><label for="q-naam">Naam *</label><input id="q-naam" name="Naam" autocomplete="name" required></div>
       <div class="f"><label for="q-bedrijf">Bedrijf *</label><input id="q-bedrijf" name="Bedrijf" autocomplete="organization" required></div>
       <div class="f"><label for="q-gsm">GSM *</label><input id="q-gsm" name="GSM" type="tel" inputmode="tel" autocomplete="tel" required></div>
-      <div class="f"><label for="q-wat">Waarvoor? *</label><select id="q-wat" name="Taken" required><option value="">Maak een keuze</option><option>Poetsen van kantoor, praktijk of winkel</option><option>Administratie en post</option><option>Boodschappen en regelwerk</option><option>Een rechterhand voor mij</option><option>Weet ik nog niet</option></select></div>
+      <div class="f"><label for="q-wat">Waarvoor? *</label><select id="q-wat" name="Taken" data-other="Iets anders" required><option value="">Maak een keuze</option><option>Kantoor of praktijk poetsen</option><option>Poetsen thuis</option><option>Strijken en was</option><option>Koken en maaltijden voor de week</option><option>Boodschappen, droogkuis en regelwerk</option><option>Administratie en post</option><option>Tuin en terras</option><option>Huisoppas tijdens vakantie</option><option>Een vaste rechterhand</option><option>Iets anders</option></select></div>
+      <div class="f f--full" hidden><label for="q-anders">Wat heb je nodig?</label><input id="q-anders" name="Iets anders" autocomplete="off"></div>
     </div>
     <p class="err" data-err hidden>Vul je naam, je bedrijf en je gsm-nummer in en kies waarvoor.</p>
     <div class="form__foot"><p>Vrijblijvend. We gebruiken je gegevens enkel om je terug te bellen.</p><button class="btn btn--zon" type="submit">Bel mij terug <span class="arr">&rarr;</span></button></div>

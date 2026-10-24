@@ -99,7 +99,7 @@ def photo(img, alt='', path=''):
     return pband_html(path, img)
 
 QFORM_LEFT='''<div><p class="eyebrow" style="color:var(--muted)">Vrijblijvend info</p><h2>Vraag je <em class="s">Zondag aan.</em></h2><p>Laat je naam, je bedrijf en je gsm achter. Binnen één werkdag bellen we je terug om te bespreken wat je Zondag voor je zaak kan doen.</p><p class="qform__tel">Liever meteen iemand spreken? <a href="https://wa.me/32470565358">0470 56 53 58</a>, elke dag van 6 tot 22 uur.</p></div>'''
-TAKEN=['Poetsen van kantoor, praktijk of winkel','Administratie en post','Boodschappen en regelwerk','Een rechterhand voor mij','Weet ik nog niet']
+TAKEN=['Kantoor of praktijk poetsen', 'Poetsen thuis', 'Strijken en was', 'Koken en maaltijden voor de week', 'Boodschappen, droogkuis en regelwerk', 'Administratie en post', 'Tuin en terras', 'Huisoppas tijdens vakantie', 'Een vaste rechterhand', 'Iets anders']  # 24/10: opties van Mieke; 'Iets anders' toont het veld q-anders (site.js)
 def form_b2b(source, gemeente='', taken=None):
     opts=''.join(f'<option>{H(t)}</option>' for t in (taken or TAKEN))
     gem=f'<input type="hidden" name="Gemeente" value="{H(gemeente)}">' if gemeente else ''
@@ -114,7 +114,8 @@ def form_b2b(source, gemeente='', taken=None):
       <div class="f"><label for="q-naam">Naam *</label><input id="q-naam" name="Naam" autocomplete="name" required></div>
       <div class="f"><label for="q-bedrijf">Bedrijf *</label><input id="q-bedrijf" name="Bedrijf" autocomplete="organization" required></div>
       <div class="f"><label for="q-gsm">GSM *</label><input id="q-gsm" name="GSM" type="tel" inputmode="tel" autocomplete="tel" required></div>
-      <div class="f"><label for="q-wat">Waarvoor? *</label><select id="q-wat" name="Taken" required><option value="">Maak een keuze</option>{opts}</select></div>
+      <div class="f"><label for="q-wat">Waarvoor? *</label><select id="q-wat" name="Taken" data-other="Iets anders" required><option value="">Maak een keuze</option>{opts}</select></div>
+      <div class="f f--full" hidden><label for="q-anders">Wat heb je nodig?</label><input id="q-anders" name="Iets anders" autocomplete="off"></div>
     </div>
     <p class="err" data-err hidden>Vul je naam, je bedrijf en je gsm-nummer in en kies waarvoor.</p>
     <div class="form__foot"><p>Vrijblijvend. We gebruiken je gegevens enkel om je terug te bellen.</p><button class="btn btn--zon" type="submit">Bel mij terug <span class="arr">&rarr;</span></button></div>

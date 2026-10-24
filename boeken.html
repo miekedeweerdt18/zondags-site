@@ -63,11 +63,18 @@
       <div class="f"><label for="b-gem">Gemeente *</label><input id="b-gem" name="Gemeente" autocomplete="address-level2" required></div>
       <div class="f"><label for="b-start">Gewenste start</label><select id="b-start" name="Gewenste start"><option>Zo snel mogelijk</option><option>Binnen twee weken</option><option>Binnen de maand</option><option>Later, eerst info</option></select></div>
       <fieldset class="f f--full"><legend>Welke hulp heb je nodig? (meerdere mogelijk)</legend>
-        <div class="chips">
-          <input type="checkbox" id="bt1" data-group="Taken" value="Poetsen van kantoor, praktijk of winkel" checked><label for="bt1">Poetsen</label>
-          <input type="checkbox" id="bt2" data-group="Taken" value="Administratie en post"><label for="bt2">Administratie en post</label>
-          <input type="checkbox" id="bt3" data-group="Taken" value="Boodschappen en regelwerk"><label for="bt3">Boodschappen en regelwerk</label>
-          <input type="checkbox" id="bt4" data-group="Taken" value="Een rechterhand voor mij"><label for="bt4">Een rechterhand</label>
+        <div class="chips chips--list">
+          <input type="checkbox" id="bt1" data-group="Taken" value="Kantoor of praktijk poetsen" checked><label for="bt1">Kantoor of praktijk poetsen</label>
+          <input type="checkbox" id="bt2" data-group="Taken" value="Poetsen thuis"><label for="bt2">Poetsen thuis</label>
+          <input type="checkbox" id="bt3" data-group="Taken" value="Strijken en was"><label for="bt3">Strijken en was</label>
+          <input type="checkbox" id="bt4" data-group="Taken" value="Koken en maaltijden voor de week"><label for="bt4">Koken en maaltijden voor de week</label>
+          <input type="checkbox" id="bt5" data-group="Taken" value="Boodschappen, droogkuis en regelwerk"><label for="bt5">Boodschappen, droogkuis en regelwerk</label>
+          <input type="checkbox" id="bt6" data-group="Taken" value="Administratie en post"><label for="bt6">Administratie en post</label>
+          <input type="checkbox" id="bt7" data-group="Taken" value="Tuin en terras"><label for="bt7">Tuin en terras</label>
+          <input type="checkbox" id="bt8" data-group="Taken" value="Huisoppas tijdens vakantie"><label for="bt8">Huisoppas tijdens vakantie</label>
+          <input type="checkbox" id="bt9" data-group="Taken" value="Een vaste rechterhand"><label for="bt9">Een vaste rechterhand</label>
+          <input type="checkbox" id="bt10" data-group="Taken" value="Iets anders" data-other="Iets anders"><label for="bt10">Iets anders</label>
+          <div class="chips__other"><label for="b-anders">Wat heb je nog nodig?</label><input id="b-anders" name="Iets anders" autocomplete="off"></div>
         </div>
       </fieldset>
       <div class="f f--full"><label for="b-msg">Nog iets dat we moeten weten? (optioneel)</label><textarea id="b-msg" name="Bericht"></textarea></div>

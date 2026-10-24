@@ -50,7 +50,7 @@
   $$('form[action*="formsubmit"]').forEach(f=>f.addEventListener('submit',e=>{
     if(e.defaultPrevented) return;
     const groups={};
-    f.querySelectorAll('input[type=checkbox][data-group]').forEach(c=>{(groups[c.dataset.group]=groups[c.dataset.group]||[]);if(c.checked)groups[c.dataset.group].push(c.value);});
+    f.querySelectorAll('input[type=checkbox][data-group]').forEach(c=>{(groups[c.dataset.group]=groups[c.dataset.group]||[]);const o=c.dataset.other?f.querySelector('[name="'+c.dataset.other+'"]'):null;if(o&&!c.checked)o.value='';if(c.checked)groups[c.dataset.group].push(o&&o.value.trim()?c.value+': '+o.value.trim():c.value);});
     Object.entries(groups).forEach(([k,v])=>{let h=f.querySelector('input[type=hidden][name="'+k+'"]');if(!h){h=document.createElement('input');h.type='hidden';h.name=k;f.appendChild(h);}h.value=v.join(', ')||'niets aangeduid';});
   }));
 
@@ -133,7 +133,7 @@
     const tel=g(['GSM','gsm','Telefoon','telefoon']), naam=g(['Naam','naam'])||(g(['voornaam'])+' '+g(['achternaam'])).trim();
     const p={source:'zondags-chat',type:kand?'Kandidaat via formulier':'Bedrijf via formulier',naam:naam,bedrijf:g(['Bedrijf','bedrijf']),statuut:g(['Statuut']),
       telefoon:tel,e_mail:g(['E-mail','email']),gemeente:g(['Gemeente','gemeente','Woonplaats','woonplaats']),wat:g(['Taken','waarvoor']),uren:g(['uren','Dagen per week','dagen']),
-      vraag:g(['Bericht','bericht','motivatie']),pagina:location.href.split('#')[0],bron:SRC?SRC.bron:'Direct',kanaal:SRC?SRC.kanaal:'Direct',campagne:SRC?SRC.campagne:'',verwijzer:SRC?SRC.verwijzer:'',eerste_bezoek:SRC?SRC.datum:'',eerste_pagina:SRC?SRC.landing:'',
+      iets_anders:g(['Iets anders']),vraag:g(['Bericht','bericht','motivatie']),pagina:location.href.split('#')[0],bron:SRC?SRC.bron:'Direct',kanaal:SRC?SRC.kanaal:'Direct',campagne:SRC?SRC.campagne:'',verwijzer:SRC?SRC.verwijzer:'',eerste_bezoek:SRC?SRC.datum:'',eerste_pagina:SRC?SRC.landing:'',
       tijdstip:new Date().toLocaleString('nl-BE',{timeZone:'Europe/Brussels'}),
       wa_link:tel?'https://wa.me/'+waNum(tel)+'?text='+encodeURIComponent('Hallo '+naam.split(' ')[0]+', met Mieke van Zondags. Bedankt voor je aanvraag via onze website.'):''};
     /* Sollicitaties: altijd naar Make (ook zonder telefoon), source=zondags-kandidaat: rij in de kandidatensheet + bevestigingsmail. Geen geboortedatum of andere gevoelige gegevens. */

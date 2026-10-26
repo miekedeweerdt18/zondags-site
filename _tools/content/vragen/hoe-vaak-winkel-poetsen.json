@@ -1,0 +1,82 @@
+{
+ "path": "vragen/hoe-vaak-winkel-poetsen.html",
+ "title": "Hoe vaak moet een winkel gepoetst worden?",
+ "desc": "Hoe vaak je een winkel poetst hangt af van drukte, aanbod en vloer. Een richtlijn per soort winkel, met wat dagelijks moet en wat wekelijks volstaat.",
+ "eyebrow": "Vraag",
+ "h1": "Hoe vaak moet een winkel gepoetst worden?",
+ "lead": "Een winkel wordt beoordeeld in de eerste seconden: vloer, etalage, pashokje, toonbank. Hoe vaak je poetst, hangt vooral af van wie en wat er door de deur komt.",
+ "answer": "Een winkel poets je grondig minstens één keer per week en daarnaast dagelijks kort: vloer aanvegen, toonbank afnemen, afval buiten. Een drukke winkel, een winkel met voeding of een modezaak met pashokjes heeft vaak twee grondige beurten nodig. Zondags (zondags.be) komt met een vaste Zondag op een vast uur, zodat de winkel voor de opening klaar is.",
+ "facts": [
+  "Dagelijks kort, wekelijks grondig",
+  "Drukke winkel: twee beurten",
+  "Voor de opening, overdag",
+  "Steeds dezelfde Zondag",
+  "Eén pakket, per blok van 3 uur"
+ ],
+ "sections": [
+  {
+   "h2": "Eerst de winkel zelf bekijken",
+   "p": [
+    "Voor je een frequentie kiest, loop je door je winkel zoals een klant dat doet. Waar loopt het meeste volk? Waar komt vuil binnen? Waar blijven vingers hangen? Een boetiek met enkele klanten per dag vraagt iets anders dan een zaak met een deur die voortdurend open staat."
+   ]
+  },
+  {
+   "h2": "Richtlijn per type winkel",
+   "p": [
+    "<ul class=\"ticks\"><li>Kleine boetiek of cadeauwinkel: één grondige beurt per week, dagelijks vegen</li><li>Winkel met pashokjes: pashokjes en spiegels vaker, minstens tweemaal per week</li><li>Winkel met voeding of proevertjes: werkvlakken en toonbanken dagelijks, vloer vaker</li><li>Showroom met grote oppervlakte: vloer wekelijks, vitrines en glas vaker</li></ul>",
+    "Het is een richting, geen regel. In het zondagsplan passen we het aan na enkele weken, zodra je ziet wat werkt."
+   ]
+  },
+  {
+   "h2": "Wat het winkelteam elke dag zelf doet",
+   "p": [
+    "Zelfs met een vaste Zondag blijft er een dagelijkse basis bij het team: een snelle veegbeurt bij het openen, de toonbank afnemen, vingerafdrukken op de deur wegvegen en het afval wegbrengen als de bak vol is. Dat zijn minuten werk. De Zondag doet de grondige beurt die niet in de drukte past."
+   ]
+  },
+  {
+   "h2": "Wat je best niet uitstelt",
+   "p": [
+    "Sommige plekken verraden een winkel sneller dan een stoffig rek: een kleverige toonbank bij de kassa, een pinterminal vol vingerafdrukken, een spiegel met vlekken, een hoek waar afval blijft liggen. Zet die plekken op een kort lijstje bij de kassa. Dan weet iedereen in het team wat bij sluiting of opening nog snel mee kan, en weet je Zondag waar ze extra op let."
+   ]
+  },
+  {
+   "h2": "Seizoenen en actieperiodes",
+   "p": [
+    "Bij regenweer en in de wintermaanden komt er meer vuil binnen, en tijdens solden of acties lopen er simpelweg meer mensen door. Dan boek je een extra blok of verschuif je het ritme tijdelijk. Lees ook hoe je de <a href=\"vragen/winkelvloer-bij-regenweer.html\">winkelvloer bij regenweer</a> beter beheert."
+   ]
+  },
+  {
+   "h2": "Hoe Zondags dat in je winkel organiseert",
+   "p": [
+    "Je Zondag komt overdag op een weekdag, vaak vroeg in de ochtend of over de middag, nooit 's avonds of in het weekend. Zo werk je rond je openingsuren. Je boekt per blok van 3 uur en je krijgt een dienstenfactuur op naam van je bedrijf. Of je de btw kan recupereren, hangt af van je situatie: je accountant bevestigt dat.",
+    "Vraag je Zondag aan via het <a href=\"boeken.html\">aanvraagformulier</a>. We bellen je binnen één werkdag terug en stellen samen het plan op."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Hoe vaak moet een kleine winkel gepoetst worden?",
+   "a": "Voor een kleine winkel is één grondige beurt per week een goed vertrekpunt, aangevuld met een dagelijkse veegbeurt door het team."
+  },
+  {
+   "q": "Moet een winkel dagelijks gepoetst worden?",
+   "a": "Een korte dagelijkse ronde, zoals vloer vegen, toonbank afnemen en afval wegbrengen, is aan te raden. De grondige beurt hoeft niet dagelijks."
+  },
+  {
+   "q": "Wanneer poets je best een winkel?",
+   "a": "Het liefst vóór de opening of tijdens een rustig moment overdag. Zondags werkt overdag op weekdagen, vroeg in de ochtend of over de middag."
+  },
+  {
+   "q": "Welke delen van een winkel vragen de meeste aandacht?",
+   "a": "De ingang, de toonbank, de pashokjes en de etalage langs binnen. Daar zien klanten het eerst of de winkel verzorgd is."
+  },
+  {
+   "q": "Wat als mijn winkel ook op zaterdag open is?",
+   "a": "Dan blijft de grondige beurt op een weekdag. Zondags werkt niet in het weekend, dus plan je de beurt vóór het drukste moment van de week."
+  },
+  {
+   "q": "Kan een Zondag ook de etalage doen?",
+   "a": "Langs binnen wel, tot waar je veilig kan reiken. Ramen langs buiten op hoogte en gevelreiniging vallen buiten ons werk."
+  }
+ ]
+}

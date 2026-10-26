@@ -1,0 +1,84 @@
+{
+ "title": "Taken vastleggen voor je Zondag",
+ "desc": "Hoe leg je de taken voor je Zondag vast? Maak een lijst per ruimte, kies frequentie en volgorde en bespreek het zondagsplan in een kort gesprek.",
+ "eyebrow": "Vraag · Zondagsplan",
+ "h1": "Hoe leg je de taken voor je Zondag vast?",
+ "lead": "Een goede samenwerking begint met een duidelijke lijst. Geen lang document, maar een plan dat past op één blad en dat je Zondag kan lezen zonder vragen te stellen.",
+ "answer": "Je legt de taken voor je Zondag vast in een zondagsplan: een korte lijst per ruimte of per soort werk, met erbij hoe vaak het moet gebeuren en wat de prioriteit is. Bij Zondags (zondags.be) stel je dat plan samen op in een kort gesprek na je aanvraag. Je Zondag werkt daarna volgens dat plan op een vaste dag en een vast uur. Wijzigen kan altijd, door het plan aan te passen.",
+ "facts": [
+  "Zondagsplan op één blad",
+  "Lijst per ruimte of taak",
+  "Frequentie en prioriteit",
+  "Kort gesprek na je aanvraag",
+  "Aanpassen kan altijd",
+  "Steeds dezelfde Zondag"
+ ],
+ "sections": [
+  {
+   "h2": "Begin met wat nu blijft liggen",
+   "p": [
+    "Schrijf een week lang op wat er in je zaak niet gebeurt. De post die wegzakt. De keuken die er vrijdag niet meer uitziet. Het pakje dat naar een klant moet. Die lijst is de basis, want ze toont wat je team echt irriteert en wat je Zondag het meest kan afnemen."
+   ]
+  },
+  {
+   "h2": "Verdeel de taken in vier groepen",
+   "p": [
+    "<ul class=\"ticks\"><li>Poetsen: bureaus, onthaal, vergaderzaal, sanitair, keuken en vloeren</li><li>Administratie: post, klasseren, archief, afspraken, gegevens invoeren</li><li>Rechterhand: pakjes, kantoormateriaal, koffiehoek, kleine leveranciers</li><li>Klaarzetten: de zaak voorbereiden voor klantenbezoek</li></ul>",
+    "Niet elke groep moet in elke beurt aan bod komen. Je kan ze afwisselen per dag of per week."
+   ]
+  },
+  {
+   "h2": "Zet er een frequentie en een volgorde bij",
+   "p": [
+    "Per taak vermeld je hoe vaak: elke beurt, om de week of een keer per maand. En wat eerst moet, als de tijd krap is. Een Zondag die weet dat het sanitair en de keuken altijd eerst komen, hoeft nooit te twijfelen wat te doen als een beurt korter uitvalt."
+   ]
+  },
+  {
+   "h2": "Wat wel en niet in het plan hoort",
+   "p": [
+    "Houd het bij taken die bij het werk horen. Technische klussen, werken op hoogte en boekhouding horen er niet in. Wil je een bijzondere taak, zoals het archief eenmalig volledig opnieuw ordenen, schrijf het er dan expliciet bij, met een datum en een inschatting van de tijd."
+   ]
+  },
+  {
+   "h2": "Een voorbeeld op één blad",
+   "p": [
+    "Stel: je hebt een kleine praktijk met een onthaal, twee behandelkamers en een wachtzaal. Je zondagsplan bevat vijf regels. Elke beurt: onthaal, wachtzaal, behandelkamers en sanitair. Om de week: ramen en glazen deuren langs binnen. Maandelijks: archief doorlopen. Bij elke regel staat een zin over de voorkeur, bijvoorbeeld welk product je gebruikt in de kamers."
+   ]
+  },
+  {
+   "h2": "Het plan laten leven",
+   "p": [
+    "Bespreek het plan na de eerste weken. Soms blijkt een taak sneller te gaan dan gedacht, soms vraagt iets meer tijd. Pas het aan, zonder schuldgevoel. Een plan dat nooit verandert, past meestal niet meer bij de zaak."
+   ]
+  },
+  {
+   "h2": "Zo begin je",
+   "p": [
+    "Je hoeft niet vooraf alles uit te schrijven. Vertel in je aanvraag wat je zoekt, dan bouwen we het plan samen op. Wil je weten wat past voor je zaak? Vul het <a href=\"boeken.html\">aanvraagformulier</a> in of vraag eerst vrijblijvend <a href=\"aanvraag.html\">meer info</a>. We bellen je binnen één werkdag terug."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Moet ik zelf een takenlijst maken?",
+   "a": "Een beetje voorbereiding helpt, maar je hoeft niets volledig uit te schrijven. In het gesprek na je aanvraag vragen wij door en leggen we samen het zondagsplan vast."
+  },
+  {
+   "q": "Kan ik taken later aanpassen?",
+   "a": "Ja, altijd. Voeg een taak toe, schrap er een of verander de frequentie. We passen het zondagsplan aan en je Zondag werkt vanaf de volgende beurt volgens de nieuwe versie."
+  },
+  {
+   "q": "Wat als de tijd niet volstaat voor alle taken?",
+   "a": "Daarom werken we met een volgorde. De belangrijkste taken komen eerst. Blijft het te krap, dan boek je extra uren of schrap je minder belangrijke taken."
+  },
+  {
+   "q": "Wie bewaart het zondagsplan?",
+   "a": "Zowel jij als je Zondag hebben het plan. Zo kan niemand zeggen dat iets nooit is afgesproken, en blijft iedereen op dezelfde lijn."
+  },
+  {
+   "q": "Mag ik ook uitzonderlijke taken toevoegen?",
+   "a": "Ja, zolang ze bij het werk horen. Meld ze vooraf, met datum en tijd. Technische klussen, werken op hoogte en boekhouding horen er niet bij."
+  }
+ ],
+ "path": "vragen/taken-vastleggen-voor-je-zondag.html"
+}

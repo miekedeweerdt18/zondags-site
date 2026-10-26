@@ -1,0 +1,88 @@
+{
+ "path": "vragen/hoe-werkt-een-aanvraag-bij-zondags.html",
+ "title": "Hoe werkt een aanvraag bij Zondags?",
+ "desc": "Een aanvraag bij Zondags in vier stappen: formulier, terugbelgesprek binnen één werkdag, zondagsplan samen vastleggen en starten op de afgesproken dag.",
+ "eyebrow": "Vraag",
+ "h1": "Hoe werkt een aanvraag bij Zondags?",
+ "lead": "Je wil weten waar je aan toe bent voor je iets vraagt. Dit zijn de vier stappen, van aanvraag tot je eerste dag met je vaste Zondag.",
+ "answer": "Een aanvraag bij Zondags (zondags.be) werkt in vier stappen: je vult het aanvraagformulier in of vraagt vrijblijvend info, wij bellen je binnen één werkdag terug, we leggen samen het zondagsplan vast met taken, dagen en uren en je Zondag start op de afgesproken dag. Er is geen online betaling en geen keuze die je vooraf moet vastleggen. Alles bespreken we eerst, in een kort gesprek.",
+ "facts": [
+  "Aanvraag via formulier",
+  "Terugbellen binnen één werkdag",
+  "Zondagsplan samen vastleggen",
+  "Startdag in overleg",
+  "Dienstenfactuur op naam van je bedrijf"
+ ],
+ "sections": [
+  {
+   "h2": "Stap één: je aanvraag",
+   "p": [
+    "Je kiest tussen het <a href=\"boeken.html\">aanvraagformulier</a> en <a href=\"aanvraag.html\">info vragen</a>. In beide gevallen laat je je bedrijfsnaam, een contactpersoon en een telefoonnummer achter. Je mag al aanduiden welke ruimtes het zijn en welke taken je interesseren: poetsen, administratieve hulp of rechterhandwerk. Je hoeft niets definitief te beslissen."
+   ]
+  },
+  {
+   "h2": "Stap twee: wij bellen je terug",
+   "p": [
+    "Binnen één werkdag nemen we contact op. Het gesprek duurt maar even. We stellen een paar vragen: wat voor zaak heb je, hoeveel ruimte, welke dagen en uren passen? Daarna leggen we uit hoe het pakket werkt en wat het voor jouw situatie betekent. Dat is het moment om alles te vragen: ook over prijs, factuur en btw."
+   ]
+  },
+  {
+   "h2": "Stap drie: het zondagsplan",
+   "p": [
+    "Samen leggen we vast wat je Zondag doet. Dat noemen we het zondagsplan:",
+    "<ul class=\"ticks\"><li>Welke taken er in een blok van 3 uur passen</li><li>Op welke dag en welk uur je Zondag komt</li><li>Wat ze nooit aanraakt, bijvoorbeeld bepaalde dossiers</li><li>Hoe je toegang tot het gebouw regelt</li></ul>",
+    "Het plan is niet in steen gebeiteld. Na enkele weken kijk je samen of er iets bijgestuurd moet worden."
+   ]
+  },
+  {
+   "h2": "Stap vier: de startdag",
+   "p": [
+    "De startdag spreken we samen af. Je Zondag komt op de afgesproken dag, op het afgesproken uur. Bij de eerste keer neem je even tijd om haar de ruimtes te tonen en de afspraken door te lopen. Vanaf dan is het steeds dezelfde persoon."
+   ]
+  },
+  {
+   "h2": "Wat je krijgt en betaalt",
+   "p": [
+    "Je boekt per blok van 3 uur en je kan extra uren bijboeken. Je krijgt een dienstenfactuur op naam van je bedrijf, met je btw-nummer. De prijs en wat die precies omvat, bespreken we in het gesprek. Of je de btw kan recupereren, hangt af van je situatie. Laat dat bevestigen door je accountant."
+   ]
+  },
+  {
+   "h2": "Een voorbeeld: een kleine praktijk",
+   "p": [
+    "Neem een kinesitherapeutenpraktijk in een vennootschap. De zaakvoerder vult op dinsdagavond het formulier in. Woensdagochtend belt Zondags. In dat gesprek komt aan bod dat de praktijk twee behandelruimtes, een wachtzaal en een klein secretariaat heeft, en dat vrijdagvoormiddag het rustigst is. Het plan wordt: één vast blok op vrijdag, met poetsen en een uurtje post en klasseren. De startdag volgt de week erna."
+   ]
+  },
+  {
+   "h2": "Wat als het niet klikt",
+   "p": [
+    "Past je Zondag niet bij je zaak, dan zoeken we samen een andere Zondag. Dat kan zonder gedoe. Wordt je Zondag ziek of heeft ze verlof, dan zoeken wij een oplossing. Een vervanger kunnen we niet altijd beloven, maar we laten je niet in het ongewisse."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Moet ik meteen betalen bij een aanvraag?",
+   "a": "Nee. Je vraagt aan of laat je gegevens achter. We bellen je terug en bespreken alles vooraf. Je krijgt een dienstenfactuur op naam van je bedrijf."
+  },
+  {
+   "q": "Hoe snel word ik teruggebeld?",
+   "a": "Binnen één werkdag. Je kan ook bellen of WhatsApp'en op 0470 56 53 58, elke dag van 6 tot 22 uur."
+  },
+  {
+   "q": "Wat moet ik invullen in het aanvraagformulier?",
+   "a": "Je bedrijfsnaam, een contactpersoon, een telefoonnummer en bij voorkeur welke taken en ruimtes je interesseren. Alle details bespreken we daarna in het telefoongesprek, dus je hoeft niets perfect in te vullen."
+  },
+  {
+   "q": "Wie bepaalt de startdag?",
+   "a": "Jij en wij samen. De startdag leggen we vast na het gesprek, rekening houdend met je agenda en onze planning."
+  },
+  {
+   "q": "Kan ik eerst alleen info vragen?",
+   "a": "Ja. Via de pagina voor info vragen laat je een vrijblijvende vraag achter. Je zit nergens aan vast."
+  },
+  {
+   "q": "Wat als ik na enkele weken wil bijsturen?",
+   "a": "Dat kan. Het zondagsplan is flexibel. Je past taken, dagen of uren aan in overleg met ons."
+  }
+ ]
+}

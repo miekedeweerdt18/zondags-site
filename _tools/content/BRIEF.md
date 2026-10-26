@@ -90,3 +90,11 @@ Calm, warm, business-like, concrete. Short sentences. Speak to the business owne
 2. Run `python3 _tools/check_content.py` on your files. Fix every FOUT (rewrite, do not just delete text). Warnings about numbers: remove any number you cannot justify from this brief or plan.json.
 3. Do not edit any other file. Do not run git. Do not touch files of other pages.
 4. When all your files pass, reply with: the number of files written, and any page where you were unsure about a fact.
+
+## Update 23 oktober 2026 (gaat voor op wat hierboven staat)
+Beslissingen van Mieke die de site sinds 23/10 volgt. Nieuwe pagina's schrijf je meteen zo:
+- **Geen bedragen meer in de tekst.** Noem geen 60 euro, geen 180 euro, geen uurprijs. De generator haalt bedragen weg, maar zinnen lopen beter als ze er nooit in stonden. Wat wel mag: "één pakket voor alle taken", "je boekt per blok van 3 uur", "extra uren kan je erbij boeken", "je krijgt een dienstenfactuur op naam van je bedrijf". Bij een vraag over de prijs: leg uit waar de prijs van afhangt en dat we het pakket bespreken in een kort gesprek na je aanvraag. In `facts` dus GEEN prijsregel; gebruik bijvoorbeeld "Eén pakket, per blok van 3 uur".
+- **Geen online boeken of betalen meer.** Er is geen Stripe, geen kaart of Bancontact, geen boekpagina. Je vraagt je Zondag aan via het aanvraagformulier (link `boeken.html`, anker bijvoorbeeld "aanvraagformulier") of vraagt vrijblijvend info (link `aanvraag.html`). Binnen één werkdag nemen we contact op. De startdag spreken we samen af (schrijf NIET "minstens twee werkdagen vooraf").
+- **Proces:** je vraagt aan of laat je nummer achter, we bellen je binnen één werkdag terug, we leggen samen het zondagsplan vast (taken, dagen, uren), je Zondag start op de afgesproken dag.
+- **Plaatsnamen:** de generator zet "in Gent" om naar "regio Gent". Schrijf gewoon natuurlijk, maar vermijd constructies als "in de regio Gent" of "in regio Gent".
+- **Deelgemeenten van een fusiegemeente** (bijvoorbeeld Melle als deel van Merelbeke-Melle, Moerbeke als deel van Lokeren, Beveren en Kruibeke als deel van Beveren-Kruibeke-Zwijndrecht): zeg dat de plaats sinds de fusie deel is van `deel_van`. Noem geen fusiedatum of andere details die niet in plan.json staan.

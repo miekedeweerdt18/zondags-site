@@ -1,6 +1,6 @@
 {
  "title": "Hoe ver vooraf vraag je een Zondag aan?",
- "desc": "Hoe ver op voorhand vraag je een Zondag aan? Je geeft je gewenste start op in het aanvraagformulier, binnen één werkdag nemen we contact op en spreken we de startdag af.",
+ "desc": "Hoe ver op voorhand vraag je een Zondag aan? Geef je gewenste start door; binnen één werkdag bellen we terug en spreken we de startdag af.",
  "eyebrow": "Vraag",
  "h1": "Hoe ver op voorhand vraag ik een Zondag aan?",
  "lead": "In het aanvraagformulier kies je wanneer je wil starten. Binnen één werkdag nemen we contact op en spreken we samen de startdag af. Heb je een vaste datum voor ogen, vraag dan ruim op voorhand aan.",
@@ -60,7 +60,7 @@
   },
   {
    "q": "Werkt Zondags ook in het weekend?",
-   "a": "Nee. Zondags werkt enkel op weekdagen, overdag."
+   "a": "Nee. Zondags werkt enkel op weekdagen en overdag, nooit in het weekend en nooit 's avonds. Vroeg in de ochtend of over de middag kan wel."
   },
   {
    "q": "Hoe ver op voorhand kan ik aanvragen?",

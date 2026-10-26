@@ -1,11 +1,11 @@
 {
  "path": "vragen/hoe-werkt-online-boeken-bij-zondags.html",
  "title": "Hoe vraag je een Zondag aan voor je bedrijf?",
- "desc": "Een Zondag aanvragen voor je bedrijf: via het aanvraagformulier, waarna we binnen één werkdag contact opnemen om de rest af te spreken. Stap voor stap uitgelegd.",
+ "desc": "Een Zondag aanvragen voor je bedrijf: wat je vooraf klaarlegt en beslist, en hoe het formulier en het terugbelgesprek daarbij helpen.",
  "eyebrow": "Vraag",
  "h1": "Hoe vraag ik een Zondag aan voor mijn bedrijf?",
  "lead": "Je vult het aanvraagformulier in, wij nemen binnen één werkdag contact op en samen spreken we taken, dagen en uren af. Daarna start je Zondag.",
- "answer": "Je vraagt een Zondag voor je bedrijf aan via het aanvraagformulier op zondags.be/boeken. Je geeft je naam, je bedrijf of praktijk, je e-mail, je gsm-nummer en je gemeente in, duidt aan welke hulp je nodig hebt en wanneer je wil starten. Binnen één werkdag nemen we contact op om de taken, de dagen en de uren af te spreken. Je Zondag start op de afgesproken dag, per blok van 3 uur, en je krijgt een factuur op naam van je bedrijf.",
+ "answer": "Zondags (zondags.be) laat je een vaste Zondag aanvragen via het aanvraagformulier op zondags.be/boeken. Het formulier vraagt je gegevens en wat je nodig hebt, maar het eigenlijke werk is je eigen voorbereiding: welke ruimtes, welke taken, welke dagdelen en wie de contactpersoon is. Wij bellen je binnen één werkdag terug en leggen met jou het zondagsplan vast. Je krijgt een factuur op naam van je bedrijf.",
  "facts": [
   "Aanvraag via het formulier",
   "Binnen één werkdag contact",
@@ -39,6 +39,19 @@
    "h2": "Liever eerst iemand spreken",
    "p": [
     "Heb je eerst een vraag, laat dan je naam, je bedrijf en je gsm achter via <a href=\"aanvraag.html\">vrijblijvend info</a>, dan bellen we je binnen één werkdag terug. Je kan ook bellen of een WhatsApp sturen naar 0470 56 53 58, elke dag van 6 tot 22 uur."
+   ]
+  },
+  {
+   "h2": "Wat je als bedrijf vooraf beslist",
+   "p": [
+    "Een aanvraag verloopt vlot als je vooraf over een paar dingen hebt nagedacht. Dat hoeft geen dossier te zijn, een halve pagina volstaat.",
+    "<ul class=\"ticks\"><li>Welke ruimtes het gaat om en wat je er het liefst gedaan ziet</li><li>Welke dagdelen niemand last heeft van een Zondag in de zaak</li><li>Wie de contactpersoon is en wie de sleutel of badge beheert</li><li>Wat vertrouwelijk is en niet aangeraakt mag worden</li><li>Wie de factuur ontvangt en op welke naam</li></ul>"
+   ]
+  },
+  {
+   "h2": "Wie in je bedrijf mee moet beslissen",
+   "p": [
+    "Bij een eenmanszaak beslis je alleen. In een vennootschap of vzw is het soms een bestuur, een partner of een kantoormanager die mee moet kiezen. Laat die persoon vooraf weten dat er een aanvraag komt, zodat jullie tijdens het terugbelgesprek niet moeten wachten op een akkoord. Dat spaart een dag of meer."
    ]
   },
   {

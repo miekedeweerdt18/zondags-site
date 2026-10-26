@@ -1,0 +1,93 @@
+{
+ "path": "vragen/vertrouwelijk-papierafval-op-kantoor.html",
+ "title": "Vertrouwelijk papierafval op kantoor: wat doe je?",
+ "desc": "Wat doe je met vertrouwelijk papierafval op kantoor? Praktische afspraken over aparte bakken, wie leegt en hoe je Zondag erbij betrokken wordt.",
+ "eyebrow": "Vraag",
+ "h1": "Wat doe je met vertrouwelijk papierafval op kantoor?",
+ "lead": "Een factuur met klantgegevens of een afgedrukt dossier hoort niet in de gewone papiercontainer. Met een eenvoudige afspraak weet iedereen waar het naartoe moet.",
+ "answer": "Vertrouwelijk papierafval op kantoor verzamel je in een aparte, afgesloten bak, los van gewoon papier, en je beslist zelf hoe het vernietigd wordt: met een eigen papierversnipperaar of via een gespecialiseerd bedrijf. Zondags (zondags.be) laat je Zondag de afgesloten bak naar de afgesproken plek brengen, maar bepaalt nooit zelf wat vernietigd wordt en leest geen documenten.",
+ "facts": [
+  "Aparte bak voor vertrouwelijk papier",
+  "Jij beslist wat vernietigd wordt",
+  "Zondag leest geen documenten",
+  "Bak naar afgesproken plek",
+  "Eén pakket, per blok van 3 uur"
+ ],
+ "sections": [
+  {
+   "h2": "Eerst bepalen wat vertrouwelijk is",
+   "p": [
+    "Het begint bij een korte lijst. Wat valt voor jouw zaak onder 'vertrouwelijk': klantendossiers, offertes met prijzen, loonbrieven, afgedrukte e-mails, interne notities? Zet die lijst op één A4 en leg ze naast de papierbak. Zo hoeft niemand te gokken."
+   ]
+  },
+  {
+   "h2": "Twee bakken in plaats van één",
+   "p": [
+    "Eén bak voor gewoon papier, één voor vertrouwelijk papier. Dat is alles. De tweede bak sluit je af of plaatst je in een ruimte die niet voor bezoekers toegankelijk is. Voorkom dat er stapels documenten op een bureau blijven liggen 'voor later', want juist daar gaat het mis."
+   ]
+  },
+  {
+   "h2": "Zelf versnipperen of uitbesteden",
+   "p": [
+    "<ul class=\"ticks\"><li>Een eigen papierversnipperaar: handig bij kleine volumes, maar iemand moet er tijd aan besteden</li><li>Een afgesloten container die door een gespecialiseerd bedrijf wordt opgehaald</li><li>Een afspraak met de eigenaar van het gebouw als er een gedeelde voorziening is</li></ul>",
+    "Welke methode aan jouw verplichtingen voldoet, hangt af van wat je verwerkt. Vraag dat na bij je accountant of een adviseur, en neem geen aannames over wat 'wettelijk volstaat'."
+   ]
+  },
+  {
+   "h2": "Wat een Zondag wel en niet doet",
+   "p": [
+    "Je Zondag brengt de afgesloten bak naar de ophaalplaats en zet een nieuwe zak klaar. Ze opent de bak niet en leest niet wat erin zit. Wil je dat ze helpt bij het uitsorteren van archief, dan spreken we dat expliciet af, en ze houdt zich aan wat je vraagt. Is een document vertrouwelijk, dan zeg je dat aan het begin."
+   ]
+  },
+  {
+   "h2": "Een gewoonte voor het hele team",
+   "p": [
+    "De beste afspraak is een kleine: elke werknemer legt het vertrouwelijke papier meteen in de juiste bak, niet pas aan het einde van de week. Maak het makkelijk door de bak dichtbij de printer te zetten."
+   ]
+  },
+  {
+   "h2": "Een voorbeeld: een klein adviesbureau",
+   "p": [
+    "Neem een adviesbureau met vier medewerkers dat veel offertes en klantnota's afdrukt. De afspraak is eenvoudig: bij de printer staan twee bakken. Alles met een naam, bedrag of adres dat niet openbaar is, gaat in de afgesloten bak. Elke vrijdagnamiddag brengt de Zondag die bak naar de container die de zaakvoerder heeft afgesproken. Niemand hoeft nog te bedenken of een blad wel of niet 'gevoelig genoeg' is."
+   ]
+  },
+  {
+   "h2": "Wat vaak misloopt",
+   "p": [
+    "Het gaat zelden mis door kwade wil. Meestal stapelt papier zich op een bureau op, valt een blad naast de bak of wordt de bak vol zonder dat iemand hem leegt. Een vast leegmoment en een bak die dichtbij staat lossen het meeste op."
+   ]
+  },
+  {
+   "h2": "Praktisch regelen",
+   "p": [
+    "Vraag je Zondag aan via het <a href=\"boeken.html\">aanvraagformulier</a> en vermeld dat er vertrouwelijk papier is. We bellen je binnen één werkdag terug en schrijven de afspraak in het zondagsplan."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Mag vertrouwelijk papier bij het gewone papier?",
+   "a": "Dat raden we af. Gebruik een aparte, afgesloten bak voor documenten met klantgegevens of interne informatie."
+  },
+  {
+   "q": "Vernietigt Zondags vertrouwelijke documenten?",
+   "a": "Nee. Je Zondag brengt de afgesloten bak naar de afgesproken plek. Jij kiest hoe en door wie de documenten vernietigd worden."
+  },
+  {
+   "q": "Leest mijn Zondag mijn documenten?",
+   "a": "Nee. Je Zondag leest geen documenten en werkt discreet. Als je archief laat ordenen, spreken we vooraf af wat ze mag aanraken."
+  },
+  {
+   "q": "Wat zegt de wet over vertrouwelijk papierafval?",
+   "a": "Wij geven geen juridisch advies. Wat voor jouw zaak vereist is, bevestigt je adviseur of accountant."
+  },
+  {
+   "q": "Kan mijn Zondag een papierversnipperaar bedienen?",
+   "a": "Als je dat uitdrukkelijk vraagt en het toestel veilig werkt, ja. Spreek het af in het zondagsplan."
+  },
+  {
+   "q": "Hoe vaak moet de bak voor vertrouwelijk papier geleegd worden?",
+   "a": "Dat hangt af van het volume. Een vast moment per week of per maand werkt voor de meeste kantoren."
+  }
+ ]
+}

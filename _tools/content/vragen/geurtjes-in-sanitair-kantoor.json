@@ -1,0 +1,93 @@
+{
+ "path": "vragen/geurtjes-in-sanitair-kantoor.html",
+ "title": "Wat doe je tegen geurtjes in het sanitair op kantoor?",
+ "desc": "Geurtjes in het sanitair op kantoor los je op bij de bron: toiletpot, vloer, afval, afvoer en ventilatie. Geen verfrisser als eerste stap.",
+ "eyebrow": "Vraag",
+ "h1": "Wat doe je tegen geurtjes in het sanitair op kantoor?",
+ "lead": "Een sanitair dat ruikt, bederft de indruk van het hele kantoor. Een parfum erover helpt zelden. Zoek eerst waar de geur vandaan komt.",
+ "answer": "Geurtjes in het sanitair op kantoor los je op door de bron te vinden en weg te nemen: de toiletpot en onderrand, de vloer rond de pot, de afvalbakken en de afvoer, met voldoende ventilatie. Een geurverfrisser is pas de laatste stap. Zondags (zondags.be) zorgt met een vaste Zondag voor een poetsritme dat de oorzaken aanpakt, en meldt wat opvalt, zoals een afvoer die telkens terugkomt.",
+ "facts": [
+  "Eerst de bron zoeken",
+  "Vloer, rand en afval aanpakken",
+  "Ventilatie niet vergeten",
+  "Verfrisser pas als laatste",
+  "Eén pakket, per blok van 3 uur"
+ ],
+ "sections": [
+  {
+   "h2": "De meest voorkomende oorzaken",
+   "p": [
+    "Meestal zijn het kleine dingen: een toiletrand die niet grondig genoeg gedaan is, een vloer waar iets gemorst werd, een afvalbak die te weinig geleegd wordt, een afvoer die vuil vasthoudt. In kleine sanitaire ruimtes zonder raam vallen die dingen sneller op, omdat de lucht niet wegtrekt."
+   ]
+  },
+  {
+   "h2": "Zoek de bron in deze volgorde",
+   "p": [
+    "<ul class=\"ticks\"><li>Toiletpot, binnenkant en onderrand, bril en scharnieren</li><li>De vloer rond de pot en achter de deur</li><li>De afvalbak en het zakje</li><li>Lavabo en afvoer, ook het overloopgat</li><li>Voegen en plinten waar vocht blijft hangen</li><li>De vochtigheid in de ruimte zelf</li></ul>",
+    "Is de geur na een grondige beurt nog niet weg, dan zit de oorzaak mogelijk in een leiding of afvoer. Dat is werk voor een technicus, niet voor poetshulp."
+   ]
+  },
+  {
+   "h2": "Ventilatie: de vergeten factor",
+   "p": [
+    "Een raam op een kier of een werkende afzuiging doet vaak meer dan welk product ook. Ontbreekt die, dan helpt het om de deur na het poetsen open te laten tot het sanitair droog is. Vocht is de vriend van geur."
+   ]
+  },
+  {
+   "h2": "Verfrisser als laatste stap",
+   "p": [
+    "Een geurverfrisser overstemt de geur maar lost niets op. Gebruik hem pas als de bron weg is, en kies iets neutraals. Sterke geuren kunnen collega's storen, zeker wie gevoelig is. Lees ook <a href=\"vragen/collega-allergisch-voor-poetsproducten.html\">wat je doet als een collega allergisch is</a>."
+   ]
+  },
+  {
+   "h2": "Het ritme van je Zondag",
+   "p": [
+    "In een druk sanitair is minstens een wekelijkse grondige beurt aangewezen, en bij veel mensen een tweede. Dagelijks leegt het team het afval als het vol is, en wie iets merkt, meldt het. Je Zondag neemt de rest mee en geeft aan als iets technisch lijkt, zodat jij een technicus kan bellen."
+   ]
+  },
+  {
+   "h2": "Een voorbeeld: sanitair zonder raam",
+   "p": [
+    "Stel: je kantoor heeft een klein toilet zonder raam, en de afzuiging staat enkel aan als het licht brandt. Na een drukke dag blijft de lucht hangen. Laat de afzuiging nalopen door de verhuurder of een technicus, hang een bakje met een neutrale geur op en laat de deur na het poetsen even open. Dat heeft meer effect dan een sterkere spray."
+   ]
+  },
+  {
+   "h2": "Gewoontes van het team",
+   "p": [
+    "Een korte afspraak maakt veel uit: wie merkt dat de bak vol is, leegt hem. Wie iets morst, veegt het weg. Wie een raam kan openen, doet het. Een nota in de ruimte zelf ('meld je een probleem, dan lossen we het op') helpt ook. Het is geen straf, maar een gedeeld gevoel van verantwoordelijkheid."
+   ]
+  },
+  {
+   "h2": "Starten",
+   "p": [
+    "Vraag je Zondag aan via het <a href=\"boeken.html\">aanvraagformulier</a>. We bellen binnen één werkdag terug en leggen samen vast hoe vaak het sanitair gepoetst wordt. Je boekt per blok van 3 uur."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Waarom ruikt het sanitair op kantoor?",
+   "a": "Meestal door een toiletrand, vloer of afvalbak die niet grondig genoeg aangepakt wordt, of door te weinig ventilatie."
+  },
+  {
+   "q": "Helpt een geurverfrisser?",
+   "a": "Alleen als de bron weg is. Anders overstemt hij de geur enkel. Kies iets neutraals voor gevoelige collega's."
+  },
+  {
+   "q": "Hoe vaak moet het sanitair op kantoor gepoetst worden?",
+   "a": "Minstens wekelijks grondig. Bij veel gebruikers vaker. Lees ook ons antwoord op hoe vaak je sanitair poetst."
+  },
+  {
+   "q": "Wat als de geur na het poetsen terugkomt?",
+   "a": "Dan zit het probleem mogelijk in een afvoer of leiding, of is de ruimte te vochtig. Laat een technicus kijken en verlucht het sanitair goed na elke beurt."
+  },
+  {
+   "q": "Kan mijn Zondag een afvoer ontstoppen?",
+   "a": "Nee. Technisch werk aan sanitair valt erbuiten. Je Zondag meldt het, jij belt een technicus."
+  },
+  {
+   "q": "Welke producten gebruikt Zondags in het sanitair?",
+   "a": "Dat bespreken we bij de start. Heb je voorkeuren of allergieën in het team, dan houden we daar rekening mee."
+  }
+ ]
+}

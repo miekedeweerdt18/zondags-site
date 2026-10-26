@@ -1,0 +1,89 @@
+{
+ "path": "vragen/post-organiseren-op-klein-kantoor.html",
+ "title": "Post organiseren op een klein kantoor",
+ "desc": "Zo organiseer je de post op een klein kantoor: een vaste plek, een vast moment en een eenvoudig systeem waardoor niets meer blijft liggen.",
+ "eyebrow": "Vraag",
+ "h1": "Hoe organiseer je de post op een klein kantoor?",
+ "lead": "Een stapel enveloppen op de hoek van het bureau groeit sneller dan je denkt. Met een eenvoudig systeem blijft de post overzichtelijk, ook als je zelf zelden aan je bureau zit.",
+ "answer": "Op een klein kantoor organiseer je de post met één vaste plek voor binnenkomende post, één vast moment om te openen en vier bakken: te betalen, te beantwoorden, te klasseren en weg. Zondags (zondags.be) levert een vaste Zondag die ter plaatse post opent en sorteert volgens jouw systeem, documenten klasseert en niets beslist: dat doe jij.",
+ "facts": [
+  "Eén plek voor binnenkomende post",
+  "Vier bakken: betalen, antwoorden, klasseren, weg",
+  "Zondag opent en sorteert",
+  "Geen boekhouding",
+  "Eén pakket, per blok van 3 uur"
+ ],
+ "sections": [
+  {
+   "h2": "Eén plaats waar de post begint",
+   "p": [
+    "Spreek af dat alle post op dezelfde plek terechtkomt, ook post die iemand tegenkomt aan de ingang. Het kan een mapje zijn, een bak of een lade. Zolang het maar één plek is, zoeken mensen niet. Zo ontstaat de basis voor elk systeem."
+   ]
+  },
+  {
+   "h2": "Een bakkenstelsel van vier vakken",
+   "p": [
+    "<ul class=\"ticks\"><li>Te betalen: facturen die goedgekeurd of doorgestuurd moeten worden</li><li>Te beantwoorden: post waar jij of een collega iets mee moet doen</li><li>Te klasseren: documenten die bewaard worden</li><li>Weg: reclame, dubbele exemplaren en verlopen aanbiedingen</li></ul>",
+    "Een vijfde bak 'later' lijkt handig, maar wordt meestal de grootste. Vermijd hem."
+   ]
+  },
+  {
+   "h2": "Een vast moment, anders groeit de stapel",
+   "p": [
+    "Open de post op een vast moment: elke ochtend wanneer je er bent, of wekelijks als je weinig ontvangt. Op een klein kantoor is een wekelijks moment vaak voldoende, zolang urgente post (aangetekend, brieven van instanties) meteen opgemerkt wordt."
+   ]
+  },
+  {
+   "h2": "Wat je Zondag overneemt",
+   "p": [
+    "Je Zondag opent de post, sorteert hem in de vier bakken en legt de stapels klaar waar jij ze verwacht. Facturen en documenten klasseert ze in de mappen die jij hebt aangeduid. Ze neemt geen beslissingen over betalingen en doet geen boekhouding. Dat blijft bij jou en je accountant. Over discretie en wat ze mag aanraken, spreken we vooraf af.",
+    "Wil je weten welke administratieve taken er nog bij passen, kijk dan op <a href=\"vragen/post-en-facturen-laten-sorteren.html\">post en facturen laten sorteren</a>."
+   ]
+  },
+  {
+   "h2": "Papier én digitaal",
+   "p": [
+    "Veel post bestaat vandaag ook als pdf. Spreek af of je Zondag een scan maakt en waar die bewaard wordt, zodat jij en je accountant dezelfde versie hebben. Het systeem hoeft niet ingewikkeld: een mapnaam per jaar en per soort volstaat."
+   ]
+  },
+  {
+   "h2": "Een week in het leven van een postsysteem",
+   "p": [
+    "Neem een klein kantoor met drie mensen. Elke maandag opent de Zondag de post van de afgelopen week, legt de facturen in de bak 'te betalen' en zet de rest op de juiste plek. De zaakvoerder neemt dinsdag twintig minuten om de bak 'te beantwoorden' te overlopen. Eind van de week gaan de afgehandelde documenten in de mappen. Zo blijft de post nooit langer dan een week liggen.",
+    "Wie vooral online administratie voert, houdt het systeem even streng, maar de bakken zijn dan mappen op de computer. De regels blijven dezelfde."
+   ]
+  },
+  {
+   "h2": "Starten",
+   "p": [
+    "Gebruik het <a href=\"boeken.html\">aanvraagformulier</a> om je Zondag aan te vragen. We bellen je binnen één werkdag terug en leggen in het zondagsplan vast hoe jouw bakken eruitzien en welk uur de post wordt behandeld. Je boekt per blok van 3 uur."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Hoe vaak moet je de post openen op een klein kantoor?",
+   "a": "Dagelijks als je veel post ontvangt, anders wekelijks op een vast moment. Zorg dat urgente post, zoals een aangetekende brief of een brief van een instantie, altijd meteen opgemerkt en doorgegeven wordt aan wie ermee bezig is."
+  },
+  {
+   "q": "Kan een Zondag de post voor me openen?",
+   "a": "Ja, als je dat toelaat. Je Zondag opent en sorteert de post volgens jouw systeem en werkt discreet."
+  },
+  {
+   "q": "Doet Zondags ook de boekhouding van de facturen?",
+   "a": "Nee. Zondags klasseert en sorteert, maar doet geen boekhouding, geen loonadministratie en geen fiscaal of juridisch advies."
+  },
+  {
+   "q": "Wat doe ik met aangetekende post?",
+   "a": "Spreek vooraf af wie ze aanneemt en hoe jij verwittigd wordt. Een Zondag kan een melding doorgeven, maar beslist niets zelf."
+  },
+  {
+   "q": "Kan mijn Zondag de post digitaliseren?",
+   "a": "Ja, als ondersteunend werk. Je Zondag scant documenten en bewaart het bestand op de plek die jij aanduidt, in de map met de juiste naam. Zo hebben jij en je accountant dezelfde versie van de stukken."
+  },
+  {
+   "q": "Hoe snel kan ik starten?",
+   "a": "Je vraagt aan via het formulier, we bellen binnen één werkdag terug en spreken samen de startdag af."
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "title": "Dezelfde Zondag voor twee vestigingen?",
+ "desc": "Kan dezelfde Zondag in twee vestigingen van je bedrijf werken? Ja, als de twee adressen in de buurt liggen en dagen en uren op elkaar aansluiten.",
+ "eyebrow": "Vraag · Meerdere vestigingen",
+ "h1": "Kan dezelfde Zondag in twee vestigingen van je bedrijf werken?",
+ "lead": "Een bedrijf met twee adressen wil meestal geen twee verschillende gezichten. Het kan dat één Zondag beide vestigingen doet, maar dan moet de planning kloppen.",
+ "answer": "Ja, dezelfde Zondag kan voor twee vestigingen van hetzelfde bedrijf werken, op voorwaarde dat de twee adressen dicht bij elkaar liggen en je dagen en uren op elkaar aansluiten. Bij Zondags (zondags.be) spreek je dat af in het zondagsplan. Elke vestiging krijgt dan een eigen lijst met taken, en je ontvangt een dienstenfactuur op naam van je bedrijf. Liggen de adressen ver uit elkaar, dan zoeken we per vestiging een vaste Zondag.",
+ "facts": [
+  "Dezelfde Zondag voor twee adressen",
+  "Adressen moeten in de buurt liggen",
+  "Een zondagsplan per vestiging",
+  "Eén factuur op naam van je bedrijf",
+  "Verplaatsing tussen de adressen",
+  "Per blok van 3 uur"
+ ],
+ "sections": [
+  {
+   "h2": "Wat er moet kloppen",
+   "p": [
+    "Twee vestigingen betekent twee deuren, twee sleutels, twee keukens en twee sets afspraken. Voor je Zondag moet daar nog een derde ding bij: de weg ertussen. Als ze na de eerste vestiging nog tijd moet hebben om naar de tweede te gaan, is elke minuut die ze onderweg is een minuut die ze niet kan poetsen.",
+    "Daarom werkt het het best als beide adressen dicht bij elkaar liggen, bijvoorbeeld in dezelfde stad of in twee naburige gemeenten."
+   ]
+  },
+  {
+   "h2": "Zo ziet een gedeelde dag eruit",
+   "p": [
+    "Neem een bedrijf met een kantoor in het centrum en een magazijnkantoor aan de rand. Je Zondag begint om acht uur op het hoofdadres, ruimt de bureaus op en zet de vergaderzaal klaar. Na een blok van 3 uur rijdt ze door naar de tweede vestiging en doet daar het onthaal, de refter en het sanitair.",
+    "Elke vestiging heeft zijn eigen lijst, zodat ze niet hoeft te onthouden wie wat wil."
+   ]
+  },
+  {
+   "h2": "Wanneer twee Zondags beter zijn",
+   "p": [
+    "<ul class=\"ticks\"><li>De twee adressen liggen ver van elkaar</li><li>Beide vestigingen hebben elke dag werk nodig</li><li>De openingsuren overlappen volledig</li><li>Eén vestiging heeft een heel andere taak, zoals vooral administratie</li></ul>",
+    "In die gevallen kiezen we liever per vestiging een eigen vaste persoon, en die twee Zondags kennen elkaar dan wel, zodat het bedrijf er één aanspreekpunt aan overhoudt."
+   ]
+  },
+  {
+   "h2": "Wie krijgt welke factuur",
+   "p": [
+    "Je krijgt een dienstenfactuur op naam van je bedrijf, met je btw-nummer. Wil je de twee vestigingen apart boekhouden, bijvoorbeeld omdat ze verschillende entiteiten zijn, dan bespreek je dat vooraf. Hoe je dit boekhoudkundig verwerkt, laat je best bevestigen door je accountant."
+   ]
+  },
+  {
+   "h2": "Sleutels en toegang regelen",
+   "p": [
+    "Voor elke vestiging spreek je af hoe je Zondag binnenkomt: sleutel, code of badge. Noteer ook wie bereikbaar is als er iets misloopt. Je Zondag bewaart toegangsmiddelen veilig en meldt het meteen als iets niet werkt. Tweede vestigingen met een ander alarmsysteem vragen een korte uitleg bij de start."
+   ]
+  },
+  {
+   "h2": "Hoe je het aanvraagt",
+   "p": [
+    "Geef bij je aanvraag beide adressen door en de uren waarop elke vestiging bereikbaar is. Wij bekijken of één Zondag haalbaar is. Wil je weten wat past voor je zaak? Vul het <a href=\"boeken.html\">aanvraagformulier</a> in of vraag eerst vrijblijvend <a href=\"aanvraag.html\">meer info</a>. We bellen je binnen één werkdag terug."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Kan één Zondag in twee vestigingen werken?",
+   "a": "Ja, als de adressen dicht bij elkaar liggen en de uren op elkaar aansluiten. Dat leggen we vast in het zondagsplan, met een lijst met taken per vestiging."
+  },
+  {
+   "q": "Krijg ik twee facturen?",
+   "a": "Je krijgt een dienstenfactuur op naam van je bedrijf. Wil je de vestigingen apart verrekenen, dan bespreek je dat vooraf met ons. Je accountant bevestigt hoe je dit het best verwerkt."
+  },
+  {
+   "q": "Wat als de vestigingen ver uit elkaar liggen?",
+   "a": "Dan zoeken we per vestiging een vaste Zondag. Zo moet niemand veel reizen en blijft elke zaak een eigen vast gezicht houden."
+  },
+  {
+   "q": "Wat als mijn Zondag ziek is?",
+   "a": "Dan zoeken we een oplossing voor beide vestigingen. We beloven geen vervanging, maar we doen ons best om iets te regelen en houden je op de hoogte."
+  },
+  {
+   "q": "Kan ik de uren per vestiging later aanpassen?",
+   "a": "Ja, we passen het zondagsplan aan wanneer de behoefte verandert. Extra uren kan je erbij boeken, en je kan de verdeling tussen de vestigingen bijsturen."
+  }
+ ],
+ "path": "vragen/dezelfde-zondag-voor-twee-vestigingen.html"
+}

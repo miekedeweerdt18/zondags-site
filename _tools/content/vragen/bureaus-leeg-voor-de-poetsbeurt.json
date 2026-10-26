@@ -1,0 +1,93 @@
+{
+ "path": "vragen/bureaus-leeg-voor-de-poetsbeurt.html",
+ "title": "Moet je team de bureaus leegmaken voor de poetsbeurt?",
+ "desc": "Moet het team de bureaus leegmaken voor de poetsbeurt? Een korte afspraak over wat vrij moet zijn en wat mag blijven liggen, zonder gedoe.",
+ "eyebrow": "Vraag",
+ "h1": "Moet je team de bureaus leegmaken voor de poetsbeurt?",
+ "lead": "Een bureau vol mappen is niet te poetsen, een leeg bureau wel. De kunst is een afspraak die niemand voelt als een verplichting.",
+ "answer": "Het team hoeft de bureaus niet volledig leeg te maken, maar een vrije werkruimte van ongeveer een A4 aan de rand en weinig losse spullen maken de poetsbeurt veel beter. Wat op het bureau blijft liggen, wordt omzeild. Wat wegligt, wordt afgenomen. Zondags (zondags.be) werkt met een vaste Zondag die, in overleg met jou, weet welke stapels ze niet verplaatst en welke vlakken ze wel afneemt.",
+ "facts": [
+  "Geen volledig leeg bureau nodig",
+  "Vrije zone op elk bureau",
+  "Stapels blijven staan",
+  "Persoonlijke spullen worden gerespecteerd",
+  "Eén pakket, per blok van 3 uur"
+ ],
+ "sections": [
+  {
+   "h2": "Wat een poetsbeurt eigenlijk nodig heeft",
+   "p": [
+    "Een Zondag moet een doek over het bureau kunnen halen en de vloer eronder kunnen bereiken. Dat betekent niet dat alles weg moet. Het betekent dat het meeste vlak is en niet vol kabels, bekers en mappen staat. Hoe minder losse spullen, hoe makkelijker en snel het gaat."
+   ]
+  },
+  {
+   "h2": "Drie niveaus van opgeruimd",
+   "p": [
+    "<ul class=\"ticks\"><li>Basis: afval en bekers weg, kabels langs de rand</li><li>Beter: vrije zone van een A4 voor de doek, dossiers in een stapel</li><li>Ideaal: leeg bureau na het weekend, enkel het scherm en toetsenbord</li></ul>",
+    "Voor de meeste kantoren is 'beter' haalbaar. Het ideale niveau werkt vooral voor delen van het kantoor die gedeeld worden, zoals flexplekken."
+   ]
+  },
+  {
+   "h2": "Vertrouwelijke papieren",
+   "p": [
+    "Liggen er dossiers of cliëntgegevens, dan laat je ze liever in een kast of een lade. Dat beschermt de gegevens, en je Zondag hoeft er niet over na te denken. Zij bekijkt geen papieren en verplaatst ze niet zonder dat jij dat vraagt. Een stapel die je laat liggen, blijft liggen. Lees ook <a href=\"vragen/vertrouwelijke-documenten-poetshulp.html\">poetshulp en vertrouwelijke documenten</a>."
+   ]
+  },
+  {
+   "h2": "Persoonlijke spullen",
+   "p": [
+    "Planten, foto's, een mok met een verhaal: laat ze staan. Je Zondag tilt ze op, neemt het bureau af en zet ze exact terug. Wil iemand niet dat zijn bureau wordt aangeraakt, zeg dat dan vooraf. Een apart briefje 'niet aanraken' is voldoende."
+   ]
+  },
+  {
+   "h2": "Een afspraak die werkt",
+   "p": [
+    "Hang geen lijst van twintig regels op. Spreek met het team één ding af: voor het weekend of vóór de dag van de beurt zet iedereen zijn bureau in 'beter'-stand. Wie dat vergeet, merkt het meteen aan een bureau dat net iets minder fris is, zonder dat iemand iemand hoeft aan te spreken."
+   ]
+  },
+  {
+   "h2": "Een voorbeeld: een kantoor met zes bureaus",
+   "p": [
+    "Neem een kantoor met zes vaste bureaus. Twee collega's werken met veel papier, de andere vier bijna volledig digitaal. De afspraak wordt: wie veel papier heeft, houdt zijn stapel aan de linkerkant en laat rechts een vrije zone; de anderen zetten enkel bekers en afval weg. De Zondag neemt de rechterkant af en laat de linkerkant staan. Na een maand zien beide collega's dat het kantoor er frisser uitziet, zonder dat iemand zijn werk heeft moeten stilleggen."
+   ]
+  },
+  {
+   "h2": "Wat je zelf kan doen om het te vergemakkelijken",
+   "p": [
+    "Een vaste laadbak of rolcontainer onder elk bureau voor losse spullen werkt verrassend goed: alles wat in de weg ligt, gaat erin, en het bureau is in tien seconden vrij. Hetzelfde geldt voor een kabelgoot of klem onder het blad. Dat zijn kleine investeringen die elke poetsbeurt sneller maken en de werkplek ook voor jezelf rustiger."
+   ]
+  },
+  {
+   "h2": "Hoe Zondags dat regelt",
+   "p": [
+    "Je Zondag komt op een vaste dag en een vast uur, overdag op weekdagen. Je spreekt vooraf af welke bureaus ze afneemt en welke niet. Je boekt per blok van 3 uur en vraagt aan via het <a href=\"boeken.html\">aanvraagformulier</a>. We bellen je binnen één werkdag terug en leggen alles vast in het zondagsplan."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Moeten bureaus helemaal leeg zijn?",
+   "a": "Nee. Een vrije zone, weinig losse spullen en afval weg volstaan om het bureau goed af te nemen."
+  },
+  {
+   "q": "Verplaatst mijn Zondag mijn papieren?",
+   "a": "Niet zonder dat jij dat vraagt. Stapels blijven staan en worden omzeild. Wil je dat ze papieren ordent of klasseert, dan spreek je dat apart af als administratieve hulp."
+  },
+  {
+   "q": "Wat als iemand niet wil dat zijn bureau aangeraakt wordt?",
+   "a": "Dat is geen probleem. Zeg het vooraf of laat een briefje liggen. Je Zondag respecteert dat."
+  },
+  {
+   "q": "Kan mijn Zondag spullen opruimen?",
+   "a": "Ze kan afval en bekers wegnemen. Ordenen van papieren of dossiers is administratieve hulp, die je apart kan afspreken."
+  },
+  {
+   "q": "Hoe zorg ik dat het team meewerkt?",
+   "a": "Hou het eenvoudig: één afspraak, zichtbaar, en samen gemaakt. Een afspraak die het team zelf bedenkt, wordt beter gevolgd."
+  },
+  {
+   "q": "Wat bij flexplekken of gedeelde bureaus?",
+   "a": "Dan werkt 'clean desk' beter: aan het einde van de dag is het bureau leeg. Zo kan de Zondag alles afnemen zonder iets te verplaatsen."
+  }
+ ]
+}

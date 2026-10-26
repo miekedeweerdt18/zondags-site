@@ -1,0 +1,87 @@
+{
+ "path": "vragen/gemeenschappelijke-delen-kantoorgebouw-poetsen.html",
+ "title": "Wie poetst de gemeenschappelijke delen van een kantoor?",
+ "desc": "Wie poetst gang, trappenhal en sanitair in een kantoorgebouw met meerdere huurders? Zo achterhaal je de afspraak en wat je Zondag voor je eigen ruimte doet.",
+ "eyebrow": "Vraag",
+ "h1": "Wie poetst de gemeenschappelijke delen van een kantoorgebouw?",
+ "lead": "Zodra een gebouw meerdere bedrijven herbergt, is de gang van niemand en iedereen. Eerst uitzoeken wie wat doet, dan pas kiezen wat je zelf regelt.",
+ "answer": "In een kantoorgebouw met meerdere huurders poetst meestal de eigenaar of een beheerder de gemeenschappelijke delen, en de kosten zitten in de lasten. Dat staat in je huurcontract of het reglement van het gebouw. Zondags (zondags.be) poetst alleen de ruimtes van jouw bedrijf, niet het gedeelde gedeelte, tenzij de beheerder en jij dat uitdrukkelijk afspreken.",
+ "facts": [
+  "Eerst huurcontract of reglement nakijken",
+  "Eigen ruimte door je Zondag",
+  "Gedeelde delen enkel na akkoord",
+  "Steeds dezelfde Zondag",
+  "Eén pakket, per blok van 3 uur"
+ ],
+ "sections": [
+  {
+   "h2": "Begin bij het huurcontract",
+   "p": [
+    "Lees na of er een aparte regeling is voor gang, trappenhal, lift, sanitair en inkomhal, en wie de kosten draagt. Soms zit het onderhoud in een forfait voor lasten, soms regelt de verhuurder het via een eigen firma, soms moeten huurders het onderling afspreken. Wij doen hier geen uitspraken over wat juridisch moet: het contract en je beheerder zeggen wat geldt."
+   ]
+  },
+  {
+   "h2": "Drie situaties die je vaak ziet",
+   "p": [
+    "<ul class=\"ticks\"><li>De eigenaar laat de gemeenschappelijke delen onderhouden: jij poetst enkel je eigen ruimte</li><li>De huurders delen de kost: jullie kiezen samen één firma of één persoon</li><li>Er is geen afspraak: een huurder neemt het initiatief, soms ten koste van de eigen planning</li></ul>"
+   ]
+  },
+  {
+   "h2": "Waar jouw verantwoordelijkheid stopt",
+   "p": [
+    "Je eigen kantoor, onthaal, vergaderzaal, keuken en sanitair in je huurruimte zijn van jou. De gang voor je deur is een grijze zone. Als bezoekers erdoor moeten, zie je meteen of het onderhouden is. Vraag de beheerder of de gang een vast poetsmoment heeft, en meld wat opvalt."
+   ]
+  },
+  {
+   "h2": "Wat je Zondag doet in zo'n gebouw",
+   "p": [
+    "Je Zondag werkt in jouw eigen ruimtes, op een vast uur, overdag op weekdagen. Wil een groep huurders samen een persoon voor de gedeelde delen? Dan stuurt elk bedrijf een aanvraag en bespreken we samen of dat past. Zonder akkoord van de beheerder werken we niet in delen die niet van jou zijn.",
+    "Meer over werken in een gedeeld pand lees je op <a href=\"vragen/poetshulp-gedeeld-kantoorgebouw.html\">poetshulp in een gedeeld kantoorgebouw</a>."
+   ]
+  },
+  {
+   "h2": "Een gesprek met je buren",
+   "p": [
+    "Spreek de andere huurders aan voor je een firma kiest. Misschien is er al een regeling, misschien willen anderen meebeslissen. Zet de afspraak op papier, met wie wat betaalt en wie contact houdt."
+   ]
+  },
+  {
+   "h2": "Een voorbeeld uit een gebouw met vijf huurders",
+   "p": [
+    "Stel: in een kantoorgebouw zitten vijf kleine bedrijven op twee verdiepingen. Niemand weet wie de gang poetst, en de lift vertoont vlekken. Eén zaakvoerder neemt het initiatief, mailt de beheerder en vraagt wie wat doet. Blijkt dat het onderhoud in de lasten zit, dan hoeft niemand iets te doen. Zo niet, dan kiezen de huurders samen een oplossing en schrijven ze op wie contact houdt."
+   ]
+  },
+  {
+   "h2": "Aanvragen",
+   "p": [
+    "Wil je weten wat een Zondag voor jouw verdieping kan doen? Vraag ze aan via het <a href=\"boeken.html\">aanvraagformulier</a>. We bellen binnen één werkdag terug en leggen vast welke ruimtes tot jouw bedrijf behoren. Je boekt per blok van 3 uur."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Wie is verantwoordelijk voor de gang in een kantoorgebouw?",
+   "a": "Dat staat in het huurcontract of het reglement van het gebouw. Vaak regelt de eigenaar of beheerder het onderhoud."
+  },
+  {
+   "q": "Kan Zondags de gemeenschappelijke delen poetsen?",
+   "a": "Alleen als de beheerder of eigenaar daar uitdrukkelijk mee akkoord gaat. Standaard poetsen we enkel de ruimtes van jouw bedrijf."
+  },
+  {
+   "q": "Wat als niemand de gang poetst?",
+   "a": "Meld het aan de beheerder of de verhuurder. Vind je geen regeling, dan kunnen de huurders samen een afspraak maken."
+  },
+  {
+   "q": "Kunnen meerdere huurders één Zondag delen?",
+   "a": "Elk bedrijf vraagt een eigen Zondag aan en krijgt een eigen factuur. Of een gedeelde regeling kan, bespreken we in het gesprek."
+  },
+  {
+   "q": "Telt het sanitair op de verdieping als gemeenschappelijk?",
+   "a": "Dat hangt af van de indeling en het contract. Kijk na of het sanitair tot jouw huurruimte behoort of gedeeld is."
+  },
+  {
+   "q": "Moet ik de beheerder verwittigen als er een Zondag komt?",
+   "a": "Dat is verstandig, zeker voor toegang tot het gebouw, de lift of de badge. Dat regel je voor de eerste dag."
+  }
+ ]
+}

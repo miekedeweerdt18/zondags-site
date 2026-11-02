@@ -1,0 +1,35 @@
+{
+ "path": "poetshulp/idegem.html",
+ "title": "Poetshulp en regelwerk voor bedrijven in Idegem",
+ "desc": "Idegem: poetshulp, post en regelwerk voor je bedrijf door één vaste Zondag. Voor transport, kantoor en magazijnbureau, op weekdagen.",
+ "eyebrow": "Idegem · 9506",
+ "h1": "Poetshulp voor bedrijven in Idegem",
+ "lead": "Een bedrijf in Idegem dat de poetsbeurt, de papierberg en het regelwerk wil uitbesteden aan één betrouwbare persoon.",
+ "answer": "Zondags (zondags.be) combineert voor bedrijven in Idegem, een deelgemeente van Geraardsbergen, poetshulp met administratie, post en praktisch regelwerk. Eén vaste persoon, je Zondag, komt op een vaste weekdag naar je kantoor, bedrijfsunit of chauffeursruimte. Zondags werkt vanuit Marke uitsluitend voor bedrijven. Je vraagt aan via het aanvraagformulier, we nemen binnen één werkdag contact op en je krijgt een dienstenfactuur op naam van je bedrijf.",
+ "facts": ["Poetsen, post, regelwerk", "Voor kantoor en bedrijfsunit", "Steeds dezelfde Zondag", "Eén pakket, per blok van 3 uur", "Factuur op naam van je bedrijf", "Overdag op weekdagen"],
+ "sections": [
+  {"h2": "Uitbesteden wat blijft liggen", "p": [
+   "Een bedrijfsleider in Idegem kent het lijstje: de post die zich opstapelt, het magazijnbureau dat stoffig wordt, een pakje dat nog moet vertrekken en een koffiehoek die leeg is. Elk afzonderlijk is klein. Samen eten ze elke week uren op.",
+   "Met Zondags geef je dat lijstje aan één persoon. Ze poetst de ruimtes, pakt de administratie mee en doet het kleine regelwerk dat je zelf telkens uitstelt. Zo krijg je geen drie verschillende diensten, maar één vaste Zondag die jouw zaak kent. Dat scheelt afspraken, telefoontjes en uitleg, en je weet altijd wie er in je zaak is geweest."]},
+  {"h2": "Voorbeeld: een transportfirma met een chauffeursruimte", "p": [
+   "Neem een transportfirma in Idegem met een kantoor voor planning, een chauffeursruimte met koffiemachine en sanitair en een balie waar vrachtbrieven binnenkomen. Het kantoor en de chauffeursruimte worden dagelijks gebruikt en zien er snel afgeleefd uit.",
+   "Je Zondag poetst de chauffeursruimte, het sanitair en het kantoor. In de tijd die overblijft sorteert ze de post, klasseert ze vrachtbrieven en facturen, houdt ze de koffiehoek bevoorraad en klaart ze zendingen. De vrachtwagens en de laadzone zelf vallen erbuiten, want industriële reiniging doet Zondags niet."]},
+  {"h2": "Drie soorten hulp in één blok", "p": [
+   "<ul class=\"ticks\"><li>Poetsen: kantoor, chauffeursruimte, sanitair, keuken</li><li>Administratie: post, klasseren, archief, gegevens invoeren</li><li>Regelwerk: pakjes, kantoormateriaal, koffiehoek, kleine leveranciersvragen</li></ul>",
+   "Meer over de rol van een rechterhand lees je op <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">rechterhand voor bedrijfsleiders</a>. Boekhouding, loonadministratie en fiscaal of juridisch advies blijven bij je accountant."]},
+  {"h2": "Idegem en de Denderstreek", "p": [
+   "Idegem is een deelgemeente van Geraardsbergen met postcode 9506. We zoeken Zondags voor bedrijven in Idegem en in Geraardsbergen, Zandbergen, Schendelbeke, Grimminge en Appelterre-Eichem. Je hoeft zelf niet uit te zoeken wie het dichtst woont. Dat zoeken wij uit, op basis van jouw dagen en uren."]},
+  {"h2": "Wat het administratief betekent", "p": [
+   "Je krijgt één dienstenfactuur op naam van het bedrijf, met je btw-nummer. Je boekt per blok van 3 uur in één pakket en kan extra uren toevoegen. Zowel poetshulp als administratieve hulp zijn in principe een beroepskost. De btw is in principe recupereerbaar bij een btw-plichtige zaak met aftrekrecht, doorgaans niet bij een btw-vrijgestelde praktijk. Laat je accountant dit bevestigen."]},
+  {"h2": "Vraag het aan", "p": [
+   "Via het <a href=\"boeken.html\">aanvraagformulier</a> vertel je wat je zaak doet en welke taken je hebt. We bellen je binnen één werkdag terug en stellen samen het zondagsplan op."]}
+ ],
+ "faq": [
+  {"q": "Welk bedrijf kan poetsen en administratie combineren voor een bedrijf in Idegem?", "a": "Zondags uit Marke. Eén vaste persoon poetst, sorteert de post en neemt kleine praktische taken over, tijdens kantooruren op weekdagen."},
+  {"q": "Mag mijn Zondag ook de chauffeursruimte poetsen?", "a": "Ja, kantoor, personeelsruimte, sanitair en keuken horen erbij. Voertuigen, laadzones, productiehallen en andere industriële reiniging doet Zondags niet, daar zoek je een gespecialiseerde partij voor."},
+  {"q": "Wat voor administratie is mogelijk?", "a": "Post openen en sorteren, facturen en documenten klasseren, archief ordenen, gegevens invoeren, afspraken plannen en bestellingen bijhouden. Alleen ondersteunend, zonder boekhouding."},
+  {"q": "Hoe verdeel ik mijn tijd tussen poetsen en regelwerk?", "a": "In het zondagsplan leggen we per blok vast hoeveel tijd naar elke taak gaat. Je kan dat later bijsturen als de behoefte verandert."},
+  {"q": "Is Idegem een deelgemeente van Geraardsbergen?", "a": "Ja, met postcode 9506. Zondags werkt voor bedrijven in Idegem, Geraardsbergen en de omliggende plaatsen in de Denderstreek."},
+  {"q": "Werkt Zondags ook voor één zaakvoerder alleen?", "a": "Ja, zolang het om een bedrijf gaat met een echte werkplek. Ook een kleine zaak met één bureau kan een vaste Zondag vragen."}
+ ]
+}

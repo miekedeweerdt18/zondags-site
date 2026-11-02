@@ -1,0 +1,86 @@
+{
+ "path": "vragen/vakbeurs-praktisch-voorbereiden.html",
+ "title": "Vakbeurs praktisch voorbereiden vanuit je kantoor",
+ "desc": "Hoe bereid je een vakbeurs praktisch voor vanuit je kantoor: materiaal, bestellingen, pakjes, planning en wat je Zondag kan overnemen.",
+ "eyebrow": "Vraag",
+ "h1": "Hoe bereid je een vakbeurs praktisch voor vanuit je kantoor?",
+ "lead": "Een vakbeurs wordt gewonnen of verloren in de weken ervoor. Als het praktische klopt, kan je ter plaatse focussen op gesprekken.",
+ "answer": "Je bereidt een vakbeurs praktisch voor vanuit je kantoor met een tijdlijn: standmateriaal bestellen en controleren, pakjes en dozen klaarmaken, afspraken inplannen en het kantoor zelf op orde houden terwijl jij weg bent. Zondags (zondags.be) kan met een vaste Zondag overdag op weekdagen helpen met bestellingen, klaarmaken van zendingen en afspraken inplannen. Je vraagt het aan via het aanvraagformulier.",
+ "facts": [
+  "Tijdlijn per week",
+  "Materiaal bestellen en controleren",
+  "Dozen en zendingen klaarmaken",
+  "Afspraken met bezoekers inplannen",
+  "Alleen overdag op weekdagen"
+ ],
+ "sections": [
+  {
+   "h2": "Een tijdlijn in plaats van een stapel",
+   "p": [
+    "Stel: je neemt voor het eerst deel aan een beurs van twee dagen. Je hebt een stand, brochures, een demo en een lijst met uitgenodigde klanten. Zonder tijdlijn belandt alles in de laatste week. Met een tijdlijn verdeel je het.",
+    "Begin vanaf de beursdatum en werk achteruit. Wat moet wanneer besteld, geleverd en gecontroleerd zijn? Zet het op één blad en geef het aan wie meehelpt."
+   ]
+  },
+  {
+   "h2": "Materiaal en bestellingen",
+   "p": [
+    "<ul class=\"ticks\"><li>Brochures en visitekaartjes: aantal controleren, bijbestellen</li><li>Standmateriaal: banners, displays, tafelkleed</li><li>Demomateriaal en kabels getest</li><li>Pennen, notitieblokken, tapes en sluitingen</li><li>Kleine geschenkjes of stalen indien je die geeft</li><li>Een noodpakket: tape, schaar, nietmachine, extra verlengkabel</li></ul>",
+    "Kantoorbenodigdheden bestellen en bijhouden hoort bij de administratieve hulp van je Zondag. Geef een lijst en een deadline mee.",
+    "Controleer alles een week voor de beurs een laatste keer. Wat dan nog ontbreekt, kan je nog bestellen. Wat de dag voor vertrek ontbreekt, ga je ter plaatse missen."
+   ]
+  },
+  {
+   "h2": "Dozen, pakjes en zendingen",
+   "p": [
+    "Wie een beurs doet, stuurt vaak materiaal vooruit of neemt het mee. Dozen moeten ingepakt, gelabeld en gewogen worden. Pakjes ophalen of wegbrengen valt onder rechterhand voor de bedrijfsleider.",
+    "Een duidelijke labeling bespaart je ter plaatse veel zoeken. Schrijf op elke doos de inhoud en de standnummer. Noteer in een lijst welke doos wat bevat."
+   ]
+  },
+  {
+   "h2": "Afspraken en bezoekers",
+   "p": [
+    "Een beurs is een kans om klanten en prospecten te ontmoeten. Plan afspraken op voorhand in, stuur herinneringen en noteer wie op welk uur komt. Afspraken en agenda inplannen is een taak voor je Zondag.",
+    "Hou ook rekening met het kantoor zelf. Wie neemt de telefoon op terwijl jij weg bent? Wie krijgt de post? Dat regel je vooraf."
+   ]
+  },
+  {
+   "h2": "Het kantoor tijdens je afwezigheid",
+   "p": [
+    "Als jij op de beurs staat, ligt het kantoor niet stil. Er komen leveringen, post en bezoekers. Spreek af wat je Zondag doet op een weekdag overdag terwijl jij weg bent: post sorteren, de koffiehoek bevoorraden, pakjes aannemen.",
+    "Voor de teruggekeerde bedrijfsleider is een opgeruimd kantoor een goede start. Zie ook <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">rechterhand voor bedrijfsleiders</a>."
+   ]
+  },
+  {
+   "h2": "Zo vraag je het aan",
+   "p": [
+    "Via het <a href=\"boeken.html\">aanvraagformulier</a> vertel je welke beurs en welke datum. We bellen je binnen één werkdag terug. Zondags werkt overdag op weekdagen; een beurs in het weekend kunnen wij niet bijwonen, maar de voorbereiding en nazorg kunnen we wel doen. Je krijgt een dienstenfactuur op naam van je bedrijf."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Kan mijn Zondag mee naar de beurs?",
+   "a": "Nee. De hulp gebeurt op je kantoor of op een weekdag overdag. De opbouw en bemanning van de stand blijven bij jou en je team."
+  },
+  {
+   "q": "Wat als de beurs in het weekend valt?",
+   "a": "Dan werkt Zondags niet mee tijdens de beurs zelf. De voorbereiding op weekdagen en de opvolging erna kunnen wel."
+  },
+  {
+   "q": "Kan mijn Zondag de nabestelling regelen?",
+   "a": "Ja, kantoorbenodigdheden bestellen en bijhouden kan. Je geeft door wat je nodig hebt en bij welke leverancier, en je Zondag plaatst de bestelling en volgt de levering op, zodat het materiaal op tijd op kantoor is."
+  },
+  {
+   "q": "Kan mijn Zondag de contacten van de beurs invoeren?",
+   "a": "Ja, gegevens invoeren in een lijst of systeem dat jij aanwijst kan. Het is ondersteunend werk, en je beslist wat ermee gebeurt."
+  },
+  {
+   "q": "Is dit een eenmalige hulp?",
+   "a": "Meestal wel. Je vraagt een afgebakende periode, zoals de weken voor de beurs. Daarna beslis je of je stopt of een vast ritme kiest."
+  },
+  {
+   "q": "Wanneer moet ik beginnen?",
+   "a": "Hoe vroeger, hoe beter. Plan de tijdlijn zodra de datum vaststaat, dan kunnen we de startdag samen afspreken."
+  }
+ ]
+}

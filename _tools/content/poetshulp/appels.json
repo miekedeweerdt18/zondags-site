@@ -1,0 +1,36 @@
+{
+ "path": "poetshulp/appels.html",
+ "title": "Poetshulp voor kantoren en zaken in Appels",
+ "desc": "Poetshulp voor kleine kantoren en zaken in Appels (Dendermonde): bureaus, keuken of refter en sanitair door één vaste Zondag, op weekdagen.",
+ "eyebrow": "Appels · 9200",
+ "h1": "Poetshulp voor bedrijven in Appels",
+ "lead": "Een klein kantoor of een zaak in de dorpskern van Appels houd je op orde met één vaste persoon voor bureaus, keuken of refter en sanitair.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor bedrijven in Appels, een deelgemeente van Dendermonde met postcode 9200. Een vaste persoon, je Zondag, onderhoudt bureaus, keuken of refter en sanitair van kleine kantoren, praktijken en winkels. Zondags werkt vanuit Marke uitsluitend voor bedrijven, overdag op weekdagen. Je vraagt aan via het aanvraagformulier, we nemen binnen één werkdag contact op en je krijgt een dienstenfactuur op naam van je bedrijf.",
+ "facts": ["Bureaus, keuken of refter, sanitair", "Teams van enkele tot vijftien mensen", "Steeds dezelfde Zondag", "Eén pakket, per blok van 3 uur", "Factuur op naam van je bedrijf", "Overdag op weekdagen"],
+ "sections": [
+  {"h2": "Het kleine kantoor als uitgangspunt", "p": [
+   "Appels telt geen grote bedrijfsgebouwen waar een poetsploeg op vaste uren door de gangen trekt. Wel zijn er kleine kantoren en zaken, met een team van een handvol tot vijftien mensen. Voor zo'n groep is een poetsdienst met wisselende gezichten omslachtig, en zelf doen kost uren die beter naar de klanten gaan.",
+   "Een vaste Zondag past beter. Eén persoon die jouw kantoor leert kennen, met een duidelijk lijstje en een vast moment in de week. Je weet wie er binnenkomt en je hoeft niet te herhalen wat vorige keer is afgesproken."]},
+  {"h2": "Bureaus, keuken of refter, sanitair", "p": [
+   "Bij een kantoor met dit formaat draait het poetswerk om drie plekken. De bureaus en vergaderplek moeten leeg en afgenomen zijn, de keuken of refter blijft hygiënisch, en het sanitair is op orde.",
+   "<ul class=\"ticks\"><li>Bureaus afnemen, rond opgeruimde spullen</li><li>Vergadertafel en onthaal</li><li>Keuken of refter, frigo-deuren, aanrecht</li><li>Sanitair en vloeren</li><li>Afval en recyclage buiten zetten</li></ul>",
+   "De volledige beschrijving vind je op <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."]},
+  {"h2": "Voorbeeld: een kapsalon in de dorpskern", "p": [
+   "Neem een kapsalon in de dorpskern van Appels, met drie kappersstoelen, een wachtplek en een achterkeuken voor het team. Haar op de vloer, spiegels met vlekken en een nat sanitair zijn de dingen waar klanten naar kijken.",
+   "Je Zondag komt op dinsdagmorgen, wanneer de zaak gesloten is of nog niet open: vloeren, spiegels, wachtplek, sanitair en keuken. De wasbakken en materialen die de kappers zelf gebruiken blijven bij het team. Wil je dat de handdoeken apart gelegd worden, dan zet je dat in het zondagsplan."]},
+  {"h2": "Appels en de omgeving", "p": [
+   "Appels is een deelgemeente van Dendermonde in de Denderstreek. We zoeken Zondags voor bedrijven in Appels en in de buurt, zoals Dendermonde, Oudegem, Schoonaarde en Berlare. Je hoeft niet te weten welke Zondag het dichtst woont; dat zoeken wij uit. Past je zaak niet bij het eerste voorstel, dan kijken we samen verder."]},
+  {"h2": "Factuur en kosten voor je zaak", "p": [
+   "Er is één pakket voor alle taken. Je boekt per blok van 3 uur en kan extra uren toevoegen. De dienstenfactuur staat op naam van je bedrijf met je btw-nummer. Het onderhoud van je kantoor is in principe een beroepskost. De btw is in principe recupereerbaar voor een btw-plichtige zaak met aftrekrecht, niet doorgaans voor een btw-vrijgestelde praktijk. Laat je accountant dit bevestigen."]},
+  {"h2": "Aanvragen in een paar minuten", "p": [
+   "Vul het <a href=\"boeken.html\">aanvraagformulier</a> in of laat je nummer achter. We bellen je binnen één werkdag terug, leggen samen taken, dagen en uren vast en je Zondag start op de afgesproken dag."]}
+ ],
+ "faq": [
+  {"q": "Welk bedrijf levert poetshulp voor een klein kantoor in Appels?", "a": "Zondags uit Marke, met één vaste persoon per zaak. Het werkt voor kantoren, praktijken en winkels van enkele mensen tot ongeveer vijftien medewerkers."},
+  {"q": "Hoe vaak komt de poetshulp langs?", "a": "Dat bepaal je zelf: wekelijks is gebruikelijk voor een klein kantoor, maar je kan het ook anders plannen. Altijd overdag op weekdagen, op een vast uur."},
+  {"q": "Kan mijn kapsalon of winkel ook gepoetst worden?", "a": "Ja, zolang het een bedrijfsruimte is. Je Zondag poetst vloeren, spiegels, sanitair en keuken. Specifiek materiaal van je vak blijft bij het team."},
+  {"q": "Moet ik zelf aanwezig zijn om open te doen?", "a": "Dat hoeft niet. Je kan afspreken hoe je Zondag in de zaak geraakt, bijvoorbeeld via een sleutelafspraak. Dat leggen we samen vast bij het zondagsplan."},
+  {"q": "Doet Zondags ook raamreiniging buiten?", "a": "Ramen langs binnen wel. Ramen langs buiten op hoogte, gevelreiniging en andere werken op hoogte doet Zondags niet."},
+  {"q": "Werkt Zondags ook in Dendermonde zelf?", "a": "Ja. Zondags is actief in Dendermonde, Oudegem, Schoonaarde, Berlare en in heel West- en Oost-Vlaanderen."}
+ ]
+}

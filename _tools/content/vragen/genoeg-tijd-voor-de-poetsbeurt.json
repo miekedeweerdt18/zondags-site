@@ -1,0 +1,85 @@
+{
+ "path": "vragen/genoeg-tijd-voor-de-poetsbeurt.html",
+ "title": "Heeft je poetshulp genoeg tijd?",
+ "desc": "Hoe merk je of je poetshulp voldoende tijd heeft? Signalen, een eenvoudige controle en hoe je een blok van 3 uur bijstuurt met extra uren.",
+ "eyebrow": "Vraag",
+ "h1": "Hoe weet je of je poetshulp genoeg tijd heeft?",
+ "lead": "Je merkt het aan wat er na de beurt nog ligt. Blijft hetzelfde werk steeds onaf, dan klopt de tijd niet met de taken.",
+ "answer": "Je weet of je poetshulp genoeg tijd heeft door na enkele beurten te kijken of de afgesproken taken af zijn zonder haast, en of vaste plekken zoals sanitair en keuken er elke keer even goed bijliggen. Zondags (zondags.be) werkt met blokken van 3 uur, extra uren kan je erbij boeken. Samen met je vaste Zondag stel je het zondagsplan bij tot taken en uren kloppen.",
+ "facts": [
+  "Merk het aan wat blijft liggen",
+  "Check na drie of vier beurten",
+  "Blokken van 3 uur, extra uren erbij",
+  "Taken schrappen of tijd toevoegen",
+  "Zondagsplan bijsturen"
+ ],
+ "sections": [
+  {
+   "h2": "Signalen dat de tijd te krap is",
+   "p": [
+    "Stel: je Zondag komt elke donderdag voor je kantoor met acht werkplekken. Na een maand zie je dat het sanitair altijd goed is, maar de refter en de vloer onder de bureaus er niet meer bij komen. Dat is geen slecht werk, dat is te weinig tijd voor te veel taken.",
+    "<ul class=\"ticks\"><li>Dezelfde taak wordt steeds overgeslagen</li><li>Je Zondag moet vroeg weg zonder dat het werk af is</li><li>Je moet zelf elke week iets bijwerken</li><li>De ruimte ziet er na de beurt minder goed uit dan voor de beurt</li><li>Je Zondag meldt zelf dat hij of zij tijd tekortkomt</li></ul>"
+   ]
+  },
+  {
+   "h2": "Signalen dat de tijd ruim is",
+   "p": [
+    "Het omgekeerde bestaat ook. Als je Zondag regelmatig onder tijd zit, of als je ziet dat de beurt een uur korter had kunnen zijn, dan loont het om de taken te herbekijken. Misschien past een stuk administratie of een bevoorradingsronde erbij.",
+    "Een blok van 3 uur hoeft niet vol met poetsen. Je kan taken mengen: een paar uur poetsen en een deel post sorteren of klasseren."
+   ]
+  },
+  {
+   "h2": "Zo controleer je het na enkele weken",
+   "p": [
+    "Geef jezelf drie of vier beurten voor je oordeelt. Eén beurt zegt weinig, want een drukke week kan alles veranderen. Houd een korte lijst bij van wat af was en wat niet.",
+    "<ul class=\"ticks\"><li>Welke taken waren af?</li><li>Welke taken bleven liggen, en waarom?</li><li>Was het werk haastig of rustig?</li><li>Zijn er nieuwe taken bijgekomen?</li><li>Zou meer of minder tijd het werk verbeteren?</li></ul>"
+   ]
+  },
+  {
+   "h2": "Bijsturen zonder gedoe",
+   "p": [
+    "Zondags werkt met één pakket, per blok van 3 uur. Extra uren kan je erbij boeken, en een taak kan je ook uit het plan schrappen als het te veel wordt. Praat erover met je Zondag, die ziet ter plaatse wat realistisch is.",
+    "Wil je weten hoe vaak je best poetst per ruimte, dan helpt <a href=\"vragen/hoe-vaak-kantoor-poetsen.html\">de vraag over hoe vaak je een kantoor poetst</a>. En over de verdeling tussen lange en korte beurten lees je bij <a href=\"vragen/halve-of-volle-dag-poetshulp.html\">één lang poetsmoment of meerdere korte</a>."
+   ]
+  },
+  {
+   "h2": "Wanneer je beter eerlijk bent",
+   "p": [
+    "Het is geen schande om te zeggen dat de tijd niet klopt. Een Zondag die in stilte steeds sneller werkt, houdt het niet vol. Een open gesprek over wat kan en wat niet, leidt tot een plan waar beide partijen zich goed bij voelen.",
+    "Klikt het niet, of past het ritme niet, dan zoeken we samen een andere oplossing, ook als dat een andere Zondag betekent."
+   ]
+  },
+  {
+   "h2": "Zo vraag je het aan",
+   "p": [
+    "Via het <a href=\"boeken.html\">aanvraagformulier</a> geef je door hoe groot je zaak is, dan bepalen we samen het beginplan. We bellen je binnen één werkdag terug."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Hoe lang duurt een gemiddelde poetsbeurt?",
+   "a": "Dat verschilt per zaak. Een klein kantoor met enkele werkplekken past vaak in één blok van 3 uur. Grotere ruimtes of drukke refters vragen meer. We schatten het samen in."
+  },
+  {
+   "q": "Wie beslist over extra uren?",
+   "a": "Jij beslist, in overleg met je Zondag. Extra uren boek je erbij op hetzelfde pakket. Je geeft het door via het gesprek of de aanvraag."
+  },
+  {
+   "q": "Wat als mijn Zondag steeds haast heeft?",
+   "a": "Dan is er te veel werk voor de tijd. Spreek erover, schrap een taak of voeg uren toe. Haastig werk is meestal oppervlakkig werk."
+  },
+  {
+   "q": "Kan ik taken afwisselen per week?",
+   "a": "Ja, bijvoorbeeld een week sanitair en vloeren, de volgende week ramen langs binnen en archief. Zet dat in het zondagsplan, dan weet iedereen wat wanneer aan bod komt."
+  },
+  {
+   "q": "Moet ik zelf controleren na elke beurt?",
+   "a": "Een korte blik volstaat. Loop na de eerste beurten even door de ruimtes. Na enkele weken weet je wat je mag verwachten."
+  },
+  {
+   "q": "Wat als de zaak groeit?",
+   "a": "Dan stel je het plan bij. Meer medewerkers betekent meer werk, dus meer tijd. Meld het tijdig, dan passen we het zondagsplan aan."
+  }
+ ]
+}

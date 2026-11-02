@@ -1,0 +1,82 @@
+{
+ "path": "vragen/administratieve-achterstand-wegwerken.html",
+ "title": "Een administratieve achterstand wegwerken",
+ "desc": "Hoe werk je een administratieve achterstand weg na een drukke periode? Een stappenplan om te sorteren, te klasseren en bij te blijven, met een vaste Zondag.",
+ "eyebrow": "Vraag",
+ "h1": "Hoe werk je een administratieve achterstand weg na een drukke periode?",
+ "lead": "Na een piek blijft er een stapel liggen: post, facturen, mails, dossiers. Met een vast stappenplan raak je er weer door, zonder alles in een weekend te willen inhalen.",
+ "answer": "Een administratieve achterstand werk je weg door te beginnen met sorteren, daarna te klasseren per soort en ten slotte een vast wekelijks moment in te plannen om bij te blijven. Zondags (zondags.be) stuurt daarvoor één vaste persoon die post opent en sorteert, documenten en facturen klasseert en dossiers ordent, ondersteunend en met discretie. Boekhouding, jaarrekeningen, loonadministratie en fiscaal of juridisch advies blijven bij je accountant of adviseur.",
+ "facts": [
+  "Sorteren, klasseren, bijhouden",
+  "Vast wekelijks moment",
+  "Ondersteunend, geen boekhouding",
+  "Discretie met documenten",
+  "Steeds dezelfde Zondag"
+ ],
+ "sections": [
+  {
+   "h2": "Eerst een overzicht, dan pas actie",
+   "p": [
+    "Een stapel die te groot lijkt, wordt kleiner als je ze in groepen verdeelt. Doe dat in één keer, zonder iets af te werken: post, facturen van leveranciers, facturen aan klanten, offertes, contracten, gewone documenten en alles wat dringend is.",
+    "Zet een grote doos of lade klaar voor wat je niet kan plaatsen. Daar kom je later op terug. De eerste stap is enkel sorteren."
+   ]
+  },
+  {
+   "h2": "Het stappenplan",
+   "p": [
+    "<ul class=\"ticks\"><li>Stap 1: sorteren per soort, zonder te lezen</li><li>Stap 2: dringende zaken eruit halen en afhandelen</li><li>Stap 3: documenten klasseren in ordners of digitale mappen</li><li>Stap 4: facturen doorgeven aan de accountant volgens zijn werkwijze</li><li>Stap 5: een vast wekelijks moment plannen om bij te blijven</li></ul>",
+    "Vermijd de verleiding om alles meteen af te werken. Een achterstand die in jaren is gegroeid, los je niet in één namiddag op."
+   ]
+  },
+  {
+   "h2": "Wat je Zondag doet en wat niet",
+   "p": [
+    "Je Zondag opent en sorteert de post, klasseert documenten, ordent dossiers en archief, voert gegevens in en houdt kantoormateriaal bij. Dat is ondersteunend werk dat jij kan nakijken.",
+    "Wat je Zondag niet doet: boekhouding, jaarrekeningen, loonadministratie en fiscaal of juridisch advies. De accountant blijft de accountant. Meer lees je op <a href=\"bedrijven/administratie-hulp-voor-bedrijven.html\">administratieve hulp voor bedrijven</a>."
+   ]
+  },
+  {
+   "h2": "Bijblijven na de inhaalbeurt",
+   "p": [
+    "De grootste fout na een inhaalbeurt is terugvallen in het oude patroon. Plan daarom een vast wekelijks moment, ook al is het kort. Op een vaste dag opent je Zondag de post, plaatst facturen in de juiste map en legt dringende zaken bovenaan.",
+    "Zo blijft de stapel klein, en moet je geen volledige dag meer inplannen om dingen terug te vinden."
+   ]
+  },
+  {
+   "h2": "Stel: na een drukke zomer in een installatiebedrijf",
+   "p": [
+    "Neem een klein installatiebedrijf waar de zaakvoerder de hele zomer op de baan was. Op kantoor liggen drie stapels: leveranciersfacturen, offertes en opgeslagen post. De Zondag komt twee ochtenden: de eerste voor sorteren en klasseren, de tweede voor het doorgeven van facturen en het ordenen van de dossiers.",
+    "Daarna komt ze elke vrijdag een blok om de post en facturen in de map te zetten. De zaakvoerder weet waar alles zit."
+   ]
+  },
+  {
+   "h2": "Zo vraag je het aan",
+   "p": [
+    "Vraag je Zondag aan via het <a href=\"boeken.html\">aanvraagformulier</a>. We bellen je binnen één werkdag terug en leggen samen vast wat er moet gebeuren, hoeveel blokken van 3 uur ervoor nodig zijn en op welke dagen. Je kan ook eerst vrijblijvend info vragen via <a href=\"aanvraag.html\">de infopagina</a>.",
+    "Je krijgt een dienstenfactuur op naam van je bedrijf. Poetshulp en administratieve hulp voor de zaak zijn in principe een beroepskost; laat je accountant dit bevestigen voor je eigen situatie."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Waar begin ik met een grote stapel?",
+   "a": "Met sorteren per soort, zonder alles te lezen. Haal eerst de dringende zaken eruit, dan pas klasseer je de rest."
+  },
+  {
+   "q": "Kan Zondags mijn facturen boeken?",
+   "a": "Nee, dat is boekhouding en hoort bij je accountant. Je Zondag kan wel facturen klasseren en klaarleggen voor de accountant."
+  },
+  {
+   "q": "Hoe lang duurt het wegwerken van een achterstand?",
+   "a": "Dat hangt af van de omvang en van hoe goed de stukken vooraf al geordend waren. Begin met één blok van 3 uur en boek extra uren als dat nodig blijkt."
+  },
+  {
+   "q": "Moet ik aanwezig zijn?",
+   "a": "Voor vragen is het handig om bereikbaar te zijn. Je Zondag werkt zelfstandig en legt onduidelijke stukken apart, zodat jij ze later beoordeelt."
+  },
+  {
+   "q": "Is mijn Zondag discreet met documenten?",
+   "a": "Ja. Je Zondag is gescreend en in dienst van Zondags, en gaat discreet om met alle documenten die ze tegenkomt."
+  }
+ ]
+}

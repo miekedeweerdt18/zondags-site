@@ -1,0 +1,86 @@
+{
+ "path": "vragen/administratieve-hulp-voor-een-project.html",
+ "title": "Administratieve hulp voor één project",
+ "desc": "Kan je administratieve hulp vragen voor één project? Ja, tijdelijk en gericht: welke taken, hoe het afgebakend wordt en wat het niet is.",
+ "eyebrow": "Vraag",
+ "h1": "Kan je administratieve hulp vragen voor één project?",
+ "lead": "Ja. Je kan hulp inzetten voor een afgebakende periode, bijvoorbeeld een verhuis, een audit of een dossieroverdracht, en daarna weer stoppen.",
+ "answer": "Ja, je kan administratieve hulp vragen voor één project. Zondags (zondags.be) zet een vaste Zondag in voor een afgebakende periode, overdag op weekdagen, voor ondersteunende taken zoals documenten klasseren, dossiers ordenen, gegevens invoeren en afspraken inplannen. Boekhouding, loonadministratie en fiscaal of juridisch werk zijn uitgesloten. Je boekt per blok van 3 uur. Je vraagt het aan via het aanvraagformulier.",
+ "facts": [
+  "Tijdelijk en afgebakend",
+  "Klasseren, ordenen, invoeren",
+  "Geen boekhouding of fiscaal werk",
+  "Overdag op weekdagen",
+  "Eén pakket, per blok van 3 uur"
+ ],
+ "sections": [
+  {
+   "h2": "Wat een project kan zijn",
+   "p": [
+    "Stel: je bent een bureau dat een grote klant overdraagt aan een collega. Of je verhuist je kantoor en moet het archief ordenen. Of je bereidt een audit voor en moet dossiers op orde brengen. Telkens is er een einddatum en een duidelijk resultaat.",
+    "<ul class=\"ticks\"><li>Een kantoor- of archiefverhuis</li><li>Dossiers overdragen of afsluiten</li><li>Een beurs of evenement voorbereiden</li><li>Een opruimactie na een drukke periode</li><li>Een nieuwe collega inwerken met gestructureerde mappen</li></ul>"
+   ]
+  },
+  {
+   "h2": "Welke taken je Zondag kan doen",
+   "p": [
+    "Alles wat ondersteunend is. Je Zondag werkt ter plaatse in jouw zaak, op weekdagen, overdag.",
+    "<ul class=\"ticks\"><li>Post openen en sorteren</li><li>Documenten en facturen klasseren</li><li>Dossiers en archief ordenen</li><li>Gegevens invoeren in een lijst of systeem dat jij aanwijst</li><li>Afspraken en agenda inplannen</li><li>Kantoorbenodigdheden bestellen</li><li>Pakjes en zendingen klaarmaken</li></ul>"
+   ]
+  },
+  {
+   "h2": "Wat het niet is",
+   "p": [
+    "Administratieve hulp is ondersteunend. Zondags doet geen boekhouding, geen jaarrekening, geen loonadministratie en geen fiscaal of juridisch advies. Je boekhouder of accountant blijft je boekhouder of accountant.",
+    "Hoe dat precies zit, lees je bij <a href=\"vragen/administratieve-hulp-zonder-boekhouding.html\">administratieve hulp zonder boekhouding</a>. Daar staat uitgebreid wat wel en niet tot het werk behoort."
+   ]
+  },
+  {
+   "h2": "Afbakenen: begin, einde en resultaat",
+   "p": [
+    "Een project werkt als je het afbakent. Schrijf op wat er in de kast ligt als het klaar is. Wat is het eindresultaat? Hoeveel dozen, welke dossiers, welke lijst? Hoe meer concreet, hoe beter je kan inschatten hoeveel blokken je nodig hebt.",
+    "Spreek ook af wie vragen beantwoordt. Een Zondag die elke vijf minuten moet wachten op een antwoord, verliest tijd. Eén aanspreekpunt in je team is genoeg.",
+    "Een korte startbespreking helpt. Loop samen met je Zondag de eerste dag door de stapel, laat zien hoe je wil klasseren en blijf de eerste uren bereikbaar voor vragen. Daarna werkt het meestal zelfstandig, en kijk je op het einde van elke beurt samen wat af is."
+   ]
+  },
+  {
+   "h2": "Discretie bij documenten",
+   "p": [
+    "Dossiers bevatten vaak gevoelige informatie. Je Zondag is gescreend en in dienst van Zondags. Je beslist zelf welke documenten wel en niet aan bod komen en welke kasten dicht blijven.",
+    "Laat vertrouwelijke stukken eerst door een bevoegde collega bekijken. Dat is jouw verantwoordelijkheid, niet die van de Zondag."
+   ]
+  },
+  {
+   "h2": "Zo vraag je het aan",
+   "p": [
+    "Gebruik het <a href=\"boeken.html\">aanvraagformulier</a> en beschrijf het project en de gewenste periode. We bellen je binnen één werkdag terug, bespreken het aantal blokken en leggen het zondagsplan vast. Daarna volgt een dienstenfactuur op naam van je bedrijf. Meer over wat de dienst inhoudt, lees je bij <a href=\"bedrijven/administratie-hulp-voor-bedrijven.html\">administratieve hulp voor bedrijven</a>."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Kan ik de hulp na het project stopzetten?",
+   "a": "Ja. Je vraagt hulp voor een afgesproken periode. Na afloop beslis je zelf of je stopt of een vast ritme kiest."
+  },
+  {
+   "q": "Hoeveel blokken heb ik nodig?",
+   "a": "Dat hangt af van de omvang. Een duidelijk afgebakend project laat zich beter inschatten. We bespreken het in het gesprek na je aanvraag."
+  },
+  {
+   "q": "Kan mijn Zondag zelfstandig werken?",
+   "a": "Ja, met duidelijke instructies. Jij legt uit hoe je het wil ordenen of invoeren, en je Zondag voert uit."
+  },
+  {
+   "q": "Mag mijn Zondag in mijn boekhoudsoftware werken?",
+   "a": "Gegevens invoeren in een lijst of systeem kan, maar het gaat om ondersteunend werk. Boekhoudkundige boekingen of aangiftes horen bij je boekhouder."
+  },
+  {
+   "q": "Kan het project een uur in de ochtend of over de middag?",
+   "a": "Ja, vroeg in de ochtend of over de middag kan. Altijd overdag op weekdagen, nooit 's avonds of in het weekend."
+  },
+  {
+   "q": "Is dit ook geschikt voor een kleine zaak?",
+   "a": "Zeker. Juist kleine bedrijven hebben geen administratief medewerker en laten projecten liggen. Een afgebakende periode helpt."
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "title": "Poetshulp voor handelsagenten met een kantoor",
+ "desc": "Hulp voor een handelsagent met een eigen kantoor: poetsen, stalen en presentatiemateriaal, pakjes en zendingen klaarmaken. Eén vaste Zondag voor je zaak.",
+ "eyebrow": "Handelsagenten",
+ "h1": "Poetshulp voor handelsagenten met een eigen kantoor",
+ "lead": "Een handelsagent is vooral op de baan, maar stalen, brochures en zendingen komen toch op kantoor samen. Een vaste Zondag houdt ze in orde en maakt pakjes klaar terwijl jij bij klanten bent.",
+ "answer": "Zondags (zondags.be) helpt handelsagenten met een eigen kantoor in West- en Oost-Vlaanderen. Je Zondag, steeds dezelfde persoon, poetst kantoor, vergaderhoek, keukentje en sanitair, ordent stalen en presentatiemateriaal volgens jouw systeem en maakt pakjes en zendingen klaar. Verkoopwerk, boekhouding en offertes blijven bij jou. Je vraagt aan via het aanvraagformulier en betaalt per blok van 3 uur.",
+ "facts": [
+  "Kantoor, vergaderhoek, keukentje, sanitair",
+  "Stalen en brochures in orde houden",
+  "Pakjes en zendingen klaarmaken",
+  "Steeds dezelfde Zondag",
+  "Eén pakket, per blok van 3 uur",
+  "Dienstenfactuur op naam van je bedrijf"
+ ],
+ "sections": [
+  {
+   "h2": "Een kantoor dat vooral een magazijn van stalen is",
+   "p": [
+    "Voor een handelsagent is het kantoor een steunpunt: hier liggen de stalen, de catalogi, de prijslijsten en de dozen die onderweg moeten. Er komen soms klanten of leveranciers langs voor een gesprek, maar de grootste druk ligt op de logistiek rond het werk bij klanten.",
+    "Als dat steunpunt rommelig is, kost het je tijd net wanneer je ze het minst heeft: vlak voor je vertrekt of op de terugweg van een afspraak."
+   ]
+  },
+  {
+   "h2": "Wat je Zondag verzorgt",
+   "p": [
+    "<ul class=\"ticks\"><li>Bureau, vergaderhoek en vloer van het kantoor</li><li>Keukentje en koffiehoek aanvullen</li><li>Sanitair en afval</li><li>Rek of kast met stalen netjes houden en afstoffen, zonder ze door elkaar te halen</li><li>Dozen, brochures en folders op hun plaats leggen</li></ul>",
+    "De volgorde van je stalen bepaal je zelf. Leg het één keer uit of geef een plattegrond mee, en je Zondag zet alles terug waar het hoort."
+   ]
+  },
+  {
+   "h2": "Rechterhand voor pakjes en zendingen",
+   "p": [
+    "Een groot deel van het werk is logistiek. Je Zondag kan stalen inpakken en etiketteren, retours terugleggen, brochures klaarzetten voor een bezoek en pakjes naar de koerier brengen of laten ophalen. Ook kantoormateriaal en koffie bestellen of halen hoort erbij.",
+    "Het blijft werk voor de zaak, binnen de afspraken die jij maakt. Wil je meer weten over die rol, dan lees je <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">de rechterhand voor bedrijfsleiders</a>."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een agent met drie merken en een klein kantoor",
+   "p": [
+    "Neem een handelsagent die drie merken vertegenwoordigt. Op maandag en dinsdag is hij bij klanten, op woensdag en vrijdag werkt hij op kantoor. Op dinsdag komt zijn Zondag langs: ze poetst, sorteert de post en legt de stalen klaar die hij woensdag nodig heeft.",
+    "Vlak voor een nieuwe ronde komt ze nog een keer voor een korte beurt: pakketten voor klanten verpakken, brochures aanvullen en een zending naar de koerier brengen."
+   ]
+  },
+  {
+   "h2": "Administratie zonder boekhouding",
+   "p": [
+    "Wat ook meetelt: facturen van merken en leveranciers klasseren, post openen en sorteren, bestelbonnen opvolgen en gegevens uit een lijst invoeren. Je Zondag doet dat volgens een eenvoudig systeem dat je samen vastlegt. Boekhouding, commissieberekeningen en contracten met merken blijven bij jou en je accountant."
+   ]
+  },
+  {
+   "h2": "Factuur en aanvraag",
+   "p": [
+    "Je krijgt één pakket voor alle taken en betaalt per blok van 3 uur, met extra uren op aanvraag. De dienstenfactuur staat op naam van je bedrijf of vennootschap. In principe is het een beroepskost en kan de btw in principe recupereerbaar zijn voor een btw-plichtige zaak met aftrekrecht. Laat je accountant dit bevestigen.",
+    "Vul het <a href=\"boeken.html\">aanvraagformulier</a> in of vraag <a href=\"aanvraag.html\">vrijblijvend info</a>. We bellen je binnen één werkdag terug."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Kan een handelsagent een vaste Zondag nemen voor zijn kantoor?",
+   "a": "Ja. Zondags werkt voor bedrijven met een eigen kantoor, ook als je zelf veel onderweg bent. Je Zondag komt op een vaste dag en uur, ook als je niet aanwezig bent."
+  },
+  {
+   "q": "Kan mijn Zondag pakjes met stalen klaarmaken?",
+   "a": "Ja. Ze verpakt, etiketteert met jouw gegevens en legt zendingen klaar voor de koerier. Wat ze verstuurt en naar wie bepaal jij."
+  },
+  {
+   "q": "Moet ik aanwezig zijn tijdens de beurt?",
+   "a": "Niet noodzakelijk. We spreken af hoe je Zondag binnenkomt en wat ze doet. Een korte lijst of een bericht voor die dag volstaat vaak."
+  },
+  {
+   "q": "Doet Zondags de boekhouding van een handelsagent?",
+   "a": "Nee. Je Zondag klasseert facturen en post, maar voert geen boekhouding en geeft geen fiscaal of juridisch advies. Dat blijft bij jou en je accountant."
+  },
+  {
+   "q": "Hoe begin ik?",
+   "a": "Via het aanvraagformulier. We bellen je binnen één werkdag terug en leggen samen vast welke taken, dagen en uren bij je kantoor passen."
+  }
+ ],
+ "path": "sectoren/handelsagenten.html"
+}

@@ -1,0 +1,86 @@
+{
+ "path": "vragen/kantoor-opruimen-na-jaarafsluiting.html",
+ "title": "Kantoor opruimen na de jaarafsluiting",
+ "desc": "Zo ruim je je kantoor op na de jaarafsluiting: papieren, archief, bureaus en lijsten. Wat je Zondag doet en wat bij je boekhouder blijft.",
+ "eyebrow": "Vraag",
+ "h1": "Hoe ruim je je kantoor op na de jaarafsluiting?",
+ "lead": "Na de jaarafsluiting liggen er stapels papier, mappen en dozen. Opruimen doe je in vaste stappen, zonder iets weg te gooien dat je nog moet bewaren.",
+ "answer": "Je ruimt je kantoor op na de jaarafsluiting door eerst te bepalen wat bewaard moet blijven, dan stukken te ordenen en te archiveren, en daarna bureaus, kasten en vloeren grondig te reinigen. Zondags (zondags.be) helpt met klasseren, archief ordenen en poetsen, overdag op weekdagen. De jaarafsluiting zelf en bewaartermijnen blijven bij je boekhouder. Je vraagt het aan via het aanvraagformulier.",
+ "facts": [
+  "Eerst bepalen wat bewaard wordt",
+  "Klasseren en archief ordenen",
+  "Daarna grondig poetsen",
+  "Geen boekhouding of jaarafsluiting",
+  "Overdag op weekdagen"
+ ],
+ "sections": [
+  {
+   "h2": "Eerst afspraken met je boekhouder",
+   "p": [
+    "Stel: je jaarafsluiting is rond en je boekhouder heeft wat hij nodig had. Op je bureau liggen nog dozen, mappen en losse stukken. Voor je iets weggooit, vraag je wat bewaard moet worden en hoe lang. Dat verschilt per soort stuk, en het antwoord geeft je boekhouder, niet wij.",
+    "Vraag de lijst schriftelijk en bewaar ze bij de archiefdozen. Dan hoef je er niet elk jaar opnieuw over te twijfelen."
+   ]
+  },
+  {
+   "h2": "Stap een: sorteren in drie stapels",
+   "p": [
+    "<ul class=\"ticks\"><li>Bewaren: in een doos met jaartal en inhoud</li><li>Digitaliseren of kopiëren: als jij en je boekhouder dat willen</li><li>Weg: zeker weten dat het mag, of vernietigen indien vertrouwelijk</li></ul>",
+    "Doe dit met twee personen als het kan: één die beslist, één die noteert. Zo gaat het sneller en blijft er een overzicht.",
+    "Hou een aparte doos voor stukken waarover je twijfelt. Beslis daarover samen met je boekhouder en haal de doos pas weg als je antwoord hebt."
+   ]
+  },
+  {
+   "h2": "Stap twee: archiveren en labelen",
+   "p": [
+    "Een doos met een duidelijk etiket spaart je volgend jaar uren. Noteer jaartal, soort stukken en de datum waarop je kan bekijken of ze weg mogen. Zet de dozen op een vaste plek, niet in de gang.",
+    "Dossiers en archief ordenen hoort bij de administratieve hulp. Je Zondag kan klasseren, labelen en dozen opbergen. Hoe het archief in een kantoor ordenen kan, lees je bij <a href=\"vragen/archief-op-kantoor-ordenen.html\">archief op kantoor ordenen</a>."
+   ]
+  },
+  {
+   "h2": "Stap drie: dan pas grondig poetsen",
+   "p": [
+    "Een kantoor zonder stapels is veel sneller te reinigen. Nu kunnen vloeren, bureaus, kasten en ramen langs binnen echt grondig.",
+    "<ul class=\"ticks\"><li>Bureaus leeg en afgenomen, laden binnenin</li><li>Kasten en rekken afgestoft</li><li>Vloeren onder bureaus en kasten</li><li>Vergadertafel en onthaal</li><li>Keuken en sanitair</li></ul>"
+   ]
+  },
+  {
+   "h2": "Wat Zondags niet doet",
+   "p": [
+    "De jaarafsluiting zelf, de boekhouding, de jaarrekening, de aangiftes en alle fiscale of juridische beslissingen blijven bij je boekhouder of accountant. Zondags is ondersteunend: sorteren, ordenen, invoeren, klaarzetten.",
+    "Neem je vragen over wat bewaard moet worden altijd mee naar je boekhouder. Wij beslissen daar niet over."
+   ]
+  },
+  {
+   "h2": "Aanvragen en planning",
+   "p": [
+    "Een goede periode is meteen na de afsluiting, wanneer de stapels er nog liggen. Zondags werkt overdag op weekdagen. Vraag het aan via het <a href=\"boeken.html\">aanvraagformulier</a>, we bellen je binnen één werkdag terug. Je krijgt een dienstenfactuur op naam van je bedrijf; laat je accountant bevestigen hoe dat fiscaal ligt."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Kan mijn Zondag documenten vernietigen?",
+   "a": "Alleen na jouw uitdrukkelijk akkoord en volgens jouw afspraken. Wat bewaard moet worden, bepaal je met je boekhouder."
+  },
+  {
+   "q": "Mag mijn Zondag in mijn boekhouding werken?",
+   "a": "Nee. Boekhouding, jaarrekeningen, aangiftes en alles wat fiscaal of juridisch is, blijft bij je boekhouder of accountant. Je Zondag ordent, klasseert, labelt dozen en voert gegevens in op jouw aanwijzing."
+  },
+  {
+   "q": "Hoeveel tijd vraagt dit?",
+   "a": "Dat hangt af van het volume. Een paar dozen is snel gedaan, een volledig archief vraagt meerdere blokken van 3 uur. Extra uren kan je erbij boeken."
+  },
+  {
+   "q": "Kunnen oude stukken digitaal gemaakt worden?",
+   "a": "Invoeren en klaarmaken van gegevens kan als ondersteunend werk. Scannen met eigen apparatuur spreek je vooraf af."
+  },
+  {
+   "q": "Is dit een jaarlijks terugkerende taak?",
+   "a": "Dikwijls wel. Je kan elk jaar na de afsluiting een afgebakende periode inplannen of het in een vast zondagsplan opnemen."
+  },
+  {
+   "q": "Wat met vertrouwelijke stukken?",
+   "a": "Je Zondag is gescreend en in dienst van Zondags. Toch ben jij verantwoordelijk voor wat in handen komt. Laat vertrouwelijke stukken vooraf door een bevoegde collega apart zetten."
+  }
+ ]
+}

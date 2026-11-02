@@ -1,0 +1,75 @@
+{
+ "path": "vragen/onthaalmap-nieuwe-poetshulp.html",
+ "title": "Onthaalmap voor een nieuwe poetshulp",
+ "desc": "Wat hoort in een onthaalmap voor een nieuwe poetshulp op kantoor? Een bruikbare inhoudslijst met toegang, taken, materiaal en afspraken, plus hoe Zondags helpt.",
+ "eyebrow": "Vraag",
+ "h1": "Wat hoort in een onthaalmap voor een nieuwe poetshulp op kantoor?",
+ "lead": "Een goede eerste dag begint met een map of blad waarop alles staat wat je Zondag moet weten. Zo hoef je niet elke week iets opnieuw uit te leggen.",
+ "answer": "Een onthaalmap voor een nieuwe poetshulp bevat vijf dingen: hoe je het kantoor binnenkomt en afsluit, de lijst met taken per ruimte, waar het materiaal en de producten staan, wat niet mag of anders moet, en een contactpersoon voor vragen. Bij Zondags (zondags.be) krijg je één vaste persoon, je Zondag, dus de map schrijf je maar één keer. Het zondagsplan dat we samen opmaken is de basis van die map.",
+ "facts": [
+  "Toegang en alarm",
+  "Taken per ruimte",
+  "Materiaal en producten",
+  "Wat niet mag",
+  "Contactpersoon"
+ ],
+ "sections": [
+  {
+   "h2": "Waarom een map zo veel tijd bespaart",
+   "p": [
+    "Een nieuwe poetshulp kent je kantoor niet. Zonder map moet ze veel raden of vragen, en jij bent er niet altijd om te antwoorden. Een goed blad vermindert fouten, zoals een verkeerd product op een delicaat oppervlak, en maakt de eerste weken minder stresserend voor beide partijen.",
+    "De map hoeft niet lang te zijn. Twee tot drie bladzijden die je ook zelf nog eens naleest, doen meer dan een document van tien bladzijden dat niemand opent."
+   ]
+  },
+  {
+   "h2": "De inhoud, punt per punt",
+   "p": [
+    "<ul class=\"ticks\"><li>Toegang: sleutel of code, alarm in- en uitschakelen, wie te bellen als het niet lukt</li><li>Taken per ruimte: bureaus, vergaderzaal, onthaal, keuken, sanitair, vloeren</li><li>Materiaal: waar staan stofzuiger, emmer, doeken en producten</li><li>Bijzonderheden: kwetsbare oppervlakken, dossiers die niet verplaatst mogen worden, planten</li><li>Afval: welke zakken, waar naartoe, welke dag de ophaling is</li><li>Contact: wie neemt op bij vragen, hoe meld je een probleem</li></ul>",
+    "Zet er ook bij hoe laat je Zondag aankomt en vertrekt, en wat er moet gebeuren als er iemand van het team aanwezig is."
+   ]
+  },
+  {
+   "h2": "Wat je niet in de map vergeet",
+   "p": [
+    "Denk aan de kleine dingen die in elk kantoor anders zijn: welke ruimte altijd op slot blijft, welke bureaus niet afgenomen mogen worden, of de koffiemachine een speciale reiniging nodig heeft. Dat zijn precies de zaken die pas opvallen als iets fout loopt.",
+    "Schrijf er ook bij wat je graag zou willen dat je Zondag signaleert, zoals een lege zeepdispenser of een kapotte lamp. Je Zondag meldt dat gewoon, zonder het zelf op te lossen als het technisch is."
+   ]
+  },
+  {
+   "h2": "Stel: een nieuwe Zondag voor een tandartspraktijk",
+   "p": [
+    "Neem een praktijk met twee behandelkamers, een wachtzaal en een kleine keuken. De map zegt waar de sleutel ligt, dat de behandelkamers enkel van buiten worden gedaan en dat instrumenten en medisch materiaal nooit worden aangeraakt. De wachtzaal staat voor de rest van het blad, met een lijst van zaken die elke week moeten gebeuren.",
+    "Zo weet je Zondag vanaf week één wat er verwacht wordt, en hoef je niet bij elke afspraak aanwezig te zijn."
+   ]
+  },
+  {
+   "h2": "Hoe Zondags je hierbij helpt",
+   "p": [
+    "In het kennismakingsgesprek lopen we samen de punten van de map af en leggen we het zondagsplan vast: welke taken, welke dagen, welke uren. Dat plan is je map in een notendop. Daarna kan je zelf aanvullen.",
+    "Een Zondag vraag je aan via het <a href=\"boeken.html\">aanvraagformulier</a>, of je vraagt eerst vrijblijvend info via <a href=\"aanvraag.html\">de infopagina</a>. We bellen je binnen één werkdag terug. Meer lezen over een goede start kan op <a href=\"vragen/eerste-afspraak-met-je-zondag-voorbereiden.html\">de eerste afspraak voorbereiden</a>."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Hoe lang moet een onthaalmap zijn?",
+   "a": "Twee tot drie bladzijden volstaan meestal. Hou het kort, concreet en per ruimte opgesplitst, zodat je Zondag er snel iets in terugvindt."
+  },
+  {
+   "q": "Moet ik de map zelf opmaken?",
+   "a": "Je schrijft hem het best zelf, omdat jij je kantoor het best kent. Tijdens het gesprek met Zondags helpen we je daarbij en vormt het zondagsplan een goede basis."
+  },
+  {
+   "q": "Wat zet ik over het alarm in de map?",
+   "a": "Hoe je het uitschakelt, welke code of sleutel je Zondag krijgt en wat te doen als het alarm toch afgaat. Zet er ook het nummer bij van iemand die kan helpen."
+  },
+  {
+   "q": "Moet ik alle producten opsommen?",
+   "a": "Niet per se. Zet er wel bij welke producten niet mogen worden gebruikt op bepaalde oppervlakken, en waar het materiaal staat."
+  },
+  {
+   "q": "Blijft de map geldig als mijn Zondag verandert?",
+   "a": "Ja, dat is precies het voordeel van een map. Als je Zondag vervangen wordt, bijvoorbeeld bij ziekte of verlof, vindt de nieuwe persoon alles op papier terug."
+  }
+ ]
+}

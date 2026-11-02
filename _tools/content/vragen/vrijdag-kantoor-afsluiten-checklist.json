@@ -1,0 +1,86 @@
+{
+ "path": "vragen/vrijdag-kantoor-afsluiten-checklist.html",
+ "title": "Vrijdag: kantoor netjes afsluiten voor het weekend",
+ "desc": "Checklist voor vrijdag: wat doen je team en je vaste Zondag overdag om het kantoor netjes af te sluiten voor het weekend.",
+ "eyebrow": "Vraag",
+ "h1": "Wat doe je op vrijdag om je kantoor netjes af te sluiten voor het weekend?",
+ "lead": "Een kantoor dat vrijdagmiddag opgeruimd achterblijft, begint maandag beter. Hier lees je wat je team doet en wat je Zondag overdag oppakt.",
+ "answer": "Op vrijdag sluit je je kantoor netjes af door afval en kopjes weg te halen, de frigo te legen, ramen en deuren te controleren en bureaus op te ruimen. Je vaste Zondag van Zondags (zondags.be) komt overdag op vrijdag voor poetsen, afval en een controleronde, nooit 's avonds of in het weekend. Je vraagt het aan via het aanvraagformulier en we bellen je binnen één werkdag terug.",
+ "facts": [
+  "Afval en frigo vrijdag leegmaken",
+  "Bureaus opgeruimd achterlaten",
+  "Ramen, deuren en alarm controleren",
+  "Je Zondag werkt overdag op vrijdag",
+  "Eén pakket, per blok van 3 uur"
+ ],
+ "sections": [
+  {
+   "h2": "Waarom vrijdag een apart moment is",
+   "p": [
+    "Stel: je team vertrekt vrijdag om vier uur. Wat dan blijft liggen, ligt er drie dagen. Een kopje in de gootsteen krijgt schimmel, een vol vuilbakje begint te ruiken, een open raam laat regen binnen. Daarom loont een vaste afsluitronde op vrijdag.",
+    "Het gaat niet om perfect, maar om niets achter te laten dat tot maandag slechter wordt."
+   ]
+  },
+  {
+   "h2": "Checklist voor je team",
+   "p": [
+    "<ul class=\"ticks\"><li>Kopjes, glazen en bestek afwassen of in de vaatwasser</li><li>Frigo leegmaken van etenswaren die niet blijven</li><li>Prullenmanden en afval buiten zetten</li><li>Bureaus opgeruimd, geen open dossiers of waardevolle spullen</li><li>Computers uit of in slaapstand volgens afspraak</li><li>Planten water geven indien nodig</li><li>Ramen en binnendeuren sluiten, verwarming of airco instellen</li></ul>",
+    "Hang de lijst op bij de uitgang of in de refter. Wie als laatste vertrekt, loopt hem af. Zo weet je dat het ook gebeurt op vrijdagen waarop iedereen haast heeft."
+   ]
+  },
+  {
+   "h2": "Wat je Zondag op vrijdag overdag doet",
+   "p": [
+    "Je vaste Zondag komt op een vast uur, bijvoorbeeld in de late voormiddag of na de middag. Dat is overdag, dus het kantoor is nog bezet. Daarom werken we met een lijstje dat niet in de weg zit.",
+    "<ul class=\"ticks\"><li>Sanitair, keuken en refter grondig</li><li>Vloeren en onthaal</li><li>Afval en recyclage buiten zetten</li><li>Koffiehoek bevoorraden voor maandag</li><li>Post sorteren die al binnengekomen is</li></ul>"
+   ]
+  },
+  {
+   "h2": "Wat beter niet kan",
+   "p": [
+    "Zondags werkt niet 's avonds en niet in het weekend. Een poetsbeurt na kantoortijd op vrijdag valt dus buiten het bereik. Wil je dat het kantoor echt leeg is, plan je de beurt op een andere dag, of je kiest vroeg op de ochtend.",
+    "Sluiten, het alarm inschakelen en de sleutels bewaren blijft jouw taak of die van een verantwoordelijke. Afspraken over toegang bespreken we vooraf.",
+    "Een alternatief is de poetsbeurt op donderdag of vrijdagvoormiddag te leggen. Dan blijft de afsluiting van de dag zelf klein en kan je team de laatste uren rustig afronden."
+   ]
+  },
+  {
+   "h2": "Maandag begint op vrijdag",
+   "p": [
+    "Kijk nog even naar volgende week. Welke afspraken staan er? Staat de vergaderzaal klaar? Is er genoeg koffie? Een korte lijst op vrijdag voorkomt een rommelige maandag.",
+    "Je Zondag kan de agenda en afspraken inplannen en opvolgen. Zie ook <a href=\"vragen/bureaus-leeg-voor-de-poetsbeurt.html\">bureaus leeg voor de poetsbeurt</a> voor wat team en Zondag op elkaar afstemmen."
+   ]
+  },
+  {
+   "h2": "Aanvragen",
+   "p": [
+    "Vraag je Zondag aan via het <a href=\"boeken.html\">aanvraagformulier</a>. We leggen samen het zondagsplan vast: dag, uur, taken. Je krijgt een dienstenfactuur op naam van je bedrijf. Meer over de dienst lees je bij <a href=\"bedrijven/poetshulp-voor-bedrijven.html\">poetshulp voor bedrijven</a>."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Kan mijn Zondag het kantoor afsluiten en het alarm inschakelen?",
+   "a": "Dat is jouw verantwoordelijkheid of die van een aangeduide collega. Sluit je liever zelf, dan plan je de Zondag eerder op de dag."
+  },
+  {
+   "q": "Wanneer is de beste tijd op vrijdag?",
+   "a": "Vaak de late voormiddag of na de middag. Zo is het kantoor nog bezet, maar het vuil van de week is al ontstaan."
+  },
+  {
+   "q": "Kan de beurt ook op donderdag?",
+   "a": "Ja. Dan blijft vrijdag voor je team nog het afsluiten van kopjes en afval. Kies wat het best past."
+  },
+  {
+   "q": "Wat als het kantoor op vrijdag vol zit?",
+   "a": "Dan werkt je Zondag rond je team. Spreek af welke ruimtes vrij zijn. Sanitair en keuken kunnen meestal altijd."
+  },
+  {
+   "q": "Kan mijn Zondag ook de frigo leegmaken?",
+   "a": "Ja, de keuken en frigo horen bij de poetsbeurt. Zeg wat blijft en wat weg mag."
+  },
+  {
+   "q": "Is een vrijdagbeurt duurder?",
+   "a": "Nee, het pakket is voor alle weekdagen hetzelfde. Meer over het pakket krijg je in het gesprek na je aanvraag."
+  }
+ ]
+}

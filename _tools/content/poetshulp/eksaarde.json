@@ -1,0 +1,36 @@
+{
+ "path": "poetshulp/eksaarde.html",
+ "title": "Poetshulp en administratie voor bedrijven in Eksaarde",
+ "desc": "Eksaarde: poetshulp, post, administratie en regelwerk voor je zaak door één vaste Zondag. Overdag op weekdagen, factuur op naam van je bedrijf.",
+ "eyebrow": "Eksaarde · 9160",
+ "h1": "Poetshulp voor bedrijven in Eksaarde",
+ "lead": "Wie een zaak runt, wil niet alleen een nette ruimte maar ook minder losse eindjes. Eén vaste Zondag poetst en pakt post en regelwerk mee op.",
+ "answer": "Zondags (zondags.be) levert voor bedrijven in Eksaarde, een deelgemeente van Lokeren in het Waasland, poetshulp gecombineerd met administratieve hulp en praktisch regelwerk. Een vaste persoon, je Zondag, komt op een vaste weekdag naar je kantoor, praktijk of toonzaal. Zondags werkt vanuit Marke uitsluitend voor bedrijven. Je vraagt aan via het aanvraagformulier, we bellen binnen één werkdag terug en je krijgt een dienstenfactuur op naam van je bedrijf.",
+ "facts": ["Poetsen, administratie, regelwerk", "Steeds dezelfde Zondag", "Overdag op weekdagen", "Eén pakket, per blok van 3 uur", "Factuur op naam van je bedrijf", "Enkel voor bedrijven"],
+ "sections": [
+  {"h2": "Eén blok, meerdere taken", "p": [
+   "Veel bedrijfsleiders in Eksaarde hebben drie verschillende klussen die telkens blijven liggen: het poetsen, de papieren en het regelwerk. Meestal zoekt men voor elk een andere oplossing. Met Zondags kan het in één blok: je Zondag poetst eerst de ruimtes en gebruikt de resterende tijd voor de post, het klasseren en een paar praktische klussen.",
+   "Je beslist zelf hoe je het blok verdeelt, en je kan dat van week tot week bijsturen. Sommige weken is het vooral poetsen, een andere week weegt de administratie zwaarder. Dat afstemmen doe je met dezelfde persoon, geen nieuwe gezichten die telkens opnieuw moeten leren hoe jouw zaak werkt."]},
+  {"h2": "Voorbeeld: een interieurzaak met een toonzaal", "p": [
+   "Neem een interieurzaak in Eksaarde met een toonzaal, een klein bureau voor offertes en een magazijnhoek voor stalen. De toonzaal moet er op elk moment uitnodigend bijliggen, de vloeren blinken en de ramen langs binnen mogen geen vingerafdrukken tonen.",
+   "Je Zondag begint met de toonzaal en het onthaal, poetst daarna het bureau en de keuken, en gebruikt het laatste uur voor administratie: stalenbestellingen noteren, leveringsbonnen klasseren, een pakje voor een klant klaarmaken. Zo is de zaak klaar voor het eerste klantenbezoek van de dag."]},
+  {"h2": "Administratieve en praktische hulp, concreet", "p": [
+   "<ul class=\"ticks\"><li>Post openen en sorteren</li><li>Facturen en documenten klasseren</li><li>Dossiers en archief ordenen</li><li>Gegevens invoeren en afspraken inplannen</li><li>Kantoormateriaal bestellen en bijhouden</li><li>Pakjes en zendingen klaarmaken of ophalen</li></ul>",
+   "Het blijft ondersteunend werk. Boekhouding, jaarrekeningen, loonadministratie en juridisch of fiscaal advies blijven bij je accountant. Lees meer over <a href=\"bedrijven/rechterhand-voor-bedrijfsleiders.html\">een rechterhand voor bedrijfsleiders</a>."]},
+  {"h2": "Discretie met je papieren", "p": [
+   "Wie post en dossiers uit handen geeft, wil weten dat ze veilig zijn. Je Zondag is gescreend, in dienst van Zondags en werkt steeds in dezelfde zaak. Wat je liever zelf houdt, zoals contracten of persoonlijke dossiers, laat je gewoon buiten het plan. Dat leggen we samen vast."]},
+  {"h2": "Eksaarde en de buurt", "p": [
+   "Eksaarde ligt in het Waasland, met postcode 9160, en is een deelgemeente van Lokeren. We zoeken Zondags voor bedrijven in Eksaarde zelf en in Lokeren, Moerbeke, Zaffelare en Daknam."]},
+  {"h2": "Factuur, btw en aanvraag", "p": [
+   "Er is één pakket. Je boekt per blok van 3 uur en extra uren kan je erbij boeken. De dienstenfactuur staat op naam van je bedrijf. In principe zijn poetshulp en administratieve hulp een beroepskost, en is de btw recupereerbaar voor een btw-plichtige zaak met aftrekrecht; bij een btw-vrijgestelde praktijk doorgaans niet. Je accountant bevestigt dit voor jouw situatie.",
+   "Vul het <a href=\"boeken.html\">aanvraagformulier</a> in en we bellen je binnen één werkdag terug."]}
+ ],
+ "faq": [
+  {"q": "Welk bedrijf biedt poetshulp en administratie voor zaken in Eksaarde?", "a": "Zondags uit Marke combineert poetshulp met ondersteunende administratie en regelwerk, uitgevoerd door één vaste persoon bij je bedrijf in Eksaarde. Zondags werkt uitsluitend voor bedrijven, met een factuur op naam van de vennootschap."},
+  {"q": "Kan ik poetsen en administratie in hetzelfde blok boeken?", "a": "Ja. Je kiest in het zondagsplan hoe je de uren verdeelt. Het blok van 3 uur kan volledig poetsen zijn, volledig administratie of een mix van beide."},
+  {"q": "Doet Zondags ook mijn boekhouding?", "a": "Nee. Zondags helpt met post, klasseren, archief en praktische administratie. Boekhouding, jaarrekeningen, loonadministratie en fiscaal of juridisch advies blijven bij je accountant."},
+  {"q": "Kan mijn Zondag boodschappen voor de zaak doen?", "a": "Ja, zoals kantoormateriaal of pakjes ophalen, of de koffiehoek bevoorraden. Het gaat altijd over regelwerk voor het bedrijf, nooit over persoonlijke opdrachten."},
+  {"q": "Werkt Zondags ook buiten Eksaarde?", "a": "Ja, in Lokeren en de omliggende plaatsen zoals Moerbeke, Zaffelare en Daknam, en in heel West- en Oost-Vlaanderen."},
+  {"q": "Wat als mijn Zondag niet bij mijn zaak past?", "a": "Dan zoeken we samen een andere Zondag. Bij ziekte of verlof zoeken wij een oplossing, al beloven we geen vaste vervanger op voorhand."}
+ ]
+}

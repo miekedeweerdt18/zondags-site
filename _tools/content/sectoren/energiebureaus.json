@@ -1,0 +1,81 @@
+{
+ "title": "Poetshulp voor energiebureaus en deskundigen",
+ "desc": "Poetshulp en administratieve hulp voor een energiebureau of energiedeskundige: kantoor, meetmateriaal blijft onaangeroerd, vergaderruimte en dossiers.",
+ "eyebrow": "Energiebureaus",
+ "h1": "Poetshulp voor energiebureaus en energiedeskundigen",
+ "lead": "Een energiedeskundige rijdt veel rond en laat daardoor het kantoor al eens liggen. Een vaste Zondag houdt de bureaus verzorgd en helpt dossiers en afspraken ordenen, zonder je meettoestellen aan te raken.",
+ "answer": "Zondags (zondags.be) levert poetshulp en ondersteunende administratieve hulp aan energiebureaus en energiedeskundigen in West- en Oost-Vlaanderen. Je Zondag, steeds dezelfde persoon, verzorgt bureaus, vergaderruimte, keukentje en sanitair en laat meetmateriaal ongemoeid. Ze kan dossiers klasseren, afspraken inplannen en pakjes klaarmaken. Technische rapporten en adviezen blijven bij jou. Je vraagt aan via het aanvraagformulier.",
+ "facts": [
+  "Bureaus, vergaderruimte, keukentje, sanitair",
+  "Meetmateriaal wordt niet aangeraakt",
+  "Dossiers klasseren en afspraken plannen",
+  "Steeds dezelfde Zondag",
+  "Eén pakket, per blok van 3 uur",
+  "Dienstenfactuur op naam van je bedrijf"
+ ],
+ "sections": [
+  {
+   "h2": "Een kantoor dat wisselt tussen leeg en vol",
+   "p": [
+    "Een energiedeskundige is een groot deel van de week bij klanten. Het kantoor staat dan stil, om vervolgens met een stapel meetgegevens, plannen en rapporten vol te lopen op de dagen dat het team aanwezig is. Net daardoor blijft het opruimen liggen.",
+    "De kracht van een vaste Zondag is dat ze komt op een dag dat het rustig is, bijvoorbeeld wanneer het team op plaatsbezoek is, en het kantoor opnieuw klaarzet voor wie terugkomt."
+   ]
+  },
+  {
+   "h2": "Wat de beurt bevat",
+   "p": [
+    "<ul class=\"ticks\"><li>Bureaus afnemen zonder rondslingerende plannen te verplaatsen</li><li>Meetmateriaal, camera's en toestellen blijven onaangeroerd</li><li>Vergaderruimte met tafel, stoelen en whiteboard gepoetst</li><li>Keukentje, koffiehoek en koelkast</li><li>Sanitair, vloeren en afval</li></ul>",
+    "Heb je een rek of kist met toestellen, dan wijs je dat bij de start aan en blijft het zo. Ze stoft enkel de buitenkant van het rek af als je dat uitdrukkelijk vraagt."
+   ]
+  },
+  {
+   "h2": "Administratieve hulp bij dossiers en afspraken",
+   "p": [
+    "Dossiers van een energiebureau bevatten audits, foto's, facturen en briefwisseling met opdrachtgevers. Je Zondag kan ze volgens jouw structuur ordenen, de post sorteren en nieuwe stukken bijvoegen. Afspraken voor plaatsbezoeken inplannen in jouw agenda kan ook, op basis van jouw instructies.",
+    "Ze maakt geen rapporten, doet geen metingen en stelt geen attesten op. Boekhouding en juridische vragen blijven bij jou en je accountant."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een bureau met twee deskundigen en een assistente",
+   "p": [
+    "Stel: je hebt een energiebureau met twee deskundigen die de meeste dagen op het terrein zijn en een deeltijdse assistente. Op dinsdagvoormiddag is niemand op kantoor. Je Zondag poetst, sorteert de post van de week en legt de nieuwe auditmappen op de bureau van de juiste persoon. Als de deskundigen woensdag terugkomen, ligt alles klaar."
+   ]
+  },
+  {
+   "h2": "Wat bij jouw team blijft",
+   "p": [
+    "Een korte afspraak voorkomt discussie: toestellen en laders ruimt je team zelf op in een kast, plannen en maquettes gaan op een vaste plaats en kabels blijven niet op de vloer liggen. Dan weet je Zondag wat vrij is, en loopt de beurt zonder vragen."
+   ]
+  },
+  {
+   "h2": "Factuur en aanvraag",
+   "p": [
+    "Je krijgt één pakket voor alle taken en betaalt per blok van 3 uur, met extra uren op aanvraag. De dienstenfactuur staat op naam van je bedrijf. In principe is het een beroepskost en kan de btw in principe recupereerbaar zijn voor een btw-plichtig bedrijf met aftrekrecht. Laat je accountant dit bevestigen.",
+    "Gebruik het <a href=\"boeken.html\">aanvraagformulier</a> of vraag eerst <a href=\"aanvraag.html\">vrijblijvend info</a>. We bellen je binnen één werkdag terug en leggen samen het zondagsplan vast."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Raakt de poetshulp mijn meettoestellen aan?",
+   "a": "Nee. Meetmateriaal, camera's en andere toestellen blijven onaangeroerd. Je wijst bij de start aan welke zone vrij is, en daar houdt je Zondag zich aan."
+  },
+  {
+   "q": "Kan mijn Zondag dossiers van audits ordenen?",
+   "a": "Ja, als ondersteunend werk. Ze ordent mappen volgens jouw indeling en voegt documenten toe. Ze schrijft geen rapporten en maakt geen attesten."
+  },
+  {
+   "q": "Kan de beurt plaatsvinden als het team op plaatsbezoek is?",
+   "a": "Ja. Dat is eigenlijk het ideale moment. Je Zondag werkt overdag op weekdagen, op een vaste dag en uur, ook als er niemand op kantoor is."
+  },
+  {
+   "q": "Werkt Zondags ook bij het meten of op de werf?",
+   "a": "Nee. We werken enkel in je kantoor. Plaatsbezoeken, metingen en technisch werk vallen buiten ons aanbod."
+  },
+  {
+   "q": "Hoe begin ik met poetshulp voor mijn bureau?",
+   "a": "Vul het aanvraagformulier in. We bellen je binnen één werkdag terug en bespreken taken, dagen en uren."
+  }
+ ],
+ "path": "sectoren/energiebureaus.html"
+}

@@ -1,0 +1,81 @@
+{
+ "title": "Poetshulp voor verhuurkantoren van wagens en materiaal",
+ "desc": "Poetshulp voor het onthaal, de balie, wachtruimte en het kantoor van een verhuurkantoor. Voertuigen en verhuurmateriaal reinigen we niet. Eén vaste Zondag.",
+ "eyebrow": "Verhuurkantoren",
+ "h1": "Poetshulp voor verhuurkantoren van wagens en materiaal",
+ "lead": "Bij een verhuurkantoor loopt de klant voor de sleutel binnen en vertrekt even snel. Een vaste Zondag zorgt dat balie, wachtruimte en kantoor telkens klaar zijn, zonder aan wagens of materiaal te komen.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor verhuurkantoren van wagens en materiaal in West- en Oost-Vlaanderen. Je Zondag, steeds dezelfde persoon, verzorgt de balie, het onthaal, de wachtruimte, het kantoor en het sanitair. Het reinigen van voertuigen en verhuurmateriaal valt buiten ons werk. Ze kan daarnaast contracten en dossiers klasseren. Je vraagt aan via het aanvraagformulier en betaalt per blok van 3 uur.",
+ "facts": [
+  "Balie, onthaal, wachtruimte, kantoor",
+  "Voertuigen en materiaal worden niet gereinigd",
+  "Contracten en dossiers klasseren",
+  "Steeds dezelfde Zondag",
+  "Eén pakket, per blok van 3 uur",
+  "Dienstenfactuur op naam van je bedrijf"
+ ],
+ "sections": [
+  {
+   "h2": "Een balie die elke dag ontelbare keren wordt aangeraakt",
+   "p": [
+    "Klanten komen binnen om een bestelwagen, een verhuiswagen of bouwmateriaal op te halen. Ze leggen hun identiteitskaart en rijbewijs op de balie, tekenen een contract en pakken een sleutel. Op die ene vierkante meter valt veel vuil samen: handen, pennen, schermen, toetsenborden.",
+    "In de wachtruimte zit het ritme anders. Soms is er niemand, soms wachten er vijf mensen op de terugkeer van een wagen. Een goede basis maakt dat het onthaal er in beide situaties verzorgd uitziet."
+   ]
+  },
+  {
+   "h2": "Waar je Zondag aan werkt, waar niet",
+   "p": [
+    "<ul class=\"ticks\"><li>Balie met scherm, pennenhouder en folders</li><li>Wachtruimte: stoelen, tafeltje, ramen langs binnen</li><li>Kantoor met bureaus, printer en archiefhoek</li><li>Sanitair voor klanten en team</li><li>Keukentje of koffiehoek en afval</li></ul>",
+    "Wagens, aanhangwagens, steigers, gereedschap en ander verhuurmateriaal worden niet door Zondags gereinigd. Ook het werkplaatsgedeelte of het terrein blijft buiten ons werk. Die grens is bewust zo getrokken."
+   ]
+  },
+  {
+   "h2": "Contracten en dossiers in orde",
+   "p": [
+    "Een verhuurkantoor loopt over van documenten: verhuurcontracten, plaatsbeschrijvingen, schadeformulieren, facturen en inspectiebladen. Je Zondag kan ze volgens jouw structuur klasseren, de post openen en sorteren, enveloppen klaarmaken en gegevens uit formulieren invoeren in je systeem.",
+    "Ze beoordeelt geen schade, stelt geen contracten op en geeft geen advies bij conflicten met klanten. Boekhouding en juridische kwesties blijven bij jou en je adviseurs."
+   ]
+  },
+  {
+   "h2": "Voorbeeld: een kantoor met twee loketmedewerkers en een eigen wagenpark",
+   "p": [
+    "Neem een verhuurkantoor met twee mensen aan de balie en een stuk terrein erachter met wagens en aanhangwagens. De drukste momenten zijn vroeg in de ochtend en op het einde van de dag. Je Zondag komt midden van de dag, wanneer het stiller is. Ze doet balie, wachtruimte en kantoor, en stopt de contracten van de dag in de juiste map. Het terrein laat ze volledig buiten beschouwing."
+   ]
+  },
+  {
+   "h2": "Planning in een zaak met wisselende drukte",
+   "p": [
+    "De pieken liggen bij verhuisperiodes, voor het bouwverlof en rond feestdagen. In die weken zakt de rust op het onthaal sneller. Je kan dan een extra blok toevoegen, zonder het gewone plan te veranderen. Zondags werkt niet 's avonds of in het weekend, ook al is je kantoor dan geopend."
+   ]
+  },
+  {
+   "h2": "Factuur en aanvraag",
+   "p": [
+    "Je krijgt één pakket voor alle taken en boekt per blok van 3 uur. Extra uren kunnen erbij. De dienstenfactuur staat op naam van je bedrijf. In principe is het een beroepskost en kan de btw in principe recupereerbaar zijn voor een btw-plichtige zaak met aftrekrecht. Laat je accountant dit bevestigen.",
+    "Vul het <a href=\"boeken.html\">aanvraagformulier</a> in. We bellen je binnen één werkdag terug en leggen samen het zondagsplan vast: taken, dagen, uren."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Reinigt Zondags ook de verhuurwagens of het materiaal?",
+   "a": "Nee. Voertuigen en verhuurmateriaal worden niet door Zondags gereinigd. We verzorgen de balie, het onthaal, de wachtruimte, het kantoor en het sanitair."
+  },
+  {
+   "q": "Kan Zondags helpen met verhuurcontracten?",
+   "a": "Als ondersteunend werk wel: contracten klasseren, in mappen leggen, de post sorteren en gegevens uit formulieren invoeren. Het opstellen of beoordelen van contracten doet ze niet."
+  },
+  {
+   "q": "Wanneer is de beste beurt in een verhuurkantoor?",
+   "a": "Op een rustig moment: midden van de dag, vroeg in de ochtend of over de middag. Zondags werkt overdag op weekdagen en nooit 's avonds of in het weekend."
+  },
+  {
+   "q": "Kan ik in drukke periodes extra uren bijboeken?",
+   "a": "Ja. Boven op je vaste beurt kan je extra blokken van 3 uur vragen voor drukkere weken."
+  },
+  {
+   "q": "Hoe vraag ik poetshulp aan voor mijn verhuurkantoor?",
+   "a": "Vul het aanvraagformulier in of vraag vrijblijvend info. We bellen je binnen één werkdag terug."
+  }
+ ],
+ "path": "sectoren/verhuurkantoren.html"
+}

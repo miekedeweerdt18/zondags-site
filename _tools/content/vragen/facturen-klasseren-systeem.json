@@ -1,0 +1,83 @@
+{
+ "path": "vragen/facturen-klasseren-systeem.html",
+ "title": "Facturen en documenten klasseren op kantoor",
+ "desc": "Hoe klasseer je facturen en documenten op kantoor? Een eenvoudig systeem met mappen, namen en vaste momenten, en hulp van een vaste Zondag.",
+ "eyebrow": "Vraag",
+ "h1": "Hoe klasseer je facturen en documenten op kantoor?",
+ "lead": "Een goed klassement is simpel genoeg om vol te houden. Hier lees je een opzet die in de meeste kleine zaken werkt.",
+ "answer": "Facturen en documenten klasseer je het best volgens één eenvoudige logica: eerst per soort (inkoop, verkoop, contracten, personeel), dan per jaar en dan per leverancier of klant, zowel op papier als digitaal. Zondags (zondags.be) stuurt één vaste persoon die post opent, documenten klasseert en dossiers ordent, ondersteunend en discreet. De boekhouding zelf, en wat je moet bewaren en hoe lang, bespreek je met je accountant.",
+ "facts": [
+  "Per soort, per jaar, per naam",
+  "Zelfde logica op papier en digitaal",
+  "Vast wekelijks moment",
+  "Geen boekhouding",
+  "Steeds dezelfde Zondag"
+ ],
+ "sections": [
+  {
+   "h2": "Kies één logica en blijf erbij",
+   "p": [
+    "De meeste systemen mislukken omdat er drie logica's door elkaar lopen: op datum, op naam en op onderwerp. Kies er één en gebruik die voor alles. Voor een kleine zaak werkt dit meestal goed: eerst de soort, dan het jaar, dan de naam.",
+    "Gebruik dezelfde mappenstructuur op papier en op je computer. Wie in beide dezelfde namen ziet, zoekt sneller.",
+    "Begin met de stukken van het lopende jaar. Oudere dossiers kunnen daarna in rustiger tempo aan bod komen, zodat je meteen de winst voelt waar je het het meest nodig hebt."
+   ]
+  },
+  {
+   "h2": "Een voorbeeld van een structuur",
+   "p": [
+    "<ul class=\"ticks\"><li>Inkoop: per jaar, daarna per leverancier</li><li>Verkoop: per jaar, daarna per klant</li><li>Contracten en verzekeringen: per type</li><li>Personeel: per persoon, afgeschermd en op slot</li><li>Algemeen en administratief: overheidsbrieven, vergunningen, offertes</li></ul>",
+    "Hang een kaartje met de structuur op de kast of in de gedeelde map. Nieuwe collega's vinden zo meteen hun weg."
+   ]
+  },
+  {
+   "h2": "Bestandsnamen en labels",
+   "p": [
+    "Digitaal helpt een vaste naam: de datum, de naam van de tegenpartij en het onderwerp in dezelfde volgorde. Op papier label je de rug van de ordner met het jaar en de soort. Een extra kleur voor dringende dossiers kan nuttig zijn.",
+    "Vermijd ‘diversen’. Een map die zo heet, groeit uit tot een nieuwe stapel."
+   ]
+  },
+  {
+   "h2": "Een vast moment om te klasseren",
+   "p": [
+    "Een systeem blijft enkel werken als er regelmatig wordt geklasseerd. Een wekelijks moment van een halfuur volstaat vaak voor een klein kantoor, meer als er veel post is. Je Zondag kan dit moment opnemen in de vaste beurt: post openen, facturen in de juiste map plaatsen, dossiers bijwerken.",
+    "Wat je zelf bewaart en voor hoe lang, bespreek je met je accountant. Je Zondag klasseert, maar beslist niet wat vernietigd mag worden.",
+    "Zet de nieuwe stukken van de week eerst in een tijdelijke map ‘te klasseren’. Zo weet je Zondag precies wat nieuw is en wat al een vaste plaats heeft."
+   ]
+  },
+  {
+   "h2": "Stel: een klein ingenieursbureau",
+   "p": [
+    "Neem een bureau van vier mensen dat in drie jaar tijd een berg ordners heeft opgebouwd zonder duidelijke structuur. De Zondag zet in twee beurten een nieuwe indeling op, labelt de ordners, en klasseert de recente facturen. Daarna doet ze elke woensdag de post en de nieuwe stukken.",
+    "Zo vinden collega's een document in een minuut, en weet de accountant waar de stukken liggen. Lees ook <a href=\"bedrijven/administratie-hulp-voor-bedrijven.html\">administratieve hulp voor bedrijven</a>."
+   ]
+  },
+  {
+   "h2": "Hoe Zondags je helpt",
+   "p": [
+    "Je vraagt een Zondag aan via het <a href=\"boeken.html\">aanvraagformulier</a>. We bellen je binnen één werkdag terug en bespreken welke documenten er zijn en hoe je ze wil bewaren. Daarna leggen we het zondagsplan vast. Je krijgt een dienstenfactuur op naam van je bedrijf."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Wat is het beste systeem om facturen te klasseren?",
+   "a": "Een eenvoudig systeem dat je volhoudt: per soort, dan per jaar, dan per naam. Gebruik dezelfde structuur op papier en digitaal."
+  },
+  {
+   "q": "Moet ik papieren facturen blijven bewaren?",
+   "a": "Dat hangt af van je situatie en van wat je accountant adviseert. Hoe lang je stukken moet bewaren is geen kwestie van onze pagina maar van je situatie, dus vraag dit na bij je accountant."
+  },
+  {
+   "q": "Kan mijn Zondag mijn facturen scannen en klasseren?",
+   "a": "Ja, het scannen, klasseren en ordenen van documenten hoort bij de ondersteunende administratieve hulp. Je geeft vooraf aan welke mappen en namen je wil gebruiken, en je Zondag volgt die structuur bij elke beurt."
+  },
+  {
+   "q": "Hoe vaak moet ik klasseren?",
+   "a": "Liefst wekelijks, ook al is het kort. Een kleine hoeveelheid per week blijft overzichtelijk, terwijl een stapel van een maand veel tijd vraagt."
+  },
+  {
+   "q": "Doet Zondags ook de boekhouding?",
+   "a": "Nee. Zondags doet geen boekhouding, jaarrekeningen of loonadministratie. Je accountant blijft de accountant, en je Zondag zorgt dat de stukken netjes klaarliggen voor hem."
+  }
+ ]
+}

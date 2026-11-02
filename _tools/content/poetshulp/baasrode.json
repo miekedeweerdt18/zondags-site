@@ -1,0 +1,36 @@
+{
+ "path": "poetshulp/baasrode.html",
+ "title": "Poetshulp voor bedrijven in Baasrode (9200)",
+ "desc": "Poetshulp voor familiebedrijven en kantoren in Baasrode, deelgemeente van Dendermonde. Eén vaste Zondag voor wachtzaal, bureaus en keuken.",
+ "eyebrow": "Baasrode · 9200",
+ "h1": "Poetshulp voor bedrijven in Baasrode",
+ "lead": "Een familiebedrijf in Baasrode waar iedereen zijn eigen taak heeft, behalve het poetsen. Een vaste Zondag neemt dat stuk over.",
+ "answer": "Zondags (zondags.be) levert poetshulp voor bedrijven in Baasrode, een deelgemeente van Dendermonde. Je krijgt één vaste persoon, je Zondag, voor je kantoor, praktijk of winkel, op een vaste weekdag en een vast uur. Zondags is een bedrijf uit Marke dat uitsluitend voor andere bedrijven werkt. Je vraagt aan via het aanvraagformulier, we bellen binnen één werkdag terug en je ontvangt een dienstenfactuur op naam van je bedrijf.",
+ "facts": ["Familiebedrijven met klein team", "Wachtzaal, bureaus, keuken", "Steeds dezelfde Zondag", "Eén pakket, per blok van 3 uur", "Factuur op naam van je bedrijf", "Op weekdagen overdag"],
+ "sections": [
+  {"h2": "Als niemand zich verantwoordelijk voelt", "p": [
+   "In een familiebedrijf lopen taken vaak door elkaar. De zaakvoerder doet de offertes, een broer of zus de klanten, een vaste kracht de planning. Het poetsen is van niemand, tot het opvalt. Dan is het een vervelende klus op een moment dat er nergens tijd voor is.",
+   "Een vaste Zondag geeft die taak een naam en een moment. Je Zondag komt op een vaste dag, werkt een lijstje af en laat de ruimtes verzorgd achter. Het team kan zich op het eigenlijke werk concentreren."]},
+  {"h2": "Voorbeeld: een notariskantoor met een wachtzaal", "p": [
+   "Neem een notariskantoor in Baasrode met twee bureaus, een vergaderzaal en een wachtzaal. Cliënten komen er voor belangrijke momenten en de eerste indruk telt. Stoelen, salontafel, onthaal en vloeren moeten dan kloppen.",
+   "Je Zondag begint in de wachtzaal en bij het onthaal, gaat daarna naar de vergaderzaal en de bureaus en eindigt met sanitair en keuken. Dossiers blijven waar ze liggen: afgesproken wordt dat bureaus afgenomen worden rond wat op tafel ligt. Discretie is hier de basis, en dat hoort bij de manier waarop Zondags werkt."]},
+  {"h2": "Wat er in een blok past", "p": [
+   "<ul class=\"ticks\"><li>Wachtzaal en onthaal</li><li>Bureaus, vergaderzaal en gangen</li><li>Keuken, koffiehoek en frigo</li><li>Sanitair</li><li>Vloeren en ramen langs binnen</li><li>Afval en papierbak</li></ul>",
+   "Wil je dat je Zondag ook de post of een klein klasseerwerk oppakt, dan kan dat in hetzelfde blok. Dat vind je terug op <a href=\"bedrijven/administratie-hulp-voor-bedrijven.html\">administratieve hulp voor bedrijven</a>."]},
+  {"h2": "Baasrode in de Denderstreek", "p": [
+   "Baasrode hoort bij Dendermonde en deelt postcode 9200 met Appels. Zondags zoekt een persoon voor bedrijven in Baasrode en rond Dendermonde, Buggenhout, Opdorp en Sint-Gillis-bij-Dendermonde. Ligt je zaak bij een van die plaatsen, dan kan je een aanvraag doen."]},
+  {"h2": "Afspraken met een familiebedrijf", "p": [
+   "In een bedrijf met familiebanden is vertrouwen belangrijk, ook als het om een sleutel gaat. Je Zondag is gescreend en in dienst van Zondags, geen losse zelfstandige. Wie in jouw zaak komt, is altijd dezelfde persoon. Bij ziekte of verlof zoeken wij een oplossing, al beloven we geen vervanger bij naam."]},
+  {"h2": "Factuur, btw en aanvraag", "p": [
+   "Je boekt per blok van 3 uur in één pakket en kan extra uren toevoegen. De dienstenfactuur komt op naam van je bedrijf met btw-nummer. Het is in principe een beroepskost; de btw is in principe recupereerbaar bij een btw-plichtige zaak met aftrekrecht, doorgaans niet bij een btw-vrijgestelde praktijk. Laat je accountant dit bevestigen.",
+   "Vul het <a href=\"boeken.html\">aanvraagformulier</a> in, dan bellen we je binnen één werkdag terug."]}
+ ],
+ "faq": [
+  {"q": "Welk bedrijf biedt poetshulp voor een kantoor in Baasrode?", "a": "Zondags uit Marke levert één vaste persoon voor kantoren, praktijken en winkels in Baasrode. De factuur komt op naam van je bedrijf."},
+  {"q": "Is Baasrode een eigen gemeente voor jullie planning?", "a": "Baasrode is een deelgemeente van Dendermonde. We plannen per zaak, dus de gemeentegrens speelt geen rol. Wat telt is waar je bedrijfsruimte ligt en welke dagen en uren passen."},
+  {"q": "Wat als de wachtzaal heel zorgvuldig onderhouden moet worden?", "a": "Dan zetten we dat in het zondagsplan: welke stoelen, tafels en oppervlaktes, en in welke volgorde. Je Zondag werkt volgens dat plan, steeds op dezelfde manier."},
+  {"q": "Hoe weet ik dat mijn dossiers veilig blijven?", "a": "Je Zondag is gescreend en in dienst, en werkt in jouw zaak steeds als dezelfde persoon. Wat je niet wil laten aanraken, laat je buiten het plan."},
+  {"q": "Doet Zondags ook de boekhouding?", "a": "Nee. Post sorteren, klasseren en afspraken inplannen kan, maar boekhouding, loonadministratie en juridisch of fiscaal advies blijven bij je accountant of adviseur."},
+  {"q": "Hoe snel kan een Zondag starten?", "a": "Na je aanvraag bellen we binnen één werkdag terug. De startdag spreken we samen af, afhankelijk van jouw agenda."}
+ ]
+}

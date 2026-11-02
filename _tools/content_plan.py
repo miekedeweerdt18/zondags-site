@@ -888,6 +888,141 @@ def block_w6():
         out.append(dict(id=f'vragen/{s_}', path=f'vragen/{s_}.html', kind='vraag', group='vragen', h1=q))
     return out
 
+
+# ---------------- WEEK 7 (2 NOVEMBER 2026): 200 extra B2B-pagina's ----------------
+# Mieke (26/10): genoeg sollicitanten, nu vooral bedrijven aantrekken. Daarom deze week geen nieuwe kandidatenpagina's.
+# Nieuwe deelgemeenten in Oost-Vlaanderen (postcodes bpost), winkels en praktijken in de gemeenten die die pagina nog niet hadden,
+# extra sectoren en vragen van bedrijven.
+W7_PLAATSEN = [
+ ("Zwijndrecht","2070",OV,"deelgemeente","Beveren-Kruibeke-Zwijndrecht",[],["Burcht","Kruibeke","Melsele","Beveren"],"Waasland"),
+ ("Burcht","2070",OV,"deelgemeente","Beveren-Kruibeke-Zwijndrecht",[],["Zwijndrecht","Kruibeke","Melsele"],"Waasland"),
+ ("Melsele","9120",OV,"deelgemeente","Beveren-Kruibeke-Zwijndrecht",[],["Beveren","Zwijndrecht","Haasdonk","Kruibeke","Burcht"],"Waasland"),
+ ("Haasdonk","9120",OV,"deelgemeente","Beveren-Kruibeke-Zwijndrecht",[],["Beveren","Melsele","Kruibeke","Nieuwkerken-Waas"],"Waasland"),
+ ("Nevele","9850",OV,"deelgemeente","Deinze",[],["Deinze","Landegem","Merendree","Vinkt","Lievegem"],"Leiestreek"),
+ ("Lovendegem","9920",OV,"deelgemeente","Lievegem",[],["Vinderhoute","Zomergem","Evergem","Mariakerke","Merendree"],"Meetjesland"),
+ ("Zomergem","9930",OV,"deelgemeente","Lievegem",[],["Lovendegem","Waarschoot","Oostwinkel","Sleidinge"],"Meetjesland"),
+ ("Waarschoot","9950",OV,"deelgemeente","Lievegem",[],["Zomergem","Eeklo","Sleidinge","Lembeke"],"Meetjesland"),
+ ("Sleidinge","9940",OV,"deelgemeente","Evergem",[],["Evergem","Waarschoot","Lovendegem","Zomergem"],"regio Gent"),
+ ("Ertvelde","9940",OV,"deelgemeente","Evergem",[],["Evergem","Kluizen","Assenede","Zelzate","Kaprijke"],"regio Gent"),
+ ("Knesselare","9910",OV,"deelgemeente","Aalter",[],["Ursel","Aalter","Maldegem","Beernem"],"Meetjesland"),
+ ("Ursel","9910",OV,"deelgemeente","Aalter",[],["Knesselare","Aalter","Oostwinkel","Zomergem"],"Meetjesland"),
+ ("Kruishoutem","9770",OV,"deelgemeente","Kruisem",[],["Zingem","Nokere","Waregem","Wannegem-Lede","Oudenaarde"],"Vlaamse Ardennen"),
+ ("Zingem","9750",OV,"deelgemeente","Kruisem",[],["Huise","Kruishoutem","Gavere","Ouwegem","Oudenaarde"],"Vlaamse Ardennen"),
+ ("Eksaarde","9160",OV,"deelgemeente","Lokeren",[],["Lokeren","Moerbeke","Zaffelare","Daknam"],"Waasland"),
+ ("Appels","9200",OV,"deelgemeente","Dendermonde",[],["Dendermonde","Oudegem","Schoonaarde","Berlare"],"Denderstreek"),
+ ("Baasrode","9200",OV,"deelgemeente","Dendermonde",[],["Dendermonde","Buggenhout","Opdorp","Sint-Gillis-bij-Dendermonde"],"Denderstreek"),
+ ("Meerbeke","9402",OV,"deelgemeente","Ninove",[],["Ninove","Denderwindeke","Pollare","Neigem"],"Denderstreek"),
+ ("Idegem","9506",OV,"deelgemeente","Geraardsbergen",[],["Geraardsbergen","Zandbergen","Schendelbeke","Grimminge","Appelterre-Eichem"],"Denderstreek"),
+ ("Moerzeke","9220",OV,"deelgemeente","Hamme",[],["Hamme","Grembergen","Zele","Dendermonde"],"Scheldeland"),
+ ("Overmere","9290",OV,"deelgemeente","Berlare",[],["Berlare","Uitbergen","Zele","Kalken","Laarne"],"Scheldeland"),
+ ("Kalken","9270",OV,"deelgemeente","Laarne",[],["Laarne","Overmere","Wetteren","Berlare"],"Scheldeland"),
+ ("Zaffelare","9080",OV,"deelgemeente","Lochristi",[],["Lochristi","Eksaarde","Wachtebeke","Zeveneken","Beervelde"],"regio Gent"),
+ ("Wieze","9280",OV,"deelgemeente","Lebbeke",[],["Lebbeke","Denderbelle","Oudegem","Aalst"],"Denderstreek"),
+]
+PLAATSEN += W7_PLAATSEN
+PL_MAP.update({p[0]: p for p in W7_PLAATSEN})
+W7_NEW = [p[0] for p in W7_PLAATSEN]
+_H7 = [p[0] for p in PLAATSEN if p[3] != 'deelgemeente']
+W7_WINKEL = [c for c in _H7 if not _ex(f'regio/schoonmaak-winkel-{slug(c)}')]
+W7_PRAKTIJK = [c for c in _H7 if not _ex(f'regio/schoonmaak-praktijk-{slug(c)}')]
+W7_SECTOREN = [
+ ("orthodontiepraktijken", "Poetshulp voor orthodontiepraktijken", "wachtzaal met veel jonge en volwassen patiënten, onthaalbalie, behandelruimtes (oppervlakken, vloeren, geen instrumenten of sterilisatie), sanitair, administratieve hulp bij post en klasseren", "artsen"),
+ ("ergotherapiepraktijken", "Poetshulp voor ergotherapiepraktijken", "behandelruimte met oefenmateriaal en tafels afnemen, wachtruimte, sanitair, vloeren; geen medisch materiaal; administratieve hulp bij afspraken en dossiers", "artsen"),
+ ("pedicurepraktijken", "Poetshulp voor pedicurepraktijken", "kleine praktijk met behandelstoel: vloer, oppervlakken, wachthoek, sanitair, afval; geen instrumenten of sterilisatie; vaak een praktijk in een winkelpand", "artsen"),
+ ("massagepraktijken", "Poetshulp voor massagepraktijken", "rustige behandelruimtes, onthaal, kleedhoek, sanitair, vloeren, linnen verzamelen voor de wasdienst van de praktijk (niet zelf wassen); poetsen buiten de afspraken", ""),
+ ("nagelstudios", "Poetshulp voor nagelstudio's", "werktafels en rekken afstoffen, vloer met stof en vijlsel, wachthoek, sanitair, afval; geen producten of instrumenten van de studio behandelen", ""),
+ ("barbershops", "Poetshulp voor barbershops", "haar op de vloer tussen de klanten door blijft voor het team; Zondags doet de grondige poets: stoelen, spiegels, toonbank, wachthoek, sanitair, achterruimte", ""),
+ ("muziekwinkels", "Poetshulp voor muziekwinkels", "winkelruimte met instrumenten en rekken (afstoffen rond het materiaal, niet aan instrumenten zelf), toonbank, oefenhoek, stockruimte, sanitair", ""),
+ ("kunstgalerijen", "Poetshulp voor kunstgalerijen", "lege vloeren en wanden, sokkels voorzichtig afstoffen zonder werken aan te raken, onthaal, kantoor achteraan, sanitair; klaarzetten voor een opening op een weekdag", ""),
+ ("antiekzaken", "Poetshulp voor antiekzaken", "winkelruimte met kwetsbare stukken: vloeren, gangpaden, toonbank, kantoor en sanitair; stukken zelf blijven voor de zaakvoerder", ""),
+ ("tweedehandswinkels", "Poetshulp voor tweedehandswinkels en kringwinkels", "winkelvloer, rekken en paskamers, toonbank, sorteerruimte en refter van het team, sanitair; overdag op weekdagen", ""),
+ ("keukenwinkels", "Poetshulp voor keukenwinkels en keukenshowrooms", "toonzaal met opstellingen: werkbladen, fronten en glas langs binnen, vloeren, ontwerphoek voor klantgesprekken, onthaal, sanitair", ""),
+ ("badkamerwinkels", "Poetshulp voor badkamerwinkels", "toonzaal met opstellingen van badkamers: spiegels, glas, kranen en tegels in de opstellingen afnemen, vloeren, ontwerphoek, sanitair van de zaak", ""),
+ ("tegelhandels", "Poetshulp voor tegelhandels", "toonzaal met stalen en panelen: stof van de vloer, rekken met stalen, onthaal en kantoor, sanitair; geen magazijn of opslag buiten", ""),
+ ("beddenwinkels", "Poetshulp voor beddenwinkels en matrassenzaken", "toonzaal met bedden en matrassen: beschermhoezen controleren, vloeren onder en rond de bedden, onthaal, kantoor, sanitair", ""),
+ ("vloerenwinkels", "Poetshulp voor vloerenwinkels", "toonzaal met vloerstalen: stalen netjes terugleggen, stof en zand van de vloer, onthaal en kantoor, sanitair", ""),
+ ("raamdecoratiezaken", "Poetshulp voor zaken in raamdecoratie en gordijnen", "toonzaal met stalen en opstellingen: afstoffen, vloeren, ontwerptafel, onthaal, sanitair; atelier enkel kantoorgedeelte", ""),
+ ("verfwinkels", "Poetshulp voor verfwinkels", "winkelruimte met rekken en mengtoog (enkel toog afnemen, geen mengmachine), vloeren, kantoor, sanitair", ""),
+ ("ijzerwarenwinkels", "Poetshulp voor ijzerwarenwinkels en doe-het-zelfzaken", "winkelgangen en rekken afstoffen, kassazone, kantoor, refter van het team, sanitair; geen magazijn of buitenterrein", ""),
+ ("computerwinkels", "Poetshulp voor computerwinkels en herstelzaken", "winkelruimte, demotoestellen afstoffen (niet openmaken), toonbank, werkplaatsbureau, sanitair, verpakkingsafval", ""),
+ ("bandencentrales", "Poetshulp voor bandencentrales", "onthaal en wachtruimte voor klanten, koffiehoek, kantoor, sanitair en refter van de ploeg; geen werkplaats of voertuigen", ""),
+ ("carrosseriebedrijven", "Poetshulp voor carrosseriebedrijven", "onthaal, kantoor voor schadedossiers, wachtruimte, sanitair en refter; geen werkplaats, spuitcabine of voertuigen; administratieve hulp bij klasseren", ""),
+ ("schrijnwerkerijen", "Poetshulp voor schrijnwerkerijen", "kantoor en toonzaal van de schrijnwerker, refter en kleedruimte, sanitair; geen atelier of machines", ""),
+ ("vastgoedbeheerders", "Poetshulp voor kantoren van vastgoedbeheerders", "kantoor met veel dossiers en sleutels: bureaus, vergaderruimte, onthaal, sanitair; administratieve hulp bij klasseren en post", ""),
+ ("managementvennootschappen", "Poetshulp voor managementvennootschappen", "een zaakvoerder met een eigen kantoor in een bedrijfsgebouw: kantoor, vergaderhoek, keukentje, sanitair; rechterhand voor regelwerk van de vennootschap", "bedrijven"),
+ ("fiscale-adviseurs", "Poetshulp voor kantoren van fiscalisten en belastingconsulenten", "kantoor met vertrouwelijke dossiers, piekperiodes, wachthoek, vergaderruimte, sanitair; administratieve hulp is ondersteunend en nooit fiscaal werk", ""),
+ ("vermogensbeheerders", "Poetshulp voor kantoren van vermogensbeheerders en financieel planners", "discreet kantoor met ontvangstruimte voor klanten, vergaderzaal, archief, sanitair; klaarzetten voor klantgesprekken", ""),
+ ("kredietbemiddelaars", "Poetshulp voor kantoren van kredietbemiddelaars", "kantoor met gespreksruimte, onthaal, archief, sanitair; administratieve hulp bij post en klasseren, discretie met dossiers", ""),
+ ("bemiddelaarspraktijken", "Poetshulp voor praktijken van bemiddelaars", "rustige gespreksruimtes, wachthoek, sanitair, koffiehoek; poetsen buiten de gesprekken; discretie", ""),
+ ("videoproductiehuizen", "Poetshulp voor videoproductiehuizen", "kantoor, montageruimte (enkel vloer en oppervlakken, niet aan apparatuur), studio-ontvangst, keuken, sanitair", ""),
+ ("energiebureaus", "Poetshulp voor energiebureaus en energiedeskundigen", "kantoor met bureaus en meetmateriaal (niet aanraken), vergaderruimte, sanitair, keukentje; administratieve hulp bij dossiers en afspraken", ""),
+ ("sectorfederaties", "Poetshulp voor kantoren van beroeps- en sectorfederaties", "kantoor met vergaderzalen die vaak gebruikt worden, onthaal, keuken, sanitair; vergaderzalen klaarzetten op weekdagen", ""),
+ ("cooperaties", "Poetshulp voor coöperatieve vennootschappen", "kantoor en ontmoetingsruimte voor vennoten, keuken, sanitair; administratieve hulp bij post en vergaderingen", ""),
+ ("sportclubsecretariaten", "Poetshulp voor secretariaten van sportclubs", "secretariaat van een club als vzw: kantoor, vergaderzaal, kleedkamers en kantine overdag op weekdagen, sanitair; nooit tijdens wedstrijden in het weekend", ""),
+ ("verhuurkantoren", "Poetshulp voor verhuurkantoren van wagens en materiaal", "onthaal en balie, wachtruimte, kantoor, sanitair; geen voertuigen of materiaal reinigen", ""),
+ ("handelsagenten", "Poetshulp voor handelsagenten met een eigen kantoor", "kantoor met stalen en presentatiemateriaal, vergaderhoek, keukentje, sanitair; rechterhand voor pakjes en zendingen", "bedrijven"),
+ ("zelfstandige-consultants", "Poetshulp voor zelfstandige consultants met een vennootschap", "een eigen kantoor in een bedrijfscentrum of coworking: bureau, vergaderhoek, keukentje, sanitair; administratieve hulp en regelwerk voor de vennootschap", "bedrijven"),
+]
+W7_VRAGEN = [
+ ("hoeveel-uur-poetshulp-praktijk-twee-ruimtes", "Hoeveel poetshulp heb je nodig voor een praktijk met twee consultatieruimtes?"),
+ ("planten-op-kantoor-water-geven", "Kan een poetshulp ook de planten op kantoor water geven?"),
+ ("wie-poetst-keuken-op-kantoor", "Wie poetst de keuken op kantoor: het team of de poetshulp?"),
+ ("poetstaken-verdelen-klein-team", "Hoe verdeel je poetstaken in een klein team?"),
+ ("kantoor-kleiner-poetshulp", "Wat doe je met je poetshulp als je kantoor kleiner wordt?"),
+ ("poetsen-in-open-kantoor-tijdens-werkuren", "Kan je laten poetsen in een open kantoor terwijl het team werkt?"),
+ ("kantoor-klaar-voor-audit", "Hoe zet je je kantoor klaar voor een audit of klantenbezoek met inspectie?"),
+ ("archiefruimte-stofvrij", "Hoe hou je een archiefruimte stofvrij en ordelijk?"),
+ ("rommelige-stockruimte-aanpakken", "Hoe pak je een rommelige stockruimte van je zaak aan?"),
+ ("onthaalmap-nieuwe-poetshulp", "Wat hoort in een onthaalmap voor een nieuwe poetshulp op kantoor?"),
+ ("kantoor-met-veel-bezoekers", "Hoe hou je een kantoor met veel bezoekers proper?"),
+ ("praktijk-wisselende-consulturen", "Hoe plan je poetshulp in een praktijk met wisselende consulturen?"),
+ ("winkel-proper-tijdens-solden", "Hoe hou je je winkel proper tijdens de solden?"),
+ ("winkel-klaar-voor-eindejaar", "Hoe zet je je winkel klaar voor de eindejaarsperiode?"),
+ ("paskamers-proper-houden", "Hoe hou je paskamers proper en uitnodigend?"),
+ ("toonzaal-met-veel-glas", "Hoe hou je een toonzaal met veel glas langs binnen proper?"),
+ ("zelf-poetsen-als-zaakvoerder", "Moet je als zaakvoerder zelf blijven poetsen?"),
+ ("poetshulp-voor-nieuwe-vestiging", "Hoe regel je poetshulp voor een nieuwe vestiging?"),
+ ("administratieve-achterstand-wegwerken", "Hoe werk je een administratieve achterstand weg na een drukke periode?"),
+ ("facturen-klasseren-systeem", "Hoe klasseer je facturen en documenten op kantoor?"),
+ ("personeelsvergadering-praktisch-voorbereiden", "Hoe bereid je een personeelsvergadering praktisch voor?"),
+ ("praktijk-tussen-twee-patienten", "Hoe hou je een praktijk proper tussen twee patiënten door?"),
+ ("halve-of-volle-dag-poetshulp", "Kies je beter voor één lang poetsmoment of meerdere korte?"),
+ ("kantoor-klaar-voor-fotoshoot", "Hoe zet je je kantoor klaar voor een fotoshoot of filmopname?"),
+ ("werkplek-vertrekkende-medewerker", "Hoe maak je de werkplek van een vertrekkende medewerker leeg en proper?"),
+ ("verhuurde-vergaderzaal-proper", "Hoe hou je een vergaderzaal die je verhuurt proper?"),
+ ("poetsmateriaal-bewaren-op-kantoor", "Waar bewaar je poetsmateriaal op kantoor?"),
+ ("genoeg-tijd-voor-de-poetsbeurt", "Hoe weet je of je poetshulp genoeg tijd heeft?"),
+ ("kantoor-met-verdiepingen-poetsen", "Waar let je op bij poetshulp voor een kantoor met verdiepingen?"),
+ ("kantoor-jaren-niet-grondig-gepoetst", "Hoe pak je een kantoor aan dat lang niet grondig gepoetst is?"),
+ ("bureaustoelen-en-zetels-reinigen", "Kan een poetshulp bureaustoelen en zetels op kantoor reinigen?"),
+ ("whiteboards-en-vergadertafels", "Hoe hou je whiteboards en vergadertafels proper?"),
+ ("poetshulp-bij-vierdagenweek-team", "Hoe stem je poetshulp af op een team met een vierdagenweek?"),
+ ("poetshulp-bij-hybride-werken", "Hoeveel poetshulp heb je nodig als je team hybride werkt?"),
+ ("administratieve-hulp-voor-een-project", "Kan je administratieve hulp vragen voor één project?"),
+ ("vakbeurs-praktisch-voorbereiden", "Hoe bereid je een vakbeurs praktisch voor vanuit je kantoor?"),
+ ("winkel-met-veel-rekken-stofvrij", "Hoe hou je een winkel met veel rekken stofvrij?"),
+ ("vrijdag-kantoor-afsluiten-checklist", "Wat doe je op vrijdag om je kantoor netjes af te sluiten voor het weekend?"),
+ ("kantoor-opruimen-na-jaarafsluiting", "Hoe ruim je je kantoor op na de jaarafsluiting?"),
+ ("praktijk-klaar-voor-eerste-patient", "Hoe zet je je praktijk klaar voor de eerste patiënt van de dag?"),
+]
+def block_w7():
+    out = []
+    for i, c in enumerate(W7_NEW):
+        p = PL_MAP[c]; j = PLAATSEN.index(p)
+        out.append(dict(id=f'poetshulp/{slug(c)}', path=f'poetshulp/{slug(c)}.html', kind='stad', group='poetshulp',
+            h1=f'Poetshulp voor bedrijven in {c}', place=c, postcode=p[1], provincie=p[2], soort=p[3], deel_van=p[4],
+            deelgemeenten=p[5], in_de_buurt=p[6], streek=p[7], angle=ANGLES[(j * 3 + 1) % len(ANGLES)], scenario=SCEN[(j * 5 + 2) % len(SCEN)]))
+    out += [_dienst_page("schoonmaak-kantoor", c, i + 200) for i, c in enumerate(W7_NEW)]
+    out += [_dienst_page("schoonmaak-winkel", c, i + 240) for i, c in enumerate(W7_WINKEL)]
+    out += [_dienst_page("schoonmaak-praktijk", c, i + 300) for i, c in enumerate(W7_PRAKTIJK)]
+    for s_, h1, scope, dg in W7_SECTOREN:
+        d = dict(id=f'sectoren/{s_}', path=f'sectoren/{s_}.html', kind='sector', group='sectoren', h1=h1, scope=scope)
+        if dg: d['doelgroep'] = dg
+        out.append(d)
+    for s_, q in W7_VRAGEN:
+        out.append(dict(id=f'vragen/{s_}', path=f'vragen/{s_}.html', kind='vraag', group='vragen', h1=q))
+    return out
+
 EXTRA_VRAGEN = [("werkt-zondags-enkel-voor-bedrijven", "Werkt Zondags enkel voor bedrijven?")]
 def _has_content(p):
     return os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'content', p['id'] + '.json'))
@@ -903,7 +1038,9 @@ def plan():
     pages = [p for p in pages if p['id'] not in w5_ids]
     w6 = block_w6(); w6_ids = {p['id'] for p in w6}
     pages = [p for p in pages + w3 + w4 + w5 if p['id'] not in w6_ids]
-    return pages + w6
+    w7 = block_w7(); w7_ids = {p['id'] for p in w7}
+    pages = [p for p in pages + [p for p in w6 if _has_content(p)] if p['id'] not in w7_ids]
+    return pages + w7
 
 if __name__ == '__main__':
     P = plan()

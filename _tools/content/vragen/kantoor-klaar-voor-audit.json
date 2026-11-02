@@ -1,0 +1,76 @@
+{
+ "path": "vragen/kantoor-klaar-voor-audit.html",
+ "title": "Je kantoor klaarzetten voor een audit",
+ "desc": "Hoe zet je je kantoor klaar voor een audit of klantenbezoek met inspectie? Een praktische lijst voor orde, hygiëne en documenten, met hulp van een vaste Zondag.",
+ "eyebrow": "Vraag",
+ "h1": "Hoe zet je je kantoor klaar voor een audit of klantenbezoek met inspectie?",
+ "lead": "Een auditor of een grote klant met een inspectiebezoek ziet meer dan je denkt. Met een eenvoudige lijst en een goede planning ben je op tijd klaar.",
+ "answer": "Een kantoor klaarzetten voor een audit of inspectie begint met drie dingen: een ordelijke werkruimte, een duidelijk gemarkeerd dossiersysteem en verzorgde gemeenschappelijke ruimtes. Zondags (zondags.be) stuurt één vaste persoon die de ruimte op orde brengt, de documenten helpt klasseren en alles netjes klaarzet. Wat de audit zelf inhoudelijk vraagt, zoals boekhoudkundige of juridische controle, blijft bij jou en je adviseur. Je Zondag zorgt voor de praktische kant.",
+ "facts": [
+  "Ruimte, documenten, ontvangst",
+  "Dossiers klasseren en ordenen",
+  "Planning enkele dagen vooraf",
+  "Geen inhoudelijke audit",
+  "Steeds dezelfde Zondag"
+ ],
+ "sections": [
+  {
+   "h2": "Wat een bezoeker ziet",
+   "p": [
+    "Een bezoeker loopt niet door je cijfers, maar door je ruimte. De eerste indruk komt van het onthaal, de gang, de vergaderzaal en het sanitair. Een stapel papieren in de gang of een vergeten kopje in de vergaderzaal valt meer op dan je denkt.",
+    "Een goed voorbereid kantoor geeft de indruk van een zaak die haar zaken op orde heeft, en dat is precies wat een audit wil zien.",
+    "Vraag jezelf af wat jij zou opmerken als je het kantoor voor het eerst binnenstapte. Dat is meestal een betere gids dan een lange controlelijst."
+   ]
+  },
+  {
+   "h2": "Je lijst voor de dagen vooraf",
+   "p": [
+    "<ul class=\"ticks\"><li>Onthaal en wachtruimte: zichtbare spullen weg, folders netjes</li><li>Vergaderzaal: tafel, stoelen, scherm en koffiehoek klaar</li><li>Werkplekken: bureaus leeg of opgeruimd, geen losse papieren</li><li>Sanitair: gecontroleerd, bevoorraad, proper</li><li>Archief en dossiers: gelabeld, op de juiste plaats, toegankelijk</li><li>Koffie, water en kleine versnaperingen: voorzien</li></ul>",
+    "Werk van achteren naar voren: eerst de dossiers en het archief, dan de werkplekken, ten slotte het onthaal."
+   ]
+  },
+  {
+   "h2": "Documenten en dossiers ordenen",
+   "p": [
+    "Een auditor vraagt vaak om stukken die je zelf een tijd niet hebt gezien. Daarom loont het om dossiers te laten klasseren, ordners te labelen en een lijst te maken van waar wat staat. Je Zondag kan die ondersteunende taak overnemen, met de nodige discretie.",
+    "Wat niet kan: je Zondag doet geen boekhouding, geen jaarrekeningen en geen fiscaal of juridisch advies. De inhoud blijft bij jou en je accountant. Zie ook <a href=\"bedrijven/administratie-hulp-voor-bedrijven.html\">administratieve hulp voor bedrijven</a>."
+   ]
+  },
+  {
+   "h2": "De dag zelf",
+   "p": [
+    "Plan een korte beurt in de ochtend zelf, vlak voor het bezoek, voor de laatste check: sanitair, onthaal, koffiehoek. Zondags werkt overdag op weekdagen, vroeg in de ochtend of over de middag, dus dat kan perfect.",
+    "Daarna houdt het team zelf de gang van zaken in de gaten: koffie opnieuw bijvullen, de vergaderzaal tussen twee gesprekken opruimen."
+   ]
+  },
+  {
+   "h2": "Stel: een klant komt controleren",
+   "p": [
+    "Neem een leverancier die twee dagen vooraf hoort dat een grote klant komt kijken hoe zijn kantoor werkt. De zaakvoerder boekt een extra beurt, die de vergaderzaal, het sanitair en het onthaal klaarmaakt, terwijl de Zondag ook de dossiers die op het bureau liggen in ordners zet. De avond voor het bezoek hoef je niets meer te doen.",
+    "Een extra beurt vraag je aan via het <a href=\"boeken.html\">aanvraagformulier</a>. We bellen je binnen één werkdag terug. Plan dus een paar dagen vooraf."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Wanneer begin ik met voorbereiden?",
+   "a": "Liefst een paar dagen vooraf. Zo is er tijd om dossiers te klasseren en de ruimtes te poetsen zonder stress. Doe een aanvraag zodra de datum van het bezoek vastligt."
+  },
+  {
+   "q": "Kan Zondags helpen met de boekhouding voor een audit?",
+   "a": "Nee. Zondags doet geen boekhouding, geen jaarrekeningen en geen fiscaal of juridisch advies. Wel kan je Zondag dossiers klasseren en de ruimte voorbereiden."
+  },
+  {
+   "q": "Kan mijn Zondag documenten klasseren?",
+   "a": "Ja, ondersteunend klasseren van documenten en facturen hoort bij de administratieve hulp. Dat doet je Zondag discreet."
+  },
+  {
+   "q": "Hoeveel tijd heb ik nodig?",
+   "a": "Dat hangt af van de grootte van het kantoor en de staat van de dossiers. Begin met één blok van 3 uur en boek extra uren als blijkt dat er meer werk is."
+  },
+  {
+   "q": "Kan ik op de dag zelf nog een beurt plannen?",
+   "a": "Dat hangt af van de beschikbaarheid. Neem zo vroeg mogelijk contact op via telefoon of WhatsApp, dan zoeken we samen wat mogelijk is."
+  }
+ ]
+}
